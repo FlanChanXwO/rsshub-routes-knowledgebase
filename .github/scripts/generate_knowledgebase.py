@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import shutil
@@ -9,6 +10,10 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+
+
+def sha256_text(content: str) -> str:
+    return hashlib.sha256(content.encode("utf-8")).hexdigest()
 
 
 def parse_args() -> argparse.Namespace:
@@ -344,6 +349,67 @@ def write_text(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
+def build_metadata(
+    documents: list[Document],
+    namespaces_index: str,
+    namespace_indexes: dict[str, str],
+    root_readme: str,
+    source_repo: str,
+    source_revision: str,
+    generated_at: str,
+) -> dict[str, Any]:
+    files: list[dict[str, str]] = [
+        {
+            "path": "README.md",
+            "sha256": sha256_text(root_readme),
+        },
+        {
+            "path": "metadata.json",
+            "sha256": "",
+        },
+        {
+            "path": "index/namespaces.md",
+            "sha256": sha256_text(namespaces_index),
+        },
+    ]
+
+    for namespace in sorted(namespace_indexes):
+        files.append(
+            {
+                "path": f"index/{slugify(namespace)}.md",
+                "sha256": sha256_text(namespace_indexes[namespace]),
+            }
+        )
+
+    for document in sorted(documents, key=lambda item: item.relative_path):
+        files.append(
+            {
+                "path": document.relative_path,
+                "sha256": sha256_text(document.markdown),
+            }
+        )
+
+    metadata = {
+        "version": 1,
+        "generated_at": generated_at,
+        "source": {
+            "repo": source_repo,
+            "revision": source_revision,
+        },
+        "stats": {
+            "namespaces": len({document.namespace for document in documents}),
+            "documents": len(documents),
+            "categories": len({category for document in documents for category in document.categories}),
+            "files": len(files),
+        },
+        "files": files,
+    }
+    metadata_json = dump_json(metadata)
+    files[1]["sha256"] = sha256_text(metadata_json)
+    metadata["stats"]["files"] = len(files)
+    return metadata
+
+
 def build_root_readme(documents: list[Document], source_repo: str, source_revision: str, generated_at: str) -> str:
     namespace_count = len({document.namespace for document in documents})
     category_count = len({category for document in documents for category in document.categories})
@@ -362,9 +428,14 @@ def build_root_readme(documents: list[Document], source_repo: str, source_revisi
             f"- Categories: `{category_count}`",
             "",
             "## Files",
+            "- `metadata.json`: machine-readable manifest for incremental sync.",
             "- `index/namespaces.md`: top-level namespace directory.",
             "- `index/<namespace>.md`: per-namespace route directory.",
             "- `docs/routes/<namespace>/*.md`: per-route markdown documents.",
+            "",
+            "## Sync",
+            "- Use `metadata.json` as the canonical file manifest for incremental updates.",
+            "- Compare `files[].path` and `files[].sha256` to determine additions, updates, and deletions.",
             "",
             "## Suggested Lookup Flow",
             "1. Read `index/namespaces.md` to identify the target namespace.",
@@ -396,9 +467,11 @@ def main() -> int:
     for document in documents:
         grouped.setdefault(document.namespace, []).append(document)
 
+    namespace_indexes: dict[str, str] = {}
     for namespace, namespace_documents in grouped.items():
         namespace_payload = routes_payload[namespace]
         index_markdown = build_namespace_index_markdown(namespace, namespace_payload, namespace_documents)
+        namespace_indexes[namespace] = index_markdown
         write_text(output_dir / "index" / f"{slugify(namespace)}.md", index_markdown)
 
     namespaces_index = build_namespaces_index_markdown(routes_payload, documents)
@@ -406,6 +479,17 @@ def main() -> int:
 
     root_readme = build_root_readme(documents, args.source_repo, args.source_revision, generated_at)
     write_text(output_dir / "README.md", root_readme)
+
+    metadata = build_metadata(
+        documents,
+        namespaces_index,
+        namespace_indexes,
+        root_readme,
+        args.source_repo,
+        args.source_revision,
+        generated_at,
+    )
+    write_text(output_dir / "metadata.json", dump_json(metadata))
 
     print(
         json.dumps(

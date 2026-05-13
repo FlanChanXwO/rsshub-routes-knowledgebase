@@ -29,7 +29,21 @@ jobs:
 
           remote_info="$(git ls-remote --symref https://github.com/DIYgod/RSSHub.git HEAD)"
           latest_revision="$(printf '%s\n' "$remote_info" | awk '/^[0-9a-f]{40}[[:space:]]+HEAD$/ {print $1}')"
-          current_revision="$(sed -n 's/^- Source Revision: `\(.*\)`$/\1/p' README.md | head -n 1)"
+          current_revision="$(python - <<'PY2'
+import json
+from pathlib import Path
+path = Path('metadata.json')
+if path.exists():
+    try:
+        data = json.loads(path.read_text(encoding='utf-8'))
+        print(data.get('source', {}).get('revision', ''))
+    except Exception:
+        pass
+PY2
+)"
+          if [ -z "$current_revision" ]; then
+            current_revision="$(sed -n 's/^- Source Revision: `\(.*\)`$/\1/p' README.md | head -n 1)"
+          fi
 
           echo "latest_revision=$latest_revision" >> "$GITHUB_OUTPUT"
           echo "current_revision=$current_revision" >> "$GITHUB_OUTPUT"
@@ -98,7 +112,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add README.md index docs
+          git add README.md metadata.json index docs
           if git diff --cached --quiet; then
             echo 'No changes to commit'
             exit 0
