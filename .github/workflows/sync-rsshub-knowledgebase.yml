@@ -1,6 +1,6 @@
 name: Sync RSSHub Knowledgebase
 
-'on':
+on:
   workflow_dispatch: {}
   schedule:
     - cron: '17 3 * * *'
@@ -29,19 +29,13 @@ jobs:
 
           remote_info="$(git ls-remote --symref https://github.com/DIYgod/RSSHub.git HEAD)"
           latest_revision="$(printf '%s\n' "$remote_info" | awk '/^[0-9a-f]{40}[[:space:]]+HEAD$/ {print $1}')"
-          current_revision="$(python - <<'PY2'
-import json
-from pathlib import Path
-path = Path('metadata.json')
-if path.exists():
-    try:
-        data = json.loads(path.read_text(encoding='utf-8'))
-        print(data.get('source', {}).get('revision', ''))
-    except Exception:
-        pass
-PY2
-)"
-          if [ -z "$current_revision" ]; then
+          current_revision=""
+
+          if [ -f metadata.json ]; then
+            current_revision="$(jq -r '.source.revision // empty' metadata.json 2>/dev/null || true)"
+          fi
+
+          if [ -z "$current_revision" ] && [ -f README.md ]; then
             current_revision="$(sed -n 's/^- Source Revision: `\(.*\)`$/\1/p' README.md | head -n 1)"
           fi
 
