@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
@@ -42,7 +42,10 @@ jobs:
           echo "latest_revision=$latest_revision" >> "$GITHUB_OUTPUT"
           echo "current_revision=$current_revision" >> "$GITHUB_OUTPUT"
 
-          if [ -n "$current_revision" ] && [ "$current_revision" = "$latest_revision" ]; then
+          if [ ! -f metadata.json ]; then
+            echo 'skip=false' >> "$GITHUB_OUTPUT"
+            echo 'metadata.json is missing; forcing sync'
+          elif [ -n "$current_revision" ] && [ "$current_revision" = "$latest_revision" ]; then
             echo 'skip=true' >> "$GITHUB_OUTPUT"
             echo "RSSHub upstream unchanged at $latest_revision"
           else
@@ -52,7 +55,7 @@ jobs:
 
       - name: Setup Node.js
         if: steps.upstream.outputs.skip != 'true'
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: '22'
 
@@ -65,7 +68,7 @@ jobs:
 
       - name: Setup Python
         if: steps.upstream.outputs.skip != 'true'
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
 
