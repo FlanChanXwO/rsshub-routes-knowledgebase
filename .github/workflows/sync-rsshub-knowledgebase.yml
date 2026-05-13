@@ -1,7 +1,7 @@
 name: Sync RSSHub Knowledgebase
 
-on:
-  workflow_dispatch:
+'on':
+  workflow_dispatch: {}
   schedule:
     - cron: '17 3 * * *'
 
