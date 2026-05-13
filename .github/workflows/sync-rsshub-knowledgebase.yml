@@ -21,34 +21,62 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check upstream revision
+        id: upstream
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          remote_info="$(git ls-remote --symref https://github.com/DIYgod/RSSHub.git HEAD)"
+          latest_revision="$(printf '%s\n' "$remote_info" | awk '/^[0-9a-f]{40}[[:space:]]+HEAD$/ {print $1}')"
+          current_revision="$(sed -n 's/^- Source Revision: `\(.*\)`$/\1/p' README.md | head -n 1)"
+
+          echo "latest_revision=$latest_revision" >> "$GITHUB_OUTPUT"
+          echo "current_revision=$current_revision" >> "$GITHUB_OUTPUT"
+
+          if [ -n "$current_revision" ] && [ "$current_revision" = "$latest_revision" ]; then
+            echo 'skip=true' >> "$GITHUB_OUTPUT"
+            echo "RSSHub upstream unchanged at $latest_revision"
+          else
+            echo 'skip=false' >> "$GITHUB_OUTPUT"
+            echo "RSSHub upstream changed: ${current_revision:-<none>} -> $latest_revision"
+          fi
+
       - name: Setup Node.js
+        if: steps.upstream.outputs.skip != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '22'
 
       - name: Setup pnpm
+        if: steps.upstream.outputs.skip != 'true'
         uses: pnpm/action-setup@v4
         with:
           version: '10.33.0'
           run_install: false
 
       - name: Setup Python
+        if: steps.upstream.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
       - name: Clone RSSHub
+        if: steps.upstream.outputs.skip != 'true'
         run: git clone --depth=1 https://github.com/DIYgod/RSSHub.git "$RUNNER_TEMP/RSSHub"
 
       - name: Install RSSHub dependencies
+        if: steps.upstream.outputs.skip != 'true'
         working-directory: ${{ runner.temp }}/RSSHub
         run: pnpm install --frozen-lockfile
 
       - name: Build RSSHub docs metadata
+        if: steps.upstream.outputs.skip != 'true'
         working-directory: ${{ runner.temp }}/RSSHub
         run: pnpm build:docs
 
       - name: Generate markdown knowledgebase
+        if: steps.upstream.outputs.skip != 'true'
         run: |
           python .github/scripts/generate_knowledgebase.py \
             --input "$RUNNER_TEMP/RSSHub/assets/build/docs/routes.json" \
@@ -57,6 +85,7 @@ jobs:
             --source-revision "$(git -C "$RUNNER_TEMP/RSSHub" rev-parse HEAD)"
 
       - name: Replace generated docs
+        if: steps.upstream.outputs.skip != 'true'
         run: |
           rsync -a --delete \
             --exclude '.git/' \
@@ -65,6 +94,7 @@ jobs:
             "$RUNNER_TEMP/kb/" ./
 
       - name: Commit changes
+        if: steps.upstream.outputs.skip != 'true'
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
