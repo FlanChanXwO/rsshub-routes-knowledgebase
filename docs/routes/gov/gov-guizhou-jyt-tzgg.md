@@ -1,11 +1,11 @@
-# 国家能源局 - 贵州省教育厅 - 通知公告
+# 深圳市罗湖区人民政府 - 贵州省教育厅 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/guizhou/jyt/tzgg`
 - Route Name: `贵州省教育厅 - 通知公告`
 - Example: `/gov/guizhou/jyt/tzgg`

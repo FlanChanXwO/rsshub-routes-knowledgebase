@@ -1,15 +1,15 @@
-# 国家能源局 - 新闻动态
+# 深圳市罗湖区人民政府 - 新闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - Route Name: `新闻动态`
 - Example: `/gov/ndrc/xwdt`
-- URL: `www.nea.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

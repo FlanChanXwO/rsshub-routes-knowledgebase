@@ -1,15 +1,15 @@
-# 国家能源局 - 关税政策文件
+# 深圳市罗湖区人民政府 - 关税政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/mof/gss/:category?`
 - Route Name: `关税政策文件`
 - Example: `/gov/mof/gss`
-- URL: `www.nea.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`

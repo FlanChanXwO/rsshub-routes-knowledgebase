@@ -1,15 +1,15 @@
-# 国家能源局 - 政务公开-浦东新区
+# 深圳市罗湖区人民政府 - 政务公开-浦东新区
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/pudong/zwgk`
 - Route Name: `政务公开-浦东新区`
 - Example: `/gov/pudong/zwgk`
-- URL: `www.nea.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `himingway`
