@@ -4,24 +4,24 @@
 - Namespace: `bjsk`
 - Display Name: `北京社科网`
 - URL: `bjsk.org.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `bjsk, bjsk.org.cn, 北京社科网`
 - Route Count: `2`
 
 ## Routes
 
 ### 通用
-- Route ID: `bjsk:/:path?`
-- Route Path: `/:path?`
-- File: `docs/routes/bjsk/path.md`
-- File Name: `path.md`
+- Route ID: `bjsk:/bjsk/:path?`
+- Route Path: `/bjsk/:path?`
+- File: `docs/routes/bjsk/bjsk-path.md`
+- File Name: `bjsk-path.md`
 - Categories: `government`
 - Maintainers: `TonyRL`
 
 ### 基金项目管理平台
-- Route ID: `bjsk:/keti/:id?`
-- Route Path: `/keti/:id?`
-- File: `docs/routes/bjsk/keti-id.md`
-- File Name: `keti-id.md`
+- Route ID: `bjsk:/bjsk/keti/:id?`
+- Route Path: `/bjsk/keti/:id?`
+- File: `docs/routes/bjsk/bjsk-keti-id.md`
+- File Name: `bjsk-keti-id.md`
 - Categories: `government`
 - Maintainers: `nczitzk`

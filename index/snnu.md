@@ -11,25 +11,25 @@
 ## Routes
 
 ### 学校官网 - 通知公告
-- Route ID: `snnu:/`
-- Route Path: `/`
-- File: `docs/routes/snnu/index.md`
-- File Name: `index.md`
+- Route ID: `snnu:/snnu/`
+- Route Path: `/snnu/`
+- File: `docs/routes/snnu/snnu.md`
+- File Name: `snnu.md`
 - Categories: `university`
 - Maintainers: `alterkeyy`
 
 ### 计算机科学学院
-- Route ID: `snnu:/ccs/:type?`
-- Route Path: `/ccs/:type?`
-- File: `docs/routes/snnu/ccs-type.md`
-- File Name: `ccs-type.md`
+- Route ID: `snnu:/snnu/ccs/:type?`
+- Route Path: `/snnu/ccs/:type?`
+- File: `docs/routes/snnu/snnu-ccs-type.md`
+- File Name: `snnu-ccs-type.md`
 - Categories: `university`
 - Maintainers: `alterkeyy`
 
 ### 研究生院通知公告
-- Route ID: `snnu:/yjs`
-- Route Path: `/yjs`
-- File: `docs/routes/snnu/yjs.md`
-- File Name: `yjs.md`
+- Route ID: `snnu:/snnu/yjs`
+- Route Path: `/snnu/yjs`
+- File: `docs/routes/snnu/snnu-yjs.md`
+- File Name: `snnu-yjs.md`
 - Categories: `university`
 - Maintainers: `alterkeyy`

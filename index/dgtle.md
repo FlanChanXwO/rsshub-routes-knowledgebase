@@ -4,48 +4,48 @@
 - Namespace: `dgtle`
 - Display Name: `数字尾巴`
 - URL: `dgtle.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dgtle, dgtle.com, 数字尾巴`
 - Route Count: `5`
 
 ## Routes
 
 ### 文章
-- Route ID: `dgtle:/article/:id?/:pushed?`
-- Route Path: `/article/:id?/:pushed?`
-- File: `docs/routes/dgtle/article-id-pushed.md`
-- File Name: `article-id-pushed.md`
+- Route ID: `dgtle:/dgtle/article/:id?/:pushed?`
+- Route Path: `/dgtle/article/:id?/:pushed?`
+- File: `docs/routes/dgtle/dgtle-article-id-pushed.md`
+- File Name: `dgtle-article-id-pushed.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 兴趣
-- Route ID: `dgtle:/feed`
-- Route Path: `/feed`
-- File: `docs/routes/dgtle/feed.md`
-- File Name: `feed.md`
+- Route ID: `dgtle:/dgtle/feed`
+- Route Path: `/dgtle/feed`
+- File: `docs/routes/dgtle/dgtle-feed.md`
+- File Name: `dgtle-feed.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 鲸闻
-- Route ID: `dgtle:/news/:id?`
-- Route Path: `/news/:id?`
-- File: `docs/routes/dgtle/news-id.md`
-- File Name: `news-id.md`
+- Route ID: `dgtle:/dgtle/news/:id?`
+- Route Path: `/dgtle/news/:id?`
+- File: `docs/routes/dgtle/dgtle-news-id.md`
+- File Name: `dgtle-news-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 标签
-- Route ID: `dgtle:/tag/:id`
-- Route Path: `/tag/:id`
-- File: `docs/routes/dgtle/tag-id.md`
-- File Name: `tag-id.md`
+- Route ID: `dgtle:/dgtle/tag/:id`
+- Route Path: `/dgtle/tag/:id`
+- File: `docs/routes/dgtle/dgtle-tag-id.md`
+- File Name: `dgtle-tag-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 视频
-- Route ID: `dgtle:/video`
-- Route Path: `/video`
-- File: `docs/routes/dgtle/video.md`
-- File Name: `video.md`
+- Route ID: `dgtle:/dgtle/video`
+- Route Path: `/dgtle/video`
+- File: `docs/routes/dgtle/dgtle-video.md`
+- File Name: `dgtle-video.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

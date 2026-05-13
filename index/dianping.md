@@ -4,16 +4,16 @@
 - Namespace: `dianping`
 - Display Name: `大众点评`
 - URL: `dianping.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dianping, dianping.com, 大众点评`
 - Route Count: `1`
 
 ## Routes
 
 ### 用户动态
-- Route ID: `dianping:/user/:id`
-- Route Path: `/user/:id`
-- File: `docs/routes/dianping/user-id.md`
-- File Name: `user-id.md`
+- Route ID: `dianping:/dianping/user/:id`
+- Route Path: `/dianping/user/:id`
+- File: `docs/routes/dianping/dianping-user-id.md`
+- File Name: `dianping-user-id.md`
 - Categories: `shopping`
 - Maintainers: `pseudoyu`

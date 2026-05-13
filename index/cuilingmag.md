@@ -4,16 +4,16 @@
 - Namespace: `cuilingmag`
 - Display Name: `萃嶺网`
 - URL: `cuilingmag.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cuilingmag, cuilingmag.com, 萃嶺网`
 - Route Count: `1`
 
 ## Routes
 
 ### 分类
-- Route ID: `cuilingmag:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/cuilingmag/category.md`
-- File Name: `category.md`
+- Route ID: `cuilingmag:/cuilingmag/:category?`
+- Route Path: `/cuilingmag/:category?`
+- File: `docs/routes/cuilingmag/cuilingmag-category.md`
+- File Name: `cuilingmag-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

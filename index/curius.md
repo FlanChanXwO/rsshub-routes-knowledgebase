@@ -4,16 +4,16 @@
 - Namespace: `curius`
 - Display Name: `Curius`
 - URL: `curius.app`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `curius, curius.app`
 - Route Count: `1`
 
 ## Routes
 
 ### User
-- Route ID: `curius:/links/:name`
-- Route Path: `/links/:name`
-- File: `docs/routes/curius/links-name.md`
-- File Name: `links-name.md`
+- Route ID: `curius:/curius/links/:name`
+- Route Path: `/curius/links/:name`
+- File: `docs/routes/curius/curius-links-name.md`
+- File Name: `curius-links-name.md`
 - Categories: `social-media`
 - Maintainers: `Ovler-Young`

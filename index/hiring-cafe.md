@@ -11,9 +11,9 @@
 ## Routes
 
 ### Jobs
-- Route ID: `hiring.cafe:/jobs/:keywords`
-- Route Path: `/jobs/:keywords`
-- File: `docs/routes/hiring-cafe/jobs-keywords.md`
-- File Name: `jobs-keywords.md`
+- Route ID: `hiring.cafe:/hiring.cafe/jobs/:keywords`
+- Route Path: `/hiring.cafe/jobs/:keywords`
+- File: `docs/routes/hiring-cafe/hiring-cafe-jobs-keywords.md`
+- File Name: `hiring-cafe-jobs-keywords.md`
 - Categories: `other`
 - Maintainers: `mintyfrankie`

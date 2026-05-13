@@ -4,16 +4,16 @@
 - Namespace: `coolbuy`
 - Display Name: `玩物志`
 - URL: `coolbuy.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `coolbuy, coolbuy.com, 玩物志`
 - Route Count: `1`
 
 ## Routes
 
 ### 产品
-- Route ID: `coolbuy:/`
-- Route Path: `/`
-- File: `docs/routes/coolbuy/index.md`
-- File Name: `index.md`
+- Route ID: `coolbuy:/coolbuy/`
+- Route Path: `/coolbuy/`
+- File: `docs/routes/coolbuy/coolbuy.md`
+- File Name: `coolbuy.md`
 - Categories: `shopping`
 - Maintainers: `nczitzk`

@@ -4,16 +4,16 @@
 - Namespace: `dgjyw`
 - Display Name: `东莞教研网`
 - URL: `dgjyw.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dgjyw, dgjyw.com, 东莞教研网`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `dgjyw:*`
-- Route Path: `*`
-- File: `docs/routes/dgjyw/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `dgjyw:/dgjyw*`
+- Route Path: `/dgjyw*`
+- File: `docs/routes/dgjyw/dgjyw.md`
+- File Name: `dgjyw.md`
+- Categories: `other`
 - Maintainers: `None`

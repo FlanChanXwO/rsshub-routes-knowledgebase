@@ -11,9 +11,9 @@
 ## Routes
 
 ### AI Blog
-- Route ID: `meta:/ai/blog`
-- Route Path: `/ai/blog`
-- File: `docs/routes/meta/ai-blog.md`
-- File Name: `ai-blog.md`
+- Route ID: `meta:/meta/ai/blog`
+- Route Path: `/meta/ai/blog`
+- File: `docs/routes/meta/meta-ai-blog.md`
+- File Name: `meta-ai-blog.md`
 - Categories: `programming`
 - Maintainers: `TonyRL`

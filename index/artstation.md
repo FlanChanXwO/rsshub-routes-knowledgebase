@@ -4,16 +4,16 @@
 - Namespace: `artstation`
 - Display Name: `ArtStation`
 - URL: `www.artstation.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `artstation, artstation.com, www, www.artstation.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Artist Profolio
-- Route ID: `artstation:/:handle`
-- Route Path: `/:handle`
-- File: `docs/routes/artstation/handle.md`
-- File Name: `handle.md`
+- Route ID: `artstation:/artstation/:handle`
+- Route Path: `/artstation/:handle`
+- File: `docs/routes/artstation/artstation-handle.md`
+- File Name: `artstation-handle.md`
 - Categories: `picture`
 - Maintainers: `TonyRL`

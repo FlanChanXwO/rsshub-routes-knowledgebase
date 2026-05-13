@@ -4,16 +4,16 @@
 - Namespace: `cbndata`
 - Display Name: `CBNData`
 - URL: `cbndata.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cbndata, cbndata.com`
 - Route Count: `1`
 
 ## Routes
 
 ### 看点
-- Route ID: `cbndata:/information/:id?`
-- Route Path: `/information/:id?`
-- File: `docs/routes/cbndata/information-id.md`
-- File Name: `information-id.md`
+- Route ID: `cbndata:/cbndata/information/:id?`
+- Route Path: `/cbndata/information/:id?`
+- File: `docs/routes/cbndata/cbndata-information-id.md`
+- File Name: `cbndata-information-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

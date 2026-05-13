@@ -4,16 +4,16 @@
 - Namespace: `urbandictionary`
 - Display Name: `Urban Dictionary`
 - URL: `urbandictionary.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `urban dictionary, urbandictionary, urbandictionary.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Random words
-- Route ID: `urbandictionary:/random`
-- Route Path: `/random`
-- File: `docs/routes/urbandictionary/random.md`
-- File Name: `random.md`
+- Route ID: `urbandictionary:/urbandictionary/random`
+- Route Path: `/urbandictionary/random`
+- File: `docs/routes/urbandictionary/urbandictionary-random.md`
+- File Name: `urbandictionary-random.md`
 - Categories: `other`
 - Maintainers: `TonyRL`

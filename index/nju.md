@@ -4,112 +4,112 @@
 - Namespace: `nju`
 - Display Name: `南京大学`
 - URL: `admission.nju.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `admission, admission.nju.edu.cn, nju, 南京大学`
 - Route Count: `13`
 
 ## Routes
 
 ### 本科迎新
-- Route ID: `nju:/admission`
-- Route Path: `/admission`
-- File: `docs/routes/nju/admission.md`
-- File Name: `admission.md`
+- Route ID: `nju:/nju/admission`
+- Route Path: `/nju/admission`
+- File: `docs/routes/nju/nju-admission.md`
+- File Name: `nju-admission.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 大学外语部
-- Route ID: `nju:/dafls`
-- Route Path: `/dafls`
-- File: `docs/routes/nju/dafls.md`
-- File Name: `dafls.md`
+- Route ID: `nju:/nju/dafls`
+- Route Path: `/nju/dafls`
+- File: `docs/routes/nju/nju-dafls.md`
+- File Name: `nju-dafls.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 本科生交换生系统
-- Route ID: `nju:/exchangesys/:type`
-- Route Path: `/exchangesys/:type`
-- File: `docs/routes/nju/exchangesys-type.md`
-- File Name: `exchangesys-type.md`
+- Route ID: `nju:/nju/exchangesys/:type`
+- Route Path: `/nju/exchangesys/:type`
+- File: `docs/routes/nju/nju-exchangesys-type.md`
+- File Name: `nju-exchangesys-type.md`
 - Categories: `university`
 - Maintainers: `None`
 
 ### 研究生院
-- Route ID: `nju:/gra`
-- Route Path: `/gra`
-- File: `docs/routes/nju/gra.md`
-- File Name: `gra.md`
+- Route ID: `nju:/nju/gra`
+- Route Path: `/nju/gra`
+- File: `docs/routes/nju/nju-gra.md`
+- File Name: `nju-gra.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 校医院
-- Route ID: `nju:/hospital`
-- Route Path: `/hospital`
-- File: `docs/routes/nju/hospital.md`
-- File Name: `hospital.md`
+- Route ID: `nju:/nju/hospital`
+- Route Path: `/nju/hospital`
+- File: `docs/routes/nju/nju-hospital.md`
+- File Name: `nju-hospital.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 后勤集团
-- Route ID: `nju:/hqjt`
-- Route Path: `/hqjt`
-- File: `docs/routes/nju/hqjt.md`
-- File Name: `hqjt.md`
+- Route ID: `nju:/nju/hqjt`
+- Route Path: `/nju/hqjt`
+- File: `docs/routes/nju/nju-hqjt.md`
+- File Name: `nju-hqjt.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### ITSC 信息中心
-- Route ID: `nju:/itsc`
-- Route Path: `/itsc`
-- File: `docs/routes/nju/itsc.md`
-- File Name: `itsc.md`
+- Route ID: `nju:/nju/itsc`
+- Route Path: `/nju/itsc`
+- File: `docs/routes/nju/nju-itsc.md`
+- File Name: `nju-itsc.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 基建处
-- Route ID: `nju:/jjc`
-- Route Path: `/jjc`
-- File: `docs/routes/nju/jjc.md`
-- File Name: `jjc.md`
+- Route ID: `nju:/nju/jjc`
+- Route Path: `/nju/jjc`
+- File: `docs/routes/nju/nju-jjc.md`
+- File Name: `nju-jjc.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 本科生院
-- Route ID: `nju:/jw/:type`
-- Route Path: `/jw/:type`
-- File: `docs/routes/nju/jw-type.md`
-- File Name: `jw-type.md`
+- Route ID: `nju:/nju/jw/:type`
+- Route Path: `/nju/jw/:type`
+- File: `docs/routes/nju/nju-jw-type.md`
+- File Name: `nju-jw-type.md`
 - Categories: `university`
 - Maintainers: `cqjjjzr`
 
 ### 人才招聘网
-- Route ID: `nju:/rczp/:type`
-- Route Path: `/rczp/:type`
-- File: `docs/routes/nju/rczp-type.md`
-- File Name: `rczp-type.md`
+- Route ID: `nju:/nju/rczp/:type`
+- Route Path: `/nju/rczp/:type`
+- File: `docs/routes/nju/nju-rczp-type.md`
+- File Name: `nju-rczp-type.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 科学技术处
-- Route ID: `nju:/scit/:type`
-- Route Path: `/scit/:type`
-- File: `docs/routes/nju/scit-type.md`
-- File Name: `scit-type.md`
+- Route ID: `nju:/nju/scit/:type`
+- Route Path: `/nju/scit/:type`
+- File: `docs/routes/nju/nju-scit-type.md`
+- File Name: `nju-scit-type.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 招标办公室
-- Route ID: `nju:/zbb/:type`
-- Route Path: `/zbb/:type`
-- File: `docs/routes/nju/zbb-type.md`
-- File Name: `zbb-type.md`
+- Route ID: `nju:/nju/zbb/:type`
+- Route Path: `/nju/zbb/:type`
+- File: `docs/routes/nju/nju-zbb-type.md`
+- File Name: `nju-zbb-type.md`
 - Categories: `university`
 - Maintainers: `ret-1`
 
 ### 资产管理处
-- Route ID: `nju:/zcc`
-- Route Path: `/zcc`
-- File: `docs/routes/nju/zcc.md`
-- File Name: `zcc.md`
+- Route ID: `nju:/nju/zcc`
+- Route Path: `/nju/zcc`
+- File: `docs/routes/nju/nju-zcc.md`
+- File Name: `nju-zcc.md`
 - Categories: `university`
 - Maintainers: `ret-1`

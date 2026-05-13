@@ -4,24 +4,24 @@
 - Namespace: `supchina`
 - Display Name: `SupChina`
 - URL: `supchina.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `supchina, supchina.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Unknown
-- Route ID: `supchina:/`
-- Route Path: `/`
-- File: `docs/routes/supchina/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `supchina:/supchina/`
+- Route Path: `/supchina/`
+- File: `docs/routes/supchina/supchina.md`
+- File Name: `supchina.md`
+- Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### Podcasts
-- Route ID: `supchina:/podcasts`
-- Route Path: `/podcasts`
-- File: `docs/routes/supchina/podcasts.md`
-- File Name: `podcasts.md`
+- Route ID: `supchina:/supchina/podcasts`
+- Route Path: `/supchina/podcasts`
+- File: `docs/routes/supchina/supchina-podcasts.md`
+- File Name: `supchina-podcasts.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

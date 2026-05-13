@@ -4,16 +4,16 @@
 - Namespace: `spankbang`
 - Display Name: `SpankBang`
 - URL: `spankbang.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `spankbang, spankbang.com`
 - Route Count: `1`
 
 ## Routes
 
 ### New Porn Videos
-- Route ID: `spankbang:/new_videos`
-- Route Path: `/new_videos`
-- File: `docs/routes/spankbang/new_videos.md`
-- File Name: `new_videos.md`
+- Route ID: `spankbang:/spankbang/new_videos`
+- Route Path: `/spankbang/new_videos`
+- File: `docs/routes/spankbang/spankbang-new_videos.md`
+- File Name: `spankbang-new_videos.md`
 - Categories: `multimedia`
 - Maintainers: `TonyRL`

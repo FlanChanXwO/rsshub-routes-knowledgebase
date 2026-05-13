@@ -1,0 +1,104 @@
+# 中国知网 - 期刊
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `cnki`
+- Namespace Name: `中国知网`
+- Route Path: `/cnki/journals/:name`
+- Route Name: `期刊`
+- Example: `/cnki/journals/LKGP`
+- URL: `navi.cnki.net`
+- Language: `_None_`
+- Categories: `journal`
+- Maintainers: `Fatpandac, Derekmini, pseudoyu`
+- Source Location: `journals.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `name`: 期刊缩写，可以在网址中得到
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `navi.cnki.net/knavi/journals/:name/detail`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "journal"
+  ],
+  "example": "/cnki/journals/LKGP",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 67,
+  "location": "journals.ts",
+  "maintainers": [
+    "Fatpandac",
+    "Derekmini",
+    "pseudoyu"
+  ],
+  "name": "期刊",
+  "parameters": {
+    "name": "期刊缩写，可以在网址中得到"
+  },
+  "path": "/journals/:name",
+  "radar": [
+    {
+      "source": [
+        "navi.cnki.net/knavi/journals/:name/detail"
+      ]
+    }
+  ],
+  "test": {
+    "code": 1,
+    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:74:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
+  },
+  "topFeeds": [
+    {
+      "description": "微纳电子技术 - Powered by RSSHub",
+      "errorAt": "2026-04-18T09:21:44.295Z",
+      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": <no response> fetch failed\n",
+      "id": "159265390001661952",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://navi.cnki.net/knavi/journals/BDTQ/detail?uniplatform=NZKPT",
+      "title": "微纳电子技术-CNKI",
+      "type": "feed",
+      "url": "rsshub://cnki/journals/BDTQ"
+    },
+    {
+      "description": "电子与封装 - Powered by RSSHub",
+      "errorAt": "2026-04-20T10:41:11.822Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "159266714924499968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://navi.cnki.net/knavi/journals/DYFZ/detail?uniplatform=NZKPT",
+      "title": "电子与封装-CNKI",
+      "type": "feed",
+      "url": "rsshub://cnki/journals/DYFZ"
+    }
+  ]
+}
+```

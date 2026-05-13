@@ -4,16 +4,16 @@
 - Namespace: `hackyournews`
 - Display Name: `HackYourNews`
 - URL: `hackyournews.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `hackyournews, hackyournews.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `hackyournews:/`
-- Route Path: `/`
-- File: `docs/routes/hackyournews/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `hackyournews:/hackyournews/`
+- Route Path: `/hackyournews/`
+- File: `docs/routes/hackyournews/hackyournews.md`
+- File Name: `hackyournews.md`
+- Categories: `other`
 - Maintainers: `ftiasch`

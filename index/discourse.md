@@ -4,32 +4,32 @@
 - Namespace: `discourse`
 - Display Name: `Discourse`
 - URL: `_None_`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `discourse`
 - Route Count: `3`
 
 ## Routes
 
 ### Notifications
-- Route ID: `discourse:/:configId/notifications/:fulltext?`
-- Route Path: `/:configId/notifications/:fulltext?`
-- File: `docs/routes/discourse/configid-notifications-fulltext.md`
-- File Name: `configid-notifications-fulltext.md`
+- Route ID: `discourse:/discourse/:configId/notifications/:fulltext?`
+- Route Path: `/discourse/:configId/notifications/:fulltext?`
+- File: `docs/routes/discourse/discourse-configid-notifications-fulltext.md`
+- File Name: `discourse-configid-notifications-fulltext.md`
 - Categories: `bbs`
 - Maintainers: `None`
 
 ### Official RSS
-- Route ID: `discourse:/:configId/official/:path{.+}`
-- Route Path: `/:configId/official/:path{.+}`
-- File: `docs/routes/discourse/configid-official-path.md`
-- File Name: `configid-official-path.md`
+- Route ID: `discourse:/discourse/:configId/official/:path{.+}`
+- Route Path: `/discourse/:configId/official/:path{.+}`
+- File: `docs/routes/discourse/discourse-configid-official-path.md`
+- File Name: `discourse-configid-official-path.md`
 - Categories: `bbs`
 - Maintainers: `Raikyou, dzx-dzx`
 
 ### Latest posts
-- Route ID: `discourse:/:configId/posts`
-- Route Path: `/:configId/posts`
-- File: `docs/routes/discourse/configid-posts.md`
-- File Name: `configid-posts.md`
+- Route ID: `discourse:/discourse/:configId/posts`
+- Route Path: `/discourse/:configId/posts`
+- File: `docs/routes/discourse/discourse-configid-posts.md`
+- File Name: `discourse-configid-posts.md`
 - Categories: `bbs`
 - Maintainers: `dzx-dzx`

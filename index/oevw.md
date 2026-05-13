@@ -11,9 +11,9 @@
 ## Routes
 
 ### ÖVW Suche
-- Route ID: `oevw:/:json?`
-- Route Path: `/:json?`
-- File: `docs/routes/oevw/json.md`
-- File Name: `json.md`
+- Route ID: `oevw:/oevw/:json?`
+- Route Path: `/oevw/:json?`
+- File: `docs/routes/oevw/oevw-json.md`
+- File Name: `oevw-json.md`
 - Categories: `other`
 - Maintainers: `sk22`

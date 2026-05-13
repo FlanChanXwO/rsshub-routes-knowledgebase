@@ -4,32 +4,32 @@
 - Namespace: `caareviews`
 - Display Name: `caa.reviews`
 - URL: `caareviews.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `caa.reviews, caareviews, caareviews.org`
 - Route Count: `3`
 
 ## Routes
 
 ### Book Reviews
-- Route ID: `caareviews:/book`
-- Route Path: `/book`
-- File: `docs/routes/caareviews/book.md`
-- File Name: `book.md`
+- Route ID: `caareviews:/caareviews/book`
+- Route Path: `/caareviews/book`
+- File: `docs/routes/caareviews/caareviews-book.md`
+- File Name: `caareviews-book.md`
 - Categories: `journal`
 - Maintainers: `Fatpandac`
 
 ### Essays
-- Route ID: `caareviews:/essay`
-- Route Path: `/essay`
-- File: `docs/routes/caareviews/essay.md`
-- File Name: `essay.md`
+- Route ID: `caareviews:/caareviews/essay`
+- Route Path: `/caareviews/essay`
+- File: `docs/routes/caareviews/caareviews-essay.md`
+- File Name: `caareviews-essay.md`
 - Categories: `journal`
 - Maintainers: `Fatpandac`
 
 ### Exhibition Reviews
-- Route ID: `caareviews:/exhibition`
-- Route Path: `/exhibition`
-- File: `docs/routes/caareviews/exhibition.md`
-- File Name: `exhibition.md`
+- Route ID: `caareviews:/caareviews/exhibition`
+- Route Path: `/caareviews/exhibition`
+- File: `docs/routes/caareviews/caareviews-exhibition.md`
+- File Name: `caareviews-exhibition.md`
 - Categories: `journal`
 - Maintainers: `Fatpandac`

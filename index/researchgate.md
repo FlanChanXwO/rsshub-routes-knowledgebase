@@ -4,16 +4,16 @@
 - Namespace: `researchgate`
 - Display Name: `ResearchGate`
 - URL: `researchgate.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `researchgate, researchgate.net`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `researchgate:/publications/:id`
-- Route Path: `/publications/:id`
-- File: `docs/routes/researchgate/publications-id.md`
-- File Name: `publications-id.md`
-- Categories: `None`
+- Route ID: `researchgate:/researchgate/publications/:id`
+- Route Path: `/researchgate/publications/:id`
+- File: `docs/routes/researchgate/researchgate-publications-id.md`
+- File Name: `researchgate-publications-id.md`
+- Categories: `other`
 - Maintainers: `None`

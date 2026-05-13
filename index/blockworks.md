@@ -4,16 +4,16 @@
 - Namespace: `blockworks`
 - Display Name: `Blockworks`
 - URL: `blockworks.co`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `blockworks, blockworks.co`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `blockworks:/`
-- Route Path: `/`
-- File: `docs/routes/blockworks/index.md`
-- File Name: `index.md`
+- Route ID: `blockworks:/blockworks/`
+- Route Path: `/blockworks/`
+- File: `docs/routes/blockworks/blockworks.md`
+- File Name: `blockworks.md`
 - Categories: `finance`
 - Maintainers: `pseudoyu`

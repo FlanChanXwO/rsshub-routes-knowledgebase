@@ -11,9 +11,9 @@
 ## Routes
 
 ### Market
-- Route ID: `cherrytimes:/market`
-- Route Path: `/market`
-- File: `docs/routes/cherrytimes/market.md`
-- File Name: `market.md`
+- Route ID: `cherrytimes:/cherrytimes/market`
+- Route Path: `/cherrytimes/market`
+- File: `docs/routes/cherrytimes/cherrytimes-market.md`
+- File Name: `cherrytimes-market.md`
 - Categories: `new-media`
 - Maintainers: `canonnizq`

@@ -4,16 +4,16 @@
 - Namespace: `luxiangdong`
 - Display Name: `土猛的员外`
 - URL: `luxiangdong.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `luxiangdong, luxiangdong.com, 土猛的员外`
 - Route Count: `1`
 
 ## Routes
 
 ### 文章
-- Route ID: `luxiangdong:/archive`
-- Route Path: `/archive`
-- File: `docs/routes/luxiangdong/archive.md`
-- File Name: `archive.md`
+- Route ID: `luxiangdong:/luxiangdong/archive`
+- Route Path: `/luxiangdong/archive`
+- File: `docs/routes/luxiangdong/luxiangdong-archive.md`
+- File Name: `luxiangdong-archive.md`
 - Categories: `blog`
 - Maintainers: `Levix`

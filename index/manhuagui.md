@@ -4,32 +4,24 @@
 - Namespace: `manhuagui`
 - Display Name: `看漫画`
 - URL: `www.manhuagui.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `manhuagui, manhuagui.com, www, www.manhuagui.com, 看漫画`
-- Route Count: `3`
+- Route Count: `2`
 
 ## Routes
 
 ### 漫画更新
-- Route ID: `manhuagui:/:domain?/comic/:id/:chapterCnt?`
-- Route Path: `/:domain?/comic/:id/:chapterCnt?`
-- File: `docs/routes/manhuagui/domain-comic-id-chaptercnt.md`
-- File Name: `domain-comic-id-chaptercnt.md`
-- Categories: `anime`
-- Maintainers: `MegrezZhu`
-
-### 漫画更新
-- Route ID: `manhuagui:/comic/:id/:chapterCnt?`
-- Route Path: `/comic/:id/:chapterCnt?`
-- File: `docs/routes/manhuagui/comic-id-chaptercnt.md`
-- File Name: `comic-id-chaptercnt.md`
+- Route ID: `manhuagui:/manhuagui/comic/:id/:chapterCnt?`
+- Route Path: `/manhuagui/comic/:id/:chapterCnt?`
+- File: `docs/routes/manhuagui/manhuagui-comic-id-chaptercnt.md`
+- File Name: `manhuagui-comic-id-chaptercnt.md`
 - Categories: `anime`
 - Maintainers: `MegrezZhu`
 
 ### 漫画个人订阅
-- Route ID: `manhuagui:/subscribe`
-- Route Path: `/subscribe`
-- File: `docs/routes/manhuagui/subscribe.md`
-- File Name: `subscribe.md`
+- Route ID: `manhuagui:/manhuagui/subscribe`
+- Route Path: `/manhuagui/subscribe`
+- File: `docs/routes/manhuagui/manhuagui-subscribe.md`
+- File Name: `manhuagui-subscribe.md`
 - Categories: `anime`
 - Maintainers: `shininome`

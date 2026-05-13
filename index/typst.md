@@ -4,16 +4,16 @@
 - Namespace: `typst`
 - Display Name: `Typst`
 - URL: `typst.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `typst, typst.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Universe
-- Route ID: `typst:/universe`
-- Route Path: `/universe`
-- File: `docs/routes/typst/universe.md`
-- File Name: `universe.md`
+- Route ID: `typst:/typst/universe`
+- Route Path: `/typst/universe`
+- File: `docs/routes/typst/typst-universe.md`
+- File Name: `typst-universe.md`
 - Categories: `program-update`
 - Maintainers: `HPDell`

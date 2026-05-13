@@ -4,248 +4,248 @@
 - Namespace: `ecnu`
 - Display Name: `East China Normal University 华东师范大学`
 - URL: `www.ecnu.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `east china normal university 华东师范大学, ecnu, ecnu.edu.cn, www, www.ecnu.edu.cn`
 - Route Count: `30`
 
 ## Routes
 
 ### ACM Online-Judge contests list
-- Route ID: `ecnu:/acm/contest/:category?`
-- Route Path: `/acm/contest/:category?`
-- File: `docs/routes/ecnu/acm-contest-category.md`
-- File Name: `acm-contest-category.md`
+- Route ID: `ecnu:/ecnu/acm/contest/:category?`
+- Route Path: `/ecnu/acm/contest/:category?`
+- File: `docs/routes/ecnu/ecnu-acm-contest-category.md`
+- File Name: `ecnu-acm-contest-category.md`
 - Categories: `university`
 - Maintainers: `a180285`
 
 ### 美术学院通知公告
-- Route ID: `ecnu:/art`
-- Route Path: `/art`
-- File: `docs/routes/ecnu/art.md`
-- File Name: `art.md`
+- Route ID: `ecnu:/ecnu/art`
+- Route Path: `/ecnu/art`
+- File: `docs/routes/ecnu/ecnu-art.md`
+- File Name: `ecnu-art.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 本科生院通知
-- Route ID: `ecnu:/bksy`
-- Route Path: `/bksy`
-- File: `docs/routes/ecnu/bksy.md`
-- File Name: `bksy.md`
+- Route ID: `ecnu:/ecnu/bksy`
+- Route Path: `/ecnu/bksy`
+- File: `docs/routes/ecnu/ecnu-bksy.md`
+- File Name: `ecnu-bksy.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 通信与电子工程学院通知公告
-- Route ID: `ecnu:/cee`
-- Route Path: `/cee`
-- File: `docs/routes/ecnu/cee.md`
-- File Name: `cee.md`
+- Route ID: `ecnu:/ecnu/cee`
+- Route Path: `/ecnu/cee`
+- File: `docs/routes/ecnu/ecnu-cee.md`
+- File Name: `ecnu-cee.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 化学与分子工程学院通知公告
-- Route ID: `ecnu:/chem`
-- Route Path: `/chem`
-- File: `docs/routes/ecnu/chem.md`
-- File Name: `chem.md`
+- Route ID: `ecnu:/ecnu/chem`
+- Route Path: `/ecnu/chem`
+- File: `docs/routes/ecnu/ecnu-chem.md`
+- File Name: `ecnu-chem.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 国际汉语文化学院通知公告
-- Route ID: `ecnu:/chinese`
-- Route Path: `/chinese`
-- File: `docs/routes/ecnu/chinese.md`
-- File Name: `chinese.md`
+- Route ID: `ecnu:/ecnu/chinese`
+- Route Path: `/ecnu/chinese`
+- File: `docs/routes/ecnu/ecnu-chinese.md`
+- File Name: `ecnu-chinese.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 传播学院通知公告
-- Route ID: `ecnu:/comm`
-- Route Path: `/comm`
-- File: `docs/routes/ecnu/comm.md`
-- File Name: `comm.md`
+- Route ID: `ecnu:/ecnu/comm`
+- Route Path: `/ecnu/comm`
+- File: `docs/routes/ecnu/ecnu-comm.md`
+- File Name: `ecnu-comm.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 计算机科学与技术学院通知公告
-- Route ID: `ecnu:/cs`
-- Route Path: `/cs`
-- File: `docs/routes/ecnu/cs.md`
-- File Name: `cs.md`
+- Route ID: `ecnu:/ecnu/cs`
+- Route Path: `/ecnu/cs`
+- File: `docs/routes/ecnu/ecnu-cs.md`
+- File Name: `ecnu-cs.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 本科创新创业教育网
-- Route ID: `ecnu:/cxcy/:type?`
-- Route Path: `/cxcy/:type?`
-- File: `docs/routes/ecnu/cxcy-type.md`
-- File Name: `cxcy-type.md`
+- Route ID: `ecnu:/ecnu/cxcy/:type?`
+- Route Path: `/ecnu/cxcy/:type?`
+- File: `docs/routes/ecnu/ecnu-cxcy-type.md`
+- File Name: `ecnu-cxcy-type.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 数据科学与工程学院通知公告
-- Route ID: `ecnu:/dase`
-- Route Path: `/dase`
-- File: `docs/routes/ecnu/dase.md`
-- File Name: `dase.md`
+- Route ID: `ecnu:/ecnu/dase`
+- Route Path: `/ecnu/dase`
+- File: `docs/routes/ecnu/ecnu-dase.md`
+- File Name: `ecnu-dase.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 大夏书院通知公告
-- Route ID: `ecnu:/dx`
-- Route Path: `/dx`
-- File: `docs/routes/ecnu/dx.md`
-- File Name: `dx.md`
+- Route ID: `ecnu:/ecnu/dx`
+- Route Path: `/ecnu/dx`
+- File: `docs/routes/ecnu/ecnu-dx.md`
+- File Name: `ecnu-dx.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 地球科学学部通知公告
-- Route ID: `ecnu:/dxb`
-- Route Path: `/dxb`
-- File: `docs/routes/ecnu/dxb.md`
-- File Name: `dxb.md`
+- Route ID: `ecnu:/ecnu/dxb`
+- Route Path: `/ecnu/dxb`
+- File: `docs/routes/ecnu/ecnu-dxb.md`
+- File Name: `ecnu-dxb.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 教育学部通知公告
-- Route ID: `ecnu:/ed`
-- Route Path: `/ed`
-- File: `docs/routes/ecnu/ed.md`
-- File Name: `ed.md`
+- Route ID: `ecnu:/ecnu/ed`
+- Route Path: `/ecnu/ed`
+- File: `docs/routes/ecnu/ecnu-ed.md`
+- File Name: `ecnu-ed.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 空间人工智能学院通知公告
-- Route ID: `ecnu:/geoai`
-- Route Path: `/geoai`
-- File: `docs/routes/ecnu/geoai.md`
-- File Name: `geoai.md`
+- Route ID: `ecnu:/ecnu/geoai`
+- Route Path: `/ecnu/geoai`
+- File: `docs/routes/ecnu/ecnu-geoai.md`
+- File Name: `ecnu-geoai.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 光华书院通知公告
-- Route ID: `ecnu:/ghcollege`
-- Route Path: `/ghcollege`
-- File: `docs/routes/ecnu/ghcollege.md`
-- File Name: `ghcollege.md`
+- Route ID: `ecnu:/ecnu/ghcollege`
+- Route Path: `/ecnu/ghcollege`
+- File: `docs/routes/ecnu/ecnu-ghcollege.md`
+- File Name: `ecnu-ghcollege.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 历史学系通知公告
-- Route ID: `ecnu:/history`
-- Route Path: `/history`
-- File: `docs/routes/ecnu/history.md`
-- File Name: `history.md`
+- Route ID: `ecnu:/ecnu/history`
+- Route Path: `/ecnu/history`
+- File: `docs/routes/ecnu/ecnu-history.md`
+- File Name: `ecnu-history.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 本科生交流通知
-- Route ID: `ecnu:/jiaoliu`
-- Route Path: `/jiaoliu`
-- File: `docs/routes/ecnu/jiaoliu.md`
-- File Name: `jiaoliu.md`
+- Route ID: `ecnu:/ecnu/jiaoliu`
+- Route Path: `/ecnu/jiaoliu`
+- File: `docs/routes/ecnu/ecnu-jiaoliu.md`
+- File Name: `ecnu-jiaoliu.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 教务处通知
-- Route ID: `ecnu:/jwc`
-- Route Path: `/jwc`
-- File: `docs/routes/ecnu/jwc.md`
-- File Name: `jwc.md`
+- Route ID: `ecnu:/ecnu/jwc`
+- Route Path: `/ecnu/jwc`
+- File: `docs/routes/ecnu/ecnu-jwc.md`
+- File Name: `ecnu-jwc.md`
 - Categories: `university`
 - Maintainers: `markbang`
 
 ### 马克思主义学院通知公告
-- Route ID: `ecnu:/mks`
-- Route Path: `/mks`
-- File: `docs/routes/ecnu/mks.md`
-- File Name: `mks.md`
+- Route ID: `ecnu:/ecnu/mks`
+- Route Path: `/ecnu/mks`
+- File: `docs/routes/ecnu/ecnu-mks.md`
+- File Name: `ecnu-mks.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 孟宪承书院通知公告
-- Route ID: `ecnu:/mxcsy`
-- Route Path: `/mxcsy`
-- File: `docs/routes/ecnu/mxcsy.md`
-- File Name: `mxcsy.md`
+- Route ID: `ecnu:/ecnu/mxcsy`
+- Route Path: `/ecnu/mxcsy`
+- File: `docs/routes/ecnu/ecnu-mxcsy.md`
+- File Name: `ecnu-mxcsy.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 药学院通知公告
-- Route ID: `ecnu:/pharm`
-- Route Path: `/pharm`
-- File: `docs/routes/ecnu/pharm.md`
-- File Name: `pharm.md`
+- Route ID: `ecnu:/ecnu/pharm`
+- Route Path: `/ecnu/pharm`
+- File: `docs/routes/ecnu/ecnu-pharm.md`
+- File Name: `ecnu-pharm.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 哲学系通知公告
-- Route ID: `ecnu:/philo`
-- Route Path: `/philo`
-- File: `docs/routes/ecnu/philo.md`
-- File Name: `philo.md`
+- Route ID: `ecnu:/ecnu/philo`
+- Route Path: `/ecnu/philo`
+- File: `docs/routes/ecnu/ecnu-philo.md`
+- File Name: `ecnu-philo.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 物理与电子科学学院通知公告
-- Route ID: `ecnu:/phy`
-- Route Path: `/phy`
-- File: `docs/routes/ecnu/phy.md`
-- File Name: `phy.md`
+- Route ID: `ecnu:/ecnu/phy`
+- Route Path: `/ecnu/phy`
+- File: `docs/routes/ecnu/ecnu-phy.md`
+- File Name: `ecnu-phy.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 心理与认知科学学院通知公告
-- Route ID: `ecnu:/psy`
-- Route Path: `/psy`
-- File: `docs/routes/ecnu/psy.md`
-- File Name: `psy.md`
+- Route ID: `ecnu:/ecnu/psy`
+- Route Path: `/ecnu/psy`
+- File: `docs/routes/ecnu/ecnu-psy.md`
+- File Name: `ecnu-psy.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 生态与环境科学学院通知公告
-- Route ID: `ecnu:/sees`
-- Route Path: `/sees`
-- File: `docs/routes/ecnu/sees.md`
-- File Name: `sees.md`
+- Route ID: `ecnu:/ecnu/sees`
+- Route Path: `/ecnu/sees`
+- File: `docs/routes/ecnu/ecnu-sees.md`
+- File Name: `ecnu-sees.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 软件工程学院通知公告
-- Route ID: `ecnu:/sei`
-- Route Path: `/sei`
-- File: `docs/routes/ecnu/sei.md`
-- File Name: `sei.md`
+- Route ID: `ecnu:/ecnu/sei`
+- Route Path: `/ecnu/sei`
+- File: `docs/routes/ecnu/ecnu-sei.md`
+- File Name: `ecnu-sei.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 公共管理学院通知公告
-- Route ID: `ecnu:/spm`
-- Route Path: `/spm`
-- File: `docs/routes/ecnu/spm.md`
-- File Name: `spm.md`
+- Route ID: `ecnu:/ecnu/spm`
+- Route Path: `/ecnu/spm`
+- File: `docs/routes/ecnu/ecnu-spm.md`
+- File Name: `ecnu-spm.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 统计学院通知公告
-- Route ID: `ecnu:/stat`
-- Route Path: `/stat`
-- File: `docs/routes/ecnu/stat.md`
-- File Name: `stat.md`
+- Route ID: `ecnu:/ecnu/stat`
+- Route Path: `/ecnu/stat`
+- File: `docs/routes/ecnu/ecnu-stat.md`
+- File Name: `ecnu-stat.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 体育与健康学院通知公告
-- Route ID: `ecnu:/tyxx`
-- Route Path: `/tyxx`
-- File: `docs/routes/ecnu/tyxx.md`
-- File Name: `tyxx.md`
+- Route ID: `ecnu:/ecnu/tyxx`
+- Route Path: `/ecnu/tyxx`
+- File: `docs/routes/ecnu/ecnu-tyxx.md`
+- File Name: `ecnu-tyxx.md`
 - Categories: `university`
 - Maintainers: `FrozenStarrrr, ChiyoYuki, ECNU-minus`
 
 ### 研究生院
-- Route ID: `ecnu:/yjs`
-- Route Path: `/yjs`
-- File: `docs/routes/ecnu/yjs.md`
-- File Name: `yjs.md`
+- Route ID: `ecnu:/ecnu/yjs`
+- Route Path: `/ecnu/yjs`
+- File: `docs/routes/ecnu/ecnu-yjs.md`
+- File Name: `ecnu-yjs.md`
 - Categories: `university`
 - Maintainers: `shengmaosu`

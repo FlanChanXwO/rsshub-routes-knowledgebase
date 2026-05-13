@@ -1,0 +1,110 @@
+# F95zone - Post
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `f95zone`
+- Namespace Name: `F95zone`
+- Route Path: `/f95zone/post/:thread/:postId`
+- Route Name: `Post`
+- Example: `/f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830`
+- URL: `f95zone.to`
+- Language: `_None_`
+- Categories: `game`
+- Maintainers: `wsmbsbbz`
+- Source Location: `post.ts`
+- Source Module: `_None_`
+
+## Description
+Track content changes of a specific post. Uses the date `[yyyy-mm-dd]` in title for update detection.
+
+URL format: `https://f95zone.to/threads/{thread}/#post-{id}` → replace `#` with `/` to get `/f95zone/post/{thread}/post-{id}`
+
+Example: `https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830` → `/f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830`
+
+Note: This route does not support Radar auto-detection because the post ID is in the URL hash (after `#`), which cannot be extracted by Radar. You need to manually construct the subscription URL.
+
+## Parameters
+- `thread`: Thread slug with ID
+- `postId`: Post ID with `post-` prefix, replace `#` with `/` from browser URL
+
+
+## Features
+- `requireConfig`: [{"description": "F95zone cookie for accessing restricted content.", "name": "F95ZONE_COOKIE", "optional": true}]
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+- `nsfw`: true
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "game"
+  ],
+  "description": "Track content changes of a specific post. Uses the date `[yyyy-mm-dd]` in title for update detection.\n\nURL format: `https://f95zone.to/threads/{thread}/#post-{id}` → replace `#` with `/` to get `/f95zone/post/{thread}/post-{id}`\n\nExample: `https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830` → `/f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830`\n\nNote: This route does not support Radar auto-detection because the post ID is in the URL hash (after `#`), which cannot be extracted by Radar. You need to manually construct the subscription URL.",
+  "example": "/f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830",
+  "features": {
+    "antiCrawler": false,
+    "nsfw": true,
+    "requireConfig": [
+      {
+        "description": "F95zone cookie for accessing restricted content.",
+        "name": "F95ZONE_COOKIE",
+        "optional": true
+      }
+    ],
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 11,
+  "location": "post.ts",
+  "maintainers": [
+    "wsmbsbbz"
+  ],
+  "name": "Post",
+  "parameters": {
+    "postId": "Post ID with `post-` prefix, replace `#` with `/` from browser URL",
+    "thread": "Thread slug with ID"
+  },
+  "path": "/post/:thread/:postId",
+  "radar": [],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "[F95zone] Collection GIF Video theobrobine Collection [2026-03-21] [THEOBROBINE/theobrobine/ておぶろびん] - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250523835077907456",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://f95zone.to/threads/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/#post-6520658",
+      "title": "[F95zone] Collection GIF Video theobrobine Collection [2026-03-21] [THEOBROBINE/theobrobine/ておぶろびん]",
+      "type": "feed",
+      "url": "rsshub://f95zone/post/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/post-6520658"
+    },
+    {
+      "description": "[F95zone] Collection Video RadRoachHD Collection [2025-08-08] [RadRoachHD] - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250524222304441344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214",
+      "title": "[F95zone] Collection Video RadRoachHD Collection [2025-08-08] [RadRoachHD]",
+      "type": "feed",
+      "url": "rsshub://f95zone/post/radroachhd-collection-2025-08-08-radroachhd.140965/post-9617214"
+    }
+  ]
+}
+```

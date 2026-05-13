@@ -11,9 +11,9 @@
 ## Routes
 
 ### 首頁
-- Route ID: `englishhome:/`
-- Route Path: `/`
-- File: `docs/routes/englishhome/index.md`
-- File Name: `index.md`
+- Route ID: `englishhome:/englishhome/`
+- Route Path: `/englishhome/`
+- File: `docs/routes/englishhome/englishhome.md`
+- File Name: `englishhome.md`
 - Categories: `blog`
 - Maintainers: `johan456789`

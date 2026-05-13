@@ -1,0 +1,93 @@
+# AcFun - 用户投稿
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `acfun`
+- Namespace Name: `AcFun`
+- Route Path: `/acfun/user/video/:uid/:embed?`
+- Route Name: `用户投稿`
+- Example: `/acfun/user/video/6102`
+- URL: `www.acfun.cn`
+- Language: `_None_`
+- Categories: `anime`
+- Maintainers: `wdssmq`
+- Source Location: `video.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `uid`: 用户 UID
+- `embed`: 默认为开启内嵌视频, 任意值为关闭
+
+
+## Features
+_None_
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.acfun.cn/u/:id`
+- `target`: `/user/video/:id`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "anime"
+  ],
+  "example": "/acfun/user/video/6102",
+  "heat": 39,
+  "location": "video.ts",
+  "maintainers": [
+    "wdssmq"
+  ],
+  "name": "用户投稿",
+  "parameters": {
+    "embed": "默认为开启内嵌视频, 任意值为关闭",
+    "uid": "用户 UID"
+  },
+  "path": "/user/video/:uid/:embed?",
+  "radar": [
+    {
+      "source": [
+        "www.acfun.cn/u/:id"
+      ],
+      "target": "/user/video/:id"
+    }
+  ],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "每天最新的国内车祸实例，助你提高安全意识，生命冇take two，请小心演绎！欢迎投稿：UploadAccident@qq.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74054665945348096",
+      "image": "https://imgs.aixifan.com/style/image/201907/zjC8tBrviYU9WXilU5iSWE21qpmXIk2l.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.acfun.cn/u/4075269",
+      "title": "交通事故video的个人空间 -AcFun弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ",
+      "type": "feed",
+      "url": "rsshub://acfun/user/video/4075269"
+    },
+    {
+      "description": "这家伙很懒 有活儿就更 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66699035687104512",
+      "image": "https://imgs.aixifan.com/style/image/201907/qTeWUSEZBRmVpKwROPvDrIbHqSztxbi9.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.acfun.cn/u/1378895",
+      "title": "自古多情伤离别的个人空间 -AcFun弹幕视频网 - 认真你就输啦 (?ω?)ノ- ( ゜- ゜)つロ",
+      "type": "feed",
+      "url": "rsshub://acfun/user/video/1378895"
+    }
+  ],
+  "view": 3
+}
+```

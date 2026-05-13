@@ -1,0 +1,110 @@
+# 知乎 - 用户动态
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `zhihu`
+- Namespace Name: `知乎`
+- Route Path: `/zhihu/people/activities/:id`
+- Route Name: `用户动态`
+- Example: `/zhihu/people/activities/diygod`
+- URL: `www.zhihu.com`
+- Language: `_None_`
+- Categories: `social-media, popular`
+- Maintainers: `DIYgod`
+- Source Location: `activities.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `id`: 作者 id，可在用户主页 URL 中找到
+
+
+## Features
+- `requireConfig`: [{"description": "", "name": "ZHIHU_COOKIES", "optional": true}]
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.zhihu.com/people/:id`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media",
+    "popular"
+  ],
+  "example": "/zhihu/people/activities/diygod",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": [
+      {
+        "description": "",
+        "name": "ZHIHU_COOKIES",
+        "optional": true
+      }
+    ],
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 5578,
+  "location": "activities.ts",
+  "maintainers": [
+    "DIYgod"
+  ],
+  "name": "用户动态",
+  "parameters": {
+    "id": "作者 id，可在用户主页 URL 中找到"
+  },
+  "path": "/people/activities/:id",
+  "radar": [
+    {
+      "source": [
+        "www.zhihu.com/people/:id"
+      ]
+    }
+  ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [
+    {
+      "description": "个人星球:DeepVan的逃生地牢 - Powered by RSSHub",
+      "errorAt": "2026-03-18T09:48:51.681Z",
+      "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n",
+      "id": "55789531638486016",
+      "image": "https://pic1.zhimg.com/v2-2161a03f1aac4c7b20a4edfa43318a7a_l.jpg?source=5a24d060&needBackground=1",
+      "ownerUserId": null,
+      "siteUrl": "https://www.zhihu.com/people/yang-lei-96-72/activities",
+      "title": "Deep Van的知乎动态",
+      "type": "feed",
+      "url": "rsshub://zhihu/people/activities/yang-lei-96-72"
+    },
+    {
+      "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
+      "errorAt": "2026-02-24T12:59:34.736Z",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n",
+      "id": "42176727619514386",
+      "image": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=5a24d060&needBackground=1",
+      "ownerUserId": "75467551039318016",
+      "siteUrl": "https://www.zhihu.com/people/L.M.Sherlock/activities",
+      "title": "Thoughts Memo的知乎动态",
+      "type": "feed",
+      "url": "rsshub://zhihu/people/activities/L.M.Sherlock"
+    }
+  ],
+  "view": 0
+}
+```

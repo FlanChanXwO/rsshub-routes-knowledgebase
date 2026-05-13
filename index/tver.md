@@ -4,16 +4,16 @@
 - Namespace: `tver`
 - Display Name: `TVer`
 - URL: `tver.jp`
-- Language: `ja`
+- Language: `_None_`
 - Aliases: `tver, tver.jp`
 - Route Count: `1`
 
 ## Routes
 
 ### Series
-- Route ID: `tver:/series/:id`
-- Route Path: `/series/:id`
-- File: `docs/routes/tver/series-id.md`
-- File Name: `series-id.md`
+- Route ID: `tver:/tver/series/:id`
+- Route Path: `/tver/series/:id`
+- File: `docs/routes/tver/tver-series-id.md`
+- File Name: `tver-series-id.md`
 - Categories: `traditional-media`
 - Maintainers: `yuikisaito`

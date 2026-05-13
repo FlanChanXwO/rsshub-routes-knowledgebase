@@ -1,0 +1,104 @@
+# nhentai - Advanced Search
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `nhentai`
+- Namespace Name: `nhentai`
+- Route Path: `/nhentai/search/:keyword/:mode?`
+- Route Name: `Advanced Search`
+- Example: `/nhentai/search/language%3Ajapanese+-scat+-yaoi+-guro+-"mosaic+censorship"`
+- URL: `nhentai.net`
+- Language: `_None_`
+- Categories: `anime`
+- Maintainers: `MegrezZhu, hoilc, pseudoyu`
+- Source Location: `search.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `keyword`: Keywords for search. You can copy the content after `q=` after searching on the original website, or you can enter it directly. See the [official website](https://nhentai.net/info/) for details
+- `mode`: mode, `simple` to only show cover, `detail` to show all pages, `torrent` to include Magnet URI, need login, refer to [Route-specific Configurations](https://docs.rsshub.app/deploy/config#route-specific-configurations), default to `simple`
+
+
+## Features
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: true
+- `nsfw`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `nhentai.net/:key/:keyword`
+- `target`: `/:key/:keyword`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "anime"
+  ],
+  "example": "/nhentai/search/language%3Ajapanese+-scat+-yaoi+-guro+-\"mosaic+censorship\"",
+  "features": {
+    "antiCrawler": true,
+    "nsfw": true,
+    "requirePuppeteer": false,
+    "supportBT": true
+  },
+  "heat": 158,
+  "location": "search.ts",
+  "maintainers": [
+    "MegrezZhu",
+    "hoilc",
+    "pseudoyu"
+  ],
+  "name": "Advanced Search",
+  "parameters": {
+    "keyword": "Keywords for search. You can copy the content after `q=` after searching on the original website, or you can enter it directly. See the [official website](https://nhentai.net/info/) for details",
+    "mode": "mode, `simple` to only show cover, `detail` to show all pages, `torrent` to include Magnet URI, need login, refer to [Route-specific Configurations](https://docs.rsshub.app/deploy/config#route-specific-configurations), default to `simple`"
+  },
+  "path": "/search/:keyword/:mode?",
+  "radar": [
+    {
+      "source": [
+        "nhentai.net/:key/:keyword"
+      ],
+      "target": "/:key/:keyword"
+    }
+  ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [
+    {
+      "description": "nhentai - search - chinese - Powered by RSSHub",
+      "errorAt": "2026-05-05T02:43:03.722Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "65322834478863360",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://nhentai.net/search/?q=chinese",
+      "title": "nhentai - search - chinese",
+      "type": "feed",
+      "url": "rsshub://nhentai/search/chinese"
+    },
+    {
+      "description": "nhentai - search - chinese+stockings - Powered by RSSHub",
+      "errorAt": "2026-05-05T20:36:18.740Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "54875188593719296",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://nhentai.net/search/?q=chinese+stockings",
+      "title": "nhentai - search - chinese+stockings",
+      "type": "feed",
+      "url": "rsshub://nhentai/search/chinese+stockings"
+    }
+  ]
+}
+```

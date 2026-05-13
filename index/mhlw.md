@@ -11,9 +11,9 @@
 ## Routes
 
 ### 毎月勤労統計調査 全国調査（月別結果）
-- Route ID: `mhlw:/monthly-labour-survey`
-- Route Path: `/monthly-labour-survey`
-- File: `docs/routes/mhlw/monthly-labour-survey.md`
-- File Name: `monthly-labour-survey.md`
+- Route ID: `mhlw:/mhlw/monthly-labour-survey`
+- Route Path: `/mhlw/monthly-labour-survey`
+- File: `docs/routes/mhlw/mhlw-monthly-labour-survey.md`
+- File Name: `mhlw-monthly-labour-survey.md`
 - Categories: `government`
 - Maintainers: `TonyRL`

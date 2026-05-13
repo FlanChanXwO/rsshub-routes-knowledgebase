@@ -4,16 +4,16 @@
 - Namespace: `producthunt`
 - Display Name: `Product Hunt`
 - URL: `www.producthunt.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `product hunt, producthunt, producthunt.com, www, www.producthunt.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Top Products Launching Today
-- Route ID: `producthunt:/today`
-- Route Path: `/today`
-- File: `docs/routes/producthunt/today.md`
-- File Name: `today.md`
+- Route ID: `producthunt:/producthunt/today`
+- Route Path: `/producthunt/today`
+- File: `docs/routes/producthunt/producthunt-today.md`
+- File Name: `producthunt-today.md`
 - Categories: `other`
 - Maintainers: `miaoyafeng, Fatpandac`

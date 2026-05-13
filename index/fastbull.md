@@ -4,24 +4,24 @@
 - Namespace: `fastbull`
 - Display Name: `FastBull`
 - URL: `fastbull.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `fastbull, fastbull.com`
 - Route Count: `2`
 
 ## Routes
 
 ### News Flash
-- Route ID: `fastbull:/express-news`
-- Route Path: `/express-news`
-- File: `docs/routes/fastbull/express-news.md`
-- File Name: `express-news.md`
+- Route ID: `fastbull:/fastbull/express-news`
+- Route Path: `/fastbull/express-news`
+- File: `docs/routes/fastbull/fastbull-express-news.md`
+- File Name: `fastbull-express-news.md`
 - Categories: `finance`
 - Maintainers: `nczitzk`
 
 ### News
-- Route ID: `fastbull:/news`
-- Route Path: `/news`
-- File: `docs/routes/fastbull/news.md`
-- File Name: `news.md`
+- Route ID: `fastbull:/fastbull/news`
+- Route Path: `/fastbull/news`
+- File: `docs/routes/fastbull/fastbull-news.md`
+- File Name: `fastbull-news.md`
 - Categories: `finance`
 - Maintainers: `nczitzk`

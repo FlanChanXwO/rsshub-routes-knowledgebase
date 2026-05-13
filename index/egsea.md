@@ -4,16 +4,16 @@
 - Namespace: `egsea`
 - Display Name: `e 公司`
 - URL: `egsea.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `e 公司, egsea, egsea.com`
 - Route Count: `1`
 
 ## Routes
 
 ### 快讯
-- Route ID: `egsea:/flash`
-- Route Path: `/flash`
-- File: `docs/routes/egsea/flash.md`
-- File Name: `flash.md`
+- Route ID: `egsea:/egsea/flash`
+- Route Path: `/egsea/flash`
+- File: `docs/routes/egsea/egsea-flash.md`
+- File Name: `egsea-flash.md`
 - Categories: `new-media`
 - Maintainers: `hillerliao`

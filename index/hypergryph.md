@@ -4,40 +4,48 @@
 - Namespace: `hypergryph`
 - Display Name: `鹰角网络`
 - URL: `www.hypergryph.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `hypergryph, hypergryph.com, www, www.hypergryph.com, 鹰角网络`
-- Route Count: `4`
+- Route Count: `5`
 
 ## Routes
 
 ### 明日方舟 - 游戏内公告
-- Route ID: `hypergryph:/arknights/announce/:platform?/:group?`
-- Route Path: `/arknights/announce/:platform?/:group?`
-- File: `docs/routes/hypergryph/arknights-announce-platform-group.md`
-- File Name: `arknights-announce-platform-group.md`
+- Route ID: `hypergryph:/hypergryph/arknights/announce/:platform?/:group?`
+- Route Path: `/hypergryph/arknights/announce/:platform?/:group?`
+- File: `docs/routes/hypergryph/hypergryph-arknights-announce-platform-group.md`
+- File Name: `hypergryph-arknights-announce-platform-group.md`
 - Categories: `game`
 - Maintainers: `swwind`
 
 ### 回归线
-- Route ID: `hypergryph:/arknights/arktca`
-- Route Path: `/arknights/arktca`
-- File: `docs/routes/hypergryph/arknights-arktca.md`
-- File Name: `arknights-arktca.md`
+- Route ID: `hypergryph:/hypergryph/arknights/arktca`
+- Route Path: `/hypergryph/arknights/arktca`
+- File: `docs/routes/hypergryph/hypergryph-arknights-arktca.md`
+- File Name: `hypergryph-arknights-arktca.md`
 - Categories: `game`
 - Maintainers: `Bendancom`
 
 ### アークナイツ (日服新闻)
-- Route ID: `hypergryph:/arknights/japan`
-- Route Path: `/arknights/japan`
-- File: `docs/routes/hypergryph/arknights-japan.md`
-- File Name: `arknights-japan.md`
+- Route ID: `hypergryph:/hypergryph/arknights/japan`
+- Route Path: `/hypergryph/arknights/japan`
+- File: `docs/routes/hypergryph/hypergryph-arknights-japan.md`
+- File Name: `hypergryph-arknights-japan.md`
 - Categories: `game`
 - Maintainers: `ofyark`
 
 ### 明日方舟 - 游戏公告与新闻
-- Route ID: `hypergryph:/arknights/news/:group?`
-- Route Path: `/arknights/news/:group?`
-- File: `docs/routes/hypergryph/arknights-news-group.md`
-- File Name: `arknights-news-group.md`
+- Route ID: `hypergryph:/hypergryph/arknights/news/:group?`
+- Route Path: `/hypergryph/arknights/news/:group?`
+- File: `docs/routes/hypergryph/hypergryph-arknights-news-group.md`
+- File Name: `hypergryph-arknights-news-group.md`
 - Categories: `game`
 - Maintainers: `Astrian`
+
+### 明日方舟：终末地 - 游戏公告与新闻
+- Route ID: `hypergryph:/hypergryph/endfield/news/:group?`
+- Route Path: `/hypergryph/endfield/news/:group?`
+- File: `docs/routes/hypergryph/hypergryph-endfield-news-group.md`
+- File Name: `hypergryph-endfield-news-group.md`
+- Categories: `game`
+- Maintainers: `E-larex`

@@ -4,16 +4,16 @@
 - Namespace: `appleinsider`
 - Display Name: `AppleInsider`
 - URL: `appleinsider.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `appleinsider, appleinsider.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Category
-- Route ID: `appleinsider:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/appleinsider/category.md`
-- File Name: `category.md`
+- Route ID: `appleinsider:/appleinsider/:category?`
+- Route Path: `/appleinsider/:category?`
+- File: `docs/routes/appleinsider/appleinsider-category.md`
+- File Name: `appleinsider-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

@@ -4,16 +4,16 @@
 - Namespace: `wohnnet`
 - Display Name: `wohnnet.at`
 - URL: `wohnnet.at`
-- Language: `de`
+- Language: `_None_`
 - Aliases: `wohnnet, wohnnet.at`
 - Route Count: `1`
 
 ## Routes
 
 ### Immobiliensuche
-- Route ID: `wohnnet:/:category/:region/*`
-- Route Path: `/:category/:region/*`
-- File: `docs/routes/wohnnet/category-region.md`
-- File Name: `category-region.md`
+- Route ID: `wohnnet:/wohnnet/:category/:region/*`
+- Route Path: `/wohnnet/:category/:region/*`
+- File: `docs/routes/wohnnet/wohnnet-category-region.md`
+- File Name: `wohnnet-category-region.md`
 - Categories: `other`
 - Maintainers: `sk22`

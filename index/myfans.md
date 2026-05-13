@@ -4,16 +4,16 @@
 - Namespace: `myfans`
 - Display Name: `myfans`
 - URL: `myfans.jp`
-- Language: `ja`
+- Language: `_None_`
 - Aliases: `myfans, myfans.jp`
 - Route Count: `1`
 
 ## Routes
 
 ### User Posts
-- Route ID: `myfans:/user/:username`
-- Route Path: `/user/:username`
-- File: `docs/routes/myfans/user-username.md`
-- File Name: `user-username.md`
+- Route ID: `myfans:/myfans/user/:username`
+- Route Path: `/myfans/user/:username`
+- File: `docs/routes/myfans/myfans-user-username.md`
+- File Name: `myfans-user-username.md`
 - Categories: `multimedia`
 - Maintainers: `TonyRL`

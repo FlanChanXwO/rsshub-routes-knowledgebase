@@ -4,16 +4,16 @@
 - Namespace: `vice`
 - Display Name: `VICE`
 - URL: `vice.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `vice, vice.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Topic
-- Route ID: `vice:/topic/:topic/:language?`
-- Route Path: `/topic/:topic/:language?`
-- File: `docs/routes/vice/topic-topic-language.md`
-- File Name: `topic-topic-language.md`
+- Route ID: `vice:/vice/topic/:topic/:language?`
+- Route Path: `/vice/topic/:topic/:language?`
+- File: `docs/routes/vice/vice-topic-topic-language.md`
+- File Name: `vice-topic-topic-language.md`
 - Categories: `traditional-media`
 - Maintainers: `K33k0`

@@ -4,16 +4,16 @@
 - Namespace: `baoyu`
 - Display Name: `宝玉`
 - URL: `baoyu.io`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `baoyu, baoyu.io, 宝玉`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `baoyu:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/baoyu/blog.md`
-- File Name: `blog.md`
-- Categories: `blog`
+- Route ID: `baoyu:/baoyu/blog`
+- Route Path: `/baoyu/blog`
+- File: `docs/routes/baoyu/baoyu-blog.md`
+- File Name: `baoyu-blog.md`
+- Categories: `blog, popular`
 - Maintainers: `liyaozhong, Circloud`

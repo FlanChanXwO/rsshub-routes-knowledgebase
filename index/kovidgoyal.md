@@ -4,16 +4,16 @@
 - Namespace: `kovidgoyal`
 - Display Name: `Kovid's software projects`
 - URL: `sw.kovidgoyal.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `kovid's software projects, kovidgoyal, sw, sw.kovidgoyal.net`
 - Route Count: `1`
 
 ## Routes
 
 ### Changelog
-- Route ID: `kovidgoyal:/kitty/changelog`
-- Route Path: `/kitty/changelog`
-- File: `docs/routes/kovidgoyal/kitty-changelog.md`
-- File Name: `kitty-changelog.md`
+- Route ID: `kovidgoyal:/kovidgoyal/kitty/changelog`
+- Route Path: `/kovidgoyal/kitty/changelog`
+- File: `docs/routes/kovidgoyal/kovidgoyal-kitty-changelog.md`
+- File Name: `kovidgoyal-kitty-changelog.md`
 - Categories: `program-update`
 - Maintainers: `xbot`

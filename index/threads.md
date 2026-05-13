@@ -4,16 +4,16 @@
 - Namespace: `threads`
 - Display Name: `Threads`
 - URL: `threads.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `threads, threads.net`
 - Route Count: `1`
 
 ## Routes
 
 ### User timeline
-- Route ID: `threads:/:user/:routeParams?`
-- Route Path: `/:user/:routeParams?`
-- File: `docs/routes/threads/user-routeparams.md`
-- File Name: `user-routeparams.md`
-- Categories: `social-media`
+- Route ID: `threads:/threads/:user/:routeParams?`
+- Route Path: `/threads/:user/:routeParams?`
+- File: `docs/routes/threads/threads-user-routeparams.md`
+- File Name: `threads-user-routeparams.md`
+- Categories: `social-media, popular`
 - Maintainers: `ninboy, pseudoyu`

@@ -1,0 +1,96 @@
+# 哔哩哔哩 bilibili - 更新情报
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `bilibili`
+- Namespace Name: `哔哩哔哩 bilibili`
+- Route Path: `/bilibili/app/:id?`
+- Route Name: `更新情报`
+- Example: `/bilibili/app/android`
+- URL: `www.bilibili.com`
+- Language: `_None_`
+- Categories: `program-update`
+- Maintainers: `nczitzk`
+- Source Location: `app.ts`
+- Source Module: `_None_`
+
+## Description
+| 安卓版  | iPhone 版 | iPad HD 版 | UWP 版 | TV 版            |
+| ------- | --------- | ---------- | ------ | ---------------- |
+| android | iphone    | ipad       | win    | android\_tv\_yst |
+
+## Parameters
+- `id`: 客户端 id，见下表，默认为安卓版
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "program-update"
+  ],
+  "description": "| 安卓版  | iPhone 版 | iPad HD 版 | UWP 版 | TV 版            |\n| ------- | --------- | ---------- | ------ | ---------------- |\n| android | iphone    | ipad       | win    | android\\_tv\\_yst |",
+  "example": "/bilibili/app/android",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 12,
+  "location": "app.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "更新情报",
+  "parameters": {
+    "id": "客户端 id，见下表，默认为安卓版"
+  },
+  "path": "/app/:id?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected [ 'https://app.bilibili.com/' ] to not include 'https://app.bilibili.com/'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [
+    {
+      "description": "哔哩哔哩更新情报 - 安卓版 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "150446950684260352",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://app.bilibili.com/",
+      "title": "哔哩哔哩更新情报 - 安卓版",
+      "type": "feed",
+      "url": "rsshub://bilibili/app"
+    },
+    {
+      "description": "哔哩哔哩更新情报 - 安卓版 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126248708971069440",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://app.bilibili.com/",
+      "title": "哔哩哔哩更新情报 - 安卓版",
+      "type": "feed",
+      "url": "rsshub://bilibili/app/android"
+    }
+  ]
+}
+```

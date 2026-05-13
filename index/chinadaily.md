@@ -4,16 +4,16 @@
 - Namespace: `chinadaily`
 - Display Name: `中国日报网`
 - URL: `chinadaily.com.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `chinadaily, chinadaily.com.cn, 中国日报网`
 - Route Count: `1`
 
 ## Routes
 
 ### 英语点津
-- Route ID: `chinadaily:/language/:category{.+}?`
-- Route Path: `/language/:category{.+}?`
-- File: `docs/routes/chinadaily/language-category.md`
-- File Name: `language-category.md`
+- Route ID: `chinadaily:/chinadaily/language/:category{.+}?`
+- Route Path: `/chinadaily/language/:category{.+}?`
+- File: `docs/routes/chinadaily/chinadaily-language-category.md`
+- File Name: `chinadaily-language-category.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`

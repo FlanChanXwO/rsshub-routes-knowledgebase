@@ -4,40 +4,40 @@
 - Namespace: `indienova`
 - Display Name: `indienova 独立游戏`
 - URL: `indienova.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `indienova, indienova 独立游戏, indienova.com`
 - Route Count: `4`
 
 ## Routes
 
 ### 文章
-- Route ID: `indienova:/:type`
-- Route Path: `/:type`
-- File: `docs/routes/indienova/type.md`
-- File Name: `type.md`
+- Route ID: `indienova:/indienova/:type`
+- Route Path: `/indienova/:type`
+- File: `docs/routes/indienova/indienova-type.md`
+- File Name: `indienova-type.md`
 - Categories: `game`
 - Maintainers: `GensouSakuya, kt286`
 
 ### 专题
-- Route ID: `indienova:/column/:columnId`
-- Route Path: `/column/:columnId`
-- File: `docs/routes/indienova/column-columnid.md`
-- File Name: `column-columnid.md`
+- Route ID: `indienova:/indienova/column/:columnId`
+- Route Path: `/indienova/column/:columnId`
+- File: `docs/routes/indienova/indienova-column-columnid.md`
+- File Name: `indienova-column-columnid.md`
 - Categories: `game`
 - Maintainers: `TonyRL`
 
 ### Unknown
-- Route ID: `indienova:/gamedb/recent`
-- Route Path: `/gamedb/recent`
-- File: `docs/routes/indienova/gamedb-recent.md`
-- File Name: `gamedb-recent.md`
-- Categories: `None`
+- Route ID: `indienova:/indienova/gamedb/recent`
+- Route Path: `/indienova/gamedb/recent`
+- File: `docs/routes/indienova/indienova-gamedb-recent.md`
+- File Name: `indienova-gamedb-recent.md`
+- Categories: `game`
 - Maintainers: `TonyRL`
 
 ### 会员开发游戏库
-- Route ID: `indienova:/usergames`
-- Route Path: `/usergames`
-- File: `docs/routes/indienova/usergames.md`
-- File Name: `usergames.md`
+- Route ID: `indienova:/indienova/usergames`
+- Route Path: `/indienova/usergames`
+- File: `docs/routes/indienova/indienova-usergames.md`
+- File Name: `indienova-usergames.md`
 - Categories: `game`
 - Maintainers: `TonyRL`

@@ -4,16 +4,16 @@
 - Namespace: `lancedb`
 - Display Name: `LanceDB`
 - URL: `lancedb.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `lancedb, lancedb.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `lancedb:/blog/:category?`
-- Route Path: `/blog/:category?`
-- File: `docs/routes/lancedb/blog-category.md`
-- File Name: `blog-category.md`
+- Route ID: `lancedb:/lancedb/blog/:category?`
+- Route Path: `/lancedb/blog/:category?`
+- File: `docs/routes/lancedb/lancedb-blog-category.md`
+- File Name: `lancedb-blog-category.md`
 - Categories: `programming`
 - Maintainers: `HUSTERGS`

@@ -4,16 +4,16 @@
 - Namespace: `shuiguopai`
 - Display Name: `水果派`
 - URL: `shuiguopai.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `shuiguopai, shuiguopai.com, 水果派`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `shuiguopai:/`
-- Route Path: `/`
-- File: `docs/routes/shuiguopai/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `shuiguopai:/shuiguopai/`
+- Route Path: `/shuiguopai/`
+- File: `docs/routes/shuiguopai/shuiguopai.md`
+- File Name: `shuiguopai.md`
+- Categories: `other`
 - Maintainers: `nczitzk`

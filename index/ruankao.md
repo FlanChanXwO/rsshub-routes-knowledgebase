@@ -11,9 +11,9 @@
 ## Routes
 
 ### 软考动态
-- Route ID: `ruankao:/news`
-- Route Path: `/news`
-- File: `docs/routes/ruankao/news.md`
-- File Name: `news.md`
+- Route ID: `ruankao:/ruankao/news`
+- Route Path: `/ruankao/news`
+- File: `docs/routes/ruankao/ruankao-news.md`
+- File Name: `ruankao-news.md`
 - Categories: `study`
 - Maintainers: `PrinOrange`

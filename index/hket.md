@@ -4,16 +4,16 @@
 - Namespace: `hket`
 - Display Name: `香港经济日报`
 - URL: `china.hket.com`
-- Language: `zh-HK`
+- Language: `_None_`
 - Aliases: `china, china.hket.com, hket, 香港经济日报`
 - Route Count: `1`
 
 ## Routes
 
 ### 新闻
-- Route ID: `hket:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/hket/category.md`
-- File Name: `category.md`
+- Route ID: `hket:/hket/:category?`
+- Route Path: `/hket/:category?`
+- File: `docs/routes/hket/hket-category.md`
+- File Name: `hket-category.md`
 - Categories: `traditional-media`
 - Maintainers: `TonyRL`

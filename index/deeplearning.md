@@ -4,16 +4,16 @@
 - Namespace: `deeplearning`
 - Display Name: `DeepLearning.AI`
 - URL: `www.deeplearning.ai`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `deeplearning, deeplearning.ai, www, www.deeplearning.ai`
 - Route Count: `1`
 
 ## Routes
 
 ### The Batch
-- Route ID: `deeplearning:/the-batch/:tag{.+}?`
-- Route Path: `/the-batch/:tag{.+}?`
-- File: `docs/routes/deeplearning/the-batch-tag.md`
-- File Name: `the-batch-tag.md`
+- Route ID: `deeplearning:/deeplearning/the-batch/:tag{.+}?`
+- Route Path: `/deeplearning/the-batch/:tag{.+}?`
+- File: `docs/routes/deeplearning/deeplearning-the-batch-tag.md`
+- File Name: `deeplearning-the-batch-tag.md`
 - Categories: `programming`
 - Maintainers: `nczitzk, juvenn, TonyRL`

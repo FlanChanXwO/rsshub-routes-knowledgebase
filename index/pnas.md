@@ -4,16 +4,16 @@
 - Namespace: `pnas`
 - Display Name: `Proceedings of The National Academy of Sciences`
 - URL: `pnas.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `pnas, pnas.org, proceedings of the national academy of sciences`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `pnas:/:topicPath{.+}?`
-- Route Path: `/:topicPath{.+}?`
-- File: `docs/routes/pnas/topicpath.md`
-- File Name: `topicpath.md`
-- Categories: `None`
+- Route ID: `pnas:/pnas/:topicPath{.+}?`
+- Route Path: `/pnas/:topicPath{.+}?`
+- File: `docs/routes/pnas/pnas-topicpath.md`
+- File Name: `pnas-topicpath.md`
+- Categories: `other`
 - Maintainers: `None`

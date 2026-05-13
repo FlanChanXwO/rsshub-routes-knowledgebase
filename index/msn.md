@@ -11,9 +11,9 @@
 ## Routes
 
 ### News
-- Route ID: `msn:/:market/:name/:id`
-- Route Path: `/:market/:name/:id`
-- File: `docs/routes/msn/market-name-id.md`
-- File Name: `market-name-id.md`
+- Route ID: `msn:/msn/:market/:name/:id`
+- Route Path: `/msn/:market/:name/:id`
+- File: `docs/routes/msn/msn-market-name-id.md`
+- File Name: `msn-market-name-id.md`
 - Categories: `traditional-media`
 - Maintainers: `KTachibanaM`

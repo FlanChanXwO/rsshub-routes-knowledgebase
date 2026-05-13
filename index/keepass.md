@@ -4,16 +4,16 @@
 - Namespace: `keepass`
 - Display Name: `KeePass`
 - URL: `keepass.info`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `keepass, keepass.info`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `keepass:/`
-- Route Path: `/`
-- File: `docs/routes/keepass/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `keepass:/keepass/`
+- Route Path: `/keepass/`
+- File: `docs/routes/keepass/keepass.md`
+- File Name: `keepass.md`
+- Categories: `other`
 - Maintainers: `TonyRL`

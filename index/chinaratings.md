@@ -11,9 +11,9 @@
 ## Routes
 
 ### 中债研究
-- Route ID: `chinaratings:/CreditResearch/:category{.+}?`
-- Route Path: `/CreditResearch/:category{.+}?`
-- File: `docs/routes/chinaratings/creditresearch-category.md`
-- File Name: `creditresearch-category.md`
+- Route ID: `chinaratings:/chinaratings/CreditResearch/:category{.+}?`
+- Route Path: `/chinaratings/CreditResearch/:category{.+}?`
+- File: `docs/routes/chinaratings/chinaratings-creditresearch-category.md`
+- File Name: `chinaratings-creditresearch-category.md`
 - Categories: `finance`
 - Maintainers: `nczitzk`

@@ -4,16 +4,16 @@
 - Namespace: `worldofwarships`
 - Display Name: `World of Warships`
 - URL: `worldofwarships.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `world of warships, worldofwarships, worldofwarships.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Development Blog
-- Route ID: `worldofwarships:/devblog`
-- Route Path: `/devblog`
-- File: `docs/routes/worldofwarships/devblog.md`
-- File Name: `devblog.md`
+- Route ID: `worldofwarships:/worldofwarships/devblog`
+- Route Path: `/worldofwarships/devblog`
+- File: `docs/routes/worldofwarships/worldofwarships-devblog.md`
+- File Name: `worldofwarships-devblog.md`
 - Categories: `game`
 - Maintainers: `SinCerely023`

@@ -4,16 +4,16 @@
 - Namespace: `caixinglobal`
 - Display Name: `Caixin Global`
 - URL: `caixinglobal.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `caixin global, caixinglobal, caixinglobal.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Latest News
-- Route ID: `caixinglobal:/latest`
-- Route Path: `/latest`
-- File: `docs/routes/caixinglobal/latest.md`
-- File Name: `latest.md`
+- Route ID: `caixinglobal:/caixinglobal/latest`
+- Route Path: `/caixinglobal/latest`
+- File: `docs/routes/caixinglobal/caixinglobal-latest.md`
+- File Name: `caixinglobal-latest.md`
 - Categories: `traditional-media`
 - Maintainers: `TonyRL`

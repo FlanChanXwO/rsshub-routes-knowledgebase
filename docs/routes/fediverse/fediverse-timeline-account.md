@@ -1,0 +1,94 @@
+# Fediverse - Timeline
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `fediverse`
+- Namespace Name: `Fediverse`
+- Route Path: `/fediverse/timeline/:account`
+- Route Name: `Timeline`
+- Example: `/fediverse/timeline/Mastodon@mastodon.social`
+- URL: `fediverse.observer`
+- Language: `_None_`
+- Categories: `social-media`
+- Maintainers: `DIYgod, pseudoyu`
+- Source Location: `timeline.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `account`: username@domain
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media"
+  ],
+  "example": "/fediverse/timeline/Mastodon@mastodon.social",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 60,
+  "location": "timeline.ts",
+  "maintainers": [
+    "DIYgod",
+    "pseudoyu"
+  ],
+  "name": "Timeline",
+  "parameters": {
+    "account": "username@domain"
+  },
+  "path": "/timeline/:account",
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "Public posts from @pseudoyu@mas.to - Powered by RSSHub",
+      "errorAt": "2026-01-20T10:21:10.572Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "id": "56548464220512256",
+      "image": "https://media.mas.to/accounts/avatars/109/300/507/275/095/341/original/9a0abd8b35530714.jpeg",
+      "ownerUserId": "41229460898486272",
+      "siteUrl": "https://mas.to/@pseudoyu",
+      "title": "pseudoyu (Fediverse@pseudoyu@mas.to)",
+      "type": "feed",
+      "url": "rsshub://fediverse/timeline/pseudoyu%40mas.to"
+    },
+    {
+      "description": "Public posts from @Mastodon@mastodon.social - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56934811567432704",
+      "image": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+      "ownerUserId": null,
+      "siteUrl": "https://mastodon.social/@Mastodon",
+      "title": "Mastodon (Fediverse@Mastodon@mastodon.social)",
+      "type": "feed",
+      "url": "rsshub://fediverse/timeline/Mastodon@mastodon.social"
+    }
+  ],
+  "view": 1
+}
+```

@@ -4,24 +4,24 @@
 - Namespace: `chaincatcher`
 - Display Name: `链捕手 ChainCatcher`
 - URL: `chaincatcher.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `chaincatcher, chaincatcher.com, 链捕手 chaincatcher`
 - Route Count: `2`
 
 ## Routes
 
 ### Unknown
-- Route ID: `chaincatcher:/`
-- Route Path: `/`
-- File: `docs/routes/chaincatcher/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `chaincatcher:/chaincatcher/`
+- Route Path: `/chaincatcher/`
+- File: `docs/routes/chaincatcher/chaincatcher.md`
+- File Name: `chaincatcher.md`
+- Categories: `new-media`
 - Maintainers: `TonyRL`
 
 ### 快讯
-- Route ID: `chaincatcher:/news`
-- Route Path: `/news`
-- File: `docs/routes/chaincatcher/news.md`
-- File Name: `news.md`
+- Route ID: `chaincatcher:/chaincatcher/news`
+- Route Path: `/chaincatcher/news`
+- File: `docs/routes/chaincatcher/chaincatcher-news.md`
+- File Name: `chaincatcher-news.md`
 - Categories: `new-media`
 - Maintainers: `TonyRL`

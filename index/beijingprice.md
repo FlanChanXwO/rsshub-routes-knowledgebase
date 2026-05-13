@@ -4,16 +4,16 @@
 - Namespace: `beijingprice`
 - Display Name: `北京价格`
 - URL: `beijingprice.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `beijingprice, beijingprice.cn, 北京价格`
 - Route Count: `1`
 
 ## Routes
 
 ### 资讯
-- Route ID: `beijingprice:/:category{.+}?`
-- Route Path: `/:category{.+}?`
-- File: `docs/routes/beijingprice/category.md`
-- File Name: `category.md`
+- Route ID: `beijingprice:/beijingprice/:category{.+}?`
+- Route Path: `/beijingprice/:category{.+}?`
+- File: `docs/routes/beijingprice/beijingprice-category.md`
+- File Name: `beijingprice-category.md`
 - Categories: `government`
 - Maintainers: `nczitzk`

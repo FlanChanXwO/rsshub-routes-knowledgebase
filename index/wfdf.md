@@ -4,16 +4,16 @@
 - Namespace: `wfdf`
 - Display Name: `WFDF`
 - URL: `wfdf.sport`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `wfdf, wfdf.sport`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `wfdf:/news`
-- Route Path: `/news`
-- File: `docs/routes/wfdf/news.md`
-- File Name: `news.md`
+- Route ID: `wfdf:/wfdf/news`
+- Route Path: `/wfdf/news`
+- File: `docs/routes/wfdf/wfdf-news.md`
+- File Name: `wfdf-news.md`
 - Categories: `sport`
 - Maintainers: `HankChow`

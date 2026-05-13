@@ -11,9 +11,9 @@
 ## Routes
 
 ### Potplayer Update History
-- Route ID: `daum:/potplayer/:lang?`
-- Route Path: `/potplayer/:lang?`
-- File: `docs/routes/daum/potplayer-lang.md`
-- File Name: `potplayer-lang.md`
+- Route ID: `daum:/daum/potplayer/:lang?`
+- Route Path: `/daum/potplayer/:lang?`
+- File: `docs/routes/daum/daum-potplayer-lang.md`
+- File Name: `daum-potplayer-lang.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`

@@ -4,16 +4,16 @@
 - Namespace: `toodaylab`
 - Display Name: `理想生活实验室`
 - URL: `toodaylab.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `toodaylab, toodaylab.com, 理想生活实验室`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `toodaylab:/:params{.+}?`
-- Route Path: `/:params{.+}?`
-- File: `docs/routes/toodaylab/params.md`
-- File Name: `params.md`
-- Categories: `None`
+- Route ID: `toodaylab:/toodaylab/:params{.+}?`
+- Route Path: `/toodaylab/:params{.+}?`
+- File: `docs/routes/toodaylab/toodaylab-params.md`
+- File Name: `toodaylab-params.md`
+- Categories: `other`
 - Maintainers: `None`

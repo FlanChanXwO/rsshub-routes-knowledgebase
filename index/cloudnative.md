@@ -4,16 +4,16 @@
 - Namespace: `cloudnative`
 - Display Name: `云原生社区`
 - URL: `cloudnative.to`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cloudnative, cloudnative.to, 云原生社区`
 - Route Count: `1`
 
 ## Routes
 
 ### 博客
-- Route ID: `cloudnative:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/cloudnative/blog.md`
-- File Name: `blog.md`
+- Route ID: `cloudnative:/cloudnative/blog`
+- Route Path: `/cloudnative/blog`
+- File: `docs/routes/cloudnative/cloudnative-blog.md`
+- File Name: `cloudnative-blog.md`
 - Categories: `blog`
 - Maintainers: `aneasystone`

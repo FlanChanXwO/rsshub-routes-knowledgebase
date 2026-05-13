@@ -4,48 +4,48 @@
 - Namespace: `leetcode`
 - Display Name: `LeetCode`
 - URL: `leetcode.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `leetcode, leetcode.com`
 - Route Count: `5`
 
 ## Routes
 
 ### Articles
-- Route ID: `leetcode:/articles`
-- Route Path: `/articles`
-- File: `docs/routes/leetcode/articles.md`
-- File Name: `articles.md`
+- Route ID: `leetcode:/leetcode/articles`
+- Route Path: `/leetcode/articles`
+- File: `docs/routes/leetcode/leetcode-articles.md`
+- File Name: `leetcode-articles.md`
 - Categories: `programming`
 - Maintainers: `LogicJake`
 
 ### Unknown
-- Route ID: `leetcode:/dailyquestion/cn`
-- Route Path: `/dailyquestion/cn`
-- File: `docs/routes/leetcode/dailyquestion-cn.md`
-- File Name: `dailyquestion-cn.md`
-- Categories: `None`
+- Route ID: `leetcode:/leetcode/dailyquestion/cn`
+- Route Path: `/leetcode/dailyquestion/cn`
+- File: `docs/routes/leetcode/leetcode-dailyquestion-cn.md`
+- File Name: `leetcode-dailyquestion-cn.md`
+- Categories: `programming`
 - Maintainers: `None`
 
 ### Unknown
-- Route ID: `leetcode:/dailyquestion/en`
-- Route Path: `/dailyquestion/en`
-- File: `docs/routes/leetcode/dailyquestion-en.md`
-- File Name: `dailyquestion-en.md`
-- Categories: `None`
+- Route ID: `leetcode:/leetcode/dailyquestion/en`
+- Route Path: `/leetcode/dailyquestion/en`
+- File: `docs/routes/leetcode/leetcode-dailyquestion-en.md`
+- File Name: `leetcode-dailyquestion-en.md`
+- Categories: `programming`
 - Maintainers: `None`
 
 ### Unknown
-- Route ID: `leetcode:/dailyquestion/solution/cn`
-- Route Path: `/dailyquestion/solution/cn`
-- File: `docs/routes/leetcode/dailyquestion-solution-cn.md`
-- File Name: `dailyquestion-solution-cn.md`
-- Categories: `None`
+- Route ID: `leetcode:/leetcode/dailyquestion/solution/cn`
+- Route Path: `/leetcode/dailyquestion/solution/cn`
+- File: `docs/routes/leetcode/leetcode-dailyquestion-solution-cn.md`
+- File Name: `leetcode-dailyquestion-solution-cn.md`
+- Categories: `programming`
 - Maintainers: `None`
 
 ### Unknown
-- Route ID: `leetcode:/dailyquestion/solution/en`
-- Route Path: `/dailyquestion/solution/en`
-- File: `docs/routes/leetcode/dailyquestion-solution-en.md`
-- File Name: `dailyquestion-solution-en.md`
-- Categories: `None`
+- Route ID: `leetcode:/leetcode/dailyquestion/solution/en`
+- Route Path: `/leetcode/dailyquestion/solution/en`
+- File: `docs/routes/leetcode/leetcode-dailyquestion-solution-en.md`
+- File Name: `leetcode-dailyquestion-solution-en.md`
+- Categories: `programming`
 - Maintainers: `None`

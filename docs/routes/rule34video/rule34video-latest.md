@@ -1,0 +1,78 @@
+# Rule34Video - Latest Updates
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `rule34video`
+- Namespace Name: `Rule34Video`
+- Route Path: `/rule34video/latest`
+- Route Name: `Latest Updates`
+- Example: `/rule34video/latest`
+- URL: `rule34video.com`
+- Language: `_None_`
+- Categories: `multimedia`
+- Maintainers: `ashi-koki`
+- Source Location: `latest.ts`
+- Source Module: `_None_`
+
+## Description
+Latest updates from Rule34 Video
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+- `nsfw`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `rule34video.com/latest-updates/`
+- `target`: `/latest`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "multimedia"
+  ],
+  "description": "Latest updates from Rule34 Video",
+  "example": "/rule34video/latest",
+  "features": {
+    "antiCrawler": false,
+    "nsfw": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 2,
+  "location": "latest.ts",
+  "maintainers": [
+    "ashi-koki"
+  ],
+  "name": "Latest Updates",
+  "path": "/latest",
+  "radar": [
+    {
+      "source": [
+        "rule34video.com/latest-updates/"
+      ],
+      "target": "/latest"
+    }
+  ],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": []
+}
+```

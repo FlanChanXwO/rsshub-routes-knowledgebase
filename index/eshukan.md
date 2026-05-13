@@ -4,16 +4,16 @@
 - Namespace: `eshukan`
 - Display Name: `万维书刊网`
 - URL: `eshukan.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `eshukan, eshukan.com, 万维书刊网`
 - Route Count: `1`
 
 ## Routes
 
 ### 学术资讯
-- Route ID: `eshukan:/academic/:id?`
-- Route Path: `/academic/:id?`
-- File: `docs/routes/eshukan/academic-id.md`
-- File Name: `academic-id.md`
+- Route ID: `eshukan:/eshukan/academic/:id?`
+- Route Path: `/eshukan/academic/:id?`
+- File: `docs/routes/eshukan/eshukan-academic-id.md`
+- File Name: `eshukan-academic-id.md`
 - Categories: `study`
 - Maintainers: `nczitzk`

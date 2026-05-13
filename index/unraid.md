@@ -4,16 +4,16 @@
 - Namespace: `unraid`
 - Display Name: `Unraid`
 - URL: `unraid.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `unraid, unraid.net`
 - Route Count: `1`
 
 ## Routes
 
 ### Community Apps
-- Route ID: `unraid:/community-apps`
-- Route Path: `/community-apps`
-- File: `docs/routes/unraid/community-apps.md`
-- File Name: `community-apps.md`
+- Route ID: `unraid:/unraid/community-apps`
+- Route Path: `/unraid/community-apps`
+- File: `docs/routes/unraid/unraid-community-apps.md`
+- File Name: `unraid-community-apps.md`
 - Categories: `program-update`
 - Maintainers: `KTachibanaM`

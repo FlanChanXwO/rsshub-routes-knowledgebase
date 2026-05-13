@@ -4,56 +4,40 @@
 - Namespace: `hupu`
 - Display Name: `虎扑`
 - URL: `.hupu.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `.hupu.com, hupu, 虎扑`
-- Route Count: `6`
+- Route Count: `4`
 
 ## Routes
 
-### 手机虎扑网
-- Route ID: `hupu:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/hupu/category.md`
-- File Name: `category.md`
-- Categories: `bbs`
-- Maintainers: `nczitzk, hyoban`
-
 ### 热帖
-- Route ID: `hupu:/all/:id?`
-- Route Path: `/all/:id?`
-- File: `docs/routes/hupu/all-id.md`
-- File Name: `all-id.md`
+- Route ID: `hupu:/hupu/all/:id?`
+- Route Path: `/hupu/all/:id?`
+- File: `docs/routes/hupu/hupu-all-id.md`
+- File Name: `hupu-all-id.md`
 - Categories: `bbs`
 - Maintainers: `nczitzk`
 
 ### 社区
-- Route ID: `hupu:/bbs/:id?/:order?`
-- Route Path: `/bbs/:id?/:order?`
-- File: `docs/routes/hupu/bbs-id-order.md`
-- File Name: `bbs-id-order.md`
-- Categories: `bbs`
-- Maintainers: `LogicJake, nczitzk`
-
-### 社区
-- Route ID: `hupu:/bxj/:id?/:order?`
-- Route Path: `/bxj/:id?/:order?`
-- File: `docs/routes/hupu/bxj-id-order.md`
-- File Name: `bxj-id-order.md`
+- Route ID: `hupu:/hupu/bbs/:id?/:order?`
+- Route Path: `/hupu/bbs/:id?/:order?`
+- File: `docs/routes/hupu/hupu-bbs-id-order.md`
+- File Name: `hupu-bbs-id-order.md`
 - Categories: `bbs`
 - Maintainers: `LogicJake, nczitzk`
 
 ### 手机虎扑网
-- Route ID: `hupu:/dept/:category?`
-- Route Path: `/dept/:category?`
-- File: `docs/routes/hupu/dept-category.md`
-- File Name: `dept-category.md`
+- Route ID: `hupu:/hupu/dept/:category?`
+- Route Path: `/hupu/dept/:category?`
+- File: `docs/routes/hupu/hupu-dept-category.md`
+- File Name: `hupu-dept-category.md`
 - Categories: `bbs`
 - Maintainers: `nczitzk, hyoban`
 
 ### 队伍新闻
-- Route ID: `hupu:/news/:team`
-- Route Path: `/news/:team`
-- File: `docs/routes/hupu/news-team.md`
-- File Name: `news-team.md`
+- Route ID: `hupu:/hupu/news/:team`
+- Route Path: `/hupu/news/:team`
+- File: `docs/routes/hupu/hupu-news-team.md`
+- File Name: `hupu-news-team.md`
 - Categories: `bbs`
 - Maintainers: `hyoban`

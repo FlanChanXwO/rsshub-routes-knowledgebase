@@ -4,16 +4,16 @@
 - Namespace: `cmde`
 - Display Name: `国家药品监督管理局医疗器械技术审评中心`
 - URL: `www.cmde.org.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cmde, cmde.org.cn, www, www.cmde.org.cn, 国家药品监督管理局医疗器械技术审评中心`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `cmde:/:cate{.+}?`
-- Route Path: `/:cate{.+}?`
-- File: `docs/routes/cmde/cate.md`
-- File Name: `cate.md`
-- Categories: `None`
+- Route ID: `cmde:/cmde/:cate{.+}?`
+- Route Path: `/cmde/:cate{.+}?`
+- File: `docs/routes/cmde/cmde-cate.md`
+- File Name: `cmde-cate.md`
+- Categories: `other`
 - Maintainers: `None`

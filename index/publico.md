@@ -11,81 +11,81 @@
 ## Routes
 
 ### Ciencias
-- Route ID: `publico:/ciencias/:subsection?`
-- Route Path: `/ciencias/:subsection?`
-- File: `docs/routes/publico/ciencias-subsection.md`
-- File Name: `ciencias-subsection.md`
+- Route ID: `publico:/publico/ciencias/:subsection?`
+- Route Path: `/publico/ciencias/:subsection?`
+- File: `docs/routes/publico/publico-ciencias-subsection.md`
+- File Name: `publico-ciencias-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Culturas
-- Route ID: `publico:/culturas/:subsection?`
-- Route Path: `/culturas/:subsection?`
-- File: `docs/routes/publico/culturas-subsection.md`
-- File Name: `culturas-subsection.md`
+- Route ID: `publico:/publico/culturas/:subsection?`
+- Route Path: `/publico/culturas/:subsection?`
+- File: `docs/routes/publico/publico-culturas-subsection.md`
+- File Name: `publico-culturas-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Economia
-- Route ID: `publico:/economia/:subsection?`
-- Route Path: `/economia/:subsection?`
-- File: `docs/routes/publico/economia-subsection.md`
-- File Name: `economia-subsection.md`
+- Route ID: `publico:/publico/economia/:subsection?`
+- Route Path: `/publico/economia/:subsection?`
+- File: `docs/routes/publico/publico-economia-subsection.md`
+- File Name: `publico-economia-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Internacional
-- Route ID: `publico:/internacional/:subsection?`
-- Route Path: `/internacional/:subsection?`
-- File: `docs/routes/publico/internacional-subsection.md`
-- File Name: `internacional-subsection.md`
+- Route ID: `publico:/publico/internacional/:subsection?`
+- Route Path: `/publico/internacional/:subsection?`
+- File: `docs/routes/publico/publico-internacional-subsection.md`
+- File Name: `publico-internacional-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Mujer
-- Route ID: `publico:/mujer/:subsection?`
-- Route Path: `/mujer/:subsection?`
-- File: `docs/routes/publico/mujer-subsection.md`
-- File Name: `mujer-subsection.md`
+- Route ID: `publico:/publico/mujer/:subsection?`
+- Route Path: `/publico/mujer/:subsection?`
+- File: `docs/routes/publico/publico-mujer-subsection.md`
+- File Name: `publico-mujer-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Opinión
-- Route ID: `publico:/opinion/:subsection?`
-- Route Path: `/opinion/:subsection?`
-- File: `docs/routes/publico/opinion-subsection.md`
-- File Name: `opinion-subsection.md`
+- Route ID: `publico:/publico/opinion/:subsection?`
+- Route Path: `/publico/opinion/:subsection?`
+- File: `docs/routes/publico/publico-opinion-subsection.md`
+- File Name: `publico-opinion-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Política
-- Route ID: `publico:/politica/:subsection?`
-- Route Path: `/politica/:subsection?`
-- File: `docs/routes/publico/politica-subsection.md`
-- File Name: `politica-subsection.md`
+- Route ID: `publico:/publico/politica/:subsection?`
+- Route Path: `/publico/politica/:subsection?`
+- File: `docs/routes/publico/publico-politica-subsection.md`
+- File Name: `publico-politica-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Public
-- Route ID: `publico:/public`
-- Route Path: `/public`
-- File: `docs/routes/publico/public.md`
-- File Name: `public.md`
+- Route ID: `publico:/publico/public`
+- Route Path: `/publico/public`
+- File: `docs/routes/publico/publico-public.md`
+- File Name: `publico-public.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Sociedad
-- Route ID: `publico:/sociedad/:subsection?`
-- Route Path: `/sociedad/:subsection?`
-- File: `docs/routes/publico/sociedad-subsection.md`
-- File Name: `sociedad-subsection.md`
+- Route ID: `publico:/publico/sociedad/:subsection?`
+- Route Path: `/publico/sociedad/:subsection?`
+- File: `docs/routes/publico/publico-sociedad-subsection.md`
+- File Name: `publico-sociedad-subsection.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`
 
 ### Tremending
-- Route ID: `publico:/tremending`
-- Route Path: `/tremending`
-- File: `docs/routes/publico/tremending.md`
-- File Name: `tremending.md`
+- Route ID: `publico:/publico/tremending`
+- Route Path: `/publico/tremending`
+- File: `docs/routes/publico/publico-tremending.md`
+- File Name: `publico-tremending.md`
 - Categories: `traditional-media`
 - Maintainers: `adrianrico97`

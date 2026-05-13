@@ -4,24 +4,24 @@
 - Namespace: `sspu`
 - Display Name: `上海第二工业大学`
 - URL: `jwc.sspu.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `jwc, jwc.sspu.edu.cn, sspu, 上海第二工业大学`
 - Route Count: `2`
 
 ## Routes
 
 ### Unknown
-- Route ID: `sspu:/jwc/:listId`
-- Route Path: `/jwc/:listId`
-- File: `docs/routes/sspu/jwc-listid.md`
-- File Name: `jwc-listid.md`
-- Categories: `None`
+- Route ID: `sspu:/sspu/jwc/:listId`
+- Route Path: `/sspu/jwc/:listId`
+- File: `docs/routes/sspu/sspu-jwc-listid.md`
+- File Name: `sspu-jwc-listid.md`
+- Categories: `other`
 - Maintainers: `TonyRL`
 
 ### Unknown
-- Route ID: `sspu:/pe/:id?`
-- Route Path: `/pe/:id?`
-- File: `docs/routes/sspu/pe-id.md`
-- File Name: `pe-id.md`
-- Categories: `None`
+- Route ID: `sspu:/sspu/pe/:id?`
+- Route Path: `/sspu/pe/:id?`
+- File: `docs/routes/sspu/sspu-pe-id.md`
+- File Name: `sspu-pe-id.md`
+- Categories: `other`
 - Maintainers: `nczitzk`

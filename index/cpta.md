@@ -11,9 +11,9 @@
 ## Routes
 
 ### 中国人事考试网发布
-- Route ID: `cpta:/:category`
-- Route Path: `/:category`
-- File: `docs/routes/cpta/category.md`
-- File Name: `category.md`
+- Route ID: `cpta:/cpta/:category`
+- Route Path: `/cpta/:category`
+- File: `docs/routes/cpta/cpta-category.md`
+- File Name: `cpta-category.md`
 - Categories: `study`
 - Maintainers: `PrinOrange`

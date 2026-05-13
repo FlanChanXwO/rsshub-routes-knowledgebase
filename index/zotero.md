@@ -4,16 +4,16 @@
 - Namespace: `zotero`
 - Display Name: `Zotero`
 - URL: `zotero.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `zotero, zotero.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Version History
-- Route ID: `zotero:/versions`
-- Route Path: `/versions`
-- File: `docs/routes/zotero/versions.md`
-- File Name: `versions.md`
+- Route ID: `zotero:/zotero/versions`
+- Route Path: `/zotero/versions`
+- File: `docs/routes/zotero/zotero-versions.md`
+- File Name: `zotero-versions.md`
 - Categories: `program-update`
 - Maintainers: `jasongzy`

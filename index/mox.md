@@ -4,16 +4,16 @@
 - Namespace: `mox`
 - Display Name: `Mox.moe`
 - URL: `mox.moe`
-- Language: `zh-TW`
+- Language: `_None_`
 - Aliases: `mox, mox.moe`
 - Route Count: `1`
 
 ## Routes
 
 ### 首頁
-- Route ID: `mox:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/mox/category.md`
-- File Name: `category.md`
+- Route ID: `mox:/mox/:category?`
+- Route Path: `/mox/:category?`
+- File: `docs/routes/mox/mox-category.md`
+- File Name: `mox-category.md`
 - Categories: `anime`
 - Maintainers: `nczitzk`

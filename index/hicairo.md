@@ -4,16 +4,16 @@
 - Namespace: `hicairo`
 - Display Name: `HiFeng'Blog`
 - URL: `hicairo.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `hicairo, hicairo.com, hifeng'blog`
 - Route Count: `1`
 
 ## Routes
 
 ### 最近发表
-- Route ID: `hicairo:/`
-- Route Path: `/`
-- File: `docs/routes/hicairo/index.md`
-- File Name: `index.md`
+- Route ID: `hicairo:/hicairo/`
+- Route Path: `/hicairo/`
+- File: `docs/routes/hicairo/hicairo.md`
+- File Name: `hicairo.md`
 - Categories: `blog`
 - Maintainers: `cnkmmk`

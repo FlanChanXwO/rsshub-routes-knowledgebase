@@ -4,16 +4,16 @@
 - Namespace: `usts`
 - Display Name: `苏州科技大学`
 - URL: `jwch.usts.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `jwch, jwch.usts.edu.cn, usts, 苏州科技大学`
 - Route Count: `1`
 
 ## Routes
 
 ### 教务处
-- Route ID: `usts:/jwch/:type?`
-- Route Path: `/jwch/:type?`
-- File: `docs/routes/usts/jwch-type.md`
-- File Name: `jwch-type.md`
+- Route ID: `usts:/usts/jwch/:type?`
+- Route Path: `/usts/jwch/:type?`
+- File: `docs/routes/usts/usts-jwch-type.md`
+- File Name: `usts-jwch-type.md`
 - Categories: `university`
 - Maintainers: `None`

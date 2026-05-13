@@ -4,16 +4,16 @@
 - Namespace: `zed`
 - Display Name: `Zed`
 - URL: `zed.dev`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `zed, zed.dev`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `zed:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/zed/blog.md`
-- File Name: `blog.md`
+- Route ID: `zed:/zed/blog`
+- Route Path: `/zed/blog`
+- File: `docs/routes/zed/zed-blog.md`
+- File Name: `zed-blog.md`
 - Categories: `programming`
 - Maintainers: `cscnk52`

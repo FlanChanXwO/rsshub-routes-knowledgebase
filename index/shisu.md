@@ -4,24 +4,24 @@
 - Namespace: `shisu`
 - Display Name: `上海外国语大学`
 - URL: `shisu.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `shisu, shisu.edu.cn, 上海外国语大学`
 - Route Count: `2`
 
 ## Routes
 
 ### SISU TODAY | FEATURED STORIES
-- Route ID: `shisu:/en/:section`
-- Route Path: `/en/:section`
-- File: `docs/routes/shisu/en-section.md`
-- File Name: `en-section.md`
+- Route ID: `shisu:/shisu/en/:section`
+- Route Path: `/shisu/en/:section`
+- File: `docs/routes/shisu/shisu-en-section.md`
+- File Name: `shisu-en-section.md`
 - Categories: `university`
 - Maintainers: `Duuckjing`
 
 ### 上外新闻
-- Route ID: `shisu:/news/:section`
-- Route Path: `/news/:section`
-- File: `docs/routes/shisu/news-section.md`
-- File Name: `news-section.md`
+- Route ID: `shisu:/shisu/news/:section`
+- Route Path: `/shisu/news/:section`
+- File: `docs/routes/shisu/shisu-news-section.md`
+- File Name: `shisu-news-section.md`
 - Categories: `university`
 - Maintainers: `Duuckjing`

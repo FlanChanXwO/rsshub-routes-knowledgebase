@@ -4,16 +4,16 @@
 - Namespace: `scvtc`
 - Display Name: `四川职业技术学院`
 - URL: `scvtc.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `scvtc, scvtc.edu.cn, 四川职业技术学院`
 - Route Count: `1`
 
 ## Routes
 
 ### 学院公告
-- Route ID: `scvtc:/xygg`
-- Route Path: `/xygg`
-- File: `docs/routes/scvtc/xygg.md`
-- File Name: `xygg.md`
+- Route ID: `scvtc:/scvtc/xygg`
+- Route Path: `/scvtc/xygg`
+- File: `docs/routes/scvtc/scvtc-xygg.md`
+- File Name: `scvtc-xygg.md`
 - Categories: `university`
 - Maintainers: `nczitzk`

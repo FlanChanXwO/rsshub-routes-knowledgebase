@@ -4,16 +4,16 @@
 - Namespace: `deepmind`
 - Display Name: `DeepMind`
 - URL: `deepmind.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `deepmind, deepmind.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `deepmind:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/deepmind/blog.md`
-- File Name: `blog.md`
-- Categories: `new-media`
+- Route ID: `deepmind:/deepmind/blog`
+- Route Path: `/deepmind/blog`
+- File: `docs/routes/deepmind/deepmind-blog.md`
+- File Name: `deepmind-blog.md`
+- Categories: `new-media, popular`
 - Maintainers: `nczitzk, TonyRL`

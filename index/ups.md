@@ -11,9 +11,9 @@
 ## Routes
 
 ### Tracking
-- Route ID: `ups:/track/:trackingNumber`
-- Route Path: `/track/:trackingNumber`
-- File: `docs/routes/ups/track-trackingnumber.md`
-- File Name: `track-trackingnumber.md`
+- Route ID: `ups:/ups/track/:trackingNumber`
+- Route Path: `/ups/track/:trackingNumber`
+- File: `docs/routes/ups/ups-track-trackingnumber.md`
+- File Name: `ups-track-trackingnumber.md`
 - Categories: `other`
 - Maintainers: `Aquabet`

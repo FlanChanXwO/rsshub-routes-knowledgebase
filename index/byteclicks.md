@@ -4,24 +4,24 @@
 - Namespace: `byteclicks`
 - Display Name: `字节点击`
 - URL: `byteclicks.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `byteclicks, byteclicks.com, 字节点击`
 - Route Count: `2`
 
 ## Routes
 
 ### Unknown
-- Route ID: `byteclicks:/`
-- Route Path: `/`
-- File: `docs/routes/byteclicks/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `byteclicks:/byteclicks/`
+- Route Path: `/byteclicks/`
+- File: `docs/routes/byteclicks/byteclicks.md`
+- File Name: `byteclicks.md`
+- Categories: `new-media`
 - Maintainers: `TonyRL`
 
 ### 标签
-- Route ID: `byteclicks:/tag/:tag`
-- Route Path: `/tag/:tag`
-- File: `docs/routes/byteclicks/tag-tag.md`
-- File Name: `tag-tag.md`
+- Route ID: `byteclicks:/byteclicks/tag/:tag`
+- Route Path: `/byteclicks/tag/:tag`
+- File: `docs/routes/byteclicks/byteclicks-tag-tag.md`
+- File Name: `byteclicks-tag-tag.md`
 - Categories: `new-media`
 - Maintainers: `TonyRL`

@@ -11,9 +11,9 @@
 ## Routes
 
 ### 即時新聞
-- Route ID: `ebc:/realtime/:category?`
-- Route Path: `/realtime/:category?`
-- File: `docs/routes/ebc/realtime-category.md`
-- File Name: `realtime-category.md`
+- Route ID: `ebc:/ebc/realtime/:category?`
+- Route Path: `/ebc/realtime/:category?`
+- File: `docs/routes/ebc/ebc-realtime-category.md`
+- File Name: `ebc-realtime-category.md`
 - Categories: `traditional-media`
 - Maintainers: `quiniapiezoelectricity`

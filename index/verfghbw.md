@@ -4,16 +4,16 @@
 - Namespace: `verfghbw`
 - Display Name: `Constitutional Court of Baden-Württemberg (Germany)`
 - URL: `verfgh.baden-wuerttemberg.de`
-- Language: `de`
+- Language: `_None_`
 - Aliases: `constitutional court of baden-württemberg (germany), verfgh, verfgh.baden-wuerttemberg.de, verfghbw`
 - Route Count: `1`
 
 ## Routes
 
 ### Press releases
-- Route ID: `verfghbw:/press/:keyword?`
-- Route Path: `/press/:keyword?`
-- File: `docs/routes/verfghbw/press-keyword.md`
-- File Name: `press-keyword.md`
+- Route ID: `verfghbw:/verfghbw/press/:keyword?`
+- Route Path: `/verfghbw/press/:keyword?`
+- File: `docs/routes/verfghbw/verfghbw-press-keyword.md`
+- File Name: `verfghbw-press-keyword.md`
 - Categories: `government`
 - Maintainers: `quinn-dev`

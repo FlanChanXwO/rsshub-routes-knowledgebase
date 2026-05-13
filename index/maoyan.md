@@ -4,32 +4,32 @@
 - Namespace: `maoyan`
 - Display Name: `猫眼电影`
 - URL: `maoyan.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `maoyan, maoyan.com, 猫眼电影`
 - Route Count: `3`
 
 ## Routes
 
 ### 实时票房榜
-- Route ID: `maoyan:/box`
-- Route Path: `/box`
-- File: `docs/routes/maoyan/box.md`
-- File Name: `box.md`
+- Route ID: `maoyan:/maoyan/box`
+- Route Path: `/maoyan/box`
+- File: `docs/routes/maoyan/maoyan-box.md`
+- File Name: `maoyan-box.md`
 - Categories: `multimedia`
 - Maintainers: `JackyST0`
 
 ### 即将上映
-- Route ID: `maoyan:/coming`
-- Route Path: `/coming`
-- File: `docs/routes/maoyan/coming.md`
-- File Name: `coming.md`
+- Route ID: `maoyan:/maoyan/coming`
+- Route Path: `/maoyan/coming`
+- File: `docs/routes/maoyan/maoyan-coming.md`
+- File Name: `maoyan-coming.md`
 - Categories: `multimedia`
 - Maintainers: `JackyST0`
 
 ### 正在热映
-- Route ID: `maoyan:/hot`
-- Route Path: `/hot`
-- File: `docs/routes/maoyan/hot.md`
-- File Name: `hot.md`
+- Route ID: `maoyan:/maoyan/hot`
+- Route Path: `/maoyan/hot`
+- File: `docs/routes/maoyan/maoyan-hot.md`
+- File Name: `maoyan-hot.md`
 - Categories: `multimedia`
 - Maintainers: `JackyST0`

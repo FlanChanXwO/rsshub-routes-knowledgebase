@@ -4,16 +4,16 @@
 - Namespace: `zjgtjy`
 - Display Name: `浙江省土地使用权网上交易系统`
 - URL: `zjgtjy.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `zjgtjy, zjgtjy.cn, 浙江省土地使用权网上交易系统`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `zjgtjy:/:type?`
-- Route Path: `/:type?`
-- File: `docs/routes/zjgtjy/type.md`
-- File Name: `type.md`
-- Categories: `None`
+- Route ID: `zjgtjy:/zjgtjy/:type?`
+- Route Path: `/zjgtjy/:type?`
+- File: `docs/routes/zjgtjy/zjgtjy-type.md`
+- File Name: `zjgtjy-type.md`
+- Categories: `other`
 - Maintainers: `Fatpandac`

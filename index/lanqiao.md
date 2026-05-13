@@ -4,32 +4,32 @@
 - Namespace: `lanqiao`
 - Display Name: `蓝桥云课`
 - URL: `lanqiao.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `lanqiao, lanqiao.cn, 蓝桥云课`
 - Route Count: `3`
 
 ## Routes
 
 ### 作者发布的课程
-- Route ID: `lanqiao:/author/:uid`
-- Route Path: `/author/:uid`
-- File: `docs/routes/lanqiao/author-uid.md`
-- File Name: `author-uid.md`
+- Route ID: `lanqiao:/lanqiao/author/:uid`
+- Route Path: `/lanqiao/author/:uid`
+- File: `docs/routes/lanqiao/lanqiao-author-uid.md`
+- File Name: `lanqiao-author-uid.md`
 - Categories: `programming`
 - Maintainers: `huhuhang`
 
 ### 全站发布的课程
-- Route ID: `lanqiao:/courses/:sort/:tag`
-- Route Path: `/courses/:sort/:tag`
-- File: `docs/routes/lanqiao/courses-sort-tag.md`
-- File Name: `courses-sort-tag.md`
+- Route ID: `lanqiao:/lanqiao/courses/:sort/:tag`
+- Route Path: `/lanqiao/courses/:sort/:tag`
+- File: `docs/routes/lanqiao/lanqiao-courses-sort-tag.md`
+- File Name: `lanqiao-courses-sort-tag.md`
 - Categories: `programming`
 - Maintainers: `huhuhang`
 
 ### 技术社区
-- Route ID: `lanqiao:/questions/:id`
-- Route Path: `/questions/:id`
-- File: `docs/routes/lanqiao/questions-id.md`
-- File Name: `questions-id.md`
+- Route ID: `lanqiao:/lanqiao/questions/:id`
+- Route Path: `/lanqiao/questions/:id`
+- File: `docs/routes/lanqiao/lanqiao-questions-id.md`
+- File Name: `lanqiao-questions-id.md`
 - Categories: `programming`
 - Maintainers: `huhuhang`

@@ -4,32 +4,32 @@
 - Namespace: `baobua`
 - Display Name: `BaoBua`
 - URL: `baobua.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `baobua, baobua.com`
 - Route Count: `3`
 
 ## Routes
 
 ### Latest
-- Route ID: `baobua:/`
-- Route Path: `/`
-- File: `docs/routes/baobua/index.md`
-- File Name: `index.md`
+- Route ID: `baobua:/baobua/`
+- Route Path: `/baobua/`
+- File: `docs/routes/baobua/baobua.md`
+- File Name: `baobua.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`
 
 ### Category
-- Route ID: `baobua:/category/:category`
-- Route Path: `/category/:category`
-- File: `docs/routes/baobua/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `baobua:/baobua/category/:category`
+- Route Path: `/baobua/category/:category`
+- File: `docs/routes/baobua/baobua-category-category.md`
+- File Name: `baobua-category-category.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`
 
 ### Search
-- Route ID: `baobua:/search/:keyword`
-- Route Path: `/search/:keyword`
-- File: `docs/routes/baobua/search-keyword.md`
-- File Name: `search-keyword.md`
+- Route ID: `baobua:/baobua/search/:keyword`
+- Route Path: `/baobua/search/:keyword`
+- File: `docs/routes/baobua/baobua-search-keyword.md`
+- File Name: `baobua-search-keyword.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`

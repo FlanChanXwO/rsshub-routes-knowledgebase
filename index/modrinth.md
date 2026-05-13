@@ -4,16 +4,16 @@
 - Namespace: `modrinth`
 - Display Name: `Modrinth`
 - URL: `modrinth.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `modrinth, modrinth.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Project versions
-- Route ID: `modrinth:/project/:id/versions/:routeParams?`
-- Route Path: `/project/:id/versions/:routeParams?`
-- File: `docs/routes/modrinth/project-id-versions-routeparams.md`
-- File Name: `project-id-versions-routeparams.md`
+- Route ID: `modrinth:/modrinth/project/:id/versions/:routeParams?`
+- Route Path: `/modrinth/project/:id/versions/:routeParams?`
+- File: `docs/routes/modrinth/modrinth-project-id-versions-routeparams.md`
+- File Name: `modrinth-project-id-versions-routeparams.md`
 - Categories: `game`
 - Maintainers: `SettingDust`

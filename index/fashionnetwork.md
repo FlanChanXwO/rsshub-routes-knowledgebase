@@ -4,16 +4,16 @@
 - Namespace: `fashionnetwork`
 - Display Name: `FashionNetwork`
 - URL: `fashionnetwork.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `fashionnetwork, fashionnetwork.cn`
 - Route Count: `1`
 
 ## Routes
 
 ### FashionNetwork 中国
-- Route ID: `fashionnetwork:/cn/lists/:id?`
-- Route Path: `/cn/lists/:id?`
-- File: `docs/routes/fashionnetwork/cn-lists-id.md`
-- File Name: `cn-lists-id.md`
+- Route ID: `fashionnetwork:/fashionnetwork/cn/lists/:id?`
+- Route Path: `/fashionnetwork/cn/lists/:id?`
+- File: `docs/routes/fashionnetwork/fashionnetwork-cn-lists-id.md`
+- File Name: `fashionnetwork-cn-lists-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

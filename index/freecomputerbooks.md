@@ -4,16 +4,16 @@
 - Namespace: `freecomputerbooks`
 - Display Name: `Free Computer Books`
 - URL: `freecomputerbooks.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `free computer books, freecomputerbooks, freecomputerbooks.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Book List
-- Route ID: `freecomputerbooks:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/freecomputerbooks/category.md`
-- File Name: `category.md`
+- Route ID: `freecomputerbooks:/freecomputerbooks/:category?`
+- Route Path: `/freecomputerbooks/:category?`
+- File: `docs/routes/freecomputerbooks/freecomputerbooks-category.md`
+- File Name: `freecomputerbooks-category.md`
 - Categories: `reading`
 - Maintainers: `cubroe`

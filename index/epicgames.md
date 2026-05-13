@@ -4,16 +4,16 @@
 - Namespace: `epicgames`
 - Display Name: `Epic Games Store`
 - URL: `store.epicgames.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `epic games store, epicgames, store, store.epicgames.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Free games
-- Route ID: `epicgames:/freegames/:locale?/:country?`
-- Route Path: `/freegames/:locale?/:country?`
-- File: `docs/routes/epicgames/freegames-locale-country.md`
-- File Name: `freegames-locale-country.md`
-- Categories: `game`
+- Route ID: `epicgames:/epicgames/freegames/:locale?/:country?`
+- Route Path: `/epicgames/freegames/:locale?/:country?`
+- File: `docs/routes/epicgames/epicgames-freegames-locale-country.md`
+- File Name: `epicgames-freegames-locale-country.md`
+- Categories: `game, popular`
 - Maintainers: `DIYgod, NeverBehave, Zyx-A, junfengP, nczitzk, KotaHv`

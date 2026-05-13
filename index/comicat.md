@@ -4,16 +4,16 @@
 - Namespace: `comicat`
 - Display Name: `Comicat`
 - URL: `comicat.org`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `comicat, comicat.org`
 - Route Count: `1`
 
 ## Routes
 
 ### 搜索关键词
-- Route ID: `comicat:/search/:keyword`
-- Route Path: `/search/:keyword`
-- File: `docs/routes/comicat/search-keyword.md`
-- File Name: `search-keyword.md`
+- Route ID: `comicat:/comicat/search/:keyword`
+- Route Path: `/comicat/search/:keyword`
+- File: `docs/routes/comicat/comicat-search-keyword.md`
+- File Name: `comicat-search-keyword.md`
 - Categories: `anime`
 - Maintainers: `Cyang39`

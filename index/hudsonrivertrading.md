@@ -11,9 +11,9 @@
 ## Routes
 
 ### Tech Blog
-- Route ID: `hudsonrivertrading:/blog/:section?`
-- Route Path: `/blog/:section?`
-- File: `docs/routes/hudsonrivertrading/blog-section.md`
-- File Name: `blog-section.md`
+- Route ID: `hudsonrivertrading:/hudsonrivertrading/blog/:section?`
+- Route Path: `/hudsonrivertrading/blog/:section?`
+- File: `docs/routes/hudsonrivertrading/hudsonrivertrading-blog-section.md`
+- File Name: `hudsonrivertrading-blog-section.md`
 - Categories: `blog`
 - Maintainers: `johan456789`

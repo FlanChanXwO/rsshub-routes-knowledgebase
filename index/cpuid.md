@@ -4,16 +4,16 @@
 - Namespace: `cpuid`
 - Display Name: `CPUID`
 - URL: `cpuid.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `cpuid, cpuid.com`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `cpuid:/news`
-- Route Path: `/news`
-- File: `docs/routes/cpuid/news.md`
-- File Name: `news.md`
+- Route ID: `cpuid:/cpuid/news`
+- Route Path: `/cpuid/news`
+- File: `docs/routes/cpuid/cpuid-news.md`
+- File Name: `cpuid-news.md`
 - Categories: `program-update`
 - Maintainers: `None`

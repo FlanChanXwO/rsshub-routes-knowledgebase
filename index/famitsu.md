@@ -4,16 +4,16 @@
 - Namespace: `famitsu`
 - Display Name: `ファミ通`
 - URL: `famitsu.com`
-- Language: `ja`
+- Language: `_None_`
 - Aliases: `famitsu, famitsu.com, ファミ通`
 - Route Count: `1`
 
 ## Routes
 
 ### Category
-- Route ID: `famitsu:/category/:category?`
-- Route Path: `/category/:category?`
-- File: `docs/routes/famitsu/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `famitsu:/famitsu/category/:category?`
+- Route Path: `/famitsu/category/:category?`
+- File: `docs/routes/famitsu/famitsu-category-category.md`
+- File Name: `famitsu-category-category.md`
 - Categories: `game`
 - Maintainers: `TonyRL`

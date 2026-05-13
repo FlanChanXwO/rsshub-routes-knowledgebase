@@ -4,16 +4,16 @@
 - Namespace: `diershoubing`
 - Display Name: `二柄 APP`
 - URL: `diershoubing.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `diershoubing, diershoubing.com, 二柄 app`
 - Route Count: `1`
 
 ## Routes
 
 ### 新闻
-- Route ID: `diershoubing:/news`
-- Route Path: `/news`
-- File: `docs/routes/diershoubing/news.md`
-- File Name: `news.md`
+- Route ID: `diershoubing:/diershoubing/news`
+- Route Path: `/diershoubing/news`
+- File: `docs/routes/diershoubing/diershoubing-news.md`
+- File Name: `diershoubing-news.md`
 - Categories: `game`
 - Maintainers: `wushijishan`

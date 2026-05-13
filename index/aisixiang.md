@@ -4,48 +4,40 @@
 - Namespace: `aisixiang`
 - Display Name: `爱思想`
 - URL: `aisixiang.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `aisixiang, aisixiang.com, 爱思想`
-- Route Count: `5`
+- Route Count: `4`
 
 ## Routes
 
 ### 栏目
-- Route ID: `aisixiang:/column/:id`
-- Route Path: `/column/:id`
-- File: `docs/routes/aisixiang/column-id.md`
-- File Name: `column-id.md`
-- Categories: `reading`
+- Route ID: `aisixiang:/aisixiang/column/:id`
+- Route Path: `/aisixiang/column/:id`
+- File: `docs/routes/aisixiang/aisixiang-column-id.md`
+- File Name: `aisixiang-column-id.md`
+- Categories: `reading, popular`
 - Maintainers: `HenryQW, nczitzk`
 
 ### Unknown
-- Route ID: `aisixiang:/ranking/:id?/:period?`
-- Route Path: `/ranking/:id?/:period?`
-- File: `docs/routes/aisixiang/ranking-id-period.md`
-- File Name: `ranking-id-period.md`
-- Categories: `None`
+- Route ID: `aisixiang:/aisixiang/ranking/:id?/:period?`
+- Route Path: `/aisixiang/ranking/:id?/:period?`
+- File: `docs/routes/aisixiang/aisixiang-ranking-id-period.md`
+- File Name: `aisixiang-ranking-id-period.md`
+- Categories: `reading`
 - Maintainers: `HenryQW, nczitzk`
 
 ### 思想库（专栏）
-- Route ID: `aisixiang:/thinktank/:id/:type?`
-- Route Path: `/thinktank/:id/:type?`
-- File: `docs/routes/aisixiang/thinktank-id-type.md`
-- File Name: `thinktank-id-type.md`
+- Route ID: `aisixiang:/aisixiang/thinktank/:id/:type?`
+- Route Path: `/aisixiang/thinktank/:id/:type?`
+- File: `docs/routes/aisixiang/aisixiang-thinktank-id-type.md`
+- File Name: `aisixiang-thinktank-id-type.md`
 - Categories: `reading`
 - Maintainers: `hoilc, nczitzk`
 
-### Unknown
-- Route ID: `aisixiang:/toplist/:id?/:period?`
-- Route Path: `/toplist/:id?/:period?`
-- File: `docs/routes/aisixiang/toplist-id-period.md`
-- File Name: `toplist-id-period.md`
-- Categories: `None`
-- Maintainers: `HenryQW, nczitzk`
-
 ### 专题
-- Route ID: `aisixiang:/zhuanti/:id`
-- Route Path: `/zhuanti/:id`
-- File: `docs/routes/aisixiang/zhuanti-id.md`
-- File Name: `zhuanti-id.md`
+- Route ID: `aisixiang:/aisixiang/zhuanti/:id`
+- Route Path: `/aisixiang/zhuanti/:id`
+- File: `docs/routes/aisixiang/aisixiang-zhuanti-id.md`
+- File Name: `aisixiang-zhuanti-id.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`

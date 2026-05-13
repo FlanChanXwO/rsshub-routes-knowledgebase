@@ -11,17 +11,17 @@
 ## Routes
 
 ### 关键词
-- Route ID: `mercari:/:sort/:order/:status/:keyword`
-- Route Path: `/:sort/:order/:status/:keyword`
-- File: `docs/routes/mercari/sort-order-status-keyword.md`
-- File Name: `sort-order-status-keyword.md`
+- Route ID: `mercari:/mercari/:sort/:order/:status/:keyword`
+- Route Path: `/mercari/:sort/:order/:status/:keyword`
+- File: `docs/routes/mercari/mercari-sort-order-status-keyword.md`
+- File Name: `mercari-sort-order-status-keyword.md`
 - Categories: `shopping`
 - Maintainers: `yana9i`
 
 ### Search
-- Route ID: `mercari:/search/:query`
-- Route Path: `/search/:query`
-- File: `docs/routes/mercari/search-query.md`
-- File Name: `search-query.md`
+- Route ID: `mercari:/mercari/search/:query`
+- Route Path: `/mercari/search/:query`
+- File: `docs/routes/mercari/mercari-search-query.md`
+- File Name: `mercari-search-query.md`
 - Categories: `shopping`
 - Maintainers: `yana9i, Tsuyumi25`

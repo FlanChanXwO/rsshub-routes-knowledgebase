@@ -4,32 +4,32 @@
 - Namespace: `chaping`
 - Display Name: `差评`
 - URL: `chaping.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `chaping, chaping.cn, 差评`
 - Route Count: `3`
 
 ## Routes
 
 ### 图片墙
-- Route ID: `chaping:/banner`
-- Route Path: `/banner`
-- File: `docs/routes/chaping/banner.md`
-- File Name: `banner.md`
+- Route ID: `chaping:/chaping/banner`
+- Route Path: `/chaping/banner`
+- File: `docs/routes/chaping/chaping-banner.md`
+- File Name: `chaping-banner.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 资讯
-- Route ID: `chaping:/news/:caty?`
-- Route Path: `/news/:caty?`
-- File: `docs/routes/chaping/news-caty.md`
-- File Name: `news-caty.md`
+- Route ID: `chaping:/chaping/news/:caty?`
+- Route Path: `/chaping/news/:caty?`
+- File: `docs/routes/chaping/chaping-news-caty.md`
+- File Name: `chaping-news-caty.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 快讯
-- Route ID: `chaping:/newsflash`
-- Route Path: `/newsflash`
-- File: `docs/routes/chaping/newsflash.md`
-- File Name: `newsflash.md`
+- Route ID: `chaping:/chaping/newsflash`
+- Route Path: `/chaping/newsflash`
+- File: `docs/routes/chaping/chaping-newsflash.md`
+- File Name: `chaping-newsflash.md`
 - Categories: `new-media`
 - Maintainers: `Fatpandac`

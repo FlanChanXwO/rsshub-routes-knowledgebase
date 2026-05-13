@@ -1,19 +1,19 @@
-# Unknown Route Index
+# jseea Route Index
 
 ## Namespace
 - Namespace: `jseea`
-- Display Name: `Unknown`
+- Display Name: `jseea`
 - URL: `jseea.cn`
-- Language: `zh-CN`
-- Aliases: `jseea, jseea.cn, unknown`
+- Language: `_None_`
+- Aliases: `jseea, jseea.cn`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `jseea:/news/:type?`
-- Route Path: `/news/:type?`
-- File: `docs/routes/jseea/news-type.md`
-- File Name: `news-type.md`
-- Categories: `None`
+- Route ID: `jseea:/jseea/news/:type?`
+- Route Path: `/jseea/news/:type?`
+- File: `docs/routes/jseea/jseea-news-type.md`
+- File Name: `jseea-news-type.md`
+- Categories: `other`
 - Maintainers: `schen1024`

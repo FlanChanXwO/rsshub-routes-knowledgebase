@@ -4,32 +4,32 @@
 - Namespace: `eastday`
 - Display Name: `东方网`
 - URL: `mini.eastday.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `eastday, mini, mini.eastday.com, 东方网`
 - Route Count: `3`
 
 ## Routes
 
 ### 24 小时热闻
-- Route ID: `eastday:/24/:category?`
-- Route Path: `/24/:category?`
-- File: `docs/routes/eastday/24-category.md`
-- File Name: `24-category.md`
+- Route ID: `eastday:/eastday/24/:category?`
+- Route Path: `/eastday/24/:category?`
+- File: `docs/routes/eastday/eastday-24-category.md`
+- File Name: `eastday-24-category.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 原创
-- Route ID: `eastday:/portrait`
-- Route Path: `/portrait`
-- File: `docs/routes/eastday/portrait.md`
-- File Name: `portrait.md`
+- Route ID: `eastday:/eastday/portrait`
+- Route Path: `/eastday/portrait`
+- File: `docs/routes/eastday/eastday-portrait.md`
+- File Name: `eastday-portrait.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 上海新闻
-- Route ID: `eastday:/sh`
-- Route Path: `/sh`
-- File: `docs/routes/eastday/sh.md`
-- File Name: `sh.md`
+- Route ID: `eastday:/eastday/sh`
+- Route Path: `/eastday/sh`
+- File: `docs/routes/eastday/eastday-sh.md`
+- File Name: `eastday-sh.md`
 - Categories: `traditional-media`
 - Maintainers: `saury`

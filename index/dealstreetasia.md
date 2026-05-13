@@ -4,24 +4,24 @@
 - Namespace: `dealstreetasia`
 - Display Name: `DealStreetAsia`
 - URL: `dealstreetasia.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `dealstreetasia, dealstreetasia.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Home
-- Route ID: `dealstreetasia:/home`
-- Route Path: `/home`
-- File: `docs/routes/dealstreetasia/home.md`
-- File Name: `home.md`
+- Route ID: `dealstreetasia:/dealstreetasia/home`
+- Route Path: `/dealstreetasia/home`
+- File: `docs/routes/dealstreetasia/dealstreetasia-home.md`
+- File Name: `dealstreetasia-home.md`
 - Categories: `traditional-media`
 - Maintainers: `jack2game`
 
 ### Section
-- Route ID: `dealstreetasia:/section/:section`
-- Route Path: `/section/:section`
-- File: `docs/routes/dealstreetasia/section-section.md`
-- File Name: `section-section.md`
+- Route ID: `dealstreetasia:/dealstreetasia/section/:section`
+- Route Path: `/dealstreetasia/section/:section`
+- File: `docs/routes/dealstreetasia/dealstreetasia-section-section.md`
+- File Name: `dealstreetasia-section-section.md`
 - Categories: `traditional-media`
 - Maintainers: `jack2game`

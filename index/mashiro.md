@@ -11,9 +11,9 @@
 ## Routes
 
 ### Blog
-- Route ID: `mashiro:/:lang`
-- Route Path: `/:lang`
-- File: `docs/routes/mashiro/lang.md`
-- File Name: `lang.md`
+- Route ID: `mashiro:/mashiro/:lang`
+- Route Path: `/mashiro/:lang`
+- File: `docs/routes/mashiro/mashiro-lang.md`
+- File Name: `mashiro-lang.md`
 - Categories: `blog`
 - Maintainers: `MuenYu`

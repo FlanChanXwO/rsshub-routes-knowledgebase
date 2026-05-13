@@ -4,16 +4,16 @@
 - Namespace: `webcatalog`
 - Display Name: `WebCatalog`
 - URL: `desktop.webcatalog.io`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `desktop, desktop.webcatalog.io, webcatalog`
 - Route Count: `1`
 
 ## Routes
 
 ### Changelog
-- Route ID: `webcatalog:/changelog`
-- Route Path: `/changelog`
-- File: `docs/routes/webcatalog/changelog.md`
-- File Name: `changelog.md`
+- Route ID: `webcatalog:/webcatalog/changelog`
+- Route Path: `/webcatalog/changelog`
+- File: `docs/routes/webcatalog/webcatalog-changelog.md`
+- File Name: `webcatalog-changelog.md`
 - Categories: `program-update`
 - Maintainers: `Tsuyumi25`

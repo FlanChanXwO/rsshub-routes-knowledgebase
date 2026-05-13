@@ -11,33 +11,33 @@
 ## Routes
 
 ### Latest
-- Route ID: `everia:/`
-- Route Path: `/`
-- File: `docs/routes/everia/index.md`
-- File Name: `index.md`
+- Route ID: `everia:/everia/`
+- Route Path: `/everia/`
+- File: `docs/routes/everia/everia.md`
+- File Name: `everia.md`
 - Categories: `picture`
 - Maintainers: `KTachibanaM, AiraNadih`
 
 ### Images with category
-- Route ID: `everia:/category/:category`
-- Route Path: `/category/:category`
-- File: `docs/routes/everia/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `everia:/everia/category/:category`
+- Route Path: `/everia/category/:category`
+- File: `docs/routes/everia/everia-category-category.md`
+- File Name: `everia-category-category.md`
 - Categories: `picture`
 - Maintainers: `KTachibanaM, AiraNadih`
 
 ### Search
-- Route ID: `everia:/search/:keyword`
-- Route Path: `/search/:keyword`
-- File: `docs/routes/everia/search-keyword.md`
-- File Name: `search-keyword.md`
+- Route ID: `everia:/everia/search/:keyword`
+- Route Path: `/everia/search/:keyword`
+- File: `docs/routes/everia/everia-search-keyword.md`
+- File Name: `everia-search-keyword.md`
 - Categories: `picture`
 - Maintainers: `KTachibanaM, AiraNadih`
 
 ### Images with tag
-- Route ID: `everia:/tag/:tag`
-- Route Path: `/tag/:tag`
-- File: `docs/routes/everia/tag-tag.md`
-- File Name: `tag-tag.md`
+- Route ID: `everia:/everia/tag/:tag`
+- Route Path: `/everia/tag/:tag`
+- File: `docs/routes/everia/everia-tag-tag.md`
+- File Name: `everia-tag-tag.md`
 - Categories: `picture`
 - Maintainers: `KTachibanaM, AiraNadih`

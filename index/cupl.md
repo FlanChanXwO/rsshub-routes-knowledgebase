@@ -11,9 +11,9 @@
 ## Routes
 
 ### 教务处通知公告
-- Route ID: `cupl:/jwc`
-- Route Path: `/jwc`
-- File: `docs/routes/cupl/jwc.md`
-- File Name: `jwc.md`
+- Route ID: `cupl:/cupl/jwc`
+- Route Path: `/cupl/jwc`
+- File: `docs/routes/cupl/cupl-jwc.md`
+- File Name: `cupl-jwc.md`
 - Categories: `university`
 - Maintainers: `Fgju`

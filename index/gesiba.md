@@ -11,9 +11,9 @@
 ## Routes
 
 ### Angebote
-- Route ID: `gesiba:*`
-- Route Path: `*`
-- File: `docs/routes/gesiba/index.md`
-- File Name: `index.md`
+- Route ID: `gesiba:/gesiba*`
+- Route Path: `/gesiba*`
+- File: `docs/routes/gesiba/gesiba.md`
+- File Name: `gesiba.md`
 - Categories: `other`
 - Maintainers: `sk22`

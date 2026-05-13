@@ -4,16 +4,16 @@
 - Namespace: `devtrium`
 - Display Name: `Devtrium`
 - URL: `devtrium.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `devtrium, devtrium.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Official Blogs
-- Route ID: `devtrium:/`
-- Route Path: `/`
-- File: `docs/routes/devtrium/index.md`
-- File Name: `index.md`
+- Route ID: `devtrium:/devtrium/`
+- Route Path: `/devtrium/`
+- File: `docs/routes/devtrium/devtrium.md`
+- File Name: `devtrium.md`
 - Categories: `programming`
 - Maintainers: `Xy2002`

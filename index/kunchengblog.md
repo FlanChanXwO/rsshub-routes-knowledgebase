@@ -4,16 +4,16 @@
 - Namespace: `kunchengblog`
 - Display Name: `Kun Cheng`
 - URL: `kunchengblog.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `kun cheng, kunchengblog, kunchengblog.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Essay
-- Route ID: `kunchengblog:/essay`
-- Route Path: `/essay`
-- File: `docs/routes/kunchengblog/essay.md`
-- File Name: `essay.md`
+- Route ID: `kunchengblog:/kunchengblog/essay`
+- Route Path: `/kunchengblog/essay`
+- File: `docs/routes/kunchengblog/kunchengblog-essay.md`
+- File Name: `kunchengblog-essay.md`
 - Categories: `blog`
 - Maintainers: `nczitzk`

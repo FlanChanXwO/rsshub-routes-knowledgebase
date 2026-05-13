@@ -4,24 +4,24 @@
 - Namespace: `ddosi`
 - Display Name: `雨苁博客`
 - URL: `ddosi.org`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `ddosi, ddosi.org, 雨苁博客`
 - Route Count: `2`
 
 ## Routes
 
 ### 首页
-- Route ID: `ddosi:/`
-- Route Path: `/`
-- File: `docs/routes/ddosi/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `ddosi:/ddosi/`
+- Route Path: `/ddosi/`
+- File: `docs/routes/ddosi/ddosi.md`
+- File Name: `ddosi.md`
+- Categories: `blog`
 - Maintainers: `XinRoom`
 
 ### 分类
-- Route ID: `ddosi:/category/:category?`
-- Route Path: `/category/:category?`
-- File: `docs/routes/ddosi/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `ddosi:/ddosi/category/:category?`
+- Route Path: `/ddosi/category/:category?`
+- File: `docs/routes/ddosi/ddosi-category-category.md`
+- File Name: `ddosi-category-category.md`
 - Categories: `blog`
 - Maintainers: `XinRoom`

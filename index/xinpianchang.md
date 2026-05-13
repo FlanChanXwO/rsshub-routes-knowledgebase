@@ -4,32 +4,24 @@
 - Namespace: `xinpianchang`
 - Display Name: `新片场`
 - URL: `xinpianchang.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `xinpianchang, xinpianchang.com, 新片场`
-- Route Count: `3`
+- Route Count: `2`
 
 ## Routes
 
 ### 发现
-- Route ID: `xinpianchang:/:params?`
-- Route Path: `/:params?`
-- File: `docs/routes/xinpianchang/params.md`
-- File Name: `params.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### 发现
-- Route ID: `xinpianchang:/discover/:params?`
-- Route Path: `/discover/:params?`
-- File: `docs/routes/xinpianchang/discover-params.md`
-- File Name: `discover-params.md`
+- Route ID: `xinpianchang:/xinpianchang/discover/:params?`
+- Route Path: `/xinpianchang/discover/:params?`
+- File: `docs/routes/xinpianchang/xinpianchang-discover-params.md`
+- File Name: `xinpianchang-discover-params.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 排行榜
-- Route ID: `xinpianchang:/rank/:category?`
-- Route Path: `/rank/:category?`
-- File: `docs/routes/xinpianchang/rank-category.md`
-- File Name: `rank-category.md`
+- Route ID: `xinpianchang:/xinpianchang/rank/:category?`
+- Route Path: `/xinpianchang/rank/:category?`
+- File: `docs/routes/xinpianchang/xinpianchang-rank-category.md`
+- File Name: `xinpianchang-rank-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

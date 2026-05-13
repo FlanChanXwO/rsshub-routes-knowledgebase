@@ -4,16 +4,16 @@
 - Namespace: `cih-index`
 - Display Name: `中指研究院`
 - URL: `www.cih-index.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cih-index, cih-index.com, www, www.cih-index.com, 中指研究院`
 - Route Count: `1`
 
 ## Routes
 
 ### 报告
-- Route ID: `cih-index:/report/list/:report?`
-- Route Path: `/report/list/:report?`
-- File: `docs/routes/cih-index/report-list-report.md`
-- File Name: `report-list-report.md`
+- Route ID: `cih-index:/cih-index/report/list/:report?`
+- Route Path: `/cih-index/report/list/:report?`
+- File: `docs/routes/cih-index/cih-index-report-list-report.md`
+- File Name: `cih-index-report-list-report.md`
 - Categories: `finance`
 - Maintainers: `TonyRL`

@@ -4,16 +4,16 @@
 - Namespace: `fishshell`
 - Display Name: `fish shell`
 - URL: `fishshell.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `fish shell, fishshell, fishshell.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `fishshell:/`
-- Route Path: `/`
-- File: `docs/routes/fishshell/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `fishshell:/fishshell/`
+- Route Path: `/fishshell/`
+- File: `docs/routes/fishshell/fishshell.md`
+- File Name: `fishshell.md`
+- Categories: `other`
 - Maintainers: `x2cf`

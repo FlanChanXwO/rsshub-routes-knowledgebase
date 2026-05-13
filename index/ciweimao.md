@@ -4,16 +4,16 @@
 - Namespace: `ciweimao`
 - Display Name: `刺猬猫`
 - URL: `wap.ciweimao.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `ciweimao, wap, wap.ciweimao.com, 刺猬猫`
 - Route Count: `1`
 
 ## Routes
 
 ### 章节
-- Route ID: `ciweimao:/chapter/:id`
-- Route Path: `/chapter/:id`
-- File: `docs/routes/ciweimao/chapter-id.md`
-- File Name: `chapter-id.md`
+- Route ID: `ciweimao:/ciweimao/chapter/:id`
+- Route Path: `/ciweimao/chapter/:id`
+- File: `docs/routes/ciweimao/ciweimao-chapter-id.md`
+- File Name: `ciweimao-chapter-id.md`
 - Categories: `reading`
 - Maintainers: `keocheung`

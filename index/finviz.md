@@ -4,24 +4,24 @@
 - Namespace: `finviz`
 - Display Name: `finviz`
 - URL: `finviz.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `finviz, finviz.com`
 - Route Count: `2`
 
 ## Routes
 
 ### News
-- Route ID: `finviz:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/finviz/category.md`
-- File Name: `category.md`
+- Route ID: `finviz:/finviz/:category?`
+- Route Path: `/finviz/:category?`
+- File: `docs/routes/finviz/finviz-category.md`
+- File Name: `finviz-category.md`
 - Categories: `finance`
 - Maintainers: `nczitzk`
 
 ### US Stock News
-- Route ID: `finviz:/news/:ticker`
-- Route Path: `/news/:ticker`
-- File: `docs/routes/finviz/news-ticker.md`
-- File Name: `news-ticker.md`
+- Route ID: `finviz:/finviz/news/:ticker`
+- Route Path: `/finviz/news/:ticker`
+- File: `docs/routes/finviz/finviz-news-ticker.md`
+- File Name: `finviz-news-ticker.md`
 - Categories: `finance`
 - Maintainers: `HenryQW`

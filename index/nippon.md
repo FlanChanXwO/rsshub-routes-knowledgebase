@@ -4,16 +4,16 @@
 - Namespace: `nippon`
 - Display Name: `走进日本`
 - URL: `www.nippon.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `nippon, nippon.com, www, www.nippon.com, 走进日本`
 - Route Count: `1`
 
 ## Routes
 
 ### 政治外交
-- Route ID: `nippon:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/nippon/category.md`
-- File Name: `category.md`
+- Route ID: `nippon:/nippon/:category?`
+- Route Path: `/nippon/:category?`
+- File: `docs/routes/nippon/nippon-category.md`
+- File Name: `nippon-category.md`
 - Categories: `travel`
 - Maintainers: `laampui`

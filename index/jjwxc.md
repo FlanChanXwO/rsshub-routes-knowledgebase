@@ -4,24 +4,24 @@
 - Namespace: `jjwxc`
 - Display Name: `晋江文学城`
 - URL: `jjwxc.net`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `jjwxc, jjwxc.net, 晋江文学城`
 - Route Count: `2`
 
 ## Routes
 
 ### 作者最新作品
-- Route ID: `jjwxc:/author/:id?`
-- Route Path: `/author/:id?`
-- File: `docs/routes/jjwxc/author-id.md`
-- File Name: `author-id.md`
+- Route ID: `jjwxc:/jjwxc/author/:id?`
+- Route Path: `/jjwxc/author/:id?`
+- File: `docs/routes/jjwxc/jjwxc-author-id.md`
+- File Name: `jjwxc-author-id.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`
 
 ### 作品章节
-- Route ID: `jjwxc:/book/:id?`
-- Route Path: `/book/:id?`
-- File: `docs/routes/jjwxc/book-id.md`
-- File Name: `book-id.md`
+- Route ID: `jjwxc:/jjwxc/book/:id?`
+- Route Path: `/jjwxc/book/:id?`
+- File: `docs/routes/jjwxc/jjwxc-book-id.md`
+- File Name: `jjwxc-book-id.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`

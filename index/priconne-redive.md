@@ -4,16 +4,16 @@
 - Namespace: `priconne-redive`
 - Display Name: `PRINCESS CONNECT! Re Dive プリンセスコネクト！Re Dive`
 - URL: `priconne-redive.jp`
-- Language: `ja`
+- Language: `_None_`
 - Aliases: `priconne-redive, priconne-redive.jp, princess connect! re dive プリンセスコネクト！re dive`
 - Route Count: `1`
 
 ## Routes
 
 ### 最新公告
-- Route ID: `priconne-redive:/news/:server?`
-- Route Path: `/news/:server?`
-- File: `docs/routes/priconne-redive/news-server.md`
-- File Name: `news-server.md`
+- Route ID: `priconne-redive:/priconne-redive/news/:server?`
+- Route Path: `/priconne-redive/news/:server?`
+- File: `docs/routes/priconne-redive/priconne-redive-news-server.md`
+- File Name: `priconne-redive-news-server.md`
 - Categories: `game`
 - Maintainers: `SayaSS, frankcwl`

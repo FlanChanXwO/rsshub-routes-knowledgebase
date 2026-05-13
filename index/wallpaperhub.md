@@ -4,16 +4,16 @@
 - Namespace: `wallpaperhub`
 - Display Name: `WallpaperHub`
 - URL: `wallpaperhub.app`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `wallpaperhub, wallpaperhub.app`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `wallpaperhub:/`
-- Route Path: `/`
-- File: `docs/routes/wallpaperhub/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `wallpaperhub:/wallpaperhub/`
+- Route Path: `/wallpaperhub/`
+- File: `docs/routes/wallpaperhub/wallpaperhub.md`
+- File Name: `wallpaperhub.md`
+- Categories: `other`
 - Maintainers: `nczitzk`

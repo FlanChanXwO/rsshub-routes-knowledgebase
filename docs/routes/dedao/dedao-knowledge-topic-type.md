@@ -1,0 +1,108 @@
+# 得到 - 知识城邦
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `dedao`
+- Namespace Name: `得到`
+- Route Path: `/dedao/knowledge/:topic?/:type?`
+- Route Name: `知识城邦`
+- Example: `/dedao/knowledge`
+- URL: `dedao.cn`
+- Language: `_None_`
+- Categories: `new-media`
+- Maintainers: `nczitzk`
+- Source Location: `knowledge.tsx`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `topic`: 话题 id，可在对应话题页 URL 中找到
+- `type`: 分享类型，`true` 指精选，`false` 指最新，默认为精选
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `dedao.cn/knowledge/topic/:topic`
+  - `dedao.cn/knowledge`
+  - `dedao.cn/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "example": "/dedao/knowledge",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 88,
+  "location": "knowledge.tsx",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "知识城邦",
+  "parameters": {
+    "topic": "话题 id，可在对应话题页 URL 中找到",
+    "type": "分享类型，`true` 指精选，`false` 指最新，默认为精选"
+  },
+  "path": "/knowledge/:topic?/:type?",
+  "radar": [
+    {
+      "source": [
+        "dedao.cn/knowledge/topic/:topic",
+        "dedao.cn/knowledge",
+        "dedao.cn/"
+      ]
+    }
+  ],
+  "test": {
+    "code": 1,
+    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:74:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
+  },
+  "topFeeds": [
+    {
+      "description": "得到 - 知识城邦 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "102156742857121792",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dedao.cn/knowledge",
+      "title": "得到 - 知识城邦",
+      "type": "feed",
+      "url": "rsshub://dedao/knowledge"
+    },
+    {
+      "description": "来分享你和万维钢一起学习的收获吧！课程、书籍都可以。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "85673494190769152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dedao.cn/knowledge/topic/gZdLwQEoAnOQbAmJQJyQY1PGmVDY2K",
+      "title": "得到 - 知识城邦 - 跟万维钢和全球精英大脑同步",
+      "type": "feed",
+      "url": "rsshub://dedao/knowledge/gZdLwQEoAnOQbAmJQJyQY1PGmVDY2K/false"
+    }
+  ]
+}
+```

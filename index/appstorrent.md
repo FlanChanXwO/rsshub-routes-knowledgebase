@@ -4,16 +4,16 @@
 - Namespace: `appstorrent`
 - Display Name: `AppsTorrent`
 - URL: `appstorrent.ru`
-- Language: `ru`
+- Language: `_None_`
 - Aliases: `appstorrent, appstorrent.ru`
 - Route Count: `1`
 
 ## Routes
 
 ### Programs
-- Route ID: `appstorrent:/programs`
-- Route Path: `/programs`
-- File: `docs/routes/appstorrent/programs.md`
-- File Name: `programs.md`
+- Route ID: `appstorrent:/appstorrent/programs`
+- Route Path: `/appstorrent/programs`
+- File: `docs/routes/appstorrent/appstorrent-programs.md`
+- File Name: `appstorrent-programs.md`
 - Categories: `program-update`
 - Maintainers: `xzzpig`

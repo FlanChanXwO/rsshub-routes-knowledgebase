@@ -11,9 +11,9 @@
 ## Routes
 
 ### 最新文章
-- Route ID: `pacilution:/latest`
-- Route Path: `/latest`
-- File: `docs/routes/pacilution/latest.md`
-- File Name: `latest.md`
+- Route ID: `pacilution:/pacilution/latest`
+- Route Path: `/pacilution/latest`
+- File: `docs/routes/pacilution/pacilution-latest.md`
+- File Name: `pacilution-latest.md`
 - Categories: `journal`
 - Maintainers: `PrinOrange`

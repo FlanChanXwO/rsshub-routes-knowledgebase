@@ -4,16 +4,16 @@
 - Namespace: `warp`
 - Display Name: `Warp`
 - URL: `warp.dev`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `warp, warp.dev`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `warp:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/warp/blog.md`
-- File Name: `blog.md`
+- Route ID: `warp:/warp/blog`
+- Route Path: `/warp/blog`
+- File: `docs/routes/warp/warp-blog.md`
+- File Name: `warp-blog.md`
 - Categories: `programming`
 - Maintainers: `cscnk52`

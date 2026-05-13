@@ -11,9 +11,9 @@
 ## Routes
 
 ### 教务处通知公告
-- Route ID: `xupt:/jyc/:type?`
-- Route Path: `/jyc/:type?`
-- File: `docs/routes/xupt/jyc-type.md`
-- File Name: `jyc-type.md`
+- Route ID: `xupt:/xupt/jyc/:type?`
+- Route Path: `/xupt/jyc/:type?`
+- File: `docs/routes/xupt/xupt-jyc-type.md`
+- File Name: `xupt-jyc-type.md`
 - Categories: `university`
 - Maintainers: `StudyingLover`

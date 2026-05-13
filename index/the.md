@@ -4,16 +4,16 @@
 - Namespace: `the`
 - Display Name: `River.to (江河日下)`
 - URL: `river.to`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `river, river.to, river.to (江河日下), the`
 - Route Count: `1`
 
 ## Routes
 
 ### 分类
-- Route ID: `the:/:filter{.+}?`
-- Route Path: `/:filter{.+}?`
-- File: `docs/routes/the/filter.md`
-- File Name: `filter.md`
+- Route ID: `the:/the/:filter{.+}?`
+- Route Path: `/the/:filter{.+}?`
+- File: `docs/routes/the/the-filter.md`
+- File Name: `the-filter.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk, pseudoyu`

@@ -4,16 +4,16 @@
 - Namespace: `rarehistoricalphotos`
 - Display Name: `Rare Historical Photos`
 - URL: `rarehistoricalphotos.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `rare historical photos, rarehistoricalphotos, rarehistoricalphotos.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `rarehistoricalphotos:/`
-- Route Path: `/`
-- File: `docs/routes/rarehistoricalphotos/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `rarehistoricalphotos:/rarehistoricalphotos/`
+- Route Path: `/rarehistoricalphotos/`
+- File: `docs/routes/rarehistoricalphotos/rarehistoricalphotos.md`
+- File Name: `rarehistoricalphotos.md`
+- Categories: `other`
 - Maintainers: `TonyRL`

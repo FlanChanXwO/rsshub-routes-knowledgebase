@@ -4,16 +4,16 @@
 - Namespace: `gitcode`
 - Display Name: `GitCode`
 - URL: `gitcode.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `gitcode, gitcode.com`
 - Route Count: `1`
 
 ## Routes
 
 ### 仓库提交
-- Route ID: `gitcode:/commits/:owner/:repo/:branch?`
-- Route Path: `/commits/:owner/:repo/:branch?`
-- File: `docs/routes/gitcode/commits-owner-repo-branch.md`
-- File Name: `commits-owner-repo-branch.md`
+- Route ID: `gitcode:/gitcode/commits/:owner/:repo/:branch?`
+- Route Path: `/gitcode/commits/:owner/:repo/:branch?`
+- File: `docs/routes/gitcode/gitcode-commits-owner-repo-branch.md`
+- File Name: `gitcode-commits-owner-repo-branch.md`
 - Categories: `programming`
 - Maintainers: `JiZhi-Error`

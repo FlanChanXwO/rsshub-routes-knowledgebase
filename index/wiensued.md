@@ -11,9 +11,9 @@
 ## Routes
 
 ### Objekte
-- Route ID: `wiensued:*`
-- Route Path: `*`
-- File: `docs/routes/wiensued/index.md`
-- File Name: `index.md`
+- Route ID: `wiensued:/wiensued*`
+- Route Path: `/wiensued*`
+- File: `docs/routes/wiensued/wiensued.md`
+- File Name: `wiensued.md`
 - Categories: `other`
 - Maintainers: `sk22`

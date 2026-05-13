@@ -4,16 +4,16 @@
 - Namespace: `tongli`
 - Display Name: `東立出版社`
 - URL: `tongli.com.tw`
-- Language: `zh-TW`
+- Language: `_None_`
 - Aliases: `tongli, tongli.com.tw, 東立出版社`
 - Route Count: `1`
 
 ## Routes
 
 ### 新聞
-- Route ID: `tongli:/news/:type`
-- Route Path: `/news/:type`
-- File: `docs/routes/tongli/news-type.md`
-- File Name: `news-type.md`
+- Route ID: `tongli:/tongli/news/:type`
+- Route Path: `/tongli/news/:type`
+- File: `docs/routes/tongli/tongli-news-type.md`
+- File Name: `tongli-news-type.md`
 - Categories: `reading`
 - Maintainers: `CokeMine`

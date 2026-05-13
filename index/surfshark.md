@@ -4,16 +4,16 @@
 - Namespace: `surfshark`
 - Display Name: `Surfshark`
 - URL: `surfshark.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `surfshark, surfshark.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `surfshark:/blog/:category{.+}?`
-- Route Path: `/blog/:category{.+}?`
-- File: `docs/routes/surfshark/blog-category.md`
-- File Name: `blog-category.md`
+- Route ID: `surfshark:/surfshark/blog/:category{.+}?`
+- Route Path: `/surfshark/blog/:category{.+}?`
+- File: `docs/routes/surfshark/surfshark-blog-category.md`
+- File Name: `surfshark-blog-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

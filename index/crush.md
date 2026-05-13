@@ -11,9 +11,9 @@
 ## Routes
 
 ### 匿名投稿頁面
-- Route ID: `crush:/pages/:id`
-- Route Path: `/pages/:id`
-- File: `docs/routes/crush/pages-id.md`
-- File Name: `pages-id.md`
+- Route ID: `crush:/crush/pages/:id`
+- Route Path: `/crush/pages/:id`
+- File: `docs/routes/crush/crush-pages-id.md`
+- File Name: `crush-pages-id.md`
 - Categories: `social-media`
 - Maintainers: `Tsuyumi25`

@@ -4,16 +4,16 @@
 - Namespace: `v1tx`
 - Display Name: `v1tx`
 - URL: `v1tx.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `v1tx, v1tx.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `v1tx:/`
-- Route Path: `/`
-- File: `docs/routes/v1tx/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `v1tx:/v1tx/`
+- Route Path: `/v1tx/`
+- File: `docs/routes/v1tx/v1tx.md`
+- File Name: `v1tx.md`
+- Categories: `other`
 - Maintainers: `TonyRL`

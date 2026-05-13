@@ -4,16 +4,16 @@
 - Namespace: `imagemagick`
 - Display Name: `ImageMagick`
 - URL: `imagemagick.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `imagemagick, imagemagick.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Changelog
-- Route ID: `imagemagick:/changelog`
-- Route Path: `/changelog`
-- File: `docs/routes/imagemagick/changelog.md`
-- File Name: `changelog.md`
+- Route ID: `imagemagick:/imagemagick/changelog`
+- Route Path: `/imagemagick/changelog`
+- File: `docs/routes/imagemagick/imagemagick-changelog.md`
+- File Name: `imagemagick-changelog.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`

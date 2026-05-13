@@ -4,16 +4,16 @@
 - Namespace: `isct`
 - Display Name: `Institute of Science Tokyo`
 - URL: `isct.ac.jp`
-- Language: `ja`
+- Language: `_None_`
 - Aliases: `institute of science tokyo, isct, isct.ac.jp`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `isct:/news/:lang`
-- Route Path: `/news/:lang`
-- File: `docs/routes/isct/news-lang.md`
-- File Name: `news-lang.md`
+- Route ID: `isct:/isct/news/:lang`
+- Route Path: `/isct/news/:lang`
+- File: `docs/routes/isct/isct-news-lang.md`
+- File Name: `isct-news-lang.md`
 - Categories: `university`
 - Maintainers: `catyyy`

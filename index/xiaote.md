@@ -4,16 +4,16 @@
 - Namespace: `xiaote`
 - Display Name: `小特社区`
 - URL: `xiaote.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `xiaote, xiaote.com, 小特社区`
 - Route Count: `1`
 
 ## Routes
 
 ### 首页帖子
-- Route ID: `xiaote:/news`
-- Route Path: `/news`
-- File: `docs/routes/xiaote/news.md`
-- File Name: `news.md`
+- Route ID: `xiaote:/xiaote/news`
+- Route Path: `/xiaote/news`
+- File: `docs/routes/xiaote/xiaote-news.md`
+- File Name: `xiaote-news.md`
 - Categories: `bbs`
 - Maintainers: `wxsimon`

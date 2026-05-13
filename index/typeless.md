@@ -4,16 +4,16 @@
 - Namespace: `typeless`
 - Display Name: `Typeless`
 - URL: `typeless.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `typeless, typeless.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Changelog
-- Route ID: `typeless:/changelog`
-- Route Path: `/changelog`
-- File: `docs/routes/typeless/changelog.md`
-- File Name: `changelog.md`
+- Route ID: `typeless:/typeless/changelog`
+- Route Path: `/typeless/changelog`
+- File: `docs/routes/typeless/typeless-changelog.md`
+- File Name: `typeless-changelog.md`
 - Categories: `program-update`
 - Maintainers: `TonyRL`

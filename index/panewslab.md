@@ -4,48 +4,40 @@
 - Namespace: `panewslab`
 - Display Name: `PANews`
 - URL: `panewslab.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `panews, panewslab, panewslab.com`
-- Route Count: `5`
+- Route Count: `4`
 
 ## Routes
 
 ### 专栏
-- Route ID: `panewslab:/author/:id`
-- Route Path: `/author/:id`
-- File: `docs/routes/panewslab/author-id.md`
-- File Name: `author-id.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### 专栏
-- Route ID: `panewslab:/column/:id`
-- Route Path: `/column/:id`
-- File: `docs/routes/panewslab/column-id.md`
-- File Name: `column-id.md`
+- Route ID: `panewslab:/panewslab/author/:id`
+- Route Path: `/panewslab/author/:id`
+- File: `docs/routes/panewslab/panewslab-author-id.md`
+- File Name: `panewslab-author-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 快讯
-- Route ID: `panewslab:/news`
-- Route Path: `/news`
-- File: `docs/routes/panewslab/news.md`
-- File Name: `news.md`
+- Route ID: `panewslab:/panewslab/news`
+- Route Path: `/panewslab/news`
+- File: `docs/routes/panewslab/panewslab-news.md`
+- File Name: `panewslab-news.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 深度
-- Route ID: `panewslab:/profundity/:category?`
-- Route Path: `/profundity/:category?`
-- File: `docs/routes/panewslab/profundity-category.md`
-- File Name: `profundity-category.md`
+- Route ID: `panewslab:/panewslab/profundity/:category?`
+- Route Path: `/panewslab/profundity/:category?`
+- File: `docs/routes/panewslab/panewslab-profundity-category.md`
+- File Name: `panewslab-profundity-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 专题
-- Route ID: `panewslab:/topic/:id`
-- Route Path: `/topic/:id`
-- File: `docs/routes/panewslab/topic-id.md`
-- File Name: `topic-id.md`
+- Route ID: `panewslab:/panewslab/topic/:id`
+- Route Path: `/panewslab/topic/:id`
+- File: `docs/routes/panewslab/panewslab-topic-id.md`
+- File Name: `panewslab-topic-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

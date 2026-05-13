@@ -4,24 +4,24 @@
 - Namespace: `foodtalks`
 - Display Name: `FoodTalks全球食品资讯网`
 - URL: `www.foodtalks.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `foodtalks, foodtalks.cn, foodtalks全球食品资讯网, www, www.foodtalks.cn`
 - Route Count: `2`
 
 ## Routes
 
 ### 最新资讯
-- Route ID: `foodtalks:/`
-- Route Path: `/`
-- File: `docs/routes/foodtalks/index.md`
-- File Name: `index.md`
+- Route ID: `foodtalks:/foodtalks/`
+- Route Path: `/foodtalks/`
+- File: `docs/routes/foodtalks/foodtalks.md`
+- File Name: `foodtalks.md`
 - Categories: `new-media`
 - Maintainers: `Geraldxm`
 
 ### 标签
-- Route ID: `foodtalks:/news/tag/:tagId`
-- Route Path: `/news/tag/:tagId`
-- File: `docs/routes/foodtalks/news-tag-tagid.md`
-- File Name: `news-tag-tagid.md`
+- Route ID: `foodtalks:/foodtalks/news/tag/:tagId`
+- Route Path: `/foodtalks/news/tag/:tagId`
+- File: `docs/routes/foodtalks/foodtalks-news-tag-tagid.md`
+- File Name: `foodtalks-news-tag-tagid.md`
 - Categories: `new-media`
 - Maintainers: `TonyRL`

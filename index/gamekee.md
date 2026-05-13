@@ -11,9 +11,9 @@
 ## Routes
 
 ### 游戏情报
-- Route ID: `gamekee:/news`
-- Route Path: `/news`
-- File: `docs/routes/gamekee/news.md`
-- File Name: `news.md`
+- Route ID: `gamekee:/gamekee/news`
+- Route Path: `/gamekee/news`
+- File: `docs/routes/gamekee/gamekee-news.md`
+- File Name: `gamekee-news.md`
 - Categories: `game`
 - Maintainers: `ueiu`

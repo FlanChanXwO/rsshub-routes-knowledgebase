@@ -4,16 +4,16 @@
 - Namespace: `musikguru`
 - Display Name: `MusikGuru`
 - URL: `musikguru.de`
-- Language: `de`
+- Language: `_None_`
 - Aliases: `musikguru, musikguru.de`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `musikguru:/news`
-- Route Path: `/news`
-- File: `docs/routes/musikguru/news.md`
-- File Name: `news.md`
+- Route ID: `musikguru:/musikguru/news`
+- Route Path: `/musikguru/news`
+- File: `docs/routes/musikguru/musikguru-news.md`
+- File Name: `musikguru-news.md`
 - Categories: `multimedia`
 - Maintainers: `nczitzk`

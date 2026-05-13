@@ -4,16 +4,16 @@
 - Namespace: `uptimerobot`
 - Display Name: `Uptime Robot`
 - URL: `rss.uptimerobot.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `rss, rss.uptimerobot.com, uptime robot, uptimerobot`
 - Route Count: `1`
 
 ## Routes
 
 ### RSS
-- Route ID: `uptimerobot:/rss/:id/:routeParams?`
-- Route Path: `/rss/:id/:routeParams?`
-- File: `docs/routes/uptimerobot/rss-id-routeparams.md`
-- File Name: `rss-id-routeparams.md`
+- Route ID: `uptimerobot:/uptimerobot/rss/:id/:routeParams?`
+- Route Path: `/uptimerobot/rss/:id/:routeParams?`
+- File: `docs/routes/uptimerobot/uptimerobot-rss-id-routeparams.md`
+- File Name: `uptimerobot-rss-id-routeparams.md`
 - Categories: `forecast`
 - Maintainers: `Rongronggg9`

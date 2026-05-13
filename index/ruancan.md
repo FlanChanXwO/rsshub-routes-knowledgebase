@@ -4,40 +4,40 @@
 - Namespace: `ruancan`
 - Display Name: `软餐`
 - URL: `ruancan.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `ruancan, ruancan.com, 软餐`
 - Route Count: `4`
 
 ## Routes
 
 ### Unknown
-- Route ID: `ruancan:/`
-- Route Path: `/`
-- File: `docs/routes/ruancan/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `ruancan:/ruancan/`
+- Route Path: `/ruancan/`
+- File: `docs/routes/ruancan/ruancan.md`
+- File Name: `ruancan.md`
+- Categories: `new-media`
 - Maintainers: `None`
 
 ### 分类
-- Route ID: `ruancan:/category/:category?`
-- Route Path: `/category/:category?`
-- File: `docs/routes/ruancan/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `ruancan:/ruancan/category/:category?`
+- Route Path: `/ruancan/category/:category?`
+- File: `docs/routes/ruancan/ruancan-category-category.md`
+- File Name: `ruancan-category-category.md`
 - Categories: `new-media`
 - Maintainers: `None`
 
 ### 搜索
-- Route ID: `ruancan:/search/:keyword?`
-- Route Path: `/search/:keyword?`
-- File: `docs/routes/ruancan/search-keyword.md`
-- File Name: `search-keyword.md`
+- Route ID: `ruancan:/ruancan/search/:keyword?`
+- Route Path: `/ruancan/search/:keyword?`
+- File: `docs/routes/ruancan/ruancan-search-keyword.md`
+- File Name: `ruancan-search-keyword.md`
 - Categories: `new-media`
 - Maintainers: `None`
 
 ### Unknown
-- Route ID: `ruancan:/user/:id`
-- Route Path: `/user/:id`
-- File: `docs/routes/ruancan/user-id.md`
-- File Name: `user-id.md`
-- Categories: `None`
+- Route ID: `ruancan:/ruancan/user/:id`
+- Route Path: `/ruancan/user/:id`
+- File: `docs/routes/ruancan/ruancan-user-id.md`
+- File Name: `ruancan-user-id.md`
+- Categories: `new-media`
 - Maintainers: `None`

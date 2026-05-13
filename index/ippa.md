@@ -4,16 +4,16 @@
 - Namespace: `ippa`
 - Display Name: `子方有料`
 - URL: `ippa.top`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `ippa, ippa.top, 子方有料`
 - Route Count: `1`
 
 ## Routes
 
 ### 最新文章
-- Route ID: `ippa:/`
-- Route Path: `/`
-- File: `docs/routes/ippa/index.md`
-- File Name: `index.md`
+- Route ID: `ippa:/ippa/`
+- Route Path: `/ippa/`
+- File: `docs/routes/ippa/ippa.md`
+- File Name: `ippa.md`
 - Categories: `blog`
 - Maintainers: `cnkmmk`

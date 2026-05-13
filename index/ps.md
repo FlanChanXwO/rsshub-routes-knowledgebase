@@ -4,24 +4,24 @@
 - Namespace: `ps`
 - Display Name: `PlayStation Store`
 - URL: `www.playstation.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `playstation store, playstation.com, ps, www, www.playstation.com`
 - Route Count: `2`
 
 ## Routes
 
 ### PlayStation Monthly Games
-- Route ID: `ps:/monthly-games`
-- Route Path: `/monthly-games`
-- File: `docs/routes/ps/monthly-games.md`
-- File Name: `monthly-games.md`
-- Categories: `game`
+- Route ID: `ps:/ps/monthly-games`
+- Route Path: `/ps/monthly-games`
+- File: `docs/routes/ps/ps-monthly-games.md`
+- File Name: `ps-monthly-games.md`
+- Categories: `game, popular`
 - Maintainers: `justjustCC`
 
 ### PlayStation Network user trophy
-- Route ID: `ps:/trophy/:id`
-- Route Path: `/trophy/:id`
-- File: `docs/routes/ps/trophy-id.md`
-- File Name: `trophy-id.md`
+- Route ID: `ps:/ps/trophy/:id`
+- Route Path: `/ps/trophy/:id`
+- File: `docs/routes/ps/ps-trophy-id.md`
+- File Name: `ps-trophy-id.md`
 - Categories: `game`
 - Maintainers: `DIYgod`

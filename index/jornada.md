@@ -4,16 +4,16 @@
 - Namespace: `jornada`
 - Display Name: `La Jornada`
 - URL: `jornada.com.mx`
-- Language: `es`
+- Language: `_None_`
 - Aliases: `jornada, jornada.com.mx, la jornada`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `jornada:/:date?/:category?`
-- Route Path: `/:date?/:category?`
-- File: `docs/routes/jornada/date-category.md`
-- File Name: `date-category.md`
+- Route ID: `jornada:/jornada/:date?/:category?`
+- Route Path: `/jornada/:date?/:category?`
+- File: `docs/routes/jornada/jornada-date-category.md`
+- File Name: `jornada-date-category.md`
 - Categories: `traditional-media`
 - Maintainers: `Thealf154`

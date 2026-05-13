@@ -4,16 +4,16 @@
 - Namespace: `xboxfan`
 - Display Name: `盒心光环`
 - URL: `xboxfan.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `xboxfan, xboxfan.com, 盒心光环`
 - Route Count: `1`
 
 ## Routes
 
 ### 资讯
-- Route ID: `xboxfan:/news`
-- Route Path: `/news`
-- File: `docs/routes/xboxfan/news.md`
-- File Name: `news.md`
+- Route ID: `xboxfan:/xboxfan/news`
+- Route Path: `/xboxfan/news`
+- File: `docs/routes/xboxfan/xboxfan-news.md`
+- File Name: `xboxfan-news.md`
 - Categories: `game`
 - Maintainers: `XXY233`

@@ -4,16 +4,16 @@
 - Namespace: `runyeah`
 - Display Name: `跑野大爆炸`
 - URL: `runyeah.world`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `runyeah, runyeah.world, 跑野大爆炸`
 - Route Count: `1`
 
 ## Routes
 
 ### 最新文章
-- Route ID: `runyeah:/`
-- Route Path: `/`
-- File: `docs/routes/runyeah/index.md`
-- File Name: `index.md`
+- Route ID: `runyeah:/runyeah/`
+- Route Path: `/runyeah/`
+- File: `docs/routes/runyeah/runyeah.md`
+- File Name: `runyeah.md`
 - Categories: `sport`
 - Maintainers: `TonyRL`

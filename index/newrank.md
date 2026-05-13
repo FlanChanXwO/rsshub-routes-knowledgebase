@@ -4,24 +4,24 @@
 - Namespace: `newrank`
 - Display Name: `新榜`
 - URL: `newrank.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `newrank, newrank.cn, 新榜`
 - Route Count: `2`
 
 ## Routes
 
 ### 抖音短视频
-- Route ID: `newrank:/douyin/:dyid`
-- Route Path: `/douyin/:dyid`
-- File: `docs/routes/newrank/douyin-dyid.md`
-- File Name: `douyin-dyid.md`
+- Route ID: `newrank:/newrank/douyin/:dyid`
+- Route Path: `/newrank/douyin/:dyid`
+- File: `docs/routes/newrank/newrank-douyin-dyid.md`
+- File Name: `newrank-douyin-dyid.md`
 - Categories: `social-media`
 - Maintainers: `lessmoe`
 
 ### 微信公众号
-- Route ID: `newrank:/wechat/:wxid`
-- Route Path: `/wechat/:wxid`
-- File: `docs/routes/newrank/wechat-wxid.md`
-- File Name: `wechat-wxid.md`
+- Route ID: `newrank:/newrank/wechat/:wxid`
+- Route Path: `/newrank/wechat/:wxid`
+- File: `docs/routes/newrank/newrank-wechat-wxid.md`
+- File Name: `newrank-wechat-wxid.md`
 - Categories: `social-media`
 - Maintainers: `lessmoe, pseudoyu`

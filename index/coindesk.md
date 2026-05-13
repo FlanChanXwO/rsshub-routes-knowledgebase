@@ -4,24 +4,24 @@
 - Namespace: `coindesk`
 - Display Name: `CoinDesk`
 - URL: `coindesk.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `coindesk, coindesk.com`
 - Route Count: `2`
 
 ## Routes
 
 ### 新闻周刊
-- Route ID: `coindesk:/consensus-magazine`
-- Route Path: `/consensus-magazine`
-- File: `docs/routes/coindesk/consensus-magazine.md`
-- File Name: `consensus-magazine.md`
+- Route ID: `coindesk:/coindesk/consensus-magazine`
+- Route Path: `/coindesk/consensus-magazine`
+- File: `docs/routes/coindesk/coindesk-consensus-magazine.md`
+- File Name: `coindesk-consensus-magazine.md`
 - Categories: `new-media`
 - Maintainers: `jameshih`
 
 ### News
-- Route ID: `coindesk:/news`
-- Route Path: `/news`
-- File: `docs/routes/coindesk/news.md`
-- File Name: `news.md`
+- Route ID: `coindesk:/coindesk/news`
+- Route Path: `/coindesk/news`
+- File: `docs/routes/coindesk/coindesk-news.md`
+- File Name: `coindesk-news.md`
 - Categories: `finance`
 - Maintainers: `pseudoyu`

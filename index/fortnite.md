@@ -4,16 +4,16 @@
 - Namespace: `fortnite`
 - Display Name: `Fortnite`
 - URL: `fortnite.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `fortnite, fortnite.com`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `fortnite:/news/:options?`
-- Route Path: `/news/:options?`
-- File: `docs/routes/fortnite/news-options.md`
-- File Name: `news-options.md`
+- Route ID: `fortnite:/fortnite/news/:options?`
+- Route Path: `/fortnite/news/:options?`
+- File: `docs/routes/fortnite/fortnite-news-options.md`
+- File Name: `fortnite-news-options.md`
 - Categories: `game`
 - Maintainers: `lyqluis`

@@ -4,16 +4,16 @@
 - Namespace: `wizfile`
 - Display Name: `WziFile`
 - URL: `antibody-software.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `antibody-software, antibody-software.com, wizfile, wzifile`
 - Route Count: `1`
 
 ## Routes
 
 ### Version History
-- Route ID: `wizfile:/updates`
-- Route Path: `/updates`
-- File: `docs/routes/wizfile/updates.md`
-- File Name: `updates.md`
+- Route ID: `wizfile:/wizfile/updates`
+- Route Path: `/wizfile/updates`
+- File: `docs/routes/wizfile/wizfile-updates.md`
+- File Name: `wizfile-updates.md`
 - Categories: `program-update`
 - Maintainers: `Fatpandac`

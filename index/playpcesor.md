@@ -4,16 +4,16 @@
 - Namespace: `playpcesor`
 - Display Name: `电脑玩物`
 - URL: `playpcesor.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `playpcesor, playpcesor.com, 电脑玩物`
 - Route Count: `1`
 
 ## Routes
 
 ### 每日精选文章
-- Route ID: `playpcesor:/`
-- Route Path: `/`
-- File: `docs/routes/playpcesor/index.md`
-- File Name: `index.md`
+- Route ID: `playpcesor:/playpcesor/`
+- Route Path: `/playpcesor/`
+- File: `docs/routes/playpcesor/playpcesor.md`
+- File Name: `playpcesor.md`
 - Categories: `blog`
 - Maintainers: `cnkmmk`

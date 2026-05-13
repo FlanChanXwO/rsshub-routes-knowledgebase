@@ -4,48 +4,48 @@
 - Namespace: `guancha`
 - Display Name: `观察者网`
 - URL: `guancha.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `guancha, guancha.cn, 观察者网`
 - Route Count: `5`
 
 ## Routes
 
 ### 首页
-- Route ID: `guancha:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/guancha/category.md`
-- File Name: `category.md`
+- Route ID: `guancha:/guancha/:category?`
+- Route Path: `/guancha/:category?`
+- File: `docs/routes/guancha/guancha-category.md`
+- File Name: `guancha-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk, Jeason0228`
 
 ### 头条
-- Route ID: `guancha:/headline`
-- Route Path: `/headline`
-- File: `docs/routes/guancha/headline.md`
-- File Name: `headline.md`
+- Route ID: `guancha:/guancha/headline`
+- Route Path: `/guancha/headline`
+- File: `docs/routes/guancha/guancha-headline.md`
+- File Name: `guancha-headline.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 观学院
-- Route ID: `guancha:/member/:category?`
-- Route Path: `/member/:category?`
-- File: `docs/routes/guancha/member-category.md`
-- File Name: `member-category.md`
+- Route ID: `guancha:/guancha/member/:category?`
+- Route Path: `/guancha/member/:category?`
+- File: `docs/routes/guancha/guancha-member-category.md`
+- File Name: `guancha-member-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 
 ### 个人主页文章
-- Route ID: `guancha:/personalpage/:uid`
-- Route Path: `/personalpage/:uid`
-- File: `docs/routes/guancha/personalpage-uid.md`
-- File Name: `personalpage-uid.md`
+- Route ID: `guancha:/guancha/personalpage/:uid`
+- Route Path: `/guancha/personalpage/:uid`
+- File: `docs/routes/guancha/guancha-personalpage-uid.md`
+- File Name: `guancha-personalpage-uid.md`
 - Categories: `new-media`
 - Maintainers: `Jeason0228`
 
 ### Unknown
-- Route ID: `guancha:/topic/:id/:order?`
-- Route Path: `/topic/:id/:order?`
-- File: `docs/routes/guancha/topic-id-order.md`
-- File Name: `topic-id-order.md`
-- Categories: `None`
+- Route ID: `guancha:/guancha/topic/:id/:order?`
+- Route Path: `/guancha/topic/:id/:order?`
+- File: `docs/routes/guancha/guancha-topic-id-order.md`
+- File Name: `guancha-topic-id-order.md`
+- Categories: `new-media`
 - Maintainers: `occupy5, nczitzk`

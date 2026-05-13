@@ -4,16 +4,16 @@
 - Namespace: `notefolio`
 - Display Name: `Notefolio`
 - URL: `notefolio.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `notefolio, notefolio.net`
 - Route Count: `1`
 
 ## Routes
 
 ### Works
-- Route ID: `notefolio:/search/:category?/:order?/:time?/:query?`
-- Route Path: `/search/:category?/:order?/:time?/:query?`
-- File: `docs/routes/notefolio/search-category-order-time-query.md`
-- File Name: `search-category-order-time-query.md`
+- Route ID: `notefolio:/notefolio/search/:category?/:order?/:time?/:query?`
+- Route Path: `/notefolio/search/:category?/:order?/:time?/:query?`
+- File: `docs/routes/notefolio/notefolio-search-category-order-time-query.md`
+- File Name: `notefolio-search-category-order-time-query.md`
 - Categories: `design`
 - Maintainers: `BianTan`

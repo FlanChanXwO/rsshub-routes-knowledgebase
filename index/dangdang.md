@@ -4,16 +4,16 @@
 - Namespace: `dangdang`
 - Display Name: `当当开放平台`
 - URL: `open.dangdang.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dangdang, open, open.dangdang.com, 当当开放平台`
 - Route Count: `1`
 
 ## Routes
 
 ### 公告
-- Route ID: `dangdang:/notice/:type?`
-- Route Path: `/notice/:type?`
-- File: `docs/routes/dangdang/notice-type.md`
-- File Name: `notice-type.md`
+- Route ID: `dangdang:/dangdang/notice/:type?`
+- Route Path: `/dangdang/notice/:type?`
+- File: `docs/routes/dangdang/dangdang-notice-type.md`
+- File Name: `dangdang-notice-type.md`
 - Categories: `programming`
 - Maintainers: `353325487`

@@ -11,9 +11,9 @@
 ## Routes
 
 ### 教务部通知公告
-- Route ID: `dgut:/jwb/:type?`
-- Route Path: `/jwb/:type?`
-- File: `docs/routes/dgut/jwb-type.md`
-- File Name: `jwb-type.md`
+- Route ID: `dgut:/dgut/jwb/:type?`
+- Route Path: `/dgut/jwb/:type?`
+- File: `docs/routes/dgut/dgut-jwb-type.md`
+- File Name: `dgut-jwb-type.md`
 - Categories: `university`
 - Maintainers: `1200522928`

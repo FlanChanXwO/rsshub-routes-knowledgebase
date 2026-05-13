@@ -4,16 +4,16 @@
 - Namespace: `gq`
 - Display Name: `GQ`
 - URL: `gq.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `gq, gq.com`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `gq:/news`
-- Route Path: `/news`
-- File: `docs/routes/gq/news.md`
-- File Name: `news.md`
+- Route ID: `gq:/gq/news`
+- Route Path: `/gq/news`
+- File: `docs/routes/gq/gq-news.md`
+- File Name: `gq-news.md`
 - Categories: `traditional-media`
 - Maintainers: `EthanWng97`

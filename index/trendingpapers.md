@@ -4,16 +4,16 @@
 - Namespace: `trendingpapers`
 - Display Name: `Trending Papers`
 - URL: `trendingpapers.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `trending papers, trendingpapers, trendingpapers.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Trending Papers on arXiv
-- Route ID: `trendingpapers:/papers/:category?/:time?/:cited?`
-- Route Path: `/papers/:category?/:time?/:cited?`
-- File: `docs/routes/trendingpapers/papers-category-time-cited.md`
-- File Name: `papers-category-time-cited.md`
+- Route ID: `trendingpapers:/trendingpapers/papers/:category?/:time?/:cited?`
+- Route Path: `/trendingpapers/papers/:category?/:time?/:cited?`
+- File: `docs/routes/trendingpapers/trendingpapers-papers-category-time-cited.md`
+- File Name: `trendingpapers-papers-category-time-cited.md`
 - Categories: `journal`
 - Maintainers: `CookiePieWw`

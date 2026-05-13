@@ -4,56 +4,56 @@
 - Namespace: `spotify`
 - Display Name: `Spotify`
 - URL: `open.spotify.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `open, open.spotify.com, spotify`
 - Route Count: `6`
 
 ## Routes
 
 ### Artist Albums
-- Route ID: `spotify:/artist/:id`
-- Route Path: `/artist/:id`
-- File: `docs/routes/spotify/artist-id.md`
-- File Name: `artist-id.md`
+- Route ID: `spotify:/spotify/artist/:id`
+- Route Path: `/spotify/artist/:id`
+- File: `docs/routes/spotify/spotify-artist-id.md`
+- File Name: `spotify-artist-id.md`
 - Categories: `multimedia`
 - Maintainers: `outloudvi`
 
 ### Playlist
-- Route ID: `spotify:/playlist/:id`
-- Route Path: `/playlist/:id`
-- File: `docs/routes/spotify/playlist-id.md`
-- File Name: `playlist-id.md`
+- Route ID: `spotify:/spotify/playlist/:id`
+- Route Path: `/spotify/playlist/:id`
+- File: `docs/routes/spotify/spotify-playlist-id.md`
+- File Name: `spotify-playlist-id.md`
 - Categories: `multimedia`
 - Maintainers: `outloudvi`
 
 ### Personal Saved Tracks
-- Route ID: `spotify:/saved/:limit?`
-- Route Path: `/saved/:limit?`
-- File: `docs/routes/spotify/saved-limit.md`
-- File Name: `saved-limit.md`
+- Route ID: `spotify:/spotify/saved/:limit?`
+- Route Path: `/spotify/saved/:limit?`
+- File: `docs/routes/spotify/spotify-saved-limit.md`
+- File Name: `spotify-saved-limit.md`
 - Categories: `multimedia`
 - Maintainers: `outloudvi`
 
 ### Show/Podcasts
-- Route ID: `spotify:/show/:id`
-- Route Path: `/show/:id`
-- File: `docs/routes/spotify/show-id.md`
-- File Name: `show-id.md`
-- Categories: `multimedia`
+- Route ID: `spotify:/spotify/show/:id`
+- Route Path: `/spotify/show/:id`
+- File: `docs/routes/spotify/spotify-show-id.md`
+- File Name: `spotify-show-id.md`
+- Categories: `multimedia, popular`
 - Maintainers: `caiohsramos, pseudoyu`
 
 ### Personal Top Artists
-- Route ID: `spotify:/top/artists`
-- Route Path: `/top/artists`
-- File: `docs/routes/spotify/top-artists.md`
-- File Name: `top-artists.md`
+- Route ID: `spotify:/spotify/top/artists`
+- Route Path: `/spotify/top/artists`
+- File: `docs/routes/spotify/spotify-top-artists.md`
+- File Name: `spotify-top-artists.md`
 - Categories: `multimedia`
 - Maintainers: `outloudvi`
 
 ### Personal Top Tracks
-- Route ID: `spotify:/top/tracks`
-- Route Path: `/top/tracks`
-- File: `docs/routes/spotify/top-tracks.md`
-- File Name: `top-tracks.md`
+- Route ID: `spotify:/spotify/top/tracks`
+- Route Path: `/spotify/top/tracks`
+- File: `docs/routes/spotify/spotify-top-tracks.md`
+- File Name: `spotify-top-tracks.md`
 - Categories: `multimedia`
 - Maintainers: `outloudvi`

@@ -11,9 +11,9 @@
 ## Routes
 
 ### 标签查询
-- Route ID: `gelbooru:/post/:tags?/:quality?`
-- Route Path: `/post/:tags?/:quality?`
-- File: `docs/routes/gelbooru/post-tags-quality.md`
-- File Name: `post-tags-quality.md`
+- Route ID: `gelbooru:/gelbooru/post/:tags?/:quality?`
+- Route Path: `/gelbooru/post/:tags?/:quality?`
+- File: `docs/routes/gelbooru/gelbooru-post-tags-quality.md`
+- File Name: `gelbooru-post-tags-quality.md`
 - Categories: `picture`
 - Maintainers: `magicFeirl`

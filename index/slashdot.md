@@ -4,16 +4,16 @@
 - Namespace: `slashdot`
 - Display Name: `Slashdot`
 - URL: `slashdot.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `slashdot, slashdot.org`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `slashdot:/:section?`
-- Route Path: `/:section?`
-- File: `docs/routes/slashdot/section.md`
-- File Name: `section.md`
+- Route ID: `slashdot:/slashdot/:section?`
+- Route Path: `/slashdot/:section?`
+- File: `docs/routes/slashdot/slashdot-section.md`
+- File Name: `slashdot-section.md`
 - Categories: `new-media`
 - Maintainers: `TonyRL`

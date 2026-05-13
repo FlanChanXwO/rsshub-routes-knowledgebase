@@ -4,88 +4,88 @@
 - Namespace: `yicai`
 - Display Name: `第一财经`
 - URL: `yicai.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `yicai, yicai.com, 第一财经`
 - Route Count: `10`
 
 ## Routes
 
 ### 一财号
-- Route ID: `yicai:/author/:id?`
-- Route Path: `/author/:id?`
-- File: `docs/routes/yicai/author-id.md`
-- File Name: `author-id.md`
+- Route ID: `yicai:/yicai/author/:id?`
+- Route Path: `/yicai/author/:id?`
+- File: `docs/routes/yicai/yicai-author-id.md`
+- File Name: `yicai-author-id.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 正在
-- Route ID: `yicai:/brief`
-- Route Path: `/brief`
-- File: `docs/routes/yicai/brief.md`
-- File Name: `brief.md`
+- Route ID: `yicai:/yicai/brief`
+- Route Path: `/yicai/brief`
+- File: `docs/routes/yicai/yicai-brief.md`
+- File Name: `yicai-brief.md`
 - Categories: `traditional-media`
 - Maintainers: `sanmmm, nczitzk`
 
 ### 轮播
-- Route ID: `yicai:/carousel`
-- Route Path: `/carousel`
-- File: `docs/routes/yicai/carousel.md`
-- File Name: `carousel.md`
+- Route ID: `yicai:/yicai/carousel`
+- Route Path: `/yicai/carousel`
+- File: `docs/routes/yicai/yicai-carousel.md`
+- File Name: `yicai-carousel.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### DT 财经
-- Route ID: `yicai:/dt/:column?/:category?`
-- Route Path: `/dt/:column?/:category?`
-- File: `docs/routes/yicai/dt-column-category.md`
-- File Name: `dt-column-category.md`
+- Route ID: `yicai:/yicai/dt/:column?/:category?`
+- Route Path: `/yicai/dt/:column?/:category?`
+- File: `docs/routes/yicai/yicai-dt-column-category.md`
+- File Name: `yicai-dt-column-category.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 关注
-- Route ID: `yicai:/feed/:id?`
-- Route Path: `/feed/:id?`
-- File: `docs/routes/yicai/feed-id.md`
-- File Name: `feed-id.md`
+- Route ID: `yicai:/yicai/feed/:id?`
+- Route Path: `/yicai/feed/:id?`
+- File: `docs/routes/yicai/yicai-feed-id.md`
+- File Name: `yicai-feed-id.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 头条
-- Route ID: `yicai:/headline`
-- Route Path: `/headline`
-- File: `docs/routes/yicai/headline.md`
-- File Name: `headline.md`
+- Route ID: `yicai:/yicai/headline`
+- Route Path: `/yicai/headline`
+- File: `docs/routes/yicai/yicai-headline.md`
+- File Name: `yicai-headline.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 最新
-- Route ID: `yicai:/latest`
-- Route Path: `/latest`
-- File: `docs/routes/yicai/latest.md`
-- File Name: `latest.md`
+- Route ID: `yicai:/yicai/latest`
+- Route Path: `/yicai/latest`
+- File: `docs/routes/yicai/yicai-latest.md`
+- File Name: `yicai-latest.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 新闻
-- Route ID: `yicai:/news/:id?`
-- Route Path: `/news/:id?`
-- File: `docs/routes/yicai/news-id.md`
-- File Name: `news-id.md`
+- Route ID: `yicai:/yicai/news/:id?`
+- Route Path: `/yicai/news/:id?`
+- File: `docs/routes/yicai/yicai-news-id.md`
+- File Name: `yicai-news-id.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### 视听
-- Route ID: `yicai:/video/:id?`
-- Route Path: `/video/:id?`
-- File: `docs/routes/yicai/video-id.md`
-- File Name: `video-id.md`
+- Route ID: `yicai:/yicai/video/:id?`
+- Route Path: `/yicai/video/:id?`
+- File: `docs/routes/yicai/yicai-video-id.md`
+- File Name: `yicai-video-id.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
 ### VIP 频道
-- Route ID: `yicai:/vip/:id?`
-- Route Path: `/vip/:id?`
-- File: `docs/routes/yicai/vip-id.md`
-- File Name: `vip-id.md`
+- Route ID: `yicai:/yicai/vip/:id?`
+- Route Path: `/yicai/vip/:id?`
+- File: `docs/routes/yicai/yicai-vip-id.md`
+- File Name: `yicai-vip-id.md`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`

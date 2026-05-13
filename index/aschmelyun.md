@@ -11,9 +11,9 @@
 ## Routes
 
 ### Blog
-- Route ID: `aschmelyun:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/aschmelyun/blog.md`
-- File Name: `blog.md`
+- Route ID: `aschmelyun:/aschmelyun/blog`
+- Route Path: `/aschmelyun/blog`
+- File: `docs/routes/aschmelyun/aschmelyun-blog.md`
+- File Name: `aschmelyun-blog.md`
 - Categories: `blog`
 - Maintainers: `raxod502`

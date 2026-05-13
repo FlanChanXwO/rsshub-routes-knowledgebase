@@ -11,25 +11,25 @@
 ## Routes
 
 ### HAN Lab Blog
-- Route ID: `mit:/hanlab/blog`
-- Route Path: `/hanlab/blog`
-- File: `docs/routes/mit/hanlab-blog.md`
-- File Name: `hanlab-blog.md`
+- Route ID: `mit:/mit/hanlab/blog`
+- Route Path: `/mit/hanlab/blog`
+- File: `docs/routes/mit/mit-hanlab-blog.md`
+- File Name: `mit-hanlab-blog.md`
 - Categories: `blog`
 - Maintainers: `johan456789`
 
 ### Scratch User Comments
-- Route ID: `mit:/scratch/user-comments/:username`
-- Route Path: `/scratch/user-comments/:username`
-- File: `docs/routes/mit/scratch-user-comments-username.md`
-- File Name: `scratch-user-comments-username.md`
+- Route ID: `mit:/mit/scratch/user-comments/:username`
+- Route Path: `/mit/scratch/user-comments/:username`
+- File: `docs/routes/mit/mit-scratch-user-comments-username.md`
+- File Name: `mit-scratch-user-comments-username.md`
 - Categories: `social-media`
 - Maintainers: `Skota11`
 
 ### Scratch User Projects
-- Route ID: `mit:/scratch/user-projects/:username`
-- Route Path: `/scratch/user-projects/:username`
-- File: `docs/routes/mit/scratch-user-projects-username.md`
-- File Name: `scratch-user-projects-username.md`
+- Route ID: `mit:/mit/scratch/user-projects/:username`
+- Route Path: `/mit/scratch/user-projects/:username`
+- File: `docs/routes/mit/mit-scratch-user-projects-username.md`
+- File Name: `mit-scratch-user-projects-username.md`
 - Categories: `social-media`
 - Maintainers: `Skota11`

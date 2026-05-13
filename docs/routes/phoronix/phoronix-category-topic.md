@@ -1,0 +1,104 @@
+# Phoronix - News & Reviews
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `phoronix`
+- Namespace Name: `Phoronix`
+- Route Path: `/phoronix/:category?/:topic?`
+- Route Name: `News & Reviews`
+- Example: `/phoronix/linux/KDE`
+- URL: `phoronix.com`
+- Language: `_None_`
+- Categories: `new-media`
+- Maintainers: `oppliate, Rongronggg9`
+- Source Location: `index.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `category`: Category
+- `topic`: Topic. You may find available parameters from their navigator links. E.g. to subscribe to `https://www.phoronix.com/reviews/Operating+Systems`, fill in the path `/phoronix/reviews/Operating+Systems`
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `phoronix.com/:category?/:topic?`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "example": "/phoronix/linux/KDE",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 141,
+  "location": "index.ts",
+  "maintainers": [
+    "oppliate",
+    "Rongronggg9"
+  ],
+  "name": "News & Reviews",
+  "parameters": {
+    "category": "Category",
+    "topic": "Topic. You may find available parameters from their navigator links. E.g. to subscribe to `https://www.phoronix.com/reviews/Operating+Systems`, fill in the path `/phoronix/reviews/Operating+Systems`"
+  },
+  "path": "/:category?/:topic?",
+  "radar": [
+    {
+      "source": [
+        "phoronix.com/:category?/:topic?"
+      ]
+    }
+  ],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "Linux Hardware Reviews, Performance Benchmarks & Open-Source / Free Software News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41582925280941056",
+      "image": "https://www.phoronix.com/android-chrome-192x192.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.phoronix.com/",
+      "title": "Phoronix",
+      "type": "feed",
+      "url": "rsshub://phoronix"
+    },
+    {
+      "description": "Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware performance tests. - Powered by RSSHub",
+      "errorAt": "2025-11-07T00:34:05.198Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'replace')\n",
+      "id": "148257239711501312",
+      "image": "https://www.phoronix.com/android-chrome-192x192.png",
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "Linux Performance, Benchmarks & Open-Source News - Phoronix",
+      "type": "feed",
+      "url": "rsshub://phoronix/reviews/Operating%2BSystems"
+    }
+  ]
+}
+```

@@ -4,16 +4,16 @@
 - Namespace: `newmuseum`
 - Display Name: `New Museum`
 - URL: `www.newmuseum.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `new museum, newmuseum, newmuseum.org, www, www.newmuseum.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Exhibitions
-- Route ID: `newmuseum:/exhibitions`
-- Route Path: `/exhibitions`
-- File: `docs/routes/newmuseum/exhibitions.md`
-- File Name: `exhibitions.md`
+- Route ID: `newmuseum:/newmuseum/exhibitions`
+- Route Path: `/newmuseum/exhibitions`
+- File: `docs/routes/newmuseum/newmuseum-exhibitions.md`
+- File Name: `newmuseum-exhibitions.md`
 - Categories: `travel`
 - Maintainers: `chazeon`

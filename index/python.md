@@ -4,16 +4,16 @@
 - Namespace: `python`
 - Display Name: `Python`
 - URL: `python.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `python, python.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Active Python Releases
-- Route ID: `python:/release`
-- Route Path: `/release`
-- File: `docs/routes/python/release.md`
-- File Name: `release.md`
+- Route ID: `python:/python/release`
+- Route Path: `/python/release`
+- File: `docs/routes/python/python-release.md`
+- File Name: `python-release.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`

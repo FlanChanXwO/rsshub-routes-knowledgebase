@@ -4,16 +4,16 @@
 - Namespace: `kantarworldpanel`
 - Display Name: `Kantar Worldpanel`
 - URL: `kantarworldpanel.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `kantar worldpanel, kantarworldpanel, kantarworldpanel.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `kantarworldpanel:/:region?/:category{.+}?`
-- Route Path: `/:region?/:category{.+}?`
-- File: `docs/routes/kantarworldpanel/region-category.md`
-- File Name: `region-category.md`
-- Categories: `None`
+- Route ID: `kantarworldpanel:/kantarworldpanel/:region?/:category{.+}?`
+- Route Path: `/kantarworldpanel/:region?/:category{.+}?`
+- File: `docs/routes/kantarworldpanel/kantarworldpanel-region-category.md`
+- File Name: `kantarworldpanel-region-category.md`
+- Categories: `other`
 - Maintainers: `None`

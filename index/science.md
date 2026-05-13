@@ -4,40 +4,40 @@
 - Namespace: `science`
 - Display Name: `Science Magazine`
 - URL: `science.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `science, science magazine, science.org`
 - Route Count: `4`
 
 ## Routes
 
 ### Blogs
-- Route ID: `science:/blogs/:name?`
-- Route Path: `/blogs/:name?`
-- File: `docs/routes/science/blogs-name.md`
-- File Name: `blogs-name.md`
+- Route ID: `science:/science/blogs/:name?`
+- Route Path: `/science/blogs/:name?`
+- File: `docs/routes/science/science-blogs-name.md`
+- File Name: `science-blogs-name.md`
 - Categories: `journal`
 - Maintainers: `TomHodson`
 
 ### Cover Story
-- Route ID: `science:/cover`
-- Route Path: `/cover`
-- File: `docs/routes/science/cover.md`
-- File Name: `cover.md`
+- Route ID: `science:/science/cover`
+- Route Path: `/science/cover`
+- File: `docs/routes/science/science-cover.md`
+- File Name: `science-cover.md`
 - Categories: `journal`
 - Maintainers: `y9c, TonyRL`
 
 ### Current Issue
-- Route ID: `science:/current/:journal?`
-- Route Path: `/current/:journal?`
-- File: `docs/routes/science/current-journal.md`
-- File Name: `current-journal.md`
+- Route ID: `science:/science/current/:journal?`
+- Route Path: `/science/current/:journal?`
+- File: `docs/routes/science/science-current-journal.md`
+- File Name: `science-current-journal.md`
 - Categories: `journal`
 - Maintainers: `y9c, TonyRL`
 
 ### First Release
-- Route ID: `science:/early/:journal?`
-- Route Path: `/early/:journal?`
-- File: `docs/routes/science/early-journal.md`
-- File Name: `early-journal.md`
+- Route ID: `science:/science/early/:journal?`
+- Route Path: `/science/early/:journal?`
+- File: `docs/routes/science/science-early-journal.md`
+- File Name: `science-early-journal.md`
 - Categories: `journal`
 - Maintainers: `y9c, TonyRL`

@@ -4,40 +4,40 @@
 - Namespace: `visionias`
 - Display Name: `VisionIAS`
 - URL: `visionias.in`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `visionias, visionias.in`
 - Route Count: `4`
 
 ## Routes
 
 ### Daily News Summary
-- Route ID: `visionias:/dailySummary`
-- Route Path: `/dailySummary`
-- File: `docs/routes/visionias/dailysummary.md`
-- File Name: `dailysummary.md`
+- Route ID: `visionias:/visionias/dailySummary`
+- Route Path: `/visionias/dailySummary`
+- File: `docs/routes/visionias/visionias-dailysummary.md`
+- File Name: `visionias-dailysummary.md`
 - Categories: `study`
 - Maintainers: `Rjnishant530`
 
 ### Monthly Magazine
-- Route ID: `visionias:/monthlyMagazine`
-- Route Path: `/monthlyMagazine`
-- File: `docs/routes/visionias/monthlymagazine.md`
-- File Name: `monthlymagazine.md`
+- Route ID: `visionias:/visionias/monthlyMagazine`
+- Route Path: `/visionias/monthlyMagazine`
+- File: `docs/routes/visionias/visionias-monthlymagazine.md`
+- File Name: `visionias-monthlymagazine.md`
 - Categories: `study`
 - Maintainers: `Rjnishant530`
 
 ### News Today
-- Route ID: `visionias:/newsToday/:filter?`
-- Route Path: `/newsToday/:filter?`
-- File: `docs/routes/visionias/newstoday-filter.md`
-- File Name: `newstoday-filter.md`
+- Route ID: `visionias:/visionias/newsToday/:filter?`
+- Route Path: `/visionias/newsToday/:filter?`
+- File: `docs/routes/visionias/visionias-newstoday-filter.md`
+- File Name: `visionias-newstoday-filter.md`
 - Categories: `study`
 - Maintainers: `Rjnishant530`
 
 ### Weekly Focus
-- Route ID: `visionias:/weeklyFocus`
-- Route Path: `/weeklyFocus`
-- File: `docs/routes/visionias/weeklyfocus.md`
-- File Name: `weeklyfocus.md`
+- Route ID: `visionias:/visionias/weeklyFocus`
+- Route Path: `/visionias/weeklyFocus`
+- File: `docs/routes/visionias/visionias-weeklyfocus.md`
+- File Name: `visionias-weeklyfocus.md`
 - Categories: `study`
 - Maintainers: `Rjnishant530`

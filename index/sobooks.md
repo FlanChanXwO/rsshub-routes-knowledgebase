@@ -4,32 +4,32 @@
 - Namespace: `sobooks`
 - Display Name: `SoBooks`
 - URL: `sobooks.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `sobooks, sobooks.net`
 - Route Count: `3`
 
 ## Routes
 
 ### 首页
-- Route ID: `sobooks:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/sobooks/category.md`
-- File Name: `category.md`
+- Route ID: `sobooks:/sobooks/:category?`
+- Route Path: `/sobooks/:category?`
+- File: `docs/routes/sobooks/sobooks-category.md`
+- File Name: `sobooks-category.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`
 
 ### 归档
-- Route ID: `sobooks:/date/:date?`
-- Route Path: `/date/:date?`
-- File: `docs/routes/sobooks/date-date.md`
-- File Name: `date-date.md`
+- Route ID: `sobooks:/sobooks/date/:date?`
+- Route Path: `/sobooks/date/:date?`
+- File: `docs/routes/sobooks/sobooks-date-date.md`
+- File Name: `sobooks-date-date.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`
 
 ### 标签
-- Route ID: `sobooks:/tag/:id?`
-- Route Path: `/tag/:id?`
-- File: `docs/routes/sobooks/tag-id.md`
-- File Name: `tag-id.md`
+- Route ID: `sobooks:/sobooks/tag/:id?`
+- Route Path: `/sobooks/tag/:id?`
+- File: `docs/routes/sobooks/sobooks-tag-id.md`
+- File Name: `sobooks-tag-id.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`

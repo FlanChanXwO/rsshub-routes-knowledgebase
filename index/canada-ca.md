@@ -4,16 +4,16 @@
 - Namespace: `canada.ca`
 - Display Name: `Canada.ca`
 - URL: `www.canada.ca`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `canada.ca, www, www.canada.ca`
 - Route Count: `1`
 
 ## Routes
 
 ### News by Department
-- Route ID: `canada.ca:/news/:lang/:department?`
-- Route Path: `/news/:lang/:department?`
-- File: `docs/routes/canada-ca/news-lang-department.md`
-- File Name: `news-lang-department.md`
+- Route ID: `canada.ca:/canada.ca/news/:lang/:department?`
+- Route Path: `/canada.ca/news/:lang/:department?`
+- File: `docs/routes/canada-ca/canada-ca-news-lang-department.md`
+- File Name: `canada-ca-news-lang-department.md`
 - Categories: `government`
 - Maintainers: `elibroftw`

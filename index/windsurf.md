@@ -4,24 +4,24 @@
 - Namespace: `windsurf`
 - Display Name: `Windsurf`
 - URL: `windsurf.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `windsurf, windsurf.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Blog
-- Route ID: `windsurf:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/windsurf/blog.md`
-- File Name: `blog.md`
+- Route ID: `windsurf:/windsurf/blog`
+- Route Path: `/windsurf/blog`
+- File: `docs/routes/windsurf/windsurf-blog.md`
+- File Name: `windsurf-blog.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`
 
 ### Changelog
-- Route ID: `windsurf:/changelog`
-- Route Path: `/changelog`
-- File: `docs/routes/windsurf/changelog.md`
-- File Name: `changelog.md`
+- Route ID: `windsurf:/windsurf/changelog`
+- Route Path: `/windsurf/changelog`
+- File: `docs/routes/windsurf/windsurf-changelog.md`
+- File Name: `windsurf-changelog.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`

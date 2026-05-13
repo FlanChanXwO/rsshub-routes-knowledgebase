@@ -4,16 +4,16 @@
 - Namespace: `focustaiwan`
 - Display Name: `Focus Taiwan`
 - URL: `focustaiwan.tw`
-- Language: `zh-TW`
+- Language: `_None_`
 - Aliases: `focus taiwan, focustaiwan, focustaiwan.tw`
 - Route Count: `1`
 
 ## Routes
 
 ### Category
-- Route ID: `focustaiwan:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/focustaiwan/category.md`
-- File Name: `category.md`
+- Route ID: `focustaiwan:/focustaiwan/:category?`
+- Route Path: `/focustaiwan/:category?`
+- File: `docs/routes/focustaiwan/focustaiwan-category.md`
+- File Name: `focustaiwan-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

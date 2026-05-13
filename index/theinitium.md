@@ -11,41 +11,41 @@
 ## Routes
 
 ### App
-- Route ID: `theinitium:/app/:category?`
-- Route Path: `/app/:category?`
-- File: `docs/routes/theinitium/app-category.md`
-- File Name: `app-category.md`
-- Categories: `new-media`
+- Route ID: `theinitium:/theinitium/app/:category?`
+- Route Path: `/theinitium/app/:category?`
+- File: `docs/routes/theinitium/theinitium-app-category.md`
+- File Name: `theinitium-app-category.md`
+- Categories: `new-media, popular`
 - Maintainers: `quiniapiezoelectricity, pseudoyu`
 
 ### 作者
-- Route ID: `theinitium:/author/:type/:language?`
-- Route Path: `/author/:type/:language?`
-- File: `docs/routes/theinitium/author-type-language.md`
-- File Name: `author-type-language.md`
+- Route ID: `theinitium:/theinitium/author/:type/:language?`
+- Route Path: `/theinitium/author/:type/:language?`
+- File: `docs/routes/theinitium/theinitium-author-type-language.md`
+- File Name: `theinitium-author-type-language.md`
 - Categories: `new-media`
 - Maintainers: `AgFlore, pseudoyu`
 
 ### 栏目
-- Route ID: `theinitium:/channel/:type?/:language?`
-- Route Path: `/channel/:type?/:language?`
-- File: `docs/routes/theinitium/channel-type-language.md`
-- File Name: `channel-type-language.md`
+- Route ID: `theinitium:/theinitium/channel/:type?/:language?`
+- Route Path: `/theinitium/channel/:type?/:language?`
+- File: `docs/routes/theinitium/theinitium-channel-type-language.md`
+- File Name: `theinitium-channel-type-language.md`
 - Categories: `new-media`
 - Maintainers: `prnake, mintyfrankie, pseudoyu`
 
 ### 个人订阅追踪动态（已停用）
-- Route ID: `theinitium:/follow/articles/:language?`
-- Route Path: `/follow/articles/:language?`
-- File: `docs/routes/theinitium/follow-articles-language.md`
-- File Name: `follow-articles-language.md`
+- Route ID: `theinitium:/theinitium/follow/articles/:language?`
+- Route Path: `/theinitium/follow/articles/:language?`
+- File: `docs/routes/theinitium/theinitium-follow-articles-language.md`
+- File Name: `theinitium-follow-articles-language.md`
 - Categories: `new-media`
 - Maintainers: `AgFlore, pseudoyu`
 
 ### 话题・标签
-- Route ID: `theinitium:/tags/:type/:language?`
-- Route Path: `/tags/:type/:language?`
-- File: `docs/routes/theinitium/tags-type-language.md`
-- File Name: `tags-type-language.md`
+- Route ID: `theinitium:/theinitium/tags/:type/:language?`
+- Route Path: `/theinitium/tags/:type/:language?`
+- File: `docs/routes/theinitium/theinitium-tags-type-language.md`
+- File Name: `theinitium-tags-type-language.md`
 - Categories: `new-media`
 - Maintainers: `AgFlore, pseudoyu`

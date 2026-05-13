@@ -4,48 +4,48 @@
 - Namespace: `dhu`
 - Display Name: `东华大学`
 - URL: `www.dhu.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dhu, dhu.edu.cn, www, www.dhu.edu.cn, 东华大学`
 - Route Count: `5`
 
 ## Routes
 
 ### 教务处通知
-- Route ID: `dhu:/jiaowu/news/:type?`
-- Route Path: `/jiaowu/news/:type?`
-- File: `docs/routes/dhu/jiaowu-news-type.md`
-- File Name: `jiaowu-news-type.md`
+- Route ID: `dhu:/dhu/jiaowu/news/:type?`
+- Route Path: `/dhu/jiaowu/news/:type?`
+- File: `docs/routes/dhu/dhu-jiaowu-news-type.md`
+- File Name: `dhu-jiaowu-news-type.md`
 - Categories: `university`
 - Maintainers: `KiraKiseki`
 
 ### 学术信息
-- Route ID: `dhu:/news/xsxx`
-- Route Path: `/news/xsxx`
-- File: `docs/routes/dhu/news-xsxx.md`
-- File Name: `news-xsxx.md`
+- Route ID: `dhu:/dhu/news/xsxx`
+- Route Path: `/dhu/news/xsxx`
+- File: `docs/routes/dhu/dhu-news-xsxx.md`
+- File Name: `dhu-news-xsxx.md`
 - Categories: `university`
 - Maintainers: `fox2049`
 
 ### 最新信息公开
-- Route ID: `dhu:/xxgk/news`
-- Route Path: `/xxgk/news`
-- File: `docs/routes/dhu/xxgk-news.md`
-- File Name: `xxgk-news.md`
+- Route ID: `dhu:/dhu/xxgk/news`
+- Route Path: `/dhu/xxgk/news`
+- File: `docs/routes/dhu/dhu-xxgk-news.md`
+- File Name: `dhu-xxgk-news.md`
 - Categories: `university`
 - Maintainers: `KiraKiseki`
 
 ### 研究生院通知
-- Route ID: `dhu:/yjs/news/:type?`
-- Route Path: `/yjs/news/:type?`
-- File: `docs/routes/dhu/yjs-news-type.md`
-- File Name: `yjs-news-type.md`
+- Route ID: `dhu:/dhu/yjs/news/:type?`
+- Route Path: `/dhu/yjs/news/:type?`
+- File: `docs/routes/dhu/dhu-yjs-news-type.md`
+- File Name: `dhu-yjs-news-type.md`
 - Categories: `university`
 - Maintainers: `fox2049`
 
 ### 研究生招生信息
-- Route ID: `dhu:/yjs/zs/:type?`
-- Route Path: `/yjs/zs/:type?`
-- File: `docs/routes/dhu/yjs-zs-type.md`
-- File Name: `yjs-zs-type.md`
+- Route ID: `dhu:/dhu/yjs/zs/:type?`
+- Route Path: `/dhu/yjs/zs/:type?`
+- File: `docs/routes/dhu/dhu-yjs-zs-type.md`
+- File Name: `dhu-yjs-zs-type.md`
 - Categories: `university`
 - Maintainers: `fox2049`

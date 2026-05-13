@@ -4,16 +4,16 @@
 - Namespace: `castanet`
 - Display Name: `Castanet`
 - URL: `www.castanet.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `castanet, castanet.net, www, www.castanet.net`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `castanet:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/castanet/category.md`
-- File Name: `category.md`
+- Route ID: `castanet:/castanet/:category?`
+- Route Path: `/castanet/:category?`
+- File: `docs/routes/castanet/castanet-category.md`
+- File Name: `castanet-category.md`
 - Categories: `traditional-media`
 - Maintainers: `TonyRL`

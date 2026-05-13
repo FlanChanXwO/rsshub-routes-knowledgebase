@@ -4,16 +4,16 @@
 - Namespace: `guanhai`
 - Display Name: `观海新闻`
 - URL: `guanhai.com.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `guanhai, guanhai.com.cn, 观海新闻`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `guanhai:/`
-- Route Path: `/`
-- File: `docs/routes/guanhai/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `guanhai:/guanhai/`
+- Route Path: `/guanhai/`
+- File: `docs/routes/guanhai/guanhai.md`
+- File Name: `guanhai.md`
+- Categories: `other`
 - Maintainers: `TonyRL`

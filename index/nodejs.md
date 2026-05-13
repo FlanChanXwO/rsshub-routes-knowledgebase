@@ -4,16 +4,16 @@
 - Namespace: `nodejs`
 - Display Name: `Node.js`
 - URL: `nodejs.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `node.js, nodejs, nodejs.org`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `nodejs:/blog/:language?`
-- Route Path: `/blog/:language?`
-- File: `docs/routes/nodejs/blog-language.md`
-- File Name: `blog-language.md`
+- Route ID: `nodejs:/nodejs/blog/:language?`
+- Route Path: `/nodejs/blog/:language?`
+- File: `docs/routes/nodejs/nodejs-blog-language.md`
+- File Name: `nodejs-blog-language.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`

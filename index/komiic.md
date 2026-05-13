@@ -4,16 +4,16 @@
 - Namespace: `komiic`
 - Display Name: `Komiic`
 - URL: `komiic.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `komiic, komiic.com`
 - Route Count: `1`
 
 ## Routes
 
 ### 漫画更新
-- Route ID: `komiic:/comic/:id`
-- Route Path: `/comic/:id`
-- File: `docs/routes/komiic/comic-id.md`
-- File Name: `comic-id.md`
+- Route ID: `komiic:/komiic/comic/:id`
+- Route Path: `/komiic/comic/:id`
+- File: `docs/routes/komiic/komiic-comic-id.md`
+- File Name: `komiic-comic-id.md`
 - Categories: `anime`
 - Maintainers: `NekoAria`

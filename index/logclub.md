@@ -4,32 +4,24 @@
 - Namespace: `logclub`
 - Display Name: `罗戈网`
 - URL: `logclub.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `logclub, logclub.com, 罗戈网`
-- Route Count: `3`
+- Route Count: `2`
 
 ## Routes
 
 ### Unknown
-- Route ID: `logclub:/:category{.+}?`
-- Route Path: `/:category{.+}?`
-- File: `docs/routes/logclub/category.md`
-- File Name: `category.md`
-- Categories: `None`
+- Route ID: `logclub:/logclub/:category{.+}?`
+- Route Path: `/logclub/:category{.+}?`
+- File: `docs/routes/logclub/logclub-category.md`
+- File Name: `logclub-category.md`
+- Categories: `new-media`
 - Maintainers: `None`
 
 ### 报告
-- Route ID: `logclub:/lc_report/:id?`
-- Route Path: `/lc_report/:id?`
-- File: `docs/routes/logclub/lc_report-id.md`
-- File Name: `lc_report-id.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### 报告
-- Route ID: `logclub:/report/:id?`
-- Route Path: `/report/:id?`
-- File: `docs/routes/logclub/report-id.md`
-- File Name: `report-id.md`
+- Route ID: `logclub:/logclub/lc_report/:id?`
+- Route Path: `/logclub/lc_report/:id?`
+- File: `docs/routes/logclub/logclub-lc_report-id.md`
+- File Name: `logclub-lc_report-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

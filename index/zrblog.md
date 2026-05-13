@@ -4,16 +4,16 @@
 - Namespace: `zrblog`
 - Display Name: `赵容部落`
 - URL: `zrblog.net`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `zrblog, zrblog.net, 赵容部落`
 - Route Count: `1`
 
 ## Routes
 
 ### 最新文章
-- Route ID: `zrblog:/`
-- Route Path: `/`
-- File: `docs/routes/zrblog/index.md`
-- File Name: `index.md`
+- Route ID: `zrblog:/zrblog/`
+- Route Path: `/zrblog/`
+- File: `docs/routes/zrblog/zrblog.md`
+- File Name: `zrblog.md`
 - Categories: `blog`
 - Maintainers: `cnkmmk`

@@ -4,16 +4,16 @@
 - Namespace: `bookfere`
 - Display Name: `书伴`
 - URL: `bookfere.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `bookfere, bookfere.com, 书伴`
 - Route Count: `1`
 
 ## Routes
 
 ### 分类
-- Route ID: `bookfere:/:category`
-- Route Path: `/:category`
-- File: `docs/routes/bookfere/category.md`
-- File Name: `category.md`
-- Categories: `reading`
+- Route ID: `bookfere:/bookfere/:category`
+- Route Path: `/bookfere/:category`
+- File: `docs/routes/bookfere/bookfere-category.md`
+- File Name: `bookfere-category.md`
+- Categories: `reading, popular`
 - Maintainers: `OdinZhang`

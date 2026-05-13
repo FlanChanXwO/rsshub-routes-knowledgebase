@@ -11,9 +11,9 @@
 ## Routes
 
 ### Research Topics
-- Route ID: `jpmorganchase:/`
-- Route Path: `/`
-- File: `docs/routes/jpmorganchase/index.md`
-- File Name: `index.md`
+- Route ID: `jpmorganchase:/jpmorganchase/`
+- Route Path: `/jpmorganchase/`
+- File: `docs/routes/jpmorganchase/jpmorganchase.md`
+- File Name: `jpmorganchase.md`
 - Categories: `finance`
 - Maintainers: `dousha`

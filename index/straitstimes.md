@@ -4,16 +4,16 @@
 - Namespace: `straitstimes`
 - Display Name: `The Strait Times`
 - URL: `straitstimes.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `straitstimes, straitstimes.com, the strait times`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `straitstimes:/:category?/:section?`
-- Route Path: `/:category?/:section?`
-- File: `docs/routes/straitstimes/category-section.md`
-- File Name: `category-section.md`
+- Route ID: `straitstimes:/straitstimes/:category?/:section?`
+- Route Path: `/straitstimes/:category?/:section?`
+- File: `docs/routes/straitstimes/straitstimes-category-section.md`
+- File Name: `straitstimes-category-section.md`
 - Categories: `traditional-media`
 - Maintainers: `quiniapiezoelectricity`

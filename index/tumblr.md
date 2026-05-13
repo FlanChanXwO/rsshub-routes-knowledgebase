@@ -4,24 +4,24 @@
 - Namespace: `tumblr`
 - Display Name: `Tumblr`
 - URL: `tumblr.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `tumblr, tumblr.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Posts
-- Route ID: `tumblr:/posts/:blog`
-- Route Path: `/posts/:blog`
-- File: `docs/routes/tumblr/posts-blog.md`
-- File Name: `posts-blog.md`
+- Route ID: `tumblr:/tumblr/posts/:blog`
+- Route Path: `/tumblr/posts/:blog`
+- File: `docs/routes/tumblr/tumblr-posts-blog.md`
+- File Name: `tumblr-posts-blog.md`
 - Categories: `blog`
 - Maintainers: `Rakambda, PolarisStarnor`
 
 ### Tagged Posts
-- Route ID: `tumblr:/tagged/:tag`
-- Route Path: `/tagged/:tag`
-- File: `docs/routes/tumblr/tagged-tag.md`
-- File Name: `tagged-tag.md`
+- Route ID: `tumblr:/tumblr/tagged/:tag`
+- Route Path: `/tumblr/tagged/:tag`
+- File: `docs/routes/tumblr/tumblr-tagged-tag.md`
+- File Name: `tumblr-tagged-tag.md`
 - Categories: `social-media`
 - Maintainers: `PolarisStarnor`

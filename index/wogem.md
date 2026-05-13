@@ -11,9 +11,9 @@
 ## Routes
 
 ### Angebote
-- Route ID: `wogem:/:page?`
-- Route Path: `/:page?`
-- File: `docs/routes/wogem/page.md`
-- File Name: `page.md`
+- Route ID: `wogem:/wogem/:page?`
+- Route Path: `/wogem/:page?`
+- File: `docs/routes/wogem/wogem-page.md`
+- File Name: `wogem-page.md`
 - Categories: `other`
 - Maintainers: `sk22`

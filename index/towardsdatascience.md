@@ -4,16 +4,16 @@
 - Namespace: `towardsdatascience`
 - Display Name: `Towards Data Science`
 - URL: `towardsdatascience.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `towards data science, towardsdatascience, towardsdatascience.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Towards Data Science
-- Route ID: `towardsdatascience:/latest`
-- Route Path: `/latest`
-- File: `docs/routes/towardsdatascience/latest.md`
-- File Name: `latest.md`
+- Route ID: `towardsdatascience:/towardsdatascience/latest`
+- Route Path: `/towardsdatascience/latest`
+- File: `docs/routes/towardsdatascience/towardsdatascience-latest.md`
+- File Name: `towardsdatascience-latest.md`
 - Categories: `blog`
 - Maintainers: `mintyfrankie`

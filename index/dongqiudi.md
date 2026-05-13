@@ -4,56 +4,56 @@
 - Namespace: `dongqiudi`
 - Display Name: `懂球帝`
 - URL: `m.dongqiudi.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dongqiudi, m, m.dongqiudi.com, 懂球帝`
 - Route Count: `6`
 
 ## Routes
 
 ### 早报
-- Route ID: `dongqiudi:/daily`
-- Route Path: `/daily`
-- File: `docs/routes/dongqiudi/daily.md`
-- File Name: `daily.md`
+- Route ID: `dongqiudi:/dongqiudi/daily`
+- Route Path: `/dongqiudi/daily`
+- File: `docs/routes/dongqiudi/dongqiudi-daily.md`
+- File Name: `dongqiudi-daily.md`
 - Categories: `sport`
 - Maintainers: `HenryQW`
 
 ### 球员新闻
-- Route ID: `dongqiudi:/player_news/:id`
-- Route Path: `/player_news/:id`
-- File: `docs/routes/dongqiudi/player_news-id.md`
-- File Name: `player_news-id.md`
+- Route ID: `dongqiudi:/dongqiudi/player_news/:id`
+- Route Path: `/dongqiudi/player_news/:id`
+- File: `docs/routes/dongqiudi/dongqiudi-player_news-id.md`
+- File Name: `dongqiudi-player_news-id.md`
 - Categories: `sport`
 - Maintainers: `HenryQW`
 
 ### 足球赛果
-- Route ID: `dongqiudi:/result/:team`
-- Route Path: `/result/:team`
-- File: `docs/routes/dongqiudi/result-team.md`
-- File Name: `result-team.md`
+- Route ID: `dongqiudi:/dongqiudi/result/:team`
+- Route Path: `/dongqiudi/result/:team`
+- File: `docs/routes/dongqiudi/dongqiudi-result-team.md`
+- File Name: `dongqiudi-result-team.md`
 - Categories: `sport`
 - Maintainers: `HenryQW`
 
 ### 专题
-- Route ID: `dongqiudi:/special/:id`
-- Route Path: `/special/:id`
-- File: `docs/routes/dongqiudi/special-id.md`
-- File Name: `special-id.md`
+- Route ID: `dongqiudi:/dongqiudi/special/:id`
+- Route Path: `/dongqiudi/special/:id`
+- File: `docs/routes/dongqiudi/dongqiudi-special-id.md`
+- File Name: `dongqiudi-special-id.md`
 - Categories: `sport`
 - Maintainers: `dxmpalb`
 
 ### 球队新闻
-- Route ID: `dongqiudi:/team_news/:team`
-- Route Path: `/team_news/:team`
-- File: `docs/routes/dongqiudi/team_news-team.md`
-- File Name: `team_news-team.md`
+- Route ID: `dongqiudi:/dongqiudi/team_news/:team`
+- Route Path: `/dongqiudi/team_news/:team`
+- File: `docs/routes/dongqiudi/dongqiudi-team_news-team.md`
+- File Name: `dongqiudi-team_news-team.md`
 - Categories: `sport`
 - Maintainers: `HenryQW`
 
 ### 新闻
-- Route ID: `dongqiudi:/top_news/:id?`
-- Route Path: `/top_news/:id?`
-- File: `docs/routes/dongqiudi/top_news-id.md`
-- File Name: `top_news-id.md`
+- Route ID: `dongqiudi:/dongqiudi/top_news/:id?`
+- Route Path: `/dongqiudi/top_news/:id?`
+- File: `docs/routes/dongqiudi/dongqiudi-top_news-id.md`
+- File Name: `dongqiudi-top_news-id.md`
 - Categories: `sport`
 - Maintainers: `HendricksZheng`

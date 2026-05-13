@@ -4,24 +4,24 @@
 - Namespace: `dbaplus`
 - Display Name: `dbaplus社群`
 - URL: `dbaplus.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dbaplus, dbaplus.cn, dbaplus社群`
 - Route Count: `2`
 
 ## Routes
 
 ### 最新文章
-- Route ID: `dbaplus:/`
-- Route Path: `/`
-- File: `docs/routes/dbaplus/index.md`
-- File Name: `index.md`
+- Route ID: `dbaplus:/dbaplus/`
+- Route Path: `/dbaplus/`
+- File: `docs/routes/dbaplus/dbaplus.md`
+- File Name: `dbaplus.md`
 - Categories: `programming`
 - Maintainers: `cnkmmk`
 
 ### 资讯
-- Route ID: `dbaplus:/news/:id?`
-- Route Path: `/news/:id?`
-- File: `docs/routes/dbaplus/news-id.md`
-- File Name: `news-id.md`
+- Route ID: `dbaplus:/dbaplus/news/:id?`
+- Route Path: `/dbaplus/news/:id?`
+- File: `docs/routes/dbaplus/dbaplus-news-id.md`
+- File Name: `dbaplus-news-id.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`

@@ -4,24 +4,24 @@
 - Namespace: `perplexity`
 - Display Name: `Perplexity`
 - URL: `www.perplexity.ai`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `perplexity, perplexity.ai, www, www.perplexity.ai`
 - Route Count: `2`
 
 ## Routes
 
 ### Blog
-- Route ID: `perplexity:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/perplexity/blog.md`
-- File Name: `blog.md`
+- Route ID: `perplexity:/perplexity/blog`
+- Route Path: `/perplexity/blog`
+- File: `docs/routes/perplexity/perplexity-blog.md`
+- File Name: `perplexity-blog.md`
 - Categories: `blog`
 - Maintainers: `seeyangzhi`
 
 ### Changelog
-- Route ID: `perplexity:/changelog`
-- Route Path: `/changelog`
-- File: `docs/routes/perplexity/changelog.md`
-- File Name: `changelog.md`
+- Route ID: `perplexity:/perplexity/changelog`
+- Route Path: `/perplexity/changelog`
+- File: `docs/routes/perplexity/perplexity-changelog.md`
+- File Name: `perplexity-changelog.md`
 - Categories: `program-update`
 - Maintainers: `xbot`

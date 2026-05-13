@@ -4,16 +4,16 @@
 - Namespace: `chinanews`
 - Display Name: `中国新闻网`
 - URL: `chinanews.com.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `chinanews, chinanews.com.cn, 中国新闻网`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `chinanews:/`
-- Route Path: `/`
-- File: `docs/routes/chinanews/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `chinanews:/chinanews/`
+- Route Path: `/chinanews/`
+- File: `docs/routes/chinanews/chinanews.md`
+- File Name: `chinanews.md`
+- Categories: `other`
 - Maintainers: `yuxinliu-alex`

@@ -4,24 +4,24 @@
 - Namespace: `91porn`
 - Display Name: `91porn`
 - URL: `91porn.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `91porn, 91porn.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Hot Video Today
-- Route ID: `91porn:/:lang?`
-- Route Path: `/:lang?`
-- File: `docs/routes/91porn/lang.md`
-- File Name: `lang.md`
+- Route ID: `91porn:/91porn/:lang?`
+- Route Path: `/91porn/:lang?`
+- File: `docs/routes/91porn/91porn-lang.md`
+- File Name: `91porn-lang.md`
 - Categories: `multimedia`
 - Maintainers: `TonyRL`
 
 ### Author
-- Route ID: `91porn:/author/:uid/:lang?`
-- Route Path: `/author/:uid/:lang?`
-- File: `docs/routes/91porn/author-uid-lang.md`
-- File Name: `author-uid-lang.md`
+- Route ID: `91porn:/91porn/author/:uid/:lang?`
+- Route Path: `/91porn/author/:uid/:lang?`
+- File: `docs/routes/91porn/91porn-author-uid-lang.md`
+- File Name: `91porn-author-uid-lang.md`
 - Categories: `multimedia`
 - Maintainers: `TonyRL`

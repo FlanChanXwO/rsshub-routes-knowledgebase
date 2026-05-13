@@ -4,16 +4,16 @@
 - Namespace: `idaily`
 - Display Name: `iDaily`
 - URL: `idai.ly`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `idai, idai.ly, idaily`
 - Route Count: `1`
 
 ## Routes
 
 ### 每日环球视野
-- Route ID: `idaily:/:language?`
-- Route Path: `/:language?`
-- File: `docs/routes/idaily/language.md`
-- File Name: `language.md`
-- Categories: `None`
+- Route ID: `idaily:/idaily/:language?`
+- Route Path: `/idaily/:language?`
+- File: `docs/routes/idaily/idaily-language.md`
+- File Name: `idaily-language.md`
+- Categories: `other`
 - Maintainers: `zphw, nczitzk`

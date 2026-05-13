@@ -1,0 +1,106 @@
+# pixiv - User Bookmark
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `pixiv`
+- Namespace Name: `pixiv`
+- Route Path: `/pixiv/user/bookmarks/:id`
+- Route Name: `User Bookmark`
+- Example: `/pixiv/user/bookmarks/15288095`
+- URL: `www.pixiv.net`
+- Language: `_None_`
+- Categories: `social-media`
+- Maintainers: `EYHN`
+- Source Location: `bookmarks.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `id`: user id, available in user's homepage URL
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+- `nsfw`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.pixiv.net/users/:id/bookmarks/artworks`
+  - `www.pixiv.net/en/users/:id/bookmarks/artworks`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media"
+  ],
+  "example": "/pixiv/user/bookmarks/15288095",
+  "features": {
+    "antiCrawler": false,
+    "nsfw": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 22,
+  "location": "bookmarks.ts",
+  "maintainers": [
+    "EYHN"
+  ],
+  "name": "User Bookmark",
+  "parameters": {
+    "id": "user id, available in user's homepage URL"
+  },
+  "path": "/user/bookmarks/:id",
+  "radar": [
+    {
+      "source": [
+        "www.pixiv.net/users/:id/bookmarks/artworks",
+        "www.pixiv.net/en/users/:id/bookmarks/artworks"
+      ]
+    }
+  ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [
+    {
+      "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57236269888968706",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/users/15288095/bookmarks/artworks",
+      "title": "DIYgod 的收藏",
+      "type": "feed",
+      "url": "rsshub://pixiv/user/bookmarks/15288095"
+    },
+    {
+      "description": "Egami(えがみ) 的 pixiv 最新收藏 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198288028097028112",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/users/64390150/bookmarks/artworks",
+      "title": "Egami(えがみ) 的收藏",
+      "type": "feed",
+      "url": "rsshub://pixiv/user/bookmarks/64390150"
+    }
+  ]
+}
+```

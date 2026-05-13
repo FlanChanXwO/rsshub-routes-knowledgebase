@@ -11,17 +11,17 @@
 ## Routes
 
 ### BTBTLA | 指定剧名
-- Route ID: `btbtla:/detail/:name`
-- Route Path: `/detail/:name`
-- File: `docs/routes/btbtla/detail-name.md`
-- File Name: `detail-name.md`
+- Route ID: `btbtla:/btbtla/detail/:name`
+- Route Path: `/btbtla/detail/:name`
+- File: `docs/routes/btbtla/btbtla-detail-name.md`
+- File Name: `btbtla-detail-name.md`
 - Categories: `multimedia`
 - Maintainers: `Hermes1030`
 
 ### BTBTLA | 最近更新
-- Route ID: `btbtla:/gxlist`
-- Route Path: `/gxlist`
-- File: `docs/routes/btbtla/gxlist.md`
-- File Name: `gxlist.md`
+- Route ID: `btbtla:/btbtla/gxlist`
+- Route Path: `/btbtla/gxlist`
+- File: `docs/routes/btbtla/btbtla-gxlist.md`
+- File Name: `btbtla-gxlist.md`
 - Categories: `multimedia`
 - Maintainers: `Hermes1030`

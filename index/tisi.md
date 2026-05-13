@@ -4,16 +4,16 @@
 - Namespace: `tisi`
 - Display Name: `腾讯研究院`
 - URL: `tisi.org`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `tisi, tisi.org, 腾讯研究院`
 - Route Count: `1`
 
 ## Routes
 
 ### 最近更新
-- Route ID: `tisi:/latest`
-- Route Path: `/latest`
-- File: `docs/routes/tisi/latest.md`
-- File Name: `latest.md`
+- Route ID: `tisi:/tisi/latest`
+- Route Path: `/tisi/latest`
+- File: `docs/routes/tisi/tisi-latest.md`
+- File Name: `tisi-latest.md`
 - Categories: `new-media`
 - Maintainers: `Fatpandac`

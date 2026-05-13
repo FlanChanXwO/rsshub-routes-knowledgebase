@@ -4,40 +4,16 @@
 - Namespace: `farmatters`
 - Display Name: `Farmatters`
 - URL: `farmatters.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `farmatters, farmatters.com`
-- Route Count: `4`
+- Route Count: `1`
 
 ## Routes
 
 ### Exclusive
-- Route ID: `farmatters:/:locale?`
-- Route Path: `/:locale?`
-- File: `docs/routes/farmatters/locale.md`
-- File Name: `locale.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### Exclusive
-- Route ID: `farmatters:/:type/:id/:locale?`
-- Route Path: `/:type/:id/:locale?`
-- File: `docs/routes/farmatters/type-id-locale.md`
-- File Name: `type-id-locale.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### Exclusive
-- Route ID: `farmatters:/exclusive/:locale?`
-- Route Path: `/exclusive/:locale?`
-- File: `docs/routes/farmatters/exclusive-locale.md`
-- File Name: `exclusive-locale.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### Exclusive
-- Route ID: `farmatters:/news/:locale?`
-- Route Path: `/news/:locale?`
-- File: `docs/routes/farmatters/news-locale.md`
-- File Name: `news-locale.md`
+- Route ID: `farmatters:/farmatters/exclusive/:locale?`
+- Route Path: `/farmatters/exclusive/:locale?`
+- File: `docs/routes/farmatters/farmatters-exclusive-locale.md`
+- File Name: `farmatters-exclusive-locale.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

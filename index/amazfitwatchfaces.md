@@ -4,16 +4,16 @@
 - Namespace: `amazfitwatchfaces`
 - Display Name: `Amazfitwatchfaces`
 - URL: `amazfitwatchfaces.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `amazfitwatchfaces, amazfitwatchfaces.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Watch Faces
-- Route ID: `amazfitwatchfaces:/:device/:sort/:searchParams?`
-- Route Path: `/:device/:sort/:searchParams?`
-- File: `docs/routes/amazfitwatchfaces/device-sort-searchparams.md`
-- File Name: `device-sort-searchparams.md`
+- Route ID: `amazfitwatchfaces:/amazfitwatchfaces/:device/:sort/:searchParams?`
+- Route Path: `/amazfitwatchfaces/:device/:sort/:searchParams?`
+- File: `docs/routes/amazfitwatchfaces/amazfitwatchfaces-device-sort-searchparams.md`
+- File Name: `amazfitwatchfaces-device-sort-searchparams.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`

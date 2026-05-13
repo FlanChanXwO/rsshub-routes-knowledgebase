@@ -4,16 +4,16 @@
 - Namespace: `nudt`
 - Display Name: `中国人民解放军国防科技大学`
 - URL: `www.nudt.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `nudt, nudt.edu.cn, www, www.nudt.edu.cn, 中国人民解放军国防科技大学`
 - Route Count: `1`
 
 ## Routes
 
 ### 研究生院
-- Route ID: `nudt:/yjszs/:keyId?`
-- Route Path: `/yjszs/:keyId?`
-- File: `docs/routes/nudt/yjszs-keyid.md`
-- File Name: `yjszs-keyid.md`
+- Route ID: `nudt:/nudt/yjszs/:keyId?`
+- Route Path: `/nudt/yjszs/:keyId?`
+- File: `docs/routes/nudt/nudt-yjszs-keyid.md`
+- File Name: `nudt-yjszs-keyid.md`
 - Categories: `university`
 - Maintainers: `Blank0120`

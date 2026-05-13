@@ -4,16 +4,16 @@
 - Namespace: `fuliba`
 - Display Name: `福利吧`
 - URL: `fuliba2023.net`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `fuliba, fuliba2023, fuliba2023.net, 福利吧`
 - Route Count: `1`
 
 ## Routes
 
 ### 最新
-- Route ID: `fuliba:/latest`
-- Route Path: `/latest`
-- File: `docs/routes/fuliba/latest.md`
-- File Name: `latest.md`
+- Route ID: `fuliba:/fuliba/latest`
+- Route Path: `/fuliba/latest`
+- File: `docs/routes/fuliba/fuliba-latest.md`
+- File Name: `fuliba-latest.md`
 - Categories: `new-media`
 - Maintainers: `shinemoon`

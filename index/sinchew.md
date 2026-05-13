@@ -4,16 +4,16 @@
 - Namespace: `sinchew`
 - Display Name: `星洲网`
 - URL: `sinchew.com.my`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `sinchew, sinchew.com.my, 星洲网`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `sinchew:*`
-- Route Path: `*`
-- File: `docs/routes/sinchew/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `sinchew:/sinchew*`
+- Route Path: `/sinchew*`
+- File: `docs/routes/sinchew/sinchew.md`
+- File Name: `sinchew.md`
+- Categories: `other`
 - Maintainers: `None`

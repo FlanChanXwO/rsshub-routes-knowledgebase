@@ -4,16 +4,16 @@
 - Namespace: `yenpress`
 - Display Name: `Yen Press`
 - URL: `yenpress.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `yen press, yenpress, yenpress.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Series
-- Route ID: `yenpress:/series/:name`
-- Route Path: `/series/:name`
-- File: `docs/routes/yenpress/series-name.md`
-- File Name: `series-name.md`
+- Route ID: `yenpress:/yenpress/series/:name`
+- Route Path: `/yenpress/series/:name`
+- File: `docs/routes/yenpress/yenpress-series-name.md`
+- File Name: `yenpress-series-name.md`
 - Categories: `reading`
 - Maintainers: `TonyRL`

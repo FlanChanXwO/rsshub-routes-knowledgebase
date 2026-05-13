@@ -11,9 +11,9 @@
 ## Routes
 
 ### Blog
-- Route ID: `cline:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/cline/blog.md`
-- File Name: `blog.md`
+- Route ID: `cline:/cline/blog`
+- Route Path: `/cline/blog`
+- File: `docs/routes/cline/cline-blog.md`
+- File Name: `cline-blog.md`
 - Categories: `blog`
 - Maintainers: `yeshan333`

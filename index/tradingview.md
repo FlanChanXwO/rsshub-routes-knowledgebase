@@ -4,32 +4,32 @@
 - Namespace: `tradingview`
 - Display Name: `TradingView`
 - URL: `tradingview.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `tradingview, tradingview.com`
 - Route Count: `3`
 
 ## Routes
 
 ### Unknown
-- Route ID: `tradingview:/blog/:category{.+}?`
-- Route Path: `/blog/:category{.+}?`
-- File: `docs/routes/tradingview/blog-category.md`
-- File Name: `blog-category.md`
-- Categories: `None`
+- Route ID: `tradingview:/tradingview/blog/:category{.+}?`
+- Route Path: `/tradingview/blog/:category{.+}?`
+- File: `docs/routes/tradingview/tradingview-blog-category.md`
+- File Name: `tradingview-blog-category.md`
+- Categories: `program-update`
 - Maintainers: `None`
 
 ### Desktop releases and release notes
-- Route ID: `tradingview:/desktop`
-- Route Path: `/desktop`
-- File: `docs/routes/tradingview/desktop.md`
-- File Name: `desktop.md`
+- Route ID: `tradingview:/tradingview/desktop`
+- Route Path: `/tradingview/desktop`
+- File: `docs/routes/tradingview/tradingview-desktop.md`
+- File Name: `tradingview-desktop.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`
 
 ### Unknown
-- Route ID: `tradingview:/pine/:version?`
-- Route Path: `/pine/:version?`
-- File: `docs/routes/tradingview/pine-version.md`
-- File Name: `pine-version.md`
-- Categories: `None`
+- Route ID: `tradingview:/tradingview/pine/:version?`
+- Route Path: `/tradingview/pine/:version?`
+- File: `docs/routes/tradingview/tradingview-pine-version.md`
+- File Name: `tradingview-pine-version.md`
+- Categories: `program-update`
 - Maintainers: `None`

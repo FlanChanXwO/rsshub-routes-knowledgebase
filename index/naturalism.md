@@ -4,16 +4,16 @@
 - Namespace: `naturalism`
 - Display Name: `Naturalism.org`
 - URL: `naturalism.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `naturalism, naturalism.org`
 - Route Count: `1`
 
 ## Routes
 
 ### What's New
-- Route ID: `naturalism:/`
-- Route Path: `/`
-- File: `docs/routes/naturalism/index.md`
-- File Name: `index.md`
+- Route ID: `naturalism:/naturalism/`
+- Route Path: `/naturalism/`
+- File: `docs/routes/naturalism/naturalism.md`
+- File Name: `naturalism.md`
 - Categories: `other`
 - Maintainers: `TonyRL`

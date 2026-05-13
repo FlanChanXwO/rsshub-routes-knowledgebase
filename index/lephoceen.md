@@ -11,9 +11,9 @@
 ## Routes
 
 ### Fil Info Le Phocéen (Chrono)
-- Route ID: `lephoceen:/chrono`
-- Route Path: `/chrono`
-- File: `docs/routes/lephoceen/chrono.md`
-- File Name: `chrono.md`
+- Route ID: `lephoceen:/lephoceen/chrono`
+- Route Path: `/lephoceen/chrono`
+- File: `docs/routes/lephoceen/lephoceen-chrono.md`
+- File Name: `lephoceen-chrono.md`
 - Categories: `sport`
 - Maintainers: `Loopy03`

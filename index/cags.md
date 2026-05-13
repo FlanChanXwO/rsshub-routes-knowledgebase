@@ -11,9 +11,9 @@
 ## Routes
 
 ### 研究生院
-- Route ID: `cags:/edu/:category`
-- Route Path: `/edu/:category`
-- File: `docs/routes/cags/edu-category.md`
-- File Name: `edu-category.md`
+- Route ID: `cags:/cags/edu/:category`
+- Route Path: `/cags/edu/:category`
+- File: `docs/routes/cags/cags-edu-category.md`
+- File Name: `cags-edu-category.md`
 - Categories: `university`
 - Maintainers: `Chikit-L`

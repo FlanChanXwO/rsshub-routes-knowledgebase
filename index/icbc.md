@@ -4,16 +4,16 @@
 - Namespace: `icbc`
 - Display Name: `中国工商银行`
 - URL: `icbc.com.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `icbc, icbc.com.cn, 中国工商银行`
 - Route Count: `1`
 
 ## Routes
 
 ### 外汇牌价
-- Route ID: `icbc:/whpj/:format?`
-- Route Path: `/whpj/:format?`
-- File: `docs/routes/icbc/whpj-format.md`
-- File Name: `whpj-format.md`
+- Route ID: `icbc:/icbc/whpj/:format?`
+- Route Path: `/icbc/whpj/:format?`
+- File: `docs/routes/icbc/icbc-whpj-format.md`
+- File Name: `icbc-whpj-format.md`
 - Categories: `other`
 - Maintainers: `leoleoasd`

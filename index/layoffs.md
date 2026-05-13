@@ -4,16 +4,16 @@
 - Namespace: `layoffs`
 - Display Name: `Layoffs.fyi`
 - URL: `layoffs.fyi`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `layoffs, layoffs.fyi`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `layoffs:/`
-- Route Path: `/`
-- File: `docs/routes/layoffs/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `layoffs:/layoffs/`
+- Route Path: `/layoffs/`
+- File: `docs/routes/layoffs/layoffs.md`
+- File Name: `layoffs.md`
+- Categories: `other`
 - Maintainers: `BrandNewLifeJackie26`

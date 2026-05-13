@@ -4,16 +4,16 @@
 - Namespace: `free`
 - Display Name: `免費資源網路社群`
 - URL: `free.com.tw`
-- Language: `zh-TW`
+- Language: `_None_`
 - Aliases: `free, free.com.tw, 免費資源網路社群`
 - Route Count: `1`
 
 ## Routes
 
 ### 最新文章
-- Route ID: `free:/`
-- Route Path: `/`
-- File: `docs/routes/free/index.md`
-- File Name: `index.md`
+- Route ID: `free:/free/`
+- Route Path: `/free/`
+- File: `docs/routes/free/free.md`
+- File Name: `free.md`
 - Categories: `blog`
 - Maintainers: `cnkmmk`

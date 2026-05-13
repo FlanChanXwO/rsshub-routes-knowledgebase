@@ -4,16 +4,16 @@
 - Namespace: `macmenubar`
 - Display Name: `MacMenuBar`
 - URL: `macmenubar.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `macmenubar, macmenubar.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Recently
-- Route ID: `macmenubar:/recently/:category?`
-- Route Path: `/recently/:category?`
-- File: `docs/routes/macmenubar/recently-category.md`
-- File Name: `recently-category.md`
+- Route ID: `macmenubar:/macmenubar/recently/:category?`
+- Route Path: `/macmenubar/recently/:category?`
+- File: `docs/routes/macmenubar/macmenubar-recently-category.md`
+- File Name: `macmenubar-recently-category.md`
 - Categories: `blog`
 - Maintainers: `5upernova-heng`

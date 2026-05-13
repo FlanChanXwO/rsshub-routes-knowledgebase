@@ -4,16 +4,16 @@
 - Namespace: `semiconductors`
 - Display Name: `Semiconductor Industry Association`
 - URL: `semiconductors.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `semiconductor industry association, semiconductors, semiconductors.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Latest News
-- Route ID: `semiconductors:/:category{.+}?`
-- Route Path: `/:category{.+}?`
-- File: `docs/routes/semiconductors/category.md`
-- File Name: `category.md`
+- Route ID: `semiconductors:/semiconductors/:category{.+}?`
+- Route Path: `/semiconductors/:category{.+}?`
+- File: `docs/routes/semiconductors/semiconductors-category.md`
+- File Name: `semiconductors-category.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

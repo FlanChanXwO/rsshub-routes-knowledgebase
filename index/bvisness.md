@@ -11,9 +11,9 @@
 ## Routes
 
 ### Blog
-- Route ID: `bvisness:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/bvisness/blog.md`
-- File Name: `blog.md`
+- Route ID: `bvisness:/bvisness/blog`
+- Route Path: `/bvisness/blog`
+- File: `docs/routes/bvisness/bvisness-blog.md`
+- File Name: `bvisness-blog.md`
 - Categories: `blog`
 - Maintainers: `raxod502`

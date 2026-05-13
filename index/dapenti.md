@@ -4,24 +4,24 @@
 - Namespace: `dapenti`
 - Display Name: `喷嚏`
 - URL: `dapenti.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dapenti, dapenti.com, 喷嚏`
 - Route Count: `2`
 
 ## Routes
 
 ### 主题
-- Route ID: `dapenti:/subject/:id`
-- Route Path: `/subject/:id`
-- File: `docs/routes/dapenti/subject-id.md`
-- File Name: `subject-id.md`
+- Route ID: `dapenti:/dapenti/subject/:id`
+- Route Path: `/dapenti/subject/:id`
+- File: `docs/routes/dapenti/dapenti-subject-id.md`
+- File Name: `dapenti-subject-id.md`
 - Categories: `picture`
 - Maintainers: `xyqfer`
 
 ### 图卦
-- Route ID: `dapenti:/tugua`
-- Route Path: `/tugua`
-- File: `docs/routes/dapenti/tugua.md`
-- File Name: `tugua.md`
-- Categories: `picture`
+- Route ID: `dapenti:/dapenti/tugua`
+- Route Path: `/dapenti/tugua`
+- File: `docs/routes/dapenti/dapenti-tugua.md`
+- File Name: `dapenti-tugua.md`
+- Categories: `picture, popular`
 - Maintainers: `tgly307`

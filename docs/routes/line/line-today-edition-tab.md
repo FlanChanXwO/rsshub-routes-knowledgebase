@@ -1,0 +1,96 @@
+# LINE - TODAY
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `line`
+- Namespace Name: `LINE`
+- Route Path: `/line/today/:edition?/:tab?`
+- Route Name: `TODAY`
+- Example: `/line/today`
+- URL: `today.line.me/`
+- Language: `_None_`
+- Categories: `new-media`
+- Maintainers: `nczitzk`
+- Source Location: `today.ts`
+- Source Module: `_None_`
+
+## Description
+Edition
+
+| Taiwan | Thailand | Hong Kong |
+| ------ | -------- | --------- |
+| tw     | th       | hk        |
+
+## Parameters
+- `edition`: Edition, see below, Taiwan by default
+- `tab`: Tag, can be found in URL, `top` by default
+
+
+## Features
+_None_
+
+## Radar
+### Rule 1
+- `source`:
+  - `today.line.me/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "description": "Edition\n\n| Taiwan | Thailand | Hong Kong |\n| ------ | -------- | --------- |\n| tw     | th       | hk        |",
+  "example": "/line/today",
+  "heat": 88,
+  "location": "today.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "TODAY",
+  "parameters": {
+    "edition": "Edition, see below, Taiwan by default",
+    "tab": "Tag, can be found in URL, `top` by default"
+  },
+  "path": "/today/:edition?/:tab?",
+  "radar": [
+    {
+      "source": [
+        "today.line.me/"
+      ]
+    }
+  ],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "焦點 - Line Today - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59767191179278336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://today.line.me/tw/v2/tab/top",
+      "title": "焦點 - Line Today",
+      "type": "feed",
+      "url": "rsshub://line/today"
+    },
+    {
+      "description": "焦點 - Line Today - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79089289951263744",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://today.line.me/tw/v2/tab/top",
+      "title": "焦點 - Line Today",
+      "type": "feed",
+      "url": "rsshub://line/today/tw"
+    }
+  ],
+  "url": "today.line.me/"
+}
+```

@@ -4,16 +4,16 @@
 - Namespace: `tribalfootball`
 - Display Name: `Tribal Football`
 - URL: `tribalfootball.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `tribal football, tribalfootball, tribalfootball.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `tribalfootball:/`
-- Route Path: `/`
-- File: `docs/routes/tribalfootball/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `tribalfootball:/tribalfootball/`
+- Route Path: `/tribalfootball/`
+- File: `docs/routes/tribalfootball/tribalfootball.md`
+- File Name: `tribalfootball.md`
+- Categories: `other`
 - Maintainers: `Rongronggg9`

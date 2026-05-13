@@ -4,40 +4,32 @@
 - Namespace: `gocn`
 - Display Name: `GoCN`
 - URL: `gocn.vip`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `gocn, gocn.vip`
-- Route Count: `4`
+- Route Count: `3`
 
 ## Routes
 
 ### Unknown
-- Route ID: `gocn:/`
-- Route Path: `/`
-- File: `docs/routes/gocn/index.md`
-- File Name: `index.md`
-- Categories: `None`
-- Maintainers: `AtlanCI, CcccFz`
-
-### 招聘
-- Route ID: `gocn:/jobs`
-- Route Path: `/jobs`
-- File: `docs/routes/gocn/jobs.md`
-- File Name: `jobs.md`
+- Route ID: `gocn:/gocn/`
+- Route Path: `/gocn/`
+- File: `docs/routes/gocn/gocn.md`
+- File Name: `gocn.md`
 - Categories: `programming`
 - Maintainers: `AtlanCI, CcccFz`
 
-### Unknown
-- Route ID: `gocn:/news`
-- Route Path: `/news`
-- File: `docs/routes/gocn/news.md`
-- File Name: `news.md`
-- Categories: `None`
+### 招聘
+- Route ID: `gocn:/gocn/jobs`
+- Route Path: `/gocn/jobs`
+- File: `docs/routes/gocn/gocn-jobs.md`
+- File Name: `gocn-jobs.md`
+- Categories: `programming`
 - Maintainers: `AtlanCI, CcccFz`
 
 ### 每日新闻
-- Route ID: `gocn:/topics`
-- Route Path: `/topics`
-- File: `docs/routes/gocn/topics.md`
-- File Name: `topics.md`
+- Route ID: `gocn:/gocn/topics`
+- Route Path: `/gocn/topics`
+- File: `docs/routes/gocn/gocn-topics.md`
+- File Name: `gocn-topics.md`
 - Categories: `programming`
 - Maintainers: `AtlanCI, CcccFz`

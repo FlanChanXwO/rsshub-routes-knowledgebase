@@ -4,32 +4,32 @@
 - Namespace: `iwara`
 - Display Name: `iwara`
 - URL: `www.iwara.tv`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `iwara, iwara.tv, www, www.iwara.tv`
 - Route Count: `3`
 
 ## Routes
 
 ### Ranking
-- Route ID: `iwara:/ranking/:type?/:sort?/:rating?`
-- Route Path: `/ranking/:type?/:sort?/:rating?`
-- File: `docs/routes/iwara/ranking-type-sort-rating.md`
-- File Name: `ranking-type-sort-rating.md`
-- Categories: `None`
+- Route ID: `iwara:/iwara/ranking/:type?/:sort?/:rating?`
+- Route Path: `/iwara/ranking/:type?/:sort?/:rating?`
+- File: `docs/routes/iwara/iwara-ranking-type-sort-rating.md`
+- File Name: `iwara-ranking-type-sort-rating.md`
+- Categories: `anime`
 - Maintainers: `CaoMeiYouRen233`
 
 ### User Subscriptions
-- Route ID: `iwara:/subscriptions`
-- Route Path: `/subscriptions`
-- File: `docs/routes/iwara/subscriptions.md`
-- File Name: `subscriptions.md`
+- Route ID: `iwara:/iwara/subscriptions`
+- Route Path: `/iwara/subscriptions`
+- File: `docs/routes/iwara/iwara-subscriptions.md`
+- File Name: `iwara-subscriptions.md`
 - Categories: `anime`
 - Maintainers: `FeCCC`
 
 ### User
-- Route ID: `iwara:/users/:username/:type?`
-- Route Path: `/users/:username/:type?`
-- File: `docs/routes/iwara/users-username-type.md`
-- File Name: `users-username-type.md`
-- Categories: `None`
+- Route ID: `iwara:/iwara/users/:username/:type?`
+- Route Path: `/iwara/users/:username/:type?`
+- File: `docs/routes/iwara/iwara-users-username-type.md`
+- File Name: `iwara-users-username-type.md`
+- Categories: `anime`
 - Maintainers: `Fatpandac`

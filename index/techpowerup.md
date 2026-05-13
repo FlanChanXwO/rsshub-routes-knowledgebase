@@ -4,24 +4,24 @@
 - Namespace: `techpowerup`
 - Display Name: `TechPowerUp`
 - URL: `www.techpowerup.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `techpowerup, techpowerup.com, www, www.techpowerup.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Latest Content
-- Route ID: `techpowerup:/`
-- Route Path: `/`
-- File: `docs/routes/techpowerup/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `techpowerup:/techpowerup/`
+- Route Path: `/techpowerup/`
+- File: `docs/routes/techpowerup/techpowerup.md`
+- File Name: `techpowerup.md`
+- Categories: `new-media`
 - Maintainers: `TonyRL`
 
 ### Reviews
-- Route ID: `techpowerup:/review/:keyword?`
-- Route Path: `/review/:keyword?`
-- File: `docs/routes/techpowerup/review-keyword.md`
-- File Name: `review-keyword.md`
+- Route ID: `techpowerup:/techpowerup/review/:keyword?`
+- Route Path: `/techpowerup/review/:keyword?`
+- File: `docs/routes/techpowerup/techpowerup-review-keyword.md`
+- File Name: `techpowerup-review-keyword.md`
 - Categories: `new-media`
 - Maintainers: `TonyRL`

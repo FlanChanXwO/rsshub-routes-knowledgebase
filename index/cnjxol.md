@@ -4,16 +4,16 @@
 - Namespace: `cnjxol`
 - Display Name: `南湖清风`
 - URL: `cnjxol.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cnjxol, cnjxol.com, 南湖清风`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `cnjxol:/:category?/:id?`
-- Route Path: `/:category?/:id?`
-- File: `docs/routes/cnjxol/category-id.md`
-- File Name: `category-id.md`
-- Categories: `None`
+- Route ID: `cnjxol:/cnjxol/:category?/:id?`
+- Route Path: `/cnjxol/:category?/:id?`
+- File: `docs/routes/cnjxol/cnjxol-category-id.md`
+- File Name: `cnjxol-category-id.md`
+- Categories: `other`
 - Maintainers: `None`

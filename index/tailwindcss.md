@@ -4,16 +4,16 @@
 - Namespace: `tailwindcss`
 - Display Name: `TailwindCSS`
 - URL: `tailwindcss.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `tailwindcss, tailwindcss.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `tailwindcss:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/tailwindcss/blog.md`
-- File Name: `blog.md`
+- Route ID: `tailwindcss:/tailwindcss/blog`
+- Route Path: `/tailwindcss/blog`
+- File: `docs/routes/tailwindcss/tailwindcss-blog.md`
+- File Name: `tailwindcss-blog.md`
 - Categories: `programming`
 - Maintainers: `goestav`

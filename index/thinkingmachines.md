@@ -11,9 +11,9 @@
 ## Routes
 
 ### News
-- Route ID: `thinkingmachines:/news`
-- Route Path: `/news`
-- File: `docs/routes/thinkingmachines/news.md`
-- File Name: `news.md`
+- Route ID: `thinkingmachines:/thinkingmachines/news`
+- Route Path: `/thinkingmachines/news`
+- File: `docs/routes/thinkingmachines/thinkingmachines-news.md`
+- File Name: `thinkingmachines-news.md`
 - Categories: `programming`
 - Maintainers: `w3nhao`

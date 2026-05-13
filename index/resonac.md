@@ -4,16 +4,16 @@
 - Namespace: `resonac`
 - Display Name: `Resonac`
 - URL: `www.resonac.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `resonac, resonac.com, www, www.resonac.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Products
-- Route ID: `resonac:/products`
-- Route Path: `/products`
-- File: `docs/routes/resonac/products.md`
-- File Name: `products.md`
+- Route ID: `resonac:/resonac/products`
+- Route Path: `/resonac/products`
+- File: `docs/routes/resonac/resonac-products.md`
+- File Name: `resonac-products.md`
 - Categories: `other`
 - Maintainers: `valuex`

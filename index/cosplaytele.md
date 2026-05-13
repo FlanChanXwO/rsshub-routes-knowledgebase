@@ -4,40 +4,40 @@
 - Namespace: `cosplaytele`
 - Display Name: `CosplayTele`
 - URL: `cosplaytele.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `cosplaytele, cosplaytele.com`
 - Route Count: `4`
 
 ## Routes
 
 ### Latest
-- Route ID: `cosplaytele:/`
-- Route Path: `/`
-- File: `docs/routes/cosplaytele/index.md`
-- File Name: `index.md`
+- Route ID: `cosplaytele:/cosplaytele/`
+- Route Path: `/cosplaytele/`
+- File: `docs/routes/cosplaytele/cosplaytele.md`
+- File Name: `cosplaytele.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`
 
 ### Category
-- Route ID: `cosplaytele:/category/:category`
-- Route Path: `/category/:category`
-- File: `docs/routes/cosplaytele/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `cosplaytele:/cosplaytele/category/:category`
+- Route Path: `/cosplaytele/category/:category`
+- File: `docs/routes/cosplaytele/cosplaytele-category-category.md`
+- File Name: `cosplaytele-category-category.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`
 
 ### Popular
-- Route ID: `cosplaytele:/popular/:period`
-- Route Path: `/popular/:period`
-- File: `docs/routes/cosplaytele/popular-period.md`
-- File Name: `popular-period.md`
+- Route ID: `cosplaytele:/cosplaytele/popular/:period`
+- Route Path: `/cosplaytele/popular/:period`
+- File: `docs/routes/cosplaytele/cosplaytele-popular-period.md`
+- File Name: `cosplaytele-popular-period.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`
 
 ### Tag
-- Route ID: `cosplaytele:/tag/:tag`
-- Route Path: `/tag/:tag`
-- File: `docs/routes/cosplaytele/tag-tag.md`
-- File Name: `tag-tag.md`
+- Route ID: `cosplaytele:/cosplaytele/tag/:tag`
+- Route Path: `/cosplaytele/tag/:tag`
+- File: `docs/routes/cosplaytele/cosplaytele-tag-tag.md`
+- File Name: `cosplaytele-tag-tag.md`
 - Categories: `picture`
 - Maintainers: `AiraNadih`

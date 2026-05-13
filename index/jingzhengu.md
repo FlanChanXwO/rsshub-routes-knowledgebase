@@ -4,16 +4,16 @@
 - Namespace: `jingzhengu`
 - Display Name: `精真估`
 - URL: `www.jingzhengu.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `jingzhengu, jingzhengu.com, www, www.jingzhengu.com, 精真估`
 - Route Count: `1`
 
 ## Routes
 
 ### 资讯
-- Route ID: `jingzhengu:/news`
-- Route Path: `/news`
-- File: `docs/routes/jingzhengu/news.md`
-- File Name: `news.md`
+- Route ID: `jingzhengu:/jingzhengu/news`
+- Route Path: `/jingzhengu/news`
+- File: `docs/routes/jingzhengu/jingzhengu-news.md`
+- File Name: `jingzhengu-news.md`
 - Categories: `other`
 - Maintainers: `TonyRL`

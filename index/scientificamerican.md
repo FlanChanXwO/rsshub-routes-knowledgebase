@@ -4,16 +4,16 @@
 - Namespace: `scientificamerican`
 - Display Name: `Scientific American`
 - URL: `scientificamerican.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `scientific american, scientificamerican, scientificamerican.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Podcasts
-- Route ID: `scientificamerican:/podcast/:id?`
-- Route Path: `/podcast/:id?`
-- File: `docs/routes/scientificamerican/podcast-id.md`
-- File Name: `podcast-id.md`
+- Route ID: `scientificamerican:/scientificamerican/podcast/:id?`
+- Route Path: `/scientificamerican/podcast/:id?`
+- File: `docs/routes/scientificamerican/scientificamerican-podcast-id.md`
+- File Name: `scientificamerican-podcast-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

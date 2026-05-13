@@ -4,16 +4,16 @@
 - Namespace: `withgoogle`
 - Display Name: `People + AI Research (PAIR)`
 - URL: `pair.withgoogle.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `pair, pair.withgoogle.com, people + ai research (pair), withgoogle`
 - Route Count: `1`
 
 ## Routes
 
 ### PAIR - AI Exploreables
-- Route ID: `withgoogle:/explorables`
-- Route Path: `/explorables`
-- File: `docs/routes/withgoogle/explorables.md`
-- File Name: `explorables.md`
+- Route ID: `withgoogle:/withgoogle/explorables`
+- Route Path: `/withgoogle/explorables`
+- File: `docs/routes/withgoogle/withgoogle-explorables.md`
+- File Name: `withgoogle-explorables.md`
 - Categories: `blog`
 - Maintainers: `cesaryuan`

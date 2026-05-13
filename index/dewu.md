@@ -4,24 +4,24 @@
 - Namespace: `dewu`
 - Display Name: `得物`
 - URL: `dewu.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `dewu, dewu.com, 得物`
 - Route Count: `2`
 
 ## Routes
 
 ### 平台公告
-- Route ID: `dewu:/declaration/:categoryId?`
-- Route Path: `/declaration/:categoryId?`
-- File: `docs/routes/dewu/declaration-categoryid.md`
-- File Name: `declaration-categoryid.md`
+- Route ID: `dewu:/dewu/declaration/:categoryId?`
+- Route Path: `/dewu/declaration/:categoryId?`
+- File: `docs/routes/dewu/dewu-declaration-categoryid.md`
+- File Name: `dewu-declaration-categoryid.md`
 - Categories: `programming`
 - Maintainers: `blade0910`
 
 ### 技术博客
-- Route ID: `dewu:/techblog/:categoryId?`
-- Route Path: `/techblog/:categoryId?`
-- File: `docs/routes/dewu/techblog-categoryid.md`
-- File Name: `techblog-categoryid.md`
+- Route ID: `dewu:/dewu/techblog/:categoryId?`
+- Route Path: `/dewu/techblog/:categoryId?`
+- File: `docs/routes/dewu/dewu-techblog-categoryid.md`
+- File Name: `dewu-techblog-categoryid.md`
 - Categories: `programming`
 - Maintainers: `zhenlohuang`

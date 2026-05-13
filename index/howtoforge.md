@@ -4,16 +4,16 @@
 - Namespace: `howtoforge`
 - Display Name: `Howtoforge Linux Tutorials`
 - URL: `howtoforge.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `howtoforge, howtoforge linux tutorials, howtoforge.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Tutorials
-- Route ID: `howtoforge:/`
-- Route Path: `/`
-- File: `docs/routes/howtoforge/index.md`
-- File Name: `index.md`
+- Route ID: `howtoforge:/howtoforge/`
+- Route Path: `/howtoforge/`
+- File: `docs/routes/howtoforge/howtoforge.md`
+- File Name: `howtoforge.md`
 - Categories: `study`
 - Maintainers: `cnkmmk`

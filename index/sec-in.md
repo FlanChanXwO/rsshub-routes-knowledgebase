@@ -4,16 +4,16 @@
 - Namespace: `sec-in`
 - Display Name: `SecIN 信息安全技术社区`
 - URL: `sec-in.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `sec-in, sec-in.com, secin 信息安全技术社区`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `sec-in:/`
-- Route Path: `/`
-- File: `docs/routes/sec-in/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `sec-in:/sec-in/`
+- Route Path: `/sec-in/`
+- File: `docs/routes/sec-in/sec-in.md`
+- File Name: `sec-in.md`
+- Categories: `other`
 - Maintainers: `p7e4`

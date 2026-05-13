@@ -4,16 +4,16 @@
 - Namespace: `lens`
 - Display Name: `Lens`
 - URL: `www.lens.xyz`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `lens, lens.xyz, www, www.lens.xyz`
 - Route Count: `1`
 
 ## Routes
 
 ### Lens Profile
-- Route ID: `lens:/profile/:handle`
-- Route Path: `/profile/:handle`
-- File: `docs/routes/lens/profile-handle.md`
-- File Name: `profile-handle.md`
+- Route ID: `lens:/lens/profile/:handle`
+- Route Path: `/lens/profile/:handle`
+- File: `docs/routes/lens/lens-profile-handle.md`
+- File Name: `lens-profile-handle.md`
 - Categories: `social-media`
 - Maintainers: `DIYgod`

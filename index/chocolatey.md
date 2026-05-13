@@ -4,16 +4,16 @@
 - Namespace: `chocolatey`
 - Display Name: `Chocolatey`
 - URL: `chocolatey.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `chocolatey, chocolatey.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Package
-- Route ID: `chocolatey:/packages/:id`
-- Route Path: `/packages/:id`
-- File: `docs/routes/chocolatey/packages-id.md`
-- File Name: `packages-id.md`
+- Route ID: `chocolatey:/chocolatey/packages/:id`
+- Route Path: `/chocolatey/packages/:id`
+- File: `docs/routes/chocolatey/chocolatey-packages-id.md`
+- File Name: `chocolatey-packages-id.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`

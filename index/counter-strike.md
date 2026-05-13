@@ -11,9 +11,9 @@
 ## Routes
 
 ### News
-- Route ID: `counter-strike:/news/:category?/:language?`
-- Route Path: `/news/:category?/:language?`
-- File: `docs/routes/counter-strike/news-category-language.md`
-- File Name: `news-category-language.md`
+- Route ID: `counter-strike:/counter-strike/news/:category?/:language?`
+- Route Path: `/counter-strike/news/:category?/:language?`
+- File: `docs/routes/counter-strike/counter-strike-news-category-language.md`
+- File Name: `counter-strike-news-category-language.md`
 - Categories: `game`
 - Maintainers: `nczitzk`

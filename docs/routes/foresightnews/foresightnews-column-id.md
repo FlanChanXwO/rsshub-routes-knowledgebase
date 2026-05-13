@@ -1,0 +1,105 @@
+# Foresight News - 专栏
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `foresightnews`
+- Namespace Name: `Foresight News`
+- Route Path: `/foresightnews/column/:id`
+- Route Name: `专栏`
+- Example: `/foresightnews/column/1`
+- URL: `foresightnews.pro/`
+- Language: `_None_`
+- Categories: `new-media`
+- Maintainers: `nczitzk`
+- Source Location: `column.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `id`: 专栏 id, 可在对应专栏页 URL 中找到
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `foresightnews.pro/column/detail/:id`
+  - `foresightnews.pro/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "example": "/foresightnews/column/1",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 72,
+  "location": "column.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "专栏",
+  "parameters": {
+    "id": "专栏 id, 可在对应专栏页 URL 中找到"
+  },
+  "path": "/column/:id",
+  "radar": [
+    {
+      "source": [
+        "foresightnews.pro/column/detail/:id",
+        "foresightnews.pro/"
+      ]
+    }
+  ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [
+    {
+      "description": "ForesightNews 深度 - Foresight News - Powered by RSSHub",
+      "errorAt": "2026-03-25T09:48:18.526Z",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50&column_id=894\": 403 Forbidden\n",
+      "id": "56166789173943296",
+      "image": "https://img.foresightnews.pro/vertical_logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://foresightnews.pro/column/detail/894",
+      "title": "Foresight News - ForesightNews 深度",
+      "type": "feed",
+      "url": "rsshub://foresightnews/column/894"
+    },
+    {
+      "description": "ForesightNews 独家 - Foresight News - Powered by RSSHub",
+      "errorAt": "2026-03-25T07:03:01.055Z",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50&column_id=1\": 403 Forbidden\n",
+      "id": "49357965468513280",
+      "image": "https://img.foresightnews.pro/vertical_logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://foresightnews.pro/column/detail/1",
+      "title": "Foresight News - ForesightNews 独家",
+      "type": "feed",
+      "url": "rsshub://foresightnews/column/1"
+    }
+  ],
+  "url": "foresightnews.pro/"
+}
+```

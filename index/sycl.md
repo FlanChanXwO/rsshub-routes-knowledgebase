@@ -4,16 +4,16 @@
 - Namespace: `sycl`
 - Display Name: `SYCL`
 - URL: `sycl.tech`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `sycl, sycl.tech`
 - Route Count: `1`
 
 ## Routes
 
 ### Feeds
-- Route ID: `sycl:/:feed?`
-- Route Path: `/:feed?`
-- File: `docs/routes/sycl/feed.md`
-- File Name: `feed.md`
+- Route ID: `sycl:/sycl/:feed?`
+- Route Path: `/sycl/:feed?`
+- File: `docs/routes/sycl/sycl-feed.md`
+- File Name: `sycl-feed.md`
 - Categories: `programming`
 - Maintainers: `mocusez`

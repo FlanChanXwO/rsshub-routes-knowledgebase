@@ -11,9 +11,9 @@
 ## Routes
 
 ### Immobilienangebot
-- Route ID: `oesw:*`
-- Route Path: `*`
-- File: `docs/routes/oesw/index.md`
-- File Name: `index.md`
+- Route ID: `oesw:/oesw*`
+- Route Path: `/oesw*`
+- File: `docs/routes/oesw/oesw.md`
+- File Name: `oesw.md`
 - Categories: `other`
 - Maintainers: `sk22`

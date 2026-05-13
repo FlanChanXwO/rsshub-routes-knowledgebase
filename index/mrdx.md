@@ -4,16 +4,16 @@
 - Namespace: `mrdx`
 - Display Name: `新华每日电讯`
 - URL: `mrdx.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `mrdx, mrdx.cn, 新华每日电讯`
 - Route Count: `1`
 
 ## Routes
 
 ### 今日
-- Route ID: `mrdx:/today`
-- Route Path: `/today`
-- File: `docs/routes/mrdx/today.md`
-- File Name: `today.md`
+- Route ID: `mrdx:/mrdx/today`
+- Route Path: `/mrdx/today`
+- File: `docs/routes/mrdx/mrdx-today.md`
+- File Name: `mrdx-today.md`
 - Categories: `traditional-media`
 - Maintainers: `Dustin-Jiang`

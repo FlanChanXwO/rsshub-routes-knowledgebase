@@ -1,0 +1,80 @@
+# jable - Jable 搜索结果
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `jable`
+- Namespace Name: `jable`
+- Route Path: `/jable/search/:query`
+- Route Name: `Jable 搜索结果`
+- Example: `/jable/search/みなみ羽琉`
+- URL: `jable.tv`
+- Language: `_None_`
+- Categories: `multimedia`
+- Maintainers: `eve2ptp`
+- Source Location: `index.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `query`: Search keyword
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+- `nsfw`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `jable.tv/search/:query`
+- `target`: `/search/:query`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "multimedia"
+  ],
+  "example": "/jable/search/みなみ羽琉",
+  "features": {
+    "antiCrawler": false,
+    "nsfw": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 0,
+  "location": "index.ts",
+  "maintainers": [
+    "eve2ptp"
+  ],
+  "name": "Jable 搜索结果",
+  "parameters": {
+    "query": "Search keyword"
+  },
+  "path": "/search/:query",
+  "radar": [
+    {
+      "source": [
+        "jable.tv/search/:query"
+      ],
+      "target": "/search/:query"
+    }
+  ],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": []
+}
+```

@@ -4,24 +4,16 @@
 - Namespace: `news`
 - Display Name: `新华社`
 - URL: `news.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `news, news.cn, 新华社`
-- Route Count: `2`
+- Route Count: `1`
 
 ## Routes
 
 ### 新华社新闻
-- Route ID: `news:/whxw`
-- Route Path: `/whxw`
-- File: `docs/routes/news/whxw.md`
-- File Name: `whxw.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
-
-### 新华社新闻
-- Route ID: `news:/xhsxw`
-- Route Path: `/xhsxw`
-- File: `docs/routes/news/xhsxw.md`
-- File Name: `xhsxw.md`
+- Route ID: `news:/news/xhsxw`
+- Route Path: `/news/xhsxw`
+- File: `docs/routes/news/news-xhsxw.md`
+- File Name: `news-xhsxw.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

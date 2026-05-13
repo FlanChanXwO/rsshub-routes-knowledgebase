@@ -4,16 +4,16 @@
 - Namespace: `cqgas`
 - Display Name: `重庆燃气`
 - URL: `cqgas.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cqgas, cqgas.cn, 重庆燃气`
 - Route Count: `1`
 
 ## Routes
 
 ### 停气检修通知
-- Route ID: `cqgas:/tqtz`
-- Route Path: `/tqtz`
-- File: `docs/routes/cqgas/tqtz.md`
-- File Name: `tqtz.md`
+- Route ID: `cqgas:/cqgas/tqtz`
+- Route Path: `/cqgas/tqtz`
+- File: `docs/routes/cqgas/cqgas-tqtz.md`
+- File Name: `cqgas-tqtz.md`
 - Categories: `forecast`
 - Maintainers: `Mai19930513`

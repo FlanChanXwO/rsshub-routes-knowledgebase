@@ -4,16 +4,16 @@
 - Namespace: `sourceforge`
 - Display Name: `SourceForge`
 - URL: `www.sourceforge.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `sourceforge, sourceforge.net, www, www.sourceforge.net`
 - Route Count: `1`
 
 ## Routes
 
 ### Software
-- Route ID: `sourceforge:/:routeParams?`
-- Route Path: `/:routeParams?`
-- File: `docs/routes/sourceforge/routeparams.md`
-- File Name: `routeparams.md`
+- Route ID: `sourceforge:/sourceforge/:routeParams?`
+- Route Path: `/sourceforge/:routeParams?`
+- File: `docs/routes/sourceforge/sourceforge-routeparams.md`
+- File Name: `sourceforge-routeparams.md`
 - Categories: `program-update`
 - Maintainers: `JimenezLi`

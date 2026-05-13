@@ -4,16 +4,16 @@
 - Namespace: `chaoxing`
 - Display Name: `超星`
 - URL: `chaoxing.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `chaoxing, chaoxing.com, 超星`
 - Route Count: `1`
 
 ## Routes
 
 ### 期刊
-- Route ID: `chaoxing:/qk/:id/:needContent?`
-- Route Path: `/qk/:id/:needContent?`
-- File: `docs/routes/chaoxing/qk-id-needcontent.md`
-- File Name: `qk-id-needcontent.md`
+- Route ID: `chaoxing:/chaoxing/qk/:id/:needContent?`
+- Route Path: `/chaoxing/qk/:id/:needContent?`
+- File: `docs/routes/chaoxing/chaoxing-qk-id-needcontent.md`
+- File Name: `chaoxing-qk-id-needcontent.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`

@@ -4,16 +4,16 @@
 - Namespace: `embassy`
 - Display Name: `中国驻外使领馆`
 - URL: `ca.china-embassy.org`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `ca, ca.china-embassy.org, embassy, 中国驻外使领馆`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `embassy:/:country/:city?`
-- Route Path: `/:country/:city?`
-- File: `docs/routes/embassy/country-city.md`
-- File Name: `country-city.md`
-- Categories: `None`
+- Route ID: `embassy:/embassy/:country/:city?`
+- Route Path: `/embassy/:country/:city?`
+- File: `docs/routes/embassy/embassy-country-city.md`
+- File Name: `embassy-country-city.md`
+- Categories: `other`
 - Maintainers: `HenryQW`

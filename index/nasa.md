@@ -4,32 +4,32 @@
 - Namespace: `nasa`
 - Display Name: `NASA`
 - URL: `apod.nasa.gov`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `apod, apod.nasa.gov, nasa`
 - Route Count: `3`
 
 ## Routes
 
 ### Astronomy Picture of the Day
-- Route ID: `nasa:/apod`
-- Route Path: `/apod`
-- File: `docs/routes/nasa/apod.md`
-- File Name: `apod.md`
-- Categories: `picture`
+- Route ID: `nasa:/nasa/apod`
+- Route Path: `/nasa/apod`
+- File: `docs/routes/nasa/nasa-apod.md`
+- File Name: `nasa-apod.md`
+- Categories: `picture, popular`
 - Maintainers: `nczitzk, williamgateszhao`
 
 ### NASA 中文
-- Route ID: `nasa:/apod-cn`
-- Route Path: `/apod-cn`
-- File: `docs/routes/nasa/apod-cn.md`
-- File Name: `apod-cn.md`
+- Route ID: `nasa:/nasa/apod-cn`
+- Route Path: `/nasa/apod-cn`
+- File: `docs/routes/nasa/nasa-apod-cn.md`
+- File Name: `nasa-apod-cn.md`
 - Categories: `picture`
 - Maintainers: `nczitzk, williamgateszhao`
 
 ### Cheng Kung University Mirror
-- Route ID: `nasa:/apod-ncku`
-- Route Path: `/apod-ncku`
-- File: `docs/routes/nasa/apod-ncku.md`
-- File Name: `apod-ncku.md`
+- Route ID: `nasa:/nasa/apod-ncku`
+- Route Path: `/nasa/apod-ncku`
+- File: `docs/routes/nasa/nasa-apod-ncku.md`
+- File Name: `nasa-apod-ncku.md`
 - Categories: `picture`
 - Maintainers: `nczitzk, williamgateszhao`

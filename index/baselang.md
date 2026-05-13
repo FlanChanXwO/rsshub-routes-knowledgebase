@@ -4,16 +4,16 @@
 - Namespace: `baselang`
 - Display Name: `BaseLang`
 - URL: `_None_`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `baselang`
 - Route Count: `1`
 
 ## Routes
 
 ### Blog
-- Route ID: `baselang:/blog/:category?`
-- Route Path: `/blog/:category?`
-- File: `docs/routes/baselang/blog-category.md`
-- File Name: `blog-category.md`
+- Route ID: `baselang:/baselang/blog/:category?`
+- Route Path: `/baselang/blog/:category?`
+- File: `docs/routes/baselang/baselang-blog-category.md`
+- File Name: `baselang-blog-category.md`
 - Categories: `blog`
 - Maintainers: `johan456789`

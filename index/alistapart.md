@@ -4,24 +4,24 @@
 - Namespace: `alistapart`
 - Display Name: `A List Apart`
 - URL: `alistapart.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `a list apart, alistapart, alistapart.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Home Feed
-- Route ID: `alistapart:/`
-- Route Path: `/`
-- File: `docs/routes/alistapart/index.md`
-- File Name: `index.md`
+- Route ID: `alistapart:/alistapart/`
+- Route Path: `/alistapart/`
+- File: `docs/routes/alistapart/alistapart.md`
+- File Name: `alistapart.md`
 - Categories: `programming`
 - Maintainers: `Rjnishant530`
 
 ### Topics
-- Route ID: `alistapart:/:topic`
-- Route Path: `/:topic`
-- File: `docs/routes/alistapart/topic.md`
-- File Name: `topic.md`
+- Route ID: `alistapart:/alistapart/:topic`
+- Route Path: `/alistapart/:topic`
+- File: `docs/routes/alistapart/alistapart-topic.md`
+- File Name: `alistapart-topic.md`
 - Categories: `programming`
 - Maintainers: `Rjnishant530`

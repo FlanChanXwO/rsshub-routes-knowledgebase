@@ -4,16 +4,16 @@
 - Namespace: `aljazeera`
 - Display Name: `Aljazeera`
 - URL: `aljazeera.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `aljazeera, aljazeera.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `aljazeera:*`
-- Route Path: `*`
-- File: `docs/routes/aljazeera/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `aljazeera:/aljazeera*`
+- Route Path: `/aljazeera*`
+- File: `docs/routes/aljazeera/aljazeera.md`
+- File Name: `aljazeera.md`
+- Categories: `other`
 - Maintainers: `nczitzk`

@@ -4,16 +4,16 @@
 - Namespace: `fediverse`
 - Display Name: `Fediverse`
 - URL: `fediverse.observer`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `fediverse, fediverse.observer`
 - Route Count: `1`
 
 ## Routes
 
 ### Timeline
-- Route ID: `fediverse:/timeline/:account`
-- Route Path: `/timeline/:account`
-- File: `docs/routes/fediverse/timeline-account.md`
-- File Name: `timeline-account.md`
+- Route ID: `fediverse:/fediverse/timeline/:account`
+- Route Path: `/fediverse/timeline/:account`
+- File: `docs/routes/fediverse/fediverse-timeline-account.md`
+- File Name: `fediverse-timeline-account.md`
 - Categories: `social-media`
 - Maintainers: `DIYgod, pseudoyu`

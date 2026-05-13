@@ -1,0 +1,72 @@
+# 浙江大学 - 外国语学院
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `zju`
+- Namespace Name: `浙江大学`
+- Route Path: `/zju/sis/:type`
+- Route Name: `外国语学院`
+- Example: `/zju/sis/0`
+- URL: `www.sis.zju.edu.cn`
+- Language: `_None_`
+- Categories: `university`
+- Maintainers: `Alex222222222222`
+- Source Location: `sis/index.ts`
+- Source Module: `_None_`
+
+## Description
+| 重要公告 | 最新通知 | 教育教学 | 科学研究 | 新闻动态 | 联系我们 | 党政管理 | 组织人事 | 科学研究 | 本科教育 | 研究生教育 | 学生思政 | 校友联络 | 对外交流 |
+| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ---------- | -------- | -------- | -------- |
+| 0        | 1        | 2        | 3        | 4        | 5        | 6        | 7        | 8        | 9        | 10         | 11       | 12       | 13       |
+
+## Parameters
+- `type`: 分类，见下表
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "| 重要公告 | 最新通知 | 教育教学 | 科学研究 | 新闻动态 | 联系我们 | 党政管理 | 组织人事 | 科学研究 | 本科教育 | 研究生教育 | 学生思政 | 校友联络 | 对外交流 |\n| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | ---------- | -------- | -------- | -------- |\n| 0        | 1        | 2        | 3        | 4        | 5        | 6        | 7        | 8        | 9        | 10         | 11       | 12       | 13       |",
+  "example": "/zju/sis/0",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 0,
+  "location": "sis/index.ts",
+  "maintainers": [
+    "Alex222222222222"
+  ],
+  "name": "外国语学院",
+  "parameters": {
+    "type": "分类，见下表"
+  },
+  "path": "/sis/:type",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [],
+  "url": "www.sis.zju.edu.cn"
+}
+```

@@ -4,48 +4,40 @@
 - Namespace: `quicker`
 - Display Name: `Quicker`
 - URL: `getquicker.net`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `getquicker, getquicker.net, quicker`
-- Route Count: `5`
+- Route Count: `4`
 
 ## Routes
 
 ### 讨论区
-- Route ID: `quicker:/qa/:category?/:state?`
-- Route Path: `/qa/:category?/:state?`
-- File: `docs/routes/quicker/qa-category-state.md`
-- File Name: `qa-category-state.md`
+- Route ID: `quicker:/quicker/qa/:category?/:state?`
+- Route Path: `/quicker/qa/:category?/:state?`
+- File: `docs/routes/quicker/quicker-qa-category-state.md`
+- File Name: `quicker-qa-category-state.md`
 - Categories: `programming`
 - Maintainers: `Cesaryuan, nczitzk`
 
 ### 动作分享
-- Route ID: `quicker:/share/:category?`
-- Route Path: `/share/:category?`
-- File: `docs/routes/quicker/share-category.md`
-- File Name: `share-category.md`
+- Route ID: `quicker:/quicker/share/:category?`
+- Route Path: `/quicker/share/:category?`
+- File: `docs/routes/quicker/quicker-share-category.md`
+- File Name: `quicker-share-category.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`
 
 ### Unknown
-- Route ID: `quicker:/update`
-- Route Path: `/update`
-- File: `docs/routes/quicker/update.md`
-- File Name: `update.md`
-- Categories: `None`
-- Maintainers: `Cesaryuan, nczitzk`
-
-### 用户更新
-- Route ID: `quicker:/user/:category/:id`
-- Route Path: `/user/:category/:id`
-- File: `docs/routes/quicker/user-category-id.md`
-- File Name: `user-category-id.md`
+- Route ID: `quicker:/quicker/update`
+- Route Path: `/quicker/update`
+- File: `docs/routes/quicker/quicker-update.md`
+- File Name: `quicker-update.md`
 - Categories: `programming`
 - Maintainers: `Cesaryuan, nczitzk`
 
-### Unknown
-- Route ID: `quicker:/versions`
-- Route Path: `/versions`
-- File: `docs/routes/quicker/versions.md`
-- File Name: `versions.md`
-- Categories: `None`
+### 用户更新
+- Route ID: `quicker:/quicker/user/:category/:id`
+- Route Path: `/quicker/user/:category/:id`
+- File: `docs/routes/quicker/quicker-user-category-id.md`
+- File Name: `quicker-user-category-id.md`
+- Categories: `programming`
 - Maintainers: `Cesaryuan, nczitzk`

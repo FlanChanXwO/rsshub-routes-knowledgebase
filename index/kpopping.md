@@ -4,24 +4,24 @@
 - Namespace: `kpopping`
 - Display Name: `kpopping`
 - URL: `kpopping.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `kpopping, kpopping.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Pics
-- Route ID: `kpopping:/kpics/:filter{.+}?`
-- Route Path: `/kpics/:filter{.+}?`
-- File: `docs/routes/kpopping/kpics-filter.md`
-- File Name: `kpics-filter.md`
+- Route ID: `kpopping:/kpopping/kpics/:filter{.+}?`
+- Route Path: `/kpopping/kpics/:filter{.+}?`
+- File: `docs/routes/kpopping/kpopping-kpics-filter.md`
+- File Name: `kpopping-kpics-filter.md`
 - Categories: `picture`
 - Maintainers: `nczitzk`
 
 ### News
-- Route ID: `kpopping:/news/:filter{.+}?`
-- Route Path: `/news/:filter{.+}?`
-- File: `docs/routes/kpopping/news-filter.md`
-- File Name: `news-filter.md`
+- Route ID: `kpopping:/kpopping/news/:filter{.+}?`
+- Route Path: `/kpopping/news/:filter{.+}?`
+- File: `docs/routes/kpopping/kpopping-news-filter.md`
+- File Name: `kpopping-news-filter.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

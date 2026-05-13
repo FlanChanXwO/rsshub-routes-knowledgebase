@@ -4,16 +4,16 @@
 - Namespace: `distill`
 - Display Name: `Distill`
 - URL: `distill.pub`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `distill, distill.pub`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `distill:/`
-- Route Path: `/`
-- File: `docs/routes/distill/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `distill:/distill/`
+- Route Path: `/distill/`
+- File: `docs/routes/distill/distill.md`
+- File Name: `distill.md`
+- Categories: `other`
 - Maintainers: `nczitzk`

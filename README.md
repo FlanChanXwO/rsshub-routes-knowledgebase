@@ -3,12 +3,12 @@
 This branch is generated automatically from RSSHub official route metadata.
 
 ## Summary
-- Generated At: `2026-05-13T11:58:24+00:00`
+- Generated At: `2026-05-13T12:31:05+00:00`
 - Source Repo: `https://github.com/DIYgod/RSSHub`
-- Source Revision: `local-test`
-- Namespaces: `1580`
-- Route Documents: `3273`
-- Categories: `24`
+- Source Revision: `eda21bb48cdbdd2d82ff0e200da8174fc8a26bb7`
+- Namespaces: `1584`
+- Route Documents: `3204`
+- Categories: `25`
 
 ## Files
 - `index/namespaces.md`: top-level namespace directory.

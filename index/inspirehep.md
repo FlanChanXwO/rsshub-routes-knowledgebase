@@ -4,24 +4,24 @@
 - Namespace: `inspirehep`
 - Display Name: `INSPIRE`
 - URL: `inspirehep.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `inspire, inspirehep, inspirehep.net`
 - Route Count: `2`
 
 ## Routes
 
 ### Author Search
-- Route ID: `inspirehep:/authors/:id`
-- Route Path: `/authors/:id`
-- File: `docs/routes/inspirehep/authors-id.md`
-- File Name: `authors-id.md`
+- Route ID: `inspirehep:/inspirehep/authors/:id`
+- Route Path: `/inspirehep/authors/:id`
+- File: `docs/routes/inspirehep/inspirehep-authors-id.md`
+- File Name: `inspirehep-authors-id.md`
 - Categories: `journal`
 - Maintainers: `TonyRL`
 
 ### Literature Search
-- Route ID: `inspirehep:/literature/:q`
-- Route Path: `/literature/:q`
-- File: `docs/routes/inspirehep/literature-q.md`
-- File Name: `literature-q.md`
+- Route ID: `inspirehep:/inspirehep/literature/:q`
+- Route Path: `/inspirehep/literature/:q`
+- File: `docs/routes/inspirehep/inspirehep-literature-q.md`
+- File Name: `inspirehep-literature-q.md`
 - Categories: `journal`
 - Maintainers: `TonyRL`

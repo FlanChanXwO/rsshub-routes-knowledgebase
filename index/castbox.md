@@ -11,9 +11,9 @@
 ## Routes
 
 ### Channels
-- Route ID: `castbox:/channel/:channel`
-- Route Path: `/channel/:channel`
-- File: `docs/routes/castbox/channel-channel.md`
-- File Name: `channel-channel.md`
+- Route ID: `castbox:/castbox/channel/:channel`
+- Route Path: `/castbox/channel/:channel`
+- File: `docs/routes/castbox/castbox-channel-channel.md`
+- File Name: `castbox-channel-channel.md`
 - Categories: `multimedia`
 - Maintainers: `ananyatimalsina`

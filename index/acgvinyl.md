@@ -11,9 +11,9 @@
 ## Routes
 
 ### 黑胶 - News
-- Route ID: `acgvinyl:/news`
-- Route Path: `/news`
-- File: `docs/routes/acgvinyl/news.md`
-- File Name: `news.md`
+- Route ID: `acgvinyl:/acgvinyl/news`
+- Route Path: `/acgvinyl/news`
+- File: `docs/routes/acgvinyl/acgvinyl-news.md`
+- File Name: `acgvinyl-news.md`
 - Categories: `anime`
 - Maintainers: `williamgateszhao`

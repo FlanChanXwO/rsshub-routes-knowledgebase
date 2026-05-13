@@ -11,17 +11,17 @@
 ## Routes
 
 ### Post
-- Route ID: `f95zone:/post/:thread/:postId`
-- Route Path: `/post/:thread/:postId`
-- File: `docs/routes/f95zone/post-thread-postid.md`
-- File Name: `post-thread-postid.md`
+- Route ID: `f95zone:/f95zone/post/:thread/:postId`
+- Route Path: `/f95zone/post/:thread/:postId`
+- File: `docs/routes/f95zone/f95zone-post-thread-postid.md`
+- File Name: `f95zone-post-thread-postid.md`
 - Categories: `game`
 - Maintainers: `wsmbsbbz`
 
 ### Thread
-- Route ID: `f95zone:/thread/:thread`
-- Route Path: `/thread/:thread`
-- File: `docs/routes/f95zone/thread-thread.md`
-- File Name: `thread-thread.md`
+- Route ID: `f95zone:/f95zone/thread/:thread`
+- Route Path: `/f95zone/thread/:thread`
+- File: `docs/routes/f95zone/f95zone-thread-thread.md`
+- File Name: `f95zone-thread-thread.md`
 - Categories: `game`
 - Maintainers: `wsmbsbbz`

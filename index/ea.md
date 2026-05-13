@@ -11,9 +11,9 @@
 ## Routes
 
 ### APEX Legends 官网资讯
-- Route ID: `ea:/apex-news/:lang?/:type?`
-- Route Path: `/apex-news/:lang?/:type?`
-- File: `docs/routes/ea/apex-news-lang-type.md`
-- File Name: `apex-news-lang-type.md`
+- Route ID: `ea:/ea/apex-news/:lang?/:type?`
+- Route Path: `/ea/apex-news/:lang?/:type?`
+- File: `docs/routes/ea/ea-apex-news-lang-type.md`
+- File Name: `ea-apex-news-lang-type.md`
 - Categories: `game`
 - Maintainers: `IceChestnut`

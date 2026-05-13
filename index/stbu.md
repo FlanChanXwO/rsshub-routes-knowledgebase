@@ -4,24 +4,24 @@
 - Namespace: `stbu`
 - Display Name: `四川工商学院`
 - URL: `stbu.edu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `stbu, stbu.edu.cn, 四川工商学院`
 - Route Count: `2`
 
 ## Routes
 
 ### 计算机学院 - 通知公告
-- Route ID: `stbu:/jsjxy`
-- Route Path: `/jsjxy`
-- File: `docs/routes/stbu/jsjxy.md`
-- File Name: `jsjxy.md`
+- Route ID: `stbu:/stbu/jsjxy`
+- Route Path: `/stbu/jsjxy`
+- File: `docs/routes/stbu/stbu-jsjxy.md`
+- File Name: `stbu-jsjxy.md`
 - Categories: `university`
 - Maintainers: `HyperCherry`
 
 ### 学院新闻
-- Route ID: `stbu:/xyxw`
-- Route Path: `/xyxw`
-- File: `docs/routes/stbu/xyxw.md`
-- File Name: `xyxw.md`
+- Route ID: `stbu:/stbu/xyxw`
+- Route Path: `/stbu/xyxw`
+- File: `docs/routes/stbu/stbu-xyxw.md`
+- File Name: `stbu-xyxw.md`
 - Categories: `university`
 - Maintainers: `HyperCherry`

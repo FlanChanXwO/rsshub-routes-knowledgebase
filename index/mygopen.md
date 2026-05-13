@@ -4,16 +4,16 @@
 - Namespace: `mygopen`
 - Display Name: `MyGoPen`
 - URL: `mygopen.com`
-- Language: `zh-TW`
+- Language: `_None_`
 - Aliases: `mygopen, mygopen.com`
 - Route Count: `1`
 
 ## Routes
 
 ### 分類
-- Route ID: `mygopen:/:label?`
-- Route Path: `/:label?`
-- File: `docs/routes/mygopen/label.md`
-- File Name: `label.md`
+- Route ID: `mygopen:/mygopen/:label?`
+- Route Path: `/mygopen/:label?`
+- File: `docs/routes/mygopen/mygopen-label.md`
+- File Name: `mygopen-label.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

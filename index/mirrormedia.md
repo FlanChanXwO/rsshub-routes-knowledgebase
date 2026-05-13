@@ -4,32 +4,24 @@
 - Namespace: `mirrormedia`
 - Display Name: `鏡週刊 Mirror Media`
 - URL: `mirrormedia.mg`
-- Language: `zh-TW`
+- Language: `_None_`
 - Aliases: `mirrormedia, mirrormedia.mg, 鏡週刊 mirror media`
-- Route Count: `3`
+- Route Count: `2`
 
 ## Routes
 
 ### 首页
-- Route ID: `mirrormedia:/`
-- Route Path: `/`
-- File: `docs/routes/mirrormedia/index.md`
-- File Name: `index.md`
+- Route ID: `mirrormedia:/mirrormedia/`
+- Route Path: `/mirrormedia/`
+- File: `docs/routes/mirrormedia/mirrormedia.md`
+- File Name: `mirrormedia.md`
 - Categories: `traditional-media`
 - Maintainers: `dzx-dzx`
 
 ### 分类
-- Route ID: `mirrormedia:/category/:category`
-- Route Path: `/category/:category`
-- File: `docs/routes/mirrormedia/category-category.md`
-- File Name: `category-category.md`
-- Categories: `traditional-media`
-- Maintainers: `dzx-dzx`
-
-### 分类
-- Route ID: `mirrormedia:/section/:section`
-- Route Path: `/section/:section`
-- File: `docs/routes/mirrormedia/section-section.md`
-- File Name: `section-section.md`
+- Route ID: `mirrormedia:/mirrormedia/category/:category`
+- Route Path: `/mirrormedia/category/:category`
+- File: `docs/routes/mirrormedia/mirrormedia-category-category.md`
+- File Name: `mirrormedia-category-category.md`
 - Categories: `traditional-media`
 - Maintainers: `dzx-dzx`

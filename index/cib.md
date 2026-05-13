@@ -4,16 +4,16 @@
 - Namespace: `cib`
 - Display Name: `中国兴业银行`
 - URL: `cib.com.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cib, cib.com.cn, 中国兴业银行`
 - Route Count: `1`
 
 ## Routes
 
 ### 外汇牌价
-- Route ID: `cib:/whpj/:format?`
-- Route Path: `/whpj/:format?`
-- File: `docs/routes/cib/whpj-format.md`
-- File Name: `whpj-format.md`
+- Route ID: `cib:/cib/whpj/:format?`
+- Route Path: `/cib/whpj/:format?`
+- File: `docs/routes/cib/cib-whpj-format.md`
+- File Name: `cib-whpj-format.md`
 - Categories: `other`
 - Maintainers: `Qixingchen`

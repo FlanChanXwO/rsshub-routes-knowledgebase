@@ -4,24 +4,24 @@
 - Namespace: `notion`
 - Display Name: `Notion`
 - URL: `notion.so`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `notion, notion.so`
 - Route Count: `2`
 
 ## Routes
 
 ### Database
-- Route ID: `notion:/database/:databaseId`
-- Route Path: `/database/:databaseId`
-- File: `docs/routes/notion/database-databaseid.md`
-- File Name: `database-databaseid.md`
+- Route ID: `notion:/notion/database/:databaseId`
+- Route Path: `/notion/database/:databaseId`
+- File: `docs/routes/notion/notion-database-databaseid.md`
+- File Name: `notion-database-databaseid.md`
 - Categories: `other`
 - Maintainers: `curly210102`
 
 ### Release
-- Route ID: `notion:/release`
-- Route Path: `/release`
-- File: `docs/routes/notion/release.md`
-- File Name: `release.md`
+- Route ID: `notion:/notion/release`
+- Route Path: `/notion/release`
+- File: `docs/routes/notion/notion-release.md`
+- File Name: `notion-release.md`
 - Categories: `program-update`
 - Maintainers: `equt`

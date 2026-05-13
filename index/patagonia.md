@@ -4,16 +4,16 @@
 - Namespace: `patagonia`
 - Display Name: `Patagonia`
 - URL: `patagonia.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `patagonia, patagonia.com`
 - Route Count: `1`
 
 ## Routes
 
 ### New Arrivals
-- Route ID: `patagonia:/new-arrivals/:category`
-- Route Path: `/new-arrivals/:category`
-- File: `docs/routes/patagonia/new-arrivals-category.md`
-- File Name: `new-arrivals-category.md`
+- Route ID: `patagonia:/patagonia/new-arrivals/:category`
+- Route Path: `/patagonia/new-arrivals/:category`
+- File: `docs/routes/patagonia/patagonia-new-arrivals-category.md`
+- File Name: `patagonia-new-arrivals-category.md`
 - Categories: `shopping`
 - Maintainers: `None`

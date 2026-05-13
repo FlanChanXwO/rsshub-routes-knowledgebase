@@ -4,16 +4,16 @@
 - Namespace: `chinamoney`
 - Display Name: `中国货币网`
 - URL: `chinamoney.com.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `chinamoney, chinamoney.com.cn, 中国货币网`
 - Route Count: `1`
 
 ## Routes
 
 ### 公告
-- Route ID: `chinamoney:/:channelId?`
-- Route Path: `/:channelId?`
-- File: `docs/routes/chinamoney/channelid.md`
-- File Name: `channelid.md`
+- Route ID: `chinamoney:/chinamoney/:channelId?`
+- Route Path: `/chinamoney/:channelId?`
+- File: `docs/routes/chinamoney/chinamoney-channelid.md`
+- File Name: `chinamoney-channelid.md`
 - Categories: `finance`
 - Maintainers: `TonyRL`

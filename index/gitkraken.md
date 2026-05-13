@@ -11,9 +11,9 @@
 ## Routes
 
 ### Release Notes
-- Route ID: `gitkraken:/release-note`
-- Route Path: `/release-note`
-- File: `docs/routes/gitkraken/release-note.md`
-- File Name: `release-note.md`
+- Route ID: `gitkraken:/gitkraken/release-note`
+- Route Path: `/gitkraken/release-note`
+- File: `docs/routes/gitkraken/gitkraken-release-note.md`
+- File Name: `gitkraken-release-note.md`
 - Categories: `program-update`
 - Maintainers: `TonyRL`

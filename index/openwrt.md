@@ -4,16 +4,16 @@
 - Namespace: `openwrt`
 - Display Name: `OpenWrt`
 - URL: `openwrt.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `openwrt, openwrt.org`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `openwrt:/releases/:brand/:model`
-- Route Path: `/releases/:brand/:model`
-- File: `docs/routes/openwrt/releases-brand-model.md`
-- File Name: `releases-brand-model.md`
-- Categories: `None`
+- Route ID: `openwrt:/openwrt/releases/:brand/:model`
+- Route Path: `/openwrt/releases/:brand/:model`
+- File: `docs/routes/openwrt/openwrt-releases-brand-model.md`
+- File Name: `openwrt-releases-brand-model.md`
+- Categories: `other`
 - Maintainers: `None`

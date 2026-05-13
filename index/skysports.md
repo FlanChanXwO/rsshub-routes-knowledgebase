@@ -4,16 +4,16 @@
 - Namespace: `skysports`
 - Display Name: `Sky Sports`
 - URL: `skysports.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `sky sports, skysports, skysports.com`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `skysports:/news/:team`
-- Route Path: `/news/:team`
-- File: `docs/routes/skysports/news-team.md`
-- File Name: `news-team.md`
+- Route ID: `skysports:/skysports/news/:team`
+- Route Path: `/skysports/news/:team`
+- File: `docs/routes/skysports/skysports-news-team.md`
+- File Name: `skysports-news-team.md`
 - Categories: `sport`
 - Maintainers: `nczitzk`

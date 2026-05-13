@@ -4,16 +4,16 @@
 - Namespace: `mindmeister`
 - Display Name: `MindMeister`
 - URL: `mindmeister.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `mindmeister, mindmeister.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Public Maps
-- Route ID: `mindmeister:/:category?/:language?`
-- Route Path: `/:category?/:language?`
-- File: `docs/routes/mindmeister/category-language.md`
-- File Name: `category-language.md`
+- Route ID: `mindmeister:/mindmeister/:category?/:language?`
+- Route Path: `/mindmeister/:category?/:language?`
+- File: `docs/routes/mindmeister/mindmeister-category-language.md`
+- File Name: `mindmeister-category-language.md`
 - Categories: `study`
 - Maintainers: `TonyRL`

@@ -4,16 +4,16 @@
 - Namespace: `reactnewsletter`
 - Display Name: `ui.dev`
 - URL: `bytes.dev`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `bytes, bytes.dev, reactnewsletter, ui.dev`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `reactnewsletter:/`
-- Route Path: `/`
-- File: `docs/routes/reactnewsletter/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `reactnewsletter:/reactnewsletter/`
+- Route Path: `/reactnewsletter/`
+- File: `docs/routes/reactnewsletter/reactnewsletter.md`
+- File Name: `reactnewsletter.md`
+- Categories: `other`
 - Maintainers: `meixger`

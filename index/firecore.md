@@ -4,16 +4,16 @@
 - Namespace: `firecore`
 - Display Name: `Infuse`
 - URL: `firecore.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `firecore, firecore.com, infuse`
 - Route Count: `1`
 
 ## Routes
 
 ### Release Notes
-- Route ID: `firecore:/:os`
-- Route Path: `/:os`
-- File: `docs/routes/firecore/os.md`
-- File Name: `os.md`
+- Route ID: `firecore:/firecore/:os`
+- Route Path: `/firecore/:os`
+- File: `docs/routes/firecore/firecore-os.md`
+- File Name: `firecore-os.md`
 - Categories: `program-update`
 - Maintainers: `NathanDai`

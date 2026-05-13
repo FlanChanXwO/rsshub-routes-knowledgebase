@@ -4,16 +4,16 @@
 - Namespace: `flashcat`
 - Display Name: `Flashcat`
 - URL: `flashcat.cloud`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `flashcat, flashcat.cloud`
 - Route Count: `1`
 
 ## Routes
 
 ### 快猫星云博客
-- Route ID: `flashcat:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/flashcat/blog.md`
-- File Name: `blog.md`
+- Route ID: `flashcat:/flashcat/blog`
+- Route Path: `/flashcat/blog`
+- File: `docs/routes/flashcat/flashcat-blog.md`
+- File Name: `flashcat-blog.md`
 - Categories: `blog`
 - Maintainers: `chesha1`

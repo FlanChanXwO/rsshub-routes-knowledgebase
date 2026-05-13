@@ -11,17 +11,17 @@
 ## Routes
 
 ### 学术信息
-- Route ID: `xbmu:/academic`
-- Route Path: `/academic`
-- File: `docs/routes/xbmu/academic.md`
-- File Name: `academic.md`
+- Route ID: `xbmu:/xbmu/academic`
+- Route Path: `/xbmu/academic`
+- File: `docs/routes/xbmu/xbmu-academic.md`
+- File Name: `xbmu-academic.md`
 - Categories: `university`
 - Maintainers: `PrinOrange`
 
 ### 通知公告
-- Route ID: `xbmu:/announcement`
-- Route Path: `/announcement`
-- File: `docs/routes/xbmu/announcement.md`
-- File Name: `announcement.md`
+- Route ID: `xbmu:/xbmu/announcement`
+- Route Path: `/xbmu/announcement`
+- File: `docs/routes/xbmu/xbmu-announcement.md`
+- File Name: `xbmu-announcement.md`
 - Categories: `university`
 - Maintainers: `PrinOrange`

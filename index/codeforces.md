@@ -4,24 +4,24 @@
 - Namespace: `codeforces`
 - Display Name: `Codeforces`
 - URL: `codeforces.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `codeforces, codeforces.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Latest contests
-- Route ID: `codeforces:/contests`
-- Route Path: `/contests`
-- File: `docs/routes/codeforces/contests.md`
-- File Name: `contests.md`
+- Route ID: `codeforces:/codeforces/contests`
+- Route Path: `/codeforces/contests`
+- File: `docs/routes/codeforces/codeforces-contests.md`
+- File Name: `codeforces-contests.md`
 - Categories: `programming`
 - Maintainers: `Fatpandac`
 
 ### Recent actions
-- Route ID: `codeforces:/recent-actions/:minrating?`
-- Route Path: `/recent-actions/:minrating?`
-- File: `docs/routes/codeforces/recent-actions-minrating.md`
-- File Name: `recent-actions-minrating.md`
+- Route ID: `codeforces:/codeforces/recent-actions/:minrating?`
+- Route Path: `/codeforces/recent-actions/:minrating?`
+- File: `docs/routes/codeforces/codeforces-recent-actions-minrating.md`
+- File Name: `codeforces-recent-actions-minrating.md`
 - Categories: `programming`
 - Maintainers: `None`

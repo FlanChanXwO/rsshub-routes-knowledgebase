@@ -4,16 +4,16 @@
 - Namespace: `bytes`
 - Display Name: `ui.dev`
 - URL: `bytes.dev`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `bytes, bytes.dev, ui.dev`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `bytes:/`
-- Route Path: `/`
-- File: `docs/routes/bytes/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `bytes:/bytes/`
+- Route Path: `/bytes/`
+- File: `docs/routes/bytes/bytes.md`
+- File Name: `bytes.md`
+- Categories: `other`
 - Maintainers: `meixger`

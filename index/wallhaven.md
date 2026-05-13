@@ -4,24 +4,16 @@
 - Namespace: `wallhaven`
 - Display Name: `wallhaven`
 - URL: `wallhaven.cc`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `wallhaven, wallhaven.cc`
-- Route Count: `2`
+- Route Count: `1`
 
 ## Routes
 
 ### Search
-- Route ID: `wallhaven:/:filter?/:needDetails?`
-- Route Path: `/:filter?/:needDetails?`
-- File: `docs/routes/wallhaven/filter-needdetails.md`
-- File Name: `filter-needdetails.md`
-- Categories: `picture`
-- Maintainers: `nczitzk, Fatpandac`
-
-### Search
-- Route ID: `wallhaven:/search/:filter?/:needDetails?`
-- Route Path: `/search/:filter?/:needDetails?`
-- File: `docs/routes/wallhaven/search-filter-needdetails.md`
-- File Name: `search-filter-needdetails.md`
+- Route ID: `wallhaven:/wallhaven/search/:filter?/:needDetails?`
+- Route Path: `/wallhaven/search/:filter?/:needDetails?`
+- File: `docs/routes/wallhaven/wallhaven-search-filter-needdetails.md`
+- File Name: `wallhaven-search-filter-needdetails.md`
 - Categories: `picture`
 - Maintainers: `nczitzk, Fatpandac`

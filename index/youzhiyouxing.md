@@ -4,16 +4,16 @@
 - Namespace: `youzhiyouxing`
 - Display Name: `有知有行`
 - URL: `youzhiyouxing.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `youzhiyouxing, youzhiyouxing.cn, 有知有行`
 - Route Count: `1`
 
 ## Routes
 
 ### 有知文章
-- Route ID: `youzhiyouxing:/materials/:id?`
-- Route Path: `/materials/:id?`
-- File: `docs/routes/youzhiyouxing/materials-id.md`
-- File Name: `materials-id.md`
-- Categories: `finance`
+- Route ID: `youzhiyouxing:/youzhiyouxing/materials/:id?`
+- Route Path: `/youzhiyouxing/materials/:id?`
+- File: `docs/routes/youzhiyouxing/youzhiyouxing-materials-id.md`
+- File Name: `youzhiyouxing-materials-id.md`
+- Categories: `finance, popular`
 - Maintainers: `broven, Fatpandac, nczitzk`

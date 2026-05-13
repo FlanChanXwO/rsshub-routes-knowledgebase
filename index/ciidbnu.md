@@ -4,16 +4,16 @@
 - Namespace: `ciidbnu`
 - Display Name: `中国收入分配研究院`
 - URL: `ciidbnu.org`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `ciidbnu, ciidbnu.org, 中国收入分配研究院`
 - Route Count: `1`
 
 ## Routes
 
 ### 分类
-- Route ID: `ciidbnu:/:id?`
-- Route Path: `/:id?`
-- File: `docs/routes/ciidbnu/id.md`
-- File Name: `id.md`
+- Route ID: `ciidbnu:/ciidbnu/:id?`
+- Route Path: `/ciidbnu/:id?`
+- File: `docs/routes/ciidbnu/ciidbnu-id.md`
+- File Name: `ciidbnu-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

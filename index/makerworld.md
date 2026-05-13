@@ -4,32 +4,32 @@
 - Namespace: `makerworld`
 - Display Name: `MakerWorld`
 - URL: `makerworld.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `makerworld, makerworld.com`
 - Route Count: `3`
 
 ## Routes
 
 ### Contests
-- Route ID: `makerworld:/contests`
-- Route Path: `/contests`
-- File: `docs/routes/makerworld/contests.md`
-- File Name: `contests.md`
+- Route ID: `makerworld:/makerworld/contests`
+- Route Path: `/makerworld/contests`
+- File: `docs/routes/makerworld/makerworld-contests.md`
+- File Name: `makerworld-contests.md`
 - Categories: `design`
 - Maintainers: `TonyRL`
 
 ### Trending Models
-- Route ID: `makerworld:/trending`
-- Route Path: `/trending`
-- File: `docs/routes/makerworld/trending.md`
-- File Name: `trending.md`
+- Route ID: `makerworld:/makerworld/trending`
+- Route Path: `/makerworld/trending`
+- File: `docs/routes/makerworld/makerworld-trending.md`
+- File Name: `makerworld-trending.md`
 - Categories: `design`
 - Maintainers: `TonyRL`
 
 ### User Uploads
-- Route ID: `makerworld:/user/:handle/upload`
-- Route Path: `/user/:handle/upload`
-- File: `docs/routes/makerworld/user-handle-upload.md`
-- File Name: `user-handle-upload.md`
+- Route ID: `makerworld:/makerworld/user/:handle/upload`
+- Route Path: `/makerworld/user/:handle/upload`
+- File: `docs/routes/makerworld/makerworld-user-handle-upload.md`
+- File Name: `makerworld-user-handle-upload.md`
 - Categories: `design`
 - Maintainers: `TonyRL`

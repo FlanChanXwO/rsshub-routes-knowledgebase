@@ -4,16 +4,16 @@
 - Namespace: `mirror`
 - Display Name: `Mirror`
 - URL: `mirror.xyz`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `mirror, mirror.xyz`
 - Route Count: `1`
 
 ## Routes
 
 ### User
-- Route ID: `mirror:/:id`
-- Route Path: `/:id`
-- File: `docs/routes/mirror/id.md`
-- File Name: `id.md`
+- Route ID: `mirror:/mirror/:id`
+- Route Path: `/mirror/:id`
+- File: `docs/routes/mirror/mirror-id.md`
+- File Name: `mirror-id.md`
 - Categories: `new-media`
 - Maintainers: `fifteen42, rde9, nczitzk`

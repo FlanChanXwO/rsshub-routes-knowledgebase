@@ -4,16 +4,16 @@
 - Namespace: `changba`
 - Display Name: `唱吧`
 - URL: `changba.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `changba, changba.com, 唱吧`
 - Route Count: `1`
 
 ## Routes
 
 ### 用户
-- Route ID: `changba:/:userid`
-- Route Path: `/:userid`
-- File: `docs/routes/changba/userid.md`
-- File Name: `userid.md`
+- Route ID: `changba:/changba/:userid`
+- Route Path: `/changba/:userid`
+- File: `docs/routes/changba/changba-userid.md`
+- File Name: `changba-userid.md`
 - Categories: `social-media`
 - Maintainers: `kt286, xizeyoupan, pseudoyu`

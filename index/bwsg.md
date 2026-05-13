@@ -11,9 +11,9 @@
 ## Routes
 
 ### Angebote
-- Route ID: `bwsg:*`
-- Route Path: `*`
-- File: `docs/routes/bwsg/index.md`
-- File Name: `index.md`
+- Route ID: `bwsg:/bwsg*`
+- Route Path: `/bwsg*`
+- File: `docs/routes/bwsg/bwsg.md`
+- File Name: `bwsg.md`
 - Categories: `other`
 - Maintainers: `sk22`

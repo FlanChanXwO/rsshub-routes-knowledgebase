@@ -4,16 +4,16 @@
 - Namespace: `fanxinzhui`
 - Display Name: `追新番`
 - URL: `fanxinzhui.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `fanxinzhui, fanxinzhui.com, 追新番`
 - Route Count: `1`
 
 ## Routes
 
 ### 最近更新
-- Route ID: `fanxinzhui:/`
-- Route Path: `/`
-- File: `docs/routes/fanxinzhui/index.md`
-- File Name: `index.md`
+- Route ID: `fanxinzhui:/fanxinzhui/`
+- Route Path: `/fanxinzhui/`
+- File: `docs/routes/fanxinzhui/fanxinzhui.md`
+- File Name: `fanxinzhui.md`
 - Categories: `multimedia`
 - Maintainers: `nczitzk`

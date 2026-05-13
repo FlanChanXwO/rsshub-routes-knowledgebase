@@ -4,72 +4,72 @@
 - Namespace: `bangumi.tv`
 - Display Name: `Bangumi 番组计划`
 - URL: `bangumi.tv`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `bangumi, bangumi 番组计划, bangumi.tv`
 - Route Count: `8`
 
 ## Routes
 
 ### 成员关注榜
-- Route ID: `bangumi.tv:/:type/followrank`
-- Route Path: `/:type/followrank`
-- File: `docs/routes/bangumi-tv/type-followrank.md`
-- File Name: `type-followrank.md`
+- Route ID: `bangumi.tv:/bangumi.tv/:type/followrank`
+- Route Path: `/bangumi.tv/:type/followrank`
+- File: `docs/routes/bangumi-tv/bangumi-tv-type-followrank.md`
+- File Name: `bangumi-tv-type-followrank.md`
 - Categories: `anime`
 - Maintainers: `honue, zhoukuncheng, NekoAria`
 
 ### 放送列表
-- Route ID: `bangumi.tv:/calendar/today`
-- Route Path: `/calendar/today`
-- File: `docs/routes/bangumi-tv/calendar-today.md`
-- File Name: `calendar-today.md`
+- Route ID: `bangumi.tv:/bangumi.tv/calendar/today`
+- Route Path: `/bangumi.tv/calendar/today`
+- File: `docs/routes/bangumi-tv/bangumi-tv-calendar-today.md`
+- File Name: `bangumi-tv-calendar-today.md`
 - Categories: `anime`
 - Maintainers: `magic-akari`
 
 ### 小组话题
-- Route ID: `bangumi.tv:/group/:id`
-- Route Path: `/group/:id`
-- File: `docs/routes/bangumi-tv/group-id.md`
-- File Name: `group-id.md`
+- Route ID: `bangumi.tv:/bangumi.tv/group/:id`
+- Route Path: `/bangumi.tv/group/:id`
+- File: `docs/routes/bangumi-tv/bangumi-tv-group-id.md`
+- File Name: `bangumi-tv-group-id.md`
 - Categories: `anime`
 - Maintainers: `SettingDust`
 
 ### 现实人物的新作品
-- Route ID: `bangumi.tv:/person/:id`
-- Route Path: `/person/:id`
-- File: `docs/routes/bangumi-tv/person-id.md`
-- File Name: `person-id.md`
+- Route ID: `bangumi.tv:/bangumi.tv/person/:id`
+- Route Path: `/bangumi.tv/person/:id`
+- File: `docs/routes/bangumi-tv/bangumi-tv-person-id.md`
+- File Name: `bangumi-tv-person-id.md`
 - Categories: `anime`
 - Maintainers: `ylc395`
 
 ### 条目的通用路由格式
-- Route ID: `bangumi.tv:/subject/:id/:type?/:showOriginalName?`
-- Route Path: `/subject/:id/:type?/:showOriginalName?`
-- File: `docs/routes/bangumi-tv/subject-id-type-showoriginalname.md`
-- File Name: `subject-id-type-showoriginalname.md`
+- Route ID: `bangumi.tv:/bangumi.tv/subject/:id/:type?/:showOriginalName?`
+- Route Path: `/bangumi.tv/subject/:id/:type?/:showOriginalName?`
+- File: `docs/routes/bangumi-tv/bangumi-tv-subject-id-type-showoriginalname.md`
+- File Name: `bangumi-tv-subject-id-type-showoriginalname.md`
 - Categories: `anime`
 - Maintainers: `JimenezLi`
 
 ### 小组话题的新回复
-- Route ID: `bangumi.tv:/topic/:id`
-- Route Path: `/topic/:id`
-- File: `docs/routes/bangumi-tv/topic-id.md`
-- File Name: `topic-id.md`
+- Route ID: `bangumi.tv:/bangumi.tv/topic/:id`
+- Route Path: `/bangumi.tv/topic/:id`
+- File: `docs/routes/bangumi-tv/bangumi-tv-topic-id.md`
+- File Name: `bangumi-tv-topic-id.md`
 - Categories: `anime`
 - Maintainers: `ylc395`
 
 ### 用户日志
-- Route ID: `bangumi.tv:/user/blog/:id`
-- Route Path: `/user/blog/:id`
-- File: `docs/routes/bangumi-tv/user-blog-id.md`
-- File Name: `user-blog-id.md`
+- Route ID: `bangumi.tv:/bangumi.tv/user/blog/:id`
+- Route Path: `/bangumi.tv/user/blog/:id`
+- File: `docs/routes/bangumi-tv/bangumi-tv-user-blog-id.md`
+- File Name: `bangumi-tv-user-blog-id.md`
 - Categories: `anime`
 - Maintainers: `nczitzk`
 
 ### Bangumi 用户收藏列表
-- Route ID: `bangumi.tv:/user/collections/:id/:subjectType/:type`
-- Route Path: `/user/collections/:id/:subjectType/:type`
-- File: `docs/routes/bangumi-tv/user-collections-id-subjecttype-type.md`
-- File Name: `user-collections-id-subjecttype-type.md`
+- Route ID: `bangumi.tv:/bangumi.tv/user/collections/:id/:subjectType/:type`
+- Route Path: `/bangumi.tv/user/collections/:id/:subjectType/:type`
+- File: `docs/routes/bangumi-tv/bangumi-tv-user-collections-id-subjecttype-type.md`
+- File Name: `bangumi-tv-user-collections-id-subjecttype-type.md`
 - Categories: `anime`
 - Maintainers: `youyou-sudo, honue`

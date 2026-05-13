@@ -4,16 +4,16 @@
 - Namespace: `cbaigui`
 - Display Name: `纪妖`
 - URL: `cbaigui.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cbaigui, cbaigui.com, 纪妖`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `cbaigui:*`
-- Route Path: `*`
-- File: `docs/routes/cbaigui/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `cbaigui:/cbaigui*`
+- Route Path: `/cbaigui*`
+- File: `docs/routes/cbaigui/cbaigui.md`
+- File Name: `cbaigui.md`
+- Categories: `other`
 - Maintainers: `None`

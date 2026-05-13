@@ -4,16 +4,16 @@
 - Namespace: `zodgame`
 - Display Name: `ZodGame`
 - URL: `zodgame.xyz`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `zodgame, zodgame.xyz`
 - Route Count: `1`
 
 ## Routes
 
 ### forum
-- Route ID: `zodgame:/forum/:fid?`
-- Route Path: `/forum/:fid?`
-- File: `docs/routes/zodgame/forum-fid.md`
-- File Name: `forum-fid.md`
+- Route ID: `zodgame:/zodgame/forum/:fid?`
+- Route Path: `/zodgame/forum/:fid?`
+- File: `docs/routes/zodgame/zodgame-forum-fid.md`
+- File Name: `zodgame-forum-fid.md`
 - Categories: `bbs`
 - Maintainers: `FeCCC`

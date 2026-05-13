@@ -4,16 +4,16 @@
 - Namespace: `wmc-bj`
 - Display Name: `World Meteorological Centre Beijing`
 - URL: `wmc-bj.net`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `wmc-bj, wmc-bj.net, world meteorological centre beijing`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `wmc-bj:/publish/:category{.+}?`
-- Route Path: `/publish/:category{.+}?`
-- File: `docs/routes/wmc-bj/publish-category.md`
-- File Name: `publish-category.md`
-- Categories: `None`
+- Route ID: `wmc-bj:/wmc-bj/publish/:category{.+}?`
+- Route Path: `/wmc-bj/publish/:category{.+}?`
+- File: `docs/routes/wmc-bj/wmc-bj-publish-category.md`
+- File Name: `wmc-bj-publish-category.md`
+- Categories: `other`
 - Maintainers: `None`

@@ -4,16 +4,16 @@
 - Namespace: `soundon`
 - Display Name: `SoundOn`
 - URL: `player.soundon.fm`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `player, player.soundon.fm, soundon`
 - Route Count: `1`
 
 ## Routes
 
 ### Podcast
-- Route ID: `soundon:/p/:id`
-- Route Path: `/p/:id`
-- File: `docs/routes/soundon/p-id.md`
-- File Name: `p-id.md`
+- Route ID: `soundon:/soundon/p/:id`
+- Route Path: `/soundon/p/:id`
+- File: `docs/routes/soundon/soundon-p-id.md`
+- File Name: `soundon-p-id.md`
 - Categories: `multimedia`
 - Maintainers: `TonyRL`

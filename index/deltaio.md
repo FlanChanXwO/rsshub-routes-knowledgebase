@@ -4,16 +4,16 @@
 - Namespace: `deltaio`
 - Display Name: `Delta Lake`
 - URL: `delta.io`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `delta, delta lake, delta.io, deltaio`
 - Route Count: `1`
 
 ## Routes
 
 ### Blogs
-- Route ID: `deltaio:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/deltaio/blog.md`
-- File Name: `blog.md`
+- Route ID: `deltaio:/deltaio/blog`
+- Route Path: `/deltaio/blog`
+- File: `docs/routes/deltaio/deltaio-blog.md`
+- File Name: `deltaio-blog.md`
 - Categories: `blog`
 - Maintainers: `RengarLee`

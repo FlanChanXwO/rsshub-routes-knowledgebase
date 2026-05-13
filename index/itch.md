@@ -4,32 +4,32 @@
 - Namespace: `itch`
 - Display Name: `itch.io`
 - URL: `itch.io`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `itch, itch.io`
 - Route Count: `3`
 
 ## Routes
 
 ### Unknown
-- Route ID: `itch:*`
-- Route Path: `*`
-- File: `docs/routes/itch/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `itch:/itch*`
+- Route Path: `/itch*`
+- File: `docs/routes/itch/itch.md`
+- File Name: `itch.md`
+- Categories: `game`
 - Maintainers: `None`
 
 ### Developer Logs
-- Route ID: `itch:/devlog/:user/:id`
-- Route Path: `/devlog/:user/:id`
-- File: `docs/routes/itch/devlog-user-id.md`
-- File Name: `devlog-user-id.md`
+- Route ID: `itch:/itch/devlog/:user/:id`
+- Route Path: `/itch/devlog/:user/:id`
+- File: `docs/routes/itch/itch-devlog-user-id.md`
+- File Name: `itch-devlog-user-id.md`
 - Categories: `game`
 - Maintainers: `nczitzk`
 
 ### Posts
-- Route ID: `itch:/posts/:topic/:id`
-- Route Path: `/posts/:topic/:id`
-- File: `docs/routes/itch/posts-topic-id.md`
-- File Name: `posts-topic-id.md`
+- Route ID: `itch:/itch/posts/:topic/:id`
+- Route Path: `/itch/posts/:topic/:id`
+- File: `docs/routes/itch/itch-posts-topic-id.md`
+- File Name: `itch-posts-topic-id.md`
 - Categories: `game`
 - Maintainers: `nczitzk`

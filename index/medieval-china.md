@@ -4,16 +4,16 @@
 - Namespace: `medieval-china`
 - Display Name: `中国的中古`
 - URL: `medieval-china.club`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `medieval-china, medieval-china.club, 中国的中古`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `medieval-china:/`
-- Route Path: `/`
-- File: `docs/routes/medieval-china/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `medieval-china:/medieval-china/`
+- Route Path: `/medieval-china/`
+- File: `docs/routes/medieval-china/medieval-china.md`
+- File Name: `medieval-china.md`
+- Categories: `other`
 - Maintainers: `artefaritaKuniklo`

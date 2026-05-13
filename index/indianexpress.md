@@ -4,16 +4,16 @@
 - Namespace: `indianexpress`
 - Display Name: `The Indian Express`
 - URL: `indianexpress.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `indianexpress, indianexpress.com, the indian express`
 - Route Count: `1`
 
 ## Routes
 
 ### Section
-- Route ID: `indianexpress:/section/:id{.+}?`
-- Route Path: `/section/:id{.+}?`
-- File: `docs/routes/indianexpress/section-id.md`
-- File Name: `section-id.md`
+- Route ID: `indianexpress:/indianexpress/section/:id{.+}?`
+- Route Path: `/indianexpress/section/:id{.+}?`
+- File: `docs/routes/indianexpress/indianexpress-section-id.md`
+- File Name: `indianexpress-section-id.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`

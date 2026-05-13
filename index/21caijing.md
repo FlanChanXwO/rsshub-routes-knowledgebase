@@ -11,9 +11,9 @@
 ## Routes
 
 ### 频道
-- Route ID: `21caijing:/channel/:name{.+}?`
-- Route Path: `/channel/:name{.+}?`
-- File: `docs/routes/21caijing/channel-name.md`
-- File Name: `channel-name.md`
+- Route ID: `21caijing:/21caijing/channel/:name{.+}?`
+- Route Path: `/21caijing/channel/:name{.+}?`
+- File: `docs/routes/21caijing/21caijing-channel-name.md`
+- File Name: `21caijing-channel-name.md`
 - Categories: `finance`
 - Maintainers: `nczitzk`

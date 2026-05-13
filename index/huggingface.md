@@ -4,48 +4,56 @@
 - Namespace: `huggingface`
 - Display Name: `Huggingface`
 - URL: `huggingface.co`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `huggingface, huggingface.co`
-- Route Count: `5`
+- Route Count: `6`
 
 ## Routes
 
+### User Likes Activity
+- Route ID: `huggingface:/huggingface/activity/:user/likes`
+- Route Path: `/huggingface/activity/:user/likes`
+- File: `docs/routes/huggingface/huggingface-activity-user-likes.md`
+- File Name: `huggingface-activity-user-likes.md`
+- Categories: `programming`
+- Maintainers: `dotwee`
+
 ### 英文博客
-- Route ID: `huggingface:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/huggingface/blog.md`
-- File Name: `blog.md`
+- Route ID: `huggingface:/huggingface/blog`
+- Route Path: `/huggingface/blog`
+- File: `docs/routes/huggingface/huggingface-blog.md`
+- File Name: `huggingface-blog.md`
 - Categories: `programming`
 - Maintainers: `cesaryuan, zcf0508`
 
 ### Community Articles
-- Route ID: `huggingface:/blog-community/:sort?`
-- Route Path: `/blog-community/:sort?`
-- File: `docs/routes/huggingface/blog-community-sort.md`
-- File Name: `blog-community-sort.md`
+- Route ID: `huggingface:/huggingface/blog-community/:sort?`
+- Route Path: `/huggingface/blog-community/:sort?`
+- File: `docs/routes/huggingface/huggingface-blog-community-sort.md`
+- File Name: `huggingface-blog-community-sort.md`
 - Categories: `programming`
 - Maintainers: `yuguorui`
 
 ### 中文博客
-- Route ID: `huggingface:/blog-zh`
-- Route Path: `/blog-zh`
-- File: `docs/routes/huggingface/blog-zh.md`
-- File Name: `blog-zh.md`
-- Categories: `programming`
+- Route ID: `huggingface:/huggingface/blog-zh`
+- Route Path: `/huggingface/blog-zh`
+- File: `docs/routes/huggingface/huggingface-blog-zh.md`
+- File Name: `huggingface-blog-zh.md`
+- Categories: `programming, popular`
 - Maintainers: `zcf0508`
 
 ### Daily Papers
-- Route ID: `huggingface:/daily-papers/:cycle?/:voteFliter?`
-- Route Path: `/daily-papers/:cycle?/:voteFliter?`
-- File: `docs/routes/huggingface/daily-papers-cycle-votefliter.md`
-- File Name: `daily-papers-cycle-votefliter.md`
+- Route ID: `huggingface:/huggingface/daily-papers/:cycle?/:voteFliter?`
+- Route Path: `/huggingface/daily-papers/:cycle?/:voteFliter?`
+- File: `docs/routes/huggingface/huggingface-daily-papers-cycle-votefliter.md`
+- File Name: `huggingface-daily-papers-cycle-votefliter.md`
 - Categories: `programming`
 - Maintainers: `zeyugao, ovo-tim`
 
 ### Group Models
-- Route ID: `huggingface:/models/:group`
-- Route Path: `/models/:group`
-- File: `docs/routes/huggingface/models-group.md`
-- File Name: `models-group.md`
+- Route ID: `huggingface:/huggingface/models/:group`
+- Route Path: `/huggingface/models/:group`
+- File: `docs/routes/huggingface/huggingface-models-group.md`
+- File Name: `huggingface-models-group.md`
 - Categories: `programming`
 - Maintainers: `WuNein`

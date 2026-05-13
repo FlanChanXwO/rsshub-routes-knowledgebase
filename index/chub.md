@@ -4,16 +4,16 @@
 - Namespace: `chub`
 - Display Name: `Chub`
 - URL: `chub.ai`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `chub, chub.ai`
 - Route Count: `1`
 
 ## Routes
 
 ### Characters
-- Route ID: `chub:/characters`
-- Route Path: `/characters`
-- File: `docs/routes/chub/characters.md`
-- File Name: `characters.md`
+- Route ID: `chub:/chub/characters`
+- Route Path: `/chub/characters`
+- File: `docs/routes/chub/chub-characters.md`
+- File Name: `chub-characters.md`
 - Categories: `new-media`
 - Maintainers: `flameleaf`

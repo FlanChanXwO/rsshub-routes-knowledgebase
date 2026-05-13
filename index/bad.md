@@ -4,16 +4,16 @@
 - Namespace: `bad`
 - Display Name: `Bad.news`
 - URL: `bad.news`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `bad, bad.news`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `bad:*`
-- Route Path: `*`
-- File: `docs/routes/bad/index.md`
-- File Name: `index.md`
-- Categories: `None`
+- Route ID: `bad:/bad*`
+- Route Path: `/bad*`
+- File: `docs/routes/bad/bad.md`
+- File Name: `bad.md`
+- Categories: `other`
 - Maintainers: `None`

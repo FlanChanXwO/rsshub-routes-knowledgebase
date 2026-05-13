@@ -4,16 +4,16 @@
 - Namespace: `cfmmc`
 - Display Name: `中国期货市场监控中心`
 - URL: `cfmmc.com`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `cfmmc, cfmmc.com, 中国期货市场监控中心`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `cfmmc:/:id{.+}?`
-- Route Path: `/:id{.+}?`
-- File: `docs/routes/cfmmc/id.md`
-- File Name: `id.md`
-- Categories: `None`
+- Route ID: `cfmmc:/cfmmc/:id{.+}?`
+- Route Path: `/cfmmc/:id{.+}?`
+- File: `docs/routes/cfmmc/cfmmc-id.md`
+- File Name: `cfmmc-id.md`
+- Categories: `other`
 - Maintainers: `None`

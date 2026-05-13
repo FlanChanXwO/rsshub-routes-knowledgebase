@@ -4,16 +4,16 @@
 - Namespace: `geekpark`
 - Display Name: `极客公园`
 - URL: `geekpark.net`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `geekpark, geekpark.net, 极客公园`
 - Route Count: `1`
 
 ## Routes
 
 ### 栏目
-- Route ID: `geekpark:/:column?`
-- Route Path: `/:column?`
-- File: `docs/routes/geekpark/column.md`
-- File Name: `column.md`
-- Categories: `new-media`
+- Route ID: `geekpark:/geekpark/:column?`
+- Route Path: `/geekpark/:column?`
+- File: `docs/routes/geekpark/geekpark-column.md`
+- File Name: `geekpark-column.md`
+- Categories: `new-media, popular`
 - Maintainers: `nczitzk`

@@ -4,24 +4,24 @@
 - Namespace: `ollama`
 - Display Name: `Ollama`
 - URL: `ollama.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `ollama, ollama.com`
 - Route Count: `2`
 
 ## Routes
 
 ### Blog
-- Route ID: `ollama:/blog`
-- Route Path: `/blog`
-- File: `docs/routes/ollama/blog.md`
-- File Name: `blog.md`
+- Route ID: `ollama:/ollama/blog`
+- Route Path: `/ollama/blog`
+- File: `docs/routes/ollama/ollama-blog.md`
+- File Name: `ollama-blog.md`
 - Categories: `programming`
 - Maintainers: `gavrilov`
 
 ### Models
-- Route ID: `ollama:/library`
-- Route Path: `/library`
-- File: `docs/routes/ollama/library.md`
-- File Name: `library.md`
+- Route ID: `ollama:/ollama/library`
+- Route Path: `/ollama/library`
+- File: `docs/routes/ollama/ollama-library.md`
+- File Name: `ollama-library.md`
 - Categories: `programming`
 - Maintainers: `Nick22nd, gavrilov`

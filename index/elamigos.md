@@ -4,16 +4,16 @@
 - Namespace: `elamigos`
 - Display Name: `ElAmigos`
 - URL: `elamigos.site`
-- Language: `en-gb`
+- Language: `_None_`
 - Aliases: `elamigos, elamigos.site`
 - Route Count: `1`
 
 ## Routes
 
 ### Releases
-- Route ID: `elamigos:/games`
-- Route Path: `/games`
-- File: `docs/routes/elamigos/games.md`
-- File Name: `games.md`
+- Route ID: `elamigos:/elamigos/games`
+- Route Path: `/elamigos/games`
+- File: `docs/routes/elamigos/elamigos-games.md`
+- File Name: `elamigos-games.md`
 - Categories: `game`
 - Maintainers: `Kylon92`

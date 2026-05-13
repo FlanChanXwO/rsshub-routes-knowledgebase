@@ -4,24 +4,24 @@
 - Namespace: `coolidge`
 - Display Name: `Coolidge Corner Theatre`
 - URL: `coolidge.org`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `coolidge, coolidge corner theatre, coolidge.org`
 - Route Count: `2`
 
 ## Routes
 
 ### Film Guide
-- Route ID: `coolidge:/film-guide`
-- Route Path: `/film-guide`
-- File: `docs/routes/coolidge/film-guide.md`
-- File Name: `film-guide.md`
+- Route ID: `coolidge:/coolidge/film-guide`
+- Route Path: `/coolidge/film-guide`
+- File: `docs/routes/coolidge/coolidge-film-guide.md`
+- File Name: `coolidge-film-guide.md`
 - Categories: `blog`
 - Maintainers: `johan456789`
 
 ### News
-- Route ID: `coolidge:/news`
-- Route Path: `/news`
-- File: `docs/routes/coolidge/news.md`
-- File Name: `news.md`
+- Route ID: `coolidge:/coolidge/news`
+- Route Path: `/coolidge/news`
+- File: `docs/routes/coolidge/coolidge-news.md`
+- File Name: `coolidge-news.md`
 - Categories: `blog`
 - Maintainers: `johan456789`

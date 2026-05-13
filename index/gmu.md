@@ -4,24 +4,24 @@
 - Namespace: `gmu`
 - Display Name: `赣南医科大学`
 - URL: `gmu.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `gmu, gmu.cn, 赣南医科大学`
 - Route Count: `2`
 
 ## Routes
 
 ### 新闻中心
-- Route ID: `gmu:/news/:type?`
-- Route Path: `/news/:type?`
-- File: `docs/routes/gmu/news-type.md`
-- File Name: `news-type.md`
+- Route ID: `gmu:/gmu/news/:type?`
+- Route Path: `/gmu/news/:type?`
+- File: `docs/routes/gmu/gmu-news-type.md`
+- File Name: `gmu-news-type.md`
 - Categories: `university`
 - Maintainers: `FrankFahey`
 
 ### 研究生院
-- Route ID: `gmu:/yjs/:type/:subtype`
-- Route Path: `/yjs/:type/:subtype`
-- File: `docs/routes/gmu/yjs-type-subtype.md`
-- File Name: `yjs-type-subtype.md`
+- Route ID: `gmu:/gmu/yjs/:type/:subtype`
+- Route Path: `/gmu/yjs/:type/:subtype`
+- File: `docs/routes/gmu/gmu-yjs-type-subtype.md`
+- File Name: `gmu-yjs-type-subtype.md`
 - Categories: `university`
 - Maintainers: `FrankFahey`

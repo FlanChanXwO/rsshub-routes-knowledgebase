@@ -1,0 +1,83 @@
+# Inoreader - RSS
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `inoreader`
+- Namespace Name: `Inoreader`
+- Route Path: `/inoreader/rss/:user/:tag`
+- Route Name: `RSS`
+- Example: `/inoreader/rss/1005137674/user-favorites`
+- URL: `inoreader.com`
+- Language: `_None_`
+- Categories: `reading`
+- Maintainers: `EthanWng97`
+- Source Location: `rss.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `user`: user id, the interger after user/ in the example URL
+- `tag`: tag, the string after tag/ in the example URL
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "reading"
+  ],
+  "example": "/inoreader/rss/1005137674/user-favorites",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 10,
+  "location": "rss.ts",
+  "maintainers": [
+    "EthanWng97"
+  ],
+  "name": "RSS",
+  "parameters": {
+    "tag": "tag, the string after tag/ in the example URL",
+    "user": "user id, the interger after user/ in the example URL"
+  },
+  "path": "/rss/:user/:tag",
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "Yifan's favorite articles on Inoreader - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "60319382185805824",
+      "image": "https://www.inoreader.com/brand/img/ino_app_icon.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.inoreader.com/stream/user/1005137674/tag/user-favorites/view/html",
+      "title": "Yifan's favorite articles on Inoreader",
+      "type": "feed",
+      "url": "rsshub://inoreader/rss/1005137674/user-favorites"
+    }
+  ],
+  "view": 0
+}
+```

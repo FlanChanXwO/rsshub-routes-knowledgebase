@@ -11,9 +11,9 @@
 ## Routes
 
 ### CATTI 考试消息
-- Route ID: `catti:/news/:category`
-- Route Path: `/news/:category`
-- File: `docs/routes/catti/news-category.md`
-- File Name: `news-category.md`
+- Route ID: `catti:/catti/news/:category`
+- Route Path: `/catti/news/:category`
+- File: `docs/routes/catti/catti-news-category.md`
+- File Name: `catti-news-category.md`
 - Categories: `study`
 - Maintainers: `PrinOrange`

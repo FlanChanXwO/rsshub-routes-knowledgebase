@@ -1,0 +1,120 @@
+# 东方财富 - 个人中心帖子
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `eastmoney`
+- Namespace Name: `东方财富`
+- Route Path: `/eastmoney/gerenzhongxin/guba/:uid`
+- Route Name: `个人中心帖子`
+- Example: `/eastmoney/gerenzhongxin/guba/2922094262312522`
+- URL: `data.eastmoney.com`
+- Language: `_None_`
+- Categories: `finance`
+- Maintainers: `AwesomeDog`
+- Source Location: `gerenzhongxin/guba.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `uid`: 用户id,即用户主页网址末尾的数字
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `guba.eastmoney.com`
+### Rule 2
+- `source`:
+  - `caifuhao.eastmoney.com`
+### Rule 3
+- `source`:
+  - `i.eastmoney.com/:uid`
+- `target`: `/gerenzhongxin/guba/:uid`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "finance"
+  ],
+  "example": "/eastmoney/gerenzhongxin/guba/2922094262312522",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 5,
+  "location": "gerenzhongxin/guba.ts",
+  "maintainers": [
+    "AwesomeDog"
+  ],
+  "name": "个人中心帖子",
+  "parameters": {
+    "uid": "用户id,即用户主页网址末尾的数字"
+  },
+  "path": "/gerenzhongxin/guba/:uid",
+  "radar": [
+    {
+      "source": [
+        "guba.eastmoney.com"
+      ]
+    },
+    {
+      "source": [
+        "caifuhao.eastmoney.com"
+      ]
+    },
+    {
+      "source": [
+        "i.eastmoney.com/:uid"
+      ],
+      "target": "/gerenzhongxin/guba/:uid"
+    }
+  ],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "人屠将军典韦 的东财帖子 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "210561879094846464",
+      "image": "https://avator.eastmoney.com/qface/4097355943952560/360",
+      "ownerUserId": null,
+      "siteUrl": "https://i.eastmoney.com/4097355943952560#guba",
+      "title": "人屠将军典韦 的东财帖子",
+      "type": "feed",
+      "url": "rsshub://eastmoney/gerenzhongxin/guba/4097355943952560"
+    },
+    {
+      "description": "ST专业户ST 的东财帖子 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "210572184043883520",
+      "image": "https://avator.eastmoney.com/qface/5330513681136390/360",
+      "ownerUserId": null,
+      "siteUrl": "https://i.eastmoney.com/5330513681136390#guba",
+      "title": "ST专业户ST 的东财帖子",
+      "type": "feed",
+      "url": "rsshub://eastmoney/gerenzhongxin/guba/5330513681136390"
+    }
+  ],
+  "view": 0
+}
+```

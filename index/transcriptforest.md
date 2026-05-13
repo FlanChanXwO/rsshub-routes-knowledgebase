@@ -4,16 +4,16 @@
 - Namespace: `transcriptforest`
 - Display Name: `Transcript Forest`
 - URL: `www.transcriptforest.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `transcript forest, transcriptforest, transcriptforest.com, www, www.transcriptforest.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `transcriptforest:/:channel?`
-- Route Path: `/:channel?`
-- File: `docs/routes/transcriptforest/channel.md`
-- File Name: `channel.md`
-- Categories: `None`
+- Route ID: `transcriptforest:/transcriptforest/:channel?`
+- Route Path: `/transcriptforest/:channel?`
+- File: `docs/routes/transcriptforest/transcriptforest-channel.md`
+- File Name: `transcriptforest-channel.md`
+- Categories: `other`
 - Maintainers: `nczitzk`

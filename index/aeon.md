@@ -4,24 +4,24 @@
 - Namespace: `aeon`
 - Display Name: `AEON`
 - URL: `aeon.co`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `aeon, aeon.co`
 - Route Count: `2`
 
 ## Routes
 
 ### Types
-- Route ID: `aeon:/:type`
-- Route Path: `/:type`
-- File: `docs/routes/aeon/type.md`
-- File Name: `type.md`
+- Route ID: `aeon:/aeon/:type`
+- Route Path: `/aeon/:type`
+- File: `docs/routes/aeon/aeon-type.md`
+- File Name: `aeon-type.md`
 - Categories: `new-media`
 - Maintainers: `emdoe`
 
 ### Categories
-- Route ID: `aeon:/category/:category`
-- Route Path: `/category/:category`
-- File: `docs/routes/aeon/category-category.md`
-- File Name: `category-category.md`
+- Route ID: `aeon:/aeon/category/:category`
+- Route Path: `/aeon/category/:category`
+- File: `docs/routes/aeon/aeon-category-category.md`
+- File Name: `aeon-category-category.md`
 - Categories: `new-media`
 - Maintainers: `emdoe`

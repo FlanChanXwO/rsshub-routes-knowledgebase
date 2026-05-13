@@ -11,9 +11,9 @@
 ## Routes
 
 ### News
-- Route ID: `koreaherald:/:category{.+}?`
-- Route Path: `/:category{.+}?`
-- File: `docs/routes/koreaherald/category.md`
-- File Name: `category.md`
+- Route ID: `koreaherald:/koreaherald/:category{.+}?`
+- Route Path: `/koreaherald/:category{.+}?`
+- File: `docs/routes/koreaherald/koreaherald-category.md`
+- File Name: `koreaherald-category.md`
 - Categories: `traditional-media`
 - Maintainers: `quiniapiezoelectricity`

@@ -4,16 +4,16 @@
 - Namespace: `raspberrypi`
 - Display Name: `Raspberry Pi`
 - URL: `raspberrypi.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `raspberry pi, raspberrypi, raspberrypi.com`
 - Route Count: `1`
 
 ## Routes
 
 ### Official Magazine
-- Route ID: `raspberrypi:/magazine`
-- Route Path: `/magazine`
-- File: `docs/routes/raspberrypi/magazine.md`
-- File Name: `magazine.md`
+- Route ID: `raspberrypi:/raspberrypi/magazine`
+- Route Path: `/raspberrypi/magazine`
+- File: `docs/routes/raspberrypi/raspberrypi-magazine.md`
+- File Name: `raspberrypi-magazine.md`
 - Categories: `programming`
 - Maintainers: `nczitzk`

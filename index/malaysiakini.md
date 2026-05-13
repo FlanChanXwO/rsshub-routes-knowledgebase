@@ -4,16 +4,16 @@
 - Namespace: `malaysiakini`
 - Display Name: `Malaysiakini`
 - URL: `malaysiakini.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `malaysiakini, malaysiakini.com`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `malaysiakini:/:lang/:category?`
-- Route Path: `/:lang/:category?`
-- File: `docs/routes/malaysiakini/lang-category.md`
-- File Name: `lang-category.md`
+- Route ID: `malaysiakini:/malaysiakini/:lang/:category?`
+- Route Path: `/malaysiakini/:lang/:category?`
+- File: `docs/routes/malaysiakini/malaysiakini-lang-category.md`
+- File Name: `malaysiakini-lang-category.md`
 - Categories: `new-media`
 - Maintainers: `quiniapiezoelectricity`

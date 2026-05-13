@@ -1,0 +1,66 @@
+# Apple - Design updates
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `apple`
+- Namespace Name: `Apple`
+- Route Path: `/apple/design`
+- Route Name: `Design updates`
+- Example: `/apple/design`
+- URL: `developer.apple.com/design/whats-new/`
+- Language: `_None_`
+- Categories: `design`
+- Maintainers: `jean-jacket`
+- Source Location: `design.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+_None_
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "design"
+  ],
+  "example": "/apple/design",
+  "heat": 103,
+  "location": "design.ts",
+  "maintainers": [
+    "jean-jacket"
+  ],
+  "name": "Design updates",
+  "path": "/design",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected [ …(235) ] to not include '40d2dfd8d2b379475a2750ce0edbde13'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
+  "topFeeds": [
+    {
+      "description": "Apple design updates - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "169399297580068864",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://developer.apple.com/design/whats-new/",
+      "title": "Apple design updates",
+      "type": "feed",
+      "url": "rsshub://apple/design"
+    }
+  ],
+  "url": "developer.apple.com/design/whats-new/"
+}
+```

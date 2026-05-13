@@ -11,9 +11,9 @@
 ## Routes
 
 ### Community Posts
-- Route ID: `digg:/community/:community`
-- Route Path: `/community/:community`
-- File: `docs/routes/digg/community-community.md`
-- File Name: `community-community.md`
+- Route ID: `digg:/digg/community/:community`
+- Route Path: `/digg/community/:community`
+- File: `docs/routes/digg/digg-community-community.md`
+- File Name: `digg-community-community.md`
 - Categories: `social-media`
 - Maintainers: `TonyRL`

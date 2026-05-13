@@ -4,16 +4,16 @@
 - Namespace: `cointelegraph`
 - Display Name: `Cointelegraph`
 - URL: `cointelegraph.com`
-- Language: `en`
+- Language: `_None_`
 - Aliases: `cointelegraph, cointelegraph.com`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `cointelegraph:/`
-- Route Path: `/`
-- File: `docs/routes/cointelegraph/index.md`
-- File Name: `index.md`
+- Route ID: `cointelegraph:/cointelegraph/`
+- Route Path: `/cointelegraph/`
+- File: `docs/routes/cointelegraph/cointelegraph.md`
+- File Name: `cointelegraph.md`
 - Categories: `finance`
 - Maintainers: `pseudoyu`

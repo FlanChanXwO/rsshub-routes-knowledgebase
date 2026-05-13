@@ -4,16 +4,16 @@
 - Namespace: `miyuki`
 - Display Name: `中島みゆき Official`
 - URL: `miyuki.jp`
-- Language: `ja`
+- Language: `_None_`
 - Aliases: `miyuki, miyuki.jp, 中島みゆき official`
 - Route Count: `1`
 
 ## Routes
 
 ### News
-- Route ID: `miyuki:/news`
-- Route Path: `/news`
-- File: `docs/routes/miyuki/news.md`
-- File Name: `news.md`
+- Route ID: `miyuki:/miyuki/news`
+- Route Path: `/miyuki/news`
+- File: `docs/routes/miyuki/miyuki-news.md`
+- File Name: `miyuki-news.md`
 - Categories: `new-media`
 - Maintainers: `KarasuShin`

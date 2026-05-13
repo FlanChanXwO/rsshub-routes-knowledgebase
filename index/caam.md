@@ -4,16 +4,16 @@
 - Namespace: `caam`
 - Display Name: `中国汽车工业协会`
 - URL: `caam.org.cn`
-- Language: `zh-CN`
+- Language: `_None_`
 - Aliases: `caam, caam.org.cn, 中国汽车工业协会`
 - Route Count: `1`
 
 ## Routes
 
 ### Unknown
-- Route ID: `caam:/:category?`
-- Route Path: `/:category?`
-- File: `docs/routes/caam/category.md`
-- File Name: `category.md`
-- Categories: `None`
+- Route ID: `caam:/caam/:category?`
+- Route Path: `/caam/:category?`
+- File: `docs/routes/caam/caam-category.md`
+- File Name: `caam-category.md`
+- Categories: `other`
 - Maintainers: `nczitzk`
