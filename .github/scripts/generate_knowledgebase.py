@@ -353,10 +353,8 @@ def build_metadata(
     documents: list[Document],
     namespaces_index: str,
     namespace_indexes: dict[str, str],
-    root_readme: str,
     source_repo: str,
     source_revision: str,
-    generated_at: str,
 ) -> dict[str, Any]:
     files: list[dict[str, str]] = [
         {
@@ -383,7 +381,6 @@ def build_metadata(
 
     metadata = {
         "version": 1,
-        "generated_at": generated_at,
         "source": {
             "repo": source_repo,
             "revision": source_revision,
@@ -474,10 +471,8 @@ def main() -> int:
         documents,
         namespaces_index,
         namespace_indexes,
-        root_readme,
         args.source_repo,
         args.source_revision,
-        generated_at,
     )
     write_text(output_dir / "metadata.json", dump_json(metadata))
 
