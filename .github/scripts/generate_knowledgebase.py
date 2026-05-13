@@ -360,14 +360,6 @@ def build_metadata(
 ) -> dict[str, Any]:
     files: list[dict[str, str]] = [
         {
-            "path": "README.md",
-            "sha256": sha256_text(root_readme),
-        },
-        {
-            "path": "metadata.json",
-            "sha256": "",
-        },
-        {
             "path": "index/namespaces.md",
             "sha256": sha256_text(namespaces_index),
         },
@@ -404,8 +396,6 @@ def build_metadata(
         },
         "files": files,
     }
-    metadata_json = dump_json(metadata)
-    files[1]["sha256"] = sha256_text(metadata_json)
     metadata["stats"]["files"] = len(files)
     return metadata
 
