@@ -1,15 +1,15 @@
-# 中国人民银行 - 文件发布
+# 上海市人民政府 - 文件发布
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/miit/wjfb/:ministry`
 - Route Name: `文件发布`
 - Example: `/gov/miit/wjfb/ghs`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

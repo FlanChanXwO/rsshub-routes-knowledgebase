@@ -1,11 +1,11 @@
-# 中国人民银行 - 中华人民共和国农业农村部 - 新闻
+# 上海市人民政府 - 中华人民共和国农业农村部 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/moa/suburl/:suburl{.+}`
 - Route Name: `中华人民共和国农业农村部 - 新闻`
 - Example: `/gov/moa/suburl/gk/zcjd/`

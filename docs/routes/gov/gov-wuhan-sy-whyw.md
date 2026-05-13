@@ -1,11 +1,11 @@
-# 中国人民银行 - 武汉要闻
+# 上海市人民政府 - 武汉要闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/wuhan/sy/whyw`
 - Route Name: `武汉要闻`
 - Example: `/gov/wuhan/sy/whyw`

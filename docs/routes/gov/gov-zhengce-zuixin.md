@@ -1,11 +1,11 @@
-# 中国人民银行 - 最新政策
+# 上海市人民政府 - 最新政策
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/zhengce/zuixin`
 - Route Name: `最新政策`
 - Example: `/gov/zhengce/zuixin`

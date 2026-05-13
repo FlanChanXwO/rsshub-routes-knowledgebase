@@ -1,15 +1,15 @@
-# 中国人民银行 - 国务院政策文件库
+# 上海市人民政府 - 国务院政策文件库
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/zhengce/zhengceku/:department`
 - Route Name: `国务院政策文件库`
 - Example: `/gov/zhengce/zhengceku/bmwj`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `zxx-457`

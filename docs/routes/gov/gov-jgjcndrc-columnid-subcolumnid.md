@@ -1,11 +1,11 @@
-# 中国人民银行 - 中华人民共和国国家发展和改革委员会价格监测中心
+# 上海市人民政府 - 中华人民共和国国家发展和改革委员会价格监测中心
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/jgjcndrc/:columnId?/:subColumnId?`
 - Route Name: `中华人民共和国国家发展和改革委员会价格监测中心`
 - Example: `/gov/jgjcndrc/1832739866673426433`

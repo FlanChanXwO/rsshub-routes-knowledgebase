@@ -1,15 +1,15 @@
-# 中国人民银行 - 最新消息
+# 上海市人民政府 - 最新消息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/moj/aac/news/:type?`
 - Route Name: `最新消息`
 - Example: `/gov/moj/aac/news`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

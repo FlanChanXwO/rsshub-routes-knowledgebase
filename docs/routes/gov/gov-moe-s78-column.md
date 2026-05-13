@@ -1,15 +1,15 @@
-# 中国人民银行 - 司局通知
+# 上海市人民政府 - 司局通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/moe/s78/:column`
 - Route Name: `司局通知`
 - Example: `/gov/moe/s78/A13`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

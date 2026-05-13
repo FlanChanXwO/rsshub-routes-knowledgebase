@@ -1,15 +1,15 @@
-# 中国人民银行 - 新闻
+# 上海市人民政府 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/moe/:type`
 - Route Name: `新闻`
 - Example: `/gov/moe/policy_anal`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Crawler995`

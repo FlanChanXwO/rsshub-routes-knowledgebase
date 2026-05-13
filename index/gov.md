@@ -1,11 +1,11 @@
-# 中国人民银行 Route Index
+# 上海市人民政府 Route Index
 
 ## Namespace
 - Namespace: `gov`
-- Display Name: `中国人民银行`
-- URL: `pbc.gov.cn`
+- Display Name: `上海市人民政府`
+- URL: `sh.gov.cn`
 - Language: `_None_`
-- Aliases: `gov, pbc, pbc.gov.cn, 中国人民银行`
+- Aliases: `gov, sh, sh.gov.cn, 上海市人民政府`
 - Route Count: `119`
 
 ## Routes

@@ -1,11 +1,11 @@
-# 中国人民银行 - 贵州省教育厅 - 通知公告
+# 上海市人民政府 - 贵州省教育厅 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/guizhou/jyt/tzgg`
 - Route Name: `贵州省教育厅 - 通知公告`
 - Example: `/gov/guizhou/jyt/tzgg`

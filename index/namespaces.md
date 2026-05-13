@@ -3656,9 +3656,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 中国人民银行
+## 上海市人民政府
 - Namespace: `gov`
-- Aliases: `gov, pbc, pbc.gov.cn, 中国人民银行`
+- Aliases: `gov, sh, sh.gov.cn, 上海市人民政府`
 - Route Count: `119`
 - Index File: `index/gov.md`
 

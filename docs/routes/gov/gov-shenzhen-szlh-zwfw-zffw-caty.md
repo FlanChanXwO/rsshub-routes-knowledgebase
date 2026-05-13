@@ -1,15 +1,15 @@
-# 中国人民银行 - 深圳市罗湖区人民政府
+# 上海市人民政府 - 深圳市罗湖区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/shenzhen/szlh/zwfw/zffw/:caty`
 - Route Name: `深圳市罗湖区人民政府`
 - Example: `/gov/shenzhen/szlh/zwfw/zffw/tzgg`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `lonn`

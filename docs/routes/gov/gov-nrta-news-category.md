@@ -1,15 +1,15 @@
-# 中国人民银行 - 分类
+# 上海市人民政府 - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/nrta/news/:category?`
 - Route Name: `分类`
 - Example: `/gov/nrta/news`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `yuxinliu-alex`

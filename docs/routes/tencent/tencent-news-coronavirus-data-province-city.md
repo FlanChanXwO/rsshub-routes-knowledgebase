@@ -11,7 +11,7 @@
 - Example: `_None_`
 - URL: `tencent.com`
 - Language: `_None_`
-- Categories: `programming`
+- Categories: `game`
 - Maintainers: `CaoMeiYouRen`
 - Source Location: `news/coronavirus/data.tsx`
 - Source Module: `_None_`
@@ -33,7 +33,7 @@ _None_
 ```json
 {
   "categories": [
-    "programming"
+    "game"
   ],
   "heat": 0,
   "location": "news/coronavirus/data.tsx",

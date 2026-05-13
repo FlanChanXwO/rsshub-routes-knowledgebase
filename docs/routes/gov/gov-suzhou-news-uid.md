@@ -1,15 +1,15 @@
-# 中国人民银行 - 政府新闻
+# 上海市人民政府 - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/suzhou/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/suzhou/news/news`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, luyuhuang`

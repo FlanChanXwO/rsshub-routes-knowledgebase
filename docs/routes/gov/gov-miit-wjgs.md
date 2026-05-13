@@ -1,15 +1,15 @@
-# 中国人民银行 - 文件公示
+# 上海市人民政府 - 文件公示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/miit/wjgs`
 - Route Name: `文件公示`
 - Example: `/gov/miit/wjgs`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`

@@ -1,15 +1,15 @@
-# 中国人民银行 - 货币政策司公开市场交易公告
+# 上海市人民政府 - 货币政策司公开市场交易公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/pbc/tradeAnnouncement`
 - Route Name: `货币政策司公开市场交易公告`
 - Example: `/gov/pbc/tradeAnnouncement`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`

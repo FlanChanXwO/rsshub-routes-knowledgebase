@@ -1,11 +1,11 @@
-# 中国人民银行 - 通知
+# 上海市人民政府 - 通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/zhejiang/gwy/:category?/:column?`
 - Route Name: `通知`
 - Example: `/gov/zhejiang/gwy/1`

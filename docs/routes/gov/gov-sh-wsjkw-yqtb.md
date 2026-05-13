@@ -1,11 +1,11 @@
-# 中国人民银行 - 上海卫健委 疫情通报
+# 上海市人民政府 - 上海卫健委 疫情通报
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/sh/wsjkw/yqtb`
 - Route Name: `上海卫健委 疫情通报`
 - Example: `/gov/sh/wsjkw/yqtb`

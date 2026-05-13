@@ -1,15 +1,15 @@
-# 中国人民银行 - 省科学技术厅
+# 上海市人民政府 - 省科学技术厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/shaanxi/kjt/:id?`
 - Route Name: `省科学技术厅`
 - Example: `/gov/shaanxi/kjt`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

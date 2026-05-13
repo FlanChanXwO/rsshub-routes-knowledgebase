@@ -1,15 +1,15 @@
-# 中国人民银行 - 发展改革工作
+# 上海市人民政府 - 发展改革工作
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/ndrc/fggz/:category{.+}?`
 - Route Name: `发展改革工作`
 - Example: `/gov/ndrc/fggz`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

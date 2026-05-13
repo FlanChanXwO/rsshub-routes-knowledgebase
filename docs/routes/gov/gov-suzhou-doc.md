@@ -1,11 +1,11 @@
-# 中国人民银行 - 政府信息公开文件
+# 上海市人民政府 - 政府信息公开文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/suzhou/doc`
 - Route Name: `政府信息公开文件`
 - Example: `/gov/suzhou/doc`

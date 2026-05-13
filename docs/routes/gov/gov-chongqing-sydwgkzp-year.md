@@ -1,11 +1,11 @@
-# 中国人民银行 - 重庆市人民政府 人力社保局 - 事业单位公开招聘
+# 上海市人民政府 - 重庆市人民政府 人力社保局 - 事业单位公开招聘
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/chongqing/sydwgkzp/:year?`
 - Route Name: `重庆市人民政府 人力社保局 - 事业单位公开招聘`
 - Example: `/gov/chongqing/sydwgkzp`

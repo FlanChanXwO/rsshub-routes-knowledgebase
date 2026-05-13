@@ -1,15 +1,15 @@
-# 中国人民银行 - 财政厅
+# 上海市人民政府 - 财政厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/hebei/czt/xwdt/:category?`
 - Route Name: `财政厅`
 - Example: `/gov/hebei/czt/xwdt`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

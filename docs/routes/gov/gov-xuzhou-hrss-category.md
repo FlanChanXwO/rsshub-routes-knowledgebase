@@ -1,15 +1,15 @@
-# 中国人民银行 - 徐州市人力资源和社会保障局
+# 上海市人民政府 - 徐州市人力资源和社会保障局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/xuzhou/hrss/:category?`
 - Route Name: `徐州市人力资源和社会保障局`
 - Example: `/gov/xuzhou/hrss`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

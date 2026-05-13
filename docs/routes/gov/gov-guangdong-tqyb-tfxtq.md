@@ -1,11 +1,11 @@
-# 中国人民银行 - 突发性天气提示
+# 上海市人民政府 - 突发性天气提示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/guangdong/tqyb/tfxtq`
 - Route Name: `突发性天气提示`
 - Example: `/gov/guangdong/tqyb/tfxtq`

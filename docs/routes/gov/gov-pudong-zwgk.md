@@ -1,15 +1,15 @@
-# 中国人民银行 - 政务公开-浦东新区
+# 上海市人民政府 - 政务公开-浦东新区
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/pudong/zwgk`
 - Route Name: `政务公开-浦东新区`
 - Example: `/gov/pudong/zwgk`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `himingway`

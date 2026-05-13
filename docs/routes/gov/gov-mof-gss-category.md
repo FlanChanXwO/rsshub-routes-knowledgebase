@@ -1,15 +1,15 @@
-# 中国人民银行 - 关税政策文件
+# 上海市人民政府 - 关税政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/mof/gss/:category?`
 - Route Name: `关税政策文件`
 - Example: `/gov/mof/gss`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`

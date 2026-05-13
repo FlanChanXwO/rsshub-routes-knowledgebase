@@ -1,15 +1,15 @@
-# 中国人民银行 - 茂名市茂南区人民政府
+# 上海市人民政府 - 茂名市茂南区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/maonan/:category`
 - Route Name: `茂名市茂南区人民政府`
 - Example: `/gov/maonan/zwgk`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `ShuiHuo`

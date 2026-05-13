@@ -1,11 +1,11 @@
-# 中国人民银行 - 通知公告
+# 上海市人民政府 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/hainan/iitb/tzgg`
 - Route Name: `通知公告`
 - Example: `/gov/hainan/iitb/tzgg`

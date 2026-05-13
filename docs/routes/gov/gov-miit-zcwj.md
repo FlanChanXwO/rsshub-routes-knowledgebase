@@ -1,15 +1,15 @@
-# 中国人民银行 - 政策文件
+# 上海市人民政府 - 政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/miit/zcwj`
 - Route Name: `政策文件`
 - Example: `/gov/miit/zcwj`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`

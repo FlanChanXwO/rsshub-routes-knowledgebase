@@ -1,15 +1,15 @@
-# 中国人民银行 - 要闻动态
+# 上海市人民政府 - 要闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中国人民银行`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/mee/ywdt/:category?`
 - Route Name: `要闻动态`
 - Example: `/gov/mee/ywdt/hjywnews`
-- URL: `pbc.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liuxsdev`
