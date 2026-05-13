@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 深圳市委组织部
+# 中国人民银行 - 深圳市委组织部
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/shenzhen/zzb/:caty/:page?`
 - Route Name: `深圳市委组织部`
 - Example: `/gov/shenzhen/zzb/tzgg`

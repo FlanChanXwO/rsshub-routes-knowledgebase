@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 留言咨询
+# 中国人民银行 - 留言咨询
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/samr/xgzlyhd/:category?/:department?`
 - Route Name: `留言咨询`
 - Example: `/gov/samr/xgzlyhd`

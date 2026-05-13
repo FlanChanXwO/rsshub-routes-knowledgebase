@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政府公开信息
+# 中国人民银行 - 政府公开信息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/sichuan/deyang/govpublicinfo/:countyName/:infoType?`
 - Route Name: `政府公开信息`
 - Example: `/gov/sichuan/deyang/govpublicinfo/绵竹市`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `zytomorrow`

@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 文件发布
+# 中国人民银行 - 文件发布
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/miit/wjfb/:ministry`
 - Route Name: `文件发布`
 - Example: `/gov/miit/wjfb/ghs`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

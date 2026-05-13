@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 货币政策司公开市场交易公告
+# 中国人民银行 - 货币政策司公开市场交易公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/pbc/tradeAnnouncement`
 - Route Name: `货币政策司公开市场交易公告`
 - Example: `/gov/pbc/tradeAnnouncement`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`

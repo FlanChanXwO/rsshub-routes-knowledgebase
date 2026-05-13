@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 浙江省人民政府-全省政府网站统一搜索
+# 中国人民银行 - 浙江省人民政府-全省政府网站统一搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
 - Route Name: `浙江省人民政府-全省政府网站统一搜索`
 - Example: `/gov/zj/search`

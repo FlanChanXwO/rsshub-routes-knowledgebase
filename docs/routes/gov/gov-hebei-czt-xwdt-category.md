@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 财政厅
+# 中国人民银行 - 财政厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/hebei/czt/xwdt/:category?`
 - Route Name: `财政厅`
 - Example: `/gov/hebei/czt/xwdt`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

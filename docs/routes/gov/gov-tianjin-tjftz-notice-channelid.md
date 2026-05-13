@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 天津港保税区-公告
+# 中国人民银行 - 天津港保税区-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/tianjin/tjftz-notice/:channelId`
 - Route Name: `天津港保税区-公告`
 - Example: `/gov/tianjin/tjftz-notice/6302`

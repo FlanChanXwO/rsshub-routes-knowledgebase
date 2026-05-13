@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - Unknown
+# 中国人民银行 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/pbc/zcyj`
 - Route Name: `Unknown`
 - Example: `_None_`

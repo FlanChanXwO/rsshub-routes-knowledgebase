@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 惠州市人民政府
+# 中国人民银行 - 惠州市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/huizhou/zwgk/:category?`
 - Route Name: `惠州市人民政府`
 - Example: `/gov/huizhou/zwgk/jgdt`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政策解读
+# 中国人民银行 - 政策解读
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/miit/zcjd`
 - Route Name: `政策解读`
 - Example: `/gov/miit/zcjd`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `Yoge-Code`

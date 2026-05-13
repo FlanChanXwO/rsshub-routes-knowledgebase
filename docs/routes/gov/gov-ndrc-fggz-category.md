@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 发展改革工作
+# 中国人民银行 - 发展改革工作
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/ndrc/fggz/:category{.+}?`
 - Route Name: `发展改革工作`
 - Example: `/gov/ndrc/fggz`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

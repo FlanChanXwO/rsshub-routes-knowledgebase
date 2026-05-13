@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 国务院政策文件库
+# 中国人民银行 - 国务院政策文件库
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/zhengce/zhengceku/:department`
 - Route Name: `国务院政策文件库`
 - Example: `/gov/zhengce/zhengceku/bmwj`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `zxx-457`

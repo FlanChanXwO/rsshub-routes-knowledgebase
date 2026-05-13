@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 Route Index
+# 中国人民银行 Route Index
 
 ## Namespace
 - Namespace: `gov`
-- Display Name: `深圳市罗湖区人民政府`
-- URL: `www.szlh.gov.cn`
+- Display Name: `中国人民银行`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
-- Aliases: `gov, szlh.gov.cn, www, www.szlh.gov.cn, 深圳市罗湖区人民政府`
+- Aliases: `gov, pbc, pbc.gov.cn, 中国人民银行`
 - Route Count: `119`
 
 ## Routes

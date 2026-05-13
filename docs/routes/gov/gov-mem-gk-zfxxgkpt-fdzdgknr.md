@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 法定主动公开内容
+# 中国人民银行 - 法定主动公开内容
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
 - Route Name: `法定主动公开内容`
 - Example: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `skeaven`

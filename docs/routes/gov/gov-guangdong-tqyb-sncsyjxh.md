@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 广东省内城市预警信号
+# 中国人民银行 - 广东省内城市预警信号
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/guangdong/tqyb/sncsyjxh`
 - Route Name: `广东省内城市预警信号`
 - Example: `/gov/guangdong/tqyb/sncsyjxh`

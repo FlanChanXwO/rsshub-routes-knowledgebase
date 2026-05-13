@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国农业农村部数据
+# 中国人民银行 - 中华人民共和国农业农村部数据
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/moa/zdscxx/:category{.+}?`
 - Route Name: `中华人民共和国农业农村部数据`
 - Example: `/gov/moa/zdscxx`

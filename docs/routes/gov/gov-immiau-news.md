@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - Immigration and Citizenship - News
+# 中国人民银行 - Immigration and Citizenship - News
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/immiau/news`
 - Route Name: `Immigration and Citizenship - News`
 - Example: `/gov/immiau/news`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liu233w`

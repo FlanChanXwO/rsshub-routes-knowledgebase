@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 茂名市茂南区人民政府
+# 中国人民银行 - 茂名市茂南区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/maonan/:category`
 - Route Name: `茂名市茂南区人民政府`
 - Example: `/gov/maonan/zwgk`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `ShuiHuo`

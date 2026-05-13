@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政府新闻
+# 中国人民银行 - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/cn/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/cn/news/bm`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, howfool`

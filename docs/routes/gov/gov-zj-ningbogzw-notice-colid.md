@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 宁波市国资委-公告
+# 中国人民银行 - 宁波市国资委-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/zj/ningbogzw-notice/:colId?`
 - Route Name: `宁波市国资委-公告`
 - Example: `/gov/zj/ningbogzw-notice/1229116730`

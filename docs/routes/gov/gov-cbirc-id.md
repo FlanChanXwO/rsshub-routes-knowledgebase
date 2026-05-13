@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 分类
+# 中国人民银行 - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/cbirc/:id?`
 - Route Name: `分类`
 - Example: `/gov/cbirc/:id?`

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 宁波市人力资源和社会保障局-公告
+# 中国人民银行 - 宁波市人力资源和社会保障局-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/zj/ningborsjnotice/:colId?`
 - Route Name: `宁波市人力资源和社会保障局-公告`
 - Example: `/gov/zj/ningborsjnotice/1229676740`

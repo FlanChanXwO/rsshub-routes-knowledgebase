@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 上海卫健委 疫情通报
+# 中国人民银行 - 上海卫健委 疫情通报
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/sh/wsjkw/yqtb`
 - Route Name: `上海卫健委 疫情通报`
 - Example: `/gov/sh/wsjkw/yqtb`

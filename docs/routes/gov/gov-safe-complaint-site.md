@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 投诉建议
+# 中国人民银行 - 投诉建议
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/safe/complaint/:site?`
 - Route Name: `投诉建议`
 - Example: `/gov/safe/complaint/beijing`
-- URL: `www.szlh.gov.cn`
+- URL: `pbc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

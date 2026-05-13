@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 太原市人力资源和社会保障局政府公开信息
+# 中国人民银行 - 太原市人力资源和社会保障局政府公开信息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/taiyuan/rsj/:caty/:page?`
 - Route Name: `太原市人力资源和社会保障局政府公开信息`
 - Example: `/gov/taiyuan/rsj/gggs`

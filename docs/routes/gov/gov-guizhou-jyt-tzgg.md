@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 贵州省教育厅 - 通知公告
+# 中国人民银行 - 贵州省教育厅 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/guizhou/jyt/tzgg`
 - Route Name: `贵州省教育厅 - 通知公告`
 - Example: `/gov/guizhou/jyt/tzgg`

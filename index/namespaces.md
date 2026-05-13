@@ -3656,9 +3656,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 深圳市罗湖区人民政府
+## 中国人民银行
 - Namespace: `gov`
-- Aliases: `gov, szlh.gov.cn, www, www.szlh.gov.cn, 深圳市罗湖区人民政府`
+- Aliases: `gov, pbc, pbc.gov.cn, 中国人民银行`
 - Route Count: `119`
 - Index File: `index/gov.md`
 

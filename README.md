@@ -3,7 +3,7 @@
 This branch is generated automatically from RSSHub official route metadata.
 
 ## Summary
-- Generated At: `2026-05-13T12:33:43+00:00`
+- Generated At: `2026-05-13T13:17:12+00:00`
 - Source Repo: `https://github.com/DIYgod/RSSHub`
 - Source Revision: `eda21bb48cdbdd2d82ff0e200da8174fc8a26bb7`
 - Namespaces: `1584`
@@ -11,9 +11,14 @@ This branch is generated automatically from RSSHub official route metadata.
 - Categories: `25`
 
 ## Files
+- `metadata.json`: machine-readable manifest for incremental sync.
 - `index/namespaces.md`: top-level namespace directory.
 - `index/<namespace>.md`: per-namespace route directory.
 - `docs/routes/<namespace>/*.md`: per-route markdown documents.
+
+## Sync
+- Use `metadata.json` as the canonical file manifest for incremental updates.
+- Compare `files[].path` and `files[].sha256` to determine additions, updates, and deletions.
 
 ## Suggested Lookup Flow
 1. Read `index/namespaces.md` to identify the target namespace.

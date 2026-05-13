@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 沟通交流
+# 中国人民银行 - 沟通交流
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中国人民银行`
 - Route Path: `/gov/pbc/goutongjiaoliu`
 - Route Name: `沟通交流`
 - Example: `/gov/pbc/goutongjiaoliu`
