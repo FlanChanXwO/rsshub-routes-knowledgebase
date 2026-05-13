@@ -1,0 +1,82 @@
+# 哔哩哔哩 bilibili - 用户关注动态
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `bilibili`
+- Namespace Name: `哔哩哔哩 bilibili`
+- Route Path: `/followings/dynamic/:uid/:routeParams?`
+- Route Name: `用户关注动态`
+- Example: `/bilibili/followings/dynamic/109937383`
+- URL: `www.bilibili.com`
+- Language: `zh-CN`
+- Categories: `social-media`
+- Maintainers: `TigerCubDen, JimenezLi`
+- Source Location: `followings-dynamic.ts`
+- Source Module: `() => import('@/routes/bilibili/followings-dynamic.ts')`
+
+## Description
+::: warning
+  用户动态需要 b 站登录后的 Cookie 值，所以只能自建，详情见部署页面的配置模块。
+:::
+
+## Parameters
+- `uid`: 用户 id, 可在 UP 主主页中找到
+- `routeParams`: | 键         | 含义                              | 接受的值       | 默认值 |
+| ---------- | --------------------------------- | -------------- | ------ |
+| showEmoji  | 显示或隐藏表情图片                | 0/1/true/false | false  |
+| embed      | 默认开启内嵌视频                  | 0/1/true/false |  true  |
+| useAvid    | 视频链接使用 AV 号 (默认为 BV 号) | 0/1/true/false | false  |
+| directLink | 使用内容直链                      | 0/1/true/false | false  |
+| hideGoods  | 隐藏带货动态                      | 0/1/true/false | false  |
+
+用例：`/bilibili/followings/dynamic/2267573/showEmoji=1&embed=0&useAvid=1`
+
+
+## Features
+- `requireConfig`: [{"description": "BILIBILI_COOKIE_{uid}: 用于用户关注动态系列路由，对应 uid 的 b 站用户登录后的 Cookie 值，`{uid}` 替换为 uid，如 `BILIBILI_COOKIE_2267573`，获取方式：\n    1.  打开 [https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/dynamic_new?uid=0&type=8](https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/dynamic_new?uid=0&type=8)\n    2.  打开控制台，切换到 Network 面板，刷新\n    3.  点击 dynamic_new 请求，找到 Cookie\n    4.  视频和专栏，UP 主粉丝及关注只要求 `SESSDATA` 字段，动态需复制整段 Cookie", "name": "BILIBILI_COOKIE_*"}]
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media"
+  ],
+  "description": "::: warning\n  用户动态需要 b 站登录后的 Cookie 值，所以只能自建，详情见部署页面的配置模块。\n:::",
+  "example": "/bilibili/followings/dynamic/109937383",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": [
+      {
+        "description": "BILIBILI_COOKIE_{uid}: 用于用户关注动态系列路由，对应 uid 的 b 站用户登录后的 Cookie 值，`{uid}` 替换为 uid，如 `BILIBILI_COOKIE_2267573`，获取方式：\n    1.  打开 [https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/dynamic_new?uid=0&type=8](https://api.vc.bilibili.com/dynamic_svr/v1/dynamic_svr/dynamic_new?uid=0&type=8)\n    2.  打开控制台，切换到 Network 面板，刷新\n    3.  点击 dynamic_new 请求，找到 Cookie\n    4.  视频和专栏，UP 主粉丝及关注只要求 `SESSDATA` 字段，动态需复制整段 Cookie",
+        "name": "BILIBILI_COOKIE_*"
+      }
+    ],
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "followings-dynamic.ts",
+  "maintainers": [
+    "TigerCubDen",
+    "JimenezLi"
+  ],
+  "module": "() => import('@/routes/bilibili/followings-dynamic.ts')",
+  "name": "用户关注动态",
+  "parameters": {
+    "routeParams": "\n| 键         | 含义                              | 接受的值       | 默认值 |\n| ---------- | --------------------------------- | -------------- | ------ |\n| showEmoji  | 显示或隐藏表情图片                | 0/1/true/false | false  |\n| embed      | 默认开启内嵌视频                  | 0/1/true/false |  true  |\n| useAvid    | 视频链接使用 AV 号 (默认为 BV 号) | 0/1/true/false | false  |\n| directLink | 使用内容直链                      | 0/1/true/false | false  |\n| hideGoods  | 隐藏带货动态                      | 0/1/true/false | false  |\n\n用例：`/bilibili/followings/dynamic/2267573/showEmoji=1&embed=0&useAvid=1`",
+    "uid": "用户 id, 可在 UP 主主页中找到"
+  },
+  "path": "/followings/dynamic/:uid/:routeParams?"
+}
+```

@@ -1,0 +1,66 @@
+# Ian Spriggss - Category
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `ianspriggs`
+- Namespace Name: `Ian Spriggss`
+- Route Path: `/:category?`
+- Route Name: `Category`
+- Example: `/ianspriggs/portraits`
+- URL: `ianspriggs.com`
+- Language: `en`
+- Categories: `blog`
+- Maintainers: `nczitzk`
+- Source Location: `index.ts`
+- Source Module: `() => import('@/routes/ianspriggs/index.ts')`
+
+## Description
+| 3D PORTRAITS | CHARACTERS |
+| ------------ | ---------- |
+| portraits    | characters |
+
+## Parameters
+- `category`: Category, see below, 3D PORTRAITS by default
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "blog"
+  ],
+  "description": "| 3D PORTRAITS | CHARACTERS |\n| ------------ | ---------- |\n| portraits    | characters |",
+  "example": "/ianspriggs/portraits",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "index.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/ianspriggs/index.ts')",
+  "name": "Category",
+  "parameters": {
+    "category": "Category, see below, 3D PORTRAITS by default"
+  },
+  "path": "/:category?"
+}
+```

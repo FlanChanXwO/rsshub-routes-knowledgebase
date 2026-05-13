@@ -1,0 +1,291 @@
+# 证券时报网 - 热榜
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `stcn`
+- Namespace Name: `证券时报网`
+- Route Path: `/article/rank/:id?`
+- Route Name: `热榜`
+- Example: `/stcn/article/rank/yw`
+- URL: `www.stcn.com`
+- Language: `zh-CN`
+- Categories: `finance`
+- Maintainers: `nczitzk`
+- Source Location: `rank.ts`
+- Source Module: `() => import('@/routes/stcn/rank.ts')`
+
+## Description
+::: tip
+若订阅 [要闻](https://www.stcn.com/article/list/yw.html)，网址为 `https://www.stcn.com/article/list/yw.html`，请截取 `https://www.stcn.com/article/list/` 到末尾 `.html` 的部分 `yw` 作为 `id` 参数填入，此时目标路由为 [`/stcn/article/rank/yw`](https://rsshub.app/stcn/article/rank/yw)。
+:::
+
+| 要闻 | 股市 | 公司    | 基金 | 金融    | 评论    |
+| ---- | ---- | ------- | ---- | ------- | ------- |
+| yw   | gs   | company | fund | finance | comment |
+
+| 产经 | 科创板 | 新三板 | ESG | 滚动 |
+| ---- | ------ | ------ | --- | ---- |
+| cj   | kcb    | xsb    | zk  | gd   |
+
+## Parameters
+- `category`: {"description": "分类，默认为 `yw`，即要闻，可在对应分类页 URL 中找到", "options": [{"label": "要闻", "value": "yw"}, {"label": "股市", "value": "gs"}, {"label": "公司", "value": "company"}, {"label": "基金", "value": "fund"}, {"label": "金融", "value": "finance"}, {"label": "评论", "value": "comment"}, {"label": "产经", "value": "cj"}, {"label": "科创板", "value": "kcb"}, {"label": "新三板", "value": "xsb"}, {"label": "ESG", "value": "zk"}, {"label": "滚动", "value": "gd"}]}
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportRadar`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/:id`
+### Rule 2
+- `title`: `要闻`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/yw.html`
+- `target`: `/article/rank/yw`
+### Rule 3
+- `title`: `股市`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/gs.html`
+- `target`: `/article/rank/gs`
+### Rule 4
+- `title`: `公司`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/company.html`
+- `target`: `/article/rank/company`
+### Rule 5
+- `title`: `基金`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/fund.html`
+- `target`: `/article/rank/fund`
+### Rule 6
+- `title`: `金融`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/finance.html`
+- `target`: `/article/rank/finance`
+### Rule 7
+- `title`: `评论`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/comment.html`
+- `target`: `/article/rank/comment`
+### Rule 8
+- `title`: `产经`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/cj.html`
+- `target`: `/article/rank/cj`
+### Rule 9
+- `title`: `科创板`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/kcb.html`
+- `target`: `/article/rank/kcb`
+### Rule 10
+- `title`: `新三板`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/xsb.html`
+- `target`: `/article/rank/xsb`
+### Rule 11
+- `title`: `ESG`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/zk.html`
+- `target`: `/article/rank/zk`
+### Rule 12
+- `title`: `滚动`
+- `source`:
+  - `www.stcn.com/article/list.html`
+  - `www.stcn.com/article/list/gd.html`
+- `target`: `/article/rank/gd`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "finance"
+  ],
+  "description": "::: tip\n若订阅 [要闻](https://www.stcn.com/article/list/yw.html)，网址为 `https://www.stcn.com/article/list/yw.html`，请截取 `https://www.stcn.com/article/list/` 到末尾 `.html` 的部分 `yw` 作为 `id` 参数填入，此时目标路由为 [`/stcn/article/rank/yw`](https://rsshub.app/stcn/article/rank/yw)。\n:::\n\n| 要闻 | 股市 | 公司    | 基金 | 金融    | 评论    |\n| ---- | ---- | ------- | ---- | ------- | ------- |\n| yw   | gs   | company | fund | finance | comment |\n\n| 产经 | 科创板 | 新三板 | ESG | 滚动 |\n| ---- | ------ | ------ | --- | ---- |\n| cj   | kcb    | xsb    | zk  | gd   |\n",
+  "example": "/stcn/article/rank/yw",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportRadar": true,
+    "supportScihub": false
+  },
+  "location": "rank.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/stcn/rank.ts')",
+  "name": "热榜",
+  "parameters": {
+    "category": {
+      "description": "分类，默认为 `yw`，即要闻，可在对应分类页 URL 中找到",
+      "options": [
+        {
+          "label": "要闻",
+          "value": "yw"
+        },
+        {
+          "label": "股市",
+          "value": "gs"
+        },
+        {
+          "label": "公司",
+          "value": "company"
+        },
+        {
+          "label": "基金",
+          "value": "fund"
+        },
+        {
+          "label": "金融",
+          "value": "finance"
+        },
+        {
+          "label": "评论",
+          "value": "comment"
+        },
+        {
+          "label": "产经",
+          "value": "cj"
+        },
+        {
+          "label": "科创板",
+          "value": "kcb"
+        },
+        {
+          "label": "新三板",
+          "value": "xsb"
+        },
+        {
+          "label": "ESG",
+          "value": "zk"
+        },
+        {
+          "label": "滚动",
+          "value": "gd"
+        }
+      ]
+    }
+  },
+  "path": "/article/rank/:id?",
+  "radar": [
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/:id"
+      ]
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/yw.html"
+      ],
+      "target": "/article/rank/yw",
+      "title": "要闻"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/gs.html"
+      ],
+      "target": "/article/rank/gs",
+      "title": "股市"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/company.html"
+      ],
+      "target": "/article/rank/company",
+      "title": "公司"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/fund.html"
+      ],
+      "target": "/article/rank/fund",
+      "title": "基金"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/finance.html"
+      ],
+      "target": "/article/rank/finance",
+      "title": "金融"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/comment.html"
+      ],
+      "target": "/article/rank/comment",
+      "title": "评论"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/cj.html"
+      ],
+      "target": "/article/rank/cj",
+      "title": "产经"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/kcb.html"
+      ],
+      "target": "/article/rank/kcb",
+      "title": "科创板"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/xsb.html"
+      ],
+      "target": "/article/rank/xsb",
+      "title": "新三板"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/zk.html"
+      ],
+      "target": "/article/rank/zk",
+      "title": "ESG"
+    },
+    {
+      "source": [
+        "www.stcn.com/article/list.html",
+        "www.stcn.com/article/list/gd.html"
+      ],
+      "target": "/article/rank/gd",
+      "title": "滚动"
+    }
+  ],
+  "url": "www.stcn.com",
+  "view": 0
+}
+```

@@ -1,0 +1,67 @@
+# 哔哩哔哩 bilibili - UP 主非默认收藏夹
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `bilibili`
+- Namespace Name: `哔哩哔哩 bilibili`
+- Route Path: `/fav/:uid/:fid/:embed?`
+- Route Name: `UP 主非默认收藏夹`
+- Example: `/bilibili/fav/756508/50948568`
+- URL: `www.bilibili.com`
+- Language: `zh-CN`
+- Categories: `social-media`
+- Maintainers: `Qixingchen`
+- Source Location: `fav.ts`
+- Source Module: `() => import('@/routes/bilibili/fav.ts')`
+
+## Description
+_None_
+
+## Parameters
+- `uid`: 用户 id, 可在 UP 主主页中找到
+- `fid`: 收藏夹 ID, 可在收藏夹的 URL 中找到, 默认收藏夹建议使用 UP 主默认收藏夹功能
+- `embed`: 默认为开启内嵌视频, 任意值为关闭
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media"
+  ],
+  "example": "/bilibili/fav/756508/50948568",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "fav.ts",
+  "maintainers": [
+    "Qixingchen"
+  ],
+  "module": "() => import('@/routes/bilibili/fav.ts')",
+  "name": "UP 主非默认收藏夹",
+  "parameters": {
+    "embed": "默认为开启内嵌视频, 任意值为关闭",
+    "fid": "收藏夹 ID, 可在收藏夹的 URL 中找到, 默认收藏夹建议使用 UP 主默认收藏夹功能",
+    "uid": "用户 id, 可在 UP 主主页中找到"
+  },
+  "path": "/fav/:uid/:fid/:embed?"
+}
+```

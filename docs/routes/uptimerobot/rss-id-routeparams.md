@@ -1,0 +1,79 @@
+# Uptime Robot - RSS
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `uptimerobot`
+- Namespace Name: `Uptime Robot`
+- Route Path: `/rss/:id/:routeParams?`
+- Route Name: `RSS`
+- Example: `/uptimerobot/rss/u358785-e4323652448755805d668f1a66506f2f`
+- URL: `rss.uptimerobot.com`
+- Language: `en`
+- Categories: `forecast`
+- Maintainers: `Rongronggg9`
+- Source Location: `rss.tsx`
+- Source Module: `() => import('@/routes/uptimerobot/rss.tsx')`
+
+## Description
+| Key    | Description                                                              | Accepts        | Defaults to |
+| ------ | ------------------------------------------------------------------------ | -------------- | ----------- |
+| showID | Show monitor ID (disabling it will also disable link for each RSS entry) | 0/1/true/false | true        |
+
+## Parameters
+- `id`: the last part of your RSS URL (e.g. `u358785-e4323652448755805d668f1a66506f2f` for `https://rss.uptimerobot.com/u358785-e4323652448755805d668f1a66506f2f`)
+- `routeParams`: extra parameters, see the table below
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `rss.uptimerobot.com/:id`
+- `target`: `/rss/:id`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "forecast"
+  ],
+  "description": "| Key    | Description                                                              | Accepts        | Defaults to |\n| ------ | ------------------------------------------------------------------------ | -------------- | ----------- |\n| showID | Show monitor ID (disabling it will also disable link for each RSS entry) | 0/1/true/false | true        |",
+  "example": "/uptimerobot/rss/u358785-e4323652448755805d668f1a66506f2f",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "rss.tsx",
+  "maintainers": [
+    "Rongronggg9"
+  ],
+  "module": "() => import('@/routes/uptimerobot/rss.tsx')",
+  "name": "RSS",
+  "parameters": {
+    "id": "the last part of your RSS URL (e.g. `u358785-e4323652448755805d668f1a66506f2f` for `https://rss.uptimerobot.com/u358785-e4323652448755805d668f1a66506f2f`)",
+    "routeParams": "extra parameters, see the table below"
+  },
+  "path": "/rss/:id/:routeParams?",
+  "radar": [
+    {
+      "source": [
+        "rss.uptimerobot.com/:id"
+      ],
+      "target": "/rss/:id"
+    }
+  ]
+}
+```

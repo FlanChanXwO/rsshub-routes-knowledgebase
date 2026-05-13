@@ -1,0 +1,67 @@
+# 豆瓣 - 热门图书排行
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `douban`
+- Namespace Name: `豆瓣`
+- Route Path: `/book/rank/:type?`
+- Route Name: `热门图书排行`
+- Example: `/douban/book/rank/fiction`
+- URL: `www.douban.com`
+- Language: `zh-CN`
+- Categories: `social-media`
+- Maintainers: `xyqfer, queensferryme`
+- Source Location: `book/rank.ts`
+- Source Module: `() => import('@/routes/douban/book/rank.ts')`
+
+## Description
+| 全部 | 虚构    | 非虚构     |
+| ---- | ------- | ---------- |
+|      | fiction | nonfiction |
+
+## Parameters
+- `type`: 图书类型，默认合并列表
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media"
+  ],
+  "description": "| 全部 | 虚构    | 非虚构     |\n| ---- | ------- | ---------- |\n|      | fiction | nonfiction |",
+  "example": "/douban/book/rank/fiction",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "book/rank.ts",
+  "maintainers": [
+    "xyqfer",
+    "queensferryme"
+  ],
+  "module": "() => import('@/routes/douban/book/rank.ts')",
+  "name": "热门图书排行",
+  "parameters": {
+    "type": "图书类型，默认合并列表"
+  },
+  "path": "/book/rank/:type?"
+}
+```

@@ -1,0 +1,78 @@
+# 上海大学 - 信息公开网
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `shu`
+- Namespace Name: `上海大学`
+- Route Path: `/xxgk/:type?`
+- Route Name: `信息公开网`
+- Example: `/shu/xxgk/dwjlxm`
+- URL: `xxgk.shu.edu.cn/`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `GhhG123`
+- Source Location: `xxgk.ts`
+- Source Module: `() => import('@/routes/shu/xxgk.ts')`
+
+## Description
+| 对外交流项目 | 合作交流 |
+| -------- | --------- |
+| dwjlxm   | hzjl      |
+
+## Parameters
+- `type`: 分类，默认为对外交流项目
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `xxgk.shu.edu.cn/`
+- `target`: `/xxgk`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "| 对外交流项目 | 合作交流 |\n| -------- | --------- |\n| dwjlxm   | hzjl      |",
+  "example": "/shu/xxgk/dwjlxm",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "xxgk.ts",
+  "maintainers": [
+    "GhhG123"
+  ],
+  "module": "() => import('@/routes/shu/xxgk.ts')",
+  "name": "信息公开网",
+  "parameters": {
+    "type": "分类，默认为对外交流项目"
+  },
+  "path": "/xxgk/:type?",
+  "radar": [
+    {
+      "source": [
+        "xxgk.shu.edu.cn/"
+      ],
+      "target": "/xxgk"
+    }
+  ],
+  "url": "xxgk.shu.edu.cn/"
+}
+```

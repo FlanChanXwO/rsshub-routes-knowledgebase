@@ -1,0 +1,19 @@
+# 印记中文 Route Index
+
+## Namespace
+- Namespace: `docschina`
+- Display Name: `印记中文`
+- URL: `docschina.org`
+- Language: `zh-CN`
+- Aliases: `docschina, docschina.org, 印记中文`
+- Route Count: `1`
+
+## Routes
+
+### 周刊 - JavaScript
+- Route ID: `docschina:/weekly/:category?`
+- Route Path: `/weekly/:category?`
+- File: `docs/routes/docschina/weekly-category.md`
+- File Name: `weekly-category.md`
+- Categories: `programming`
+- Maintainers: `daijinru, hestudy`

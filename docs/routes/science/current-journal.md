@@ -1,0 +1,88 @@
+# Science Magazine - Current Issue
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `science`
+- Namespace Name: `Science Magazine`
+- Route Path: `/current/:journal?`
+- Route Name: `Current Issue`
+- Example: `/science/current/science`
+- URL: `science.org`
+- Language: `en`
+- Categories: `journal`
+- Maintainers: `y9c, TonyRL`
+- Source Location: `current.ts`
+- Source Module: `() => import('@/routes/science/current.ts')`
+
+## Description
+|  Short name |    Full name of the journal    | Route                                                                          |
+| :---------: | :----------------------------: | ------------------------------------------------------------------------------ |
+|   science   |             Science            | [/science/current/science](https://rsshub.app/science/current/science)         |
+|    sciadv   |        Science Advances        | [/science/current/sciadv](https://rsshub.app/science/current/sciadv)           |
+|  sciimmunol |       Science Immunology       | [/science/current/sciimmunol](https://rsshub.app/science/current/sciimmunol)   |
+| scirobotics |        Science Robotics        | [/science/current/scirobotics](https://rsshub.app/science/current/scirobotics) |
+|  signaling  |        Science Signaling       | [/science/current/signaling](https://rsshub.app/science/current/signaling)     |
+|     stm     | Science Translational Medicine | [/science/current/stm](https://rsshub.app/science/current/stm)                 |
+
+  -   Using route (`/science/current/` + "short name for a journal") to get current issue of a journal from AAAS.
+  -   Leaving it empty (`/science/current`) to get update from Science.
+
+## Parameters
+- `journal`: Short name for a journal
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `science.org/journal/:journal`
+  - `science.org/toc/:journal/current`
+- `target`: `/current/:journal`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "journal"
+  ],
+  "description": "|  Short name |    Full name of the journal    | Route                                                                          |\n| :---------: | :----------------------------: | ------------------------------------------------------------------------------ |\n|   science   |             Science            | [/science/current/science](https://rsshub.app/science/current/science)         |\n|    sciadv   |        Science Advances        | [/science/current/sciadv](https://rsshub.app/science/current/sciadv)           |\n|  sciimmunol |       Science Immunology       | [/science/current/sciimmunol](https://rsshub.app/science/current/sciimmunol)   |\n| scirobotics |        Science Robotics        | [/science/current/scirobotics](https://rsshub.app/science/current/scirobotics) |\n|  signaling  |        Science Signaling       | [/science/current/signaling](https://rsshub.app/science/current/signaling)     |\n|     stm     | Science Translational Medicine | [/science/current/stm](https://rsshub.app/science/current/stm)                 |\n\n  -   Using route (`/science/current/` + \"short name for a journal\") to get current issue of a journal from AAAS.\n  -   Leaving it empty (`/science/current`) to get update from Science.",
+  "example": "/science/current/science",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": false,
+    "requirePuppeteer": true,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": true
+  },
+  "location": "current.ts",
+  "maintainers": [
+    "y9c",
+    "TonyRL"
+  ],
+  "module": "() => import('@/routes/science/current.ts')",
+  "name": "Current Issue",
+  "parameters": {
+    "journal": "Short name for a journal"
+  },
+  "path": "/current/:journal?",
+  "radar": [
+    {
+      "source": [
+        "science.org/journal/:journal",
+        "science.org/toc/:journal/current"
+      ],
+      "target": "/current/:journal"
+    }
+  ]
+}
+```

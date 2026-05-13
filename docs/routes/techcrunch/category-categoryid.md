@@ -1,0 +1,54 @@
+# TechCrunch - Category
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `techcrunch`
+- Namespace Name: `TechCrunch`
+- Route Path: `/category/:categoryId`
+- Route Name: `Category`
+- Example: `/techcrunch/category/577047203`
+- URL: `techcrunch.com`
+- Language: `en`
+- Categories: `new-media`
+- Maintainers: `MilliumOrion`
+- Source Location: `category.ts`
+- Source Module: `() => import('@/routes/techcrunch/category.ts')`
+
+## Description
+Use the category ID to retrieve a list of articles, category ID.  
+From the page source of `https://techcrunch.com/category/***`, locate the `{category_id}`  
+Example:  
+`html` -> `head` -> `<link rel="alternate" title="JSON" type="application/json" href="https://techcrunch.com/wp-json/wp/v2/categories/{category_id}">`
+
+## Parameters
+- `categoryId`: 分类id
+
+
+## Features
+_None_
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "description": "Use the category ID to retrieve a list of articles, category ID.  \nFrom the page source of `https://techcrunch.com/category/***`, locate the `{category_id}`  \nExample:  \n`html` -> `head` -> `<link rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://techcrunch.com/wp-json/wp/v2/categories/{category_id}\">`",
+  "example": "/techcrunch/category/577047203",
+  "location": "category.ts",
+  "maintainers": [
+    "MilliumOrion"
+  ],
+  "module": "() => import('@/routes/techcrunch/category.ts')",
+  "name": "Category",
+  "parameters": {
+    "categoryId": "分类id"
+  },
+  "path": "/category/:categoryId"
+}
+```

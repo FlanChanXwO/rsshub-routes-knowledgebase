@@ -1,0 +1,84 @@
+# SoBooks - 首页
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `sobooks`
+- Namespace Name: `SoBooks`
+- Route Path: `/:category?`
+- Route Name: `首页`
+- Example: `/sobooks`
+- URL: `sobooks.net`
+- Language: `en`
+- Categories: `reading`
+- Maintainers: `nczitzk`
+- Source Location: `index.ts`
+- Source Module: `() => import('@/routes/sobooks/index.ts')`
+
+## Description
+| 分类     | 分类名           |
+| -------- | ---------------- |
+| 小说文学 | xiaoshuowenxue   |
+| 历史传记 | lishizhuanji     |
+| 人文社科 | renwensheke      |
+| 励志成功 | lizhichenggong   |
+| 经济管理 | jingjiguanli     |
+| 学习教育 | xuexijiaoyu      |
+| 生活时尚 | shenghuoshishang |
+| 英文原版 | yingwenyuanban   |
+
+## Parameters
+- `category`: 分类, 见下表
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `sobooks.net/:category`
+- `target`: `/:category`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "reading"
+  ],
+  "description": "| 分类     | 分类名           |\n| -------- | ---------------- |\n| 小说文学 | xiaoshuowenxue   |\n| 历史传记 | lishizhuanji     |\n| 人文社科 | renwensheke      |\n| 励志成功 | lizhichenggong   |\n| 经济管理 | jingjiguanli     |\n| 学习教育 | xuexijiaoyu      |\n| 生活时尚 | shenghuoshishang |\n| 英文原版 | yingwenyuanban   |",
+  "example": "/sobooks",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "index.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/sobooks/index.ts')",
+  "name": "首页",
+  "parameters": {
+    "category": "分类, 见下表"
+  },
+  "path": "/:category?",
+  "radar": [
+    {
+      "source": [
+        "sobooks.net/:category"
+      ],
+      "target": "/:category"
+    }
+  ]
+}
+```

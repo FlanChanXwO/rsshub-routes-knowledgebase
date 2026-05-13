@@ -1,0 +1,92 @@
+# JavDB - 演員
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `javdb`
+- Namespace Name: `JavDB`
+- Route Path: `/actors/:id/:filter?`
+- Route Name: `演員`
+- Example: `/javdb/actors/R2Vg`
+- URL: `javdb.com/`
+- Language: `zh-CN`
+- Categories: `multimedia`
+- Maintainers: `nczitzk`
+- Source Location: `actors.ts`
+- Source Module: `() => import('@/routes/javdb/actors.ts')`
+
+## Description
+| 全部 | 可播放 | 單體作品 | 可下載 | 含字幕 |
+| ---- | ------ | -------- | ------ | ------ |
+|      | p      | s        | d      | c      |
+
+  所有演员编号参见 [演員庫](https://javdb.com/actors)
+
+  可用 addon_tags 参数添加额外的过滤 tag，可从网页 url 中获取，例如 `/javdb/actors/R2Vg?addon_tags=212,18` 可筛选 `VR` 和 `中出`。
+
+## Parameters
+- `id`: 编号，可在演员页 URL 中找到
+- `filter`: 过滤，见下表，默认为 `全部`
+
+
+## Features
+- `requireConfig`: [{"description": "JavDB登陆后的session值，可在控制台的cookie下查找 `_jdb_session` 的值，即可获取", "name": "JAVDB_SESSION", "optional": true}]
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+- `nsfw`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `javdb.com/`
+- `target`: ``
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "multimedia"
+  ],
+  "description": "| 全部 | 可播放 | 單體作品 | 可下載 | 含字幕 |\n| ---- | ------ | -------- | ------ | ------ |\n|      | p      | s        | d      | c      |\n\n  所有演员编号参见 [演員庫](https://javdb.com/actors)\n\n  可用 addon_tags 参数添加额外的过滤 tag，可从网页 url 中获取，例如 `/javdb/actors/R2Vg?addon_tags=212,18` 可筛选 `VR` 和 `中出`。",
+  "example": "/javdb/actors/R2Vg",
+  "features": {
+    "antiCrawler": true,
+    "nsfw": true,
+    "requireConfig": [
+      {
+        "description": "JavDB登陆后的session值，可在控制台的cookie下查找 `_jdb_session` 的值，即可获取",
+        "name": "JAVDB_SESSION",
+        "optional": true
+      }
+    ],
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "actors.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/javdb/actors.ts')",
+  "name": "演員",
+  "parameters": {
+    "filter": "过滤，见下表，默认为 `全部`",
+    "id": "编号，可在演员页 URL 中找到"
+  },
+  "path": "/actors/:id/:filter?",
+  "radar": [
+    {
+      "source": [
+        "javdb.com/"
+      ],
+      "target": ""
+    }
+  ],
+  "url": "javdb.com/"
+}
+```

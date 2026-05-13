@@ -1,0 +1,87 @@
+# 湖南日报 - 电子刊物
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `hnrb`
+- Namespace Name: `湖南日报`
+- Route Path: `/:id?`
+- Route Name: `电子刊物`
+- Example: `/hnrb`
+- URL: `voc.com.cn/`
+- Language: `zh-CN`
+- Categories: `traditional-media`
+- Maintainers: `nczitzk`
+- Source Location: `index.ts`
+- Source Module: `() => import('@/routes/hnrb/index.ts')`
+
+## Description
+| 版                   | 编号 |
+| -------------------- | ---- |
+| 全部                 |      |
+| 第 01 版：头版       | 1    |
+| 第 02 版：要闻       | 2    |
+| 第 03 版：要闻       | 3    |
+| 第 04 版：深度       | 4    |
+| 第 05 版：市州       | 5    |
+| 第 06 版：理论・学习 | 6    |
+| 第 07 版：观察       | 7    |
+| 第 08 版：时事       | 8    |
+| 第 09 版：中缝       | 9    |
+
+## Parameters
+- `id`: 编号，见下表，默认为全部
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `voc.com.cn/`
+- `target`: `/:id`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "traditional-media"
+  ],
+  "description": "| 版                   | 编号 |\n| -------------------- | ---- |\n| 全部                 |      |\n| 第 01 版：头版       | 1    |\n| 第 02 版：要闻       | 2    |\n| 第 03 版：要闻       | 3    |\n| 第 04 版：深度       | 4    |\n| 第 05 版：市州       | 5    |\n| 第 06 版：理论・学习 | 6    |\n| 第 07 版：观察       | 7    |\n| 第 08 版：时事       | 8    |\n| 第 09 版：中缝       | 9    |",
+  "example": "/hnrb",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "index.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/hnrb/index.ts')",
+  "name": "电子刊物",
+  "parameters": {
+    "id": "编号，见下表，默认为全部"
+  },
+  "path": "/:id?",
+  "radar": [
+    {
+      "source": [
+        "voc.com.cn/"
+      ],
+      "target": "/:id"
+    }
+  ],
+  "url": "voc.com.cn/"
+}
+```

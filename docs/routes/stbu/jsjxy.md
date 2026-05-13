@@ -1,0 +1,84 @@
+# 四川工商学院 - 计算机学院 - 通知公告
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `stbu`
+- Namespace Name: `四川工商学院`
+- Route Path: `/jsjxy`
+- Route Name: `计算机学院 - 通知公告`
+- Example: `/stbu/jsjxy`
+- URL: `jsjxy.stbu.edu.cn/news`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `HyperCherry`
+- Source Location: `jsjxy.ts`
+- Source Module: `() => import('@/routes/stbu/jsjxy.ts')`
+
+## Description
+::: warning
+计算机学院通知公告疑似禁止了非大陆 IP 访问，使用路由需要自行 [部署](https://docs.rsshub.app/deploy/)。
+:::
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `jsjxy.stbu.edu.cn/news`
+  - `jsjxy.stbu.edu.cn`
+### Rule 2
+- `source`:
+  - `stbu.edu.cn`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "::: warning\n计算机学院通知公告疑似禁止了非大陆 IP 访问，使用路由需要自行 [部署](https://docs.rsshub.app/deploy/)。\n:::",
+  "example": "/stbu/jsjxy",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "jsjxy.ts",
+  "maintainers": [
+    "HyperCherry"
+  ],
+  "module": "() => import('@/routes/stbu/jsjxy.ts')",
+  "name": "计算机学院 - 通知公告",
+  "parameters": {},
+  "path": "/jsjxy",
+  "radar": [
+    {
+      "source": [
+        "jsjxy.stbu.edu.cn/news",
+        "jsjxy.stbu.edu.cn"
+      ]
+    },
+    {
+      "source": [
+        "stbu.edu.cn"
+      ]
+    }
+  ],
+  "url": "jsjxy.stbu.edu.cn/news"
+}
+```

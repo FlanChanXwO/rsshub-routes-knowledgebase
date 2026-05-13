@@ -1,0 +1,66 @@
+# 内蒙古广播电视台 - 点播
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `nmtv`
+- Namespace Name: `内蒙古广播电视台`
+- Route Path: `/column/:id?`
+- Route Name: `点播`
+- Example: `/nmtv/column/877`
+- URL: `nmtv.cn`
+- Language: `zh-CN`
+- Categories: `traditional-media`
+- Maintainers: `nczitzk`
+- Source Location: `column.tsx`
+- Source Module: `() => import('@/routes/nmtv/column.tsx')`
+
+## Description
+::: tip
+  如 [蒙古语卫视新闻联播](http://www.nmtv.cn/folder292/folder663/folder301/folder830/folder877) 的 URL 为 `http://www.nmtv.cn/folder292/folder663/folder301/folder830/folder877`，其栏目 id 为末尾数字编号，即 `877`。可以得到其对应路由为 [`/nmtv/column/877`](https://rsshub.app/nmtv/column/877)
+:::
+
+## Parameters
+- `id`: 栏目 id，可在对应栏目 URL 中找到
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "traditional-media"
+  ],
+  "description": "::: tip\n  如 [蒙古语卫视新闻联播](http://www.nmtv.cn/folder292/folder663/folder301/folder830/folder877) 的 URL 为 `http://www.nmtv.cn/folder292/folder663/folder301/folder830/folder877`，其栏目 id 为末尾数字编号，即 `877`。可以得到其对应路由为 [`/nmtv/column/877`](https://rsshub.app/nmtv/column/877)\n:::",
+  "example": "/nmtv/column/877",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "column.tsx",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/nmtv/column.tsx')",
+  "name": "点播",
+  "parameters": {
+    "id": "栏目 id，可在对应栏目 URL 中找到"
+  },
+  "path": "/column/:id?"
+}
+```

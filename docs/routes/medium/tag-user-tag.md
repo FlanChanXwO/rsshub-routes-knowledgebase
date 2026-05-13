@@ -1,0 +1,75 @@
+# Medium - Personalized Recommendations - Tag
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `medium`
+- Namespace Name: `Medium`
+- Route Path: `/tag/:user/:tag`
+- Route Name: `Personalized Recommendations - Tag`
+- Example: `/medium/tag/imsingee/cybersecurity`
+- URL: `medium.com`
+- Language: `en`
+- Categories: `blog`
+- Maintainers: `ImSingee`
+- Source Location: `tag.ts`
+- Source Module: `() => import('@/routes/medium/tag.ts')`
+
+## Description
+There are many tags, which can be obtained by clicking on a tag from the homepage and looking at the URL. For example, if the URL is `https://medium.com/?tag=web3`, then the tag is `web3`.
+
+::: warning
+  Personalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.
+:::
+
+## Parameters
+- `user`: Username
+- `tag`: Subscribed Tag
+
+
+## Features
+- `requireConfig`: [{"description": "", "name": "MEDIUM_COOKIE_*"}]
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+_None_
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "blog"
+  ],
+  "description": "There are many tags, which can be obtained by clicking on a tag from the homepage and looking at the URL. For example, if the URL is `https://medium.com/?tag=web3`, then the tag is `web3`.\n\n::: warning\n  Personalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.\n:::",
+  "example": "/medium/tag/imsingee/cybersecurity",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": [
+      {
+        "description": "",
+        "name": "MEDIUM_COOKIE_*"
+      }
+    ],
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "tag.ts",
+  "maintainers": [
+    "ImSingee"
+  ],
+  "module": "() => import('@/routes/medium/tag.ts')",
+  "name": "Personalized Recommendations - Tag",
+  "parameters": {
+    "tag": "Subscribed Tag",
+    "user": "Username"
+  },
+  "path": "/tag/:user/:tag"
+}
+```

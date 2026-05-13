@@ -1,0 +1,71 @@
+# 南方科技大学 - 新闻网（中文）
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `sustech`
+- Namespace Name: `南方科技大学`
+- Route Path: `/newshub-zh`
+- Route Name: `新闻网（中文）`
+- Example: `/sustech/newshub-zh`
+- URL: `newshub.sustech.edu.cn/news`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `sparkcyf`
+- Source Location: `newshub-zh.ts`
+- Source Module: `() => import('@/routes/sustech/newshub-zh.ts')`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `newshub.sustech.edu.cn/news`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "example": "/sustech/newshub-zh",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "newshub-zh.ts",
+  "maintainers": [
+    "sparkcyf"
+  ],
+  "module": "() => import('@/routes/sustech/newshub-zh.ts')",
+  "name": "新闻网（中文）",
+  "parameters": {},
+  "path": "/newshub-zh",
+  "radar": [
+    {
+      "source": [
+        "newshub.sustech.edu.cn/news"
+      ]
+    }
+  ],
+  "url": "newshub.sustech.edu.cn/news"
+}
+```

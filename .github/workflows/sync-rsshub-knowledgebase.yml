@@ -1,0 +1,77 @@
+name: Sync RSSHub Knowledgebase
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-rsshub-knowledgebase
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: '10.33.0'
+          run_install: false
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Clone RSSHub
+        run: git clone --depth=1 https://github.com/DIYgod/RSSHub.git "$RUNNER_TEMP/RSSHub"
+
+      - name: Install RSSHub dependencies
+        working-directory: ${{ runner.temp }}/RSSHub
+        run: pnpm install --frozen-lockfile
+
+      - name: Build RSSHub docs metadata
+        working-directory: ${{ runner.temp }}/RSSHub
+        run: pnpm build:docs
+
+      - name: Generate markdown knowledgebase
+        run: |
+          python .github/scripts/generate_knowledgebase.py \
+            --input "$RUNNER_TEMP/RSSHub/assets/build/docs/routes.json" \
+            --output "$RUNNER_TEMP/kb" \
+            --source-repo "https://github.com/DIYgod/RSSHub" \
+            --source-revision "$(git -C "$RUNNER_TEMP/RSSHub" rev-parse HEAD)"
+
+      - name: Replace generated docs
+        run: |
+          rsync -a --delete \
+            --exclude '.git/' \
+            --exclude '.github/' \
+            --exclude 'LICENSE' \
+            "$RUNNER_TEMP/kb/" ./
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md index docs
+          if git diff --cached --quiet; then
+            echo 'No changes to commit'
+            exit 0
+          fi
+          git commit -m "chore: sync RSSHub knowledgebase"
+          git push origin HEAD:main

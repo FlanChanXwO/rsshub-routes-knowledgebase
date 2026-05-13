@@ -1,0 +1,91 @@
+# 哈尔滨理工大学 - 新闻网
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `hrbust`
+- Namespace Name: `哈尔滨理工大学`
+- Route Path: `/news/:category?`
+- Route Name: `新闻网`
+- Example: `/hrbust/news`
+- URL: `news.hrbust.edu.cn`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `cscnk52`
+- Source Location: `news.ts`
+- Source Module: `() => import('@/routes/hrbust/news.ts')`
+
+## Description
+| 理工要闻 | 新闻导读 | 图文报道 | 综合新闻 | 教学科研 | 院处动态 | 学术科创 | 交流合作 | 学生天地 | 招生就业 | 党建思政 | 在线播放 | 理工人物 | 理工校报 | 媒体理工 | 讲座论坛 | 人才招聘 | 学科建设 |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| lgyw     | xwdd     | twbd     | zhenew   | jxky     | ycdt     | xskc     | jlhz     | xstd     | zsjy     | djsz     | zxbf     | lgrw     | lgxb     | mtlg     | jzlt     | rczp     | xkjs     |
+
+## Parameters
+- `category`: 栏目标识，默认为 lgyw（理工要闻）
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+- `supportRadar`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `news.hrbust.edu.cn/:category.htm`
+- `target`: `/news/:category`
+### Rule 2
+- `source`:
+  - `news.hrbust.edu.cn/`
+- `target`: `/news/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "| 理工要闻 | 新闻导读 | 图文报道 | 综合新闻 | 教学科研 | 院处动态 | 学术科创 | 交流合作 | 学生天地 | 招生就业 | 党建思政 | 在线播放 | 理工人物 | 理工校报 | 媒体理工 | 讲座论坛 | 人才招聘 | 学科建设 |\n|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|\n| lgyw     | xwdd     | twbd     | zhenew   | jxky     | ycdt     | xskc     | jlhz     | xstd     | zsjy     | djsz     | zxbf     | lgrw     | lgxb     | mtlg     | jzlt     | rczp     | xkjs     |",
+  "example": "/hrbust/news",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportRadar": true,
+    "supportScihub": false
+  },
+  "location": "news.ts",
+  "maintainers": [
+    "cscnk52"
+  ],
+  "module": "() => import('@/routes/hrbust/news.ts')",
+  "name": "新闻网",
+  "parameters": {
+    "category": "栏目标识，默认为 lgyw（理工要闻）"
+  },
+  "path": "/news/:category?",
+  "radar": [
+    {
+      "source": [
+        "news.hrbust.edu.cn/:category.htm"
+      ],
+      "target": "/news/:category"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/"
+      ],
+      "target": "/news/"
+    }
+  ],
+  "url": "news.hrbust.edu.cn",
+  "view": 5
+}
+```

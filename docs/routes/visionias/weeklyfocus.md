@@ -1,0 +1,68 @@
+# VisionIAS - Weekly Focus
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `visionias`
+- Namespace Name: `VisionIAS`
+- Route Path: `/weeklyFocus`
+- Route Name: `Weekly Focus`
+- Example: `/visionias/weeklyFocus`
+- URL: `visionias.in`
+- Language: `en`
+- Categories: `study`
+- Maintainers: `Rjnishant530`
+- Source Location: `weekly-focus.ts`
+- Source Module: `() => import('@/routes/visionias/weekly-focus.ts')`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `visionias.in/current-affairs/weekly-focus`
+- `target`: `/weeklyFocus`
+
+## Raw JSON
+```json
+{
+  "example": "/visionias/weeklyFocus",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "weekly-focus.ts",
+  "maintainers": [
+    "Rjnishant530"
+  ],
+  "module": "() => import('@/routes/visionias/weekly-focus.ts')",
+  "name": "Weekly Focus",
+  "path": "/weeklyFocus",
+  "radar": [
+    {
+      "source": [
+        "visionias.in/current-affairs/weekly-focus"
+      ],
+      "target": "/weeklyFocus"
+    }
+  ]
+}
+```

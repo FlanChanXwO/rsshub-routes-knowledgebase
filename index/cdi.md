@@ -1,0 +1,19 @@
+# 国家高端智库 / 综合开发研究院 Route Index
+
+## Namespace
+- Namespace: `cdi`
+- Display Name: `国家高端智库 / 综合开发研究院`
+- URL: `cdi.com.cn`
+- Language: `zh-CN`
+- Aliases: `cdi, cdi.com.cn, 国家高端智库 / 综合开发研究院`
+- Route Count: `1`
+
+## Routes
+
+### 栏目
+- Route ID: `cdi:/:id?`
+- Route Path: `/:id?`
+- File: `docs/routes/cdi/id.md`
+- File Name: `id.md`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

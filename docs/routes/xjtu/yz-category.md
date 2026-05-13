@@ -1,0 +1,79 @@
+# 西安交通大学 - 研究生招生信息网
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `xjtu`
+- Namespace Name: `西安交通大学`
+- Route Path: `/yz/:category?`
+- Route Name: `研究生招生信息网`
+- Example: `/xjtu/yz/zsdt`
+- URL: `2yuan.xjtu.edu.cn`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `YoghurtGuy`
+- Source Location: `yz.ts`
+- Source Module: `() => import('@/routes/xjtu/yz.ts')`
+
+## Description
+栏目类型
+
+| 招生动态 | 通知公告 | 政策法规 | 招生统计 | 历年复试线 | 博士招生 | 硕士招生 | 推免生 | 其他招生 |
+| -------- | -------- | -------- | -------- | ---------- | -------- | -------- | ------ | -------- |
+| zsdt     | tzgg     | zcfg     | zstj     | lnfsx      | bszs     | sszs     | tms    | qtzs     |
+
+## Parameters
+- `category`: 栏目类型，默认请求`zsdt`，详见下方表格
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `yz.xjtu.edu.cn/index/:category.htm`
+- `target`: `/yz/:category`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "栏目类型\n\n| 招生动态 | 通知公告 | 政策法规 | 招生统计 | 历年复试线 | 博士招生 | 硕士招生 | 推免生 | 其他招生 |\n| -------- | -------- | -------- | -------- | ---------- | -------- | -------- | ------ | -------- |\n| zsdt     | tzgg     | zcfg     | zstj     | lnfsx      | bszs     | sszs     | tms    | qtzs     |",
+  "example": "/xjtu/yz/zsdt",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "yz.ts",
+  "maintainers": [
+    "YoghurtGuy"
+  ],
+  "module": "() => import('@/routes/xjtu/yz.ts')",
+  "name": "研究生招生信息网",
+  "parameters": {
+    "category": "栏目类型，默认请求`zsdt`，详见下方表格"
+  },
+  "path": "/yz/:category?",
+  "radar": [
+    {
+      "source": [
+        "yz.xjtu.edu.cn/index/:category.htm"
+      ],
+      "target": "/yz/:category"
+    }
+  ]
+}
+```

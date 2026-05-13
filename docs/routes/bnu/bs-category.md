@@ -1,0 +1,77 @@
+# 北京师范大学 - 经济与工商管理学院
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `bnu`
+- Namespace Name: `北京师范大学`
+- Route Path: `/bs/:category?`
+- Route Name: `经济与工商管理学院`
+- Example: `/bnu/bs`
+- URL: `bs.bnu.edu.cn`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `nczitzk`
+- Source Location: `bs.ts`
+- Source Module: `() => import('@/routes/bnu/bs.ts')`
+
+## Description
+| 学院新闻 | 通知公告 | 学术成果 | 学术讲座 | 教师观点 | 人才招聘 |
+| -------- | -------- | -------- | -------- | -------- | -------- |
+| xw       | zytzyyg  | xzcg     | xzjz     | xz       | bshzs    |
+
+## Parameters
+- `category`: 分类，见下表，默认为学院新闻
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `bs.bnu.edu.cn/:category/index.html`
+- `target`: `/bs/:category`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "| 学院新闻 | 通知公告 | 学术成果 | 学术讲座 | 教师观点 | 人才招聘 |\n| -------- | -------- | -------- | -------- | -------- | -------- |\n| xw       | zytzyyg  | xzcg     | xzjz     | xz       | bshzs    |",
+  "example": "/bnu/bs",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "bs.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "module": "() => import('@/routes/bnu/bs.ts')",
+  "name": "经济与工商管理学院",
+  "parameters": {
+    "category": "分类，见下表，默认为学院新闻"
+  },
+  "path": "/bs/:category?",
+  "radar": [
+    {
+      "source": [
+        "bs.bnu.edu.cn/:category/index.html"
+      ],
+      "target": "/bs/:category"
+    }
+  ]
+}
+```

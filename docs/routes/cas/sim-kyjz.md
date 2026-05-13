@@ -1,0 +1,73 @@
+# 中国科学院 - 上海微系统与信息技术研究所 科技进展
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `cas`
+- Namespace Name: `中国科学院`
+- Route Path: `/sim/kyjz`
+- Route Name: `上海微系统与信息技术研究所 科技进展`
+- Example: `/cas/sim/kyjz`
+- URL: `www.sim.cas.cn/xwzx2016/kyjz`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `HenryQW`
+- Source Location: `sim/kyjz.ts`
+- Source Module: `() => import('@/routes/cas/sim/kyjz.ts')`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.sim.cas.cn/xwzx2016/kyjz`
+  - `www.sim.cas.cn/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "example": "/cas/sim/kyjz",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "sim/kyjz.ts",
+  "maintainers": [
+    "HenryQW"
+  ],
+  "module": "() => import('@/routes/cas/sim/kyjz.ts')",
+  "name": "上海微系统与信息技术研究所 科技进展",
+  "parameters": {},
+  "path": "/sim/kyjz",
+  "radar": [
+    {
+      "source": [
+        "www.sim.cas.cn/xwzx2016/kyjz",
+        "www.sim.cas.cn/"
+      ]
+    }
+  ],
+  "url": "www.sim.cas.cn/xwzx2016/kyjz"
+}
+```

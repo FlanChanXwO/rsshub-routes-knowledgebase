@@ -1,0 +1,19 @@
+# 长江有色网 Route Index
+
+## Namespace
+- Namespace: `ccmn`
+- Display Name: `长江有色网`
+- URL: `www.ccmn.cn`
+- Language: `zh-CN`
+- Aliases: `ccmn, ccmn.cn, www, www.ccmn.cn, 长江有色网`
+- Route Count: `1`
+
+## Routes
+
+### 调价动态
+- Route ID: `ccmn:/price-adjustment/:category`
+- Route Path: `/price-adjustment/:category`
+- File: `docs/routes/ccmn/price-adjustment-category.md`
+- File Name: `price-adjustment-category.md`
+- Categories: `other`
+- Maintainers: `chrisis58`

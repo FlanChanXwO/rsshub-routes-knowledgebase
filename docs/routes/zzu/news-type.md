@@ -1,0 +1,75 @@
+# 郑州大学 - 郑大新闻网
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `zzu`
+- Namespace Name: `郑州大学`
+- Route Path: `/news/:type`
+- Route Name: `郑大新闻网`
+- Example: `/zzu/news/ywsd`
+- URL: `www.zzu.edu.cn`
+- Language: `zh-CN`
+- Categories: `university`
+- Maintainers: `amandus1990`
+- Source Location: `news.ts`
+- Source Module: `() => import('@/routes/zzu/news.ts')`
+
+## Description
+| 要闻速递 | 教学科研 | 基层动态 | 媒体郑大 |
+| -------- | -------- | -------- | -------- |
+| ywsd     | jxky     | jcdt     | mtzd     |
+
+## Parameters
+- `type`: 分类名
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `news.zzu.edu.cn/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "university"
+  ],
+  "description": "| 要闻速递 | 教学科研 | 基层动态 | 媒体郑大 |\n| -------- | -------- | -------- | -------- |\n| ywsd     | jxky     | jcdt     | mtzd     |",
+  "example": "/zzu/news/ywsd",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "location": "news.ts",
+  "maintainers": [
+    "amandus1990"
+  ],
+  "module": "() => import('@/routes/zzu/news.ts')",
+  "name": "郑大新闻网",
+  "parameters": {
+    "type": "分类名"
+  },
+  "path": "/news/:type",
+  "radar": [
+    {
+      "source": [
+        "news.zzu.edu.cn/"
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,134 @@
+# 哔哩哔哩 bilibili - 排行榜
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `bilibili`
+- Namespace Name: `哔哩哔哩 bilibili`
+- Route Path: `/ranking/:rid?/:embed?/:redirect1?/:redirect2?`
+- Route Name: `排行榜`
+- Example: `/bilibili/ranking/all`
+- URL: `www.bilibili.com`
+- Language: `zh-CN`
+- Categories: `social-media`
+- Maintainers: `DIYgod, hyoban`
+- Source Location: `ranking.ts`
+- Source Module: `() => import('@/routes/bilibili/ranking.ts')`
+
+## Description
+_None_
+
+## Parameters
+- `rid`: {"default": "all", "description": "排行榜分区代号或 rid，可在 URL 中找到", "options": [{"label": "全站", "value": "all"}, {"label": "影视", "value": "cinephile"}, {"label": "娱乐", "value": "ent"}, {"label": "音乐", "value": "music"}, {"label": "舞蹈", "value": "dance"}, {"label": "动画", "value": "douga"}, {"label": "鬼畜", "value": "kichiku"}, {"label": "游戏", "value": "game"}, {"label": "知识", "value": "knowledge"}, {"label": "科技数码", "value": "tech"}, {"label": "汽车", "value": "car"}, {"label": "时尚美妆", "value": "fashion"}, {"label": "体育运动", "value": "sports"}, {"label": "美食", "value": "food"}, {"label": "动物", "value": "animal"}]}
+- `embed`: 默认为开启内嵌视频，任意值为关闭
+- `redirect1`: 留空，用于兼容之前的路由
+- `redirect2`: 留空，用于兼容之前的路由
+
+
+## Features
+_None_
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.bilibili.com/v/popular/rank/:rid`
+- `target`: `/ranking/:rid`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media"
+  ],
+  "example": "/bilibili/ranking/all",
+  "location": "ranking.ts",
+  "maintainers": [
+    "DIYgod",
+    "hyoban"
+  ],
+  "module": "() => import('@/routes/bilibili/ranking.ts')",
+  "name": "排行榜",
+  "parameters": {
+    "embed": "默认为开启内嵌视频，任意值为关闭",
+    "redirect1": "留空，用于兼容之前的路由",
+    "redirect2": "留空，用于兼容之前的路由",
+    "rid": {
+      "default": "all",
+      "description": "排行榜分区代号或 rid，可在 URL 中找到",
+      "options": [
+        {
+          "label": "全站",
+          "value": "all"
+        },
+        {
+          "label": "影视",
+          "value": "cinephile"
+        },
+        {
+          "label": "娱乐",
+          "value": "ent"
+        },
+        {
+          "label": "音乐",
+          "value": "music"
+        },
+        {
+          "label": "舞蹈",
+          "value": "dance"
+        },
+        {
+          "label": "动画",
+          "value": "douga"
+        },
+        {
+          "label": "鬼畜",
+          "value": "kichiku"
+        },
+        {
+          "label": "游戏",
+          "value": "game"
+        },
+        {
+          "label": "知识",
+          "value": "knowledge"
+        },
+        {
+          "label": "科技数码",
+          "value": "tech"
+        },
+        {
+          "label": "汽车",
+          "value": "car"
+        },
+        {
+          "label": "时尚美妆",
+          "value": "fashion"
+        },
+        {
+          "label": "体育运动",
+          "value": "sports"
+        },
+        {
+          "label": "美食",
+          "value": "food"
+        },
+        {
+          "label": "动物",
+          "value": "animal"
+        }
+      ]
+    }
+  },
+  "path": "/ranking/:rid?/:embed?/:redirect1?/:redirect2?",
+  "radar": [
+    {
+      "source": [
+        "www.bilibili.com/v/popular/rank/:rid"
+      ],
+      "target": "/ranking/:rid"
+    }
+  ],
+  "view": 3
+}
+```
