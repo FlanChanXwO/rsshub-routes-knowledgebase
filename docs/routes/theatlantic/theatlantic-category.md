@@ -83,7 +83,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
       "errorAt": "2026-05-11T18:04:52.740Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'data')\n[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n[GET] \"https://www.theatlantic.com/books/2026/05/paul-mccartney-late-style-jim-windolf-music-book-review/687121/\": 403 Forbidden\nCannot read properties of undefined (reading 'data')\nCannot read properties of undefined (reading 'data')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'data')\n[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n[GET] \"https://www.theatlantic.com/ideas/2026/05/kari-lake-jamaica-record/687141/\": 403 Forbidden\nCannot read properties of undefined (reading 'data')\nCannot read properties of undefined (reading 'data')\n",
       "id": "61228164717836288",
       "image": null,
       "ownerUserId": null,

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1937,
+  "heat": 1939,
   "location": "top.ts",
   "maintainers": [
     "yuuow"
@@ -84,7 +84,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.zcool.com.cn/top/index.do",
-      "title": "站酷总榜设计_创意作品榜_第471期-站酷ZCOOL",
+      "title": "站酷总榜设计_创意作品榜_第472期-站酷ZCOOL",
       "type": "feed",
       "url": "rsshub://zcool/top/design"
     },
@@ -96,7 +96,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.zcool.com.cn/top/article.do?rankType=8",
-      "title": "站酷总榜设计_创意文章榜_第471期-站酷ZCOOL",
+      "title": "站酷总榜设计_创意文章榜_第472期-站酷ZCOOL",
       "type": "feed",
       "url": "rsshub://zcool/top/article"
     }

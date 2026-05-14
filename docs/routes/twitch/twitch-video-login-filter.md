@@ -95,8 +95,8 @@ _None_
   "topFeeds": [
     {
       "description": "Twitch - Riot Games - Recent highlights and uploads - Powered by RSSHub",
-      "errorAt": "2026-05-11T22:48:26.064Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'user')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59281409354376192",
       "image": null,
       "ownerUserId": null,
@@ -107,8 +107,8 @@ _None_
     },
     {
       "description": "Twitch - 陈一发儿放映室 - All videos - Powered by RSSHub",
-      "errorAt": "2026-05-11T19:52:31.449Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'user')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68185461739717632",
       "image": null,
       "ownerUserId": null,

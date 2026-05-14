@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/thepaper/user/4221423",
-  "heat": 14,
+  "heat": 15,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"

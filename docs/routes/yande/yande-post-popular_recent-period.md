@@ -103,8 +103,8 @@
     },
     {
       "description": "Last week - yande.re - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:08:19.932Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62219893932021760",
       "id": "62219893932021760",
       "image": null,
       "ownerUserId": null,

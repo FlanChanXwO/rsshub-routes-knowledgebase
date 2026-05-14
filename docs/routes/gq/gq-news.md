@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "GQ is the global flagship of men's fashion, the arbiter of cool for anyone who sees the world through the lens of taste and style. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:08:16.069Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57995444932781056",
       "id": "57995444932781056",
       "image": null,
       "ownerUserId": null,

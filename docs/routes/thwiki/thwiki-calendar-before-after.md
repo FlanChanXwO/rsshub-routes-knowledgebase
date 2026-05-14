@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
-      "errorAt": "2026-05-01T12:05:54.352Z",
-      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-04-10/2026-06-09\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

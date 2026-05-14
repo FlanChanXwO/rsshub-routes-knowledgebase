@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "格隆汇为中国投资者出海投资及中国公司出海融资,提供海外投资,港股开户行情,科创板股票发行数据、资讯、研究、交易等一站式服务,目前业务范围主要涉及港股与美股两大市场,未来将陆续开通台湾、日本、印度、欧洲等市场. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:09:54.169Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72552727933810688",
       "id": "72552727933810688",
       "image": "https://cdn.gelonghui.com/static/web/www.ico.la.ico",
       "ownerUserId": null,

@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "武汉大学新闻网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T19:47:25.493Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59556206825577472",
       "image": "https://news.whu.edu.cn/images/logoa.png",
       "ownerUserId": null,

@@ -40,7 +40,7 @@ _None_
   ],
   "description": "Return results from 2020",
   "example": "/ieee-security/security-privacy",
-  "heat": 132,
+  "heat": 133,
   "location": "sp.ts",
   "maintainers": [
     "ZeddYu"
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "IEEE Symposium on Security and Privacy Accepted Papers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T02:22:44.060Z",
+      "errorMessage": "cheerio.load() expects a string\n",
       "id": "67195327232953344",
       "image": null,
       "ownerUserId": null,

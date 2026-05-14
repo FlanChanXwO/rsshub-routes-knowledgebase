@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 36,
+  "heat": 35,
   "location": "latest-movie-bt.ts",
   "maintainers": [
     "xianghuawe",

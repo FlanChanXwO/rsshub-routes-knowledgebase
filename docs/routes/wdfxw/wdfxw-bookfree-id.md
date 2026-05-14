@@ -707,7 +707,7 @@
     {
       "description": "文档分享网，在这里您可以分享和下载网站推荐的资料和资源。 - Powered by RSSHub",
       "errorAt": "2026-05-12T00:58:03.783Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.wdfxw.net/bookfree.html\": <no response> fetch failed\n",
       "id": "167817053585897472",
       "image": "https://www.wdfxw.net/FileUpload/Images/38e18430-8d8e-41df-8a5d-dfe5433c2084.jpg",
       "ownerUserId": null,

@@ -553,8 +553,8 @@
   "topFeeds": [
     {
       "description": "中国气象局--国家气候中心--气候系统监测·诊断·预测·评估 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T21:37:49.112Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "71805369887410176",
       "image": "http://www.ncc-cma.net/images/logo.png?v=2",
       "ownerUserId": null,

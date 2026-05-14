@@ -82,7 +82,7 @@ _None_
     {
       "description": "天下雜誌提供最新財經等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-06T12:39:31.829Z",
-      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n  - waiting for locator('.caption')\n    - waiting for\" https://www.cw.com.tw/masterChannel.action?idMasterChannel=8\" navigation to finish...\n    - navigated to \"https://www.cw.com.tw/masterChannel.action?idMasterChannel=8\"\n    - waiting for navigation to finish...\n    - navigated to \"https://www.cw.com.tw/masterChannel.action?idMasterChannel=8\"\n\n",
+      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n  - waiting for locator('.caption')\n    2 × waiting for\" https://www.cw.com.tw/masterChannel.action?idMasterChannel=8\" navigation to finish...\n      - navigated to \"https://www.cw.com.tw/masterChannel.action?idMasterChannel=8\"\n\n",
       "id": "66757488440144896",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,
@@ -94,7 +94,7 @@ _None_
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-15T10:10:26.628Z",
-      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n  - waiting for locator('.caption')\n    - waiting for\" https://www.cw.com.tw/masterChannel.action?idMasterChannel=9\" navigation to finish...\n\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

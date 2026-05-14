@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 303,
+  "heat": 302,
   "location": "live.ts",
   "maintainers": [
     "hoilc"
@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "neuro-sama the ai vtuber - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T22:09:32.532Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "60683277623649280",
       "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
       "ownerUserId": null,

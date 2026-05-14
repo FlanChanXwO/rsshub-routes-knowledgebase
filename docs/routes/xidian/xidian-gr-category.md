@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "通知公告-研究生院-西安电子科技大学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T14:38:18.451Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "88422062290453504",
       "image": null,
       "ownerUserId": null,

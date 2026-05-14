@@ -91,7 +91,7 @@ _None_
     {
       "description": "domp4电影 - Powered by RSSHub",
       "errorAt": "2025-05-15T17:19:35.955Z",
-      "errorMessage": "[GET] \"https://www.xlmp4.com/custom/update.html\": <no response> fetch failed\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "69928302166378496",
       "image": null,
       "ownerUserId": null,

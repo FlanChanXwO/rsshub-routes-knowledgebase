@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Show your HuskHomes homes and warps in an easy-to-use GUI menu. Updated to support Folia and latest versions. - Powered by RSSHub",
+      "description": "Create fancy looking text, item or block holograms with the new 1.19.4 text display entities - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851432297317376",
+      "id": "123850042948199424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/fkUN2Wmv",
-      "title": "Updated-HuskHomesGUI Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/5QNgOj66",
+      "title": "FancyHolograms Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/fkUN2Wmv/versions"
+      "url": "rsshub://modrinth/project/5QNgOj66/versions"
     }
   ]
 }

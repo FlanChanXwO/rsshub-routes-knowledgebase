@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "logrocket-Dev - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T20:31:19.920Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "80088309178667008",
       "image": null,
       "ownerUserId": null,

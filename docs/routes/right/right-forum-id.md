@@ -67,7 +67,7 @@ _None_
     {
       "description": "国内iptv、软件、代码、源 - 恩山无线论坛 - Powered by RSSHub",
       "errorAt": "2026-05-07T15:54:26.170Z",
-      "errorMessage": "[GET] \"https://www.right.com.cn/forum/forum-182-1.html\": <no response> fetch failed\n524 Receive timeout from origin\n[GET] \"https://www.right.com.cn/forum/forum-182-1.html\": <no response> fetch failed\n[GET] \"https://www.right.com.cn/forum/forum-182-1.html\": <no response> fetch failed\n[GET] \"https://www.right.com.cn/forum/forum-182-1.html\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.right.com.cn/forum/forum-182-1.html\": <no response> fetch failed\n524 Receive timeout from origin\nFailed to fetch\n[GET] \"https://www.right.com.cn/forum/forum-182-1.html\": <no response> fetch failed\nFailed to fetch\n",
       "id": "54806809341165571",
       "image": null,
       "ownerUserId": null,

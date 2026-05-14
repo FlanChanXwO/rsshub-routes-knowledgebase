@@ -97,8 +97,8 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": "2026-05-12T01:13:22.156Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57266422630121472",
       "image": null,
       "ownerUserId": null,

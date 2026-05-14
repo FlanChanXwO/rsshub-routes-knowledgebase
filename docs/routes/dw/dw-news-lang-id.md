@@ -57,7 +57,7 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 200,
+  "heat": 201,
   "location": "news.ts",
   "maintainers": [
     "quiniapiezoelectricity"
@@ -95,8 +95,8 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     },
     {
       "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:23:40.978Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 80448685677001728",
       "id": "80448685677001728",
       "image": null,
       "ownerUserId": null,

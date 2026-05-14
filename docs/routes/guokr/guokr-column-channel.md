@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "果壳网 吃货研究所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:31:26.128Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41843304175275008",
       "image": null,
       "ownerUserId": null,

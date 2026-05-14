@@ -85,18 +85,6 @@ Specify options (in the format of query string) in parameter `routeParams` to co
   },
   "topFeeds": [
     {
-      "description": "4chan's /hc/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "257165880547653632",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://boards.4chan.org/hc/catalog",
-      "title": "4chan's /hc/",
-      "type": "feed",
-      "url": "rsshub://4chan/hc/catalog"
-    },
-    {
       "description": "4chan's /s/ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -107,6 +95,18 @@ Specify options (in the format of query string) in parameter `routeParams` to co
       "title": "4chan's /s/",
       "type": "feed",
       "url": "rsshub://4chan/s/catalog"
+    },
+    {
+      "description": "4chan's /hc/ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "257165880547653632",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://boards.4chan.org/hc/catalog",
+      "title": "4chan's /hc/",
+      "type": "feed",
+      "url": "rsshub://4chan/hc/catalog"
     }
   ]
 }

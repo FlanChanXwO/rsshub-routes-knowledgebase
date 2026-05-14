@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1201,
+  "heat": 1202,
   "location": "ranking.ts",
   "maintainers": [
     "immmortal",
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT之家-24 小时最热 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:04:20.031Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905679",
       "id": "41572238273905679",
       "image": null,
       "ownerUserId": null,

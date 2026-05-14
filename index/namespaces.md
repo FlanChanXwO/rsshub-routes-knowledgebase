@@ -3560,6 +3560,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/gf-cn.md`
 
+## GIGAZINE
+- Namespace: `gigazine`
+- Aliases: `gigazine, gigazine.net`
+- Route Count: `1`
+- Index File: `index/gigazine.md`
+
 ## gihyo.jp
 - Namespace: `gihyo`
 - Aliases: `gihyo, gihyo.jp`

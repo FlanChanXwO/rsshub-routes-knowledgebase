@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 253,
+  "heat": 255,
   "location": "comic.ts",
   "maintainers": [
     "MegrezZhu"
@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "打倒魔王“之后”的勇者一行人中，身为魔法使的芙莉莲同时是一个精灵，她和另外三人有着不一样的地方。她对于生活在“之后”的世界、感受到的事情有着不一样的看法…… - Powered by RSSHub",
-      "errorAt": "2026-05-11T22:56:53.893Z",
-      "errorMessage": "[GET] \"https://www.manhuagui.com/comic/35937/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73947064453780480",
       "image": null,
       "ownerUserId": null,

@@ -84,7 +84,7 @@ _None_
     {
       "description": "与我周旋一二 (@normanzxy) - Powered by RSSHub",
       "errorAt": "2026-01-20T10:59:58.241Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "RSS for this domain is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true' or 'MASTODON_API_HOST' is set.\n",
       "id": "57284621284168704",
       "image": null,
       "ownerUserId": null,

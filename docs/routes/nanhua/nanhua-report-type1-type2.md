@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "南华期货 - 周度报告 - 黑色 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:17:54.453Z",
+      "errorMessage": "[POST] \"https://mall.nanhua.net/mall/nh/api/report/getPage.json\": <no response> fetch failed\n",
       "id": "266144713677243392",
       "image": "https://mall.nanhua.net/favicon.ico",
       "ownerUserId": null,

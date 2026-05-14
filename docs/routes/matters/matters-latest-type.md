@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "Matters | 熱議 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:08:21.112Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905692",
       "id": "41572238273905692",
       "image": null,
       "ownerUserId": null,

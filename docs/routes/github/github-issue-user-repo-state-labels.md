@@ -91,8 +91,8 @@ _None_
   "topFeeds": [
     {
       "description": "ruanyf/weekly Issues - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:05:26.666Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 52721325092269113",
       "id": "52721325092269113",
       "image": null,
       "ownerUserId": null,

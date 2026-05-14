@@ -74,7 +74,7 @@ _None_
     {
       "description": "东方网-上海 - Powered by RSSHub",
       "errorAt": "2026-04-18T09:38:01.079Z",
-      "errorMessage": "[GET] \"https://apin.eastday.com/apiplus/special/specialnewslistbyurl?specialUrl=1632798465040016&skipCount=0&limitCount=20\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://apin.eastday.com/apiplus/special/specialnewslistbyurl?specialUrl=1632798465040016&skipCount=0&limitCount=20\": <no response> fetch failed\n",
       "id": "60975269249526784",
       "image": null,
       "ownerUserId": null,

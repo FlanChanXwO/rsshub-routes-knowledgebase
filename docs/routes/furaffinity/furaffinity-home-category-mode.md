@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T22:53:11.305Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "78978405973911552",
       "image": null,
       "ownerUserId": null,

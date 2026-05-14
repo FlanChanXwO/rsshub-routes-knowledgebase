@@ -100,16 +100,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "glacier - Powered by RSSHub",
+      "description": "query detection - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175660145371323392",
+      "id": "199876342948952064",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=glacier&sort=0",
-      "title": "glacier",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=query/Detection&sort=0",
+      "title": "query detection",
       "type": "feed",
-      "url": "rsshub://papers/query/glacier"
+      "url": "rsshub://papers/query"
     }
   ],
   "url": "papers.cool"

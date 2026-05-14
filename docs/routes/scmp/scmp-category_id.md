@@ -77,7 +77,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
       "errorAt": "2026-05-04T15:32:32.074Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'summary')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'flatMap')\n",
       "id": "58381798255721484",
       "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,
@@ -88,8 +88,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     },
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T12:37:25.758Z",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'flatMap')\n",
       "id": "58381798255721483",
       "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

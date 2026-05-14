@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "#china - Fansly - Powered by RSSHub",
-      "errorAt": "2026-05-12T02:32:28.139Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79121801531701248",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
       "ownerUserId": null,

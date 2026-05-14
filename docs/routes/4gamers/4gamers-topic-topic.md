@@ -76,7 +76,7 @@ _None_
     {
       "description": "4Gamers - gentlemen-topic - Powered by RSSHub",
       "errorAt": "2026-02-23T07:49:01.760Z",
-      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78987/black-gold-shining-town-steam-page-released\n",
+      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78780/bellna-repps-futastic-adventure\n",
       "id": "83442528914522112",
       "image": null,
       "ownerUserId": null,

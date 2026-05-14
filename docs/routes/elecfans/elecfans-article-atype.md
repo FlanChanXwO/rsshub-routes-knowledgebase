@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "elecfans special articles - Powered by RSSHub",
-      "errorAt": "2026-05-12T00:23:15.099Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-05-13T03:24:25.558Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 182701002532529152",
       "id": "182701002532529152",
       "image": null,
       "ownerUserId": null,

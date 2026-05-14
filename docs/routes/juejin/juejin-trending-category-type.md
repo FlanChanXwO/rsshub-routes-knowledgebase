@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5391,
+  "heat": 5394,
   "location": "trending.ts",
   "maintainers": [
     "moaix"

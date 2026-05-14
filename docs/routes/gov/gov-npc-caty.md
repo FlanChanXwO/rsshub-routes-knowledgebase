@@ -91,7 +91,7 @@
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-05-11T09:04:51.612Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

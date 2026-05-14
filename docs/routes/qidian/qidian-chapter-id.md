@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "起点 宿命之环 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "57278498453365760",
-      "image": "https:https://imgservices-1252317822.image.myqcloud.com/coco/s06272023/b412ecf2.e7k0cq.png",
-      "ownerUserId": null,
-      "siteUrl": "https://book.qidian.com/info/1036370336",
-      "title": "起点 宿命之环",
-      "type": "feed",
-      "url": "rsshub://qidian/chapter/1036370336"
-    },
-    {
       "description": "起点 剑来 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ _None_
       "title": "起点 剑来",
       "type": "feed",
       "url": "rsshub://qidian/chapter/1012261200"
+    },
+    {
+      "description": "起点 宿命之环 - Powered by RSSHub",
+      "errorAt": "2026-05-12T20:21:15.472Z",
+      "errorMessage": "500 Internal Server Error\n",
+      "id": "57278498453365760",
+      "image": "https:https://imgservices-1252317822.image.myqcloud.com/coco/s06272023/b412ecf2.e7k0cq.png",
+      "ownerUserId": null,
+      "siteUrl": "https://book.qidian.com/info/1036370336",
+      "title": "起点 宿命之环",
+      "type": "feed",
+      "url": "rsshub://qidian/chapter/1036370336"
     }
   ],
   "view": 5

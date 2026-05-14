@@ -171,14 +171,14 @@
       "url": "rsshub://10000link/info/newslists/My01"
     },
     {
-      "description": "风控不是业务的敌人！46号令终身问责背景下，国企供应链风控如何从“背锅侠”逆袭成“护航员”？ - Powered by RSSHub",
+      "description": "为物流仓储数据赋予法律灵魂：激活中国存货资产金融价值的路径思考 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "166018536566226944",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx",
-      "title": "10000万联网 - 风控不是业务的敌人！46号令终身问责背景下，国企供应链风控如何从“背锅侠”逆袭成“护航员”？",
+      "title": "10000万联网 - 为物流仓储数据赋予法律灵魂：激活中国存货资产金融价值的路径思考",
       "type": "feed",
       "url": "rsshub://10000link/info"
     }

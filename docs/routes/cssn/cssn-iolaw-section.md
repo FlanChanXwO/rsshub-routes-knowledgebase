@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国法学网 - Powered by RSSHub",
-      "errorAt": "2026-05-11T19:49:16.212Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56957441693996032",
       "image": null,
       "ownerUserId": null,

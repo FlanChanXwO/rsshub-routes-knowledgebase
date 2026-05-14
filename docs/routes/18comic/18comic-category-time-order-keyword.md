@@ -78,7 +78,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 454,
+  "heat": 453,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -105,14 +105,14 @@
   },
   "topFeeds": [
     {
-      "description": "最新 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-05-12T01:14:08.153Z",
+      "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
+      "errorAt": "2026-05-13T03:16:32.558Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 149578173744708609",
       "id": "149578173744708609",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://jmcomic1.me/albums",
-      "title": "最新 Comics - 禁漫天堂",
+      "title": "最新的 Comics - 禁漫天堂",
       "type": "feed",
       "url": "rsshub://18comic"
     },

@@ -96,7 +96,7 @@ Due to [limitations by Spotify](https://developer.spotify.com/blog/2024-11-27-ch
     {
       "description": "我的 #1 歌单 - Powered by RSSHub",
       "errorAt": "2026-03-13T12:56:10.015Z",
-      "errorMessage": "[GET] \"https://api.spotify.com/v1/playlists/46xeCbIm6G6fwyEnQt3jDE\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "66927900129095680",
       "image": "https://mosaic.scdn.co/640/ab67616d00001e024c71a3621790807f860013f2ab67616d00001e027cee47f72f7ba60ea64d47baab67616d00001e027e706654b5f1203c25a7d129ab67616d00001e029ad5c65b2bb5fabc66f2ae94",
       "ownerUserId": null,

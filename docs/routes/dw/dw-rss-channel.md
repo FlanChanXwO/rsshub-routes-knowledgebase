@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "Deutsche Welle: DW-WORLD.DE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:10:54.774Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 80330476301410304",
       "id": "80330476301410304",
       "image": null,
       "ownerUserId": null,

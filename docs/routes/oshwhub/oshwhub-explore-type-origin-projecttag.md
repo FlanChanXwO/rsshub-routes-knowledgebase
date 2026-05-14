@@ -584,7 +584,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "explore.ts",
   "maintainers": [
     "tylinux",
@@ -1543,8 +1543,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-05-11T19:09:10.943Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "215454511119244288",
       "image": "/_next/static/media/logo.e924b854.png",
       "ownerUserId": null,

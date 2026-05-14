@@ -74,28 +74,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "老雷｜投資人 - Powered by RSSHub",
+      "description": "Creating Christian Apologetic Videos - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "248768060163265536",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/7369407/b41e9121743d43228402964949ffc646/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/6.jpeg?token-hash=vAGokXNu3gVVhr8ltQVb3K_c93ErzU4m8Ic_l_xpgGw%3D&token-time=1778284800",
+      "id": "210727018282671128",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/117296/187572e9f7ae4ecc84821947b944548c/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/2.jpg?token-hash=wOM4bknUMvDzMRgkAo4IdseT6aaNA2Jhk0nlZJb6bqk%3D&token-time=1779926400",
       "ownerUserId": null,
-      "siteUrl": "https://www.patreon.com/themarketmemo",
-      "title": "交易筆記 · TheMarketMemo",
+      "siteUrl": "https://www.patreon.com/inspiringphilosophy",
+      "title": "Inspiring Philosophy",
       "type": "feed",
-      "url": "rsshub://patreon/themarketmemo"
+      "url": "rsshub://patreon/inspiringphilosophy"
     },
     {
-      "description": "Home of the AI Insiders network: plus exclusive content and more - Powered by RSSHub",
+      "description": "Creating videos, blog posts, and a podcast - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "259230965622692864",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/10225208/c855f708acdb4572b279258e0b248f35/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/2.png?token-hash=NizlMGqeRnvUWGudBwBzwmNyQ12tAUBqwJOO-Z_0Wkc%3D&token-time=1778284800",
+      "id": "210727018282671124",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/386335/5bfb46da077a4253a77bb46e612a0178/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/2.jpeg?token-hash=HDLiQ5dBiar6xeQ-oUb3Zk_zc90TLSTvfAtNuDXeMeE%3D&token-time=1779840000",
       "ownerUserId": null,
-      "siteUrl": "https://www.patreon.com/AIExplained",
-      "title": "AI Explained",
+      "siteUrl": "https://www.patreon.com/capturingchristianity",
+      "title": "Capturing Christianity",
       "type": "feed",
-      "url": "rsshub://patreon/AIExplained"
+      "url": "rsshub://patreon/capturingchristianity"
     }
   ]
 }

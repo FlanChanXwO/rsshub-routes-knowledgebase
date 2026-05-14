@@ -81,7 +81,7 @@ To subscribe to [Apple security releases](https://support.apple.com/en-us/100100
   },
   "topFeeds": [
     {
-      "description": "This document lists security updates and Rapid Security Responses for Apple software. - Powered by RSSHub",
+      "description": "This document lists security updates for Apple software. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "148569844383195136",
@@ -93,7 +93,7 @@ To subscribe to [Apple security releases](https://support.apple.com/en-us/100100
       "url": "rsshub://apple/security-releases"
     },
     {
-      "description": "这篇文稿列出了适用于 Apple 软件的安全性更新和快速安全响应。 - Powered by RSSHub",
+      "description": "这篇文稿列出了 Apple 软件的安全性更新。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "172636149124995072",

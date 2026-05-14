@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "漢化 < 雜誌&短篇 < 紳士漫畫-專註分享漢化本子|邪惡漫畫 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:05:33.560Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42178678837350400",
       "id": "42178678837350400",
       "image": null,
       "ownerUserId": null,

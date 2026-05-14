@@ -51,7 +51,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 534,
+  "heat": 533,
   "location": "article.ts",
   "maintainers": [
     "EsuRt"
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新网 - 首页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:08:22.369Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238278099969",
       "id": "41572238278099969",
       "image": null,
       "ownerUserId": null,

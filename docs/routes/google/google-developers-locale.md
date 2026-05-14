@@ -39,7 +39,7 @@ _None_
   ],
   "description": "Google Developers Blog",
   "example": "/google/developers/en",
-  "heat": 211,
+  "heat": 210,
   "location": "developers.ts",
   "maintainers": [
     "Loongphy"

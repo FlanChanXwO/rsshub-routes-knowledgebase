@@ -224,8 +224,8 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
   "topFeeds": [
     {
       "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T20:16:49.590Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "198041350264348672",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

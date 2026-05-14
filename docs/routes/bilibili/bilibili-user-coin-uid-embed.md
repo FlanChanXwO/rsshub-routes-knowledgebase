@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "大闲人贾白 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T19:10:53.281Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "59183499828667392",
       "image": null,
       "ownerUserId": null,
@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "哈喽的B站频道 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "62853430730507264",
+      "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": "2025-10-10T12:34:35.139Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "156121534429763584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/383447486",
-      "title": "哈喽的B站频道 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/3546738526784312",
+      "title": "undefined 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/383447486"
+      "url": "rsshub://bilibili/user/coin/3546738526784312"
     }
   ]
 }

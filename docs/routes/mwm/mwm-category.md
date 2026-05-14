@@ -81,7 +81,7 @@
     {
       "description": "管理世界杂志社-本期要目 - Powered by RSSHub",
       "errorAt": "2025-12-24T23:47:57.228Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed\n",
       "id": "136403935744074752",
       "image": null,
       "ownerUserId": null,

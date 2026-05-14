@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 79,
+  "heat": 78,
   "location": "cn/low-price.ts",
   "maintainers": [
     "jzhangdev"

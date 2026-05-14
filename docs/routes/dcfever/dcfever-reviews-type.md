@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 相機及鏡頭 | 手機平板 | 試車報告 |\n| ---------- | -------- | -------- |\n| cameras    | phones   | cars     |",
   "example": "/dcfever/reviews/cameras",
-  "heat": 31,
+  "heat": 30,
   "location": "reviews.ts",
   "maintainers": [
     "TonyRL"

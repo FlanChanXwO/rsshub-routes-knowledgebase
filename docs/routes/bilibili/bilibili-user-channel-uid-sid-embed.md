@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://bilibili/user/channel/1567748478/358497"
     },
     {
-      "description": "的 bilibili 频道 - Powered by RSSHub",
+      "description": "黑马程序员 的 bilibili 频道 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "93287418577607680",
-      "image": "",
+      "id": "66328356640256000",
+      "image": "https://i0.hdslb.com/bfs/face/a71b4dd6647ddf0c813bcf74e062edab9224cb0e.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/23695256/channel/seriesdetail?sid=489653",
-      "title": "的 bilibili 频道 Abaqus",
+      "siteUrl": "https://space.bilibili.com/37974444/channel/seriesdetail?sid=240490",
+      "title": "黑马程序员 的 bilibili 频道 c/c++免费视频教程",
       "type": "feed",
-      "url": "rsshub://bilibili/user/channel/23695256/489653"
+      "url": "rsshub://bilibili/user/channel/37974444/240490"
     }
   ]
 }

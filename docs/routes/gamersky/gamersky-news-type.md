@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 437,
+  "heat": 439,
   "location": "news.ts",
   "maintainers": [
     "yy4382"
@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "今日推荐 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:10:31.059Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57683409701121024",
       "id": "57683409701121024",
       "image": null,
       "ownerUserId": null,
@@ -91,8 +91,8 @@
     },
     {
       "description": "单机电玩 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:14:58.553Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58369029575289856",
       "id": "58369029575289856",
       "image": null,
       "ownerUserId": null,

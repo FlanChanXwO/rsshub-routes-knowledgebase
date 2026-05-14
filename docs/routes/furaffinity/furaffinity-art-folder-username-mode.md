@@ -114,16 +114,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of personalami - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of Hioshiru - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "153446870634324992",
+      "id": "105952604250437632",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/personalami",
-      "title": "Fur Affinity | Gallery of personalami",
+      "siteUrl": "https://www.furaffinity.net/gallery/Hioshiru",
+      "title": "Fur Affinity | Gallery of Hioshiru",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/personalami/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/Hioshiru/nsfw"
     }
   ],
   "url": "furaffinity.net"

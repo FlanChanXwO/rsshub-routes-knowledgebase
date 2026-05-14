@@ -112,8 +112,8 @@
     },
     {
       "description": "教育 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-05-12T00:22:43.990Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "177651896288583694",
       "image": null,
       "ownerUserId": null,

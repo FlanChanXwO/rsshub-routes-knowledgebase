@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ktown4u MIYEON (i-dle) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69996708519219200",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cn.ktown4u.com/artistBrandlist?grp_no=234590&grp_no2=",
-      "title": "ktown4u MIYEON (i-dle)",
-      "type": "feed",
-      "url": "rsshub://ktown4u/artistBrandlist/234590"
-    },
-    {
       "description": "ktown4u TAEYEON - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ _None_
       "title": "ktown4u TAEYEON",
       "type": "feed",
       "url": "rsshub://ktown4u/artistBrandlist/4987595"
+    },
+    {
+      "description": "ktown4u MIYEON (i-dle) - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69996708519219200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cn.ktown4u.com/artistBrandlist?grp_no=234590&grp_no2=",
+      "title": "ktown4u MIYEON (i-dle)",
+      "type": "feed",
+      "url": "rsshub://ktown4u/artistBrandlist/234590"
     }
   ]
 }

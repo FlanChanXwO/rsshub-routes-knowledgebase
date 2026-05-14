@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "Read the latest News & Comment articles from Nature Energy - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:23:04.889Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "160596099235667968",
       "image": null,
       "ownerUserId": null,

@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 315065,
+  "heat": 314779,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -104,7 +104,7 @@
       "id": "60991924147702784",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
-      "siteUrl": "https://www.youtube.com/@AndrejKarpathy",
+      "siteUrl": "https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ",
       "title": "Andrej Karpathy - YouTube",
       "type": "feed",
       "url": "rsshub://youtube/user/@AndrejKarpathy"

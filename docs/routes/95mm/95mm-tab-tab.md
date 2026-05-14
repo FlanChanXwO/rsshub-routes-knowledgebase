@@ -92,7 +92,7 @@
     {
       "description": null,
       "errorAt": "2025-07-14T11:50:59.607Z",
-      "errorMessage": "[GET] \"https://www.95mm.vip/home-ajax/index.html?tabcid=最新&page=1\": 404 Not Found\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "167549568401875968",
       "image": null,
       "ownerUserId": null,

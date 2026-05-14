@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 46,
+  "heat": 45,
   "location": "weekly.ts",
   "maintainers": [
     "LogicJake"

@@ -132,8 +132,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:09:14.101Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72573294615394304",
       "id": "72573294615394304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,
@@ -144,8 +144,8 @@ _None_
     },
     {
       "description": "undefined - Web 3.0 - Powered by RSSHub",
-      "errorAt": "2026-04-15T01:27:35.120Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'jump_url')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73179190070635520",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

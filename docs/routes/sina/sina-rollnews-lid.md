@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 90,
   "location": "rollnews.ts",
   "maintainers": [
     "xyqfer"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
       "errorAt": "2026-05-12T01:18:22.881Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67473482043971584",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "67473482043971584",
       "image": null,
       "ownerUserId": null,

@@ -559,7 +559,7 @@
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - File: `docs/routes/gov/gov-ndrc-xwdt-category.md`
 - File Name: `gov-ndrc-xwdt-category.md`
-- Categories: `government`
+- Categories: `government, popular`
 - Maintainers: `nczitzk`
 
 ### 中华人民共和国国家发展和改革委员会政府信息公开

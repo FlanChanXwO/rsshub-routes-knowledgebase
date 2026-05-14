@@ -91,8 +91,8 @@
     },
     {
       "description": "上海市长宁区绥宁路820号 - Powered by RSSHub",
-      "errorAt": "2026-05-12T01:52:55.395Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68851013929552896",
       "image": null,
       "ownerUserId": null,

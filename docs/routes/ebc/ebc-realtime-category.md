@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T21:46:04.654Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

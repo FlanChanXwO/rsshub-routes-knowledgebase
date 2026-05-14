@@ -86,7 +86,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 43,
+  "heat": 42,
   "location": "collections.ts",
   "maintainers": [
     "kudryavka1013",

@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "高等教育司 - 司局通知 - 中华人民共和国教育部政府门户网站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T00:42:49.635Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "92474699286284288",
       "image": null,
       "ownerUserId": null,

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "同步、随时跟踪法广政治、文化、体育新闻，了解法国、中国与世界各地大事 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T20:56:34.467Z",
+      "errorMessage": "[GET] \"https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260512-%E9%A9%AC%E5%85%8B%E9%BE%99-%E6%B3%95%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85-%E5%9C%A8%E6%8E%8C%E6%8E%A7%E4%B9%8B%E4%B8%AD\": 403 Forbidden\n",
       "id": "58701529235465216",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://rfi/cn"
     },
     {
-      "description": "同步、随时跟踪中国时事：采访、报道、特别专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "75444883463138304",
+      "description": "最新中东与阿拉伯世界新闻 - Powered by RSSHub",
+      "errorAt": "2025-12-14T10:53:13.777Z",
+      "errorMessage": "[GET] \"https://www.rfi.fr/cn/中东/\": 403 Forbidden\nUnexpected non-whitespace character after JSON at position 3939 (line 4 column 13)\n",
+      "id": "84066827566712832",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/",
-      "title": "中国时事 - 法广 - RFI",
+      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/",
+      "title": "中东与阿拉伯世界时事 - 法广 - RFI",
       "type": "feed",
-      "url": "rsshub://rfi/cn/%E4%B8%AD%E5%9B%BD"
+      "url": "rsshub://rfi/cn/%E4%B8%AD%E4%B8%9C"
     }
   ],
   "url": "rfi.fr"

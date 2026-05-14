@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 最新发布 |\n| :------: |\n|   zxfb   |",
   "example": "/12371/zxfb",
-  "heat": 52,
+  "heat": 51,
   "location": "zxfb.ts",
   "maintainers": [
     "zvrr"

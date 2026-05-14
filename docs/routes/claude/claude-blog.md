@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Product news and best practices for teams building with Claude. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:29:59.111Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n503 Service Unavailable\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "254514272394244096",
       "image": null,
       "ownerUserId": null,

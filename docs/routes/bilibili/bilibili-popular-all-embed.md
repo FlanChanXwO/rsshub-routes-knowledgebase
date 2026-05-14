@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 839,
+  "heat": 838,
   "location": "popular.ts",
   "maintainers": [
     "ziminliu"

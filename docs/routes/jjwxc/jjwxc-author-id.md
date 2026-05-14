@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "晋江文学城 | - 最近更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T20:12:30.105Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "162762066028691456",
       "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
       "ownerUserId": null,

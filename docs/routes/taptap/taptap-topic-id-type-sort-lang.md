@@ -91,18 +91,6 @@
   },
   "topFeeds": [
     {
-      "description": "饥困荒野 - 官方 - TapTap 论坛 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "256764943814985728",
-      "image": "https://img-tc.tapimg.com/market/images/71a53cbbe8feb1a9613c78464c907b63.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/194039/topic?type=official&sort=created",
-      "title": "饥困荒野 - 官方 - TapTap 论坛",
-      "type": "feed",
-      "url": "rsshub://taptap/topic/194039/official"
-    },
-    {
       "description": "Phigros - 官方 - TapTap 论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -113,6 +101,18 @@
       "title": "Phigros - 官方 - TapTap 论坛",
       "type": "feed",
       "url": "rsshub://taptap/topic/165287/official"
+    },
+    {
+      "description": "Milthm（TapTap测试版） - 官方 - TapTap 论坛 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "197299073968664579",
+      "image": "https://img.tapimg.com/market/images/cc1c4008497a11526aaf70aebfb83ca3.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.taptap.cn/app/301888/topic?type=official&sort=created",
+      "title": "Milthm（TapTap测试版） - 官方 - TapTap 论坛",
+      "type": "feed",
+      "url": "rsshub://taptap/topic/301888/official"
     }
   ]
 }

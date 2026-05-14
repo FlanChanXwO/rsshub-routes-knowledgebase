@@ -107,8 +107,8 @@ _None_
     },
     {
       "description": "桌游 - 众筹中 - 最新上线 - 摩点众筹 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T02:40:52.889Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "82230096897464320",
       "image": null,
       "ownerUserId": null,

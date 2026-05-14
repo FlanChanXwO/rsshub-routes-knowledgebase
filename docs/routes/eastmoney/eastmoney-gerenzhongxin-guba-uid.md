@@ -91,18 +91,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人屠将军典韦 的东财帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "210561879094846464",
-      "image": "https://avator.eastmoney.com/qface/4097355943952560/360",
-      "ownerUserId": null,
-      "siteUrl": "https://i.eastmoney.com/4097355943952560#guba",
-      "title": "人屠将军典韦 的东财帖子",
-      "type": "feed",
-      "url": "rsshub://eastmoney/gerenzhongxin/guba/4097355943952560"
-    },
-    {
       "description": "ST专业户ST 的东财帖子 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -113,6 +101,18 @@ _None_
       "title": "ST专业户ST 的东财帖子",
       "type": "feed",
       "url": "rsshub://eastmoney/gerenzhongxin/guba/5330513681136390"
+    },
+    {
+      "description": "ST小师妹 的东财帖子 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "210564241281737728",
+      "image": "https://avator.eastmoney.com/qface/9032346035320658/360",
+      "ownerUserId": null,
+      "siteUrl": "https://i.eastmoney.com/9032346035320658#guba",
+      "title": "ST小师妹 的东财帖子",
+      "type": "feed",
+      "url": "rsshub://eastmoney/gerenzhongxin/guba/9032346035320658"
     }
   ],
   "view": 0

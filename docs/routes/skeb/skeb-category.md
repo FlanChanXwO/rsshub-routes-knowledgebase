@@ -188,8 +188,8 @@ _None_
   "topFeeds": [
     {
       "description": "Skeb - 新着作品 (Illust) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:33:34.726Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 70011876045549568",
       "id": "70011876045549568",
       "image": null,
       "ownerUserId": null,

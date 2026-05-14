@@ -77,7 +77,7 @@ _None_
     {
       "description": "手机搜狐新闻 - Powered by RSSHub",
       "errorAt": "2026-04-21T08:11:30.800Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 141055454808791040",
       "id": "141055454808791040",
       "image": null,
       "ownerUserId": null,

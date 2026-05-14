@@ -49,8 +49,8 @@ _None_
   "topFeeds": [
     {
       "description": "BTBTLA | 最近更新列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-12T23:47:48.221Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "225750137949784064",
       "image": null,
       "ownerUserId": null,

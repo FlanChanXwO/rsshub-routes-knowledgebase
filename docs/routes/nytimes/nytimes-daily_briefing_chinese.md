@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 55,
+  "heat": 56,
   "location": "daily-briefing-chinese.tsx",
   "maintainers": [
     "yueyericardo",
@@ -78,7 +78,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-23T09:51:57.698Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/2023/06/08/world/asia/china-online-trolls.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/2023/06/15/world/asia/affirmative-action.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n",
       "id": "148631391178206293",
       "image": null,
       "ownerUserId": null,

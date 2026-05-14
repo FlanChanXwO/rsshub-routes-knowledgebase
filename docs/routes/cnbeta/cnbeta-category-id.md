@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:10:51.150Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 80486406868729856",
       "id": "80486406868729856",
       "image": null,
       "ownerUserId": null,

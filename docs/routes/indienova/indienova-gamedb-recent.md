@@ -45,8 +45,8 @@ _None_
   "topFeeds": [
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
-      "errorAt": "2026-05-09T23:08:31.678Z",
-      "errorMessage": "[GET] \"https://indienova.com/game/inside-the-clockwork-pussy\": 404 Not Found\n",
+      "errorAt": "2026-05-13T03:23:40.855Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63456437927240704",
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

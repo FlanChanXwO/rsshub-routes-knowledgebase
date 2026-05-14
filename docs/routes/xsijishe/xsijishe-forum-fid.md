@@ -78,7 +78,7 @@ _None_
     {
       "description": "司机社国产视频论坛 - Powered by RSSHub",
       "errorAt": "2025-08-20T06:48:01.323Z",
-      "errorMessage": "[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": <no response> fetch failed\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n",
       "id": "41708590536881152",
       "image": null,
       "ownerUserId": null,

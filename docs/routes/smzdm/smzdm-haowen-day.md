@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2006,
+  "heat": 2007,
   "location": "haowen.ts",
   "maintainers": [
     "LogicJake",
@@ -98,8 +98,8 @@ _None_
     },
     {
       "description": "今日热门-什么值得买好文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T03:08:28.563Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42520977153904661",
       "id": "42520977153904661",
       "image": null,
       "ownerUserId": null,
