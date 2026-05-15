@@ -136,18 +136,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "GitHub events received by ardubev16 - includes private events - Powered by RSSHub",
-      "errorAt": "2025-11-04T02:13:08.676Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "182563436143518720",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/ardubev16",
-      "title": "ardubev16's GitHub Private Feed - All Events",
-      "type": "feed",
-      "url": "rsshub://github/feed/ardubev16/all"
-    },
-    {
       "description": "GitHub events received by free-nodes - includes private events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -158,6 +146,18 @@ _None_
       "title": "free-nodes's GitHub Private Feed - All Events",
       "type": "feed",
       "url": "rsshub://github/feed/free-nodes/all"
+    },
+    {
+      "description": "GitHub events received by ardubev16 - includes private events - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:13:08.676Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "182563436143518720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/ardubev16",
+      "title": "ardubev16's GitHub Private Feed - All Events",
+      "type": "feed",
+      "url": "rsshub://github/feed/ardubev16/all"
     }
   ],
   "view": 5

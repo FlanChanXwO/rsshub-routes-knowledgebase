@@ -39,7 +39,7 @@ _None_
     "programming"
   ],
   "example": "/anthropic/research",
-  "heat": 1152,
+  "heat": 1184,
   "location": "research.ts",
   "maintainers": [
     "ttttmr"

@@ -57,7 +57,7 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 201,
+  "heat": 202,
   "location": "news.ts",
   "maintainers": [
     "quiniapiezoelectricity"
@@ -78,7 +78,7 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected [ Array(1) ] to not include 'https://www.dw.com/en/iran-war-trump-…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected [ …(5) ] to not include 'https://www.dw.com/en/germany-news-ca…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -95,8 +95,8 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     },
     {
       "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream. - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:23:40.978Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 80448685677001728",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80448685677001728",
       "image": null,
       "ownerUserId": null,

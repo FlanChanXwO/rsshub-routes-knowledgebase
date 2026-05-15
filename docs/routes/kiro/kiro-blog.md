@@ -80,7 +80,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "169177364566012928",
-      "image": "https://kiro.dev/images/pages/blog.png",
+      "image": "https://kiro.dev/images/opengraph/blog.png",
       "ownerUserId": null,
       "siteUrl": "https://kiro.dev/blog/",
       "title": "Blog - Kiro",

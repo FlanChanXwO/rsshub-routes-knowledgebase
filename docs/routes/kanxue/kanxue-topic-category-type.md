@@ -60,7 +60,7 @@ _None_
   ],
   "description": "| 版块           | category  |\n| -------------- | --------- |\n| 智能设备       | iot       |\n| Android 安全   | android   |\n| iOS 安全       | ios       |\n| HarmonyOS 安全 | harmonyos |\n| 软件逆向       | re        |\n| 编程技术       | coding    |\n| 加壳脱壳       | unpack    |\n| 密码应用       | crypto    |\n| 二进制漏洞     | vuln      |\n| CTF 对抗       | ctf       |\n| Pwn            | pwn       |\n| WEB 安全       | web       |\n| 茶余饭后       | chat      |\n| 极客空间       | geekzone  |\n| 外文翻译       | translate |\n| 全站           | all       |\n\n| 类型     | type   |\n| -------- | ------ |\n| 最新主题 | latest |\n| 精华主题 | digest |",
   "example": "/kanxue/topic/android/digest",
-  "heat": 487,
+  "heat": 488,
   "location": "topic.ts",
   "maintainers": [
     "renzhexigua"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "看雪论坛精华主题 - Android安全 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T01:12:27.030Z",
+      "errorMessage": "[GET] \"https://bbs.kanxue.com/forum-161-1.htm?digest=1\": <no response> fetch failed\n",
       "id": "59422035037245440",
       "image": null,
       "ownerUserId": null,

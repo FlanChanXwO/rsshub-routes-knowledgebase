@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 17497,
+  "heat": 17501,
   "location": "hot-list.ts",
   "maintainers": [
     "nczitzk"
@@ -77,13 +77,14 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "36氪 - 24小时热榜 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:19:47.336Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41489882518602759",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41489882518602759",
       "image": null,
       "ownerUserId": null,

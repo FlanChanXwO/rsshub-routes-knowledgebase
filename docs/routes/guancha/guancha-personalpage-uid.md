@@ -61,7 +61,7 @@ _None_
   "path": "/personalpage/:uid",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected -17906012422 to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:37:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected -17819485838 to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:37:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://guancha/personalpage/562778"
     },
     {
-      "description": "高志凯频道 的个人主页 - Powered by RSSHub",
+      "description": "金灿荣教授 的个人主页 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "172226578810915840",
+      "id": "172228390272024576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=1362536",
-      "title": "高志凯频道-观察者-风闻社区",
+      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=210048",
+      "title": "金灿荣教授-观察者-风闻社区",
       "type": "feed",
-      "url": "rsshub://guancha/personalpage/1362536"
+      "url": "rsshub://guancha/personalpage/210048"
     }
   ]
 }

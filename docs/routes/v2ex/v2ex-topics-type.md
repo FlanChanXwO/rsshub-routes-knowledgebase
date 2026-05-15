@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23334,
+  "heat": 23338,
   "location": "topics.ts",
   "maintainers": [
     "WhiteWorld"
@@ -91,8 +91,8 @@ _None_
     },
     {
       "description": "V2EX-最新主题 - Powered by RSSHub",
-      "errorAt": "2026-05-13T01:03:58.184Z",
-      "errorMessage": "Failed query: select \"subscriptions\".\"user_id\", \"subscriptions\".\"view\", \"subscriptions\".\"category\", \"subscriptions\".\"title\" from \"subscriptions\" inner join \"user\" on \"subscriptions\".\"user_id\" = \"user\".\"id\" where (\"subscriptions\".\"feed_id\" = $1 and (\"user\".\"inactive\" = $2 or \"user\".\"inactive\" is null))\nparams: 41374278075966464,false",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41374278075966464",
       "image": null,
       "ownerUserId": null,

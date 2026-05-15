@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
-      "errorAt": "2026-05-12T22:53:11.305Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78978405973911552",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T00:07:06.169Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 78981261172901888",
       "id": "78981261172901888",
       "image": null,
       "ownerUserId": null,

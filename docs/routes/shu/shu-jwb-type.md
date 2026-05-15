@@ -11,7 +11,7 @@
 - Example: `_None_`
 - URL: `www.shu.edu.cn`
 - Language: `_None_`
-- Categories: `university`
+- Categories: `journal`
 - Maintainers: `tuxinghuan, GhhG123`
 - Source Location: `jwb.ts`
 - Source Module: `_None_`
@@ -38,7 +38,7 @@ _None_
 ```json
 {
   "categories": [
-    "university"
+    "journal"
   ],
   "description": "| 通知通告 | 新闻 | 政策文件 (bug) |\n| -------- | ---- | -------------- |\n| notice   | news | policy         |",
   "heat": 3,

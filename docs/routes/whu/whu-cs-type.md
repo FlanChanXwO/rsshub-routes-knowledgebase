@@ -63,14 +63,13 @@ _None_
   },
   "path": "/cs/:type",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "通知公告-武汉大学计算机学院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T19:08:09.375Z",
+      "errorMessage": "[GET] \"https://cs.whu.edu.cn/xwdt/tzgg.htm\": <no response> fetch failed\n",
       "id": "60249215166679040",
       "image": null,
       "ownerUserId": null,

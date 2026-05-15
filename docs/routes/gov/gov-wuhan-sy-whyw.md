@@ -1,11 +1,11 @@
-# 上海市人民政府 - 武汉要闻
+# 深圳市罗湖区人民政府 - 武汉要闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/wuhan/sy/whyw`
 - Route Name: `武汉要闻`
 - Example: `/gov/wuhan/sy/whyw`

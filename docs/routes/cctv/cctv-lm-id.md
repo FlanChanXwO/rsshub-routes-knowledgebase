@@ -87,8 +87,8 @@
   "topFeeds": [
     {
       "description": "眼下的中国,变化剧烈,选择什么样的新闻,以什么样的眼光,能将过去七天的中国浓缩在一本45分钟的电视新闻杂志里,是我们每天都在不停思索的问题。我们追求的是希望作一本有理想、有责任感、有尊严、能够记录历史的新闻杂志,而我们更期待的是,能在与您的沟通交流中获得启迪,因为这是我们一起经历的时代。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T03:03:12.939Z",
+      "errorMessage": "520 <none>\nFailed to fetch\n",
       "id": "59165786861326336",
       "image": null,
       "ownerUserId": null,

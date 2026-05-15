@@ -114,16 +114,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of Hioshiru - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of smellslikejavier - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "105952604250437632",
+      "id": "79208716709173248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/Hioshiru",
-      "title": "Fur Affinity | Gallery of Hioshiru",
+      "siteUrl": "https://www.furaffinity.net/gallery/smellslikejavier",
+      "title": "Fur Affinity | Gallery of smellslikejavier",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/Hioshiru/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/smellslikejavier/nsfw"
     }
   ],
   "url": "furaffinity.net"

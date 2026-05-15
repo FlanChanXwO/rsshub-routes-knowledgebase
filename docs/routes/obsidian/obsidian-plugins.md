@@ -1,4 +1,4 @@
-# Obsidian - Obsidian Plugins
+# Obsidian - Plugins
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `obsidian`
 - Namespace Name: `Obsidian`
 - Route Path: `/obsidian/plugins`
-- Route Name: `Obsidian Plugins`
+- Route Name: `Plugins`
 - Example: `/obsidian/plugins`
 - URL: `obsidian.md`
 - Language: `_None_`
@@ -37,12 +37,12 @@ _None_
     "popular"
   ],
   "example": "/obsidian/plugins",
-  "heat": 1617,
+  "heat": 1616,
   "location": "plugins.ts",
   "maintainers": [
     "DIYgod"
   ],
-  "name": "Obsidian Plugins",
+  "name": "Plugins",
   "path": "/plugins",
   "test": {
     "code": 1,
@@ -52,7 +52,7 @@ _None_
     {
       "description": "Obsidian Plugins - Powered by RSSHub",
       "errorAt": "2026-05-12T15:50:22.793Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\n[GET] \"https://raw.githubusercontent.com/obsidianmd/obsidian-releases/refs/heads/master/community-plugins.json\": <no response> fetch failed\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\n",
       "id": "93966003665247232",
       "image": null,
       "ownerUserId": null,

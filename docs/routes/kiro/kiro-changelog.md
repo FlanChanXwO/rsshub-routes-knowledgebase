@@ -80,7 +80,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "177627797902005248",
-      "image": "https://kiro.dev/images/pages/changelog.png",
+      "image": "https://kiro.dev/images/opengraph/changelog.png",
       "ownerUserId": null,
       "siteUrl": "https://kiro.dev/changelog/",
       "title": "Changelog - Kiro",

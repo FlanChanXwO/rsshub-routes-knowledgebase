@@ -69,14 +69,13 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:74:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "一人之下漫畫： 他，在爺爺的教導下成爲異人，從小修習天師府的金光咒和陽五雷，是八奇技之一炁體源流的繼承人。 隨着爺爺屍體被盜，神秘少女馮寶寶的造訪，少年張楚嵐的平靜校園生活被徹底顛覆。急於解開爺爺和自身秘密的張楚嵐和沒有任何記憶“不死少女”馮寶寶開啓了“異人”之旅…… - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T06:34:41.384Z",
+      "errorMessage": "[GET] \"https://www.baozimh.com/comic/yirenzhixia-dongmantang\": <no response> fetch failed\n500 Internal Server Error\n",
       "id": "54865981635501056",
       "image": null,
       "ownerUserId": null,

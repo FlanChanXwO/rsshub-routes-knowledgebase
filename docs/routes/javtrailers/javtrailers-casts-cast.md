@@ -80,7 +80,7 @@ _None_
     {
       "description": "Watch Miu Shiromine Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
       "errorAt": "2026-05-06T11:02:32.241Z",
-      "errorMessage": "[GET] \"https://javtrailers.com/api/casts/miu-shiramine?page=0\": 403 Forbidden\n[GET] \"https://javtrailers.com/api/casts/miu-shiramine?page=0\": 403 Forbidden\nUnexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javtrailers.com/api/casts/miu-shiramine?page=0\": 403 Forbidden\n500 Internal Server Error\n",
       "id": "111072758149291008",
       "image": "https://pics.dmm.co.jp/mono/actjpgs/siromine_miu.jpg",
       "ownerUserId": null,

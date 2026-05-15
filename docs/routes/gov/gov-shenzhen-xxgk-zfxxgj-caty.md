@@ -1,15 +1,15 @@
-# 上海市人民政府 - 深圳市人民政府
+# 深圳市罗湖区人民政府 - 深圳市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/shenzhen/xxgk/zfxxgj/:caty`
 - Route Name: `深圳市人民政府`
 - Example: `/gov/shenzhen/xxgk/zfxxgj/tzgg`
-- URL: `sh.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `laoxua`

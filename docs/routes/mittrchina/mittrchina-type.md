@@ -82,7 +82,7 @@ _None_
     },
     {
       "description": "MIT 科技评论 - 本周热榜 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:13:04.324Z",
+      "errorAt": "2026-05-13T06:13:14.526Z",
       "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nAuthentication failed. Access denied.\n/mittrchina/hot\nFailed to fetch\n",
       "id": "41492096674907158",
       "image": null,

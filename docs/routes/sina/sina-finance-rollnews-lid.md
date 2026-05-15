@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "finance/rollnews.ts",
   "maintainers": [
     "betterandbetterii"

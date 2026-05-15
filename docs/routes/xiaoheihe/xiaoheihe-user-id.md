@@ -79,7 +79,7 @@ _None_
     {
       "description": "游戏资讯BOT 的动态 - Powered by RSSHub",
       "errorAt": "2026-05-03T01:25:09.582Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'username')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "91867369650236416",
       "image": null,
       "ownerUserId": null,

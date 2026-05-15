@@ -69,7 +69,7 @@ _None_
     {
       "description": "蓝桥云课【all】标签下最新课程列表 - Powered by RSSHub",
       "errorAt": "2026-05-09T11:57:23.385Z",
-      "errorMessage": "Input data should be a String\nInput data should be a String\n",
+      "errorMessage": "Input data should be a String\nFailed to fetch\n",
       "id": "89306487292702720",
       "image": null,
       "ownerUserId": null,

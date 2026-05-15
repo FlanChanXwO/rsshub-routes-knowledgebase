@@ -76,7 +76,7 @@ _None_
     {
       "description": "4Gamers - #限時免費 - Powered by RSSHub",
       "errorAt": "2026-02-26T04:40:22.335Z",
-      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78994/trash-goblin-and-arranger-are-free-to-keep-on-epic-games-store-this-week\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79044/just-move-fall-dungeon-endless-abyss-is-free-to-keep-on-steam\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78850/dlsite-2026-may-free-games\n",
+      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78994/trash-goblin-and-arranger-are-free-to-keep-on-epic-games-store-this-week\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79037/livingbattle-is-free-to-keep-on-steam\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79044/just-move-fall-dungeon-endless-abyss-is-free-to-keep-on-steam\n",
       "id": "66771599303537674",
       "image": null,
       "ownerUserId": null,

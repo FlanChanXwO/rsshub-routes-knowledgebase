@@ -67,7 +67,7 @@ _None_
     {
       "description": "汇集用药争议及药物不良反应讨论 11 內容 13297 关注 - Powered by RSSHub",
       "errorAt": "2025-08-12T09:03:45.206Z",
-      "errorMessage": "请求方法不存在\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "95022085506695168",
       "image": "https://img1.dxycdn.com/2020/0103/377/3388803871039625525-2.png",
       "ownerUserId": null,

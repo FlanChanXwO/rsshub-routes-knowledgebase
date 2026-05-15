@@ -81,7 +81,7 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
     {
       "description": "Browse thousands of high quality K-pop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
       "errorAt": "2026-04-28T03:43:04.263Z",
-      "errorMessage": "[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 Gone\n[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 Gone\n[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 Gone\n",
+      "errorMessage": "[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 Gone\n[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 Gone\n500 Internal Server Error\n",
       "id": "127912538951825408",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,

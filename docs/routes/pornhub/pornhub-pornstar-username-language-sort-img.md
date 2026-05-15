@@ -114,7 +114,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3566,
+  "heat": 2643,
   "location": "pornstar.ts",
   "maintainers": [
     "I2IMk",
@@ -307,16 +307,16 @@ _None_
       "url": "rsshub://pornhub/pornstar/june-liu"
     },
     {
-      "description": "About Hey! I'm a young Siberian girl and I want to play a game with you) Rules are simple: you cum, I win ^_^ Stop wasting your time - my tiny pussy is waiting for your sweet hot cum. - Powered by RSSHub",
+      "description": "About Hi, I'm a Korean girl! 23 years old - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "60908916797167616",
-      "image": "https://ei.phncdn.com/pics/users/683/394/291/avatar1551823518/(m=ewILGCjadOf)(mh=uboK_cDkUfwM9mYu)200x200.jpg",
+      "id": "62534515745689600",
+      "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=URsNE9MitabJ-6Qp)aa0291a2-3441-4a60-8cb0-029dd2f53c6c.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/pornstar/eva-elfie/videos?o=mr",
-      "title": "Eva Elfie",
+      "siteUrl": "https://www.pornhub.com/pornstar/elle-lee/videos?o=mr",
+      "title": "Elle Lee",
       "type": "feed",
-      "url": "rsshub://pornhub/pornstar/eva-elfie"
+      "url": "rsshub://pornhub/pornstar/elle-lee"
     }
   ],
   "view": 3

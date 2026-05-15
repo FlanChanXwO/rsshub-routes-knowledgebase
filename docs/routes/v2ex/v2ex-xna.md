@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 177,
+  "heat": 178,
   "location": "xna.ts",
   "maintainers": [
     "luckyscript"
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-xna - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:08:22.363Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41726560948568064",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41726560948568064",
       "image": null,
       "ownerUserId": null,

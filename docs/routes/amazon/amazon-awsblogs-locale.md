@@ -35,7 +35,7 @@ _None_
   "categories": [
     "program-update"
   ],
-  "heat": 10,
+  "heat": 11,
   "location": "awsblogs.ts",
   "maintainers": [
     "HankChow"

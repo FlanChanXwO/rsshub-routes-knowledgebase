@@ -3662,9 +3662,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 上海市人民政府
+## 深圳市罗湖区人民政府
 - Namespace: `gov`
-- Aliases: `gov, sh, sh.gov.cn, 上海市人民政府`
+- Aliases: `gov, szlh.gov.cn, www, www.szlh.gov.cn, 深圳市罗湖区人民政府`
 - Route Count: `119`
 - Index File: `index/gov.md`
 
@@ -6287,7 +6287,7 @@ Use this file to select the target namespace before opening route documents.
 ## Obsidian
 - Namespace: `obsidian`
 - Aliases: `obsidian, obsidian.md`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/obsidian.md`
 
 ## 巨量算数 - 算数指数
@@ -7393,6 +7393,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `book, book.sfacg.com, sf 轻小说, sfacg`
 - Route Count: `1`
 - Index File: `index/sfacg.md`
+
+## Shanghai Museum
+- Namespace: `shanghaimuseum`
+- Aliases: `shanghai museum, shanghaimuseum, shanghaimuseum.net, www, www.shanghaimuseum.net`
+- Route Count: `1`
+- Index File: `index/shanghaimuseum.md`
 
 ## 上海文化广场
 - Namespace: `shcstheatre`

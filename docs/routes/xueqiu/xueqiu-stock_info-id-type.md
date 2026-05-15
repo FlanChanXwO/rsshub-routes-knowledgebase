@@ -85,7 +85,7 @@
     {
       "description": "兆易创新 - 自选股新闻 - Powered by RSSHub",
       "errorAt": "2024-11-22T14:04:03.723Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "502 Bad Gateway\n",
       "id": "64923928046286858",
       "image": null,
       "ownerUserId": null,

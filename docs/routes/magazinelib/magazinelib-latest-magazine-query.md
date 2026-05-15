@@ -68,7 +68,7 @@ _None_
     {
       "description": "MagazineLib - Latest Magazines - NEW YORKER - Powered by RSSHub",
       "errorAt": "2026-04-28T23:31:52.332Z",
-      "errorMessage": "[GET] \"https://magazinelib.com/wp-json/wp/v2/posts/?search=new+yorker&per_page=30&_embed=1\": 403 Forbidden\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "258938409787591680",
       "image": null,
       "ownerUserId": null,

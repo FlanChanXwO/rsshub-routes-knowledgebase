@@ -36,7 +36,7 @@ _None_
     "finance"
   ],
   "example": "/wabei/hot-recommend",
-  "heat": 21,
+  "heat": 20,
   "location": "index.ts",
   "maintainers": [
     "p3psi-boo"

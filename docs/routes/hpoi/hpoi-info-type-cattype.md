@@ -120,7 +120,7 @@ _None_
     {
       "description": "手办维基 - 情报 - 全部 - Powered by RSSHub",
       "errorAt": "2026-01-12T06:56:07.568Z",
-      "errorMessage": "[POST] \"https://www.hpoi.net/user/home/ajax?page=1&type=info&subType=all\": 404 \n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "55126637717323806",
       "image": null,
       "ownerUserId": null,

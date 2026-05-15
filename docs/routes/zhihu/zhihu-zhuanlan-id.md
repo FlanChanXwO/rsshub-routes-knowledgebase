@@ -90,7 +90,7 @@ _None_
     {
       "description": "知乎专栏-玉树芝兰 - Powered by RSSHub",
       "errorAt": "2025-10-29T05:43:58.029Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 Forbidden\nFailed to fetch\n",
       "id": "57215618626397184",
       "image": null,
       "ownerUserId": null,

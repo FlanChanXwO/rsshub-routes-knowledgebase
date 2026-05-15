@@ -72,7 +72,7 @@ _None_
     {
       "description": "教务处通知 - Powered by RSSHub",
       "errorAt": "2025-02-16T07:02:53.989Z",
-      "errorMessage": "[GET] \"http://www.jwc.ecnu.edu.cn/tzggwwxsgg/list.htm\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http://www.jwc.ecnu.edu.cn/tzggwwxsgg/list.htm\": 502 Bad Gateway\n",
       "id": "54823689335371776",
       "image": null,
       "ownerUserId": null,

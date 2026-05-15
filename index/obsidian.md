@@ -6,11 +6,11 @@
 - URL: `obsidian.md`
 - Language: `_None_`
 - Aliases: `obsidian, obsidian.md`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
-### Obsidian Plugins
+### Plugins
 - Route ID: `obsidian:/obsidian/plugins`
 - Route Path: `/obsidian/plugins`
 - File: `docs/routes/obsidian/obsidian-plugins.md`
@@ -25,3 +25,11 @@
 - File Name: `obsidian-publish-id.md`
 - Categories: `blog`
 - Maintainers: `Xy2002`
+
+### Themes
+- Route ID: `obsidian:/obsidian/themes`
+- Route Path: `/obsidian/themes`
+- File: `docs/routes/obsidian/obsidian-themes.md`
+- File Name: `obsidian-themes.md`
+- Categories: `program-update`
+- Maintainers: `DIYgod`

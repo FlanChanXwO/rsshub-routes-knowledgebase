@@ -66,7 +66,7 @@ _None_
     {
       "description": "特はない。 - Powered by RSSHub",
       "errorAt": "2025-11-26T09:51:52.390Z",
-      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11503449\": 403 Forbidden\n[GET] \"https://api.fanbox.cc/post.info?postId=11011774\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11011774\": 403 Forbidden\n",
       "id": "140056726308777984",
       "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3326223/icon/MueHg8Ixy6zLRTamiarKT8xC.jpeg",
       "ownerUserId": null,

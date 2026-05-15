@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "engineering.fyi javascript - Powered by RSSHub",
-      "errorAt": "2026-05-12T18:25:44.289Z",
-      "errorMessage": "[GET] \"https://engineering.fyi/tag/javascript\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "201977155428993024",
       "image": null,
       "ownerUserId": null,

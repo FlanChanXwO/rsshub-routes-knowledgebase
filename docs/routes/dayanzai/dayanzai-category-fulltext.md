@@ -83,7 +83,7 @@
     {
       "description": "大眼仔旭 windows RSS - Powered by RSSHub",
       "errorAt": "2025-12-19T05:39:37.981Z",
-      "errorMessage": "[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n",
       "id": "64953399235565578",
       "image": null,
       "ownerUserId": null,

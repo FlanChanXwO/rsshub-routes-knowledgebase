@@ -36,7 +36,7 @@ _None_
     "social-media"
   ],
   "example": "/youtube/community/@JFlaMusic",
-  "heat": 167,
+  "heat": 166,
   "location": "community.tsx",
   "maintainers": [
     "TonyRL"

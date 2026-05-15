@@ -77,7 +77,7 @@ _None_
     {
       "description": "快讯_经济观察网 - Powered by RSSHub",
       "errorAt": "2026-05-11T07:04:06.211Z",
-      "errorMessage": "[GET] \"https://www.eeo.com.cn/kuaixun/\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "194919237802284032",
       "image": "https://img.eeo.com.cn/2024/images/logo.jpg",
       "ownerUserId": null,

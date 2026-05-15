@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/rsshub/routes/en",
-  "heat": 4509,
+  "heat": 4510,
   "location": "routes.ts",
   "maintainers": [
     "DIYgod"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Everything is RSSible - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:10:23.219Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41147805276726402",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726402",
       "image": null,
       "ownerUserId": null,

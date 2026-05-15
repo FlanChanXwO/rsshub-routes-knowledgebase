@@ -87,21 +87,9 @@
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 395750863692 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:38:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
-    {
-      "description": "实践竞赛 - 浙江工业大学教务处 - Powered by RSSHub",
-      "errorAt": "2026-05-10T17:41:55.578Z",
-      "errorMessage": "[GET] \"http://www.jwc.zjut.edu.cn/1850/list.htm\": 403 Forbidden\n",
-      "id": "76958464712676352",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.jwc.zjut.edu.cn/1850/list.htm",
-      "title": "实践竞赛 - 浙江工业大学教务处",
-      "type": "feed",
-      "url": "rsshub://zjut/jwc/1850"
-    },
     {
       "description": "办事指南 - 浙江工业大学教务处 - Powered by RSSHub",
       "errorAt": null,
@@ -113,6 +101,18 @@
       "title": "办事指南 - 浙江工业大学教务处",
       "type": "feed",
       "url": "rsshub://zjut/jwc/1839"
+    },
+    {
+      "description": "实践竞赛 - 浙江工业大学教务处 - Powered by RSSHub",
+      "errorAt": "2026-05-10T17:41:55.578Z",
+      "errorMessage": "[GET] \"http://www.jwc.zjut.edu.cn/1850/list.htm\": 403 Forbidden\n",
+      "id": "76958464712676352",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.jwc.zjut.edu.cn/1850/list.htm",
+      "title": "实践竞赛 - 浙江工业大学教务处",
+      "type": "feed",
+      "url": "rsshub://zjut/jwc/1850"
     }
   ],
   "url": "www.jwc.zjut.edu.cn"

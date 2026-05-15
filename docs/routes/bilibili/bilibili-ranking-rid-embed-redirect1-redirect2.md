@@ -11,7 +11,7 @@
 - Example: `/bilibili/ranking/all`
 - URL: `www.bilibili.com`
 - Language: `_None_`
-- Categories: `social-media, popular`
+- Categories: `social-media`
 - Maintainers: `DIYgod, hyoban`
 - Source Location: `ranking.ts`
 - Source Module: `_None_`
@@ -39,11 +39,10 @@ _None_
 ```json
 {
   "categories": [
-    "social-media",
-    "popular"
+    "social-media"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 8354,
+  "heat": 731,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -131,24 +130,13 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "78806242632741888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
-      "title": "bilibili 排行榜-全站",
-      "type": "feed",
-      "url": "rsshub://bilibili/ranking/0"
-    },
-    {
-      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": "2026-05-11T01:28:27.455Z",
+      "errorAt": "2026-05-13T18:08:01.472Z",
       "errorMessage": "-352\n-352\n",
       "id": "79067786101345280",
       "image": null,
@@ -157,6 +145,18 @@ _None_
       "title": "bilibili 排行榜-全站",
       "type": "feed",
       "url": "rsshub://bilibili/ranking/0/1"
+    },
+    {
+      "description": "bilibili 排行榜-舞蹈 - Powered by RSSHub",
+      "errorAt": "2025-12-23T16:01:16.653Z",
+      "errorMessage": "-352\n",
+      "id": "78833272579505152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/v/popular/rank/dance",
+      "title": "bilibili 排行榜-舞蹈",
+      "type": "feed",
+      "url": "rsshub://bilibili/ranking/7"
     }
   ],
   "view": 3

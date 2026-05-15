@@ -96,8 +96,8 @@
     },
     {
       "description": "24小时教育热闻 - 东方资讯 - Powered by RSSHub",
-      "errorAt": "2026-05-12T21:21:13.090Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "177651896288583692",
       "image": null,
       "ownerUserId": null,

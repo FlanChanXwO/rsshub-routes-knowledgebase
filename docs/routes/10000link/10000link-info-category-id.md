@@ -171,14 +171,14 @@
       "url": "rsshub://10000link/info/newslists/My01"
     },
     {
-      "description": "为物流仓储数据赋予法律灵魂：激活中国存货资产金融价值的路径思考 - Powered by RSSHub",
+      "description": "开票受限、业务被叫停！2026央国企贸易圈大清洗：融资性贸易、开票经济一个不留，再不懂全流程合规与风控，下个被追责的就是你！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "166018536566226944",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx",
-      "title": "10000万联网 - 为物流仓储数据赋予法律灵魂：激活中国存货资产金融价值的路径思考",
+      "title": "10000万联网 - 开票受限、业务被叫停！2026央国企贸易圈大清洗：融资性贸易、开票经济一个不留，再不懂全流程合规与风控，下个被追责的就是你！",
       "type": "feed",
       "url": "rsshub://10000link/info"
     }

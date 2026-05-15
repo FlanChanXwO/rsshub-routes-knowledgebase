@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2151,
+  "heat": 2148,
   "location": "forum.ts",
   "maintainers": [
     "akynazh"
@@ -78,7 +78,7 @@ _None_
     {
       "description": "司机社国产视频论坛 - Powered by RSSHub",
       "errorAt": "2025-08-20T06:48:01.323Z",
-      "errorMessage": "[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": <no response> fetch failed\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\nFailed to fetch\n[GET] \"https://xsijishe.com/forum-48-1.html\": 403 Forbidden\n",
       "id": "41708590536881152",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "司机社日本AV论坛 - Powered by RSSHub",
       "errorAt": "2025-08-20T08:40:00.024Z",
-      "errorMessage": "[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\nAuthentication failed. Access denied.\n/xsijishe/forum/51\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\nFailed to fetch\nAuthentication failed. Access denied.\n/xsijishe/forum/51\nFailed to fetch\n",
       "id": "55159238633029632",
       "image": null,
       "ownerUserId": null,

@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "完美世界电竞 - CS2 资讯 - Powered by RSSHub",
-      "errorAt": "2026-05-12T20:32:25.945Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 71465854017649664",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71465854017649664",
       "image": null,
       "ownerUserId": null,

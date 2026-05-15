@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 223,
+  "heat": 224,
   "location": "live-room.ts",
   "maintainers": [
     "Qixingchen"
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "EdmundDZhang 直播间开播状态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T09:24:15.313Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "55139597974077440",
       "image": "https://i1.hdslb.com/bfs/face/50900541a74f7875867c38a1e8e572b44b388060.jpg",
       "ownerUserId": null,

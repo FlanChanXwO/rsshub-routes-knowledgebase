@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 935,
+  "heat": 933,
   "location": "user-collection.ts",
   "maintainers": [
     "shininome",

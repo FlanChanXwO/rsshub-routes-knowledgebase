@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5042,
+  "heat": 5045,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod"
@@ -244,8 +244,8 @@ _None_
   "topFeeds": [
     {
       "description": "什么值得买好价品类榜-好价品类榜-全部-3小时 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:24:07.115Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42006425715388416",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42006425715388416",
       "image": null,
       "ownerUserId": null,
@@ -256,8 +256,8 @@ _None_
     },
     {
       "description": "什么值得买好价品类榜-好价品类榜-全部-24小时 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:07:47.266Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41356126035548160",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41356126035548160",
       "image": null,
       "ownerUserId": null,

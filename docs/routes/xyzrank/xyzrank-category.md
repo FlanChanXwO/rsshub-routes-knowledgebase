@@ -55,7 +55,7 @@ _None_
     {
       "description": "榜单只是一种维度，愿你找到喜欢的节目 - Powered by RSSHub",
       "errorAt": "2026-01-25T09:55:56.515Z",
-      "errorMessage": "[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n",
+      "errorMessage": "[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\nFailed to fetch\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n500 Internal Server Error\n",
       "id": "42248910764651520",
       "image": null,
       "ownerUserId": null,

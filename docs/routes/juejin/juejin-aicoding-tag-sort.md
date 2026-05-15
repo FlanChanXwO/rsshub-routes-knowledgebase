@@ -190,8 +190,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI 编程 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:13:30.844Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 189493956607037440",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "189493956607037440",
       "image": "https://lf-web-assets.juejin.cn/obj/juejin-web/goofy_deploy_edenx/toutiao-fe/xitu_juejin_aicoding/favicon.ico",
       "ownerUserId": null,

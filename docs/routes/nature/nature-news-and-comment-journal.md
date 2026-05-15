@@ -60,6 +60,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "Read the latest News & Comment articles from Nature Energy - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "160596099235667968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nature.com/nenergy/news-and-comment",
+      "title": "News & Comment | Nature Energy",
+      "type": "feed",
+      "url": "rsshub://nature/news-and-comment/nenergy"
+    },
+    {
       "description": "Read the latest News & Comment articles from Nature Microbiology - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -70,18 +82,6 @@ _None_
       "title": "News & Comment | Nature Microbiology",
       "type": "feed",
       "url": "rsshub://nature/news-and-comment/nmicrobiol"
-    },
-    {
-      "description": "Read the latest News & Comment articles from Nature Energy - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:23:04.889Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "160596099235667968",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nature.com/nenergy/news-and-comment",
-      "title": "News & Comment | Nature Energy",
-      "type": "feed",
-      "url": "rsshub://nature/news-and-comment/nenergy"
     }
   ],
   "url": "nature.com/latest-news"

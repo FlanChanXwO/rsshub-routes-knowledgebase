@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "得到 - 年度日更 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:22:14.856Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59505334359543853",
       "image": null,
       "ownerUserId": null,

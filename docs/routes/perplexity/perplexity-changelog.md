@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates and changes from Perplexity - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T01:08:02.966Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "241365598746245120",
       "image": "https://framerusercontent.com/assets/YD0FzGopY3nozAz8P9GIcUVdMk.png",
       "ownerUserId": null,

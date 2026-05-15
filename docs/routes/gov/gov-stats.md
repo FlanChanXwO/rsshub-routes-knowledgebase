@@ -1,11 +1,11 @@
-# 上海市人民政府 - 国家统计局 通用
+# 深圳市罗湖区人民政府 - 国家统计局 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/stats/*`
 - Route Name: `国家统计局 通用`
 - Example: `/gov/stats/sj/zxfb`
@@ -71,8 +71,7 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {

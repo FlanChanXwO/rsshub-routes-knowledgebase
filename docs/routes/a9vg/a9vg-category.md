@@ -113,7 +113,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 289,
+  "heat": 290,
   "location": "index.ts",
   "maintainers": [
     "monnerHenster",

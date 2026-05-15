@@ -182,14 +182,13 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "北京价格网是北京市价格监测中心门户网站 - Powered by RSSHub",
-      "errorAt": "2026-04-12T04:37:03.418Z",
-      "errorMessage": "[GET] \"https://www.beijingprice.cn/jgzx/xwzx/\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65788338627183616",
       "image": "https://www.beijingprice.cn/images/common/common-header-logo.png",
       "ownerUserId": null,

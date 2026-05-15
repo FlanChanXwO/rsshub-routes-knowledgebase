@@ -76,7 +76,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/interactive/graphic-detail/2026/05/11/mapping-the-iran-wars-trade-disruption\": 403 Forbidden\n[GET] \"https://www.economist.com/interactive/graphic-detail/2026/05/11/mapping-the-iran-wars-trade-disruption\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/science-and-technology/2026/05/13/neanderthals-went-to-the-dentist-really\": 403 Forbidden\n[GET] \"https://www.economist.com/business/2026/05/13/the-war-between-businesses-and-hackers-enters-a-perilous-new-era\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -88,7 +88,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/07/a-chinese-high-seas-misadventure-in-luxury-yachts\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-it\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-it\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-it\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/04/30/hong-kong-is-a-conduit-for-looted-chinese-antiquities\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/11/china-knows-that-governing-new-tech-can-be-harder-than-inventing-it\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

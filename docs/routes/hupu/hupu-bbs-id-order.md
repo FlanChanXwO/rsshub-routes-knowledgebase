@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 219,
+  "heat": 220,
   "location": "bbs.tsx",
   "maintainers": [
     "LogicJake",
@@ -99,8 +99,8 @@
     },
     {
       "description": "逛步行街极易上瘾，请各位JRs注意控制时间 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T01:13:02.049Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55619435859718144",
       "id": "55619435859718144",
       "image": null,
       "ownerUserId": null,

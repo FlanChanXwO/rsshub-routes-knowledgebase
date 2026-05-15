@@ -132,8 +132,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 头条 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:09:14.101Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72573294615394304",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72573294615394304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

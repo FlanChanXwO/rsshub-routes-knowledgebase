@@ -64,7 +64,7 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected [ …(33) ] to not include 'https://www.qstheory.cn/20260414/8005…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected [ …(36) ] to not include 'https://www.qstheory.cn/20260414/8005…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://qstheory"
     },
     {
-      "description": "党建 - 求是网 - Powered by RSSHub",
-      "errorAt": "2024-12-10T05:21:10.650Z",
-      "errorMessage": "[GET] \"../20260510/25691e161de540a7bb95bf6b73c8cbf2/c.html\": <no response> Failed to parse URL from ../20260510/25691e161de540a7bb95bf6b73c8cbf2/c.html\n",
-      "id": "83847865922732032",
+      "description": "- 求是网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "81625152130833408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.qstheory.cn/cpc/index.htm",
-      "title": "党建 - 求是网",
+      "siteUrl": "http://www.qstheory.cn/v9zhuanqu/toutiao/index.htm",
+      "title": "- 求是网",
       "type": "feed",
-      "url": "rsshub://qstheory/cpc"
+      "url": "rsshub://qstheory/toutiao"
     }
   ]
 }

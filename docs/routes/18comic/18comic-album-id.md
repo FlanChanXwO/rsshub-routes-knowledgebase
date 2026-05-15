@@ -92,14 +92,14 @@
       "url": "rsshub://18comic/album/180491"
     },
     {
-      "description": "「你也想认识人妻吗?我来告诉你方法吧!」，从未交过女友的补习班讲师-正贤，某天目击到自己同事和学生家长的偷情现场!!同事为了让正贤保守秘密，开始帮正贤和人妻牵缐，还告诉他百发百中的把妹技巧… - Powered by RSSHub",
+      "description": "「你也想認識人妻嗎?我來告訴你方法吧!」，從未交過女友的補習班講師-正賢，某天目擊到自己同事和學生家長的偷情現場!!同事為了讓正賢保守秘密，開始幫正賢和人妻牽線，還告訴他百發百中的把妹技巧… - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "173646648898214912",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://jmcomic1.me/album/326164",
-      "title": "朋友的妈妈 - 禁漫天堂",
+      "title": "朋友的媽媽 - 禁漫天堂",
       "type": "feed",
       "url": "rsshub://18comic/album/326164"
     }

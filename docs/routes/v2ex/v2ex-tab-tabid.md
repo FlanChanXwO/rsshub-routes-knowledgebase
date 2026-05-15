@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1388,
+  "heat": 1389,
   "location": "tab.ts",
   "maintainers": [
     "liyefox"
@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-tab-hot - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:04:29.379Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41707278446398464",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41707278446398464",
       "image": null,
       "ownerUserId": null,

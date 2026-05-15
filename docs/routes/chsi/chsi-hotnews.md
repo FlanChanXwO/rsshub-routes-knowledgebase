@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国研究生招生信息网 - 热点 - Powered by RSSHub",
-      "errorAt": "2026-05-12T20:58:02.090Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63435252587286528",
       "image": null,
       "ownerUserId": null,

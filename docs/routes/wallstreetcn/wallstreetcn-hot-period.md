@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "华尔街见闻 - 最热文章 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:19:29.565Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79704903500190720",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

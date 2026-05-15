@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T21:12:33.019Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "105752020320057344",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-05-12T21:46:04.654Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

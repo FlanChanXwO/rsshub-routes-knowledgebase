@@ -77,7 +77,7 @@ _None_
     {
       "description": "Perplexity Blog - Powered by RSSHub",
       "errorAt": "2026-05-06T15:28:38.020Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "257997849784109056",
       "image": null,
       "ownerUserId": null,

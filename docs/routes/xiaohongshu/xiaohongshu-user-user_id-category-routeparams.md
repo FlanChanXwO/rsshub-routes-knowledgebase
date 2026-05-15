@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1400753,
+  "heat": 1400760,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -115,7 +115,7 @@ _None_
     {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
-      "errorMessage": "Failed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nFailed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
+      "errorMessage": "Failed to fetch\nNavigating frame was detached\nFailed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "68661468126774272",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q8atfr8n6005p9bl8hqmi9p1q1h18o?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

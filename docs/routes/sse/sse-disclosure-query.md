@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 64,
+  "heat": 62,
   "location": "disclosure.ts",
   "maintainers": [
     "harveyqiu"
@@ -60,19 +60,18 @@ _None_
   },
   "path": "/disclosure/:query?",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
-      "description": "上海证券交易所 - 上市公司信息 - 日照港最新公告 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:08:04.168Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 115958109880213504",
+      "description": "上海证券交易所 - 上市公司信息 - 华能国际最新公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=undefined",
-      "title": "上海证券交易所 - 上市公司信息 - 日照港最新公告",
+      "title": "上海证券交易所 - 上市公司信息 - 华能国际最新公告",
       "type": "feed",
       "url": "rsshub://sse/disclosure"
     },

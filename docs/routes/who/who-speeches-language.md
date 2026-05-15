@@ -83,7 +83,7 @@ Language
     {
       "description": "Speeches - WHO - Powered by RSSHub",
       "errorAt": "2025-11-18T18:06:11.847Z",
-      "errorMessage": "[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-pre-wha-meeting-with-the-group-of-francophone-ambassadors---29-april-2026\": 404 Not Found\n[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-media-briefing---7-may-2026\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-resumed-sixth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-pandemic-agreement-27-april-2026\": 404 Not Found\n[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-media-briefing-on-hantavirus---12-may-2026\": 404 Not Found\n",
       "id": "65765818076625920",
       "image": null,
       "ownerUserId": null,

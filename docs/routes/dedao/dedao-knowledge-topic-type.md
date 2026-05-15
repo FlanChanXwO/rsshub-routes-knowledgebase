@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "来分享你和万维钢一起学习的收获吧！课程、书籍都可以。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T00:06:57.746Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 85673494190769152",
       "id": "85673494190769152",
       "image": null,
       "ownerUserId": null,

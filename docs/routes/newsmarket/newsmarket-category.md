@@ -95,14 +95,14 @@
       "url": "rsshub://newsmarket"
     },
     {
-      "description": "新知 | 上下游新聞 - Powered by RSSHub",
+      "description": "新知 | 上下游新聞Jetpack Protect 已鎖定你的網站登入頁面。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "111389962417871873",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.newsmarket.com.tw/blog/category/:knowledge",
-      "title": "新知 | 上下游新聞",
+      "title": "新知 | 上下游新聞Jetpack Protect 已鎖定你的網站登入頁面。",
       "type": "feed",
       "url": "rsshub://newsmarket/:knowledge"
     }

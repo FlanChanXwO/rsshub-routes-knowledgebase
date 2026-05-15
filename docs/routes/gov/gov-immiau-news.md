@@ -1,15 +1,15 @@
-# 上海市人民政府 - Immigration and Citizenship - News
+# 深圳市罗湖区人民政府 - Immigration and Citizenship - News
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/immiau/news`
 - Route Name: `Immigration and Citizenship - News`
 - Example: `/gov/immiau/news`
-- URL: `sh.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liu233w`

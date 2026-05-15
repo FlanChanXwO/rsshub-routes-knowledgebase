@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "四川大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-13T09:05:26.089Z",
+      "errorMessage": "[GET] \"https://jwc.scu.edu.cn/tzgg.htm\": <no response> fetch failed\n",
       "id": "80874866597524480",
       "image": "https://www.scu.edu.cn/__local/B/67/25/DFAF986CCD6529E52D7830F180D_C37C7DEE_4340.png",
       "ownerUserId": null,

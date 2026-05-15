@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://bilibili/live/search/%E6%BC%AB%E5%B1%95/live_time"
     },
     {
-      "description": "哔哩哔哩直播-独夫之心-人气直播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "198041982872060928",
+      "description": "哔哩哔哩直播-鲁班-人气直播 - Powered by RSSHub",
+      "errorAt": "2026-05-13T00:56:35.189Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "257475092137511936",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=%E7%8B%AC%E5%A4%AB%E4%B9%8B%E5%BF%83&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-独夫之心-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=%E9%B2%81%E7%8F%AD&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-鲁班-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/%E7%8B%AC%E5%A4%AB%E4%B9%8B%E5%BF%83/online"
+      "url": "rsshub://bilibili/live/search/%E9%B2%81%E7%8F%AD/online"
     }
   ]
 }

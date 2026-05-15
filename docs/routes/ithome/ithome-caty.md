@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 254,
+  "heat": 249,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",
-      "errorAt": "2026-05-13T03:06:17.751Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905677",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905677",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

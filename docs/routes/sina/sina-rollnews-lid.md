@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-05-12T01:18:22.881Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67473482043971584",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T00:07:01.396Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "86770785762500608",
       "image": null,
       "ownerUserId": null,

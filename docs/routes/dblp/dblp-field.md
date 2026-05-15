@@ -69,8 +69,7 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:74:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -86,16 +85,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP software testing RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84441761514554368",
+      "description": "DBLP robotics RSS - Powered by RSSHub",
+      "errorAt": "2026-05-13T21:27:36.661Z",
+      "errorMessage": "[GET] \"https://dblp.org/search/publ/api?q=robotics&format=json&h=10\": 503 Service Unavailable\n",
+      "id": "257777668080712704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=software%20testing",
-      "title": "【dblp】software testing",
+      "siteUrl": "https://dblp.org/search?q=robotics",
+      "title": "【dblp】robotics",
       "type": "feed",
-      "url": "rsshub://dblp/software%20testing"
+      "url": "rsshub://dblp/robotics"
     }
   ]
 }
