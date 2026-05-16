@@ -68,10 +68,6 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/collection/:uid/:sid/:embed?/:sortReverse?/:page?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",

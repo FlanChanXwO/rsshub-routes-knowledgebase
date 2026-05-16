@@ -63,15 +63,11 @@ _None_
     }
   },
   "path": "/search/:params",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他 - Powered by RSSHub",
       "errorAt": "2026-01-14T05:24:14.256Z",
-      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n",
       "id": "143852106817588235",
       "image": null,
       "ownerUserId": null,

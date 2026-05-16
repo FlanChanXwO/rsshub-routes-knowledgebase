@@ -67,9 +67,6 @@ _None_
     "id": "页面 ID，可在 URL 中找到，默认为消息速递"
   },
   "path": "/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",

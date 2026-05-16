@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The latest headlines on China finance, companies, politics, international affairs and other China-related issues from around the world. Caixin Global - Powered by RSSHub",

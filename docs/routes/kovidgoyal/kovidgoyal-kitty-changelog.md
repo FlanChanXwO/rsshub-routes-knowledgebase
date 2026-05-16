@@ -68,9 +68,6 @@ _None_
       "target": "/kitty/changelog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "sw.kovidgoyal.net/kitty/changelog/"
 }

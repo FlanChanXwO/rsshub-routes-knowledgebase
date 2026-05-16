@@ -118,9 +118,6 @@ _None_
       "target": "/jandan/:category?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "热榜 - 4小时热门 - Powered by RSSHub",

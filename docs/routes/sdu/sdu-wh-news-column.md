@@ -62,9 +62,6 @@ _None_
     "column": "专栏名称，默认为校园要闻（`xyyw`）"
   },
   "path": "/wh/news/:column?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

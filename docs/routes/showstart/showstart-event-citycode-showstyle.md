@@ -68,9 +68,6 @@ _None_
     "showStyle": "演出风格 (编号)"
   },
   "path": "/event/:cityCode/:showStyle?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "秀动网 - 上海 - 摇滚 - Powered by RSSHub",

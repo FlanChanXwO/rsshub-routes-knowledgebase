@@ -85,9 +85,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Stock screener for investors and traders, financial visualizations. - Powered by RSSHub",

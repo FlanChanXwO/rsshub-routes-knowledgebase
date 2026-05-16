@@ -68,9 +68,6 @@ _None_
       "target": "/humanlayer/blog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.humanlayer.dev/blog"
 }

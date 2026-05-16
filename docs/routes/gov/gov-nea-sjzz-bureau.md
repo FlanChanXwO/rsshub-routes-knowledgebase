@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 司工作进展
+# Hangzhou People's Government - 司工作进展
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/nea/sjzz/:bureau`
 - Route Name: `司工作进展`
 - Example: `/gov/nea/sjzz/ghs`
@@ -128,9 +128,6 @@ _None_
       "target": "/nea/sjzz/:bureau"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "国家能源局 - 发展规划司工作进展 - Powered by RSSHub",

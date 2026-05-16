@@ -64,7 +64,7 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 31259,
+  "heat": 31229,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -83,9 +83,6 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
       "target": "/1x/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "1x.com is the world's biggest curated photo gallery online. Each photo is selected by professional curators. 1x.com • In Pursuit of the Sublime - Powered by RSSHub",

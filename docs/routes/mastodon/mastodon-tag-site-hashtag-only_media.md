@@ -63,9 +63,6 @@ _None_
     "site": "instance address, only domain, no `http://` or `https://` protocol header"
   },
   "path": "/tag/:site/:hashtag/:only_media?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "#长毛象安利大会 Media Timeline on gochisou.photo - Powered by RSSHub",

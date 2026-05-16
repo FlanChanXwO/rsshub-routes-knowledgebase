@@ -74,9 +74,6 @@ _None_
     "city": "分类，见下表，默认为 www，即杭州"
   },
   "path": "/:city?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "嘉兴 19 楼 - Powered by RSSHub",

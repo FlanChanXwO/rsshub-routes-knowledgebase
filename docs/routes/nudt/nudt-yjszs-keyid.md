@@ -71,9 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "国防科技大学研究生院 - 通知公告 - Powered by RSSHub",

@@ -60,9 +60,6 @@ _None_
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新消息 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",

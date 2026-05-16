@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2992,
+  "heat": 2993,
   "location": "materials.ts",
   "maintainers": [
     "broven",
@@ -109,9 +109,6 @@
       "target": "/materials"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "有知有行 - 全部 - Powered by RSSHub",

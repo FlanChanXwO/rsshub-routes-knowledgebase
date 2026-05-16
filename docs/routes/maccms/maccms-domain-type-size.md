@@ -73,9 +73,6 @@ _None_
     "type": "类别ID，不同采集站点有不同的类别规则和ID，默认为 0，代表全部类别"
   },
   "path": "/:domain/:type?/:size?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新里番动漫 - moduzy.net - Powered by RSSHub",

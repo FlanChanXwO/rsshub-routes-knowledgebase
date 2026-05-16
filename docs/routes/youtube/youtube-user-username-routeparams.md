@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 314604,
+  "heat": 314483,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -92,10 +92,6 @@
       "target": "/user/:username"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Andrej Karpathy - YouTube - Powered by RSSHub",
@@ -104,19 +100,19 @@
       "id": "60991924147702784",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
-      "siteUrl": "https://www.youtube.com/channel/UCXUPKJO5MZQN11PqgIvyuvQ",
+      "siteUrl": "https://www.youtube.com/@AndrejKarpathy",
       "title": "Andrej Karpathy - YouTube",
       "type": "feed",
       "url": "rsshub://youtube/user/@AndrejKarpathy"
     },
     {
-      "description": "We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe AI will have ... - Powered by RSSHub",
+      "description": "We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe AI will have a vast impact on the world. Anthropic is dedicated to building systems that people can rely on and generating research about the opportunities and risks of AI. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57461667496141824",
       "image": "https://yt3.googleusercontent.com/ux-GXUpB4PkI-qXVOpj9gGEiCkytT0Q78ka4srlxOm_Y3m1gEh5qy8Vu6vTjGSDztMT0NybtC7I=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
-      "siteUrl": "https://www.youtube.com/channel/UCrDwWp7EBBv4NwvScIpBDOA",
+      "siteUrl": "https://www.youtube.com/@anthropic-ai",
       "title": "Anthropic - YouTube",
       "type": "feed",
       "url": "rsshub://youtube/user/%40anthropic-ai"

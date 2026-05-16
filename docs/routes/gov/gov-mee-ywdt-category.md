@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 要闻动态
+# Hangzhou People's Government - 要闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/mee/ywdt/:category?`
 - Route Name: `要闻动态`
 - Example: `/gov/mee/ywdt/hjywnews`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liuxsdev`
@@ -73,9 +73,6 @@
       "target": "/mee/ywdt/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "环境要闻 - 要闻动态 - 中华人民共和国生态环境部 - Powered by RSSHub",

@@ -90,9 +90,6 @@ _None_
     }
   },
   "path": "/items/work/:id/:order?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 作品周边 6213 - Powered by RSSHub",

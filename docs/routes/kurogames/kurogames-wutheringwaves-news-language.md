@@ -82,9 +82,6 @@ _None_
       "title": "Wuthering Waves — Game announcements, news and events"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",

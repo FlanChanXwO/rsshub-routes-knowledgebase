@@ -82,9 +82,6 @@ _None_
     "id": "分类 id，可在对应分类页面的 URL 中找到，默认为首页最近更新"
   },
   "path": "/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "全网收集整理最新的线报活动、网络资讯、免费实物、游戏资讯。 - Powered by RSSHub",

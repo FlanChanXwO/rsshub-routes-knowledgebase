@@ -62,9 +62,6 @@ _None_
     "keyword": "Keyword"
   },
   "path": "/search/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "EVERIA.CLUB - Search: けんけん - Powered by RSSHub",

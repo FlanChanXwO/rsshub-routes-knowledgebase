@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国传媒大学研究生招生网 通知公告 - Powered by RSSHub",

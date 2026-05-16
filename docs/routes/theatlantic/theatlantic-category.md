@@ -57,7 +57,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1376,
+  "heat": 1377,
   "location": "news.ts",
   "maintainers": [
     "EthanWng97",
@@ -75,9 +75,6 @@ More categories (except photo) can be found within the navigation bar at <https:
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",

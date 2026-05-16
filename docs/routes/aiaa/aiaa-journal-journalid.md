@@ -46,9 +46,6 @@ _None_
     "journalID": "journal ID, can be found in the URL"
   },
   "path": "/journal/:journalID",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

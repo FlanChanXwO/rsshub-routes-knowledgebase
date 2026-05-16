@@ -151,9 +151,6 @@ _None_
       "target": "/org_event/:org"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "view": 5
 }

@@ -64,9 +64,6 @@ _None_
     "keyword": "導覽列，見下表，默認爲最新"
   },
   "path": "/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "殿堂 - chikubi.jp - Powered by RSSHub",

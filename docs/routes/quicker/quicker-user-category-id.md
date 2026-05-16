@@ -65,9 +65,6 @@ _None_
     "id": "用户 id，可在对应用户页 URL 中找到"
   },
   "path": "/user/:category/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CL分享的动作 - Quicker - Powered by RSSHub",

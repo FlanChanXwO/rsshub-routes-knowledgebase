@@ -72,9 +72,6 @@ _None_
       "target": "/author/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

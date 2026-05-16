@@ -80,9 +80,6 @@ Specify options (in the format of query string) in parameter `routeParams` to co
       "target": "/:board/catalog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "4chan's /hc/ - Powered by RSSHub",

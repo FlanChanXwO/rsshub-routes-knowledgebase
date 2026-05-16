@@ -73,9 +73,6 @@
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "教务通知-教务部（招生办公室）网站 - Powered by RSSHub",

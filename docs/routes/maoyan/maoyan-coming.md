@@ -70,9 +70,6 @@ _None_
       "target": "/coming"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "猫眼电影即将上映列表 - Powered by RSSHub",

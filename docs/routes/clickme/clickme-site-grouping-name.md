@@ -63,10 +63,6 @@ _None_
     "site": "站点，`default`为普通站，`r18`为成人站，其它值默认为普通站"
   },
   "path": "/:site/:grouping/:name",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "ClickMe R18 - 女優 - Powered by RSSHub",
@@ -82,7 +78,7 @@ _None_
     },
     {
       "description": "ClickMe R18 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-05-13T06:14:25.596Z",
+      "errorAt": "2026-05-14T23:09:55.209Z",
       "errorMessage": "[POST] \"https://api.clickme.net/article/list?key=clickme\": 404 Not Found\n",
       "id": "156717605498762240",
       "image": null,

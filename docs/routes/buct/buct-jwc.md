@@ -70,9 +70,6 @@ _None_
       "target": "/jwc"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "buct.edu.cn/"
 }

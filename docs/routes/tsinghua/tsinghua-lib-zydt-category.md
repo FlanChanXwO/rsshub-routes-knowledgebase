@@ -113,9 +113,6 @@
       "title": "图书馆试用资源动态"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "资源动态-清华大学图书馆 - Powered by RSSHub",

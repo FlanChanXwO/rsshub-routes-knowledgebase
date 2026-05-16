@@ -79,9 +79,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "月票榜 - 腾讯动漫 - Powered by RSSHub",

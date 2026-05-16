@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "关注后端工程师全栈技术演进、实践经验 - Powered by RSSHub",

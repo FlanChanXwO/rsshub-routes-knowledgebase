@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 93,
+  "heat": 92,
   "location": "other/later.ts",
   "maintainers": [
     "DIYgod"
@@ -57,9 +57,6 @@ _None_
   "name": "即将上映的电影",
   "parameters": {},
   "path": "/movie/later",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "即将上映的电影 - Powered by RSSHub",

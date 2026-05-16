@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "偶像荣耀-新闻 - Powered by RSSHub",

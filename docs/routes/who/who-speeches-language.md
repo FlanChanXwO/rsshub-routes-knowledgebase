@@ -75,15 +75,11 @@ Language
       "target": "/speeches"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Speeches - WHO - Powered by RSSHub",
       "errorAt": "2025-11-18T18:06:11.847Z",
-      "errorMessage": "[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-resumed-sixth-meeting-of-the-intergovernmental-working-group-(igwg)-on-the-who-pandemic-agreement-27-april-2026\": 404 Not Found\n[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-media-briefing-on-hantavirus---12-may-2026\": 404 Not Found\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-44th-meeting-of-the-programme--budget-and-administration-committee-of-the-executive-board---13-may-2026\": 404 Not Found\n",
       "id": "65765818076625920",
       "image": null,
       "ownerUserId": null,

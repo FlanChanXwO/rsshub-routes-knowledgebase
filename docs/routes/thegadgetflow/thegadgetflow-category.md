@@ -70,9 +70,6 @@ _None_
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Gadget Flow - Powered by RSSHub",

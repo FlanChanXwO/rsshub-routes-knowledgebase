@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "爱范儿首页 - Powered by RSSHub",

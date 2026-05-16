@@ -65,9 +65,6 @@ _None_
     "id": "歌单 id, 可在歌单页 URL 中找到"
   },
   "path": "/music/playlist/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "网易云音乐歌单 - DIYgod喜欢的音乐 - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "platform": "平台分类，见下表"
   },
   "path": "/discount/:platform",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "小黑盒 PC 游戏折扣 - Powered by RSSHub",

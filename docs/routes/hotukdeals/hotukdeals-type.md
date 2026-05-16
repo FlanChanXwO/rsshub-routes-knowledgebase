@@ -59,9 +59,6 @@ _None_
     "type": "should be one of highlights, hot, new, discussed"
   },
   "path": "/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

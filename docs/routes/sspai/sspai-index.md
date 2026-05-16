@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "少数派首页 - Powered by RSSHub",

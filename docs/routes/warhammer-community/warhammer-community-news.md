@@ -54,9 +54,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.warhammer-community.com/en-gb/all-news-and-features/"
 }

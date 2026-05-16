@@ -64,9 +64,6 @@ _None_
     "type": "文章分类，详见下表"
   },
   "path": "/fd/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "北极星风力发电网要闻 - Powered by RSSHub",

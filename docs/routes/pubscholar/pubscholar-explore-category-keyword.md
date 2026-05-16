@@ -51,9 +51,6 @@ _None_
     "keyword": "Search Keyword"
   },
   "path": "/explore/:category?/:keyword?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

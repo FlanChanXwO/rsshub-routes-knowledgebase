@@ -56,9 +56,6 @@ _None_
       "target": "/sei"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

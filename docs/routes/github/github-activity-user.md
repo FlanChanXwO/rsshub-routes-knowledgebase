@@ -72,9 +72,6 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
       "target": "/activity/:user"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "DIYgod's GitHub activities - Powered by RSSHub",

@@ -90,9 +90,6 @@ _None_
     "order": "排序，按高分排序:desc;按低分排序:asc"
   },
   "path": "/:filters?/:order?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",

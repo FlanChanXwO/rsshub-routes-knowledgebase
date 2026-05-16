@@ -66,14 +66,11 @@ _None_
       "target": "/:path"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "同步、随时跟踪法广政治、文化、体育新闻，了解法国、中国与世界各地大事 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T00:42:36.306Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58701529235465216",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
@@ -83,16 +80,16 @@ _None_
       "url": "rsshub://rfi/cn"
     },
     {
-      "description": "Follow any political information, cultural, sporting and live streaming on RFI. The latest information, news and events around the world. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "92774456092420096",
+      "description": "最新中东与阿拉伯世界新闻 - Powered by RSSHub",
+      "errorAt": "2025-12-14T10:53:13.777Z",
+      "errorMessage": "[GET] \"https://www.rfi.fr/cn/中东/\": 403 Forbidden\nUnexpected non-whitespace character after JSON at position 3939 (line 4 column 13)\n",
+      "id": "84066827566712832",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.rfi.fr/en/",
-      "title": "RFI - All the news from France, Europe, Africa and the rest of the world.",
+      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/",
+      "title": "中东与阿拉伯世界时事 - 法广 - RFI",
       "type": "feed",
-      "url": "rsshub://rfi/en"
+      "url": "rsshub://rfi/cn/%E4%B8%AD%E4%B8%9C"
     }
   ],
   "url": "rfi.fr"

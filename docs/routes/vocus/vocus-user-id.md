@@ -59,9 +59,6 @@ _None_
     "id": "用户 id，可在用户主页的 URL 找到"
   },
   "path": "/user/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Phd Economist, Macroeconomics analysis, Analyst of Quantitative Finance. Research on data science and game theory. FB：MimiVsJames. 美國大型資產管理公司量化金融工程師 - Powered by RSSHub",

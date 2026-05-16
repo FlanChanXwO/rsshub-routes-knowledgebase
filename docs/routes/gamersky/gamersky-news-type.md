@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 439,
+  "heat": 440,
   "location": "news.ts",
   "maintainers": [
     "yy4382"
@@ -73,9 +73,6 @@
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "今日推荐 - 游民星空 - Powered by RSSHub",

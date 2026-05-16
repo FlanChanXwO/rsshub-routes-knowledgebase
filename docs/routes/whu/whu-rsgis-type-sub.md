@@ -77,9 +77,6 @@ _None_
       "target": "/rsgis/index"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "首页 - 武汉大学遥感信息工程学院 - Powered by RSSHub",

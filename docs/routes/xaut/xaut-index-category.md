@@ -62,9 +62,6 @@ _None_
     "category": "通知类别，默认为学校新闻"
   },
   "path": "/index/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

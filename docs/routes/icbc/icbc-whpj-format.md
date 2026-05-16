@@ -73,9 +73,6 @@
       "target": "/whpj"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国工商银行外汇牌价 - Powered by RSSHub",

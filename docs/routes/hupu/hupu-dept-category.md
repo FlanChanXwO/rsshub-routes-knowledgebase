@@ -87,9 +87,6 @@ _None_
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "虎扑 - NBA - Powered by RSSHub",

@@ -139,9 +139,6 @@ _None_
     "city": "城市，默认为空，即全国"
   },
   "path": "/cx/:category?/:city?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

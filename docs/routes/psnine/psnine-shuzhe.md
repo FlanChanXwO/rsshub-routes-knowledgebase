@@ -54,9 +54,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "PSN数字游戏折扣 - Powered by RSSHub",

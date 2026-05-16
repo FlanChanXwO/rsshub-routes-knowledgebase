@@ -2295,9 +2295,6 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
       "title": "Theoretical Economics (econ.TH)"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The list of papers for Artificial Intelligence category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",

@@ -77,22 +77,7 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
-    {
-      "description": "bilibili会员购票务--1 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "184995883214968832",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://show.bilibili.com/api/ticket/project/listV2",
-      "title": "bilibili会员购票务--1",
-      "type": "feed",
-      "url": "rsshub://bilibili/platform"
-    },
     {
       "description": "bilibili会员购票务-230100 - Powered by RSSHub",
       "errorAt": null,
@@ -104,6 +89,18 @@
       "title": "bilibili会员购票务-230100",
       "type": "feed",
       "url": "rsshub://bilibili/platform/230100"
+    },
+    {
+      "description": "bilibili会员购票务--1 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "184995883214968832",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://show.bilibili.com/api/ticket/project/listV2",
+      "title": "bilibili会员购票务--1",
+      "type": "feed",
+      "url": "rsshub://bilibili/platform"
     }
   ],
   "url": "show.bilibili.com/platform"

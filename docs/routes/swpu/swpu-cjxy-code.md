@@ -73,9 +73,6 @@
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "swpu.edu.cn/"
 }

@@ -62,9 +62,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Latest News on dnaIndia.com - Powered by RSSHub",

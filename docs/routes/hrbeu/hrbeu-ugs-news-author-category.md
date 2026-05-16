@@ -121,9 +121,6 @@ category 列表：
       "target": "/ugs/news/:author"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "哈尔滨工程大学本科生院工作通知 - Powered by RSSHub",

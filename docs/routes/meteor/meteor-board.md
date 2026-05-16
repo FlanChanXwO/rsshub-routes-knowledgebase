@@ -59,9 +59,6 @@ _None_
     "board": "看板 ID 或簡稱，可在 URL 或下方路由找到，預設為 `all`"
   },
   "path": "/:board?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "全部看板 | Meteor 學生社群 - Powered by RSSHub",

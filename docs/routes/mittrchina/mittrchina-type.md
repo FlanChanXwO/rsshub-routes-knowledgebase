@@ -64,9 +64,6 @@ _None_
     "type": "类型，见下表，默认为首页资讯"
   },
   "path": "/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "MIT 科技评论 - 首页资讯 - Powered by RSSHub",
@@ -82,7 +79,7 @@ _None_
     },
     {
       "description": "MIT 科技评论 - 本周热榜 - Powered by RSSHub",
-      "errorAt": "2026-05-13T06:13:14.526Z",
+      "errorAt": "2026-05-15T01:25:43.547Z",
       "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nAuthentication failed. Access denied.\n/mittrchina/hot\nFailed to fetch\n",
       "id": "41492096674907158",
       "image": null,

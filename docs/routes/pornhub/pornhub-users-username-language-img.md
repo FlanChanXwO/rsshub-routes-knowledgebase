@@ -211,10 +211,6 @@ _None_
       "target": "/users/:username/cn"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 'RSSHub' not to be 'RSSHub' // Object.is equality\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:45:30)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "The Pornhub Model Program has over 165,000 models currently! We're highlighting some of the best, most interesting and newsworthy of the community. This channel will feature the marketing campaigns featuring our models, the top videos, fan clubs and creators of the month and other news and development from Pornhub. Managed by @aurora-watson @pornhubnat Follow us on Twitter: @pornhubhelp @pornhubmodels @modelhub @phmodelsgay Follow us on Instagram: @modelprogram - Powered by RSSHub",
@@ -230,8 +226,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-05-13T19:13:19.891Z",
-      "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",
       "ownerUserId": null,

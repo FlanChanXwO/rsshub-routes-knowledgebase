@@ -56,15 +56,11 @@ _None_
   ],
   "name": "《社会》杂志当期目录",
   "path": "/journals/society/current",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 404 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T09:22:11.146Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149985207254076416",
       "image": null,
       "ownerUserId": null,

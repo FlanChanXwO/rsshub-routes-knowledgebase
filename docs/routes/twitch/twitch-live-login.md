@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 302,
+  "heat": 300,
   "location": "live.ts",
   "maintainers": [
     "hoilc"
@@ -59,9 +59,6 @@ _None_
     "login": "Twitch username"
   },
   "path": "/live/:login",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "neuro-sama the ai vtuber - Powered by RSSHub",

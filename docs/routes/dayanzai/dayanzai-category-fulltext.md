@@ -75,10 +75,6 @@
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "大眼仔旭 windows RSS - Powered by RSSHub",
@@ -95,7 +91,7 @@
     {
       "description": "大眼仔旭 android RSS - Powered by RSSHub",
       "errorAt": "2025-09-26T01:57:15.388Z",
-      "errorMessage": "[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\nFailed to fetch\n[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\n502 Bad Gateway\n[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\n",
       "id": "66737530237513741",
       "image": null,
       "ownerUserId": null,

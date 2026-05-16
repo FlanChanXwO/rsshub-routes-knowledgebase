@@ -59,9 +59,6 @@ _None_
     "type": "分类"
   },
   "path": "/explore/:type/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "爱发电-发现创作者 (按 所有/人气) - Powered by RSSHub",

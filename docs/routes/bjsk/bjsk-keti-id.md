@@ -75,9 +75,6 @@
       "target": "/keti/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "北京社科基金项目管理平台 - 通知公告 - Powered by RSSHub",

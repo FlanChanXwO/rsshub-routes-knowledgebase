@@ -60,10 +60,6 @@ _None_
       "target": "/reviews/:type"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected [ Array(1) ] to not include 'https://www.dcfever.com/news/readnews…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "相機及鏡頭測試報告 Camera and Lens Reviews - DCFever.com - Powered by RSSHub",
@@ -78,16 +74,16 @@ _None_
       "url": "rsshub://dcfever/reviews"
     },
     {
-      "description": "手機平板電腦測試報告 - DCFever.com - Powered by RSSHub",
+      "description": "汽車電動車最新行情 Cars & Electric Cars Testing - DCFever.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "63944676322037760",
+      "id": "63944676322037761",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dcfever.com/phones/reviews.php",
-      "title": "手機平板電腦測試報告 - DCFever.com",
+      "siteUrl": "https://www.dcfever.com/cars/reviews.php",
+      "title": "汽車電動車最新行情 Cars & Electric Cars Testing - DCFever.com",
       "type": "feed",
-      "url": "rsshub://dcfever/reviews/phones"
+      "url": "rsshub://dcfever/reviews/cars"
     }
   ]
 }

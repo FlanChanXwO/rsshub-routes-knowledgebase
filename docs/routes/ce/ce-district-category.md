@@ -95,9 +95,6 @@
       "target": "/district"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国经济网地方经济 - 鍗虫椂鏂伴椈 - Powered by RSSHub",

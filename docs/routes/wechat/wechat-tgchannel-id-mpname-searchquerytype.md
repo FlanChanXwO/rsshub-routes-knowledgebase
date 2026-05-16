@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 534,
+  "heat": 533,
   "location": "tgchannel.ts",
   "maintainers": [
     "LogicJake",
@@ -77,9 +77,6 @@ _None_
     "searchQueryType": "搜索查询类型，见下表"
   },
   "path": "/tgchannel/:id/:mpName?/:searchQueryType?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "三联生活周刊 - Powered by RSSHub",

@@ -69,9 +69,6 @@ _None_
     "/sukebei/user/:username?",
     "/sukebei/user/:username/search/:query?"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "RSS Feed for Home - Powered by RSSHub",

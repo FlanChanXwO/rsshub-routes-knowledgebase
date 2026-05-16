@@ -73,9 +73,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "行业评论-中债资信评估有限责任公司 - Powered by RSSHub",

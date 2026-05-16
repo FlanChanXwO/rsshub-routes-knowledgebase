@@ -87,7 +87,7 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 314,
+  "heat": 316,
   "location": "news/index.ts",
   "maintainers": [
     "KeiLongW",
@@ -106,9 +106,6 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Yahoo 新聞 HK - 所有類別 - Powered by RSSHub",

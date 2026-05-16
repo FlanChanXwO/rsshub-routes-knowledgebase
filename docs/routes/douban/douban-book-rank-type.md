@@ -63,9 +63,6 @@ _None_
     "type": "图书类型，默认合并列表"
   },
   "path": "/book/rank/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "每周一更新 - Powered by RSSHub",

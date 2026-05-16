@@ -70,9 +70,6 @@ _None_
       "target": "/topics"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CBC News - Latest Canada, World, Entertainment and Business News - Powered by RSSHub",

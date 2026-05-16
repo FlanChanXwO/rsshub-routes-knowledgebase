@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 投诉建议
+# Hangzhou People's Government - 投诉建议
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/safe/complaint/:site?`
 - Route Name: `投诉建议`
 - Example: `/gov/safe/complaint/beijing`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -59,9 +59,6 @@ _None_
     "site": "站点，见上表，默认为 beijing"
   },
   "path": "/safe/complaint/:site?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -73,9 +73,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "广州市海珠区南洲路154号（侨建·HICITY ）2F 207 - Powered by RSSHub",

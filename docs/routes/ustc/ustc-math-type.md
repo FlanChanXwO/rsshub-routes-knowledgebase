@@ -73,9 +73,6 @@
       "target": "/math"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国科学技术大学数学科学学院 - 通知公告 - Powered by RSSHub",

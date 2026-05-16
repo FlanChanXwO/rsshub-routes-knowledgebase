@@ -68,9 +68,6 @@ _None_
       "target": "/kx"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "AMZ123 快讯 - Powered by RSSHub",

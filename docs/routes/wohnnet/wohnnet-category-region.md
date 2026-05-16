@@ -98,9 +98,6 @@ _None_
     "zimmer": "Zimmer (at least number, e.g. `2`)"
   },
   "path": "/:category/:region/*",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

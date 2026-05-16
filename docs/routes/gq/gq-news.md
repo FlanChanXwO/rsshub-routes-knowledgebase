@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "GQ is the global flagship of men's fashion, the arbiter of cool for anyone who sees the world through the lens of taste and style. - Powered by RSSHub",

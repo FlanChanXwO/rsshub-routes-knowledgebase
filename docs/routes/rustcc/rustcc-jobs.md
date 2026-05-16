@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "获取Rust语言中文社区的最新招聘 - Powered by RSSHub",

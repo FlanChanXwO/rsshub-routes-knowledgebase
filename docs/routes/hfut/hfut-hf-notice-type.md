@@ -73,9 +73,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",

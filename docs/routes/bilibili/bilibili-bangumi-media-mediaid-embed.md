@@ -64,9 +64,6 @@ _None_
     "mediaid": "番剧媒体 id, 番剧主页 URL 中获取"
   },
   "path": "/bangumi/media/:mediaid/:embed?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "看机智的凡人小子韩立如何稳健发展、步步为营，战魔道、夺至宝、驰骋星海、快意恩仇，成为纵横三界的强者。他日仙界重相逢，一声道友尽沧桑。 - Powered by RSSHub",

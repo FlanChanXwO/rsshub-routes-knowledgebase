@@ -161,10 +161,6 @@ _None_
     }
   },
   "path": "/:channelNum",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "美股资讯 - 金融界 - Powered by RSSHub",
@@ -181,7 +177,7 @@ _None_
     {
       "description": "财经资讯 - 金融界 - Powered by RSSHub",
       "errorAt": "2026-05-11T07:28:11.973Z",
-      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/05/13234057086733.shtml\": 514 Frequency Capped\n",
+      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/05/14223857093047.shtml\": 514 Frequency Capped\n",
       "id": "110335328538370048",
       "image": null,
       "ownerUserId": null,

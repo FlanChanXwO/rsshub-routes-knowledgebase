@@ -180,9 +180,6 @@
       "title": "新闻资讯"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",

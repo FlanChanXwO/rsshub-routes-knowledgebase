@@ -79,9 +79,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "即時報道 - Powered by RSSHub",

@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1016,
+  "heat": 1017,
   "location": "huati.ts",
   "maintainers": [
     "xizeyoupan"
@@ -65,9 +65,6 @@ _None_
     "tag": "话题名称"
   },
   "path": "/huati/:tag",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "酷安话题-薅羊毛小分队 - Powered by RSSHub",

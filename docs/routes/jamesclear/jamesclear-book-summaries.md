@@ -67,9 +67,6 @@ _None_
       "target": "/book-summaries"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Book summaries by James Clear - Powered by RSSHub",

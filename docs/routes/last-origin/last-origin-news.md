@@ -61,9 +61,6 @@ _None_
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.last-origin.com"
 }

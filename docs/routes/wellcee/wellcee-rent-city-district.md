@@ -49,9 +49,6 @@ _None_
     "district": "地区"
   },
   "path": "/rent/:city/:district?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "116K+ available Total 653K+ - Powered by RSSHub",

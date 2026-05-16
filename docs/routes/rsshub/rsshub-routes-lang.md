@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/rsshub/routes/en",
-  "heat": 4510,
+  "heat": 4509,
   "location": "routes.ts",
   "maintainers": [
     "DIYgod"
@@ -71,9 +71,6 @@ _None_
       "target": "/routes"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Everything is RSSible - Powered by RSSHub",

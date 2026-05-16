@@ -62,9 +62,6 @@ _None_
     "type": "default `notice`"
   },
   "path": "/yzb/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "天津大学研究生招生网 - 校级公告 - Powered by RSSHub",

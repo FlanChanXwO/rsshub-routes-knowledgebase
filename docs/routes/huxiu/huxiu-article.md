@@ -82,9 +82,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "虎嗅资讯-全部 - Powered by RSSHub",

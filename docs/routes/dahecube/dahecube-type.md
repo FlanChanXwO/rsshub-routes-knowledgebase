@@ -62,9 +62,6 @@ _None_
     "type": "板块，见下表，默认为推荐"
   },
   "path": "/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "大河财立方 推荐 - Powered by RSSHub",

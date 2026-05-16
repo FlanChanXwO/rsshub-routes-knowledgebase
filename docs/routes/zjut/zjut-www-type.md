@@ -79,9 +79,6 @@
       "target": "/www/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "通知公告 - 浙江工业大学 - Powered by RSSHub",

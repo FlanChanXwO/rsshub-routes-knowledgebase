@@ -64,9 +64,6 @@ _None_
     "fulltext": "是否获取全文，如需获取全文参数传入 `quanwen` 或 `fulltext`"
   },
   "path": "/:category/:fulltext?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "安全客-360网络安全周报 - Powered by RSSHub",

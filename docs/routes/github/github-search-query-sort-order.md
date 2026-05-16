@@ -69,9 +69,6 @@ _None_
     "sort": "Sort options (default to bestmatch)"
   },
   "path": "/search/:query/:sort?/:order?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "backdoorattack的搜索结果 - Powered by RSSHub",

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 天津港保税区-公告
+# Hangzhou People's Government - 天津港保税区-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/tianjin/tjftz-notice/:channelId`
 - Route Name: `天津港保税区-公告`
 - Example: `/gov/tianjin/tjftz-notice/6302`
@@ -60,9 +60,6 @@ _None_
       "target": "/tianjin/tjftz-notice/:channelId"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "tjftz.gov.cn"
 }

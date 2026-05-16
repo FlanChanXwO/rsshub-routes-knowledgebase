@@ -59,7 +59,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 265,
+  "heat": 267,
   "location": "index.tsx",
   "maintainers": [
     "hualiong"
@@ -79,9 +79,6 @@
       "target": "asmr-200/works"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新收录 - ASMR Online - Powered by RSSHub",

@@ -431,9 +431,6 @@
       "title": "学位工作 - 导师队伍"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新闻动态 - Powered by RSSHub",

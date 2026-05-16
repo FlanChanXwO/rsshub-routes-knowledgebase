@@ -36,7 +36,7 @@ _None_
     "programming"
   ],
   "example": "/hellogithub/volume",
-  "heat": 819,
+  "heat": 818,
   "location": "volume.tsx",
   "maintainers": [
     "moke8",
@@ -45,9 +45,6 @@ _None_
   ],
   "name": "月刊",
   "path": "/volume",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "HelloGithub - 月刊 - Powered by RSSHub",

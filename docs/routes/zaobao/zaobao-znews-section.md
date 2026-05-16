@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2073,
+  "heat": 2075,
   "location": "znews.ts",
   "maintainers": [
     "shunf4"
@@ -63,9 +63,6 @@ _None_
     "section": "分类，缺省为 china"
   },
   "path": "/znews/:section?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",

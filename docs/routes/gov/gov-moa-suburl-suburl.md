@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国农业农村部 - 新闻
+# Hangzhou People's Government - 中华人民共和国农业农村部 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/moa/suburl/:suburl{.+}`
 - Route Name: `中华人民共和国农业农村部 - 新闻`
 - Example: `/gov/moa/suburl/gk/zcjd/`
@@ -64,9 +64,6 @@ _None_
       "target": "/moa/suburl/:suburl"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中华人民共和国农业农村部 - 政策解读 - Powered by RSSHub",

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 长沙市人民政府
+# Hangzhou People's Government - 长沙市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/hunan/changsha/major-email`
 - Route Name: `长沙市人民政府`
 - Example: `/gov/hunan/changsha/major-email`
@@ -69,10 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [],
   "url": "wlwz.changsha.gov.cn/webapp/cs2020/email/*"
 }

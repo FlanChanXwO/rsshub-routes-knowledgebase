@@ -70,9 +70,6 @@ _None_
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "4kup.net/"
 }

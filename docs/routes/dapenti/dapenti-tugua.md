@@ -58,9 +58,6 @@ _None_
   "name": "图卦",
   "parameters": {},
   "path": "/tugua",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "喷嚏-70 - Powered by RSSHub",

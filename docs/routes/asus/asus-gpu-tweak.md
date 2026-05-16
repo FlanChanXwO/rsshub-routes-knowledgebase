@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "asus.com/campaign/GPU-Tweak-III/*"
 }

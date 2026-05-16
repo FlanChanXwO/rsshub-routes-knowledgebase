@@ -99,9 +99,6 @@ _None_
       "target": "/items/all"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 全部周边 - Powered by RSSHub",

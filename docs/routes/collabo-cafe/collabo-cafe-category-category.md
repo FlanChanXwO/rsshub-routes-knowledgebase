@@ -59,9 +59,6 @@ _None_
     "category": "Category, refer to the original website (ジャンル別)"
   },
   "path": "/category/:category",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

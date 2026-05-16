@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Minecraft Java版被阻止的服务器域名散列 - Powered by RSSHub",

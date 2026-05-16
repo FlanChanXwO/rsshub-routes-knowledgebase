@@ -61,14 +61,11 @@ _None_
     "type": "帖子分类, 见下表，默认为 hot，即热门帖子"
   },
   "path": "/thread/:type?/:order?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "一亩三分地 - 热门帖子 - Powered by RSSHub",
-      "errorAt": "2026-05-14T03:02:15.380Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55133630460506172",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55133630460506172",
       "image": null,
       "ownerUserId": null,

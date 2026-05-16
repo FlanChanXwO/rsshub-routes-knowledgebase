@@ -62,9 +62,6 @@ _None_
     "type": "类型"
   },
   "path": "/mail/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中南大学学校信箱 - 校长信箱 - Powered by RSSHub",

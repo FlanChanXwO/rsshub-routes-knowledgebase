@@ -95,9 +95,6 @@ There is an optinal parameter **limit** which controls the number of posts to fe
       "target": "/:source/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Posts of hentai-tv from OnlyFans | Coomer - Powered by RSSHub",

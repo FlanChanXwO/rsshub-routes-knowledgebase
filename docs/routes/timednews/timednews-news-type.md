@@ -64,9 +64,6 @@ _None_
     "type": "子分类，见下表，默认为全部"
   },
   "path": "/news/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "时刻新闻 全部 - Powered by RSSHub",

@@ -67,9 +67,6 @@ _None_
     "category": "通知分类，默认为 `swtz`"
   },
   "path": "/gzic/notice/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华南理工大学广州国际校区 - 海外学习 - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "type": "文章类型, 见下表"
   },
   "path": "/crm/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "为企业提供CRM系统、数字化转型等方面的专业知识，帮您用好数字化工具开启企业新增长之路。 - Powered by RSSHub",

@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "肉丝__Rose 的 Keep 动态 - Powered by RSSHub",

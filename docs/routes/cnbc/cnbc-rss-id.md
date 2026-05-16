@@ -55,7 +55,7 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 331,
+  "heat": 330,
   "location": "rss.ts",
   "maintainers": [
     "TonyRL"
@@ -73,9 +73,6 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
       "target": "/rss/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",

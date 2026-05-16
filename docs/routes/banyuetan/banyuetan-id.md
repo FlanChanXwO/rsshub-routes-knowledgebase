@@ -96,7 +96,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 338,
+  "heat": 339,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -184,9 +184,6 @@
       "title": "教育"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "时政讲解—半月谈网 - Powered by RSSHub",

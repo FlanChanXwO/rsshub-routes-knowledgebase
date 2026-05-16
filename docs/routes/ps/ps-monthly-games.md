@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 28574,
+  "heat": 28530,
   "location": "monthly-games.tsx",
   "maintainers": [
     "justjustCC"
@@ -69,9 +69,6 @@ _None_
       "target": "/monthly-games"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "PlayStation Plus Monthly Games - Powered by RSSHub",

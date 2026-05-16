@@ -67,9 +67,6 @@ _None_
       "target": "/quotes"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Quotes from James Clear - Powered by RSSHub",

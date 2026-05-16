@@ -161,9 +161,6 @@
       "title": "實況直播"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "MyCard,手機遊戲,金流,SDK,儲值,教學,教程,手遊,點數卡,線上購買 - Powered by RSSHub",

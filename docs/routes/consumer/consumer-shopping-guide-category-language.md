@@ -64,9 +64,6 @@ _None_
     "language": "语言，见上表，默认为 `tc`"
   },
   "path": "/shopping-guide/:category?/:language?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

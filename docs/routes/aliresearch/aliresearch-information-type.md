@@ -74,9 +74,6 @@
       "target": "/information"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "阿里研究院 - 新闻 - Powered by RSSHub",

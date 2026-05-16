@@ -60,9 +60,6 @@ _None_
     "type": "类型: `article` 文章，`development` 开发"
   },
   "path": "/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "独立游戏资讯 | indienova 独立游戏 - Powered by RSSHub",

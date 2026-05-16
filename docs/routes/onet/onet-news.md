@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Wiadomości wiadomosci.onet.pl - Powered by RSSHub",

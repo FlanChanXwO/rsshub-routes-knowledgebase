@@ -67,9 +67,6 @@ _None_
       "target": "/nl-cheatsheet"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "NL Cheatsheet articles from Newslaundry - Powered by RSSHub",

@@ -74,9 +74,6 @@
       "target": "/gs/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "南京理工大学研究生院 -- 首页通知公告 - Powered by RSSHub",

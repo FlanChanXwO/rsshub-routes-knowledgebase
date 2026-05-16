@@ -62,9 +62,6 @@ _None_
     "routeParams": "route params, see below"
   },
   "path": "/:routeParams?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

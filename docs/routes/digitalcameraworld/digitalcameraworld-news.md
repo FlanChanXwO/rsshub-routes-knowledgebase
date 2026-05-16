@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 155,
+  "heat": 156,
   "location": "news.ts",
   "maintainers": [
     "EthanWng97"
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Camera news, reviews and features - Powered by RSSHub",

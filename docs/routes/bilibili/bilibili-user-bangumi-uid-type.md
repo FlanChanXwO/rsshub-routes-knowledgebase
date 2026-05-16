@@ -72,10 +72,6 @@ _None_
       "target": "/user/bangumi/:uid"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "陈睿 的追番列表 - Powered by RSSHub",
@@ -93,13 +89,13 @@ _None_
       "description": "undefined 的追番列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "145494632523858944",
+      "id": "66424560658630656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/480575647/bangumi",
+      "siteUrl": "https://space.bilibili.com/10730895/bangumi",
       "title": "undefined 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/480575647"
+      "url": "rsshub://bilibili/user/bangumi/10730895"
     }
   ]
 }

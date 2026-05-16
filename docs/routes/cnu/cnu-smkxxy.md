@@ -68,9 +68,6 @@ _None_
       "target": "/cnu/smkxxy"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "smkxxy.cnu.edu.cn/tzgg3/index.htm"
 }

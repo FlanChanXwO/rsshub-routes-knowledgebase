@@ -75,9 +75,6 @@
       "target": "/feed/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "第一财经主题 - 一财早报 - Powered by RSSHub",

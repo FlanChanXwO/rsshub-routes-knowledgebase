@@ -80,10 +80,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "分享快乐，如此简单 ! BT之家单版社区平台，提供全网最快 最新 最全 高清 电影、动漫、韩剧、日剧、美剧、无损音乐、小说等BT/网盘下载以及资讯！影视爱好者的聚集地的~BT电影天堂之家，BT之家官网：1lOU.ME，BT之家BTBTT，BT之家BTBBT， BTHome，BTHouse - Powered by RSSHub",

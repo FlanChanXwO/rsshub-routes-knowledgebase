@@ -74,9 +74,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - 過去24小時 - Powered by RSSHub",

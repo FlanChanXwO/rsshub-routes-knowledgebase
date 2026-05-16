@@ -58,14 +58,11 @@ _None_
   "name": "Journal List",
   "parameters": {},
   "path": "/siteindex",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Nature siteindex - Powered by RSSHub",
-      "errorAt": "2026-05-14T01:32:24.202Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "137598992929939456",
       "image": null,
       "ownerUserId": null,

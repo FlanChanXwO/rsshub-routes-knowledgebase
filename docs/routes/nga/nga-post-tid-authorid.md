@@ -62,10 +62,6 @@ _None_
     "tid": "帖子 id, 可在帖子 URL 找到"
   },
   "path": "/post/:tid/:authorId?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178 - Powered by RSSHub",
@@ -74,7 +70,7 @@ _None_
       "id": "154777115123643392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=446.7097629694721#",
+      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=993.9206114425884#",
       "title": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/41073656/66025368"

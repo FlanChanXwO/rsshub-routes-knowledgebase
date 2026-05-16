@@ -70,9 +70,6 @@ _None_
     "node": "栏目 id"
   },
   "path": "/:node",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "羊城晚报金羊网 - 广州要闻 - Powered by RSSHub",

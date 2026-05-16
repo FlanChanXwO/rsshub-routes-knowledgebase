@@ -59,9 +59,6 @@ _None_
     "section": "Section ID, can be found in the URL. For example, the Section ID of URL `http://iolaw.cssn.cn/zxzp/` is `zxzp`. The default value is `zxzp`"
   },
   "path": "/iolaw/:section?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国法学网 - Powered by RSSHub",

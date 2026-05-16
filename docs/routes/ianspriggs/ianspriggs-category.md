@@ -62,9 +62,6 @@ _None_
     "category": "Category, see below, 3D PORTRAITS by default"
   },
   "path": "/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

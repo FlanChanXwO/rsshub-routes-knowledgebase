@@ -55,9 +55,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "IEEE Symposium on Security and Privacy Accepted Papers - Powered by RSSHub",

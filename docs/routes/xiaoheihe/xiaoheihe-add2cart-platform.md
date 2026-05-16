@@ -46,15 +46,11 @@ _None_
     "platform": "平台名：epic、steam或gog"
   },
   "path": "/add2cart/:platform",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "小黑盒 EPIC 喜加一 - Powered by RSSHub",
       "errorAt": "2024-12-24T07:42:30.812Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\nCannot read properties of undefined (reading 'map')\nAuthentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nCannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\n502 Bad Gateway\nAuthentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nCannot read properties of undefined (reading 'map')\n",
       "id": "58426420603331584",
       "image": null,
       "ownerUserId": null,

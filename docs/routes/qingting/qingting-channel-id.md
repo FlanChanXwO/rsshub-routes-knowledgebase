@@ -60,9 +60,6 @@ _None_
     "id": "专辑id, 可在专辑页 URL 中找到"
   },
   "path": "/channel/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "圈里圈外InsightOut - 蜻蜓FM - Powered by RSSHub",

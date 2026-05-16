@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2684,
+  "heat": 2685,
   "location": "article.ts",
   "maintainers": [
     "wb121017405"
@@ -96,10 +96,6 @@ _None_
     }
   },
   "path": "/article/:type?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "ZiMuZu字幕组网站,www.zimuzu.tv是一群由海外留学生于2015年1月1号组建的字幕组分享网站,以翻译最新最快影 视剧为兴趣爱好,并且免费分享给广大网友和爱好者，欢迎大家的加入 - Powered by RSSHub",

@@ -81,9 +81,6 @@
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "NEWS | アイドルマスター - Powered by RSSHub",

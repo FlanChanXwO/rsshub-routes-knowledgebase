@@ -50,9 +50,6 @@ _None_
     "categoryId": "分类id"
   },
   "path": "/category/:categoryId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -60,9 +60,6 @@ _None_
     "id": "记者 UID"
   },
   "path": "/app/reporter/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

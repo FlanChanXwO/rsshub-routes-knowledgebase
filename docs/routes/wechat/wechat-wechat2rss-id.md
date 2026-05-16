@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 407,
+  "heat": 408,
   "location": "wechat2rss.ts",
   "maintainers": [
     "TonyRL"
@@ -59,9 +59,6 @@ _None_
     "id": "公众号 id，打开 `https://wechat2rss.xlab.app/posts/list/`，在 URL 中找到 id；注意不是公众号页的 id，而是订阅的 id"
   },
   "path": "/wechat2rss/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app) - Powered by RSSHub",

@@ -71,9 +71,6 @@ _None_
     "type": "类型, 缺省为`latest`"
   },
   "path": "/topic/:category?/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "看雪论坛最新主题 - Powered by RSSHub",
@@ -89,8 +86,8 @@ _None_
     },
     {
       "description": "看雪论坛精华主题 - Android安全 - Powered by RSSHub",
-      "errorAt": "2026-05-14T01:12:27.030Z",
-      "errorMessage": "[GET] \"https://bbs.kanxue.com/forum-161-1.htm?digest=1\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59422035037245440",
       "image": null,
       "ownerUserId": null,

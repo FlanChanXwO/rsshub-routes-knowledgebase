@@ -61,9 +61,6 @@ _None_
     "keyword": "关键字，默认为空"
   },
   "path": "/community/:id?/:keyword?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

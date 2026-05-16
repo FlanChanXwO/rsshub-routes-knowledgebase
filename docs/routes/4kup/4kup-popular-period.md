@@ -72,9 +72,6 @@ _None_
       "target": "/popular/:period"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "4KUP - Top views in 7 days - Powered by RSSHub",

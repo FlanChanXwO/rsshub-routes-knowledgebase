@@ -59,9 +59,6 @@ _None_
     "id": "分类 id，见上表。此參數默认为 aall"
   },
   "path": "/web/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "證券 | 中央社 CNA - Powered by RSSHub",

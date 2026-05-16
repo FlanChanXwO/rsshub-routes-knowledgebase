@@ -54,9 +54,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "infos.imhcg.cn",
   "view": 5

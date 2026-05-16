@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2578,
+  "heat": 2580,
   "location": "main.ts",
   "maintainers": [
     "sgqy",
@@ -135,9 +135,6 @@ _None_
     }
   },
   "path": "/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "奇客的资讯，重要的东西 - Powered by RSSHub",

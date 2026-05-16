@@ -68,9 +68,6 @@ _None_
       "target": "/box"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "猫眼电影实时票房排行榜 - Powered by RSSHub",

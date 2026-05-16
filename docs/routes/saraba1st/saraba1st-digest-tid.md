@@ -60,9 +60,6 @@ _None_
     "tid": "论坛 id"
   },
   "path": "/digest/:tid",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Stage1 论坛 - ＰＣ数码 - Powered by RSSHub",

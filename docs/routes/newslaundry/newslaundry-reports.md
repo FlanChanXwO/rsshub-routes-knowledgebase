@@ -67,9 +67,6 @@ _None_
       "target": "/reports"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Report articles from Newslaundry - Powered by RSSHub",

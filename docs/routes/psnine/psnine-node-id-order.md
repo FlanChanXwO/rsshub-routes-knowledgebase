@@ -58,9 +58,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "「会免」最新讨论 - PSN中文站 - Powered by RSSHub",

@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 419,
+  "heat": 420,
   "location": "artist.ts",
   "maintainers": [
     "outloudvi"
@@ -81,7 +81,7 @@ _None_
     {
       "description": "Albums of Taylor Swift - Powered by RSSHub",
       "errorAt": "2026-03-10T15:04:10.929Z",
-      "errorMessage": "Spotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02\": 403 Forbidden\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02\": 403 Forbidden\n",
       "id": "55152034158156800",
       "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
       "ownerUserId": null,

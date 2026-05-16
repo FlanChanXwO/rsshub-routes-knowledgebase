@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "ciee.cau.edu.cn/col/col26712/index.html"
 }

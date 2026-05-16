@@ -43,9 +43,6 @@ _None_
   ],
   "name": "推荐",
   "path": "/recommend",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "推荐 - Powered by RSSHub",

@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 通用
+# Hangzhou People's Government - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/npc/:caty`
 - Route Name: `通用`
 - Example: `/gov/npc/c183`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `233yeee`
@@ -71,10 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "权威发布_中国人大网 - Powered by RSSHub",
@@ -91,7 +87,7 @@
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-05-11T09:04:51.612Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

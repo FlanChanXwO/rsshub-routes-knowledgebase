@@ -75,9 +75,6 @@
       "target": "/yz/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "西安交通大学研究生招生信息网 - Powered by RSSHub",

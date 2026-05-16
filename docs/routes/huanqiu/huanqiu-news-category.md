@@ -71,9 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "环球网 - Powered by RSSHub",

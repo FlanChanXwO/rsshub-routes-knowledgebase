@@ -96,9 +96,6 @@ _None_
     "page": "Page, `0` by default"
   },
   "path": "/blog/:id?/:page?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "日向坂46 公式ブログ - Powered by RSSHub",

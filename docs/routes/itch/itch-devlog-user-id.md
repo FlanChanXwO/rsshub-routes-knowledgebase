@@ -66,22 +66,7 @@ _None_
     "user": "User id, can be found in URL"
   },
   "path": "/devlog/:user/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
-    {
-      "description": "Devlog - Agent17 (18+ Adult Game) by HEXATAIL - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "81600518557769728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hexatail.itch.io/agent17/devlog",
-      "title": "Devlog - Agent17 (18+ Adult Game) by HEXATAIL",
-      "type": "feed",
-      "url": "rsshub://itch/devlog/hexatail/agent17"
-    },
     {
       "description": "Devlog - Eternum by Caribdis - Powered by RSSHub",
       "errorAt": null,
@@ -93,6 +78,18 @@ _None_
       "title": "Devlog - Eternum by Caribdis",
       "type": "feed",
       "url": "rsshub://itch/devlog/caribdis/eternum"
+    },
+    {
+      "description": "Devlog - Agent17 (18+ Adult Game) by HEXATAIL - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "81600518557769728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hexatail.itch.io/agent17/devlog",
+      "title": "Devlog - Agent17 (18+ Adult Game) by HEXATAIL",
+      "type": "feed",
+      "url": "rsshub://itch/devlog/hexatail/agent17"
     }
   ]
 }

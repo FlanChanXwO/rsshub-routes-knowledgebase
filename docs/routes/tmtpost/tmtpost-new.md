@@ -69,9 +69,6 @@ _None_
       "target": "/new"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "【最新资讯】及时的科股原创内容，有钛度的科股原创内容，帮助您及时获取互联网信息的信息，更多资讯内容，就在钛媒体官方网站。 - Powered by RSSHub",

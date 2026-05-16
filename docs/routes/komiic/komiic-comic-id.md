@@ -72,9 +72,6 @@ _None_
       "target": "/comic/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Komiic - 葬送的芙莉蓮 - Powered by RSSHub",
@@ -89,16 +86,16 @@ _None_
       "url": "rsshub://komiic/comic/217"
     },
     {
-      "description": "Komiic - 電鋸人 - Powered by RSSHub",
-      "errorAt": "2026-05-03T00:12:46.730Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "124657497854501888",
+      "description": "Komiic - 魔都精兵的奴隸 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "118075271617970176",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://komiic.com/comic/294",
-      "title": "Komiic - 電鋸人",
+      "siteUrl": "https://komiic.com/comic/533",
+      "title": "Komiic - 魔都精兵的奴隸",
       "type": "feed",
-      "url": "rsshub://komiic/comic/294"
+      "url": "rsshub://komiic/comic/533"
     }
   ]
 }

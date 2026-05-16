@@ -53,7 +53,7 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 26,
+  "heat": 25,
   "location": "current-events.ts",
   "maintainers": [
     "aavanian"
@@ -92,9 +92,6 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
       "target": "/wikipedia/current-events"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",

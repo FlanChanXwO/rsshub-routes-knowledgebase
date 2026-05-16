@@ -46,15 +46,11 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/video-all/:uid/:embed?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-02-20T11:45:38.308Z",
-      "errorMessage": "[GET] \"https://space.bilibili.com/316183842/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://space.bilibili.com/316183842/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "82801159002601472",
       "image": null,
       "ownerUserId": null,

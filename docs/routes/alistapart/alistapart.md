@@ -54,9 +54,6 @@ _None_
       "target": "/"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "alistapart.com/articles/"
 }

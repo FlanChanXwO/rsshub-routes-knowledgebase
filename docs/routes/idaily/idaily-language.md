@@ -61,9 +61,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "iDaily · 每日环球视野 | Your Global Point of View - Powered by RSSHub",

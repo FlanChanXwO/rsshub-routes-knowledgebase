@@ -76,9 +76,6 @@ _None_
     "date": "Date string, must be in format of `YYYY-MM-DD`. You can get today's news using `today`"
   },
   "path": "/:date?/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

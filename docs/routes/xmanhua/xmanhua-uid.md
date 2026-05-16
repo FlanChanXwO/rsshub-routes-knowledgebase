@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "已完结 - Powered by RSSHub",

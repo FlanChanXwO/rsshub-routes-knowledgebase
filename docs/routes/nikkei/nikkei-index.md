@@ -43,9 +43,6 @@ _None_
   ],
   "name": "Home",
   "path": "/index",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "日本経済新聞 - Powered by RSSHub",

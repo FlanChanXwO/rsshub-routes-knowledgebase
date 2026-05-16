@@ -83,9 +83,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "TVB News - 要聞 - Powered by RSSHub",

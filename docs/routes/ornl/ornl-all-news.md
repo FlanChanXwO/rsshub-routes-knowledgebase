@@ -69,9 +69,6 @@ _None_
       "target": "/all-news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.ornl.gov",
   "view": 0

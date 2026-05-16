@@ -75,9 +75,6 @@ _None_
     "site": "instance address, only domain, no `http://` or `https://` protocol header"
   },
   "path": "/timeline/:site/:only_media?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Local Public Media Timeline on pawoo.net - Powered by RSSHub",

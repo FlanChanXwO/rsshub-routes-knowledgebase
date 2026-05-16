@@ -96,9 +96,6 @@
       "target": "/news/zh-cn"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "公主连结台服-最新公告 - Powered by RSSHub",

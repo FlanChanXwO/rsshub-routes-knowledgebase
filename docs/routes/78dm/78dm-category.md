@@ -706,15 +706,11 @@
       "title": "好贴推荐 - 兵人模型"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "变形金刚玩具,高达模型,PG,MG,HGUC,SD,高达模型制作,模玩论坛,动漫周边,玩具店,海贼王周边,圣衣神话 - Powered by RSSHub",
       "errorAt": "2026-01-20T09:36:26.980Z",
-      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1913933.html\": 404 Not Found\n[GET] \"https://bbs.78dm.net/forum/post/1913932.html\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1913966.html\": 404 Not Found\n[GET] \"https://bbs.78dm.net/forum/post/1913998.html\": 404 Not Found\n",
       "id": "61450581766908928",
       "image": "https://www.78dm.net/assets/e40a0f68/images/logo.png",
       "ownerUserId": null,

@@ -71,9 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",

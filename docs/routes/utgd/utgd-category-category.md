@@ -75,9 +75,6 @@
       "target": "/category/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "来自本站作者们的方法型文章。 - Powered by RSSHub",

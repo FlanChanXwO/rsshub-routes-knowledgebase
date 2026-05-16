@@ -71,9 +71,6 @@ _None_
       "target": "/games"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

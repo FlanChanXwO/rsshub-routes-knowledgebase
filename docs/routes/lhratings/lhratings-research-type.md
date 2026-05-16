@@ -149,9 +149,6 @@
       "title": "评级表现"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "行业研究 - Powered by RSSHub",
@@ -167,8 +164,8 @@
     },
     {
       "description": "宏观经济 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T19:32:04.789Z",
+      "errorMessage": "[GET] \"https://www.lhratings.com/research.html?type=1\": 502 Bad Gateway\n",
       "id": "101364983690255360",
       "image": "https://www.lhratings.com/static/imgs/logo.png",
       "ownerUserId": null,

@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 发展改革工作
+# Hangzhou People's Government - 发展改革工作
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/ndrc/fggz/:category{.+}?`
 - Route Name: `发展改革工作`
 - Example: `/gov/ndrc/fggz`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -1308,9 +1308,6 @@ _None_
       "title": "发改金辉 - 金色夕阳"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "发展改革工作 - Powered by RSSHub",

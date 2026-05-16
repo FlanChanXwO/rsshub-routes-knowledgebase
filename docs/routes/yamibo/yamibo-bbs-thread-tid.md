@@ -65,9 +65,6 @@ _None_
     "tid": "讨论串 id，可从URL中提取。https://bbs.yamibo.com/forum.php?mod=viewthread&tid=xxxx中的xxx或https://bbs.yamibo.com/thread-aaa-b-c.html中的aaa部分即为tid值"
   },
   "path": "/bbs/thread/:tid",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.10更新至第416话） - 轻小说/译文区 - Powered by RSSHub",

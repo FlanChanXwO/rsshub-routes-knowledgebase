@@ -80,9 +80,6 @@ _None_
       "target": "/article/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "杂谈小说《鹅绒锁》_完整目录在线全文阅读 - Powered by RSSHub",

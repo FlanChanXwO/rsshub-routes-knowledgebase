@@ -73,9 +73,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "每天更新15条简语早报和一条微语，国际早报，财经早报，早报软件，每天60秒足不出户了解天下事！ - Powered by RSSHub",

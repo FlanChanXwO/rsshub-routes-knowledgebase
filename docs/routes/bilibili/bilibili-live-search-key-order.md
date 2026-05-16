@@ -61,10 +61,6 @@ _None_
     "order": "排序方式, live_time 开播时间, online 人气"
   },
   "path": "/live/search/:key/:order",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "哔哩哔哩直播-漫展-最新开播 - Powered by RSSHub",
@@ -79,16 +75,16 @@ _None_
       "url": "rsshub://bilibili/live/search/%E6%BC%AB%E5%B1%95/live_time"
     },
     {
-      "description": "哔哩哔哩直播-鲁班-人气直播 - Powered by RSSHub",
-      "errorAt": "2026-05-13T00:56:35.189Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "257475092137511936",
+      "description": "哔哩哔哩直播-LOL-人气直播 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "183143892856039424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=%E9%B2%81%E7%8F%AD&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-鲁班-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=LOL&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-LOL-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/%E9%B2%81%E7%8F%AD/online"
+      "url": "rsshub://bilibili/live/search/LOL/online"
     }
   ]
 }

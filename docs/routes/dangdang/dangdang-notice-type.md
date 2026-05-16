@@ -64,9 +64,6 @@ _None_
     "type": "公告分类，默认为全部"
   },
   "path": "/notice/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "当当开放平台 - 全部 - Powered by RSSHub",

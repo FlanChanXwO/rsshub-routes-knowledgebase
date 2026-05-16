@@ -77,9 +77,6 @@
       "target": "/forum/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "一个壁纸换一个心情~ 将你喜欢的壁纸分享给大家吧。本区不打水印。 - Powered by RSSHub",

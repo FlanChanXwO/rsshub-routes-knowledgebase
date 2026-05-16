@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "NASA 每日一天文圖 (成大物理分站) - Powered by RSSHub",

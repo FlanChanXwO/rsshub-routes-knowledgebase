@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "财联社 - 热门文章排行榜 - Powered by RSSHub",

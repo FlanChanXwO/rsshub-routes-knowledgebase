@@ -1348,9 +1348,6 @@
       "title": "农业气象 - 国外农业气象月报"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中央气象台官方网站 - Powered by RSSHub",

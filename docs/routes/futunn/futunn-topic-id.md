@@ -62,9 +62,6 @@ _None_
       "target": "/topic/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "可借鉴的投资经验，实用的交易方法，探索炒股之道。 - Powered by RSSHub",

@@ -68,9 +68,6 @@ _None_
       "target": "/recent-actions"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Codeforces - Recent actions - Powered by RSSHub",

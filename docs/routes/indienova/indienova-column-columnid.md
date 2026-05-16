@@ -108,9 +108,6 @@ Game Jam
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "一周值得关注的作品 | indienova 独立游戏 - Powered by RSSHub",

@@ -133,9 +133,6 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
       "title": "Repositories"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Repositories Ranking - Powered by RSSHub",

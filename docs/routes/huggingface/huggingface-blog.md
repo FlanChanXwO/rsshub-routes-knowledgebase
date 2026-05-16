@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 172,
+  "heat": 171,
   "location": "blog.ts",
   "maintainers": [
     "cesaryuan",
@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Huggingface 英文博客 - Powered by RSSHub",

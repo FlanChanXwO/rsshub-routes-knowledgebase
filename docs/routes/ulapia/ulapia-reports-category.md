@@ -62,9 +62,6 @@ _None_
     "category": "频道类型，默认为券商晨报（今日晨报）"
   },
   "path": "/reports/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",

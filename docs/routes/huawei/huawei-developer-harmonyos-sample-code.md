@@ -67,9 +67,6 @@ _None_
       "target": "/huawei/developer/harmonyos/sample-code"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华为鸿蒙系统示例代码更新 - Powered by RSSHub",

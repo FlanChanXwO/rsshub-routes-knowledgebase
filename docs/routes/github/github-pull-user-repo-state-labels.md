@@ -98,9 +98,6 @@ _None_
       "target": "/pull/:user/:repo"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "RSSNext/Follow Open Pull Requests - Powered by RSSHub",

@@ -66,9 +66,6 @@ _None_
     "language": "`zh-hans` 为简体，`zh-hant` 为繁体"
   },
   "path": "/:language/:channel?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "東網 - 港澳 - Powered by RSSHub",

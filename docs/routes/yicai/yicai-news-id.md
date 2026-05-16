@@ -99,9 +99,6 @@
       "target": "/news/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "第一财经 - 新闻 - Powered by RSSHub",

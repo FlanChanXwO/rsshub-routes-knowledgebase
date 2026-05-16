@@ -52,9 +52,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Anthropic Frontier Red Team - Powered by RSSHub",

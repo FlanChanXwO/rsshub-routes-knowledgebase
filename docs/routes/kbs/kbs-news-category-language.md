@@ -75,9 +75,6 @@
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "全部 - KBS WORLD - Powered by RSSHub",
@@ -93,8 +90,8 @@
     },
     {
       "description": "All - KBS WORLD - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T23:35:59.179Z",
+      "errorMessage": "[GET] \"http://world.kbs.co.kr/service/news_list.htm?lang=e\": 403 Forbidden\n",
       "id": "69944188878743552",
       "image": null,
       "ownerUserId": null,

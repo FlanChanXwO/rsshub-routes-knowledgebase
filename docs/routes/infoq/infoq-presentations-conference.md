@@ -75,9 +75,6 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Presentations from QCon London 2018, QCon New York 2018, SpringOne Platform 2018, and more - Powered by RSSHub",

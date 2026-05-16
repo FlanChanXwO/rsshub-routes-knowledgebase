@@ -60,9 +60,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",

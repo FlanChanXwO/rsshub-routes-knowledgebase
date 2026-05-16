@@ -57,9 +57,6 @@ _None_
       "target": "/thread/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The 2025 Console & PC Virtual Photography Thread | IMG_01_12_2025.png - Powered by RSSHub",

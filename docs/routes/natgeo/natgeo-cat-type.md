@@ -76,9 +76,6 @@ _None_
       "target": "/:cat/:type?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "國家地理雜誌｜呈現最新的自然、科學、生態與文化專題報導。探索動物保護、環境變遷、考古發現等豐富內容，並通過精美的攝影和深度分析，帶您深入了解世界各地的故事與現象。 - Powered by RSSHub",
@@ -94,8 +91,8 @@ _None_
     },
     {
       "description": "國家地理雜誌｜呈現最新的自然、科學、生態與文化專題報導。探索動物保護、環境變遷、考古發現等豐富內容，並通過精美的攝影和深度分析，帶您深入了解世界各地的故事與現象。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T02:32:19.716Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67036766288113664",
       "image": "https://www.natgeomedia.com/img/app_icon.png",
       "ownerUserId": null,

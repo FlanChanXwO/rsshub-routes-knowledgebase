@@ -78,9 +78,6 @@ _None_
     "column": "栏目名"
   },
   "path": "/:column/:category",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "财新网 - 提供财经新闻及资讯服务 - Powered by RSSHub",

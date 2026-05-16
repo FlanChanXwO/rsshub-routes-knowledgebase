@@ -68,10 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Shubxam's followers - Powered by RSSHub",
@@ -86,16 +82,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "FerrisChi's followers - Powered by RSSHub",
+      "description": "yihong0618's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126208930954814464",
+      "id": "86779650812562432",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/FerrisChi",
-      "title": "FerrisChi's followers",
+      "siteUrl": "https://github.com/yihong0618",
+      "title": "yihong0618's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/FerrisChi"
+      "url": "rsshub://github/user/followers/yihong0618"
     }
   ]
 }

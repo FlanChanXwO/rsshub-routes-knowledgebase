@@ -60,9 +60,6 @@ _None_
     "account": "username@domain"
   },
   "path": "/timeline/:account",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Public posts from @pseudoyu@mas.to - Powered by RSSHub",

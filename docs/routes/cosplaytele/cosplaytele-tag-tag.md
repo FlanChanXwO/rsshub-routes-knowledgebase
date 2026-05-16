@@ -72,9 +72,6 @@ _None_
       "target": "/tag/:tag"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CosplayTele - Tag: aqua - Powered by RSSHub",

@@ -70,9 +70,6 @@ _None_
       "target": "/blog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "角編新聞台 - Powered by RSSHub",

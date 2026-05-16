@@ -65,9 +65,6 @@ _None_
       "title": "Latest Curator Reviews"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Steam Curator 34646096-80-Days Reviews - Powered by RSSHub",

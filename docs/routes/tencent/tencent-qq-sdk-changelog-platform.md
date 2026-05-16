@@ -59,9 +59,6 @@ _None_
     "platform": "平台，iOS / Android"
   },
   "path": "/qq/sdk/changelog/:platform",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "iOS SDK 历史变更 - Powered by RSSHub",

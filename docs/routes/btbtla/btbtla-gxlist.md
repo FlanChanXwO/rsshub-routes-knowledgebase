@@ -43,9 +43,6 @@ _None_
   ],
   "name": "BTBTLA | 最近更新",
   "path": "/gxlist",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "BTBTLA | 最近更新列表 - Powered by RSSHub",

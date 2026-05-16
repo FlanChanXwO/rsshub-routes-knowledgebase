@@ -62,9 +62,6 @@ _None_
     "type": "订阅分区类型，见下表"
   },
   "path": "/discovery/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新-新浪科技科学探索 - Powered by RSSHub",

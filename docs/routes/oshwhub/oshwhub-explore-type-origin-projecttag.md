@@ -1525,9 +1525,6 @@
       "title": "电子设计大赛 - 2023年电赛"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",

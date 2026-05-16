@@ -166,9 +166,6 @@
       "title": "视频"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "欢迎大家在机核分享交流 - Powered by RSSHub",

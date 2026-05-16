@@ -71,9 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "东南大学研究生招生网 -- 硕士招生 - Powered by RSSHub",

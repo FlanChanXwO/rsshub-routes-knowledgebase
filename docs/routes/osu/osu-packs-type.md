@@ -59,9 +59,6 @@ _None_
     "type": "pack type, default to `standard`, can choose from `featured`, `tournament`, `loved`, `chart`, `theme` and `artist`"
   },
   "path": "/packs/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

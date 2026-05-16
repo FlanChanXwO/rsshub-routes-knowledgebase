@@ -76,9 +76,6 @@ _None_
     "type": "排行榜类型，“点击榜”对应`click`，“跟贴榜”对应`follow`，默认为“点击榜”"
   },
   "path": "/news/rank/:category?/:type?/:time?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "网易新闻24小时点击榜 - 全站 - Powered by RSSHub",

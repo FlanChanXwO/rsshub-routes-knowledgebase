@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/rustcc/news",
-  "heat": 634,
+  "heat": 635,
   "location": "news.ts",
   "maintainers": [
     "zhenlohuang"
@@ -52,9 +52,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "获取Rust语言中文社区的新闻/聚合 - Powered by RSSHub",

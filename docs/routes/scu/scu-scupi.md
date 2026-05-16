@@ -58,9 +58,6 @@ _None_
   "name": "匹兹堡学院通知",
   "parameters": {},
   "path": "/scupi",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "四川大学匹兹堡学院官网通知 - Powered by RSSHub",

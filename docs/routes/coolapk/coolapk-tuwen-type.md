@@ -70,9 +70,6 @@ _None_
   "path": [
     "/tuwen/:type?"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "酷安图文 - 编辑精选 - Powered by RSSHub",

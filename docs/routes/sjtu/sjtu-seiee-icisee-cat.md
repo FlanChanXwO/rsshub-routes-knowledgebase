@@ -60,9 +60,6 @@ _None_
   },
   "path": "/seiee/icisee/:cat",
   "radar": [],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

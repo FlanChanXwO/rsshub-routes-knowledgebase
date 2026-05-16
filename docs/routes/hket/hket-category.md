@@ -128,7 +128,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 49,
+  "heat": 50,
   "location": "index.tsx",
   "maintainers": [
     "TonyRL"
@@ -170,9 +170,6 @@
       "target": "/"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",

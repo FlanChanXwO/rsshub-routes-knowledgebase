@@ -68,9 +68,6 @@ _None_
     "tags": "分类标签，多个标签之间用英文逗号分隔，常见的标签到豆瓣电影的分类页面查看，支持自定义标签"
   },
   "path": "/movie/classification/:sort?/:score?/:tags?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣电影分类超过 7.5 分的影视 - Powered by RSSHub",

@@ -74,9 +74,6 @@ _None_
       "title": "AVメーカー"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "AVメーカー: ナチュラルハイ - chikubi.jp - Powered by RSSHub",

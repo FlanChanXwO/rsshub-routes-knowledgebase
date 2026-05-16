@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国国家发展和改革委员会政府信息公开
+# Hangzhou People's Government - 中华人民共和国国家发展和改革委员会政府信息公开
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/ndrc/zfxxgk`
 - Route Name: `中华人民共和国国家发展和改革委员会政府信息公开`
 - Example: `/gov/ndrc/zfxxgk`
@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1651,
+  "heat": 1652,
   "location": "ndrc/zfxxgk.ts",
   "maintainers": [
     "howfool",
@@ -73,9 +73,6 @@ _None_
       "target": "/ndrc/zfxxgk"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "国家发展改革委按目录发布本机关或相关的政府信息公开事项 - Powered by RSSHub",

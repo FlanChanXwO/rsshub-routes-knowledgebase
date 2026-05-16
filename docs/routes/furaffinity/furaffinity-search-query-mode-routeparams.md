@@ -86,9 +86,6 @@ Additional search parameters
       "target": "/search"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "furaffinity.net"
 }

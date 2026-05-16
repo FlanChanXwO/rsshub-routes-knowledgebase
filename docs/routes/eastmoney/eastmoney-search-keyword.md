@@ -59,9 +59,6 @@ _None_
     "keyword": "关键词，可以设置为自己需要检索的关键词"
   },
   "path": "/search/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "东方财富网 - 搜索'期货' - Powered by RSSHub",

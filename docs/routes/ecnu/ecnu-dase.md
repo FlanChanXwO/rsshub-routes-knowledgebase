@@ -56,9 +56,6 @@ _None_
       "target": "/dase"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

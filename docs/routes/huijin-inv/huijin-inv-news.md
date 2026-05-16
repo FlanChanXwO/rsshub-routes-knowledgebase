@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中央汇金投资有限责任公司 - 资讯中心 - Powered by RSSHub",

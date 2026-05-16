@@ -70,9 +70,6 @@ _None_
       "target": "/live/:user"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Se vuoi ridere sei nel posto giusto😎 If u wanna laugh u r in the right place😎 - Powered by RSSHub",

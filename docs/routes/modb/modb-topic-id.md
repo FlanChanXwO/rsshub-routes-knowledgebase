@@ -59,9 +59,6 @@ _None_
     "id": "合辑序号"
   },
   "path": "/topic/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "墨天轮合辑 - Powered by RSSHub",

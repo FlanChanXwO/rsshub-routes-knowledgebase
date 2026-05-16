@@ -53,9 +53,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "grist.org/articles/"
 }

@@ -75,9 +75,6 @@
       "target": "/finance/rollnews"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新浪财经－财经滚动新闻 - Powered by RSSHub",

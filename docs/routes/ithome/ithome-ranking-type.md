@@ -63,9 +63,6 @@ _None_
     "type": "类别"
   },
   "path": "/ranking/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "IT之家-24 小时最热 - Powered by RSSHub",

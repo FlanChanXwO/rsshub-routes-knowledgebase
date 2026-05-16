@@ -68,9 +68,6 @@ _None_
     "type": "默认为history"
   },
   "path": "/toutiao/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "历史头条 - Powered by RSSHub",

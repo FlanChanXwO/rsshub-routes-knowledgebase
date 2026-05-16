@@ -69,10 +69,6 @@ _None_
       "target": "/article/list/kx"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:37:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "人民财讯是由人民日报主管主办的全国性财经类日报《证券时报》倾力打造的快讯内容平台，专注于宏观要闻、股市动态、公司新闻、数据解读以及海外财经资讯等全方位财经信息。依托人民日报的权威平台支持与《证券时报》的专业深耕，“人民财讯”致力于为广大投资者提供权威、专业、及时且实用、有用、好用的财经资讯，满足用户对高质量财经信息的需求，成为数字化时代下高品质的财经信息平台。作为金融监管部门、上市公司，以及银行、保险、券商、基金等金融机构高度关注的核心媒体，“人民财讯”凭借精准的信息传递与深度的内容解读，赢得了机构投资者与个人投资者的广泛信赖。无论是政策解读、市场趋势分析，还是投资决策支持，“人民财讯”始终以高质量内容服务于财经领域的各方需求，彰显其不可替代的权威性与实用价值。 - Powered by RSSHub",

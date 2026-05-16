@@ -101,10 +101,6 @@ For example, the URL of [GarageBand](https://apps.apple.com/us/app/garageband/id
       "target": "/apps/update/:country/:id"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 315281780958 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:38:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "微信是一款全方位的手机通讯应用，帮助你轻松连接全球好友。微信可以群聊、进行视频聊天、与好友一起玩游戏，以及分享自己的生活到朋友圈，让你感受耳目一新的移动生活方式。 为什么要使用微信： • 多媒体消息：支持发送视频、图片、文本和语音消息。 • 群聊和通话：组建高达500人的群聊和高达15人的实时视频聊天。 • 语音和视频聊天：提供全球的高质量通话。 • 表情商店：海量动态表情，包括热门卡通人物和电影，让聊天变得更生动有趣。 • 朋友圈：与好友分享每个精彩瞬间，记录自己的生活点滴。 • 更佳的隐私保障：微信为您提供最高级别的隐私控制权限，并已获得 TRUSTe 认证 — 查看我们的隐私政策以了解更多信息。 • 认识新朋友：通过“雷达加朋友”和“附近的人”认识新朋友。 • 实时位置共享：与好友分享地理位置，无需通过语言告诉对方。 • 多语言：支持超过20多种语言界面，并支持多国语言的消息翻译。 • 微信运动：支持接入Apple Watch及健康app数据，可在步数排行榜上和朋友一较高下。若需使用，可在“设置-通用-辅助功能”内启用。 • 更多功能: 支持跨平台、聊天室墙纸自定义、消息提醒自定义和公众号服务等。 • 关怀模式: 文字与按钮更大更清晰。 - Powered by RSSHub",

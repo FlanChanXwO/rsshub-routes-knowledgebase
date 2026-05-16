@@ -637,9 +637,6 @@
       "title": "已废止规则文本"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "股票交易 | 上海证券交易所 - Powered by RSSHub",

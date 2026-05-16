@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 通知公告
+# Hangzhou People's Government - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/beijing/jw/tzgg`
 - Route Name: `通知公告`
 - Example: `/gov/beijing/jw/tzgg`
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "北京市教育委员会门户网站由北京市教育委员会主办，北京教育网络和信息中心负责运行维护，是北京市教育委员会在互联网上发布教育相关信息和提供在线服务的综合平台，权威发布北京市教育重大决策部署和重要政策文件以及各类便民提示，搭建北京教育与公众互动的交流渠道，展示北京教育风貌等。 - Powered by RSSHub",

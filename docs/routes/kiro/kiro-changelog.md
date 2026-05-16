@@ -71,9 +71,6 @@ _None_
       "target": "/changelog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Stay up to date with the latest updates and improvements to Kiro. - Powered by RSSHub",

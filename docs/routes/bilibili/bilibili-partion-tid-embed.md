@@ -174,9 +174,6 @@ _None_
     "tid": "分区 id"
   },
   "path": "/partion/:tid/:embed?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "bilibili 电脑装机分区 - Powered by RSSHub",

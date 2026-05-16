@@ -59,9 +59,6 @@ _None_
     "embed": "默认为开启内嵌视频, 任意值为关闭"
   },
   "path": "/popular/all/:embed?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",

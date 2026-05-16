@@ -43,9 +43,6 @@ _None_
   ],
   "name": "最新新闻",
   "path": "/latest",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "news.newseed.cn"
 }

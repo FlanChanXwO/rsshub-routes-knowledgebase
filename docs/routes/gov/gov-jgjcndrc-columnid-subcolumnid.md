@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国国家发展和改革委员会价格监测中心
+# Hangzhou People's Government - 中华人民共和国国家发展和改革委员会价格监测中心
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/jgjcndrc/:columnId?/:subColumnId?`
 - Route Name: `中华人民共和国国家发展和改革委员会价格监测中心`
 - Example: `/gov/jgjcndrc/1832739866673426433`
@@ -77,9 +77,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中华人民共和国国家发展和改革委员会 价格监测中心 - Powered by RSSHub",

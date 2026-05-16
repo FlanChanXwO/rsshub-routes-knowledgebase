@@ -39,7 +39,7 @@ _None_
   ],
   "description": "Google Developers Blog",
   "example": "/google/developers/en",
-  "heat": 210,
+  "heat": 211,
   "location": "developers.ts",
   "maintainers": [
     "Loongphy"
@@ -89,9 +89,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Google Developers Blog - Powered by RSSHub",

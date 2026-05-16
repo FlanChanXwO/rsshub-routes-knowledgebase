@@ -62,9 +62,6 @@ _None_
     "category": "分类，可在对应分类页 URL 中找到，留空为全部"
   },
   "path": "/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Boss设计-收集国外设计素材网站的资源平台。专注于收集国外设计素材和国外设计网站，以及超实用的设计师神器，只为设计初学者和设计师提供海量的资源平台。.. - Powered by RSSHub",

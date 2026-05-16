@@ -76,9 +76,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Fantia - かほてぃあ (夏帆) - Powered by RSSHub",

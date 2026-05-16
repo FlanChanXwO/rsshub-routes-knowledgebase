@@ -257,9 +257,6 @@
       "title": "工作总结与计划"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.ccagm.org.cn",
   "view": 0

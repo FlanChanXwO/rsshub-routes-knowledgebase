@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Vote or request new RemNote features. Subscribe to get updates about new features from RemNote. - Powered by RSSHub",

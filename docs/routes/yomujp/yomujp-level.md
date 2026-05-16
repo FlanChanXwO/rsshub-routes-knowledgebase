@@ -72,9 +72,6 @@ _None_
       "target": "/:level"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "みなさん、こんにちは。 「 日本語多読道場(にほんごたどくどうじょう) Yomujp」は日本語を勉強する人のための読みものサイト（website）です。 日本の地理、食べもの、動物、植物、文化や歴史などを紹介します。 - Powered by RSSHub",

@@ -73,9 +73,6 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The Korea Herald - National - Powered by RSSHub",

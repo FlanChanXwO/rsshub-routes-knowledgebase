@@ -73,9 +73,6 @@
       "target": "/:category?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "观学院 - 精选 - Powered by RSSHub",

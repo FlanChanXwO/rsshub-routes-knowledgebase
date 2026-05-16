@@ -62,9 +62,6 @@ _None_
     "type": "文章类型ID，见下表"
   },
   "path": "/news/:typeId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "政策法规 - 深圳市医疗器械行业协会 - Powered by RSSHub",

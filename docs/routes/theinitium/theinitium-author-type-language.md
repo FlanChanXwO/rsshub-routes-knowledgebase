@@ -79,9 +79,6 @@ _None_
       "target": "/author/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "theinitium.com"
 }

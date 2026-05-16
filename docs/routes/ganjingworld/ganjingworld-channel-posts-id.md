@@ -70,9 +70,6 @@ _None_
       "target": "/channel/posts/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.ganjingworld.com"
 }

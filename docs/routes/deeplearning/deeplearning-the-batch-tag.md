@@ -333,9 +333,6 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
       "title": "Letters from Andrew Ng - Learning & Education"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Weekly AI news for engineers, executives, and enthusiasts. - Powered by RSSHub",

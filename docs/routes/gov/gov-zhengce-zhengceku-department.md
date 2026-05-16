@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 国务院政策文件库
+# Hangzhou People's Government - 国务院政策文件库
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/zhengce/zhengceku/:department`
 - Route Name: `国务院政策文件库`
 - Example: `/gov/zhengce/zhengceku/bmwj`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `zxx-457`
@@ -60,9 +60,6 @@ _None_
     "department": "库名"
   },
   "path": "/zhengce/zhengceku/:department",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "政府文件库, 当页的所有列表 - Powered by RSSHub",

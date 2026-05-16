@@ -133,9 +133,6 @@
       "title": "穿越火线 CFHD 专区资讯中心 - 杂谈"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "cfhd.cf.qq.com"
 }

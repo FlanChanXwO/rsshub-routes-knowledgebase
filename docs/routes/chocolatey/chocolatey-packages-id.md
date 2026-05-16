@@ -72,9 +72,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Microsoft Edge browser, based on the Chromium open source browser. - Powered by RSSHub",

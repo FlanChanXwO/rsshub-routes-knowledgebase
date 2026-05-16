@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 192,
+  "heat": 193,
   "location": "news/provider.ts",
   "maintainers": [
     "TonyRL",
@@ -90,9 +90,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Yahoo 新聞 - 法新社 - Powered by RSSHub",

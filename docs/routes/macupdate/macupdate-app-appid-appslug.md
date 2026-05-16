@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "<p><em>As of July 2012, Thunderbird has transitioned to a new governance model, with new features being developed by the broader free software and open source community, and security fixes and improvements handled by Mozilla.</em></p> <p><strong>Thunderbird</strong> is a free, open-source, cross-platform e-mail and news (NNTP) client developed by the Mozilla Foundation. The project strategy is modeled after Mozilla Firefox, a project aimed at creating a Web browser.</p> - Powered by RSSHub",

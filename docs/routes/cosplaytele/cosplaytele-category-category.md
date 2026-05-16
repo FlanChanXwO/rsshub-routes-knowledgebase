@@ -72,9 +72,6 @@ _None_
       "target": "/category/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CosplayTele - Category: cosplay - Powered by RSSHub",

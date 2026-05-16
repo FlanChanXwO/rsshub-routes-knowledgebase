@@ -52,9 +52,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "智篆商业-消费报告 - Powered by RSSHub",

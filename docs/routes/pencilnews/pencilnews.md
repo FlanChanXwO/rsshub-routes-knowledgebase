@@ -58,9 +58,6 @@ _None_
   "name": "文章列表",
   "parameters": {},
   "path": "/",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

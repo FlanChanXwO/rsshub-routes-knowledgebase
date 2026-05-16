@@ -37,26 +37,22 @@ _None_
     "popular"
   ],
   "example": "/obsidian/plugins",
-  "heat": 1616,
+  "heat": 1615,
   "location": "plugins.ts",
   "maintainers": [
     "DIYgod"
   ],
   "name": "Plugins",
   "path": "/plugins",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Obsidian Plugins - Powered by RSSHub",
-      "errorAt": "2026-05-12T15:50:22.793Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\n[GET] \"https://raw.githubusercontent.com/obsidianmd/obsidian-releases/refs/heads/master/community-plugins.json\": <no response> fetch failed\nCannot read properties of undefined (reading 'downloads')\nCannot read properties of undefined (reading 'downloads')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "93966003665247232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://obsidian.md/plugins",
+      "siteUrl": "https://community.obsidian.md/search?type=plugin&sort=created",
       "title": "Obsidian Plugins",
       "type": "feed",
       "url": "rsshub://obsidian/plugins"

@@ -62,10 +62,6 @@ _None_
     "type": "类型，见下表，默认为 v4"
   },
   "path": "/cloudflareyes/:type?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "全球主机VPS库存监控补货通知 Stock Monitor 绿云GreenCloudVPS库存监控 搬瓦工BandwagonHost库存监控 斯巴达SpartanHost库存监控 CloudCone库存监控 AlphaVps库存监控 BuyVm 库存监控 Dmit库存监控 xTom/V.PS库存监控 RackNerd库存监控 国外VPS 云服务器 虚拟主机 便宜VPS VPS测评 VPS使用教程 资源分享 - Powered by RSSHub",

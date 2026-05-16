@@ -73,9 +73,6 @@ You can use the RSSHub global `limit` query parameter to specify the maximum num
       "target": "/channel/:channel"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

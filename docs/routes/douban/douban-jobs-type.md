@@ -62,9 +62,6 @@ _None_
     "type": "招聘类型，见下表"
   },
   "path": "/jobs/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣社会招聘 - Powered by RSSHub",

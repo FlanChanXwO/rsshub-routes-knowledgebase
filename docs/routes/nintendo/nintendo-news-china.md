@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 28,
   "location": "news-china.ts",
   "maintainers": [
     "NeverBehave"
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Nintendo 中国大陆官网刊登的资讯 - Powered by RSSHub",

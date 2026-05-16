@@ -69,9 +69,6 @@ _None_
       "target": "/raspberrypi/magazine"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The back issues of Raspberry Pi Official Magazine. Buy in print or download the digital version for free - Powered by RSSHub",

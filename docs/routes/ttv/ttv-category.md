@@ -55,9 +55,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "台視新聞 - Powered by RSSHub",

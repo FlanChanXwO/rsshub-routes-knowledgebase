@@ -75,7 +75,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 24839,
+  "heat": 24931,
   "location": "index.ts",
   "maintainers": [
     "zhboner"
@@ -87,9 +87,6 @@ _None_
     "type": "类型 id, 可在分区类型过滤后的 URL 中找到"
   },
   "path": "/:id/:type?/:search?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "[今日主题] 技術討論區 | 草榴社區 - t66y.com - Powered by RSSHub",

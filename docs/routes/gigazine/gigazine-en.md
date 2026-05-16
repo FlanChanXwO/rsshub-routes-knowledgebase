@@ -70,9 +70,6 @@ _None_
       "target": "/en"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "gigazine.net/gsc_news/en/",
   "view": 0

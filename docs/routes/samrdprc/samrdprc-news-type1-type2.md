@@ -76,9 +76,6 @@
       "target": "/news/:type1/:type2"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "国内消费品召回新闻 - 国家市场监督管理总局 - Powered by RSSHub",

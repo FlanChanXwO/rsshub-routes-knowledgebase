@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新华社新闻 - Powered by RSSHub",

@@ -54,9 +54,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Pixel Update Bulletins | Android Open Source Project - Powered by RSSHub",

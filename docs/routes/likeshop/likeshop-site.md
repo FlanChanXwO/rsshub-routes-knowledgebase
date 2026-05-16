@@ -69,9 +69,6 @@ LikeShop link in bio takes your audience from Instagram and TikTok to your websi
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

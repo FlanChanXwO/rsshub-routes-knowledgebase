@@ -59,33 +59,30 @@ _None_
     "uid": "用户uid"
   },
   "path": "/bbs/user-post/:uid",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
-      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
-      "errorAt": "2025-11-04T02:02:21.146Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "169381097732121600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
-      "title": "米游社 - 初代 的发帖",
-      "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76089447"
-    },
-    {
-      "description": "米游社 - 一卷心菜一一 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 小橙子阿 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120386587430633472",
+      "id": "198686747133224960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158107848",
-      "title": "米游社 - 一卷心菜一一 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=73603011",
+      "title": "米游社 - 小橙子阿 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/158107848"
+      "url": "rsshub://mihoyo/bbs/user-post/73603011"
+    },
+    {
+      "description": "米游社 - 雷肾老司机 的发帖 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198686660668527616",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=81879993",
+      "title": "米游社 - 雷肾老司机 的发帖",
+      "type": "feed",
+      "url": "rsshub://mihoyo/bbs/user-post/81879993"
     }
   ]
 }

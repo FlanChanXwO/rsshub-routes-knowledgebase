@@ -62,9 +62,6 @@ _None_
     "id": "栏目 id，可在对应栏目页 URL 中找到，默认为 exp，即新聞總覽"
   },
   "path": "/money18/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "東網產經 - 新聞總覽 - Powered by RSSHub",

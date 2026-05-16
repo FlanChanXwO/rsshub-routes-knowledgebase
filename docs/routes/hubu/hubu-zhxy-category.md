@@ -309,9 +309,6 @@
       "title": "党群工作 - 工会工作"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "zhxy.hubu.edu.cn"
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1336,
+  "heat": 1337,
   "location": "blog.ts",
   "maintainers": [
     "Jkker"
@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "苏杰（iamsujie） - Powered by RSSHub",

@@ -68,9 +68,6 @@ _None_
       "target": "/cnu/jdxw"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "news.cnu.edu.cn/xysx/jdxw/index.htm"
 }

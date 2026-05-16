@@ -51,7 +51,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 532,
+  "heat": 531,
   "location": "article.ts",
   "maintainers": [
     "EsuRt"
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "财新网 - 首页 - Powered by RSSHub",

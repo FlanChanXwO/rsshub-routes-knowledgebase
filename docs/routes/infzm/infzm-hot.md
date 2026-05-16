@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/infzm/hot",
-  "heat": 397,
+  "heat": 396,
   "location": "hot.ts",
   "maintainers": [
     "KarasuShin",
@@ -55,9 +55,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "南方周末-热门文章 - Powered by RSSHub",

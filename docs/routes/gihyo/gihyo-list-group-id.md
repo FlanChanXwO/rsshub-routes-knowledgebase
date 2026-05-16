@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Ubuntu Weekly Recipeの記事一覧 - Powered by RSSHub",

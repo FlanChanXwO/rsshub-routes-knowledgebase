@@ -67,9 +67,6 @@ _None_
       "target": "/quest/:alias"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Apeiron is a hybrid Real-time Strategy God Game primarily for Mobile - Powered by RSSHub",

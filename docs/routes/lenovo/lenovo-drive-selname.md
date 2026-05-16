@@ -70,9 +70,6 @@ _None_
       "target": "/drive/:selName"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Lenovo Legion Y9000X IAH7(2022款) 驱动 - Powered by RSSHub",

@@ -49,9 +49,6 @@ _None_
     "type": "https://www.zaobao.com/**lifestyle**/health 中的 **lifestyle**"
   },
   "path": "/other/:type?/:section?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",

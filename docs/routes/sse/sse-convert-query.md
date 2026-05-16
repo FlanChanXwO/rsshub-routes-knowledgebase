@@ -59,9 +59,6 @@ _None_
     "query": "筛选条件，见示例"
   },
   "path": "/convert/:query?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "上证债券信息网 - 可转换公司债券公告 - Powered by RSSHub",

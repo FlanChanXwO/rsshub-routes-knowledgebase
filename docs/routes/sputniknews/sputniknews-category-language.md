@@ -107,9 +107,6 @@ _None_
     "language": "Language, see below, English by default"
   },
   "path": "/:category?/:language?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "news - Sputnik News - Powered by RSSHub",

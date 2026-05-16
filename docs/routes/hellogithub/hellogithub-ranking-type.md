@@ -47,9 +47,6 @@ _None_
   ],
   "name": "榜单报告",
   "path": "/ranking/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "HelloGitHub - 编程语言排行榜 - Powered by RSSHub",

@@ -83,9 +83,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "daily.dev is the easiest way to stay updated on the latest programming news. Get the best content from the top tech publications on any topic you want. - Powered by RSSHub",

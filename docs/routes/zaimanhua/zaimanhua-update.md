@@ -78,9 +78,6 @@ _None_
       "target": "/update"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "再漫画 - 最近更新 - Powered by RSSHub",

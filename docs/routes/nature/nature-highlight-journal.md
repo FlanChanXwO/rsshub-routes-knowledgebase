@@ -75,9 +75,6 @@ Only some journals are supported.
       "target": "/highlight/:journal"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Browse the archive of articles on Nature - Powered by RSSHub",

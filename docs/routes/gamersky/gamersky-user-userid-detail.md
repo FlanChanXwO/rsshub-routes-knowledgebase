@@ -61,9 +61,6 @@ _None_
     "userId": "用户 ID。在用户个人主页，打开“开发者工具”中的“元素”标签页，搜索 data-userid 即可找到"
   },
   "path": "/user/:userId/:detail?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

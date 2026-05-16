@@ -84,9 +84,6 @@
       "target": "/news/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "涵蓋突發消息、最新熱話、本地時事、國際要聞、兩岸大事、專題報導，以及《家國天下》、《議員同你傾》、《有理有得傾》等多個焦點資訊節目。 - Powered by RSSHub",

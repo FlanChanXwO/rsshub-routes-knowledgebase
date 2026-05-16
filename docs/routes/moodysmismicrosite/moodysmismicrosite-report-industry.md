@@ -107,9 +107,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "穆迪评级(全部) - Powered by RSSHub",

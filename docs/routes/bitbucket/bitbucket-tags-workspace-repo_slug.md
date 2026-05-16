@@ -61,9 +61,6 @@ _None_
     "workspace": "Workspace"
   },
   "path": "/tags/:workspace/:repo_slug",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

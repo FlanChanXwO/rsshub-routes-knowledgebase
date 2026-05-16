@@ -71,10 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "華視 提供最新新聞,戲劇,綜藝,卡通,教學,綜合,影音,節目表等資訊。電話：(02)2775-6789 免付費服務專線: 0800-069-789 - Powered by RSSHub",

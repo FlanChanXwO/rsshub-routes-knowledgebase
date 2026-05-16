@@ -73,9 +73,6 @@ _None_
       "target": "/category/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "EVERIA.CLUB - Category: chinese - Powered by RSSHub",

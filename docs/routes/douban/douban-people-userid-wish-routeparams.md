@@ -66,22 +66,7 @@ _None_
     "userid": "用户id"
   },
   "path": "/people/:userid/wish/:routeParams?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
-    {
-      "description": "豆瓣想看 - Tredici - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "242962409053608960",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/people/171811323/wish",
-      "title": "豆瓣想看 - Tredici",
-      "type": "feed",
-      "url": "rsshub://douban/people/171811323/wish"
-    },
     {
       "description": "豆瓣想看 - kiki - Powered by RSSHub",
       "errorAt": null,
@@ -93,6 +78,18 @@ _None_
       "title": "豆瓣想看 - kiki",
       "type": "feed",
       "url": "rsshub://douban/people/46349710/wish"
+    },
+    {
+      "description": "豆瓣想看 - 白Rap的DJ - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:38:56.520Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "186422945668491341",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://movie.douban.com/people/270652243/wish",
+      "title": "豆瓣想看 - 白Rap的DJ",
+      "type": "feed",
+      "url": "rsshub://douban/people/270652243/wish"
     }
   ]
 }

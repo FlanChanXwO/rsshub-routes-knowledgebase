@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 207,
+  "heat": 206,
   "location": "book/latest.ts",
   "maintainers": [
     "fengkx",
@@ -63,9 +63,6 @@ _None_
     "type": "专题分类，可选，默认为 `all`"
   },
   "path": "/book/latest/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣新书速递 - Powered by RSSHub",

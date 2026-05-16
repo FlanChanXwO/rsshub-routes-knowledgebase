@@ -90,9 +90,6 @@
       "target": "/:column/:subColumn/:category?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "综合 - Powered by RSSHub",

@@ -58,9 +58,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新发布_共产党员网 - Powered by RSSHub",

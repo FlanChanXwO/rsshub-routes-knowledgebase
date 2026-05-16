@@ -47,9 +47,6 @@ _None_
     "owner": "Image owner"
   },
   "path": "/repositories/:owner",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "List of repositories for diygod - Powered by RSSHub",

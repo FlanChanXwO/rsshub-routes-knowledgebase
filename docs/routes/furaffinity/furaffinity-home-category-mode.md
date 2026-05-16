@@ -75,9 +75,6 @@ _None_
       "target": "/"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
@@ -93,15 +90,15 @@ _None_
     },
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
-      "errorAt": "2026-05-14T00:07:06.169Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 78981261172901888",
-      "id": "78981261172901888",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "85914165909319680",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.furaffinity.net/",
       "title": "Fur Affinity | Home",
       "type": "feed",
-      "url": "rsshub://furaffinity/home/sfw"
+      "url": "rsshub://furaffinity/home/home"
     }
   ],
   "url": "furaffinity.net"

@@ -165,9 +165,6 @@
       "target": "/price-adjustment/ni"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

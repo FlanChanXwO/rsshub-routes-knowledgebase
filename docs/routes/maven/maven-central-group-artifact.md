@@ -83,9 +83,6 @@ Get the latest versions of a Maven artifact from Maven Central Repository.
       "target": "/maven/central/:group/:artifact"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "central.sonatype.com/"
 }

@@ -97,9 +97,6 @@ HRT (Hudson River Trading) Tech Blog
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Hudson River Trading - Powered by RSSHub",

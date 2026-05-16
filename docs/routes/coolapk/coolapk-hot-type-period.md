@@ -78,9 +78,6 @@ _None_
     "type": "默认为`jrrm`"
   },
   "path": "/hot/:type?/:period?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "热榜-今日热门 - Powered by RSSHub",

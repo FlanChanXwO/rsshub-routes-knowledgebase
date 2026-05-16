@@ -181,9 +181,6 @@
       "title": "综合信息 - 部门预算决算"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "北京价格网是北京市价格监测中心门户网站 - Powered by RSSHub",

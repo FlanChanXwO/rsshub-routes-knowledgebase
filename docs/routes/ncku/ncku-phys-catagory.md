@@ -94,9 +94,6 @@
       "target": "/phys/:catagory"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "成大物理系公告 - 所有訊息 - Powered by RSSHub",

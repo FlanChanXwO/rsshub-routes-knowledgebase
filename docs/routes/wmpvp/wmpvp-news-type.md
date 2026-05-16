@@ -62,9 +62,6 @@ _None_
     "type": "资讯分类，见下表"
   },
   "path": "/news/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "完美世界电竞 - CS2 资讯 - Powered by RSSHub",

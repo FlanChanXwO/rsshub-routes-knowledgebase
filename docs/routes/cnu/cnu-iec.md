@@ -68,9 +68,6 @@ _None_
       "target": "/cnu/iec"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "iec.cnu.edu.cn/ggml/tzgg1/index.htm"
 }

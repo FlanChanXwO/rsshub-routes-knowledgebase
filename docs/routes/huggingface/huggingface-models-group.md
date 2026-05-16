@@ -70,9 +70,6 @@ _None_
       "target": "/models/:group"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Huggingface qwen Models - Powered by RSSHub",

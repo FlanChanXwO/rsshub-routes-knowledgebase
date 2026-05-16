@@ -75,7 +75,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 55,
+  "heat": 56,
   "location": "list.tsx",
   "maintainers": [
     "nczitzk"
@@ -129,9 +129,6 @@
       "title": "政策法规"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中房网是中国房地产业协会的官方网站，致力于政府、行业、专业三大资源的整合，以权威及时的房地产行业资讯、数据与信用信息，打造房地产政策解读、市场判研、测评研究、信用管理的权威公信力平台。 - Powered by RSSHub",

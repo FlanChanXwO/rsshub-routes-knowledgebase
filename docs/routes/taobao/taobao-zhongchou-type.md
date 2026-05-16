@@ -63,9 +63,6 @@ _None_
     "type": "类型, 默认为 `all` 全部"
   },
   "path": "/zhongchou/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "淘宝众筹-all - Powered by RSSHub",

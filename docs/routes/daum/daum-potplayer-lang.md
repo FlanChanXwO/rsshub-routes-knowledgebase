@@ -199,10 +199,6 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
       "title": "Polski"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 315802097209 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:38:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "PotPlayer Update History - Powered by RSSHub",

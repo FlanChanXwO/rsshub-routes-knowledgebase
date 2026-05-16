@@ -56,9 +56,6 @@ _None_
       "target": "/ghcollege"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

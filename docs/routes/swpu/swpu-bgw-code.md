@@ -73,9 +73,6 @@
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "西南石油大学办公网 重要通知公告 列表 - Powered by RSSHub",

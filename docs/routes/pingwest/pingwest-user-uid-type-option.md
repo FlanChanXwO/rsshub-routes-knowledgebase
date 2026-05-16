@@ -85,9 +85,6 @@
       "target": "/user/:uid/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "联系邮箱：lixiaoxian@pingwest.com - Powered by RSSHub",

@@ -73,9 +73,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国管理现代化研究会 - 新 闻 - Powered by RSSHub",

@@ -63,9 +63,6 @@ _None_
     "type": "default `news`"
   },
   "path": "/cic/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "天津大学智能与计算学部 - 通知公告 - Powered by RSSHub",

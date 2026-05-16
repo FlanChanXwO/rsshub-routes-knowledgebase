@@ -77,9 +77,6 @@
       "target": "/bookwalker/search"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "搜尋： 系列 簡單顯示 依發售日新至舊排序 第1頁 BOOK☆WALKER 台灣漫讀 / 電子書平台 - Powered by RSSHub",

@@ -69,9 +69,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "nowcoder.com/"
 }

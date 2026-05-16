@@ -75,9 +75,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国新闻周刊--调查 - Powered by RSSHub",

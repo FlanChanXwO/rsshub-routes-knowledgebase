@@ -81,22 +81,7 @@ _None_
     }
   },
   "path": "/search/:sub/:query",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
-    {
-      "description": "Syosetu Search: 百合 -男主人公 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "101361819062948864",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://noc.syosetu.com/search/search/search.php?word=%E7%99%BE%E5%90%88&notword=%E7%94%B7%E4%B8%BB%E4%BA%BA%E5%85%AC&type=&mintime=&maxtime=&minlen=&maxlen=&min_globalpoint=&max_globalpoint=&minlastup=&maxlastup=&minfirstup=&maxfirstup=&order=dailypoint",
-      "title": "Syosetu Search: 百合 -男主人公",
-      "type": "feed",
-      "url": "rsshub://syosetu/search/noc/word=%E7%99%BE%E5%90%88&notword=%E7%94%B7%E4%B8%BB%E4%BA%BA%E5%85%AC&type=&mintime=&maxtime=&minlen=&maxlen=&min_globalpoint=&max_globalpoint=&minlastup=&maxlastup=&minfirstup=&maxfirstup=&order=dailypoint"
-    },
     {
       "description": "Syosetu Search: ハーレム - Powered by RSSHub",
       "errorAt": null,
@@ -108,6 +93,18 @@ _None_
       "title": "Syosetu Search: ハーレム",
       "type": "feed",
       "url": "rsshub://syosetu/search/noc/word=%E3%83%8F%E3%83%BC%E3%83%AC%E3%83%A0&notword=&type=r&mintime=&maxtime=&minlen=30000&maxlen=&min_globalpoint=&max_globalpoint=&minlastup=&maxlastup=&minfirstup=&maxfirstup=&isgl=1&notbl=1&order=new"
+    },
+    {
+      "description": "Syosetu Search: 百合 -男主人公 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "101361819062948864",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://noc.syosetu.com/search/search/search.php?word=%E7%99%BE%E5%90%88&notword=%E7%94%B7%E4%B8%BB%E4%BA%BA%E5%85%AC&type=&mintime=&maxtime=&minlen=&maxlen=&min_globalpoint=&max_globalpoint=&minlastup=&maxlastup=&minfirstup=&maxfirstup=&order=dailypoint",
+      "title": "Syosetu Search: 百合 -男主人公",
+      "type": "feed",
+      "url": "rsshub://syosetu/search/noc/word=%E7%99%BE%E5%90%88&notword=%E7%94%B7%E4%B8%BB%E4%BA%BA%E5%85%AC&type=&mintime=&maxtime=&minlen=&maxlen=&min_globalpoint=&max_globalpoint=&minlastup=&maxlastup=&minfirstup=&maxfirstup=&order=dailypoint"
     }
   ]
 }

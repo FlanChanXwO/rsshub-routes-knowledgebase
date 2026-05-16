@@ -151,9 +151,6 @@
       "title": "股票"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "债券/可转债 - 经典固定收益类 - Powered by RSSHub",

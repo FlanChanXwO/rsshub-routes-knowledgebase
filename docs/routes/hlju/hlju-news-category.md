@@ -108,9 +108,6 @@ _None_
       "target": "/news/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

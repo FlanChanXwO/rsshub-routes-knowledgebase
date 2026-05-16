@@ -62,10 +62,6 @@ _None_
     "id": "网易号 ID"
   },
   "path": "/dy/:id",
-  "test": {
-    "code": 1,
-    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:74:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
-  },
   "topFeeds": [
     {
       "description": "中国主流财经全媒体平台。 - Powered by RSSHub",
@@ -80,16 +76,16 @@ _None_
       "url": "rsshub://163/dy/W7833496354712145699"
     },
     {
-      "description": "基本就是讲游戏 - Powered by RSSHub",
+      "description": "洞察金融市场，传播中国价值——《中国基金报》社官方账号（《中国基金报》社有限公司运营管理） - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "75380151210504192",
-      "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/rWGD5AEjpGC44D1S3QW1RMpLS=WvMkP1e2eAIAFhUurxv1494839069359.jpg&thumbnail=160y160&quality=80&type=jpg",
+      "id": "90404597556258816",
+      "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/4E3QRJTKUFVkkRk3sTGwvwDrPoMmLKnFWQvGQcsdCXjSB1507602600796.png&thumbnail=160y160&quality=80&type=jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.163.com/dy/media/T1494839070435.html",
-      "title": "网易号 - BB姬",
+      "siteUrl": "https://www.163.com/dy/media/T1507602601760.html",
+      "title": "网易号 - 中国基金报",
       "type": "feed",
-      "url": "rsshub://163/dy/W7415853145461076134"
+      "url": "rsshub://163/dy/W6166609319991491580"
     }
   ]
 }

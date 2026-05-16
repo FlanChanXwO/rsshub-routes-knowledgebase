@@ -76,9 +76,6 @@ To subscribe to [Activity Tracker - International trade](https://digitalpolicyal
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "An independent, timely and accessible record of policy and regulatory changes affecting the digital economy. - Powered by RSSHub",

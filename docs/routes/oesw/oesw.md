@@ -45,9 +45,6 @@ _None_
   ],
   "name": "Immobilienangebot",
   "path": "*",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

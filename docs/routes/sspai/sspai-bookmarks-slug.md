@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "少数派用户「少数派14596354」的全部收藏 - Powered by RSSHub",

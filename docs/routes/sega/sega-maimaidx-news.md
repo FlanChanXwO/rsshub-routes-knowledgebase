@@ -52,9 +52,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "maimai DX - Japanese Ver. News - Powered by RSSHub",

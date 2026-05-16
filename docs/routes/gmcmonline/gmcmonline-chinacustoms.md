@@ -69,9 +69,6 @@ _None_
       "target": "/chinacustoms"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国海关 - Powered by RSSHub",

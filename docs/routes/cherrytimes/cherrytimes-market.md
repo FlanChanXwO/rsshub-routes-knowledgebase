@@ -43,9 +43,6 @@ _None_
   ],
   "name": "Market",
   "path": "/market",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

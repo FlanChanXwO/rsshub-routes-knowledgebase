@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "PublicGuan/qipaishi_server - 提交 - Powered by RSSHub",

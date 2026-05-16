@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 司局通知
+# Hangzhou People's Government - 司局通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/moe/s78/:column`
 - Route Name: `司局通知`
 - Example: `/gov/moe/s78/A13`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`
@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "高等教育司 - 司局通知 - 中华人民共和国教育部政府门户网站 - Powered by RSSHub",

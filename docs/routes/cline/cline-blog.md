@@ -71,9 +71,6 @@ _None_
       "target": "/blog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Cline Official Blog - AI Coding Assistant - Powered by RSSHub",

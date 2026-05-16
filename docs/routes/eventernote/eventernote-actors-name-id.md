@@ -72,9 +72,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "MyGO!!!!!のイベント・ライブ情報一覧 - Powered by RSSHub",

@@ -69,9 +69,6 @@ _None_
       "target": "/code/changelog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Changelog for Claude Code CLI - Powered by RSSHub",

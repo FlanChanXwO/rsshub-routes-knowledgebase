@@ -75,14 +75,11 @@ _None_
       "target": "/blog/:category?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "The latest news and updates from Cognition - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T22:46:37.414Z",
+      "errorMessage": "[GET] \"https://cognition.ai/blog/1\": 404 Not Found\n",
       "id": "207531896770078720",
       "image": "https://cognition.ai/assets/images/cover.jpg",
       "ownerUserId": null,

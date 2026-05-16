@@ -43,9 +43,6 @@ _None_
   ],
   "name": "资讯",
   "path": "/article",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "白鲸出海 - 资讯 - Powered by RSSHub",

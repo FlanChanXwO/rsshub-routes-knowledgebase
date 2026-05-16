@@ -79,9 +79,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "热点聚焦 ,其乐 Keylol - Powered by RSSHub",

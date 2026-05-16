@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 746,
+  "heat": 751,
   "location": "new.tsx",
   "maintainers": [
     "TonyRL"
@@ -83,10 +83,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "免費高清日本 AV 在線看，無需下載，高速播放沒有延遲，超過十萬部影片，每日更新，開始播放後不會再有廣告，支援任何裝置包括手機，電腦及智能電視。可以番號，女優或作品系列名稱作影片搜尋。免費加入會員後可任意收藏影片供日後觀賞。 - Powered by RSSHub",

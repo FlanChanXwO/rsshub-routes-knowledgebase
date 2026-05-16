@@ -62,9 +62,6 @@ _None_
     "id": "剧集 id, 可在该主页 URL 中找到"
   },
   "path": "/album/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "我自虚空而来，举手诸天崩碎，覆手黄泉寂灭；我为魔、为神、为仙、为人。我是萧晨，也是万物，亦为主宰！ - Powered by RSSHub",

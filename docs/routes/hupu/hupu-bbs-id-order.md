@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 220,
+  "heat": 221,
   "location": "bbs.tsx",
   "maintainers": [
     "LogicJake",
@@ -81,9 +81,6 @@
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "投资有风险，入市需谨慎 - Powered by RSSHub",
@@ -99,8 +96,8 @@
     },
     {
       "description": "逛步行街极易上瘾，请各位JRs注意控制时间 - Powered by RSSHub",
-      "errorAt": "2026-05-14T01:13:02.049Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55619435859718144",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55619435859718144",
       "image": null,
       "ownerUserId": null,

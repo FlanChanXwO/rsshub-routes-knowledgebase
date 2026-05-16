@@ -61,9 +61,6 @@ _None_
     "id": "栏目 ID, 可在对应栏目 URL 中找到"
   },
   "path": "/column/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "爱思想 - [国际关系时评] - Powered by RSSHub",

@@ -68,9 +68,6 @@ _None_
     "channel": "栏目 ID，点击对应栏目后在地址栏找到"
   },
   "path": "/:channel",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新快报新快网 - 首页 - Powered by RSSHub",

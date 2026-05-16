@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 国家核安全局
+# Hangzhou People's Government - 国家核安全局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/mee/nnsa/:category{.+}?`
 - Route Name: `国家核安全局`
 - Example: `/gov/mee/nnsa/ywdt/hjyw`
@@ -422,10 +422,6 @@
       "title": "业务工作 - 国际合作"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected [ Array(1) ] to not include 'http://www.mee.gov.cn/ywdt/hjywnews/2…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.6/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:67:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [],
   "url": "nnsa.mee.gov.cn",
   "view": 0

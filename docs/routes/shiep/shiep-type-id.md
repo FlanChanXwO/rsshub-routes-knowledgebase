@@ -837,9 +837,6 @@ _None_
       "title": "组织部（老干部处、党校）"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "上海电力大学-电子与信息工程学院 - Powered by RSSHub",

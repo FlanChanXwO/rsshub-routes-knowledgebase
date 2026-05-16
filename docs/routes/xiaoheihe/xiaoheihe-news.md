@@ -49,22 +49,18 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 824,
+  "heat": 823,
   "location": "news.ts",
   "maintainers": [
     "tssujt"
   ],
   "name": "游戏新闻",
   "path": "/news",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "小黑盒游戏新闻 - Powered by RSSHub",
       "errorAt": "2026-04-03T12:44:54.464Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'content')\nFailed to fetch\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nFailed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
       "id": "41374762779449344",
       "image": null,
       "ownerUserId": null,

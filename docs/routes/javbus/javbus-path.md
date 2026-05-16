@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 13517,
+  "heat": 13521,
   "location": "index.tsx",
   "maintainers": [
     "MegrezZhu",
@@ -66,9 +66,6 @@ _None_
       "target": "/:path"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "JavBus - 日本成人影片資料庫 - Powered by RSSHub",

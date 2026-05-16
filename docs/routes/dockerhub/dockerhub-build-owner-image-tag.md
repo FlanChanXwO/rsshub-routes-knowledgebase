@@ -66,9 +66,6 @@ _None_
     }
   },
   "path": "/build/:owner/:image/:tag?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "🍰 使用 RSS 连接全世界 - Powered by RSSHub",

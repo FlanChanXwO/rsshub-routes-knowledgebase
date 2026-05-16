@@ -65,9 +65,6 @@ _None_
     "/aia/notice/:type?",
     "/auto/notice/:type?"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

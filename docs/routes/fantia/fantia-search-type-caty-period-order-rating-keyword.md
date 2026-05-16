@@ -303,9 +303,6 @@ _None_
     }
   },
   "path": "/search/:type?/:caty?/:period?/:order?/:rating?/:keyword?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Fantia - Search posts - Powered by RSSHub",

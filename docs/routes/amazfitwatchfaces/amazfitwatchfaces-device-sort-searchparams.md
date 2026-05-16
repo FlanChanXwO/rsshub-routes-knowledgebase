@@ -453,9 +453,6 @@ If you subscribe to [TOP for the last 6 months (Only new) - Xiaomi Smart Band 9]
       "title": "Fresh watch faces for Xiaomi Smart Band 9"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Here you can download and share watch face for Xiaomi Smart Band 7 (Mi Band 7) • watch faces & apps - Powered by RSSHub",

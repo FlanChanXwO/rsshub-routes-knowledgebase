@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 国家林草科技大讲堂
+# Hangzhou People's Government - 国家林草科技大讲堂
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/forestry/gjlckjdjt/:category?`
 - Route Name: `国家林草科技大讲堂`
 - Example: `/gov/forestry/gjlckjdjt`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -67,9 +67,6 @@ _None_
     "category": "分类，见下表，默认为全部"
   },
   "path": "/forestry/gjlckjdjt/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

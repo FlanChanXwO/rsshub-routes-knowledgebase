@@ -60,9 +60,6 @@ _None_
       "target": "/vod/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "画江湖之不良人7 - Powered by RSSHub",

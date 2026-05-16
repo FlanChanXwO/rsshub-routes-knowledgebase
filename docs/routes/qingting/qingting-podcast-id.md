@@ -69,9 +69,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "经典音乐广播FM107.9 佳乐的怀旧经典 - Powered by RSSHub",

@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/tencent/cloud/developer/column/1",
-  "heat": 137,
+  "heat": 136,
   "location": "cloud/developer/column.ts",
   "maintainers": [
     "lyling"
@@ -55,9 +55,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "- 腾讯云开发者社区 - Powered by RSSHub",

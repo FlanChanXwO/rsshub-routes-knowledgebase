@@ -62,9 +62,6 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/main/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "通知公告-中国石油大学（华东） - Powered by RSSHub",

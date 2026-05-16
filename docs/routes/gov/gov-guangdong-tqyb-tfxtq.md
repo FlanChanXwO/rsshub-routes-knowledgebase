@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 突发性天气提示
+# Hangzhou People's Government - 突发性天气提示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/guangdong/tqyb/tfxtq`
 - Route Name: `突发性天气提示`
 - Example: `/gov/guangdong/tqyb/tfxtq`
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "突发性天气提示 - Powered by RSSHub",

@@ -60,9 +60,6 @@ _None_
       "target": "/manga/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

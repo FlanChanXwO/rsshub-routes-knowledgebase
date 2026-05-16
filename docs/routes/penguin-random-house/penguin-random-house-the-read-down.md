@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 106,
+  "heat": 107,
   "location": "thereaddown.ts",
   "maintainers": [
     "StevenRCE0"
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Never wonder what to read next! Check out these lists to find your next favorite book. - Powered by RSSHub",

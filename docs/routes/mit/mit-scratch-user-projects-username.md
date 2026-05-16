@@ -70,9 +70,6 @@ _None_
       "target": "/scratch/user-projects/:username"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

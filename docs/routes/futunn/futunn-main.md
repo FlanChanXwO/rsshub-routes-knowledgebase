@@ -64,9 +64,6 @@ _None_
       "target": "/main"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "富途牛牛 - 要闻 - Powered by RSSHub",

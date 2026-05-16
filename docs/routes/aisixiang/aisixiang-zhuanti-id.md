@@ -62,10 +62,6 @@ _None_
     "id": "专题 ID, 可在对应专题 URL 中找到"
   },
   "path": "/zhuanti/:id",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "地缘政治 （geopolitics），政治地理学中的一种理论。它根据各种地理要素和政治格局的地域形式，分析和预测世界或地区范围的战略形势和有关国家的政治行为。它把地理因素视为影响甚至决定国家政治行为的一个基本因素。地缘政治学又称“地理政治学”。 - Powered by RSSHub",

@@ -64,9 +64,6 @@ _None_
     "nav": "书影音分类"
   },
   "path": "/channel/:id/subject/:nav",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣美剧频道书影音下的电视剧推荐 - Powered by RSSHub",

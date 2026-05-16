@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "演出月历 - 上海东方艺术中心管理有限公司 - Powered by RSSHub",

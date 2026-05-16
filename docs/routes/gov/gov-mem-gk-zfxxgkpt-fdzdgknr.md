@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 法定主动公开内容
+# Hangzhou People's Government - 法定主动公开内容
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
 - Route Name: `法定主动公开内容`
 - Example: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `skeaven`
@@ -69,9 +69,6 @@ _None_
       "target": "/mem/gk/zfxxgkpt/fdzdgknr"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "法定主动公开内容 - Powered by RSSHub",

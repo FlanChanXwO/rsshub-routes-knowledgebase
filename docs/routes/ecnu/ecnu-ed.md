@@ -56,9 +56,6 @@ _None_
       "target": "/ed"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

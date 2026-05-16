@@ -72,10 +72,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "「魔術を極めたい…！」たった一つの願望を胸に死んだ男は、生前の記憶を持ったままサルーム国の第七王子として転生を果たした！ただの庶民だった前世と違い、有り余る金！使いきれぬ時間！そしてなにより読み切れない魔導書！！”太すぎる実家”という人生バフもりもりの圧倒的勝ち組となった王子の名はロイド。小説家になろう発、ハイスピード成り上がりファンタジー！！ ※「小説家になろう」は株式会社ヒナプロジェクトの登録商標です A magic nerd’s life came to an end after a dreadful encounter with the nobles who ended his life with a powerful spell. His last wish, being able to study and master more magic, has been answered when he was reincarnated as Lloyd de Saloom, the 7th prince of Saloom Kingdom. Now he’ll be able to perfect his magic as he pleases… - Powered by RSSHub",

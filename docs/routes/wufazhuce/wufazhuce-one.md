@@ -67,9 +67,6 @@ _None_
       "target": "/one"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "复杂世界里, 一个就够了. One is all. - Powered by RSSHub",

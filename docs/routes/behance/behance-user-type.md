@@ -76,9 +76,6 @@ _None_
     "user": "username"
   },
   "path": "/:user/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Rondesignlab ⭐️'s projects - Powered by RSSHub",

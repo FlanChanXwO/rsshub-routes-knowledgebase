@@ -98,9 +98,6 @@ Language codes
       "target": "/:game/blog/:locale"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

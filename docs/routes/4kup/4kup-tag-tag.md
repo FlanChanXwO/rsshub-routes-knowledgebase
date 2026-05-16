@@ -72,9 +72,6 @@ _None_
       "target": "/tag/:tag"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "4KUP - Tag: asian - Powered by RSSHub",

@@ -372,9 +372,6 @@
       "title": "会员社区 - 会员风采"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国无机盐工业协会 - Powered by RSSHub",

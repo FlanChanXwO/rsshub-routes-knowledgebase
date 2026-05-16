@@ -77,9 +77,6 @@ _None_
     "id": "分类id,可以论坛的URL找到，默认为全部"
   },
   "path": "/posts/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "电鸭社区的文章,栏目为全部 - Powered by RSSHub",

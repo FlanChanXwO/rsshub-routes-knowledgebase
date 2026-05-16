@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Latest conference news coverage from TCTMD, the leading source for interventional cardiology news - Powered by RSSHub",

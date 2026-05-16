@@ -49,9 +49,6 @@ _None_
     "category": "分類，見下表，預設為 `weekly-top-ten-rumors`"
   },
   "path": "/category/:category",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "台灣事實查核中心 - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "category": "默认为信息公告"
   },
   "path": "/cas/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

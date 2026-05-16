@@ -63,15 +63,11 @@ _None_
     "time": "Time like `24 hours` to specify the duration of ranking, can be found in URL. `Since beginning` by default."
   },
   "path": "/papers/:category?/:time?/:cited?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Trending Papers on arXiv.org | All categories | Since beginning | Cited and uncited papers | - Powered by RSSHub",
       "errorAt": "2025-07-03T16:12:00.755Z",
-      "errorMessage": "[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=Since beginning&cc=Cited and uncited papers&c=All categories\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "54930355946094592",
       "image": null,
       "ownerUserId": null,

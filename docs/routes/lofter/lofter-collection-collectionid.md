@@ -59,9 +59,6 @@ _None_
     "collectionID": "Lofter collection ID, can be found in the share URL"
   },
   "path": "/collection/:collectionID",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "No description provided. - Powered by RSSHub",

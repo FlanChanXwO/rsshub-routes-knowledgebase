@@ -72,9 +72,6 @@ _None_
       "target": "/category/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "4KUP - Category: coser - Powered by RSSHub",

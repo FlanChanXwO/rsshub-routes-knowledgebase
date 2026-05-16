@@ -97,9 +97,6 @@ _None_
       "target": "/live/English"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "富途牛牛 - 快讯 - Powered by RSSHub",

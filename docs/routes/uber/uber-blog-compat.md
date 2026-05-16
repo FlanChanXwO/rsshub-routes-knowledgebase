@@ -68,15 +68,11 @@ _None_
       "target": "/blog"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "The technology behind Uber Engineering - Powered by RSSHub",
       "errorAt": "2026-04-01T00:07:14.390Z",
-      "errorMessage": "[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n502 Bad Gateway\n[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n",
       "id": "56764323854292992",
       "image": null,
       "ownerUserId": null,

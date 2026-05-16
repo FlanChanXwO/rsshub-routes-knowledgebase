@@ -89,9 +89,6 @@ _None_
       "target": "/video/:login"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Twitch - Riot Games - Recent highlights and uploads - Powered by RSSHub",

@@ -151,9 +151,6 @@ _None_
       "target": "/user_event/:username"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "GitHub events received by azmiao - includes private events - Powered by RSSHub",

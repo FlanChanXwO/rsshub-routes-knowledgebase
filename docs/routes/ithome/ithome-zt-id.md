@@ -75,9 +75,6 @@
       "target": "/zt/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新最全的「喜加一」游戏动态尽在这里！ - Powered by RSSHub",

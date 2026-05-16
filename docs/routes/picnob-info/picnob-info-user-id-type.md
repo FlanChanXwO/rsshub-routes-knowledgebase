@@ -75,9 +75,6 @@ _None_
     }
   },
   "path": "/user/:id/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "🇨🇳🇰🇷在韩国留学的中国人 你的娇妻在这里👇🏻👇🏻👇🏻 - Powered by RSSHub",

@@ -65,9 +65,6 @@ _None_
     "categoryId": "公告分类, 可在页面URL获取 默认为1010580020"
   },
   "path": "/declaration/:categoryId?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "得物开放平台 - 技术变更 - Powered by RSSHub",

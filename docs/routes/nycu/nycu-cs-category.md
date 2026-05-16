@@ -60,9 +60,6 @@ _None_
     "category": "categories, see below"
   },
   "path": "/cs/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 今日绵竹
+# Hangzhou People's Government - 今日绵竹
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/sichuan/deyang/mztoday/:infoType?`
 - Route Name: `今日绵竹`
 - Example: `/gov/sichuan/deyang/mztoday/zx`
@@ -73,9 +73,6 @@
       "target": "/sichuan/deyang/mztoday"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.mztoday.gov.cn/*"
 }

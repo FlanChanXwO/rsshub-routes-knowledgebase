@@ -64,9 +64,6 @@ _None_
     "region": "地区，预设为 tw"
   },
   "path": "/:region?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "ePrice.HK 提供您最新的手機新聞，包括最新上市的手機、最詳細的手機評測、或是手機促銷，讓您輕鬆掌握手機的最新資訊。 - Powered by RSSHub",

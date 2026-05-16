@@ -72,9 +72,6 @@ _None_
       "target": "/newsroom"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Apple 新闻中心是 Apple 新闻的来源。阅读新闻稿、获取最新消息、观看视频和下载图片。 - Powered by RSSHub",

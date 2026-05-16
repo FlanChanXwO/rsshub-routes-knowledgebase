@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 204,
+  "heat": 203,
   "location": "news.tsx",
   "maintainers": [
     "wushijishan"
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "二柄APP新闻 - Powered by RSSHub",

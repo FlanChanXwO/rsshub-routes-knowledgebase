@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1056,
+  "heat": 1057,
   "location": "lives.ts",
   "maintainers": [
     "nczitzk",
@@ -92,9 +92,6 @@ _None_
     }
   },
   "path": "/lives/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "区块链新闻频道为您24小时提供最新区块链新闻信息，汇集全球各个区域最新消息，并为您提供最及时全面的区块链资讯 - Powered by RSSHub",

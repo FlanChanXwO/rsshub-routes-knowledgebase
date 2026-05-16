@@ -77,9 +77,6 @@
       "target": "/users/:id/talks"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.gcores.com",
   "view": 1

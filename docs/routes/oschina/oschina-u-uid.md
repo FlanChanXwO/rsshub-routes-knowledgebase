@@ -70,14 +70,11 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "聚焦系统技术领域，分享前沿技术动态、技术创新与实践、行业技术热点分析。 - Powered by RSSHub",
-      "errorAt": "2026-05-13T19:08:56.682Z",
-      "errorMessage": "[GET] \"https://apiv1.oschina.net/oschinapi/blog/otherUser/web?userId=6150560&pageNum=1&pageSize=10\": 504 Gateway Time-out\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56284523609749504",
       "image": "https://oscimg.oschina.net//oscnet/up-603af150a079285ac13aca510cba6c01.jpg",
       "ownerUserId": null,

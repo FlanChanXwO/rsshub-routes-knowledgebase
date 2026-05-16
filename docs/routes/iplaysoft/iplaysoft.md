@@ -72,9 +72,6 @@ _None_
       "target": "/"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.iplaysoft.com",
   "view": 0

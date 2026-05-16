@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 广东省内城市预警信号
+# Hangzhou People's Government - 广东省内城市预警信号
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/guangdong/tqyb/sncsyjxh`
 - Route Name: `广东省内城市预警信号`
 - Example: `/gov/guangdong/tqyb/sncsyjxh`
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "广东省内城市预警信号 - Powered by RSSHub",

@@ -69,9 +69,6 @@ _None_
       "target": "/blog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.thebrain.com",
   "view": 0

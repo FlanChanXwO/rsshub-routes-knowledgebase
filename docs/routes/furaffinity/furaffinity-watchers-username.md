@@ -73,9 +73,6 @@ _None_
       "target": "/watchers/:username"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "furaffinity.net"
 }

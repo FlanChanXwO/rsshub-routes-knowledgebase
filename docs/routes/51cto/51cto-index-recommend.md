@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/51cto/index/recommend",
-  "heat": 276,
+  "heat": 275,
   "location": "recommend.ts",
   "maintainers": [
     "cnkmmk",
@@ -53,9 +53,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "51cto - 推荐 - Powered by RSSHub",

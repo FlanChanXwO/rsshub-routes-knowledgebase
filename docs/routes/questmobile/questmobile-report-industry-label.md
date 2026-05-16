@@ -172,9 +172,6 @@ _None_
     "label": "标签，见下表，默认为 `-1`，即全部标签"
   },
   "path": "/report/:industry?/:label?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "QuestMobile（北京贵士信息科技有限公司）是中国专业的移动互联网商业智能服务商，提供互联网数据报告，移动大数据分析，数据运营报告等的互联网大数据平台。 - Powered by RSSHub",

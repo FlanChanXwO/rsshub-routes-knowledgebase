@@ -111,9 +111,6 @@ Categories
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

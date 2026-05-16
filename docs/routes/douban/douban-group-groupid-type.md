@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6219,
+  "heat": 6217,
   "location": "other/group.ts",
   "maintainers": [
     "DIYgod"
@@ -90,9 +90,6 @@ _None_
       "target": "/group/:groupid"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣小组-无用美学 - Powered by RSSHub",

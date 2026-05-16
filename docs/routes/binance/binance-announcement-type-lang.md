@@ -116,9 +116,6 @@ _None_
       "target": "/binance/announcement/all/:lang"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",

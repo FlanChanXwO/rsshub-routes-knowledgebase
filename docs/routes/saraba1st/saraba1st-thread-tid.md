@@ -60,9 +60,6 @@ _None_
     "tid": "帖子 id"
   },
   "path": "/thread/:tid",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

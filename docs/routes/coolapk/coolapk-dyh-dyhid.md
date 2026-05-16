@@ -68,9 +68,6 @@ _None_
     "dyhId": "看看号ID"
   },
   "path": "/dyh/:dyhId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "我们致力于 发表和集合对科技圈内事件或产品， 有独特见解和深入思考的评论和文章。 - Powered by RSSHub",

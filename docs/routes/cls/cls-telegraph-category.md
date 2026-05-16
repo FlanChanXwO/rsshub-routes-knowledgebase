@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1422,
+  "heat": 1424,
   "location": "telegraph.tsx",
   "maintainers": [
     "nczitzk"
@@ -76,9 +76,6 @@
       "target": "/telegraph"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "财联社 - 电报 - Powered by RSSHub",

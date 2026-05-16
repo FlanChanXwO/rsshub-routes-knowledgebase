@@ -153,9 +153,6 @@ _None_
       "target": "/repo_event/:owner/:repo"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "view": 5
 }

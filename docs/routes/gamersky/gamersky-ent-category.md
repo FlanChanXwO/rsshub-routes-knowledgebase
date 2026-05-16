@@ -63,9 +63,6 @@ _None_
   },
   "path": "/ent/:category?",
   "radar": [],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "热点图文 - 游民娱乐 - Powered by RSSHub",

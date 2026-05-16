@@ -44,7 +44,7 @@ _None_
   ],
   "description": "| 総合 | オピニオン | 経済    | 政治     | 金融      | マーケット | ビジネス | マネーのまなび | テック     | 国際          | スポーツ | 社会・調査 | 地域  | 文化    | ライフスタイル |\n| ---- | ---------- | ------- | -------- | --------- | ---------- | -------- | -------------- | ---------- | ------------- | -------- | ---------- | ----- | ------- | -------------- |\n| news | opinion    | economy | politics | financial | business   | 不支持   | 不支持         | technology | international | sports   | society    | local | culture | lifestyle      |",
   "example": "/nikkei/news/news",
-  "heat": 65,
+  "heat": 64,
   "location": "news.tsx",
   "maintainers": [
     "Arracc",
@@ -65,9 +65,6 @@ _None_
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "【日経】ニュース速報、企業・経済の最新情報をお届けします。 - Powered by RSSHub",

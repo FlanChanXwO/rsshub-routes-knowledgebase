@@ -74,9 +74,6 @@ _None_
       "target": "/calendar"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",

@@ -57,9 +57,6 @@ _None_
   ],
   "name": "Weather News",
   "path": "/weathernews",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Latest weather news and articles from meteoblue - Powered by RSSHub",

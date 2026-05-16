@@ -57,15 +57,11 @@ _None_
   "name": "博客",
   "parameters": {},
   "path": "/blog",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "浙江大学可视分析小组博客 - Powered by RSSHub",
       "errorAt": "2025-05-20T17:01:20.315Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n",
       "id": "41774679266456588",
       "image": null,
       "ownerUserId": null,

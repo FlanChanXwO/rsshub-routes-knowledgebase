@@ -62,9 +62,6 @@ _None_
     "category": "通知类别，默认为通知公告"
   },
   "path": "/jwc/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",

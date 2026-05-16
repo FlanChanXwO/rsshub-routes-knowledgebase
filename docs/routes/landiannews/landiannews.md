@@ -70,9 +70,6 @@ _None_
       "target": "/"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.landiannews.com",
   "view": 0

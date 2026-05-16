@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 177,
+  "heat": 176,
   "location": "rss.ts",
   "maintainers": [
     "dzx-dzx"
@@ -57,9 +57,6 @@ _None_
   "name": "RSS",
   "parameters": {},
   "path": "/rss",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Foreign Affairs - RSS - Powered by RSSHub",

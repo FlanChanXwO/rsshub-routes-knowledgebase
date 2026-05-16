@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 分类
+# Hangzhou People's Government - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/nrta/news/:category?`
 - Route Name: `分类`
 - Example: `/gov/nrta/news`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `yuxinliu-alex`
@@ -62,9 +62,6 @@ _None_
     "category": "资讯类别，可从地址中获取，默认为总局要闻"
   },
   "path": "/nrta/news/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "国家广播电视总局 - Powered by RSSHub",

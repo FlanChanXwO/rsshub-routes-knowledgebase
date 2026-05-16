@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "招聘 - 四川大学华西医院 - 四川大学华西医院 - Powered by RSSHub",

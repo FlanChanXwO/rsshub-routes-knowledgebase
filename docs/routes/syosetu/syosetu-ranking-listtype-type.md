@@ -2886,9 +2886,6 @@ When multiple works have the same points, their order may differ from syosetu's 
       "title": "[日間] 異世界転生/転移〔文芸・SF・その他〕ランキング BEST5"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "yomou.syosetu.com/rank/top"
 }

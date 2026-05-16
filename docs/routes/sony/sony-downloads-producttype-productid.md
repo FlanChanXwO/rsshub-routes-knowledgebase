@@ -73,9 +73,6 @@ Open `https://www.sony.com/electronics/support` and search for the corresponding
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

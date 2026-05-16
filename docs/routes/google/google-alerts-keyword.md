@@ -59,9 +59,6 @@ _None_
     "keyword": "Keyword"
   },
   "path": "/alerts/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Google Alerts - 中国经营报 - Powered by RSSHub",

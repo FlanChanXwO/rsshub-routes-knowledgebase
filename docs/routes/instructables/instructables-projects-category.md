@@ -73,9 +73,6 @@
       "target": "/projects"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Instructables Projects - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "board": "榜单，默认为 `realtime`"
   },
   "path": "/top/:board?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。 - Powered by RSSHub",

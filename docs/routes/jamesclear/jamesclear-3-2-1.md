@@ -67,9 +67,6 @@ _None_
       "target": "/3-2-1"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "3 ideas, 2 quotes, and 1 question to consider each week - Powered by RSSHub",

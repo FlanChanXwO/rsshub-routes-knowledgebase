@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 448,
+  "heat": 447,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -62,9 +62,6 @@ _None_
     "id": "分类 id 或新闻专题 id。分类 id 见下表，新闻专题 id 為 https://www.cna.com.tw/list/newstopic.aspx 中，連結的數字部份。此參數默认为 aall"
   },
   "path": "/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中央社即時報導國際、財經、科技、醫藥、生活、運動、教育、政治、影劇、社會、地方即時新聞，提供Facebook、Google+社群討論、分享功能。 - Powered by RSSHub",

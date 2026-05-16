@@ -44,7 +44,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1162,
+  "heat": 1161,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",
@@ -85,9 +85,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Last 24 hours - yande.re - Powered by RSSHub",

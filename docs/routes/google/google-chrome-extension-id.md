@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "RSSHub Radar - Google Chrome Extension - Powered by RSSHub",

@@ -57,9 +57,6 @@ _None_
   "name": "最新周刊",
   "parameters": {},
   "path": "/weekly",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "SecWiki-安全维基 - Powered by RSSHub",

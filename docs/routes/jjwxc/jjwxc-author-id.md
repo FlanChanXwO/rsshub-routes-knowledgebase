@@ -59,9 +59,6 @@ _None_
     "id": "作者 id，可在对应作者页中找到"
   },
   "path": "/author/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "晋江文学城 | - 最近更新 - Powered by RSSHub",

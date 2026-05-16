@@ -74,9 +74,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "吉林大学物理学院 - Powered by RSSHub",

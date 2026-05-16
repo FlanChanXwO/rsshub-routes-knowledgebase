@@ -161,10 +161,6 @@ _None_
       "target": "/bangumi.tv/user/collections/:id/2/1"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 340812156048 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:38:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Sai🖖想读的书籍列表 - Powered by RSSHub",
@@ -179,16 +175,16 @@ _None_
       "url": "rsshub://bangumi.tv/user/collections/sai/1/1"
     },
     {
-      "description": "Nagisa.看过的动画列表 - Powered by RSSHub",
+      "description": "Cfox的Bangumi收藏列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "162508647613135872",
+      "id": "85592670812321792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/mydg0216/collections",
-      "title": "Nagisa.看过的动画列表",
+      "siteUrl": "https://bgm.tv/user/cfox/collections",
+      "title": "Cfox的Bangumi收藏列表",
       "type": "feed",
-      "url": "rsshub://bangumi.tv/user/collections/mydg0216/2/2"
+      "url": "rsshub://bangumi.tv/user/collections/cfox/all/all"
     }
   ]
 }

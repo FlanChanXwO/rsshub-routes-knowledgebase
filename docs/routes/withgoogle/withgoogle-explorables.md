@@ -54,9 +54,6 @@ _None_
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "PAIR - AI Exploreables - Powered by RSSHub",

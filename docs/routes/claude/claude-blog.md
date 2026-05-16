@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 35,
   "location": "blog.ts",
   "maintainers": [
     "zhenlohuang"
@@ -68,9 +68,6 @@ _None_
       "target": "/blog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Product news and best practices for teams building with Claude. - Powered by RSSHub",

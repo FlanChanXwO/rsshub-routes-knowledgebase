@@ -60,9 +60,6 @@ _None_
       "target": "/news/:type_id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "xinwen.byau.edu.cn"
 }

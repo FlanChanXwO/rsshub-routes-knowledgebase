@@ -68,15 +68,11 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "一周更新 - AGE动漫 - Powered by RSSHub",
       "errorAt": "2025-10-17T11:01:59.581Z",
-      "errorMessage": "[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n",
       "id": "59083231915003932",
       "image": null,
       "ownerUserId": null,

@@ -69,9 +69,6 @@ _None_
     "type": "Channel type, see table below"
   },
   "path": "/news/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

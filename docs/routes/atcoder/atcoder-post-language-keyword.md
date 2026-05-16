@@ -61,9 +61,6 @@ _None_
     "language": "Language, `jp` as Japanese or `en` as English, English by default"
   },
   "path": "/post/:language?/:keyword?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Post Archive - AtCoder - Powered by RSSHub",

@@ -62,11 +62,19 @@ _None_
     "type": "通知模块id"
   },
   "path": "/jwc/:type?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
+    {
+      "description": "教务处 -- 选课管理 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84227265299092493",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/xkgl",
+      "title": "教务处 -- 选课管理",
+      "type": "feed",
+      "url": "rsshub://zcmu/jwc/4"
+    },
     {
       "description": "教务处 -- 排课管理 - Powered by RSSHub",
       "errorAt": null,
@@ -78,18 +86,6 @@ _None_
       "title": "教务处 -- 排课管理",
       "type": "feed",
       "url": "rsshub://zcmu/jwc/5"
-    },
-    {
-      "description": "教务处 -- 教务管理 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65682896413916160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl",
-      "title": "教务处 -- 教务管理",
-      "type": "feed",
-      "url": "rsshub://zcmu/jwc/0"
     }
   ]
 }

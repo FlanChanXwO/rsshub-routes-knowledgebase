@@ -62,9 +62,6 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/career/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "浙大就业服务平台 -- 新闻动态 - Powered by RSSHub",

@@ -75,9 +75,6 @@
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "游戏资讯, 游戏日报提供最具价值行业信息。 - Powered by RSSHub",

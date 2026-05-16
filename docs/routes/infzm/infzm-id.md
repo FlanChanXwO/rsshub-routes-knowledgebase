@@ -63,9 +63,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "南方周末-新闻 - Powered by RSSHub",

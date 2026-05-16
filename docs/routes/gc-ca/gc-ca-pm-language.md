@@ -76,9 +76,6 @@ _None_
       "target": "/pm/:language"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -66,9 +66,6 @@ _None_
     "routeParams": "Additional parameters, see the table above"
   },
   "path": "/search/:params?/:page?/:routeParams?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",

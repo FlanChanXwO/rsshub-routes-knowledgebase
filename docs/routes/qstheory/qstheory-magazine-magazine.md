@@ -56,9 +56,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "《求是》 - 求是网 - Powered by RSSHub",

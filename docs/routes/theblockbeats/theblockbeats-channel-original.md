@@ -116,9 +116,6 @@ _None_
       "title": "快讯"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "TheBlockBeats - 快讯 - Powered by RSSHub",

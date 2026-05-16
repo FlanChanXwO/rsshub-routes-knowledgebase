@@ -84,9 +84,6 @@ Language
       "target": "/news-room/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Feature stories - WHO - Powered by RSSHub",

@@ -49,9 +49,6 @@ _None_
     "site": "site identifier"
   },
   "path": "/bug/:site/:bugId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "[GTK][WPE] EventSenderProxy::rawKeyDown|Up are not implemented - Powered by RSSHub",

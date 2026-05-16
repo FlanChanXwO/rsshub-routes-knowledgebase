@@ -68,9 +68,6 @@ _None_
     "lang": "Language, see the table below, `en` by default"
   },
   "path": "/top/:category?/:lang?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Top Plurk - Plurk - Powered by RSSHub",

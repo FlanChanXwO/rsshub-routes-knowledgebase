@@ -68,10 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "主角小傑小時候因誤入母狐熊的勢力範圍，就快要被攻擊時，一名路過，名叫凱特的男子救了他。 原來凱特是他的父親──金的徒弟，來到鯨魚島的目的是為了要尋找線索，以完成金給的最終測試「找出他的行蹤」。凱特告訴小傑許多關於他的父親及獵人相關的事情，因此小傑對金及獵人這個職業有很大的憧憬。 不過，撫養小傑長大的米特阿姨並不希望他成為獵人，因此和他約定條件──釣到沼澤裡的魚精。而小傑也順利完成，拿到獵人試驗的應考資格，並結識奇犽、酷拉皮卡、雷歐力等夥伴展開一連串的冒險旅程。 - Powered by RSSHub",

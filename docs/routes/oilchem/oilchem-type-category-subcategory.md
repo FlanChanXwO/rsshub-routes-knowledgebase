@@ -70,9 +70,6 @@ _None_
     "type": "类别 id，可在对应类别页中找到，默认为首页"
   },
   "path": "/:type?/:category?/:subCategory?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "甲醇热点聚焦 - 隆众资讯 - Powered by RSSHub",

@@ -86,9 +86,6 @@ _None_
       "target": "/gerenzhongxin/cfh/:uid"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "擒龙股海悟道 的东财长文 - Powered by RSSHub",

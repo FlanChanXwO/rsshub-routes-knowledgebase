@@ -77,10 +77,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:37:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "上下游新聞 | 專注於台灣農業、食物、環境等公共議題的獨立媒體 - Powered by RSSHub",
@@ -95,14 +91,14 @@
       "url": "rsshub://newsmarket"
     },
     {
-      "description": "新知 | 上下游新聞Jetpack Protect 已鎖定你的網站登入頁面。 - Powered by RSSHub",
+      "description": "新知 | 上下游新聞 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "111389962417871873",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.newsmarket.com.tw/blog/category/:knowledge",
-      "title": "新知 | 上下游新聞Jetpack Protect 已鎖定你的網站登入頁面。",
+      "title": "新知 | 上下游新聞",
       "type": "feed",
       "url": "rsshub://newsmarket/:knowledge"
     }

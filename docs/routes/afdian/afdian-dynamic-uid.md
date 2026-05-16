@@ -46,9 +46,6 @@ _None_
     "uid": "用户id，用户动态页面url里可找到"
   },
   "path": "/dynamic/:uid?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "反派影评的爱发电动态 - Powered by RSSHub",

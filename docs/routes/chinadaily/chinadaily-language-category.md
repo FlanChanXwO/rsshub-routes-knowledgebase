@@ -272,10 +272,6 @@
       "title": "权威发布"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:37:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:63:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:82:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "精彩推荐 - 中国日报网英语点津-LanguageTips - Powered by RSSHub",
@@ -290,16 +286,16 @@
       "url": "rsshub://chinadaily/language/thelatest"
     },
     {
-      "description": "精彩推荐 - 中国日报网英语点津-LanguageTips - Powered by RSSHub",
+      "description": "双语新闻 - 中国日报网英语点津-LanguageTips - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164468082809828352",
+      "id": "156244732581244928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://language.chinadaily.com.cn/thelatest",
-      "title": "精彩推荐 - 中国日报网英语点津-LanguageTips",
+      "siteUrl": "https://language.chinadaily.com.cn/news_bilingual",
+      "title": "双语新闻 - 中国日报网英语点津-LanguageTips",
       "type": "feed",
-      "url": "rsshub://chinadaily/language"
+      "url": "rsshub://chinadaily/language/news_bilingual"
     }
   ],
   "url": "language.chinadaily.com.cn",

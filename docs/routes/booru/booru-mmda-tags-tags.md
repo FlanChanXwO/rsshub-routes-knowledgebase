@@ -78,15 +78,11 @@ For example:
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-05-14T01:16:37.906Z",
-      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63500086553914368",
       "image": null,
       "ownerUserId": null,
@@ -97,8 +93,8 @@ For example:
     },
     {
       "description": "blue_archive - Powered by RSSHub",
-      "errorAt": "2026-05-14T02:36:16.017Z",
-      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list&tags=blue_archive\": <no response> fetch failed\n[GET] \"https://mmda.booru.org/index.php?page=post&s=list&tags=blue_archive\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84529539746481152",
       "image": null,
       "ownerUserId": null,

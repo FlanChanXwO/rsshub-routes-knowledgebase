@@ -86,9 +86,6 @@
       "target": "/night"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "触乐 - 触乐夜话 - Powered by RSSHub",

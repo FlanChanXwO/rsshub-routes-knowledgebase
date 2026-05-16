@@ -547,9 +547,6 @@
       "title": "降水距平百分率（最近90天）"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国气象局--国家气候中心--气候系统监测·诊断·预测·评估 - Powered by RSSHub",

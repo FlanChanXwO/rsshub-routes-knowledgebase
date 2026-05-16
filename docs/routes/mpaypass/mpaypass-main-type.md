@@ -59,9 +59,6 @@ _None_
     "type": "新闻类型，类型可在URL中找到，类似`policy`，`eye`等，空或其他任意值展示最新新闻"
   },
   "path": "/main/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

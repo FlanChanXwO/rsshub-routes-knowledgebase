@@ -72,9 +72,6 @@ _None_
       "target": "/qq/news/:uid"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

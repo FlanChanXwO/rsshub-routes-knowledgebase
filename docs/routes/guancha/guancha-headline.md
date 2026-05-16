@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 696,
+  "heat": 695,
   "location": "headline.ts",
   "maintainers": [
     "nczitzk"
@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "观察者网 - 头条 - Powered by RSSHub",

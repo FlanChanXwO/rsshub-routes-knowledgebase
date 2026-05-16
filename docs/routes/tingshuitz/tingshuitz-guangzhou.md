@@ -57,9 +57,6 @@ _None_
   "name": "广州市",
   "parameters": {},
   "path": "/guangzhou",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "停水通知 - 广州市自来水96968 - Powered by RSSHub",

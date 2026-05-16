@@ -57,9 +57,6 @@ _None_
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "U9A9 - Powered by RSSHub",

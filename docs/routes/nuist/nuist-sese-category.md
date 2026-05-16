@@ -62,9 +62,6 @@ _None_
     "category": "默认为通知公告"
   },
   "path": "/sese/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

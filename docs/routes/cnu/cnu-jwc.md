@@ -68,9 +68,6 @@ _None_
       "target": "/cnu/jwc"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "jwc.cnu.edu.cn/tzgg/index.htm"
 }

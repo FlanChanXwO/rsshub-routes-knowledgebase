@@ -59,9 +59,6 @@ _None_
       "target": "/user/video/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "每天最新的国内车祸实例，助你提高安全意识，生命冇take two，请小心演绎！欢迎投稿：UploadAccident@qq.com - Powered by RSSHub",

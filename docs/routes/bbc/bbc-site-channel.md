@@ -43,7 +43,7 @@ _None_
   ],
   "description": "Provides a better reading experience (full text articles) over the official ones.\n\nSupport major channels, refer to [BBC RSS feeds](https://www.bbc.co.uk/news/10628494). Eg, `business` for `https://feeds.bbci.co.uk/news/business/rss.xml`.\n\n- Channel contains sub-directories, such as `https://feeds.bbci.co.uk/news/world/asia/rss.xml`, replace `/` with `-`, `/bbc/world-asia`.",
   "example": "/bbc/world-asia",
-  "heat": 2337,
+  "heat": 2340,
   "location": "index.ts",
   "maintainers": [
     "HenryQW",
@@ -56,9 +56,6 @@ _None_
     "site": "语言，简体或繁体中文"
   },
   "path": "/:site?/:channel?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "BBC News 中文网 - Powered by RSSHub",

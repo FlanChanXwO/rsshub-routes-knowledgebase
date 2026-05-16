@@ -59,9 +59,6 @@ _None_
     "playId": "音频页 ID, 可在对应页面的 URL 中找到"
   },
   "path": "/kg/reply/:playId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

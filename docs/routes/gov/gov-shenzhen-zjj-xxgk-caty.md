@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 深圳市住房和建设局
+# Hangzhou People's Government - 深圳市住房和建设局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/shenzhen/zjj/xxgk/:caty`
 - Route Name: `深圳市住房和建设局`
 - Example: `/gov/shenzhen/zjj/xxgk/tzgg`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `lonn`
@@ -71,9 +71,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "深圳市住房和建设局 - 通知公告 - Powered by RSSHub",

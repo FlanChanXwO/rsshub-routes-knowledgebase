@@ -70,10 +70,6 @@ _None_
       "target": "/:url"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "LangChain Events - Powered by RSSHub",
@@ -88,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "vLLM Meetups and Events - Powered by RSSHub",
-      "errorAt": "2026-05-13T21:28:30.323Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "265967053376549888",
+      "description": "Reading Rhythms Global - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265967037132484608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/vLLM-Meetups",
-      "title": "vLLM Meetups and Events",
+      "siteUrl": "https://lu.ma/readingrhythms-global",
+      "title": "Reading Rhythms Global",
       "type": "feed",
-      "url": "rsshub://luma/vLLM-Meetups"
+      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "lu.ma"

@@ -59,9 +59,6 @@ _None_
     "id": "作品 id，可在对应作品页中找到"
   },
   "path": "/book/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "晋江文学城 | 别去春风《普通人就不能成为御兽大师吗》 - Powered by RSSHub",

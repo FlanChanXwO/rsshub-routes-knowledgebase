@@ -56,9 +56,6 @@ _None_
       "target": "/sees"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

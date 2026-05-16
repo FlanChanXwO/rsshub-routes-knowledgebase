@@ -59,9 +59,6 @@ _None_
     "pphId": "政务号 id，可在政务号页 URL 中找到"
   },
   "path": "/gov/:pphId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

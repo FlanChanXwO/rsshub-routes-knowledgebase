@@ -43,9 +43,6 @@ _None_
   ],
   "name": "最新查核報告",
   "path": "/",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "tfc-taiwan.org.tw/latest-news/"
 }

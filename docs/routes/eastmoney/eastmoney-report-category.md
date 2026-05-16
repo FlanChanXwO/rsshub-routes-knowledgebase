@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6879,
+  "heat": 6885,
   "location": "report/index.tsx",
   "maintainers": [
     "syzq"
@@ -96,9 +96,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "东方财富网-行业研报 - Powered by RSSHub",

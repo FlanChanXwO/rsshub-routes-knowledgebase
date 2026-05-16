@@ -76,9 +76,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "幾米 - 最新消息(tw) - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/analyst/column/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",

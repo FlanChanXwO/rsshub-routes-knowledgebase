@@ -54,9 +54,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Stay up to date on the latest artificial intelligence news from Meta. - Powered by RSSHub",

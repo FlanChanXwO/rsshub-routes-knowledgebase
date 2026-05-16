@@ -73,10 +73,6 @@
       "target": "/news/all"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
@@ -91,16 +87,16 @@
       "url": "rsshub://dykszx/news"
     },
     {
-      "description": "德阳人事考试网 考试新闻发布 (其他考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T01:22:44.835Z",
+      "description": "德阳人事考试网 考试新闻发布 (事业单位考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T01:40:03.306Z",
       "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
-      "id": "161655081002352640",
+      "id": "161654788508368896",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(其他考试)",
+      "title": "考试新闻发布(事业单位考试)",
       "type": "feed",
-      "url": "rsshub://dykszx/news/other"
+      "url": "rsshub://dykszx/news/sydw"
     }
   ],
   "url": "www.dykszx.com"

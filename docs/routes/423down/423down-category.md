@@ -183,7 +183,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 599,
+  "heat": 600,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -341,9 +341,6 @@
       "title": "操作系统 - WinPE"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "423Down - Powered by RSSHub",

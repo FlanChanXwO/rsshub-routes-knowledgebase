@@ -115,9 +115,6 @@ _None_
       "target": "/yro"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

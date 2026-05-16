@@ -67,9 +67,6 @@ _None_
     "category": "通知类别，默认为通知公告"
   },
   "path": "/rsc/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

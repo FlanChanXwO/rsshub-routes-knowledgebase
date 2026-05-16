@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 中国  | 新加坡    | 国际  | 财经     |\n| ----- | --------- | ----- | -------- |\n| china | singapore | world | zfinance |",
   "example": "/zaobao/realtime/china",
-  "heat": 8789,
+  "heat": 8801,
   "location": "realtime.ts",
   "maintainers": [
     "shunf4"
@@ -50,9 +50,6 @@ _None_
     "section": "分类，缺省为 china"
   },
   "path": "/realtime/:section?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",

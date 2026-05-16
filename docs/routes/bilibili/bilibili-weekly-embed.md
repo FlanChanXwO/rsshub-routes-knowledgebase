@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3562,
+  "heat": 3564,
   "location": "weekly-recommend.ts",
   "maintainers": [
     "ttttmr"
@@ -60,9 +60,6 @@ _None_
     "embed": "默认为开启内嵌视频, 任意值为关闭"
   },
   "path": "/weekly/:embed?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "B站每周必看 - Powered by RSSHub",

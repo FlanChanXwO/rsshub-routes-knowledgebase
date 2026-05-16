@@ -70,9 +70,6 @@ _None_
       "target": "/latest"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -224,10 +224,6 @@
       "title": "Oyster"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "通知 由于可以抗拒的非技术原因，网站已迁至 https://river.to/occasus 几天前，我们已经给你发送相关邮件。刚才，我们才收到邮件系统反馈：由于群发，频次异常，导致 Gmail、Tutanota 等邮箱大面积拒收，并且，将在一段时间内持续拒收。 鉴于此，我们在此再次通知。 随着地址变更，原有邮箱也将不适用。新旧问题请改用 occasus@river.to 联系我们。 对于造成的任何麻烦和不便，我们表示……新网站就是我们的表示。 祝你一切都好。 - Powered by RSSHub",

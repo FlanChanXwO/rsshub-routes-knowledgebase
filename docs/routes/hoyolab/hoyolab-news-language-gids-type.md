@@ -87,9 +87,6 @@ _None_
     "type": "Announcement type"
   },
   "path": "/news/:language/:gids/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "HoYoLAB-绝区零-公告 - Powered by RSSHub",

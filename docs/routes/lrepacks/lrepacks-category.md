@@ -194,9 +194,6 @@ If you subscribe to [Системные программы](https://lrepacks.net
       "title": "Важная информация"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Авторские репаки от elchupacabra. Скачать бесплатно Repack от чупакабры. - Powered by RSSHub",

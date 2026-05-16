@@ -77,33 +77,30 @@ _None_
   },
   "path": "/post/:thread/:postId",
   "radar": [],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-01-04] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "242895914631755776",
+      "id": "243703331756301312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830",
-      "title": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/#post-12203185",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-01-04] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830"
+      "url": "rsshub://f95zone/post/bamh3d-collection-2026-01-04-bamhor.181609/post-12203185"
     },
     {
-      "description": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250524222304441344",
+      "id": "250524266322800640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214",
-      "title": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD]",
+      "siteUrl": "https://f95zone.to/threads/nyl-collection-2026-01-01-nyl2.46099/#post-3049831",
+      "title": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/radroachhd-collection-2025-08-08-radroachhd.140965/post-9617214"
+      "url": "rsshub://f95zone/post/nyl-collection-2026-01-01-nyl2.46099/post-3049831"
     }
   ]
 }

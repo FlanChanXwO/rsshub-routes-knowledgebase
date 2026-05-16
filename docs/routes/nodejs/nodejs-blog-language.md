@@ -87,9 +87,6 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "News - Node.js - Powered by RSSHub",

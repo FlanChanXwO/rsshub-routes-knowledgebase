@@ -144,9 +144,6 @@ _None_
     }
   },
   "path": "/article/:categoryId/:sortType?/:timeRange?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "综合 - Powered by RSSHub",

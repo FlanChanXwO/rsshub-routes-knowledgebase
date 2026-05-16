@@ -465,9 +465,6 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
       "title": "ムーンライト BL 年間ランキング BEST5"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "小説家になろう (noc) - 日間総合ランキング BEST300 - Powered by RSSHub",

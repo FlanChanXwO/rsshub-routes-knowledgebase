@@ -51,9 +51,6 @@ _None_
     "category": "新闻栏目，可选"
   },
   "path": "/news/:category{.+}?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "武汉大学新闻网 - Powered by RSSHub",

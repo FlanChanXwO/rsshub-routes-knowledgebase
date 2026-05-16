@@ -49,9 +49,6 @@ _None_
     "id": "分类，见下表，默认为社区总版"
   },
   "path": "/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",

@@ -57,9 +57,6 @@ _None_
   "name": "Zone",
   "parameters": {},
   "path": "/zone",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "火线 Zone-安全攻防社区 - Powered by RSSHub",

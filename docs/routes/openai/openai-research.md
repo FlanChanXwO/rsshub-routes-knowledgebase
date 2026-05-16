@@ -58,9 +58,6 @@ _None_
   "name": "Research",
   "parameters": {},
   "path": "/research",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",

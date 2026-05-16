@@ -74,9 +74,6 @@ _None_
     "/global/:lang/:type?",
     "/ff14_global/:lang/:type?"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "FFXIV Lodestone updates (all) - Powered by RSSHub",

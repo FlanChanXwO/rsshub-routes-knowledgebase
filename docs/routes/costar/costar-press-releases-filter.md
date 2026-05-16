@@ -75,9 +75,6 @@ To subscribe to [Press Releases - Asia Pacific - Preliminary](https://www.costar
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.costar.com",
   "view": 0

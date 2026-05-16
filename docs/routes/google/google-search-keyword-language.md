@@ -61,23 +61,7 @@ _None_
     "language": "Accept-Language. Example: `zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7`"
   },
   "path": "/search/:keyword/:language?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
-    {
-      "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
-      "errorAt": "2025-09-10T17:16:47.805Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "68685709659153408",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn",
-      "title": "被查+site:thepaper.cn - Google Search",
-      "type": "feed",
-      "url": "rsshub://google/search/%E8%A2%AB%E6%9F%A5+site:thepaper.cn"
-    },
     {
       "description": "AI赚钱 - Google Search - Powered by RSSHub",
       "errorAt": "2025-10-27T06:01:24.457Z",
@@ -89,6 +73,18 @@ _None_
       "title": "AI赚钱 - Google Search",
       "type": "feed",
       "url": "rsshub://google/search/AI%E8%B5%9A%E9%92%B1"
+    },
+    {
+      "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
+      "errorAt": "2025-09-10T17:16:47.805Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "68685709659153408",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn",
+      "title": "被查+site:thepaper.cn - Google Search",
+      "type": "feed",
+      "url": "rsshub://google/search/%E8%A2%AB%E6%9F%A5+site:thepaper.cn"
     }
   ]
 }

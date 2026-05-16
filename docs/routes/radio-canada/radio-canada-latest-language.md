@@ -73,9 +73,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "加拿大国际广播电台 | Radio-Canada.ca - Powered by RSSHub",

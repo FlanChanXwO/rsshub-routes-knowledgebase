@@ -68,9 +68,6 @@ _None_
       "target": "/cnu/physics"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "physics.cnu.edu.cn/news/index.htm"
 }

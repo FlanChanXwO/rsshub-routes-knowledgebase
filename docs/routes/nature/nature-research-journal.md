@@ -71,7 +71,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 31893,
+  "heat": 31854,
   "location": "research.ts",
   "maintainers": [
     "y9c",
@@ -93,9 +93,6 @@
       "target": "/research/:journal"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Read the latest Research articles from Nature - Powered by RSSHub",

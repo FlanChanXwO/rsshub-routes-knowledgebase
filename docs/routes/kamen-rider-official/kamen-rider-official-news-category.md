@@ -91,9 +91,6 @@ _None_
     "category": "Category, see below, すべて by default"
   },
   "path": "/news/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "仮面ライダーシリーズ公式サイトです。令和仮面ライダー第7作となる「仮面ライダーゼッツ」や前作品「仮面ライダーガヴ」などの番組や映画の紹介は勿論、グッズ・玩具やイベントの情報など、シリーズ全般の情報を掲載しています。 - Powered by RSSHub",

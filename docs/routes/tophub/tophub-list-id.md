@@ -77,9 +77,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "订阅数：38万+ - Powered by RSSHub",

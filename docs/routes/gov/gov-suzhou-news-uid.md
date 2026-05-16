@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政府新闻
+# Hangzhou People's Government - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/suzhou/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/suzhou/news/news`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, luyuhuang`
@@ -94,9 +94,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "苏州市政府 - 政务公告 - Powered by RSSHub",

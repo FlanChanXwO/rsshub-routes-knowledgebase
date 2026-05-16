@@ -61,10 +61,6 @@ _None_
     "type": "type"
   },
   "path": "/paper/:type/:magazine",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Accounts of Chemical Research期刊最新论文，,Top期刊最新论文图文内容，出版社网站每日同步更新，点击标题直达论文原文，自定义关注的期刊，覆盖PubMed的论文库，快速方便精准的找到您想要的论文 - Powered by RSSHub",

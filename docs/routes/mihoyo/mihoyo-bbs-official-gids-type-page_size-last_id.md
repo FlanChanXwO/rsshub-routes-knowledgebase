@@ -76,10 +76,6 @@ _None_
     "type": "公告类型，默认为 2(即 活动)"
   },
   "path": "/bbs/official/:gids/:type?/:page_size?/:last_id?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 301 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "米游社 - 原神 - 公告 - Powered by RSSHub",

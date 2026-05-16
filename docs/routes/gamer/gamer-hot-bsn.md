@@ -61,9 +61,6 @@ _None_
     "bsn": "板塊 id，在 URL 可以找到"
   },
   "path": "/hot/:bsn",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "星期一的豐滿 哈啦板 - 巴哈姆特 - Powered by RSSHub",

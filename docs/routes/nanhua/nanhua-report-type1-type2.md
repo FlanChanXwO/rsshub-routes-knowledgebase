@@ -57,9 +57,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "南华期货 - 周度报告 - 黑色 - Powered by RSSHub",

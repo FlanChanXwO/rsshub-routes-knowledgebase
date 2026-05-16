@@ -75,9 +75,6 @@
       "target": "/:params"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "搜索客，搜索人自己的社区 - Powered by RSSHub",

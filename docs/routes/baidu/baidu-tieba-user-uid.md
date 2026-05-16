@@ -61,34 +61,30 @@ _None_
     "uid": "用户 ID"
   },
   "path": "/tieba/user/:uid",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
-      "description": "星芒√月幻 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-02T10:12:38.476Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=星芒√月幻\": 403 Forbidden\n",
-      "id": "105199795080017920",
+      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-04-24T13:11:20.764Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
+      "id": "104695101579488257",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%98%9F%E8%8A%92%E2%88%9A%E6%9C%88%E5%B9%BB",
-      "title": "星芒√月幻 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
+      "title": "dengchunlai 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E6%98%9F%E8%8A%92%E2%88%9A%E6%9C%88%E5%B9%BB"
+      "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "天马失望 的贴吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "200148619577121792",
+      "description": "K盘音 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-16T04:13:10.675Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
+      "id": "197372964709496832",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B",
-      "title": "天马失望 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
+      "title": "K盘音 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
+      "url": "rsshub://baidu/tieba/user/TheKickInside"
     }
   ]
 }

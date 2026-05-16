@@ -59,9 +59,6 @@ _None_
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.miyuki.jp/s/y10/news/list"
 }

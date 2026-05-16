@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 国家统计局 通用
+# Hangzhou People's Government - 国家统计局 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/stats/*`
 - Route Name: `国家统计局 通用`
 - Example: `/gov/stats/sj/zxfb`
@@ -70,9 +70,6 @@ _None_
       "title": "国家统计局 通用"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "数据发布 - 国家统计局 - Powered by RSSHub",

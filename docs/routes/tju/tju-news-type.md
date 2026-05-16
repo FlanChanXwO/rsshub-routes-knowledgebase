@@ -63,9 +63,6 @@ _None_
     "type": "default `focus`"
   },
   "path": "/news/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "链接失效http://news.tju.edu.cn/jjtd.htm - Powered by RSSHub",

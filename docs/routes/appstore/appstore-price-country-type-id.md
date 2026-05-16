@@ -72,9 +72,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "限免提醒: Squash — Web Image Compression for macOS - Powered by RSSHub",

@@ -56,9 +56,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新京报 - 分类 - 深读 - Powered by RSSHub",

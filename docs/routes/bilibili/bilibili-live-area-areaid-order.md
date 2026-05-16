@@ -64,9 +64,6 @@ _None_
     "order": "排序方式, live_time 开播时间, online 人气"
   },
   "path": "/live/area/:areaID/:order",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "哔哩哔哩直播-娱乐·舞见分区-人气直播 - Powered by RSSHub",

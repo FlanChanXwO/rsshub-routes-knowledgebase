@@ -37,7 +37,7 @@ _None_
     "journal"
   ],
   "example": "/ieee/journal/6287639/preprint",
-  "heat": 239,
+  "heat": 240,
   "location": "journal.ts",
   "maintainers": [
     "HenryQW"
@@ -48,9 +48,6 @@ _None_
     "punumber": "Publication Number, look for `punumber` in the URL"
   },
   "path": "/journal/:punumber/:earlyAccess?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "IEEE Access - Powered by RSSHub",

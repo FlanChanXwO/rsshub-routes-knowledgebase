@@ -60,9 +60,6 @@ _None_
     "keyword": "N"
   },
   "path": "/keyword/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Bluesky Keyword - 财经 - Powered by RSSHub",

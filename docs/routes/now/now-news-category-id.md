@@ -71,7 +71,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 190,
+  "heat": 191,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -91,14 +91,11 @@
       "target": "/news/:category?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "首頁 | Now 新聞 - Powered by RSSHub",
-      "errorAt": "2026-05-13T21:33:38.760Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60960343462107136",
       "image": null,
       "ownerUserId": null,

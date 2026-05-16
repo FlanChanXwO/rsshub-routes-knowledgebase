@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 194,
+  "heat": 193,
   "location": "st.ts",
   "maintainers": [
     "TonyRL"
@@ -73,9 +73,6 @@
       "target": "/st/:catid"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "情趣全部文章-情趣No.1-PLAYNO.1玩樂達人 - Powered by RSSHub",

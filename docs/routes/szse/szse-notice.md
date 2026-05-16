@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "深圳证券交易所——上市公告-可转换债券 - Powered by RSSHub",

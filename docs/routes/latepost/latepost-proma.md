@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7152,
+  "heat": 7157,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -63,9 +63,6 @@ _None_
     "proma": "栏目 id，见下表，默认为最新报道"
   },
   "path": "/:proma?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "晚一点，好一点 Later better - Powered by RSSHub",

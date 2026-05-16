@@ -62,9 +62,6 @@ _None_
     "type": "默认为 `0`"
   },
   "path": "/mech/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

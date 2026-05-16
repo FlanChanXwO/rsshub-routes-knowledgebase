@@ -64,9 +64,6 @@ _None_
     "category": "链接参数，对应网址问号后的内容，不携带问号"
   },
   "path": "/search/:query?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

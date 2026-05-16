@@ -11,7 +11,7 @@
 - Example: `/anthropic/news`
 - URL: `www.anthropic.com/news`
 - Language: `_None_`
-- Categories: `programming`
+- Categories: `programming, popular`
 - Maintainers: `etShaw-zh, goestav`
 - Source Location: `news.ts`
 - Source Module: `_None_`
@@ -36,10 +36,11 @@ _None_
 ```json
 {
   "categories": [
-    "programming"
+    "programming",
+    "popular"
   ],
   "example": "/anthropic/news",
-  "heat": 1301,
+  "heat": 1302,
   "location": "news.ts",
   "maintainers": [
     "etShaw-zh",
@@ -56,9 +57,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Latest news from Anthropic - Powered by RSSHub",

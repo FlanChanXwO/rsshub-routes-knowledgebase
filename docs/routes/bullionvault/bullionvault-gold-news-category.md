@@ -198,9 +198,6 @@ If you subscribe to [Gold Price News](https://www.bullionvault.com/gold-news/gol
       "title": "Market Fundamentals"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts - Powered by RSSHub",

@@ -59,9 +59,6 @@ _None_
     "name": "电影 | 电视剧名称"
   },
   "path": "/detail/:name",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

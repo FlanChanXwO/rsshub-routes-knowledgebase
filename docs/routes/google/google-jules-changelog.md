@@ -56,9 +56,6 @@ _None_
   ],
   "name": "Jules Changelog",
   "path": "/jules/changelog",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Jules Changelog - Powered by RSSHub",

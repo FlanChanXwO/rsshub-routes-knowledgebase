@@ -72,9 +72,6 @@ _None_
       "target": "/disclosure/listed/notice"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "深交所官网 - Powered by RSSHub",
@@ -92,13 +89,13 @@ _None_
       "description": "深交所官网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "243896126078777344",
+      "id": "242486635647006720",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.szse.cn/disclosure/listed/notice",
       "title": "深圳证券交易所 - 上市公司公告",
       "type": "feed",
-      "url": "rsshub://szse/disclosure/listed/notice/stock=301081"
+      "url": "rsshub://szse/disclosure/listed/notice/stock=300762"
     }
   ],
   "url": "www.szse.cn",

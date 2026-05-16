@@ -69,9 +69,6 @@ _None_
       "title": "豆瓣电影-即将上映"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣电影-即将上映 - Powered by RSSHub",

@@ -64,9 +64,6 @@ _None_
     "path": "路径，默认为 `newslist-1486-0-0`"
   },
   "path": "/:path?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "北京社科网_社科资讯_社科要闻 - Powered by RSSHub",

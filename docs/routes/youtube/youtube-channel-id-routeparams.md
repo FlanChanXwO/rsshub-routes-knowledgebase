@@ -92,15 +92,11 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
       "target": "/channel/:id"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
-      "description": "My name is Lewis. I am on a mission to inspire developers and tech enthusiasts. 🧑‍💻 Professionally coding since 2016! Business: sydney@lewismenelaws.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "YouTube channel Coding with Lewis - Powered by RSSHub",
+      "errorAt": "2026-05-15T00:27:13.303Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nfetch failed\n502 Bad Gateway\nFailed to fetch\n",
       "id": "143637676052105216",
       "image": "https://yt3.googleusercontent.com/CsruQ_I1lU51KzpO58FHQIpzuQneCdmJOOLsmy_usGKQANxgnJ-cK6kNylwQYhY0LYwVrp3EHQ=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

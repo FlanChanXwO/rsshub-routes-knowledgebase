@@ -61,9 +61,6 @@ _None_
     "category": "RSS Feed Channel, see below, `rss-en-all` by default"
   },
   "path": "/rss/:channel?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Deutsche Welle - Powered by RSSHub",

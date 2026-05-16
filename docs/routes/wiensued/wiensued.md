@@ -45,9 +45,6 @@ _None_
   ],
   "name": "Objekte",
   "path": "*",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

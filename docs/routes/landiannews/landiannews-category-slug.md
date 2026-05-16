@@ -72,9 +72,6 @@ _None_
       "target": "/category/:slug"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "给你感兴趣的内容! - Powered by RSSHub",

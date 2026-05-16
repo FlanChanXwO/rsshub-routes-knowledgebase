@@ -116,9 +116,6 @@ _None_
     "limit": "期数，默认为 15，即单次获取最新 15 期"
   },
   "path": "/programme/:id?/:limit?/:isFull?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",

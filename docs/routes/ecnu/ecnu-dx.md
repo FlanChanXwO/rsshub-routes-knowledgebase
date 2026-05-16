@@ -56,9 +56,6 @@ _None_
       "target": "/dx"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

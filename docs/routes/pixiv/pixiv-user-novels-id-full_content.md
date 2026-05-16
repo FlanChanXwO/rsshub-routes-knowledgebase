@@ -133,9 +133,6 @@ Example:
       "title": "User Novels (全文 Full text)"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Coco要做人啦！ 的 pixiv 最新小说 - Powered by RSSHub",

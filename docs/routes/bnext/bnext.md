@@ -68,9 +68,6 @@ _None_
       "target": "/bnext"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.bnext.com.tw"
 }

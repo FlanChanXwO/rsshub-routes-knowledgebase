@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国农业农村部数据
+# Hangzhou People's Government - 中华人民共和国农业农村部数据
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/moa/zdscxx/:category{.+}?`
 - Route Name: `中华人民共和国农业农村部数据`
 - Example: `/gov/moa/zdscxx`
@@ -142,9 +142,6 @@
       "title": "蔬菜生产"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "数据 - Powered by RSSHub",
@@ -160,8 +157,8 @@
     },
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": "2026-05-13T06:47:42.949Z",
-      "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessageFilters\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "92886505678071808",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

@@ -105,9 +105,6 @@
       "title": "一周热门"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "一个简单且纯粹的活动线报资源分享网站 - Powered by RSSHub",

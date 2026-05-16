@@ -73,9 +73,6 @@ _None_
       "target": "/daily-papers/:cycle"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Huggingface Daily Papers - Powered by RSSHub",

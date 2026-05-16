@@ -75,9 +75,6 @@
       "target": "/news/:cate"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "电动邦 - 推荐 - Powered by RSSHub",

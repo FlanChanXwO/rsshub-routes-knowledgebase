@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4476,
+  "heat": 4477,
   "location": "xwlb.ts",
   "maintainers": [
     "zengxs"
@@ -84,9 +84,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CCTV 新闻联播 - Powered by RSSHub",

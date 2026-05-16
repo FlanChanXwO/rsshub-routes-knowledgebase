@@ -60,9 +60,6 @@ _None_
     "path": "userpath or teampath"
   },
   "path": "/profile/:path",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "HackMD Dev's profile on HackMD - Powered by RSSHub",

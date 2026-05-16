@@ -59,9 +59,6 @@ _None_
     "locationId": "位置 id, [同城首页](https://www.douban.com/location)打开控制台执行 `window.__loc_id__` 获取"
   },
   "path": "/event/hot/:locationId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣同城-热门活动-108288 - Powered by RSSHub",

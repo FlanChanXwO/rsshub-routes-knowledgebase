@@ -64,34 +64,30 @@ _None_
     "category": "类别：`bksjy`，默认为简讯专栏，详情在描述中"
   },
   "path": "/cse/:category?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
-      "description": "浙江大学控制学院通知 - 科研学术 - Powered by RSSHub",
+      "description": "浙江大学控制学院通知 - 研究生教育 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "194422850506339328",
+      "id": "194422368944794624",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.cse.zju.edu.cn//39312/list.htm",
-      "title": "浙江大学控制学院通知 - 科研学术",
+      "siteUrl": "http://www.cse.zju.edu.cn//39333/list.htm",
+      "title": "浙江大学控制学院通知 - 研究生教育",
       "type": "feed",
-      "url": "rsshub://zju/cse/kyxs"
+      "url": "rsshub://zju/cse/yjsjy"
     },
     {
-      "description": "浙江大学控制学院通知 - 简讯专栏 - Powered by RSSHub",
+      "description": "浙江大学控制学院通知 - 对外交流 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "194422241770488832",
+      "id": "194422763742295040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.cse.zju.edu.cn//39283/list.htm",
-      "title": "浙江大学控制学院通知 - 简讯专栏",
+      "siteUrl": "http://www.cse.zju.edu.cn//39353/list.htm",
+      "title": "浙江大学控制学院通知 - 对外交流",
       "type": "feed",
-      "url": "rsshub://zju/cse"
+      "url": "rsshub://zju/cse/dwjl"
     }
   ]
 }

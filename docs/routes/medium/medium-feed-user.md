@@ -70,9 +70,6 @@ _None_
       "target": "/feed/:user"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Stories by Gate Ventures on Medium - Powered by RSSHub",

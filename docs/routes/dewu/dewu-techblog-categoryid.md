@@ -82,9 +82,6 @@
       "target": "/techblog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "得物技术博客 - Powered by RSSHub",

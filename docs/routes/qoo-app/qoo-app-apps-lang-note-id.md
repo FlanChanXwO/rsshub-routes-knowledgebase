@@ -61,9 +61,6 @@ _None_
     "lang": "Language, see the table above, empty means `中文`"
   },
   "path": "/apps/:lang?/note/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -46,9 +46,6 @@ _None_
     "handle": "YouTube handles or channel id"
   },
   "path": "/community/:handle",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "柴静 Chai Jing 记者 纪录片：《穹顶之下》（2015）《陌生人》（2023） 两部纪录片制作费用均来自柴静书籍《看见》版税，公益播出。 邮箱：chaijing2023@gmail.com - Powered by RSSHub",

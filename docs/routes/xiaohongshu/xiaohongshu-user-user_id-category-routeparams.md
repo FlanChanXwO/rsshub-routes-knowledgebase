@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1400760,
+  "heat": 1400759,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -95,15 +95,11 @@ _None_
       "target": "/user/:user_id/notes"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 0 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2026-05-09T08:01:45.866Z",
-      "errorMessage": "Failed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
+      "errorMessage": "Failed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\n502 Bad Gateway\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

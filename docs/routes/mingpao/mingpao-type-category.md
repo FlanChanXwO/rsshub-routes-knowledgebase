@@ -114,10 +114,6 @@ _None_
       "title": "每日明報"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
@@ -134,7 +130,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260513/s00001/1778608053369/%e5%90%88%e5%ae%89-%e7%b6%ad%e4%bf%ae%e9%a4%98%e6%ac%be1-27%e5%84%84-6%e6%9c%88%e8%b5%b7%e9%80%80-%e4%be%9d%e4%be%8b%e4%bb%8a%e9%a0%88%e9%80%9a%e7%9f%a5%e5%8f%ac%e6%a5%ad%e4%b8%bb%e6%9c%83-%e7%a8%b1%e6%ad%a3%e5%b0%8b%e6%b3%95%e5%be%8b%e6%84%8f%e8%a6%8b%e6%b1%82%e7%a9%a9%e5%a6%a5\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260515/s00001/1778780954784/%e4%b8%ad%e7%be%8e%e6%96%b0%e5%ae%9a%e4%bd%8d-%e5%bb%ba%e8%a8%ad%e6%80%a7%e6%88%b0%e7%95%a5%e7%a9%a9%e5%ae%9a%e9%97%9c%e4%bf%82-%e7%bf%92-%e5%90%88%e4%bd%9c%e7%82%ba%e4%b8%bb%e7%ab%b6%e7%88%ad%e6%9c%89%e5%ba%a6-%e7%89%b9%e6%9c%97%e6%99%ae%e9%82%809%e6%9c%88%e8%a8%aa%e7%be%8e\": 403 Forbidden\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

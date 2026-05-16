@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "仅仅推送新的专题(集合型而非具体文章) - Powered by RSSHub",

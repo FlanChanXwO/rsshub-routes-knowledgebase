@@ -63,10 +63,6 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/channel/:uid/:sid/:embed?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "跟李沐学AI 的 bilibili 频道 - Powered by RSSHub",
@@ -81,16 +77,16 @@ _None_
       "url": "rsshub://bilibili/user/channel/1567748478/358497"
     },
     {
-      "description": "DIYgod 的 bilibili 频道 - Powered by RSSHub",
+      "description": "黑马程序员 的 bilibili 频道 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "57641453192576000",
-      "image": "https://i2.hdslb.com/bfs/face/9882696336717748a66cb70b0ed3f488f0cc9dad.jpg",
+      "id": "66328356640256000",
+      "image": "https://i0.hdslb.com/bfs/face/a71b4dd6647ddf0c813bcf74e062edab9224cb0e.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/2267573/channel/seriesdetail?sid=396050",
-      "title": "DIYgod 的 bilibili 频道 怪物猎人实况",
+      "siteUrl": "https://space.bilibili.com/37974444/channel/seriesdetail?sid=240490",
+      "title": "黑马程序员 的 bilibili 频道 c/c++免费视频教程",
       "type": "feed",
-      "url": "rsshub://bilibili/user/channel/2267573/396050"
+      "url": "rsshub://bilibili/user/channel/37974444/240490"
     }
   ]
 }

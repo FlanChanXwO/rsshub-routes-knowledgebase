@@ -60,9 +60,6 @@ _None_
     "/movie/playing",
     "/movie/playing/:score"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "正在上映的电影 - Powered by RSSHub",

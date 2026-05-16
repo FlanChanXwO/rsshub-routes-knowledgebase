@@ -62,9 +62,6 @@ _None_
     "type": "类型参数"
   },
   "path": "/master/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华北电力大学研究生院通知公告 - Powered by RSSHub",

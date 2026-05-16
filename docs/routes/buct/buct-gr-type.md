@@ -106,9 +106,6 @@ _None_
       "target": "/gr/xgzc"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "buct.edu.cn/"
 }

@@ -62,9 +62,6 @@ _None_
     "type": "分类名"
   },
   "path": "/scit/:type",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "科学技术处-通知公告 - Powered by RSSHub",

@@ -71,9 +71,6 @@ _None_
       "target": "/free"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "限时免费-起点中文网 - Powered by RSSHub",

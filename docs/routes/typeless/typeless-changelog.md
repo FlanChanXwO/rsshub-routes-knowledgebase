@@ -56,9 +56,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Typeless app release notes - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "feed": "Feed source, defaults to news, references https://feeds.sycl.tech/"
   },
   "path": "/:feed?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "SYCL.tech news - Powered by RSSHub",

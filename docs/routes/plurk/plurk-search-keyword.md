@@ -59,9 +59,6 @@ _None_
     "keyword": "Search keyword"
   },
   "path": "/search/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Search messages on Plurk - Powered by RSSHub",

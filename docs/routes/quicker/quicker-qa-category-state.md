@@ -81,9 +81,6 @@ _None_
     "state": "状态，见下表，默认为全部"
   },
   "path": "/qa/:category?/:state?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "讨论区 - Quicker - Powered by RSSHub",

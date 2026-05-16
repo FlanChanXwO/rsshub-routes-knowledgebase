@@ -59,9 +59,6 @@ _None_
   ],
   "name": "广州国际校区 - 新闻聚焦",
   "path": "/gzic/news",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华南理工大学广州国际校区 - 新闻聚焦 - Powered by RSSHub",

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7685,
+  "heat": 7686,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -125,13 +125,9 @@ _None_
     }
   },
   "path": "/ranking/:mode/:date?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
-      "description": "2026年5月14日 pixiv 日排行 - Powered by RSSHub",
+      "description": "2026年5月15日 pixiv 日排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41427688948323328",
@@ -143,7 +139,7 @@ _None_
       "url": "rsshub://pixiv/ranking/day"
     },
     {
-      "description": "2026年5月14日 pixiv 周排行 - Powered by RSSHub",
+      "description": "2026年5月15日 pixiv 周排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41147805276726317",

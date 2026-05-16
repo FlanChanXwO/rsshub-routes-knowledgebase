@@ -56,9 +56,6 @@ _None_
   ],
   "name": "Release",
   "path": "/release",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Notion Releases - Powered by RSSHub",

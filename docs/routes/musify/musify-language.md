@@ -111,26 +111,11 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
       "title": "​​Последняя"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
-    {
-      "description": "Скачать музыку бесплатно в формате mp3 — без регистрации и в хорошем качестве. Слушайте онлайн и скачивайте новинки, хиты и классику на Musify. - Powered by RSSHub",
-      "errorAt": "2026-05-06T18:18:12.168Z",
-      "errorMessage": "500 Internal Server Error\n",
-      "id": "165777653595388928",
-      "image": "https://s.musify.club/images/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://musify.club/",
-      "title": "Скачать музыку бесплатно mp3 в хорошем качестве без регистрации | Musify",
-      "type": "feed",
-      "url": "rsshub://musify"
-    },
     {
       "description": "Download music for free in mp3 format — high quality and no registration required. Listen online and download new releases, hits, and classics on Musify. - Powered by RSSHub",
       "errorAt": "2026-05-08T04:09:01.847Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://musify.club/en\": <no response> fetch failed\n",
       "id": "164874302196685824",
       "image": "https://s.musify.club/images/logo.png",
       "ownerUserId": null,
@@ -138,6 +123,18 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
       "title": "Download music for free in high-quality mp3 without registration | Musify",
       "type": "feed",
       "url": "rsshub://musify/en"
+    },
+    {
+      "description": "Скачать музыку бесплатно в формате mp3 — без регистрации и в хорошем качестве. Слушайте онлайн и скачивайте новинки, хиты и классику на Musify. - Powered by RSSHub",
+      "errorAt": "2026-05-06T18:18:12.168Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "165777653595388928",
+      "image": "https://s.musify.club/images/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://musify.club/",
+      "title": "Скачать музыку бесплатно mp3 в хорошем качестве без регистрации | Musify",
+      "type": "feed",
+      "url": "rsshub://musify"
     }
   ],
   "url": "musify.club",

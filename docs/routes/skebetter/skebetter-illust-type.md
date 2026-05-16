@@ -113,9 +113,6 @@
       "title": "Illust - Latest"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Skebetter Illust - 急上昇 - Powered by RSSHub",

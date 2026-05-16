@@ -63,9 +63,6 @@ _None_
     "id": "标签 id，可在对应标签页 URL 中找到"
   },
   "path": "/tag/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "人工智能的英文简称 - Powered by RSSHub",

@@ -64,9 +64,6 @@ _None_
     "sort": "排序方式，见下表，默认为 `last`，即最近"
   },
   "path": "/article/:sort?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "HelloGithub - 最近文章 - Powered by RSSHub",

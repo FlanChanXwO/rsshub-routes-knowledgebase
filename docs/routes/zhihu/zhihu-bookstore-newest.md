@@ -57,9 +57,6 @@ _None_
   "name": "知乎书店 - 新书",
   "parameters": {},
   "path": "/bookstore/newest",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "知乎书店-新书抢鲜 - Powered by RSSHub",

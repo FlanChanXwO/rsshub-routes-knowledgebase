@@ -56,9 +56,6 @@ _None_
   ],
   "name": "Blog",
   "path": "/blog",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "All the latest Tailwind CSS news, straight from the team. - Powered by RSSHub",

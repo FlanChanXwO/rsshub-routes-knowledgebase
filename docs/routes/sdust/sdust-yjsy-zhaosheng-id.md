@@ -68,9 +68,6 @@ _None_
     "id": "栏目 id，见下表，默认为通知公告"
   },
   "path": "/yjsy/zhaosheng/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

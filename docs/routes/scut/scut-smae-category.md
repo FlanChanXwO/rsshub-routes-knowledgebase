@@ -62,9 +62,6 @@ _None_
     "category": "通知分类，默认为 `yjsjw`"
   },
   "path": "/smae/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华南理工大学机械与汽车工程学院 - 本科生教务 - Powered by RSSHub",

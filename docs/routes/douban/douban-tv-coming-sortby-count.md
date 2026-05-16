@@ -71,12 +71,9 @@ _None_
     "sortBy": "排序方式，可选，支持 `hot` 或 `time`，默认 `hot`"
   },
   "path": "/tv/coming/:sortBy?/:count?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
-      "description": "即将播出的剧集，请求参数: count=10, total=252, sortBy=hot, requestCount=10 - Powered by RSSHub",
+      "description": "即将播出的剧集，请求参数: count=10, total=244, sortBy=hot, requestCount=10 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "259521396346720256",

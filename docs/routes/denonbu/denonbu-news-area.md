@@ -159,9 +159,6 @@ Working category IDs include `news` (the default), `event`, `goods`, `comic`, `m
       "target": "/news/:area"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "denonbu.jp"
 }

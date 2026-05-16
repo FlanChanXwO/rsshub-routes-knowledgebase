@@ -60,9 +60,6 @@ _None_
       "target": "/series/:seriesName"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

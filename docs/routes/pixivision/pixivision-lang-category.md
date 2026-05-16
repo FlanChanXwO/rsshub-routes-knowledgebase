@@ -85,9 +85,6 @@
       "target": "/:lang/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "New - pixivision - Powered by RSSHub",

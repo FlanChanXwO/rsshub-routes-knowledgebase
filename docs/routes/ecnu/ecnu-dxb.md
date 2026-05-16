@@ -56,9 +56,6 @@ _None_
       "target": "/dxb"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

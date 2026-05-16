@@ -64,9 +64,6 @@ _None_
     "type": "news type, checkout the table below for details"
   },
   "path": "/news/:server/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "ブルアカ - 全て - Powered by RSSHub",

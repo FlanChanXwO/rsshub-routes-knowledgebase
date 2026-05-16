@@ -62,9 +62,6 @@ _None_
     "category": "默认为教学要闻"
   },
   "path": "/jwc/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",

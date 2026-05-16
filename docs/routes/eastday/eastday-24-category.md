@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 62,
+  "heat": 61,
   "location": "24.ts",
   "maintainers": [
     "nczitzk"
@@ -78,9 +78,6 @@
       "target": "/24"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",

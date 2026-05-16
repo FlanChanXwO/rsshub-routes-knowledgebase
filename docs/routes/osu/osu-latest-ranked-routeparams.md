@@ -113,9 +113,6 @@ Now all beatmapsets that don't provided at least one beatmap with star rating hi
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Newly ranked beatmaps at https://osu.ppy.sh/beatmapsets. - Powered by RSSHub",

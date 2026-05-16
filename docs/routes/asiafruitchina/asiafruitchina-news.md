@@ -69,9 +69,6 @@ _None_
       "target": "/asiafruitchina/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "亚洲水果与其英文姐妹平台 Asiafruit 同时隶属于 Fruitnet Media International 集团，为果蔬业人士带来集团全球编辑网络最新采集的高质量国际果蔬行业资讯，让您随时掌握极具商业价值的行业动态、观点与市场趋势。 - Powered by RSSHub",

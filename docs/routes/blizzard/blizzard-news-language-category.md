@@ -100,9 +100,6 @@ _None_
     "language": "Language code, see below, en-US by default"
   },
   "path": "/news/:language?/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "All News - Powered by RSSHub",

@@ -63,9 +63,6 @@ _None_
     "type": "分类，可在榜单页 URL 中找到，默认为一周口碑电影榜"
   },
   "path": "/movie/weekly/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "每周五更新；关注榜单，第一时间了解最新口碑佳片。 - Powered by RSSHub",

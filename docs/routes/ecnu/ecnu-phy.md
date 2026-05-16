@@ -56,9 +56,6 @@ _None_
       "target": "/phy"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/caixin/weekly",
-  "heat": 1155,
+  "heat": 1158,
   "location": "weekly.ts",
   "maintainers": [
     "TonyRL"
@@ -54,9 +54,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "《财新周刊》-财新网 - Powered by RSSHub",

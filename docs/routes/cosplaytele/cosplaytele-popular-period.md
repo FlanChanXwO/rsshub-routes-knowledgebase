@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 363,
+  "heat": 366,
   "location": "popular.ts",
   "maintainers": [
     "AiraNadih"
@@ -72,9 +72,6 @@ _None_
       "target": "/popular/:period"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CosplayTele - Top views in 30 days - Powered by RSSHub",

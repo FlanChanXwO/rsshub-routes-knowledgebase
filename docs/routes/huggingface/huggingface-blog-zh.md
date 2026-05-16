@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2041,
+  "heat": 2039,
   "location": "blog-zh.ts",
   "maintainers": [
     "zcf0508"
@@ -69,9 +69,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Huggingface 中文博客 - Powered by RSSHub",

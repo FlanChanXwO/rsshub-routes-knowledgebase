@@ -67,9 +67,6 @@ _None_
       "target": "/insights"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

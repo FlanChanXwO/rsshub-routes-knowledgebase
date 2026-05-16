@@ -143,9 +143,6 @@ _None_
       "title": "CG・イラスト"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

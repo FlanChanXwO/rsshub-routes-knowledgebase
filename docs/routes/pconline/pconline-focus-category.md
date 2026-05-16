@@ -82,9 +82,6 @@
       "target": "/focus"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",

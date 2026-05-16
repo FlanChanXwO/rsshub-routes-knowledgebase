@@ -74,9 +74,6 @@ _None_
     "albumid": "电台专辑 ID"
   },
   "path": "/nioradio/:albumid",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "NIO Radio - 资讯充电站·早间版 - Powered by RSSHub",

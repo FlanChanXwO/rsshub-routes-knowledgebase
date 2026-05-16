@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 37,
+  "heat": 36,
   "location": "index.ts",
   "maintainers": [
     "Fatpandac"
@@ -62,9 +62,6 @@ _None_
     "query": "链接参数，对应网址问号后的内容"
   },
   "path": "/:query?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "逛丢 - 国内 - Powered by RSSHub",

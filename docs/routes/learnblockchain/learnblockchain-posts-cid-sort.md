@@ -80,9 +80,6 @@ _None_
     "sort": "排序方式，默认精选"
   },
   "path": "/posts/:cid/:sort?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "登链社区 - Powered by RSSHub",

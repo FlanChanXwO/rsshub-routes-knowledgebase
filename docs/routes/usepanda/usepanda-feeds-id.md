@@ -62,9 +62,6 @@ _None_
     "id": "Feed ID"
   },
   "path": "/feeds/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

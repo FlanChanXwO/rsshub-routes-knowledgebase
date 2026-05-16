@@ -67,9 +67,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华尔街见闻 - 资讯 - 最新 - Powered by RSSHub",

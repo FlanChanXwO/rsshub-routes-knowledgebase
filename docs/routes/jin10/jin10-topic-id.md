@@ -68,15 +68,11 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "关于美联储的那些事 - Powered by RSSHub",
       "errorAt": "2026-05-13T07:30:17.517Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'content')\n",
       "id": "88845418189377536",
       "image": null,
       "ownerUserId": null,

@@ -54,9 +54,6 @@ _None_
       "target": "/transcripts"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Read transcripts of our past text-based Q&A events, most recently with TMiR 2025-12: Year in review, React2Shell (RCE, DOS, SCE, oh my) on Friday December 19th, 2025 - Powered by RSSHub",

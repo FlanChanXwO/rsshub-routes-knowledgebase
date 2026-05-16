@@ -73,9 +73,6 @@
       "target": "/popular"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "热门文章 - 日榜 - 人人都是产品经理 - Powered by RSSHub",

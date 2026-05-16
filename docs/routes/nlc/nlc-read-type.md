@@ -64,9 +64,6 @@ _None_
     "type": "分类，见下表，默认为电子图书"
   },
   "path": "/read/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

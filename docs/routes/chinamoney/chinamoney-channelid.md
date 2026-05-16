@@ -92,9 +92,6 @@ _None_
     "channelId": "分类，见下表，默认为 `2834`"
   },
   "path": "/:channelId?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "最新 - 外汇市场公告 - 市场公告 - 中国货币网 - Powered by RSSHub",

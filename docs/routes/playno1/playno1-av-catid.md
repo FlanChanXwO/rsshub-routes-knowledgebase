@@ -59,7 +59,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1669,
+  "heat": 1674,
   "location": "av.ts",
   "maintainers": [
     "TonyRL"
@@ -69,9 +69,6 @@ _None_
     "catid": "分类，见下表，默认为全部文章"
   },
   "path": "/av/:catid?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "全部文章-AVNo.1-PLAYNO.1玩樂達人 - Powered by RSSHub",

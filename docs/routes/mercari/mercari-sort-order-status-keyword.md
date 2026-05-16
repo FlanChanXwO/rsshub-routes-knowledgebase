@@ -122,9 +122,6 @@ _None_
     }
   },
   "path": "/:sort/:order/:status/:keyword",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Search results for keyword: 日日樹涉 - Powered by RSSHub",

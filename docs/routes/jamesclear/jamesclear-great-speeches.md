@@ -67,9 +67,6 @@ _None_
       "target": "/great-speeches"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Collection of great speeches curated by James Clear - Powered by RSSHub",

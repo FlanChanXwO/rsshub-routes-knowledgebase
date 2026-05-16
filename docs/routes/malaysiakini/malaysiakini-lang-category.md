@@ -117,9 +117,6 @@
       "target": "/:lang/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "News & Views That Matter - Powered by RSSHub",

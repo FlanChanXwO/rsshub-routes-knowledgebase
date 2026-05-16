@@ -77,9 +77,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Yahoo 新聞 - 新聞來源列表 - Powered by RSSHub",

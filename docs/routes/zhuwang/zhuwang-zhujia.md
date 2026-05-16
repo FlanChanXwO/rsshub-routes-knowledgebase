@@ -64,9 +64,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "全国今日生猪价格 - Powered by RSSHub",

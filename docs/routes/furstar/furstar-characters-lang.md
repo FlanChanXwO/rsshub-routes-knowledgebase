@@ -72,9 +72,6 @@ _None_
       "target": "/characters/:lang"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

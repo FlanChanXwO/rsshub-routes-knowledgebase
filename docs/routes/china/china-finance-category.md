@@ -75,9 +75,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "推荐_财经频道_中华网 - Powered by RSSHub",

@@ -54,9 +54,6 @@ _None_
       "target": "/tianshu"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "天书最新消息 - Powered by RSSHub",

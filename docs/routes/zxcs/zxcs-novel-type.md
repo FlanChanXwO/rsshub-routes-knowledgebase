@@ -53,7 +53,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 93,
+  "heat": 94,
   "location": "novel.ts",
   "maintainers": [
     "liaochuan"
@@ -71,9 +71,6 @@
       "target": "/novel/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "知轩藏书 - 近期更新 - Powered by RSSHub",

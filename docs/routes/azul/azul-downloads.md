@@ -69,9 +69,6 @@ _None_
       "target": "/downloads"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.azul.com",
   "view": 5

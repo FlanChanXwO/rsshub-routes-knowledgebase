@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 350,
+  "heat": 351,
   "location": "blog.ts",
   "maintainers": [],
   "name": "用户博客",
@@ -58,9 +58,6 @@ _None_
     "column": "博客名称，可在博客主页的 URL 找到"
   },
   "path": "/blog/:column?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "财新博客 - 全部 - Powered by RSSHub",

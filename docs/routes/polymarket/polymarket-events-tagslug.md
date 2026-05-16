@@ -72,9 +72,6 @@ _None_
       "target": "/events/:tagSlug"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Polymarket Events - Powered by RSSHub",

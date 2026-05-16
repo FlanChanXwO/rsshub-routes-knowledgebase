@@ -75,9 +75,6 @@
       "target": "/analyst/rank"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 周排行 - Powered by RSSHub",

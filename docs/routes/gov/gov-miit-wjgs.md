@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 文件公示
+# Hangzhou People's Government - 文件公示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/miit/wjgs`
 - Route Name: `文件公示`
 - Example: `/gov/miit/wjgs`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`
@@ -57,9 +57,6 @@ _None_
   "name": "文件公示",
   "parameters": {},
   "path": "/miit/wjgs",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "文件公示 - 中华人民共和国工业和信息化部 - Powered by RSSHub",

@@ -69,9 +69,6 @@ _None_
       "target": "/blog"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Learn more about what we're building, how it can help you, and the latest cutting edge generative AI topics. - Powered by RSSHub",

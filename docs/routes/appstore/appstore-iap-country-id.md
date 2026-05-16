@@ -61,9 +61,6 @@ _None_
     "id": "App Store app id, obtain from the app URL https://apps.apple.com/us/app/id953286746, in this case, `id953286746`"
   },
   "path": "/iap/:country/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "内购限免提醒: Darkroom: Photo & Video Editor for macOS - Powered by RSSHub",

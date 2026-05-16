@@ -79,9 +79,6 @@ _None_
       "title": "中文版新聞"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",

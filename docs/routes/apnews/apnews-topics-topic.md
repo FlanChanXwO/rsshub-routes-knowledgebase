@@ -78,9 +78,6 @@ _None_
       "target": "/topics/:topic"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Trending News | What's New Around the World | AP News - Powered by RSSHub",

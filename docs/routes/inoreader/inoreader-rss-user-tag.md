@@ -61,9 +61,6 @@ _None_
     "user": "user id, the interger after user/ in the example URL"
   },
   "path": "/rss/:user/:tag",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Yifan's favorite articles on Inoreader - Powered by RSSHub",

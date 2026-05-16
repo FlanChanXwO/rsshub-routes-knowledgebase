@@ -121,9 +121,6 @@
       "title": "展会资讯"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "005.tv - Powered by RSSHub",

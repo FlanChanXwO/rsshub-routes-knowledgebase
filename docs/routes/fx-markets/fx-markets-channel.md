@@ -60,9 +60,6 @@ _None_
     "channel": "channel, can be found in the navi bar links at the home page"
   },
   "path": "/:channel",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "FX-Markets Trading - Powered by RSSHub",

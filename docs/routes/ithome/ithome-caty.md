@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 249,
+  "heat": 250,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"
@@ -62,9 +62,6 @@ _None_
     "caty": "类别"
   },
   "path": "/:caty",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",

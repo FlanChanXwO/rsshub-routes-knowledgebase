@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 武汉要闻
+# Hangzhou People's Government - 武汉要闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/wuhan/sy/whyw`
 - Route Name: `武汉要闻`
 - Example: `/gov/wuhan/sy/whyw`
@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "武汉动态 - 武汉市人民政府 - Powered by RSSHub",

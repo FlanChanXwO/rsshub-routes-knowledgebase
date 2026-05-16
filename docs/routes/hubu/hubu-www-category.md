@@ -93,9 +93,6 @@
       "title": "学术预告"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "hubu.edu.cn"
 }

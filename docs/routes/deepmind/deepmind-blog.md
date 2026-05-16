@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1364,
+  "heat": 1367,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk",
@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Read the latest articles and stories from DeepMind and find out more about our latest breakthroughs in cutting-edge AI research. - Powered by RSSHub",

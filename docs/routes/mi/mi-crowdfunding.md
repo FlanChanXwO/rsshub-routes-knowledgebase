@@ -70,9 +70,6 @@ _None_
       "target": "/crowdfunding"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "小米众筹 - Powered by RSSHub",

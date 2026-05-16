@@ -72,9 +72,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Quorafind's GitHub repositories - Powered by RSSHub",

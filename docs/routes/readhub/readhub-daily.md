@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4705,
+  "heat": 4711,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -68,12 +68,9 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
-      "description": "1. 前阿里千问技术负责人林俊旸开启创业：目标估值 20 亿美元 2. 吴泳铭：阿里 AI 模型与应用 ARR 6 月季度将破 100 亿元，年底超 300 亿元 3. 马化腾：一年前以为上了 AI 的船结果发现漏水了，现在站上去但还坐不下去 4. 腾讯刘炽平：腾讯没有大裁员计划 5. 苹果探索在 App Store 纳入 AI 智能体 6. Anthropic 洽谈按 9000 亿美元估值融资至少 300 亿美元 7. 马斯克点赞宇树载人变形机甲：很酷 8. 腾讯元宝上线新功能：支持总结微信聊天记录 9. SpaceX 星舰 V3 火箭完成首次燃料加注，试飞进入倒计时 10. 软银因所持 OpenAI 股权增值，入账利润达 120 亿美元 11. 蓝色起源拟启动首次外部融资，贝索斯火箭公司寻求更多资金支持 12. 首个国有大行信用卡 App 即将关停，相关功能迁移至中国银行 App 13. 黄仁勋临时更改行程，将随美国总统访华 - Powered by RSSHub",
+      "description": "1. 微软寻求收购 AI 公司以摆脱对 OpenAI 依赖 2. Anthropic 高管：公司 90% 代码已由 AI 完成 3. Anthropic 企业采用率首超 OpenAI 4. OpenAI 回应 TanStack 供应链攻击：未发现用户数据泄露 5. Anthropic 推出 Claude for Small Business 瞄准中小企业 AI 应用洼地 6. 苹果探索在 App Store 纳入 AI 智能体 7. 阿里企业级 Agent 平台「悟空」开始逐步规模化放量 8. 马斯克的 xAI 正加紧推动华尔街公司使用 Grok 聊天机器人 9. 华为鸿蒙 HarmonyOS 6 终端设备数突破 6000 万 10. 字节跳动与上汽集团入股自变量科技 布局具身智能机器人 11. 苹果与 OpenAI 的合作关系出现裂痕 或将引发法律冲突 12. Anthropic 宣布提升 Claude Code 额度：每周限额叠加增长 50%，持续至 7 月 13 日 13. 消息称虎鲸文娱旗下妙鸭相机团队已于去年解散 14. 阿里云日均 Token 收入较 4 月初已增长五倍 15. 腾讯辟谣「AI 一位号即将离职」 16. 微信一半的人在适配鸿蒙 17. 传字节跳动剪映产品负责人张琪智已离职创业 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

@@ -61,9 +61,6 @@ _None_
     "year": "Year of the issue, `null` for the lastest"
   },
   "path": "/shxyj/:year?/:issue?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "社会学研究 2026年第2期 - Powered by RSSHub",

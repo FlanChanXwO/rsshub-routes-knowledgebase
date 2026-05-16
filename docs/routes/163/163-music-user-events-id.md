@@ -57,8 +57,8 @@ _None_
     },
     {
       "description": "网易云音乐用户动态 - LOFTER轻博客昵称是 臆 (moonit) 欢迎来~ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T02:43:46.828Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "114722269609891848",
       "image": "http://p1.music.126.net/HA9eqywliuX5My4fCcxF0w==/18814842976688349.jpg",
       "ownerUserId": null,

@@ -89,9 +89,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "早报 更新推送 - Powered by RSSHub",

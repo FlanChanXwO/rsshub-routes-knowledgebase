@@ -59,9 +59,6 @@ _None_
     "id": "主题 id"
   },
   "path": "/subject/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "喷嚏-184 - Powered by RSSHub",

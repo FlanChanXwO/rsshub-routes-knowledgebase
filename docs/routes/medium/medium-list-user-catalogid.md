@@ -66,9 +66,6 @@ _None_
     "user": "Username"
   },
   "path": "/list/:user/:catalogId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "List: Favorite - Powered by RSSHub",

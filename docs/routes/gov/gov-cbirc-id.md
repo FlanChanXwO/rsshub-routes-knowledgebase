@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 分类
+# Hangzhou People's Government - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/cbirc/:id?`
 - Route Name: `分类`
 - Example: `/gov/cbirc/:id?`
@@ -553,10 +553,6 @@
       "title": "专题专栏 - 学习贯彻习近平新时代中国特色社会主义思想主题教育"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "监管动态 - Powered by RSSHub",

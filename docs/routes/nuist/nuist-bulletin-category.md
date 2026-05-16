@@ -82,9 +82,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "南信大信息公告栏 - 全部 - Powered by RSSHub",

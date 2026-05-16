@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "专题报告 - AI量化知识库 - BigQuant - Powered by RSSHub",

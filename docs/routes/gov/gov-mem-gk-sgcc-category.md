@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 事故及灾害查处
+# Hangzhou People's Government - 事故及灾害查处
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/mem/gk/sgcc/:category?`
 - Route Name: `事故及灾害查处`
 - Example: `/gov/mem/gk/sgcc/tbzdsgdcbg`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -73,9 +73,6 @@
       "target": "/mem/gk/sgcc/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "调查报告 - Powered by RSSHub",
@@ -91,8 +88,8 @@
     },
     {
       "description": "挂牌督办 - Powered by RSSHub",
-      "errorAt": "2026-05-13T18:39:27.703Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73327086064622592",
       "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
       "ownerUserId": null,

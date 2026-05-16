@@ -65,9 +65,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "scitechvista.nat.gov.tw"
 }

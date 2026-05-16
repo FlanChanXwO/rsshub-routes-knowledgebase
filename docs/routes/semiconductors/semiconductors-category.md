@@ -77,9 +77,6 @@ To subscribe to [Latest News](https://www.semiconductors.org/news-events/latest-
       "target": "/:category"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.semiconductors.org",
   "view": 0

@@ -143,9 +143,6 @@ _None_
     }
   },
   "path": "/gnn/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",

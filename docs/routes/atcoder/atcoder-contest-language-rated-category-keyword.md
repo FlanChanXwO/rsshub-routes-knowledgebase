@@ -84,9 +84,6 @@ _None_
     "rated": "Rated Range, see below, all by default"
   },
   "path": "/contest/:language?/:rated?/:category?/:keyword?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Contest Archive - AtCoder - Powered by RSSHub",

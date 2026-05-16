@@ -60,9 +60,6 @@ _None_
     "author": "N"
   },
   "path": "/author/:author",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "安全内参-网络安全威胁和漏洞信息共享平台 - Powered by RSSHub",

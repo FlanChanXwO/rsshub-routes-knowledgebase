@@ -91,9 +91,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Yahoo 新聞 - 法新社 - Powered by RSSHub",

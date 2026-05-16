@@ -62,9 +62,6 @@ _None_
     "type": "默认为 `class`"
   },
   "path": "/yjs/news/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

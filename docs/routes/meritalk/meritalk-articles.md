@@ -67,9 +67,6 @@ _None_
       "target": "/articles"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

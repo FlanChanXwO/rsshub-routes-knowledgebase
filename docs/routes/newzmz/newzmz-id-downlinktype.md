@@ -75,9 +75,6 @@
       "target": ""
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Redirecting... - Powered by RSSHub",

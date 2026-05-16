@@ -198,9 +198,6 @@ _None_
     "id": "栏目，见下表，默认为钢协动态"
   },
   "path": "/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国钢铁工业协会的官方网站！ - Powered by RSSHub",

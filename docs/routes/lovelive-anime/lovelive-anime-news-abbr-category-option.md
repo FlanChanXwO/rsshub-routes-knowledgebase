@@ -84,9 +84,6 @@
       "target": "/news"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "lovelive official website news - Powered by RSSHub",

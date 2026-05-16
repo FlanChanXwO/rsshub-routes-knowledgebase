@@ -57,9 +57,6 @@ _None_
   "name": "看板列表",
   "parameters": {},
   "path": "/student5/boards",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Zuvio 校園話題，Zuvio 校園話題千種動物頭像交流心得。最萌的匿名論壇，上千種逗趣動物頭像隨你變換，點頭像立即私訊功能，讓你找到共同話題的小夥伴！多人分享配對心得、聊天交友心情在此，快加入17分享！ - Powered by RSSHub",

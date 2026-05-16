@@ -58,9 +58,6 @@ _None_
   ],
   "name": "Film Guide",
   "path": "/film-guide",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Film Guide - Powered by RSSHub",

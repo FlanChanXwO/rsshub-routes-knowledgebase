@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 38463,
+  "heat": 38462,
   "location": "user.ts",
   "maintainers": [
     "TonyRL",
@@ -88,15 +88,11 @@ _None_
       "target": "/user/:id/tagged"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 301 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "📚 幫助忙碌的你．提煉好書精華 📝 #閱讀前哨站．10分鐘每週多認識一本書 🎧 #下一本讀什麼．20分鐘快速聽懂一本書 👇 訂閱電子報．收聽Podcast ．看線上課程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T15:45:58.021Z",
+      "errorMessage": "502 Bad Gateway\n503 Service Unavailable\n",
       "id": "76501314147596288",
       "image": "https://sp1.pixnoy.com/a/a_15553397507_3631285038151332104362324843_95c00d485dc12c84ffa60294d184bcb0.jpg?o=aHR0cHM6Ly9zY29udGVudC1vcmQ1LTMuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE5LzQ5NTkyNjc3MV8xODEwMzk2NDc5NzUxNzUwOF83NzEzODU3NDIzMjcxNTk1NzgyX24uanBnP3N0cD1kc3QtanBnX3MxNTB4MTUwX3R0NiZlZmc9ZXlKMlpXNWpiMlJsWDNSaFp5STZJbkJ5YjJacGJHVmZjR2xqTG1ScVlXNW5ieTQyTURBdVl6SWlmUSZfbmNfaHQ9c2NvbnRlbnQtb3JkNS0zLmNkbmluc3RhZ3JhbS5jb20mX25jX2NhdD0xMDAmX25jX29jPVE2Y1oyZ0ZMOUJkS1ZwNFdaQnFHZDV6c094XzVYTk5DMHlLeUhDRGJCMDcwak9kY1RsV0phdzdBaTVPVF9fNzZGSEtrRUJ6bnRPS1FwS25rcGxMWGJHSWx2dXBSJl9uY19vaGM9dmN1dTFDQ0xjdDBRN2tOdndHUGZ5NVcmX25jX2dpZD0wRkdUdDZObkhaM1BlOVZyMTRjX0lRJmVkbT1BTEdiSlBNQkFBQUEmY2NiPTctNSZvaD0wMF9BZjViQVZRVzRQSjByalM5ZE9ZcXpNSVk1cktwc3g3endNUGpaSWVUXzNEYzZnJm9lPTZBMDlCMzdBJl9uY19zaWQ9N2QzYWM1&h=0dcec6ff7777d8e28089636fadbe8bbb",
       "ownerUserId": null,

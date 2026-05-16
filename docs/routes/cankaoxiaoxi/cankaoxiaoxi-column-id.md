@@ -84,9 +84,6 @@ _None_
     "/column/:id?",
     "/:id?"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "参考消息 - Powered by RSSHub",

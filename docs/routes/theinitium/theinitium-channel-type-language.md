@@ -99,9 +99,6 @@ Type 栏目（对应 Ghost 标签）：
       "target": "/channel/:type"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "端傳媒 - 最新 - Powered by RSSHub",

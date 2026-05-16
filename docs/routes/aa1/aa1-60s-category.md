@@ -169,9 +169,6 @@
       "title": "每天60秒读懂世界"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "60s.aa1.cn",
   "view": 0

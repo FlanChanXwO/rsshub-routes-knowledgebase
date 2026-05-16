@@ -75,9 +75,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "CATTI 考试通知和公告 - Powered by RSSHub",

@@ -74,9 +74,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "👩‍💻🥷渗透 / 安全攻防🥷👩‍💻 - Powered by RSSHub",

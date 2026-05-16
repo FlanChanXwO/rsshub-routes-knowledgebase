@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - Immigration and Citizenship - News
+# Hangzhou People's Government - Immigration and Citizenship - News
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/immiau/news`
 - Route Name: `Immigration and Citizenship - News`
 - Example: `/gov/immiau/news`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liu233w`
@@ -57,9 +57,6 @@ _None_
   "name": "Immigration and Citizenship - News",
   "parameters": {},
   "path": "/immiau/news",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Australia Government, Department of Home Affairs - Powered by RSSHub",

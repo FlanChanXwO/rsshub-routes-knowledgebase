@@ -57,9 +57,6 @@ _None_
   "name": "精选推送",
   "parameters": {},
   "path": "/newsletter",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Bestblogs.dev - 精选推送 - Powered by RSSHub",

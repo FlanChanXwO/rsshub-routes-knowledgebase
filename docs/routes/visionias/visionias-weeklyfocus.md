@@ -67,9 +67,6 @@ _None_
       "target": "/weeklyFocus"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

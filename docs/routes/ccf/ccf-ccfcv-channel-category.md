@@ -64,9 +64,6 @@ _None_
     "channel": "频道，仅支持 `xsdt`"
   },
   "path": "/ccfcv/:channel/:category",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "计算机视觉专委 - 学术前沿 - Powered by RSSHub",

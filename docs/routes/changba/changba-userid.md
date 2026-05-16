@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "你那么孤单却要说着一个人真好 - 唱吧 - Powered by RSSHub",

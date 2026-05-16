@@ -70,9 +70,6 @@ _None_
       "target": "/artists"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Furstar 所有画家列表 - Powered by RSSHub",

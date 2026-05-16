@@ -40,7 +40,7 @@ _None_
     "other"
   ],
   "example": "/stheadline/std/realtimenews",
-  "heat": 42,
+  "heat": 43,
   "location": "std/realtime.ts",
   "maintainers": [
     "TonyRL"
@@ -59,10 +59,6 @@ _None_
       "target": "/std/:category"
     }
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "全方位多角度的香港新聞、即時新聞、城中熱話、網上熱話、專題報道、中國及國際新聞。 - Powered by RSSHub",
@@ -78,8 +74,8 @@ _None_
     },
     {
       "description": "報導第一手要聞資訊，了解最新新聞動向，全程緊貼社會議題。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T23:19:01.371Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 151673363572299776",
       "id": "151673363572299776",
       "image": "https://www.sthlstatic.com/sthl/assets/favicon/android-icon-192x192.png",
       "ownerUserId": null,

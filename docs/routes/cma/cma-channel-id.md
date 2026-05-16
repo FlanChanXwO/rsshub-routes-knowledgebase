@@ -85,9 +85,6 @@ _None_
     "id": "分类，见下表，可在对应频道页 URL 中找到，默认为 380，即每日天气提示"
   },
   "path": "/channel/:id?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",

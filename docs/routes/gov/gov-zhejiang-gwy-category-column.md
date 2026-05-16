@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 通知
+# Hangzhou People's Government - 通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/zhejiang/gwy/:category?/:column?`
 - Route Name: `通知`
 - Example: `/gov/zhejiang/gwy/1`
@@ -99,9 +99,6 @@
       "target": "/zhejiang/gwy"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "zjks.gov.cn/zjgwy/website/init.htm"
 }

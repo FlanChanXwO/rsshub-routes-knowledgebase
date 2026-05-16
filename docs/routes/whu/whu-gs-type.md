@@ -75,9 +75,6 @@
       "target": "/gs"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "武大研究生院 - Powered by RSSHub",

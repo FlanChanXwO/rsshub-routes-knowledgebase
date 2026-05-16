@@ -70,9 +70,6 @@ _None_
       "target": "/cist"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "buct.edu.cn/"
 }

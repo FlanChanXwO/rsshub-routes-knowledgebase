@@ -71,9 +71,6 @@ _None_
     "type": "片单类型剧集/电影，tv或movie，默认为tv"
   },
   "path": "/recommended/:type?/:routeParams?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "豆瓣 - 2026年05月定档热门新剧推荐 - Powered by RSSHub",

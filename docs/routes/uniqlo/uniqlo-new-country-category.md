@@ -61,9 +61,6 @@ _None_
     "country": "currently only supports sg, us, jp"
   },
   "path": "/new/:country/:category",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Uniqlo men new arrivals in sg - Powered by RSSHub",

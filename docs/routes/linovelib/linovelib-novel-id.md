@@ -59,15 +59,11 @@ _None_
     "id": "小说 id，对应书架开始阅读 URL 中找到"
   },
   "path": "/novel/:id",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "败北女角太多了！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-14T13:16:01.486Z",
+      "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 Forbidden\n",
       "id": "57803547274585088",
       "image": null,
       "ownerUserId": null,

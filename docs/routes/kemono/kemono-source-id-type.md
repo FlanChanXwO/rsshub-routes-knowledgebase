@@ -134,9 +134,6 @@ Support for announcements and fancards:
       "target": "/discord/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",

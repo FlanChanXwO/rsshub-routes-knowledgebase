@@ -57,9 +57,6 @@ _None_
   "name": "Kindle Software Updates",
   "parameters": {},
   "path": "/kindle/software-updates",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Kindle E-Reader Software Updates - Powered by RSSHub",

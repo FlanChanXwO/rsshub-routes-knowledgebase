@@ -64,9 +64,6 @@ _None_
       "target": "/releases"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "TiddlyWiki Releases - Powered by RSSHub",

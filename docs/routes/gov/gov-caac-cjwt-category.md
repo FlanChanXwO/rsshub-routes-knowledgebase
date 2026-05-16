@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 公众留言
+# Hangzhou People's Government - 公众留言
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/caac/cjwt/:category?`
 - Route Name: `公众留言`
 - Example: `/gov/caac/cjwt`
@@ -72,9 +72,6 @@
       "target": "/caac/cjwt"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "caac.gov.cn/HDJL/"
 }

@@ -57,9 +57,6 @@ _None_
   "name": "APISIX 博客",
   "parameters": {},
   "path": "/apisix/blog",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Blog | Apache APISIX - Powered by RSSHub",

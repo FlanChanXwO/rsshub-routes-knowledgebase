@@ -59,9 +59,6 @@ _None_
     "userId": "用户 ID, 可在对应页面的 URL 中找到"
   },
   "path": "/kg/:userId",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "作品: 0; 粉丝: 0; 关注: 0 - Powered by RSSHub",

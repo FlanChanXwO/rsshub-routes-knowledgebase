@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 35942,
+  "heat": 35915,
   "location": "apod.ts",
   "maintainers": [
     "nczitzk",
@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "NASA Astronomy Picture of the Day - Powered by RSSHub",

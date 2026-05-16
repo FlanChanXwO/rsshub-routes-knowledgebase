@@ -73,9 +73,6 @@ _None_
       "target": "/tag/:tag"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "EVERIA.CLUB - Tag: gravure - Powered by RSSHub",

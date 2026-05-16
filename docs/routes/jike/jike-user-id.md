@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8863,
+  "heat": 8864,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -82,9 +82,6 @@ _None_
       "target": "/user/:uid"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "吃饭，睡觉，读书，思考 - Powered by RSSHub",

@@ -59,9 +59,6 @@ _None_
     "id": "歌手 id, 可在歌手详情页 URL 中找到"
   },
   "path": "/music/artist/songs/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "网易云音乐 - 歌手歌曲 - G.E.M.邓紫棋 - Powered by RSSHub",

@@ -67,10 +67,6 @@ _None_
     "/discover/:params?",
     "/:params?"
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "新片场社区汇聚全球优秀创作人和海量精选原创短视频作品,覆盖广告,宣传片,剧情短片,创意混剪,婚礼,纪录片,特殊摄影,旅拍,Vlog,影视干货教程,音乐MV等无水印高清视频案例学习下载。 - Powered by RSSHub",

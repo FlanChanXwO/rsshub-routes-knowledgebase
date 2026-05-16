@@ -67,9 +67,6 @@ _None_
       "target": "/subscriber-only"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "view": 0
 }

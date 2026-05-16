@@ -62,9 +62,6 @@ _None_
     "type": "默认为`gztz`"
   },
   "path": "/qd/xyb/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

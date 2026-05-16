@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 254,
+  "heat": 252,
   "location": "finance/china.ts",
   "maintainers": [
     "yubinbai"
@@ -75,9 +75,6 @@
       "target": "/finance/china"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "新浪财经－国内滚动 - Powered by RSSHub",

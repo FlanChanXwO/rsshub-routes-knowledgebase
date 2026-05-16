@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 135,
+  "heat": 136,
   "location": "latest.ts",
   "maintainers": [
     "nczitzk"
@@ -66,9 +66,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "第一财经 - 最新 - Powered by RSSHub",

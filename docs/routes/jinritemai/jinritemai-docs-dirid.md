@@ -66,9 +66,6 @@ _None_
     "dirId": "公告分类, 可在页面URL获取 默认为全部"
   },
   "path": "/docs/:dirId?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "抖店开放平台 - 全部公告 - Powered by RSSHub",

@@ -80,9 +80,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "精選基地編輯每日為你帶來的電玩、動漫、娛樂遊戲最新新聞 - Powered by RSSHub",

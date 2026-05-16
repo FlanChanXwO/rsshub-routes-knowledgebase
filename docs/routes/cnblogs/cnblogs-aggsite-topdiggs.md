@@ -73,9 +73,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "10天推荐排行 - 博客园 - Powered by RSSHub",

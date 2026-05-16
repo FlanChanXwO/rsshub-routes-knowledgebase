@@ -75,9 +75,6 @@
       "target": "/posts"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "编程导航社区最新帖子 - Powered by RSSHub",

@@ -247,9 +247,6 @@
       "title": "职业发展 - 就业创业"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "mba.bnu.edu.cn"
 }

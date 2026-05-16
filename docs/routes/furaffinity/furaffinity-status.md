@@ -71,9 +71,6 @@ _None_
       "target": "/"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Fur Affinity Status - Powered by RSSHub",

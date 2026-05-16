@@ -52,9 +52,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "社群 - 韭研公社-研究共享，茁壮成长（原韭菜公社） - Powered by RSSHub",

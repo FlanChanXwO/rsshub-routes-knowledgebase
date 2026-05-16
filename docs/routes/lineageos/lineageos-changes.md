@@ -69,9 +69,6 @@ _None_
       "target": "/changes"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "LineageOS Downloads - Downloads - Powered by RSSHub",

@@ -66,9 +66,6 @@ _None_
     "category": "分类，见下表，默认为 news"
   },
   "path": "/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Latest | Focus Taiwan - CNA English News - Powered by RSSHub",

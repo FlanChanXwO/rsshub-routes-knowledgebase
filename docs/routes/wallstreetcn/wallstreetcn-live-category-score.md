@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 546,
+  "heat": 547,
   "location": "live.tsx",
   "maintainers": [
     "nczitzk"
@@ -77,9 +77,6 @@
       "target": "/live/:category?"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",

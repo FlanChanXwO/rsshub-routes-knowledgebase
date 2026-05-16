@@ -58,9 +58,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "足坛今天都发生了哪些事？ - Powered by RSSHub",

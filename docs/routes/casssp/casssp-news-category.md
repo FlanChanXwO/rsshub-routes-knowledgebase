@@ -62,9 +62,6 @@ _None_
     "category": "分类，见下表，默认为通知公告"
   },
   "path": "/news/:category?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "研究会动态_中国科学学与科技政策研究会-中国科技智库论坛-全球科技论坛研究-Innovation and Development Policy - Powered by RSSHub",

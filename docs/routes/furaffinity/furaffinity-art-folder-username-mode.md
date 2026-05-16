@@ -97,9 +97,6 @@ _None_
       "target": "/favorites/:username"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
@@ -114,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of smellslikejavier - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of eleode - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "79208716709173248",
+      "id": "105952843219328000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/smellslikejavier",
-      "title": "Fur Affinity | Gallery of smellslikejavier",
+      "siteUrl": "https://www.furaffinity.net/gallery/eleode",
+      "title": "Fur Affinity | Gallery of eleode",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/smellslikejavier/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/eleode/nsfw"
     }
   ],
   "url": "furaffinity.net"

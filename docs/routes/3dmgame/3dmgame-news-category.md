@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 765,
+  "heat": 764,
   "location": "news-center.ts",
   "maintainers": [
     "zhboner",
@@ -74,9 +74,6 @@
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "3DM新闻中心为广大互联网用户提供前沿的新闻资讯，让玩家及时了解到最新的游戏新闻、动漫影视、智能数码、游戏硬件和时事焦点等相关资讯。 - Powered by RSSHub",

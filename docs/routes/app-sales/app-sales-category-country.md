@@ -218,9 +218,6 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
       "title": "Now Free"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",

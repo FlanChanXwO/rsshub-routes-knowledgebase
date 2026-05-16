@@ -63,9 +63,6 @@ _None_
     "province": "Province which the land is belongs to"
   },
   "path": "/announce/:owner?/:province?/:office?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

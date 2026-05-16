@@ -76,7 +76,7 @@ Category 栏目：
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1545,
+  "heat": 1543,
   "location": "app.ts",
   "maintainers": [
     "quiniapiezoelectricity",
@@ -95,9 +95,6 @@ Category 栏目：
       "target": "/app/latest_sc"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "端传媒 - 最新 - Powered by RSSHub",

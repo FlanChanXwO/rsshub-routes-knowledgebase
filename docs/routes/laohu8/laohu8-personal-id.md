@@ -68,9 +68,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "老虎社区 - Buy_Sell 个人社区 - Powered by RSSHub",

@@ -62,9 +62,6 @@ _None_
     "type": "类型，见下表，默认为全部"
   },
   "path": "/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "-业余无线电服务中心-活动通知-北京无线电协会 - Powered by RSSHub",

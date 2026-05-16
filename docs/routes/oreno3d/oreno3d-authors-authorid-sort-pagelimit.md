@@ -74,10 +74,6 @@ _None_
     "/search/:keyword/:sort/:pagelimit?",
     "/tags/:tagid/:sort/:pagelimit?"
   ],
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "Mister Pinkの3Dエロ動画・エロMMD・エロアニメ一覧｜俺の3Dエロ動画 - 新着(Page 1-1) - Powered by RSSHub",

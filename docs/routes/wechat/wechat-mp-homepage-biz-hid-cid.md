@@ -66,10 +66,6 @@ _None_
     "hid": "分页id"
   },
   "path": "/mp/homepage/:biz/:hid/:cid?",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/routes.test.ts:81:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.6/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "|10万＋推荐 - Powered by RSSHub",
@@ -86,7 +82,7 @@ _None_
     {
       "description": "|李厚辰·专栏 - Powered by RSSHub",
       "errorAt": "2025-08-12T08:16:13.890Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HAdzA2qjAUQSToJ7snjYMOlDFypZUM3Xdao0dQwe&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852403%26idx%3D1%26sn%3D9d6b411c3f31b2b5dbecc826f5eab74c\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HE3tBWqjAq0eX6k4AwL7kbyuimrtTqg78az0iLj9&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852529%26idx%3D1%26sn%3D19e0f66ad91816137a5b16d64d6969d7\n",
       "id": "58707616374334464",
       "image": null,
       "ownerUserId": null,

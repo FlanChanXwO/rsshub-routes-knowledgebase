@@ -62,9 +62,6 @@ _None_
     "type": "默认为 notice"
   },
   "path": "/jwc/:type?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",

@@ -59,9 +59,6 @@ _None_
     "id": "歌手 id, 可在歌手详情页 URL 中找到"
   },
   "path": "/music/artist/:id",
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "网易云音乐歌手专辑 - 塞壬唱片-MSR - Powered by RSSHub",
@@ -80,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "65815290747943936",
-      "image": "https://p2.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
+      "image": "https://p1.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/#/artist/album?id=59573590",
       "title": "The 1999",

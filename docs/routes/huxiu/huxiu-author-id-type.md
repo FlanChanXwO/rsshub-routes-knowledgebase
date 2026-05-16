@@ -65,9 +65,6 @@ _None_
     "/author/:id/:type?",
     "/member/:id/:type?"
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "青年的发问与探寻 - Powered by RSSHub",

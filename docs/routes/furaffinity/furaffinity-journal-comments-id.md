@@ -73,9 +73,6 @@ _None_
       "target": "/journal-comments/:id"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "furaffinity.net"
 }

@@ -79,9 +79,6 @@
       "target": "/users/:id/radios"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "www.gcores.com",
   "view": 4

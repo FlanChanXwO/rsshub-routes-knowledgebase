@@ -72,9 +72,6 @@ _None_
       "target": "/search/:query"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

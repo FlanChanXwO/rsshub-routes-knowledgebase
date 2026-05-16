@@ -61,9 +61,6 @@ _None_
     "name": "标签名称，默认为重要通知，可在对应标签页 URL 中找到"
   },
   "path": "/:id?/:name?",
-  "test": {
-    "code": 0
-  },
   "topFeeds": []
 }
 ```

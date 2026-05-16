@@ -72,9 +72,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Nat Geo Photo of the Day - Powered by RSSHub",

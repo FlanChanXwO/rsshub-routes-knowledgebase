@@ -73,9 +73,6 @@ _None_
       "target": "/browse"
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "Fur Affinity Browsing Artwork - Powered by RSSHub",

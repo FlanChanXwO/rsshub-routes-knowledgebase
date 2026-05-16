@@ -70,9 +70,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [
     {
       "description": "这个世界流行离开，但我们却不擅长告别 - Powered by RSSHub",
