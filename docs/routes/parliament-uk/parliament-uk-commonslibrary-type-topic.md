@@ -63,7 +63,7 @@ _None_
     {
       "description": "parliament - lordslibrary - research-briefing - Powered by RSSHub",
       "errorAt": "2026-05-07T03:28:01.304Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "502 Bad Gateway\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "68554046044185600",
       "image": null,
       "ownerUserId": null,

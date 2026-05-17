@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "新着 - ドラえもんチャンネル - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T13:20:08.930Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "70014144165769216",
       "image": "https://dora-world.com/assets/images/DORAch_web-touch-icon.png",
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 32,
   "location": "tag.ts",
   "maintainers": [
     "hoilc"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "4Gamers - #限時免費 - Powered by RSSHub",
       "errorAt": "2026-02-26T04:40:22.335Z",
-      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78994/trash-goblin-and-arranger-are-free-to-keep-on-epic-games-store-this-week\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79037/livingbattle-is-free-to-keep-on-steam\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79044/just-move-fall-dungeon-endless-abyss-is-free-to-keep-on-steam\n",
+      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79170/vaudeville-epic-games-store-giveaway-limited-time-free\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79170/vaudeville-epic-games-store-giveaway-limited-time-free\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79169/terrors-to-unveil-day-off-is-free-to-keep-on-steam\n",
       "id": "66771599303537674",
       "image": null,
       "ownerUserId": null,

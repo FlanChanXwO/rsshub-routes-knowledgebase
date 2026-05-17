@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 要闻动态
+# 中华人民共和国应急管理部 - 要闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/mee/ywdt/:category?`
 - Route Name: `要闻动态`
 - Example: `/gov/mee/ywdt/hjywnews`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liuxsdev`

@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 政府新闻
+# 中华人民共和国应急管理部 - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/cn/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/cn/news/bm`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, howfool`
@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 132,
+  "heat": 131,
   "location": "cn/news/index.ts",
   "maintainers": [
     "EsuRt",

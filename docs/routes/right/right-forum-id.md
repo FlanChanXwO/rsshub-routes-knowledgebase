@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 515,
+  "heat": 514,
   "location": "forum.ts",
   "maintainers": [
     "nczitzk"
@@ -74,7 +74,7 @@ _None_
     },
     {
       "description": "新手入门及其它(硬件) - 恩山无线论坛 - Powered by RSSHub",
-      "errorAt": "2026-05-07T16:53:39.543Z",
+      "errorAt": "2026-05-15T19:29:53.238Z",
       "errorMessage": "[GET] \"https://www.right.com.cn/forum/forum-31-1.html\": <no response> fetch failed\n[GET] \"https://www.right.com.cn/forum/forum-31-1.html\": <no response> fetch failed\n",
       "id": "61252164758378512",
       "image": null,

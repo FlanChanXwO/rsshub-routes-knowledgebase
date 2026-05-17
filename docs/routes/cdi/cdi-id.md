@@ -66,7 +66,7 @@ _None_
     {
       "description": "综研国策 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
       "errorAt": "2025-12-25T11:11:36.802Z",
-      "errorMessage": "[GET] \"http://www.cdi.com.cn/Article/List?ColumnId=152\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "55135298544042027",
       "image": null,
       "ownerUserId": null,

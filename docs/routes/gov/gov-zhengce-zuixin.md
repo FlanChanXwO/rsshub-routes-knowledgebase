@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 最新政策
+# 中华人民共和国应急管理部 - 最新政策
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/zhengce/zuixin`
 - Route Name: `最新政策`
 - Example: `/gov/zhengce/zuixin`
@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2222,
+  "heat": 2221,
   "location": "zhengce/index.ts",
   "maintainers": [
     "SettingDust",

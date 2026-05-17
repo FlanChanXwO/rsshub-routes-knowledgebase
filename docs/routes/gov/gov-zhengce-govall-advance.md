@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 信息稿件
+# 中华人民共和国应急管理部 - 信息稿件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/zhengce/govall/:advance?`
 - Route Name: `信息稿件`
 - Example: `/gov/zhengce/govall/orpro=555&notpro=2&search_field=title`

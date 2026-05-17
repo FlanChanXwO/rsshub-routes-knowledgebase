@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "Uniqlo men new arrivals in sg - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T23:37:50.672Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "41147805268337675",
       "image": null,
       "ownerUserId": null,

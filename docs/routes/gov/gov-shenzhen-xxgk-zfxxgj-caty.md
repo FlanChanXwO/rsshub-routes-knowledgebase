@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 深圳市人民政府
+# 中华人民共和国应急管理部 - 深圳市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/shenzhen/xxgk/zfxxgj/:caty`
 - Route Name: `深圳市人民政府`
 - Example: `/gov/shenzhen/xxgk/zfxxgj/tzgg`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `laoxua`

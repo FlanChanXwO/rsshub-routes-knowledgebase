@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 168,
+  "heat": 170,
   "location": "bbs/official.ts",
   "maintainers": [
     "CaoMeiYouRen"
@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "米游社 - 原神 - 公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T02:47:45.525Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "65750657186191360",
       "image": null,
       "ownerUserId": null,

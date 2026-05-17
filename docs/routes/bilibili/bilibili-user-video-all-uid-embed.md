@@ -62,7 +62,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-02-20T14:10:00.367Z",
-      "errorMessage": "[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://api.bilibili.com/x/space/wbi/arc/search?mid=520819684&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&dm_img_list=[{\\\"x\\\":6269,\\\"y\\\":-1470,\\\"z\\\":0,\\\"timestamp\\\":21,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2&w_rid=cc1070667d5654bb12dadfc38db4f59a&wts=1778676460\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n502 Bad Gateway\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

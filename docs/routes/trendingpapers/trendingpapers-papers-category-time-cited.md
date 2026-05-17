@@ -67,7 +67,7 @@ _None_
     {
       "description": "Trending Papers on arXiv.org | All categories | Since beginning | Cited and uncited papers | - Powered by RSSHub",
       "errorAt": "2025-07-03T16:12:00.755Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=Since beginning&cc=Cited and uncited papers&c=All categories\": <no response> fetch failed\n",
       "id": "54930355946094592",
       "image": null,
       "ownerUserId": null,
@@ -79,7 +79,7 @@ _None_
     {
       "description": "Trending Papers on arXiv.org | Computer Science - Computer Vision and Pattern Recognition | 7 days | Only cited papers | - Powered by RSSHub",
       "errorAt": "2025-07-03T16:14:02.595Z",
-      "errorMessage": "[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=7 days&cc=Only cited papers&c=Computer Science - Computer Vision and Pattern Recognition\": <no response> fetch failed\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "98721121066834944",
       "image": null,
       "ownerUserId": null,

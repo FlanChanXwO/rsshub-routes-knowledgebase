@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 新闻
+# 中华人民共和国应急管理部 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/moe/:type`
 - Route Name: `新闻`
 - Example: `/gov/moe/policy_anal`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Crawler995`

@@ -155,26 +155,26 @@
   ],
   "topFeeds": [
     {
-      "description": "风控不是业务的敌人！46号令终身问责背景下，国企供应链风控如何从“背锅侠”逆袭成“护航员”？ - Powered by RSSHub",
+      "description": "打击“开票经济”误伤正常大宗商品贸易？税务总局纠偏：未经核查不得简单搞“一刀切”，严禁随意停票、限票！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 风控不是业务的敌人！46号令终身问责背景下，国企供应链风控如何从“背锅侠”逆袭成“护航员”？",
+      "title": "10000万联网 - 打击“开票经济”误伤正常大宗商品贸易？税务总局纠偏：未经核查不得简单搞“一刀切”，严禁随意停票、限票！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },
     {
-      "description": "开票受限、业务被叫停！2026央国企贸易圈大清洗：融资性贸易、开票经济一个不留，再不懂全流程合规与风控，下个被追责的就是你！ - Powered by RSSHub",
+      "description": "国资委重磅发文：绿色低碳供应链成为央企硬性绩效考核！不懂“绿”，央企领导的帽子和票子可能不稳！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "166018536566226944",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx",
-      "title": "10000万联网 - 开票受限、业务被叫停！2026央国企贸易圈大清洗：融资性贸易、开票经济一个不留，再不懂全流程合规与风控，下个被追责的就是你！",
+      "title": "10000万联网 - 国资委重磅发文：绿色低碳供应链成为央企硬性绩效考核！不懂“绿”，央企领导的帽子和票子可能不稳！",
       "type": "feed",
       "url": "rsshub://10000link/info"
     }

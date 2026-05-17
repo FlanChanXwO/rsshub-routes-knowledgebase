@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "code-changelog.ts",
   "maintainers": [
     "rmaced0"

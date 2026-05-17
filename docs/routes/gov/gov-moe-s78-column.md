@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 司局通知
+# 中华人民共和国应急管理部 - 司局通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/moe/s78/:column`
 - Route Name: `司局通知`
 - Example: `/gov/moe/s78/A13`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

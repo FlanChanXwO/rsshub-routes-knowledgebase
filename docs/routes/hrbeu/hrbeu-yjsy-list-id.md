@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "研究生院-通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T16:26:20.210Z",
+      "errorMessage": "[GET] \"http://yjsy.hrbeu.edu.cn/2981/list.htm\": <no response> fetch failed\n",
       "id": "84175752054718464",
       "image": null,
       "ownerUserId": null,

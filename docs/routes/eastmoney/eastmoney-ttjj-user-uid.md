@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 61,
+  "heat": 62,
   "location": "ttjj/user.ts",
   "maintainers": [
     "zidekuls"
@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "范范爱养基 的动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T08:31:58.108Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "63493307705393157",
       "image": null,
       "ownerUserId": null,

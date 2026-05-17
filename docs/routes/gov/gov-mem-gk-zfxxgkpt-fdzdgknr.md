@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 法定主动公开内容
+# 中华人民共和国应急管理部 - 法定主动公开内容
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
 - Route Name: `法定主动公开内容`
 - Example: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `skeaven`

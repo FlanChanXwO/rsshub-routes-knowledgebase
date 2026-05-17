@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 获取国家医师资格考试通知
+# 中华人民共和国应急管理部 - 获取国家医师资格考试通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/jinan/healthcommission/medical_exam_notice`
 - Route Name: `获取国家医师资格考试通知`
 - Example: `/gov/jinan/healthcommission/medical_exam_notice`

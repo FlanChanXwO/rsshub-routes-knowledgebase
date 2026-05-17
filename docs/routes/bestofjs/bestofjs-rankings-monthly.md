@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "Monthly rankings of the most popular JavaScript projects on Best of JS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T15:53:16.939Z",
+      "errorMessage": "Authentication failed. Access denied.\n/bestofjs/rankings/monthly\n500 Internal Server Error\n",
       "id": "183448355717175296",
       "image": null,
       "ownerUserId": null,

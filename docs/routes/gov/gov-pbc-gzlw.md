@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 工作论文
+# 中华人民共和国应急管理部 - 工作论文
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/pbc/gzlw`
 - Route Name: `工作论文`
 - Example: `/gov/pbc/gzlw`
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国人民银行 工作论文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T01:52:36.108Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "155494563509898240",
       "image": null,
       "ownerUserId": null,

@@ -140,8 +140,8 @@ _None_
     },
     {
       "description": "undefined - Web 3.0 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T20:47:52.899Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "73179190070635520",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

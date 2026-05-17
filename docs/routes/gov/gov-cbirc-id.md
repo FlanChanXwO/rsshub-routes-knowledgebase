@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 分类
+# 中华人民共和国应急管理部 - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/cbirc/:id?`
 - Route Name: `分类`
 - Example: `/gov/cbirc/:id?`

@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "36氪 - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T20:36:07.613Z",
+      "errorMessage": "Unterminated string in JSON at position 2122 (line 1 column 2123)\nUnterminated string in JSON at position 2122 (line 1 column 2123)\n502 Bad Gateway\nUnterminated string in JSON at position 2122 (line 1 column 2123)\nUnterminated string in JSON at position 2122 (line 1 column 2123)\nUnterminated string in JSON at position 2122 (line 1 column 2123)\n",
       "id": "41572238273905665",
       "image": null,
       "ownerUserId": null,

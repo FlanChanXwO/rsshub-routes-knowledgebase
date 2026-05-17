@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "网易公开课 - 精品课程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T23:42:25.310Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "56449674745420800",
       "image": null,
       "ownerUserId": null,

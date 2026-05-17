@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 货币政策司公开市场交易公告
+# 中华人民共和国应急管理部 - 货币政策司公开市场交易公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/pbc/tradeAnnouncement`
 - Route Name: `货币政策司公开市场交易公告`
 - Example: `/gov/pbc/tradeAnnouncement`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`

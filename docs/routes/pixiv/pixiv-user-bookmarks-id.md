@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Egami(えがみ) 的 pixiv 最新收藏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T09:37:56.829Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "198288028097028112",
       "image": null,
       "ownerUserId": null,

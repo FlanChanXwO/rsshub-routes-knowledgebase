@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "客家電視是屬於全民、以至於全世界客家族群的頻道，亦是為傳播客家文化而存在，定位為「全體客家族群之媒體」。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T19:48:21.195Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "167304163667564544",
       "image": null,
       "ownerUserId": null,

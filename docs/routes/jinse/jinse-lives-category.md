@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1057,
+  "heat": 1058,
   "location": "lives.ts",
   "maintainers": [
     "nczitzk",
@@ -98,7 +98,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "56701589104355328",
-      "image": "https://staticn.jinse.com.cn/w/img/b6900fe.png",
+      "image": "https://i3.wp.com/",
       "ownerUserId": null,
       "siteUrl": "https://jinse.com.cn/lives",
       "title": "金色财经 - 全部",

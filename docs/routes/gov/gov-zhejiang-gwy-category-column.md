@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 通知
+# 中华人民共和国应急管理部 - 通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/zhejiang/gwy/:category?/:column?`
 - Route Name: `通知`
 - Example: `/gov/zhejiang/gwy/1`

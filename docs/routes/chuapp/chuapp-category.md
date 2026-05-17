@@ -88,6 +88,18 @@
   ],
   "topFeeds": [
     {
+      "description": "触乐 - 每日聚焦 - Powered by RSSHub",
+      "errorAt": "2026-05-16T03:02:38.752Z",
+      "errorMessage": "500 Internal Server Error\n",
+      "id": "128265220294458368",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.chuapp.com/category/daily",
+      "title": "触乐 - 每日聚焦",
+      "type": "feed",
+      "url": "rsshub://chuapp/daily"
+    },
+    {
       "description": "触乐 - 触乐夜话 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,18 +110,6 @@
       "title": "触乐 - 触乐夜话",
       "type": "feed",
       "url": "rsshub://chuapp/night"
-    },
-    {
-      "description": "触乐 - 每日聚焦 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "128265220294458368",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.chuapp.com/category/daily",
-      "title": "触乐 - 每日聚焦",
-      "type": "feed",
-      "url": "rsshub://chuapp/daily"
     }
   ]
 }

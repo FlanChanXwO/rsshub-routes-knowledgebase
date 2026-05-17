@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T00:53:09.455Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "56446382044379136",
       "image": null,
       "ownerUserId": null,

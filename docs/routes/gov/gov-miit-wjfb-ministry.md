@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 文件发布
+# 中华人民共和国应急管理部 - 文件发布
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/miit/wjfb/:ministry`
 - Route Name: `文件发布`
 - Example: `/gov/miit/wjfb/ghs`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

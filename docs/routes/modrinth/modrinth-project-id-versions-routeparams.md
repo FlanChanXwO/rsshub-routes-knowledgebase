@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A lightweight permission based vault plugin that can store ANY item - Powered by RSSHub",
+      "description": "Show your HuskHomes homes and warps in an easy-to-use GUI menu. Updated to support Folia and latest versions. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582967983889408",
+      "id": "123851432297317376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/xquVwxlu",
-      "title": "AxVaults Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/fkUN2Wmv",
+      "title": "Updated-HuskHomesGUI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/xquVwxlu/versions"
+      "url": "rsshub://modrinth/project/fkUN2Wmv/versions"
     }
   ]
 }

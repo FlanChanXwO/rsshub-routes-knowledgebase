@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 浙江省人民政府-全省政府网站统一搜索
+# 中华人民共和国应急管理部 - 浙江省人民政府-全省政府网站统一搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
 - Route Name: `浙江省人民政府-全省政府网站统一搜索`
 - Example: `/gov/zj/search`
@@ -79,7 +79,7 @@ _None_
     {
       "description": "浙江省人民政府-全省政府网站统一搜索 - Powered by RSSHub",
       "errorAt": "2026-05-14T02:46:22.606Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[POST] \"https://search.zj.gov.cn/jsearchfront/interfaces/cateSearch.do\": <no response> fetch failed\n",
       "id": "139849368771468288",
       "image": null,
       "ownerUserId": null,

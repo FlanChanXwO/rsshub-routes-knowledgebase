@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "4KHD - Category: popular - Powered by RSSHub",
-      "errorAt": "2026-04-28T19:07:28.194Z",
-      "errorMessage": "l.map is not a function\nl.map is not a function\nl.map is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "144330669175630848",
       "image": null,
       "ownerUserId": null,

@@ -71,7 +71,7 @@ _None_
     {
       "description": "阿森纳 - 相关新闻 - Powered by RSSHub",
       "errorAt": "2026-04-30T13:01:21.446Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'base_info')\nCannot read properties of undefined (reading 'base_info')\n",
+      "errorMessage": "502 Bad Gateway\nCannot read properties of undefined (reading 'base_info')\n",
       "id": "73340530520921095",
       "image": "https://sd.qunliao.info/fastdfs5/M00/04/C8/rB8BO15q_yaAdgetAABZZa53gBI322.png",
       "ownerUserId": null,

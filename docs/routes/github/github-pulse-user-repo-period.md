@@ -76,18 +76,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "220767323256864796",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
-      "title": "openai/whisper weekly Pulse",
-      "type": "feed",
-      "url": "rsshub://github/pulse/openai/whisper/weekly"
-    },
-    {
       "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
       "url": "rsshub://github/pulse/datawhalechina/llm-universe"
+    },
+    {
+      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864795",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
+      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
     }
   ]
 }

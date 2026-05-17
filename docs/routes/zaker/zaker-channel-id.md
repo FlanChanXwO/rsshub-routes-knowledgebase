@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-05-12T03:12:25.686Z",
-      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a06527e8e9f090e553268ee\": <no response> fetch failed\n",
+      "errorAt": "2026-05-15T17:56:54.853Z",
+      "errorMessage": "cheerio.load() expects a string\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

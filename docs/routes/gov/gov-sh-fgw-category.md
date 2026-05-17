@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 上海市发展和改革委员会
+# 中华人民共和国应急管理部 - 上海市发展和改革委员会
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/sh/fgw/:category{.+}?`
 - Route Name: `上海市发展和改革委员会`
 - Example: `/gov/sh/fgw/fgw_zxxxgk`
@@ -107,8 +107,8 @@
   "topFeeds": [
     {
       "description": "最新政策 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T00:23:06.866Z",
+      "errorMessage": "[GET] \"https://fgw.sh.gov.cn/fgw_zxxxgk/index.html\": <no response> fetch failed\n",
       "id": "66776163809391616",
       "image": null,
       "ownerUserId": null,

@@ -80,7 +80,7 @@ _None_
     {
       "description": "Hanime1 202602 新番 - Powered by RSSHub",
       "errorAt": "2026-02-18T16:19:29.168Z",
-      "errorMessage": "[GET] \"https://hanime1.me/previews/202605\": 403 Forbidden\nFailed to fetch\n[GET] \"https://hanime1.me/previews/202605\": 403 Forbidden\n[GET] \"https://hanime1.me/previews/202605\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://hanime1.me/previews/202605\": 403 Forbidden\n502 Bad Gateway\n[GET] \"https://hanime1.me/previews/202605\": 403 Forbidden\n[GET] \"https://hanime1.me/previews/202605\": 403 Forbidden\n",
       "id": "141164425462660096",
       "image": null,
       "ownerUserId": null,
@@ -92,7 +92,7 @@ _None_
     {
       "description": "Hanime1 202504 新番 - Powered by RSSHub",
       "errorAt": "2026-02-25T23:45:57.858Z",
-      "errorMessage": "[GET] \"https://hanime1.me/previews/202504\": 403 Forbidden\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "133901229760109568",
       "image": null,
       "ownerUserId": null,

@@ -65,20 +65,20 @@ _None_
   "path": "/:site/:grouping/:name",
   "topFeeds": [
     {
-      "description": "ClickMe R18 - 女優 - Powered by RSSHub",
+      "description": "ClickMe R18 - A片 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "154786575534138368",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://r18.clickme.net/c/av",
-      "title": "ClickMe R18 - 女優",
+      "title": "ClickMe R18 - A片",
       "type": "feed",
       "url": "rsshub://clickme/r18/category/av"
     },
     {
       "description": "ClickMe R18 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-05-14T23:09:55.209Z",
+      "errorAt": "2026-05-15T15:01:55.835Z",
       "errorMessage": "[POST] \"https://api.clickme.net/article/list?key=clickme\": 404 Not Found\n",
       "id": "156717605498762240",
       "image": null,

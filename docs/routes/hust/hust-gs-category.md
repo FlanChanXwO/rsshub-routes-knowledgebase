@@ -434,8 +434,8 @@
   "topFeeds": [
     {
       "description": "新闻动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T13:55:53.881Z",
+      "errorMessage": "[GET] \"https://gs.hust.edu.cn/xwdt.htm\": <no response> fetch failed\n",
       "id": "73885560348288000",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
@@ -445,16 +445,16 @@
       "url": "rsshub://hust/gs/xwdt"
     },
     {
-      "description": "其他 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73886148848932864",
+      "description": "学位工作 - Powered by RSSHub",
+      "errorAt": "2026-05-14T21:48:22.222Z",
+      "errorMessage": "[GET] \"https://gs.hust.edu.cn/tzgg/xwgz.htm\": <no response> fetch failed\n",
+      "id": "73885326299630592",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/qt.htm",
-      "title": "华中科技大学研究生院 - 其他",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/xwgz.htm",
+      "title": "华中科技大学研究生院 - 学位工作",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/qt"
+      "url": "rsshub://hust/gs/tzgg/xwgz"
     }
   ],
   "url": "gs.hust.edu.cn"

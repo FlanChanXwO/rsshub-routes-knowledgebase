@@ -86,8 +86,8 @@
     },
     {
       "description": "量子位 - ebandeng - Powered by RSSHub",
-      "errorAt": "2026-05-15T02:37:29.882Z",
-      "errorMessage": "socket hang up\n",
+      "errorAt": "2026-05-15T18:41:51.851Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69701236541384704",
       "image": null,
       "ownerUserId": null,

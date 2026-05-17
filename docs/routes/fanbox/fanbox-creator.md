@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanbox/kuromomo"
     },
     {
-      "description": "Fanbox - Feather - Powered by RSSHub",
-      "errorAt": "2025-11-26T11:26:59.575Z",
-      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11900940\": 403 Forbidden\n",
-      "id": "82082879942475776",
-      "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/24059807/icon/aeWv4PxOsfgxu9I1n6OenEl5.jpeg",
+      "description": "这里是鬼针草！每个月我都会更新一幅白丝、黑丝题材的插图的，尺度在r15，谢谢大家的支持！ - Powered by RSSHub",
+      "errorAt": "2025-11-26T15:22:23.460Z",
+      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11755600\": 403 Forbidden\n[GET] \"https://api.fanbox.cc/post.info?postId=11594889\": 403 Forbidden\n",
+      "id": "140054677210474496",
+      "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/6049901/icon/FQky4DosFQb4M2L1WKK42DQ6.jpeg",
       "ownerUserId": null,
-      "siteUrl": "https://feather.fanbox.cc/",
-      "title": "Fanbox - Feather",
+      "siteUrl": "https://szcb911.fanbox.cc/",
+      "title": "Fanbox - 鬼針草",
       "type": "feed",
-      "url": "rsshub://fanbox/feather"
+      "url": "rsshub://fanbox/szcb911"
     }
   ]
 }

@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 国家统计局 通用
+# 中华人民共和国应急管理部 - 国家统计局 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/stats/*`
 - Route Name: `国家统计局 通用`
 - Example: `/gov/stats/sj/zxfb`

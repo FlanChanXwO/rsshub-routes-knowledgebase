@@ -77,14 +77,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "The latest news and updates from Cognition - Powered by RSSHub",
-      "errorAt": "2026-05-14T22:46:37.414Z",
-      "errorMessage": "[GET] \"https://cognition.ai/blog/1\": 404 Not Found\n",
+      "description": "Cognition builds autonomous software engineering agents - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "207531896770078720",
-      "image": "https://cognition.ai/assets/images/cover.jpg",
+      "image": "https://cognition.ai/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_9k65hDT9aFrVKgZciDHm5zhPT3Wn",
       "ownerUserId": null,
       "siteUrl": "https://cognition.ai/blog/1",
-      "title": "Cognition | Blog",
+      "title": "Blog | Cognition",
       "type": "feed",
       "url": "rsshub://cognition/blog"
     }

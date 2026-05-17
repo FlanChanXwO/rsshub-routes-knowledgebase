@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "百合小说生肉安利专楼 - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T22:07:33.866Z",
+      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=535989&ordertype=1\": 503 Service Unavailable\n[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=535989&ordertype=1\": 503 Service Unavailable\n",
       "id": "97881720287716352",
       "image": null,
       "ownerUserId": null,

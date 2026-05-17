@@ -116,8 +116,8 @@
   "topFeeds": [
     {
       "description": "资源动态-清华大学图书馆 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T18:53:15.428Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "55800849364779008",
       "image": "https://lib.tsinghua.edu.cn/undefined",
       "ownerUserId": null,

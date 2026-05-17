@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 武汉要闻
+# 中华人民共和国应急管理部 - 武汉要闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/wuhan/sy/whyw`
 - Route Name: `武汉要闻`
 - Example: `/gov/wuhan/sy/whyw`

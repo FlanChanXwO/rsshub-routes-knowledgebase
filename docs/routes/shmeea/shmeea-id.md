@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-15T20:18:19.227Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "92130275905288192",
       "image": null,
       "ownerUserId": null,

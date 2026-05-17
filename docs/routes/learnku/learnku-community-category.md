@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 164,
+  "heat": 165,
   "location": "topic.tsx",
   "maintainers": [
     "kayw-geek"
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "讨论话题包括编辑器、终端、Git、VSCode、PHPStorm、VIM 等开发者工具相关话题。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T01:27:44.742Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "58746729811026944",
       "image": null,
       "ownerUserId": null,

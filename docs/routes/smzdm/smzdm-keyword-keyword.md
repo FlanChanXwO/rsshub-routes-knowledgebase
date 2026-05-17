@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "绝对值 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T01:29:24.848Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n502 Bad Gateway\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n500 Internal Server Error\n",
       "id": "56874574824669184",
       "image": null,
       "ownerUserId": null,

@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
+      "description": "New contributors for zabbix/zabbix-docker - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84430164607162368",
+      "id": "95485494519570432",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
-      "title": "infiniflow/ragflow Contributors",
+      "siteUrl": "https://github.com/zabbix/zabbix-docker/graphs/contributors",
+      "title": "zabbix/zabbix-docker Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/infiniflow/ragflow"
+      "url": "rsshub://github/contributors/zabbix/zabbix-docker"
     },
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83173808754165760",
+      "id": "84958270281030656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

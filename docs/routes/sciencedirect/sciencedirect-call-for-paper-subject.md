@@ -72,7 +72,7 @@ _None_
     {
       "description": "Calls for Papers on ScienceDirect for subject: education - Powered by RSSHub",
       "errorAt": "2025-11-06T10:11:13.592Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/browse/calls-for-papers?subject=education\": 403 Forbidden\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "150383744963434496",
       "image": null,
       "ownerUserId": null,

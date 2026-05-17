@@ -90,8 +90,8 @@
     },
     {
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
-      "errorAt": "2026-05-14T23:19:03.119Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 149823078304929792",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149823078304929792",
       "image": null,
       "ownerUserId": null,

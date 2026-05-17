@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 微软寻求收购 AI 公司以摆脱对 OpenAI 依赖 2. Anthropic 高管：公司 90% 代码已由 AI 完成 3. Anthropic 企业采用率首超 OpenAI 4. OpenAI 回应 TanStack 供应链攻击：未发现用户数据泄露 5. Anthropic 推出 Claude for Small Business 瞄准中小企业 AI 应用洼地 6. 苹果探索在 App Store 纳入 AI 智能体 7. 阿里企业级 Agent 平台「悟空」开始逐步规模化放量 8. 马斯克的 xAI 正加紧推动华尔街公司使用 Grok 聊天机器人 9. 华为鸿蒙 HarmonyOS 6 终端设备数突破 6000 万 10. 字节跳动与上汽集团入股自变量科技 布局具身智能机器人 11. 苹果与 OpenAI 的合作关系出现裂痕 或将引发法律冲突 12. Anthropic 宣布提升 Claude Code 额度：每周限额叠加增长 50%，持续至 7 月 13 日 13. 消息称虎鲸文娱旗下妙鸭相机团队已于去年解散 14. 阿里云日均 Token 收入较 4 月初已增长五倍 15. 腾讯辟谣「AI 一位号即将离职」 16. 微信一半的人在适配鸿蒙 17. 传字节跳动剪映产品负责人张琪智已离职创业 - Powered by RSSHub",
+      "description": "1. OpenAI 因不满与苹果合作进展或诉诸法律 2. Anthropic 同意以 9000 亿美元估值开展融资轮的条款 3. OpenAI 宣布：ChatGPT 移动端支持 Codex 远程控制功能 4. xAI 正式推出 Grok Build 早期测试版 5. 阿里发布 Qoder 1.0 6. 百度成立模型委员会，统筹大模型研发布局 7. SpaceXAI 合并后流失逾 50 名核心员工，预训练团队仅剩数人 8. SpaceX 最早将于 6 月 11 日确定 IPO 价格，股票将于 6 月 12 日上市 9. 腾讯 AI 推出探索型 Vibe Coding 产品「吐司」 10. 特朗普：中方同意采购大豆能源及 200 架波音飞机 11. 女子称关闭支付宝支付功能被扣款捐赠 184 万 多方回应 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

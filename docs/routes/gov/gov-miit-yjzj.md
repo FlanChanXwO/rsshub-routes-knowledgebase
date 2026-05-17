@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 意见征集
+# 中华人民共和国应急管理部 - 意见征集
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/miit/yjzj`
 - Route Name: `意见征集`
 - Example: `/gov/miit/yjzj`
@@ -70,7 +70,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-08-18T08:30:02.233Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'set-cookie')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "180157875378420750",
       "image": null,
       "ownerUserId": null,

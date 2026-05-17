@@ -164,8 +164,8 @@
     },
     {
       "description": "宏观经济 - Powered by RSSHub",
-      "errorAt": "2026-05-14T19:32:04.789Z",
-      "errorMessage": "[GET] \"https://www.lhratings.com/research.html?type=1\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101364983690255360",
       "image": "https://www.lhratings.com/static/imgs/logo.png",
       "ownerUserId": null,

@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "全国今日生猪价格 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T03:17:33.305Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "58310184334730242",
       "image": null,
       "ownerUserId": null,

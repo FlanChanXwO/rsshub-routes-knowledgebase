@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "inwerwm's iwara - Videos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-16T00:53:11.300Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "60202923086415887",
       "image": null,
       "ownerUserId": null,

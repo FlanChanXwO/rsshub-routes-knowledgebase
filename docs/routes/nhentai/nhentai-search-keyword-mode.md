@@ -49,7 +49,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": true
   },
-  "heat": 157,
+  "heat": 155,
   "location": "search.ts",
   "maintainers": [
     "MegrezZhu",

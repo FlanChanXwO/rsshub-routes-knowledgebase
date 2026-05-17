@@ -62,7 +62,7 @@ _None_
     {
       "description": "汇聚优秀学人资源，致力于构建面向大众的交流平台。 - Powered by RSSHub",
       "errorAt": "2024-12-18T10:01:37.585Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn\": 403 Forbidden\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "86396529027751936",
       "image": "https://image.thepaper.cn/publish/interaction/image/3/27/850.png",
       "ownerUserId": null,

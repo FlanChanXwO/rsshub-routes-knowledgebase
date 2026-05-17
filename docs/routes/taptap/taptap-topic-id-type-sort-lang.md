@@ -100,16 +100,16 @@
       "url": "rsshub://taptap/topic/239372"
     },
     {
-      "description": "Phigros - 官方 - TapTap 论坛 - Powered by RSSHub",
+      "description": "Milthm（TapTap测试版） - 官方 - TapTap 论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "197299073968664580",
-      "image": "https://img-tc.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png",
+      "id": "197299073968664579",
+      "image": "https://img.tapimg.com/market/images/cc1c4008497a11526aaf70aebfb83ca3.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/165287/topic?type=official&sort=created",
-      "title": "Phigros - 官方 - TapTap 论坛",
+      "siteUrl": "https://www.taptap.cn/app/301888/topic?type=official&sort=created",
+      "title": "Milthm（TapTap测试版） - 官方 - TapTap 论坛",
       "type": "feed",
-      "url": "rsshub://taptap/topic/165287/official"
+      "url": "rsshub://taptap/topic/301888/official"
     }
   ]
 }

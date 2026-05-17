@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 关税政策文件
+# 中华人民共和国应急管理部 - 关税政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/mof/gss/:category?`
 - Route Name: `关税政策文件`
 - Example: `/gov/mof/gss`
-- URL: `hangzhou.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`
@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 71,
+  "heat": 72,
   "location": "mof/gss.ts",
   "maintainers": [
     "la3rence"

@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 拍卖信息 / 海关法规 / 最新文件
+# 中华人民共和国应急管理部 - 拍卖信息 / 海关法规 / 最新文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/customs/list/:gchannel?`
 - Route Name: `拍卖信息 / 海关法规 / 最新文件`
 - Example: `/gov/customs/list/paimai`

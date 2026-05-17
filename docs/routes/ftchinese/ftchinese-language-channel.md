@@ -90,7 +90,7 @@ _None_
     {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
       "errorAt": "2026-05-11T16:46:36.153Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'title')\nCannot read properties of undefined (reading 'title')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'title')\nFailed to fetch\n",
       "id": "41377818806739968",
       "image": null,
       "ownerUserId": null,

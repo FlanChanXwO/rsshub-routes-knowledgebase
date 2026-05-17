@@ -38,7 +38,7 @@ _None_
     "new-media"
   ],
   "example": "/panewslab/news",
-  "heat": 507,
+  "heat": 506,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
