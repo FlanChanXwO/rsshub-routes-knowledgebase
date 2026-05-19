@@ -38,7 +38,7 @@ _None_
     "reading"
   ],
   "example": "/fanqienovel/page/6621052928482348040",
-  "heat": 10,
+  "heat": 8,
   "location": "page.ts",
   "maintainers": [
     "TonyRL"
@@ -61,7 +61,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "83343016202188800",
-      "image": "https://p6-novel-sign.byteimg.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1778973455&x-signature=UfZa5GUM7HEc6V6f3aKUDuYL3H8%3D",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1779136634&x-signature=J8X4tMvhQDVCpI864FrmU4%2BSFFc%3D",
       "ownerUserId": null,
       "siteUrl": "https://fanqienovel.com/page/7143038691944959011",
       "title": "十日终焉 - 杀虫队队员",
@@ -73,7 +73,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "82692770486430720",
-      "image": "https://p3-novel-sign.byteimg.com/novel-pic/p2o72ee066c92a3759c16f57e3440f1090f~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1778975569&x-signature=xoSuYYOVBGj0zVRKWmEejJHzWMY%3D",
+      "image": "https://p6-novel-sign.byteimg.com/novel-pic/p2o72ee066c92a3759c16f57e3440f1090f~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1779149562&x-signature=oqLP1iXiOTmxTAT22r3ParvYx0I%3D",
       "ownerUserId": null,
       "siteUrl": "https://fanqienovel.com/page/7251428606465805347",
       "title": "北美悍警：从洛城巡警开始 - 冰临城下",

@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "hybrid automata - Powered by RSSHub",
+      "description": "glacier - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "189147357198696448",
+      "id": "175660145371323392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Hybrid%20automata&sort=0",
-      "title": "hybrid automata",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=glacier&sort=0",
+      "title": "glacier",
       "type": "feed",
-      "url": "rsshub://papers/query/Hybrid%20automata"
+      "url": "rsshub://papers/query/glacier"
     }
   ],
   "url": "papers.cool"

@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "文教授 的发帖 - Powered by RSSHub",
-      "errorAt": "2026-05-15T22:53:07.868Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150139249615693824",
       "image": null,
       "ownerUserId": null,

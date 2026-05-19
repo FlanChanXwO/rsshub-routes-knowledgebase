@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 3,
   "location": "oasis/user.ts",
   "maintainers": [
     "kt286"
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "设计师 - Powered by RSSHub",
-      "errorAt": "2026-05-15T16:59:10.855Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "217089827345700864",
       "image": null,
       "ownerUserId": null,

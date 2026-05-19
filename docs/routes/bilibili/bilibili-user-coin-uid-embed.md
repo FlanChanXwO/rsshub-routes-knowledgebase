@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18,
+  "heat": 17,
   "location": "coin.ts",
   "maintainers": [
     "DIYgod"
@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": "2025-08-23T16:57:55.470Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "180315219982777344",
+      "description": null,
+      "errorAt": "2025-08-01T02:09:52.147Z",
+      "errorMessage": "用户隐私设置未公开\n",
+      "id": "173927273945055233",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546793465874705",
-      "title": "undefined 的 bilibili 投币视频",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/3546793465874705"
+      "url": "rsshub://bilibili/user/coin/90361813"
     }
   ]
 }

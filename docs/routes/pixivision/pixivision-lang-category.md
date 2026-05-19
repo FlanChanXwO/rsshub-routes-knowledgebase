@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 313,
+  "heat": 312,
   "location": "index.ts",
   "maintainers": [
     "SnowAgar25"
@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T03:04:20.290Z",
+      "errorMessage": "502 Bad Gateway\n403 Forbidden\n500 Internal Server Error\n",
       "id": "58887079850550272",
       "image": null,
       "ownerUserId": null,

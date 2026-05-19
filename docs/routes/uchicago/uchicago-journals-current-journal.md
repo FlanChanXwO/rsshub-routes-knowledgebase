@@ -74,7 +74,7 @@ _None_
     {
       "description": "Lead Editor: Esteban Rossi-Hansberg Editors: John Asker, Andrew Atkeson, Leonardo Bursztyn, Gabriel Carroll, Melissa Dell, Rachel Griffith, David Lagakos, John List, Guido Lorenzoni, Francesca Molinari, Luigi Pistaferri, Bruno Strulovici, Christopher Walters - Powered by RSSHub",
       "errorAt": "2026-04-18T15:56:33.654Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "74375516441159680",
       "image": "https://www.journals.uchicago.edu/na101/home/literatum/publisher/uchicago/journals/content/jpe/2026/jpe.2026.134.issue-4/jpe.2026.134.issue-4/20260406/jpe.2026.134.issue-4.cover.png",
       "ownerUserId": null,

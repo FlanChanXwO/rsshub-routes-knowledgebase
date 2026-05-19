@@ -63,28 +63,28 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-21T21:51:21.614Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
-      "id": "128277758834280448",
+      "description": "天马失望 的贴吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "200148619577121792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
-      "title": "在逃双皮奶 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B",
+      "title": "天马失望 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
+      "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
     },
     {
-      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-24T13:11:20.764Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
-      "id": "104695101579488257",
+      "description": "狼獾赝月 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-02T19:26:02.118Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=狼獾赝月\": 403 Forbidden\n",
+      "id": "102690853823372288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
-      "title": "dengchunlai 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88",
+      "title": "狼獾赝月 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/dengchunlai"
+      "url": "rsshub://baidu/tieba/user/%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88"
     }
   ]
 }

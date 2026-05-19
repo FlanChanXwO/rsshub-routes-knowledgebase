@@ -183,7 +183,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 600,
+  "heat": 599,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -356,8 +356,8 @@
     },
     {
       "description": "安卓软件下载_Android应用APK下载 (破解版/去广告/纯净版) - 423Down - Powered by RSSHub",
-      "errorAt": "2026-05-15T18:23:25.983Z",
-      "errorMessage": "[GET] \"https://www.423down.com/apk\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68887846273620992",
       "image": "https://www.423down.com/wp-content/themes/D7/img/423Down.png",
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 76,
+  "heat": 75,
   "location": "tag.ts",
   "maintainers": [
     "FuryMartin"

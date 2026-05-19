@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://bilibili/user/channel/1567748478/358497"
     },
     {
-      "description": "九千CAE 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": "2025-08-14T08:58:11.179Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "93285690462814208",
-      "image": "https://i0.hdslb.com/bfs/face/3fb55ca27a557edcad3c5419cc6a2ef7a5de3017.jpg",
+      "description": "DIYgod 的 bilibili 频道 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57641453192576000",
+      "image": "https://i2.hdslb.com/bfs/face/9882696336717748a66cb70b0ed3f488f0cc9dad.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/31426242/channel/seriesdetail?sid=3119667",
-      "title": "九千CAE 的 bilibili 频道 Abaqus材料模型",
+      "siteUrl": "https://space.bilibili.com/2267573/channel/seriesdetail?sid=396050",
+      "title": "DIYgod 的 bilibili 频道 怪物猎人实况",
       "type": "feed",
-      "url": "rsshub://bilibili/user/channel/31426242/3119667"
+      "url": "rsshub://bilibili/user/channel/2267573/396050"
     }
   ]
 }

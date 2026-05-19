@@ -72,7 +72,7 @@ _None_
     {
       "description": "4Gamers - gentlemen-topic - Powered by RSSHub",
       "errorAt": "2026-02-23T07:49:01.760Z",
-      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79136/ark-recode-collab-with-aoi-hinamori\n",
+      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79193/adult-mobile-game-ark-re-code-x-aoi-hinamori-collab-part-2-hands-on-return-with-the-vampire-agent-for-the-2-half-anniversary\n",
       "id": "83442528914522112",
       "image": null,
       "ownerUserId": null,

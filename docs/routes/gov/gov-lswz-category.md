@@ -434,8 +434,8 @@
   "topFeeds": [
     {
       "description": "新闻发布 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T01:58:33.310Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67547296955634688",
       "image": "https://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
       "ownerUserId": null,

@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "「会免」最新讨论 - PSN中文站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-17T10:27:15.450Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "125916510049597440",
       "image": null,
       "ownerUserId": null,

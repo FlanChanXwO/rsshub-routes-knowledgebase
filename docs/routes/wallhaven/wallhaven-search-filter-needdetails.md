@@ -82,8 +82,8 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
   "topFeeds": [
     {
       "description": "Latest Wallpapers - wallhaven.cc - Powered by RSSHub",
-      "errorAt": "2026-05-15T12:08:52.653Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57995063243930624",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57995063243930624",
       "image": null,
       "ownerUserId": null,

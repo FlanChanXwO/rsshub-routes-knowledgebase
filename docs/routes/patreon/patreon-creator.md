@@ -50,7 +50,7 @@ _None_
       }
     ]
   },
-  "heat": 12,
+  "heat": 14,
   "location": "feed.tsx",
   "maintainers": [
     "TonyRL"
@@ -70,28 +70,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Yaoi/Gay AI artworks. (NSFW) - Powered by RSSHub",
+      "description": "Creating Erotic Games - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "107187512318883840",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12481247/88cace64bc5f4c1581085f33ed4e684d/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/7.png?token-hash=_O_4LmFdnZEUvLwvv-kTbI1tWZMi-XUjO665lA64KGA%3D&token-time=1780185600",
+      "id": "160927229421421568",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/1718915/cd306e172aa64f2b9c0fcefb033bdd03/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/2.png?token-hash=d5U1PmCVYm72EHp64wKWpyrTXf1gL9s-wUY8dSFgnRM%3D&token-time=1778284800",
       "ownerUserId": null,
-      "siteUrl": "https://www.patreon.com/Valarant",
-      "title": "Valarant",
+      "siteUrl": "https://www.patreon.com/hizorgames",
+      "title": "Hizor Games",
       "type": "feed",
-      "url": "rsshub://patreon/Valarant"
+      "url": "rsshub://patreon/hizorgames"
     },
     {
-      "description": "老雷｜投資人 - Powered by RSSHub",
+      "description": "Creating Artworks with AI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "248768060163265536",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/7369407/b41e9121743d43228402964949ffc646/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/6.jpeg?token-hash=vAGokXNu3gVVhr8ltQVb3K_c93ErzU4m8Ic_l_xpgGw%3D&token-time=1778284800",
+      "id": "126027477923179520",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12912371/799d4e2072584883a7a1d44a7cffe58a/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/15.jpg?token-hash=3bzG1WE6PrlM5sxwpScJn9DiQBIdpgAc1T_ntqEEuZ4%3D&token-time=1780099200",
       "ownerUserId": null,
-      "siteUrl": "https://www.patreon.com/themarketmemo",
-      "title": "交易筆記 · TheMarketMemo",
+      "siteUrl": "https://www.patreon.com/aikira758",
+      "title": "AIKira",
       "type": "feed",
-      "url": "rsshub://patreon/themarketmemo"
+      "url": "rsshub://patreon/aikira758"
     }
   ]
 }

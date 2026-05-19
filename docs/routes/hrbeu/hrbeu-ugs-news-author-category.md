@@ -124,8 +124,8 @@ category 列表：
   "topFeeds": [
     {
       "description": "哈尔滨工程大学本科生院工作通知 - Powered by RSSHub",
-      "errorAt": "2026-05-15T17:12:26.828Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82712133983555608",
       "image": null,
       "ownerUserId": null,

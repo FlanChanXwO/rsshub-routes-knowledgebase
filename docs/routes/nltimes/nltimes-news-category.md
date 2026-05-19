@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "NL Times -- Top Stories - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T01:13:06.169Z",
+      "errorMessage": "[GET] \"https://www.nltimes.nl/top-stories\": 403 Forbidden\n",
       "id": "59769816692412416",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@
     },
     {
       "description": "NL Times -- Politics - Powered by RSSHub",
-      "errorAt": "2026-05-15T04:07:31.980Z",
-      "errorMessage": "[GET] \"https://www.nltimes.nl/categories/politics\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "180670433614968832",
       "image": null,
       "ownerUserId": null,

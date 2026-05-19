@@ -92,8 +92,8 @@
   "topFeeds": [
     {
       "description": "Skebetter Manga - 人気 - Powered by RSSHub",
-      "errorAt": "2026-05-15T20:12:44.054Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70726183814120448",
       "image": null,
       "ownerUserId": null,

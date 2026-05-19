@@ -118,7 +118,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e5%85%a9%e5%b2%b8/article/20260515/s00004/1778856755620/%e4%bb%8b%e7%b4%b9%e3%80%8c%e7%bf%92%e7%89%b9%e6%9c%83%e3%80%8d%e6%88%90%e6%9e%9c-%e7%8e%8b%e6%af%85-%e4%b8%ad%e7%be%8e%e5%90%8c%e6%84%8f%e6%88%90%e7%ab%8b%e8%b2%bf%e6%98%93%e5%92%8c%e6%8a%95%e8%b3%87%e7%90%86%e4%ba%8b%e6%9c%83\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://finance.mingpao.com/fin/instantp/20260517/1779016349911/%e5%8d%81%e5%a4%a7%e5%b1%8b%e8%8b%91%e5%91%a8%e6%9c%ab12%e5%ae%97%e6%88%90%e4%ba%a4-%e5%a4%aa%e5%8f%a4%e5%9f%8e%e4%bd%944%e5%ae%97%e6%9c%80%e6%97%ba\\\" target=\\\"blank\": 403 Forbidden\nFailed to fetch\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,
@@ -130,7 +130,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260515/s00001/1778780954784/%e4%b8%ad%e7%be%8e%e6%96%b0%e5%ae%9a%e4%bd%8d-%e5%bb%ba%e8%a8%ad%e6%80%a7%e6%88%b0%e7%95%a5%e7%a9%a9%e5%ae%9a%e9%97%9c%e4%bf%82-%e7%bf%92-%e5%90%88%e4%bd%9c%e7%82%ba%e4%b8%bb%e7%ab%b6%e7%88%ad%e6%9c%89%e5%ba%a6-%e7%89%b9%e6%9c%97%e6%99%ae%e9%82%809%e6%9c%88%e8%a8%aa%e7%be%8e\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260517/s00001/1778954704575/icu%e6%93%ac%e7%8e%87%e5%85%88%e6%95%b4%e6%94%b9-%e7%a0%94%e6%8b%86%e8%b5%b0%e5%bb%ba%e7%af%89%e4%be%8b%e8%81%b7%e8%83%bd-%e6%88%bf%e5%b1%80%e7%a8%b1%e4%b8%8d%e6%99%82%e6%aa%a2%e8%a8%8e-%e5%89%8d%e9%ab%98%e5%ae%98%e6%86%82%e6%8e%a5%e6%89%8b%e9%83%a8%e9%96%80%e9%9b%a3%e6%87%89%e4%bb%98\": 403 Forbidden\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

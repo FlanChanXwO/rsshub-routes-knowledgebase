@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of draxosdragon - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of allsonwa - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "79207933856438272",
+      "id": "79208565277485056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/draxosdragon",
-      "title": "Fur Affinity | Gallery of draxosdragon",
+      "siteUrl": "https://www.furaffinity.net/gallery/allsonwa",
+      "title": "Fur Affinity | Gallery of allsonwa",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/draxosdragon/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/allsonwa/nsfw"
     }
   ],
   "url": "furaffinity.net"

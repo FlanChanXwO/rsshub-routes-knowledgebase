@@ -77,7 +77,7 @@
     {
       "description": null,
       "errorAt": "2025-06-08T19:57:28.293Z",
-      "errorMessage": "[GET] \"https://www.95mm.vip/category-2/list-1/index.html?page=1\": 404 Not Found\n[GET] \"https://www.95mm.vip/category-2/list-1/index.html?page=1\": 404 Not Found\n[GET] \"https://www.95mm.vip/category-2/list-1/index.html?page=1\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.95mm.vip/category-2/list-1/index.html?page=1\": 404 Not Found\n[GET] \"https://www.95mm.vip/category-2/list-1/index.html?page=1\": 404 Not Found\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "154611732399652877",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@
     {
       "description": null,
       "errorAt": "2025-06-08T19:57:27.501Z",
-      "errorMessage": "[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 403 Forbidden\n[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "154611732399652876",
       "image": null,
       "ownerUserId": null,

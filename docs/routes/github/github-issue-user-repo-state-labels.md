@@ -44,7 +44,7 @@ _None_
     "programming"
   ],
   "example": "/github/issue/DIYgod/RSSHub/open",
-  "heat": 628,
+  "heat": 633,
   "location": "issue.ts",
   "maintainers": [
     "HenryQW",

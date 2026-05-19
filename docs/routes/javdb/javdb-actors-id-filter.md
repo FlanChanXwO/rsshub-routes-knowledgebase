@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4933,
+  "heat": 4940,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "桃乃木香奈 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-05-15T23:45:44.528Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\n[GET] \"https://javdb.com/actors/0dKX\": <no response> fetch failed\nFailed to fetch\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,

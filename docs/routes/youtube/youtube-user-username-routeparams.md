@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 314377,
+  "heat": 314256,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -106,13 +106,13 @@
       "url": "rsshub://youtube/user/@AndrejKarpathy"
     },
     {
-      "description": "We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe AI will have a vast impact on the world. Anthropic is dedicated to building systems that people can rely on and generating research about the opportunities and risks of AI. - Powered by RSSHub",
+      "description": "We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe AI will have ... - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57461667496141824",
       "image": "https://yt3.googleusercontent.com/ux-GXUpB4PkI-qXVOpj9gGEiCkytT0Q78ka4srlxOm_Y3m1gEh5qy8Vu6vTjGSDztMT0NybtC7I=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
-      "siteUrl": "https://www.youtube.com/@anthropic-ai",
+      "siteUrl": "https://www.youtube.com/channel/UCrDwWp7EBBv4NwvScIpBDOA",
       "title": "Anthropic - YouTube",
       "type": "feed",
       "url": "rsshub://youtube/user/%40anthropic-ai"

@@ -98,8 +98,8 @@
     },
     {
       "description": "三立新聞網 - 政治 - Powered by RSSHub",
-      "errorAt": "2026-05-15T21:27:09.966Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88520448616402944",
       "image": null,
       "ownerUserId": null,

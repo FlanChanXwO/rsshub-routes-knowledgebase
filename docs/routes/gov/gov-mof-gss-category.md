@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T01:33:30.666Z",
+      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcefabu/\": <no response> fetch failed\n",
       "id": "133069318957962240",
       "image": null,
       "ownerUserId": null,

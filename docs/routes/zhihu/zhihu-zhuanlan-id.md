@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1879,
+  "heat": 1880,
   "location": "zhuanlan.ts",
   "maintainers": [
     "DIYgod"

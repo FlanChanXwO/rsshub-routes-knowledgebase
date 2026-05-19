@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "blog.ts",
   "maintainers": [
     "Kjasn"

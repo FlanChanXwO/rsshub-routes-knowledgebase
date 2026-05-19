@@ -64,7 +64,7 @@ _None_
     {
       "description": "youbao5266的作品 - 快手 - Powered by RSSHub",
       "errorAt": "2026-05-15T02:17:36.166Z",
-      "errorMessage": "Navigating frame was detached\npage.goto: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to \"https://www.kuaishou.com/\", waiting until \"domcontentloaded\"\n\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "147602391664470016",
       "image": null,
       "ownerUserId": null,

@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "最新新聞即時報：24小時不間斷直擊真相｜壹蘋新聞網 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-17T19:48:21.885Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "60959342537594880",
       "image": null,
       "ownerUserId": null,

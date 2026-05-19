@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/05/13/world/asia/xi-trump-china-us-taiwan-iran.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/05/16/world/europe/hantavirus-hondius-cruise.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

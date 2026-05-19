@@ -100,8 +100,8 @@ Note: If you want to track a specific post's content changes (e.g., first post w
     },
     {
       "description": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer] - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T01:07:43.957Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "250523197875333120",
       "image": null,
       "ownerUserId": null,

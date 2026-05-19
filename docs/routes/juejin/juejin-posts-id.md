@@ -85,7 +85,7 @@ _None_
       "url": "rsshub://juejin/posts/1838039172387262"
     },
     {
-      "description": "《Three.js 通关秘籍》《React 通关秘籍》《Nest 通关秘籍》《前端调试通关秘籍》《TypeScript 类型体操通关秘籍》《Babel 插件通关秘籍》作者，最近在“神光的幸福生活”公众号更《前端转 Agent 全栈通关秘籍》 - Powered by RSSHub",
+      "description": "《React 通关秘籍》《Nest 通关秘籍》《前端调试通关秘籍》《TypeScript 类型体操通关秘籍》等 7 本小册作者，最近在“神光的幸福生活”公众号更《前端转 Agent 全栈通关秘籍》 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41215011978385459",

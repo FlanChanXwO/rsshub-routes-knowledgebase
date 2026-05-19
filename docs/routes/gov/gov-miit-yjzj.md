@@ -70,7 +70,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-08-18T08:30:02.233Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'set-cookie')\n",
       "id": "180157875378420750",
       "image": null,
       "ownerUserId": null,

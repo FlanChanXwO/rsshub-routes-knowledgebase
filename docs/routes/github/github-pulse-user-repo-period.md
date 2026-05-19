@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://github/pulse/datawhalechina/llm-universe"
     },
     {
-      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
+      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864795",
+      "id": "220767323256864791",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
-      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
+      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
+      "title": "haoheliu/AudioLDM weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
+      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
     }
   ]
 }

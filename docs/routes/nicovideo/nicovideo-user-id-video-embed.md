@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "十六夜カズヤP - ニコニコ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-17T23:54:10.473Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "173365214757950464",
       "image": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/321/3219731.jpg?1422604697",
       "ownerUserId": null,

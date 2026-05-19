@@ -76,10 +76,10 @@ _None_
   "topFeeds": [
     {
       "description": "藤ちょこ（藤原） 的 pixiv 最新动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T00:38:37.331Z",
+      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://app-api.pixiv.net/v1/user/illusts?filter=for_ios&user_id=27517\": 400 Bad Request\n",
       "id": "41679126529608704",
-      "image": "https://i.pixiv.re/user-profile/img/2022/02/03/15/54/20/22159592_fce9f5c7a908c9b601dc7e9da7a412a3_170.jpg",
+      "image": "https://pixiv.rss3.workers.dev/user-profile/img/2022/02/03/15/54/20/22159592_fce9f5c7a908c9b601dc7e9da7a412a3_170.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.pixiv.net/users/27517",
       "title": "藤ちょこ（藤原） 的 pixiv 动态",
@@ -91,7 +91,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "52720946495913984",
-      "image": "https://i.pixiv.re/user-profile/img/2024/06/21/11/54/21/26020985_15d347f457455848d0d56acaab7f180a_170.png",
+      "image": "https://pixiv.rss3.workers.dev/user-profile/img/2024/06/21/11/54/21/26020985_15d347f457455848d0d56acaab7f180a_170.png",
       "ownerUserId": null,
       "siteUrl": "https://www.pixiv.net/users/6662895",
       "title": "ATDAN- 的 pixiv 动态",

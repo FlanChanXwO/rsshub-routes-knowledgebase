@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1400743,
+  "heat": 1400749,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -98,8 +98,8 @@ _None_
   "topFeeds": [
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 0 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
-      "errorAt": "2026-05-15T16:35:59.935Z",
-      "errorMessage": "Failed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\n502 Bad Gateway\nFailed to fetch\n",
+      "errorAt": "2026-05-16T07:54:07.332Z",
+      "errorMessage": "Failed to fetch\nNavigating frame was detached\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\n502 Bad Gateway\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,
@@ -111,7 +111,7 @@ _None_
     {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
-      "errorMessage": "Failed to fetch\n502 Bad Gateway\nFailed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
+      "errorMessage": "Failed to fetch\n502 Bad Gateway\nFailed to fetch\nNavigating frame was detached\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "68661468126774272",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q8atfr8n6005p9bl8hqmi9p1q1h18o?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

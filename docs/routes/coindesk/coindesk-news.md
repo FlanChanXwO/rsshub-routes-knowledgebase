@@ -73,7 +73,7 @@ _None_
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
       "errorAt": "2026-05-14T21:56:42.058Z",
-      "errorMessage": "[GET] \"https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/business/2026/05/15/saudi-arabia-is-tokenizing-its-multi-trillion-dollar-economy-to-protect-its-wealth-from-global-shocks\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.coindesk.com/business/2026/05/17/japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trusts\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/policy/2026/05/17/the-clarity-act-took-a-step-forward-state-of-crypto\": 429 Too Many Requests\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

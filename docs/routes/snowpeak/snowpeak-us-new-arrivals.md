@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "us-new-arrivals.tsx",
   "maintainers": [
     "EthanWng97"

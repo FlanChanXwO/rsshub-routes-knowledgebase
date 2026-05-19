@@ -72,7 +72,7 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3063,
+  "heat": 3064,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -95,8 +95,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
   "topFeeds": [
     {
       "description": "YouTube channel Coding with Lewis - Powered by RSSHub",
-      "errorAt": "2026-05-15T14:13:35.056Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nfetch failed\n502 Bad Gateway\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "143637676052105216",
       "image": "https://yt3.googleusercontent.com/CsruQ_I1lU51KzpO58FHQIpzuQneCdmJOOLsmy_usGKQANxgnJ-cK6kNylwQYhY0LYwVrp3EHQ=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

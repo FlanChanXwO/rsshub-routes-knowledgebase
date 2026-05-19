@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1799,
+  "heat": 1800,
   "location": "blog.ts",
   "maintainers": [
     "Lyunvy"

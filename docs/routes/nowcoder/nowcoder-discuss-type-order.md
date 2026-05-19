@@ -68,7 +68,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-26T04:23:58.101Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "149642094386478112",
       "image": null,
       "ownerUserId": null,

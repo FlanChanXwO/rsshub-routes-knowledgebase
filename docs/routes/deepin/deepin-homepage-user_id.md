@@ -61,7 +61,7 @@ _None_
     {
       "description": "广雅居士/deepin论坛主页 - Powered by RSSHub",
       "errorAt": "2025-08-01T09:57:01.786Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://bbs.deepin.org/api/v1/user/thread?date_type=0&limit=10&offset=0&user_id=78326\": 403 Forbidden\n",
       "id": "63580812692062208",
       "image": null,
       "ownerUserId": null,

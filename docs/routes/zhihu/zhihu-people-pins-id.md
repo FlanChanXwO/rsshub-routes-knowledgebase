@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 69,
+  "heat": 68,
   "location": "pin/people.ts",
   "maintainers": [
     "xyqfer"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "王海的知乎想法 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-17T18:13:38.687Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "108005640078193664",
       "image": null,
       "ownerUserId": null,

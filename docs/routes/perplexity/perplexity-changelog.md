@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "changelog.ts",
   "maintainers": [
     "xbot"
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates and changes from Perplexity - Powered by RSSHub",
-      "errorAt": "2026-05-15T19:24:13.251Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "241365598746245120",
       "image": "https://framerusercontent.com/assets/YD0FzGopY3nozAz8P9GIcUVdMk.png",
       "ownerUserId": null,

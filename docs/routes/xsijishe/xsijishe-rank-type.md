@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4814,
+  "heat": 4813,
   "location": "rank.ts",
   "maintainers": [
     "akynazh",
@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "司机社综合月排行榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T03:14:53.094Z",
+      "errorMessage": "Failed to fetch\n502 Bad Gateway\n524 Receive timeout from origin\n[GET] \"https://xsijishe.com/portal.php\": 403 Forbidden\n[GET] \"https://xsijishe.com/portal.php\": <no response> fetch failed\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /home/sbx_user1051/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n[GET] \"https://xsijishe.com/portal.php\": 403 Forbidden\nFailed to fetch\n",
       "id": "41511702474276884",
       "image": null,
       "ownerUserId": null,

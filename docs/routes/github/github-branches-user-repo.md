@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "kevoreilly/CAPEv2 Branches - Powered by RSSHub",
-      "errorAt": "2026-05-16T02:59:05.422Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104426050887270400",
       "image": null,
       "ownerUserId": null,

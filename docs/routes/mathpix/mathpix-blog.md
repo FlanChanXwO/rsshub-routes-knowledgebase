@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "News, updates, and insights from the Mathpix team. - Powered by RSSHub",
-      "errorAt": "2026-05-15T21:37:41.041Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "157837964397582336",
       "image": "https://mathpix.com/images/og-default.png",
       "ownerUserId": null,

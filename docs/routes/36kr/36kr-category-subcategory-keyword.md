@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 最新资讯频道 | 快讯        | 推荐资讯  | 生活 | 房产   | 职场      | 搜索文章                | 搜索快讯                |\n| ------------ | ----------- | --------- | ---- | ------ | --------- | ----------------------- | ----------------------- |\n| news         | newsflashes | recommend | life | estate | workplace | search/articles/ 关键词 | search/articles/ 关键词 |",
   "example": "/36kr/newsflashes",
-  "heat": 2508,
+  "heat": 2510,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "36氪 - 快讯 - Powered by RSSHub",
-      "errorAt": "2026-05-15T20:36:07.613Z",
-      "errorMessage": "Unterminated string in JSON at position 2122 (line 1 column 2123)\nUnterminated string in JSON at position 2122 (line 1 column 2123)\n502 Bad Gateway\nUnterminated string in JSON at position 2122 (line 1 column 2123)\nUnterminated string in JSON at position 2122 (line 1 column 2123)\nUnterminated string in JSON at position 2122 (line 1 column 2123)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905665",
       "image": null,
       "ownerUserId": null,

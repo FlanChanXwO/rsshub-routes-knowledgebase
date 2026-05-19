@@ -67,21 +67,21 @@ _None_
   "path": "/bbs/thread/:tid",
   "topFeeds": [
     {
-      "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.10更新至第416话） - 轻小说/译文区 - Powered by RSSHub",
+      "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.17更新至第417话） - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "99377084384904192",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1",
-      "title": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.10更新至第416话） - 轻小说/译文区",
+      "title": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.17更新至第417话） - 轻小说/译文区",
       "type": "feed",
       "url": "rsshub://yamibo/bbs/thread/521519"
     },
     {
       "description": "百合小说生肉安利专楼 - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": "2026-05-15T22:07:33.866Z",
-      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=535989&ordertype=1\": 503 Service Unavailable\n[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=535989&ordertype=1\": 503 Service Unavailable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "97881720287716352",
       "image": null,
       "ownerUserId": null,

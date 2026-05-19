@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 338,
+  "heat": 339,
   "location": "daily-blog.ts",
   "maintainers": [
     "huyyi"

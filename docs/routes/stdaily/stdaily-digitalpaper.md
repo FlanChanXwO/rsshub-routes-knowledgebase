@@ -42,7 +42,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 88,
+  "heat": 89,
   "location": "digitalpaper.tsx",
   "maintainers": [
     "lyqluis",

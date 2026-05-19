@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "高志凯频道 的个人主页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T03:28:03.528Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "172226578810915840",
       "image": null,
       "ownerUserId": null,

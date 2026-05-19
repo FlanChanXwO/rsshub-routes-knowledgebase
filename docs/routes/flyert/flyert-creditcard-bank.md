@@ -92,8 +92,8 @@
   "topFeeds": [
     {
       "description": "飞客茶馆信用卡 - 国内信用卡 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-17T20:25:14.168Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "55873225615650816",
       "image": null,
       "ownerUserId": null,
@@ -104,8 +104,8 @@
     },
     {
       "description": "飞客茶馆信用卡 - 招商银行 - Powered by RSSHub",
-      "errorAt": "2026-05-15T15:43:46.709Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56955741222491136",
       "image": null,
       "ownerUserId": null,

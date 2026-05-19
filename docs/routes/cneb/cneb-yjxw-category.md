@@ -77,7 +77,7 @@
     {
       "description": "国家应急广播 - 新闻 - Powered by RSSHub",
       "errorAt": "2026-05-16T00:53:55.609Z",
-      "errorMessage": "Failed to fetch\n500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "57295548899554304",
       "image": null,
       "ownerUserId": null,
