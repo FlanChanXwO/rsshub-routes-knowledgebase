@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "魔法禁书目录 - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:52:32.694Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "126699050007148544",
       "image": null,
       "ownerUserId": null,

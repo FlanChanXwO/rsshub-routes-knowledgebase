@@ -130,13 +130,13 @@ Topics
       "description": "Technology Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "100895480425924626",
+      "id": "129565977721774080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/technology",
+      "siteUrl": "https://grist.org/Technology",
       "title": "Technology - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/technology"
+      "url": "rsshub://grist/topic/Technology"
     }
   ],
   "url": "grist.org/articles/"

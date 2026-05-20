@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 沟通交流
+# 国家能源局 - 沟通交流
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/pbc/goutongjiaoliu`
 - Route Name: `沟通交流`
 - Example: `/gov/pbc/goutongjiaoliu`
@@ -70,7 +70,7 @@ _None_
     {
       "description": "中国人民银行 - 沟通交流 - Powered by RSSHub",
       "errorAt": "2026-01-06T11:19:10.515Z",
-      "errorMessage": "page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/index.html\", waiting until \"domcontentloaded\"\n\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "146226947009457153",
       "image": null,
       "ownerUserId": null,

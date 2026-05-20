@@ -62,7 +62,7 @@ _None_
   "path": "/fund/:id",
   "topFeeds": [
     {
-      "description": "基金代码 019305 <br> 今日净值(2026-05-14) ¥1.6664 <br> 日涨跌 0.701% - Powered by RSSHub",
+      "description": "基金代码 019305 <br> 今日净值(2026-05-15) ¥1.6478 <br> 日跌跌 -1.1162% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899751385970688",

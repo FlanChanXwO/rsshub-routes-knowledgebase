@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Eventos Ignia - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "265966934845992960",
+      "description": "MenteX - Powered by RSSHub",
+      "errorAt": "2026-05-18T19:17:47.786Z",
+      "errorMessage": "500 Internal Server Error\n",
+      "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/ignia",
-      "title": "Eventos Ignia",
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
       "type": "feed",
-      "url": "rsshub://luma/ignia"
+      "url": "rsshub://luma/mentex_ecosistema"
     }
   ],
   "url": "lu.ma"

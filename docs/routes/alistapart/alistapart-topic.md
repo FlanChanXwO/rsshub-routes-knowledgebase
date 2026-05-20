@@ -121,7 +121,7 @@ You have the option to utilize the main heading or use individual categories as 
     {
       "description": "Application-development Articles on aListApart.com - Powered by RSSHub",
       "errorAt": "2026-01-12T11:51:11.090Z",
-      "errorMessage": "[GET] \"https://alistapart.com/wp-json/wp/v2/categories?slug=application-development\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "53660433450916864",
       "image": null,
       "ownerUserId": null,

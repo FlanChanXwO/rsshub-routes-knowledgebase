@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 文件公示
+# 国家能源局 - 文件公示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/miit/wjgs`
 - Route Name: `文件公示`
 - Example: `/gov/miit/wjgs`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`
@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1275,
+  "heat": 1277,
   "location": "miit/wjgs.ts",
   "maintainers": [
     "Yoge-Code"

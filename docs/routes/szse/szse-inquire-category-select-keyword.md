@@ -102,7 +102,7 @@
     },
     {
       "description": "函件类别：全部函件类别 - Powered by RSSHub",
-      "errorAt": "2026-05-18T02:08:23.517Z",
+      "errorAt": "2026-05-18T20:18:14.822Z",
       "errorMessage": "500 Internal Server Error\n",
       "id": "112163264912778240",
       "image": null,

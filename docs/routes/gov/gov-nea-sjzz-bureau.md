@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 司工作进展
+# 国家能源局 - 司工作进展
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/nea/sjzz/:bureau`
 - Route Name: `司工作进展`
 - Example: `/gov/nea/sjzz/ghs`

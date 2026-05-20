@@ -78,8 +78,8 @@ Language
   "topFeeds": [
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T18:57:39.852Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "80542799527249920",
       "image": null,
       "ownerUserId": null,

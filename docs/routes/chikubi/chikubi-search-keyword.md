@@ -76,7 +76,7 @@ _None_
     },
     {
       "description": "Search: ギャップ - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-05-18T00:07:56.178Z",
+      "errorAt": "2026-05-19T03:18:36.006Z",
       "errorMessage": "(intermediate value).data.map is not a function\n",
       "id": "67007423998717952",
       "image": null,

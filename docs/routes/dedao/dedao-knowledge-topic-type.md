@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "来分享你和万维钢一起学习的收获吧！课程、书籍都可以。 - Powered by RSSHub",
-      "errorAt": "2026-05-15T18:27:59.338Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85673494190769152",
       "image": null,
       "ownerUserId": null,

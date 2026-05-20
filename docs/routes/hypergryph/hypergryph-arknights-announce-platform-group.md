@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "《明日方舟》全部公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:17:47.011Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "41374862675304448",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "《明日方舟》全部公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:07:20.625Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "159622024157116416",
       "image": null,
       "ownerUserId": null,

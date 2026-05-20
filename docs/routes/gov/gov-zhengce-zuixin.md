@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 最新政策
+# 国家能源局 - 最新政策
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zhengce/zuixin`
 - Route Name: `最新政策`
 - Example: `/gov/zhengce/zuixin`

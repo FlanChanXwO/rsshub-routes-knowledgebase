@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 投诉建议
+# 国家能源局 - 投诉建议
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/safe/complaint/:site?`
 - Route Name: `投诉建议`
 - Example: `/gov/safe/complaint/beijing`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

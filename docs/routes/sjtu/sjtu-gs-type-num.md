@@ -102,8 +102,8 @@
     },
     {
       "description": "硕士招生 - 招生信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T01:27:31.065Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "66124550888512512",
       "image": null,
       "ownerUserId": null,

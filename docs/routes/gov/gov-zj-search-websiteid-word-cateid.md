@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 浙江省人民政府-全省政府网站统一搜索
+# 国家能源局 - 浙江省人民政府-全省政府网站统一搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
 - Route Name: `浙江省人民政府-全省政府网站统一搜索`
 - Example: `/gov/zj/search`
@@ -78,7 +78,7 @@ _None_
   "topFeeds": [
     {
       "description": "浙江省人民政府-全省政府网站统一搜索 - Powered by RSSHub",
-      "errorAt": "2026-05-14T02:46:22.606Z",
+      "errorAt": "2026-05-18T14:53:32.533Z",
       "errorMessage": "[POST] \"https://search.zj.gov.cn/jsearchfront/interfaces/cateSearch.do\": <no response> fetch failed\n",
       "id": "139849368771468288",
       "image": null,

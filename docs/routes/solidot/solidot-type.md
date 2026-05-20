@@ -150,8 +150,8 @@ _None_
     },
     {
       "description": "奇客的资讯，重要的东西 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:13:08.521Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "61471459061869568",
       "image": null,
       "ownerUserId": null,

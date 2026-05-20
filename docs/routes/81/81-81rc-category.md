@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "欢迎来到军队人才网！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T01:33:47.261Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "70682485663234048",
       "image": "https://81rc.81.cn/template/tenant207/t582/new.jpg",
       "ownerUserId": null,

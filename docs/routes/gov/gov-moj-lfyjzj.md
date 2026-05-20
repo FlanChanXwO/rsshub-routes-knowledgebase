@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 立法意见征集
+# 国家能源局 - 立法意见征集
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/moj/lfyjzj`
 - Route Name: `立法意见征集`
 - Example: `/gov/moj/lfyjzj`

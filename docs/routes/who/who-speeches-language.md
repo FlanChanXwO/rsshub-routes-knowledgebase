@@ -79,7 +79,7 @@ Language
     {
       "description": "Speeches - WHO - Powered by RSSHub",
       "errorAt": "2025-11-18T18:06:11.847Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-44th-meeting-of-the-programme--budget-and-administration-committee-of-the-executive-board---13-may-2026\": 404 Not Found\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-remarks-at-the-global-health-leaders-awards---18-may-2026\": 404 Not Found\n",
       "id": "65765818076625920",
       "image": null,
       "ownerUserId": null,

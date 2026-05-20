@@ -185,8 +185,8 @@ _None_
   "topFeeds": [
     {
       "description": "Skeb - 新着作品 (Illust) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:52:08.263Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "70011876045549568",
       "image": null,
       "ownerUserId": null,

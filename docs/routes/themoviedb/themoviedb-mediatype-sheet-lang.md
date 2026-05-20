@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Now Playing Movies — TMDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:47:29.513Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "80092327093291008",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "TV Shows Airing Today — TMDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T02:47:29.307Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "80097978467319808",
       "image": null,
       "ownerUserId": null,

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "飞客茶馆优惠 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:09:23.337Z",
+      "errorMessage": "[GET] \"https://www.flyert.com/forum.php?mod=forumdisplay&sum=all&fid=all&catid=322\": 403 Forbidden\nFailed to fetch\n",
       "id": "56540861752061952",
       "image": null,
       "ownerUserId": null,

@@ -50,7 +50,7 @@ _None_
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-02-20T11:45:38.308Z",
-      "errorMessage": "[GET] \"https://space.bilibili.com/316183842/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "82801159002601472",
       "image": null,
       "ownerUserId": null,
@@ -62,7 +62,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-02-20T14:10:00.367Z",
-      "errorMessage": "[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n502 Bad Gateway\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n502 Bad Gateway\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

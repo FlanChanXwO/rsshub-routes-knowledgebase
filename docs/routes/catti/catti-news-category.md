@@ -90,8 +90,8 @@
     },
     {
       "description": "CATTI 考试要闻动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:27:12.743Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "101928092390409216",
       "image": "https://www.catticenter.com/img/applogo.png",
       "ownerUserId": null,

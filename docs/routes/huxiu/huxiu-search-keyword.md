@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "虎嗅 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T20:47:26.070Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "84597162601054208",
       "image": null,
       "ownerUserId": null,

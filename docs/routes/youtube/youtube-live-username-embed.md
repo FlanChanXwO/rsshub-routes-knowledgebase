@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "$Gawr Gura Ch. hololive-EN's live streaming status - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T22:23:21.732Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "42001666786766848",
       "image": null,
       "ownerUserId": null,

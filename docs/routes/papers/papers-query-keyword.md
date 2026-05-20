@@ -85,8 +85,8 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
   "topFeeds": [
     {
       "description": "llms for scientific discovery - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T00:37:47.439Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "191737387979350016",
       "image": null,
       "ownerUserId": null,
@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "glacier - Powered by RSSHub",
+      "description": "detection - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175660145371323392",
+      "id": "204194896644859904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=glacier&sort=0",
-      "title": "glacier",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=detection&sort=0",
+      "title": "detection",
       "type": "feed",
-      "url": "rsshub://papers/query/glacier"
+      "url": "rsshub://papers/query/detection"
     }
   ],
   "url": "papers.cool"

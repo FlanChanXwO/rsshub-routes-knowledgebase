@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 98,
+  "heat": 99,
   "location": "calendar.ts",
   "maintainers": [
     "TonyRL"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "财经日历 - 华尔街见闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T03:38:10.480Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "165321950833192960",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

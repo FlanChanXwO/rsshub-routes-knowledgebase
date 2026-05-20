@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "番组放送 开播提醒 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:32:46.476Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "156587319648221184",
       "image": null,
       "ownerUserId": null,

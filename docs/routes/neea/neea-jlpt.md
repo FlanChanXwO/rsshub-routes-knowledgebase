@@ -73,7 +73,7 @@ _None_
     {
       "description": "维护通知 - 中国教育考试网 - Powered by RSSHub",
       "errorAt": "2026-02-21T05:53:34.558Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://jlpt.neea.cn/index.do\": 412 Precondition Failed\n[GET] \"https://jlpt.neea.cn/index.do\": 412 Precondition Failed\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://jlpt.neea.cn/index.do\": 412 Precondition Failed\n500 Internal Server Error\n",
       "id": "106226114484296704",
       "image": null,
       "ownerUserId": null,

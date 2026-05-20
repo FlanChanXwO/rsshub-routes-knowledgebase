@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "ACG Vinyl - 黑胶 - 黑胶新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T20:22:49.018Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "190228194247987200",
       "image": null,
       "ownerUserId": null,

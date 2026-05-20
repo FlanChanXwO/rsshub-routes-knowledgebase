@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 电视剧政务平台
+# 国家能源局 - 电视剧政务平台
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/nrta/dsj/:category?`
 - Route Name: `电视剧政务平台`
 - Example: `/gov/nrta/dsj`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

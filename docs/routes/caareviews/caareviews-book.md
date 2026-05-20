@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Book Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T20:33:20.831Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "54822609193475092",
       "image": null,
       "ownerUserId": null,

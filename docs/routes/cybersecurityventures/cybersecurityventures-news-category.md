@@ -73,7 +73,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 23,
+  "heat": 24,
   "location": "news.ts",
   "maintainers": [
     "KarasuShin"

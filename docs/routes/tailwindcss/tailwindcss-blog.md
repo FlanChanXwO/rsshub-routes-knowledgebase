@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "All the latest Tailwind CSS news, straight from the team. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:07:18.098Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "147822761462156288",
       "image": null,
       "ownerUserId": null,

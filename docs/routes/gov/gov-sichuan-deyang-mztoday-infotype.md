@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 今日绵竹
+# 国家能源局 - 今日绵竹
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/sichuan/deyang/mztoday/:infoType?`
 - Route Name: `今日绵竹`
 - Example: `/gov/sichuan/deyang/mztoday/zx`

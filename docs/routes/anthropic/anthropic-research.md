@@ -11,7 +11,7 @@
 - Example: `/anthropic/research`
 - URL: `www.anthropic.com/research`
 - Language: `_None_`
-- Categories: `programming`
+- Categories: `programming, popular`
 - Maintainers: `ttttmr`
 - Source Location: `research.ts`
 - Source Module: `_None_`
@@ -36,10 +36,11 @@ _None_
 ```json
 {
   "categories": [
-    "programming"
+    "programming",
+    "popular"
   ],
   "example": "/anthropic/research",
-  "heat": 1292,
+  "heat": 1318,
   "location": "research.ts",
   "maintainers": [
     "ttttmr"

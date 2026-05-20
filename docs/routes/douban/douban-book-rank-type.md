@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "每周一更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T22:23:10.534Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "59787999536110592",
       "image": null,
       "ownerUserId": null,

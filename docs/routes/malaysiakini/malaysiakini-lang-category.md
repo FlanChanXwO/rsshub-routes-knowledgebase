@@ -120,8 +120,8 @@
   "topFeeds": [
     {
       "description": "News & Views That Matter - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:28:38.411Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,

@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 国家粮食和物资储备局
+# 国家能源局 - 国家粮食和物资储备局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/lswz/:category{.+}?`
 - Route Name: `国家粮食和物资储备局`
 - Example: `/gov/lswz`
@@ -434,8 +434,8 @@
   "topFeeds": [
     {
       "description": "新闻发布 - Powered by RSSHub",
-      "errorAt": "2026-05-18T01:58:33.310Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67547296955634688",
       "image": "https://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
       "ownerUserId": null,

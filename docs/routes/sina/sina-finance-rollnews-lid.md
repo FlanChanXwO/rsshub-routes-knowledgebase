@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 4,
   "location": "finance/rollnews.ts",
   "maintainers": [
     "betterandbetterii"
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "新浪财经－财经滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-05-17T22:44:05.900Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "245850080340167680",
       "image": null,
       "ownerUserId": null,

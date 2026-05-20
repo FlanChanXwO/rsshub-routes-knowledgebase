@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "登链社区 - Powered by RSSHub",
-      "errorAt": "2026-05-15T11:37:57.832Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61645117732882432",
       "image": null,
       "ownerUserId": null,

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "南昌大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:22:41.678Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "84074938770906112",
       "image": null,
       "ownerUserId": null,

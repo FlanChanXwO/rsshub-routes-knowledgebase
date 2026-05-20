@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "走进日本 - Politics - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T03:13:34.453Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "56644563871459336",
       "image": null,
       "ownerUserId": null,

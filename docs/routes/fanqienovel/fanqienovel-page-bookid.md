@@ -73,7 +73,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "82692770486430720",
-      "image": "https://p6-novel-sign.byteimg.com/novel-pic/p2o72ee066c92a3759c16f57e3440f1090f~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1779149562&x-signature=oqLP1iXiOTmxTAT22r3ParvYx0I%3D",
+      "image": "https://p3-novel-sign.byteimg.com/novel-pic/p2o72ee066c92a3759c16f57e3440f1090f~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1779247349&x-signature=J4269PC3Q34qM4e8q40HkccoS2s%3D",
       "ownerUserId": null,
       "siteUrl": "https://fanqienovel.com/page/7251428606465805347",
       "title": "北美悍警：从洛城巡警开始 - 冰临城下",

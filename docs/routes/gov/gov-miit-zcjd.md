@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 政策解读
+# 国家能源局 - 政策解读
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/miit/zcjd`
 - Route Name: `政策解读`
 - Example: `/gov/miit/zcjd`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `Yoge-Code`
@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1734,
+  "heat": 1735,
   "location": "miit/zcjd.ts",
   "maintainers": [
     "Yoge-Code"

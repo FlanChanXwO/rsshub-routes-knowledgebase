@@ -55,7 +55,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 80,
+  "heat": 79,
   "location": "index.ts",
   "maintainers": [
     "trganda"

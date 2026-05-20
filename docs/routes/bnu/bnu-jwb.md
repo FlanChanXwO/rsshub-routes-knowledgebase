@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "北京师范大学教务部最新通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:07:51.958Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "72454907684832256",
       "image": null,
       "ownerUserId": null,

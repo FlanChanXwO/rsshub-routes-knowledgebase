@@ -3662,9 +3662,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 中华人民共和国应急管理部
+## 国家能源局
 - Namespace: `gov`
-- Aliases: `gov, mem.gov.cn, www, www.mem.gov.cn, 中华人民共和国应急管理部`
+- Aliases: `gov, nea.gov.cn, www, www.nea.gov.cn, 国家能源局`
 - Route Count: `119`
 - Index File: `index/gov.md`
 

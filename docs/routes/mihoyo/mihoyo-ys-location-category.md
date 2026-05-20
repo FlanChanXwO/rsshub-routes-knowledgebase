@@ -92,8 +92,8 @@
     },
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T02:38:05.826Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,

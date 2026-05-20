@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 政府新闻
+# 国家能源局 - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/cn/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/cn/news/bm`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, howfool`
@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 131,
+  "heat": 132,
   "location": "cn/news/index.ts",
   "maintainers": [
     "EsuRt",
@@ -79,7 +79,7 @@ _None_
     {
       "description": "中国政府网 - 部门政务 - Powered by RSSHub",
       "errorAt": "2025-12-15T18:35:42.946Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.gov.cn/lianbo/bumen/index.htm\": 404 Not Found\n",
       "id": "67174356112248832",
       "image": null,
       "ownerUserId": null,

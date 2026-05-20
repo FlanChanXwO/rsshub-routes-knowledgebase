@@ -85,8 +85,8 @@ _None_
   "topFeeds": [
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T03:13:56.629Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41645808521081856",
       "image": null,
       "ownerUserId": null,

@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of allsonwa - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of personalami - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "79208565277485056",
+      "id": "153446870634324992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/allsonwa",
-      "title": "Fur Affinity | Gallery of allsonwa",
+      "siteUrl": "https://www.furaffinity.net/gallery/personalami",
+      "title": "Fur Affinity | Gallery of personalami",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/allsonwa/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/personalami/nsfw"
     }
   ],
   "url": "furaffinity.net"

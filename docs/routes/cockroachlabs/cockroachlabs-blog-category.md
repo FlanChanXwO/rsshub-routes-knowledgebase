@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Cockroach Labs Blog - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T20:22:30.853Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "175519489817326592",
       "image": null,
       "ownerUserId": null,

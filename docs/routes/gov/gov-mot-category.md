@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 中华人民共和国交通运输部
+# 国家能源局 - 中华人民共和国交通运输部
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/mot/:category{.+}?`
 - Route Name: `中华人民共和国交通运输部`
 - Example: `/gov/mot/jiaotongyaowen`

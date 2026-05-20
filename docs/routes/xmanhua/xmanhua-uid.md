@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "连载中 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:12:35.138Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "82662234603799552",
       "image": null,
       "ownerUserId": null,

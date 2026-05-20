@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 工作论文
+# 国家能源局 - 工作论文
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/pbc/gzlw`
 - Route Name: `工作论文`
 - Example: `/gov/pbc/gzlw`

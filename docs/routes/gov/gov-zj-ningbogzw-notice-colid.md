@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 宁波市国资委-公告
+# 国家能源局 - 宁波市国资委-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zj/ningbogzw-notice/:colId?`
 - Route Name: `宁波市国资委-公告`
 - Example: `/gov/zj/ningbogzw-notice/1229116730`

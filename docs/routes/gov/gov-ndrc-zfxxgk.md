@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 中华人民共和国国家发展和改革委员会政府信息公开
+# 国家能源局 - 中华人民共和国国家发展和改革委员会政府信息公开
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/ndrc/zfxxgk`
 - Route Name: `中华人民共和国国家发展和改革委员会政府信息公开`
 - Example: `/gov/ndrc/zfxxgk`
@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1650,
+  "heat": 1651,
   "location": "ndrc/zfxxgk.ts",
   "maintainers": [
     "howfool",

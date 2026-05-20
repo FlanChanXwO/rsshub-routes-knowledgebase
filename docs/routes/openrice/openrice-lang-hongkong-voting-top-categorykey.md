@@ -63,7 +63,7 @@ _None_
     {
       "description": "OpenRice用戶可以在網站或手機應用程式，點擊餐廳頁面中「投票」按鈕，即可完成投票。參加投票的用戶有機會參加大抽獎，贏取豐富獎品。 - Powered by RSSHub",
       "errorAt": "2025-07-16T11:07:38.235Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "77037193957576704",
       "image": null,
       "ownerUserId": null,

@@ -84,8 +84,8 @@
   "topFeeds": [
     {
       "description": "NEWS | アイドルマスター - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:33:29.102Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81966897349713920",
       "image": null,
       "ownerUserId": null,

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "War Thunder News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T22:32:10.772Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "74063151402982400",
       "image": null,
       "ownerUserId": null,

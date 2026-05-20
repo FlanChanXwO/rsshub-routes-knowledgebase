@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "东南大学研究生招生网 -- 硕士招生 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T01:48:35.524Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "152571187567391744",
       "image": null,
       "ownerUserId": null,

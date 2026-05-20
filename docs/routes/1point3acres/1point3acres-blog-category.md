@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "美国留学就业生活攻略 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T18:57:05.929Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "82671443591248896",
       "image": null,
       "ownerUserId": null,

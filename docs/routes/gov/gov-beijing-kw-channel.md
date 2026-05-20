@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - Unknown
+# 国家能源局 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/beijing/kw/:channel`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

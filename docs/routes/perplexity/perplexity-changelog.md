@@ -72,14 +72,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Latest updates and changes from Perplexity - Powered by RSSHub",
+      "description": "Stay up to date with what’s new in Perplexity. The changelog highlights the latest features, improvements, and experiments, so you can get the most out of Perplexity as it gets better every week. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "241365598746245120",
       "image": "https://framerusercontent.com/assets/YD0FzGopY3nozAz8P9GIcUVdMk.png",
       "ownerUserId": null,
       "siteUrl": "https://www.perplexity.ai/changelog",
-      "title": "Just a moment...",
+      "title": "Perplexity Changelog",
       "type": "feed",
       "url": "rsshub://perplexity/changelog"
     }

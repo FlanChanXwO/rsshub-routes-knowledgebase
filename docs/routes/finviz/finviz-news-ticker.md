@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:12:47.457Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "99092999437425664",
       "image": null,
       "ownerUserId": null,

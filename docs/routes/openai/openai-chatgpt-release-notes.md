@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "ChatGPT Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T01:17:51.162Z",
+      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
       "id": "241365607440964608",
       "image": null,
       "ownerUserId": null,

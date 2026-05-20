@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "ruanyf/weekly Branches - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:27:10.510Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "59786436798173184",
       "image": null,
       "ownerUserId": null,

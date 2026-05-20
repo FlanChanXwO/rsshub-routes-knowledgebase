@@ -90,8 +90,8 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
   "topFeeds": [
     {
       "description": "News - Node.js - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:03:36.585Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "98341488375760896",
       "image": null,
       "ownerUserId": null,

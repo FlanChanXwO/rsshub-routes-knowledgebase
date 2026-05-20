@@ -114,8 +114,8 @@ If you subscribe to [Updates in English](https://www.counter-strike.net/news/upd
   "topFeeds": [
     {
       "description": "#Blog_Title - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:07:26.114Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "76090323884335104",
       "image": "https://media.st.dl.eccdnx.com/apps/csgo/images/dota_react//blog/default_cover.jpg",
       "ownerUserId": null,

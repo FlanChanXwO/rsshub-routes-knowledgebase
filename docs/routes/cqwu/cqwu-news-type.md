@@ -66,7 +66,7 @@ _None_
     {
       "description": "重文理学术活动公告 - Powered by RSSHub",
       "errorAt": "2025-09-10T18:06:01.259Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.cqwu.edu.cn/channel_24895.html\": 404 \n",
       "id": "89795888453668864",
       "image": null,
       "ownerUserId": null,

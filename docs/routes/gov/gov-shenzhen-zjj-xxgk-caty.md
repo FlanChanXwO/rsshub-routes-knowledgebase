@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 深圳市住房和建设局
+# 国家能源局 - 深圳市住房和建设局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/shenzhen/zjj/xxgk/:caty`
 - Route Name: `深圳市住房和建设局`
 - Example: `/gov/shenzhen/zjj/xxgk/tzgg`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `lonn`

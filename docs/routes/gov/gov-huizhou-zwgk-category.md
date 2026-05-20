@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 惠州市人民政府
+# 国家能源局 - 惠州市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/huizhou/zwgk/:category?`
 - Route Name: `惠州市人民政府`
 - Example: `/gov/huizhou/zwgk/jgdt`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

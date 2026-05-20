@@ -154,7 +154,7 @@ _None_
     {
       "description": "Bitget | New Listing - Powered by RSSHub",
       "errorAt": "2026-04-16T22:37:04.867Z",
-      "errorMessage": "[POST] \"https://www.bitget.com/v1/msg/push/stationLetterNew\": 403 Forbidden\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "73649080120641536",
       "image": null,
       "ownerUserId": null,

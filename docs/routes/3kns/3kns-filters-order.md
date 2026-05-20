@@ -105,8 +105,8 @@ _None_
     },
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:47:26.508Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "86932236568616960",
       "image": null,
       "ownerUserId": null,

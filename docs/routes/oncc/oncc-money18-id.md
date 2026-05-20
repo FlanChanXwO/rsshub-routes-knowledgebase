@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "東網產經 - 全日焦點 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T17:18:27.888Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "157944883618202624",
       "image": null,
       "ownerUserId": null,

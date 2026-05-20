@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "掘金，用户单个收藏夹 - Powered by RSSHub",
-      "errorAt": "2026-05-17T19:28:08.069Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99764432283070464",
       "image": null,
       "ownerUserId": null,

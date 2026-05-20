@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "本業是臥底在象牙塔裡的業餘哲學人，兼人類行為觀察學家。 河道主要是哲學與科幻噗，不介意噗串被打斷，歡... - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:28:24.976Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "73156295534339108",
       "image": "https://avatars.plurk.com/15266227-big26167299.jpg",
       "ownerUserId": null,

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "精华 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T21:47:29.352Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "62660848693488640",
       "image": null,
       "ownerUserId": null,

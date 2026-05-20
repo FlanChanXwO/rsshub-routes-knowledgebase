@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 372,
+  "heat": 371,
   "location": "top-news.ts",
   "maintainers": [
     "HendricksZheng"
@@ -88,8 +88,8 @@
     },
     {
       "description": "懂球帝 - 深度 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:03:14.876Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "67550300258611200",
       "image": null,
       "ownerUserId": null,

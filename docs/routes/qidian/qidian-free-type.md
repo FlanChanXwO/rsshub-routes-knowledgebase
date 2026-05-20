@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "free.ts",
   "maintainers": [
     "LogicJake",
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "限时免费-起点中文网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T23:15:08.999Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "202693934180520960",
       "image": null,
       "ownerUserId": null,

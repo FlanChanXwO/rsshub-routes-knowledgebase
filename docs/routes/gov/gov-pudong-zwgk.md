@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 政务公开-浦东新区
+# 国家能源局 - 政务公开-浦东新区
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/pudong/zwgk`
 - Route Name: `政务公开-浦东新区`
 - Example: `/gov/pudong/zwgk`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `himingway`

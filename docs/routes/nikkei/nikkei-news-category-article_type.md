@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "日本経済新聞の電子版。「テック」に関する最新のニュースをお届けします。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T02:53:06.456Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "91684852842104832",
       "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
       "ownerUserId": null,

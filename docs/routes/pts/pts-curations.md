@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "專題策展精選 ｜ 公視新聞網 PNN - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T00:17:46.922Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "70043324915566592",
       "image": null,
       "ownerUserId": null,

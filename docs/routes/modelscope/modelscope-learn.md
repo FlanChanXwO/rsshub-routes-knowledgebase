@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "ModelScope——汇聚各领域先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。在这里，共建模型开源社区，发现、学习、定制和分享心仪的模型。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T01:47:38.019Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "178375162781029376",
       "image": "https://g.alicdn.com/sail-web/maas/0.8.10/favicon/128.ico",
       "ownerUserId": null,

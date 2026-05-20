@@ -35,7 +35,7 @@ _None_
   "categories": [
     "other"
   ],
-  "heat": 28,
+  "heat": 27,
   "location": "category.ts",
   "maintainers": [],
   "name": "Unknown",

@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国法学网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T19:57:39.013Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "56957441693996032",
       "image": null,
       "ownerUserId": null,

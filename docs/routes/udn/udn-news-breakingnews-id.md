@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 246,
+  "heat": 245,
   "location": "breaking-news.tsx",
   "maintainers": [
     "miles170",

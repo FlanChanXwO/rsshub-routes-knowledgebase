@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "观棋有语 - 蜻蜓FM - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T03:13:56.951Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "43626738504963072",
       "image": null,
       "ownerUserId": null,

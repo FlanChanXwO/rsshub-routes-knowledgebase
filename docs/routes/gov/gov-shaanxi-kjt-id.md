@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 省科学技术厅
+# 国家能源局 - 省科学技术厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/shaanxi/kjt/:id?`
 - Route Name: `省科学技术厅`
 - Example: `/gov/shaanxi/kjt`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

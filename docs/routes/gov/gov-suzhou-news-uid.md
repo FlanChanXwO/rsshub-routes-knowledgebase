@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 政府新闻
+# 国家能源局 - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/suzhou/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/suzhou/news/news`
-- URL: `www.mem.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, luyuhuang`

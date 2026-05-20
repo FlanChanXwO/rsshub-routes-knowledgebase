@@ -46,8 +46,8 @@ _None_
   "topFeeds": [
     {
       "description": "HACS Repositories - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T02:52:42.570Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "93963481590744064",
       "image": null,
       "ownerUserId": null,

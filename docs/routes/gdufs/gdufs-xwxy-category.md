@@ -127,8 +127,8 @@ _None_
   "topFeeds": [
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T14:58:30.964Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "192033567747366912",
       "image": null,
       "ownerUserId": null,

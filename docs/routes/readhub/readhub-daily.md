@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4718,
+  "heat": 4721,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 贝莱德考虑在 SpaceX 下月 IPO 中投资至多 100 亿美元 2. 谷歌前 CEO 施密特毕业演讲被嘘：AI 焦虑触动学子神经 3. Meta 再启裁员潮：办公区氛围压抑如临末日 员工争相抢夺日常物资 4. 无锡将建立一座大规模「Token 工厂」 5. 比尔・盖茨基金会出售其持有的最后一批微软股票 6. 阿斯麦与塔塔电子达成合作，推进印度芯片计划 7. 摩尔线程与国家具身智能应用中试基地签署战略合作协议 8. 上海移动宣布 5G-A 超级上行网络能力规模商用，推出 1 元 40 万 Tokens 通用服务 - Powered by RSSHub",
+      "description": "1. OpenAI 推出 ChatGPT 个人理财工具：引入 GPT-5.5 并支持连接万家银行账户 2. SpaceX 正式启动「1 拆 5」拆股计划 为史上最大 IPO 扫清高价障碍 3. DeepSeek 疑似出 Bug：可一键「偷窥」别人正在问什么 4. 千问：5 月 20 日阿里云峰会将有「重量级新朋友」亮相 5. 法官驳回埃隆・马斯克对 OpenAI 及其 CEO 奥尔特曼的诉讼 6. 云深处科技 IPO 审核状态变更为已受理 7. 腾讯 AI 设计智能体协作平台 Ardot 正式开启公测 8. 英伟达 CEO 黄仁勋痛斥将 GPU 比作核武器，并反对 AI 芯片出口管制 9. 三星电子与工会展开最后谈判，以避免威胁全球供应链的罢工 10. 贝恩资本完成 105 亿美元亚洲基金的募集 11. 百度 AI 云一季度收入 88 亿元，同比增 79% 12. 英媒：中国 AI 视频生成模型领先美国，创作者称「更自由」 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

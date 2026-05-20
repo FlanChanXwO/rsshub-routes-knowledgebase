@@ -103,16 +103,16 @@ _None_
       "url": "rsshub://showstart/search/live"
     },
     {
-      "description": "秀动网 - 搜城市 - 成都 - Powered by RSSHub",
+      "description": "秀动网 - 搜城市 - 苏州 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "138149010608228352",
+      "id": "175967172586634240",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜城市 - 成都",
+      "title": "秀动网 - 搜城市 - 苏州",
       "type": "feed",
-      "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
+      "url": "rsshub://showstart/search/city/%E8%8B%8F%E5%B7%9E"
     }
   ]
 }

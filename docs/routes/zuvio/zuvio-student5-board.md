@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "Zuvio 校園話題千種動物頭像交流心得。最萌的匿名論壇，上千種逗趣動物頭像隨你變換，點頭像立即私訊功能，讓你找到共同話題的小夥伴！多人分享配對心得、聊天交友心情在此，快加入17分享！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-18T20:04:16.556Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "67154120410034176",
       "image": "https://s3.hicloud.net.tw/zuvio.public/public/system/images/irs_v4/chicken/shared/webshare.png",
       "ownerUserId": null,

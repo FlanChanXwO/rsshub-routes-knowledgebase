@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Create fancy looking text, item or block holograms with the new 1.19.4 text display entities - Powered by RSSHub",
+      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123850042948199424",
+      "id": "123852225922308096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/5QNgOj66",
-      "title": "FancyHolograms Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
+      "title": "SilkSpawners Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/5QNgOj66/versions"
+      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
     }
   ]
 }

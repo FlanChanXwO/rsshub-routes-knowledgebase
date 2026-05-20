@@ -1,11 +1,11 @@
-# 中华人民共和国应急管理部 - 国家核安全局
+# 国家能源局 - 国家核安全局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/mee/nnsa/:category{.+}?`
 - Route Name: `国家核安全局`
 - Example: `/gov/mee/nnsa/ywdt/hjyw`

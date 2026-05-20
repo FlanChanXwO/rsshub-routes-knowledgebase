@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T03:03:19.157Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "169231605189909504",
       "image": null,
       "ownerUserId": null,
