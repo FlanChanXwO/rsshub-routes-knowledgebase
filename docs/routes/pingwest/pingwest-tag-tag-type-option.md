@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "品玩 - AIGC - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:43:23.254Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "85680099374822413",
       "image": null,
       "ownerUserId": null,
@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 豆包 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "128313509223043072",
+      "description": "品玩 - 新零售 - Powered by RSSHub",
+      "errorAt": "2026-05-19T22:47:28.030Z",
+      "errorMessage": "500 Internal Server Error\n",
+      "id": "86387422106570752",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/22158",
-      "title": "品玩 - 豆包",
+      "siteUrl": "https://www.pingwest.com/tag/12279",
+      "title": "品玩 - 新零售",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/22158/1"
+      "url": "rsshub://pingwest/tag/12279/1"
     }
   ]
 }

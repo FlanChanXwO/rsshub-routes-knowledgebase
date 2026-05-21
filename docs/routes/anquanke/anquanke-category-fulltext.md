@@ -68,7 +68,7 @@ _None_
     {
       "description": "安全客-360网络安全周报 - Powered by RSSHub",
       "errorAt": "2026-05-18T20:32:52.321Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "56283113559261184",
       "image": null,
       "ownerUserId": null,

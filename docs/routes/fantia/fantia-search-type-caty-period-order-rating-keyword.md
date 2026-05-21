@@ -318,8 +318,8 @@ _None_
     },
     {
       "description": "Fantia - Search posts - Powered by RSSHub",
-      "errorAt": "2026-05-19T02:07:47.199Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73225112084486144",
       "image": null,
       "ownerUserId": null,

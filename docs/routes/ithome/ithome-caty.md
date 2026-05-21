@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 249,
+  "heat": 248,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"
@@ -77,7 +77,7 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:23:38.843Z",
+      "errorAt": "2026-05-19T23:44:05.025Z",
       "errorMessage": "Failed to fetch\n",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",

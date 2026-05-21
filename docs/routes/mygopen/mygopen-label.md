@@ -87,8 +87,8 @@
     },
     {
       "description": "詐騙與謠言頻傳的年代，「MyGoPen｜這是假消息」提醒網路使用者隨時要用謹慎懷疑的態度面對網路上的消息。 - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:37:14.275Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "87469468353113088",
       "image": null,
       "ownerUserId": null,

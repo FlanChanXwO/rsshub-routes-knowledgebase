@@ -52,7 +52,7 @@ This route provides a flexible plan with full text content to subscribe specific
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 65,
+  "heat": 64,
   "location": "topics.tsx",
   "maintainers": [
     "emdoe"

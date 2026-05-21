@@ -118,7 +118,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://finance.mingpao.com/fin/instantp/20260517/1779016349911/%e5%8d%81%e5%a4%a7%e5%b1%8b%e8%8b%91%e5%91%a8%e6%9c%ab12%e5%ae%97%e6%88%90%e4%ba%a4-%e5%a4%aa%e5%8f%a4%e5%9f%8e%e4%bd%944%e5%ae%97%e6%9c%80%e6%97%ba\\\" target=\\\"blank\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260519/s00001/1779167317600/%e5%a4%a9%e6%96%87%e5%8f%b0%e7%99%bc%e5%87%ba%e9%bb%83%e8%89%b2%e6%9a%b4%e9%9b%a8%e8%ad%a6%e5%91%8a\": 403 Forbidden\nFailed to fetch\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "博士公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T14:32:28.242Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "177286517780633600",
       "image": null,
       "ownerUserId": null,
@@ -91,16 +91,16 @@
       "url": "rsshub://neu/yz/phd1"
     },
     {
-      "description": "博士简章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "177286544922054656",
+      "description": "硕士公告 - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:19:23.550Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "173458671008878592",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://yz.neu.edu.cn/",
-      "title": "博士简章-东北大学研究生招生信息网",
+      "title": "硕士公告-东北大学研究生招生信息网",
       "type": "feed",
-      "url": "rsshub://neu/yz/phd2"
+      "url": "rsshub://neu/yz/master1"
     }
   ],
   "url": "yz.neu.edu.cn"

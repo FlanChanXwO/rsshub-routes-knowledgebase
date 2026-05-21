@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "elecfans special articles - Powered by RSSHub",
-      "errorAt": "2026-05-18T19:13:03.424Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": "2026-05-20T01:25:25.356Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "182701002532529152",
       "image": null,
       "ownerUserId": null,

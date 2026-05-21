@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Ottawa - CBC News - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:38:38.634Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60766614420573184",
       "image": null,
       "ownerUserId": null,

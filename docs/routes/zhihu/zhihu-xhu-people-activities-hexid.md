@@ -83,7 +83,7 @@
     {
       "description": "一个前端，Vue / Vite 作者。 - Powered by RSSHub",
       "errorAt": "2025-06-25T02:28:39.732Z",
-      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "56350514062587904",
       "image": "https://picx.zhimg.com/7be980a0f_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": null,

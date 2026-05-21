@@ -84,8 +84,8 @@
   "topFeeds": [
     {
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:13:49.775Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "97454904768301056",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,

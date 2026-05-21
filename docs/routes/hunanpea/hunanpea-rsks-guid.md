@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "公务员及事业单位考试 - 湖南人事考试网 - Powered by RSSHub",
-      "errorAt": "2026-05-18T23:37:58.718Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62787884154546176",
       "image": null,
       "ownerUserId": null,

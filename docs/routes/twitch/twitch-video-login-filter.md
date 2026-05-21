@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 60,
+  "heat": 59,
   "location": "video.ts",
   "maintainers": [
     "hoilc"

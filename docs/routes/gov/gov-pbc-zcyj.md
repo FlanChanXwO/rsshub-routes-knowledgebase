@@ -51,7 +51,20 @@ _None_
       ]
     }
   ],
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "中国人民银行 政策研究 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "218592587268113408",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.pbc.gov.cn/redianzhuanti/118742/4122386/4122510/index.html",
+      "title": "中国人民银行 政策研究",
+      "type": "feed",
+      "url": "rsshub://gov/pbc/zcyj"
+    }
+  ],
   "url": "pbc.gov.cn/redianzhuanti/118742/4122386/4122510/index.html"
 }
 ```

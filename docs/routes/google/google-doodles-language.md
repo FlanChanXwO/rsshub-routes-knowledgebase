@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 372,
+  "heat": 371,
   "location": "doodles.ts",
   "maintainers": [
     "xyqfer"

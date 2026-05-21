@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 220,
+  "heat": 222,
   "location": "more.ts",
   "maintainers": [
     "nczitzk"
@@ -77,7 +77,7 @@
     {
       "description": "足球 - 直播吧 - Powered by RSSHub",
       "errorAt": "2026-05-18T04:54:08.294Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61588318218478611",
       "id": "61588318218478611",
       "image": null,
       "ownerUserId": null,

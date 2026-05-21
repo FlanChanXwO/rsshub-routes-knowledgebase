@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1863,
+  "heat": 1869,
   "location": "zhengce/zhengceku.ts",
   "maintainers": [
     "zxx-457"

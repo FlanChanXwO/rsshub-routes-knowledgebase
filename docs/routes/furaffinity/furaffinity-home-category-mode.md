@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T00:32:35.546Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "78978405973911552",
       "image": null,
       "ownerUserId": null,

@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 94,
+  "heat": 93,
   "location": "comic.ts",
   "maintainers": [
     "NekoAria"
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Komiic - 魔都精兵的奴隸 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T20:27:18.751Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "118075271617970176",
       "image": null,
       "ownerUserId": null,

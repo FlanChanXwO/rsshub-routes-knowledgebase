@@ -40,7 +40,7 @@ _None_
   "categories": [
     "journal"
   ],
-  "heat": 52,
+  "heat": 51,
   "location": "news-and-comment.ts",
   "maintainers": [
     "y9c",

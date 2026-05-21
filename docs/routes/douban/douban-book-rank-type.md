@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 187,
+  "heat": 185,
   "location": "book/rank.ts",
   "maintainers": [
     "xyqfer",
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "每周一更新 - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:23:10.534Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59787999536110592",
       "image": null,
       "ownerUserId": null,

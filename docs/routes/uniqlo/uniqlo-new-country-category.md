@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "Uniqlo men new arrivals in sg - Powered by RSSHub",
-      "errorAt": "2026-05-19T01:24:02.280Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805268337675",
       "image": null,
       "ownerUserId": null,

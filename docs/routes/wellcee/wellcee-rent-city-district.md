@@ -63,7 +63,7 @@ _None_
       "url": "rsshub://wellcee/rent/%E4%B8%8A%E6%B5%B7"
     },
     {
-      "description": "32K+ available Total 140K+ - Powered by RSSHub",
+      "description": "32K+ available Total 141K+ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "104852188412374016",

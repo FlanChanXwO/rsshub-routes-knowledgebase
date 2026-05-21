@@ -50,6 +50,19 @@ _None_
     "categoryId": "分类id"
   },
   "path": "/category/:categoryId",
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2026-05-11T03:02:37.085Z",
+      "errorMessage": "500 Internal Server Error\n",
+      "id": "250564935356404743",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://techcrunch/category/artificial-intelligence"
+    }
+  ]
 }
 ```

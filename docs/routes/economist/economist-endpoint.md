@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 918,
+  "heat": 923,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/middle-east-and-africa/2026/05/17/is-binyamin-netanyahu-facing-his-last-stand\": 403 Forbidden\n[GET] \"https://www.economist.com/middle-east-and-africa/2026/05/17/is-binyamin-netanyahu-facing-his-last-stand\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/05/19/investors-fear-another-surge-in-inflation\": 403 Forbidden\n[GET] \"https://www.economist.com/international/2026/05/19/israel-the-lonely\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

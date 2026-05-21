@@ -57,7 +57,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/minimum-common-value/",
+      "siteUrl": "https://leetcode.cn/problems/find-the-prefix-common-array-of-two-arrays/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

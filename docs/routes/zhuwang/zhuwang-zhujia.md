@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "全国今日生猪价格 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:15:05.037Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58310184334730242",
       "image": null,
       "ownerUserId": null,

@@ -44,7 +44,7 @@ _None_
     {
       "description": "国家药品监督管理局医疗器械技术审评中心最新要闻相关信息 - Powered by RSSHub",
       "errorAt": "2025-08-12T08:28:03.851Z",
-      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.text') to be visible\n  - waiting for locator('.text')\n\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "71471683425747968",
       "image": null,
       "ownerUserId": null,

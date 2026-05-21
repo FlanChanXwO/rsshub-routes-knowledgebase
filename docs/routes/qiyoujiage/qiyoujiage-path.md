@@ -35,7 +35,7 @@ _None_
   "categories": [
     "other"
   ],
-  "heat": 14,
+  "heat": 15,
   "location": "price.ts",
   "maintainers": [],
   "name": "Unknown",

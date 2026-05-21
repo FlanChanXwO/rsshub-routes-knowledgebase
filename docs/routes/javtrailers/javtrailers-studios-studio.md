@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "Watch Jav made by Prestige free, with high definition, we have over 4,000 studios available for free streaming. - Powered by RSSHub",
-      "errorAt": "2026-05-06T02:50:04.719Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javtrailers.com/api/studios/s1-no-1-style?page=0\": 403 Forbidden\nUnexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80227253777350656",
       "image": null,
       "ownerUserId": null,
@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "Watch Jav made by Prestige free, with high definition, we have over 4,000 studios available for free streaming. - Powered by RSSHub",
-      "errorAt": "2026-05-05T12:04:22.894Z",
-      "errorMessage": "Unexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "176520262640196608",
       "image": null,
       "ownerUserId": null,

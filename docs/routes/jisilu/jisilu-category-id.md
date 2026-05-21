@@ -91,7 +91,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 51,
+  "heat": 50,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -154,8 +154,8 @@
   "topFeeds": [
     {
       "description": "债券/可转债 - 经典固定收益类 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T03:38:30.891Z",
+      "errorMessage": "[GET] \"https://www.jisilu.cn/category/4\": <no response> fetch failed\n[GET] \"https://www.jisilu.cn/category/4\": <no response> fetch failed\n",
       "id": "126653937076005888",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,

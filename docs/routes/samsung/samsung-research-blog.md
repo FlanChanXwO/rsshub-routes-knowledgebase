@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "research/blog.ts",
   "maintainers": [
     "nczitzk"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "BLOG | Samsung Research - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T20:52:31.726Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "70851835716090880",
       "image": null,
       "ownerUserId": null,

@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "网易云音乐 - 歌手歌曲 - 薛之谦 - Powered by RSSHub",
-      "errorAt": "2026-05-18T19:33:33.752Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86308435497826304",
       "image": null,
       "ownerUserId": null,

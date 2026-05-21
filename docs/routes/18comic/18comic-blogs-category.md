@@ -80,7 +80,7 @@
     {
       "description": "最新的 Blogs - 免費成人H漫線上看 - Powered by RSSHub",
       "errorAt": "2026-05-18T17:22:20.456Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://jmcomic1.me/blogs\": 403 Forbidden\n",
       "id": "181721376290441216",
       "image": null,
       "ownerUserId": null,

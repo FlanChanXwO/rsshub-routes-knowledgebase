@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "iThome Online 是臺灣第一個網路原生報，提供IT產業即時新聞、企業IT產品報導與測試、技術專題、IT應用報導、IT書訊，以及面向豐富的名家專欄。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T20:09:04.409Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59766252606947328",
       "image": null,
       "ownerUserId": null,

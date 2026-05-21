@@ -4502,6 +4502,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `5`
 - Index File: `index/ithome.md`
 
+## 中国信息安全测评中心
+- Namespace: `itsec`
+- Aliases: `itsec, itsec.gov.cn, www, www.itsec.gov.cn, 中国信息安全测评中心`
+- Route Count: `1`
+- Index File: `index/itsec.md`
+
 ## iwara
 - Namespace: `iwara`
 - Aliases: `iwara, iwara.tv, www, www.iwara.tv`

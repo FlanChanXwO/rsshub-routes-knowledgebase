@@ -68,7 +68,20 @@ _None_
       ]
     }
   ],
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "中农研究生学院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "103860373630825472",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://yz.cau.edu.cn/col/col41740/index.html",
+      "title": "中农研究生学院",
+      "type": "feed",
+      "url": "rsshub://cau/yjs"
+    }
+  ],
   "url": "yz.cau.edu.cn/col/col41740/index.html"
 }
 ```

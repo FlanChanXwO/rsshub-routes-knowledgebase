@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 510,
+  "heat": 511,
   "location": "channel.ts",
   "maintainers": [
     "huanfe1"
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T21:24:35.423Z",
+      "errorMessage": "Empty RSSHub items from 147936360793227264\n[GET] \"https://javtiful.com/channel/madonna\": <no response> fetch failed\nFailed to fetch\n",
       "id": "63624830978450432",
       "image": "https://javtiful.com/media/categories/collection/44.jpg?width=140",
       "ownerUserId": null,

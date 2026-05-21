@@ -72,7 +72,7 @@ _None_
     {
       "description": "《經濟學人》（The Economist）是一份英國的英文新聞週報，是一本涉及全球政治、經濟、文化、科技等多方面事務的綜合性新聞評論刊物，著重於對這些議題提供深入的分析和評論。 - Powered by RSSHub",
       "errorAt": "2025-05-25T16:19:14.064Z",
-      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n  - waiting for locator('.caption')\n    2 × waiting for\" https://www.cw.com.tw/author/57\" navigation to finish...\n      - navigated to \"https://www.cw.com.tw/author/57\"\n\n",
+      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n  - waiting for locator('.caption')\n\n",
       "id": "69435755254558720",
       "image": "https://cdn-www.cw.com.tw/article/201909/article-5d75f21940867.jpg",
       "ownerUserId": null,

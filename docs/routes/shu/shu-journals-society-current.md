@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:18:03.850Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149985207254076416",
       "image": null,
       "ownerUserId": null,

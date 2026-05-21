@@ -62,7 +62,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 503,
+  "heat": 504,
   "location": "index.ts",
   "maintainers": [
     "falling",

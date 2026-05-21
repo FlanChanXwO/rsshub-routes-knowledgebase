@@ -78,8 +78,8 @@ Language
   "topFeeds": [
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": "2026-05-18T18:57:39.852Z",
-      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
+      "errorAt": "2026-05-19T23:58:33.203Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "80542799527249920",
       "image": null,
       "ownerUserId": null,
@@ -92,13 +92,13 @@ Language
       "description": "News - WHO - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59442632641000448",
+      "id": "62422466958723072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.who.int/news",
+      "siteUrl": "https://www.who.int/zh/news",
       "title": "News - WHO",
       "type": "feed",
-      "url": "rsshub://who/news/en"
+      "url": "rsshub://who/news/zh"
     }
   ],
   "url": "who.int/news"

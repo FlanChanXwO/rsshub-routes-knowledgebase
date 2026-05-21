@@ -1015,8 +1015,8 @@
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T00:28:04.738Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "66638427379213312",
       "image": "https://mse.hust.edu.cn/js/logo.png",
       "ownerUserId": null,

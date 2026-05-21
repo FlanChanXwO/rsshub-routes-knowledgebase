@@ -64,7 +64,7 @@ _None_
   ],
   "description": "#### 板块\n\n| 电脑     | 手机     | 汽车     | 业界     | 游戏     |\n| -------- | -------- | -------- | -------- | -------- |\n| bcid/801 | bcid/802 | bcid/807 | bcid/803 | bcid/806 |\n\n#### 话题\n\n| 科学     | 排行     | 评测     | 一图     |\n| -------- | -------- | -------- | -------- |\n| tid/1000 | tid/1001 | tid/1002 | tid/1003 |\n\n#### 品牌\n\n| 安卓     | 阿里     | 微软    | 百度    | PS5       | Xbox     | 华为     |\n| -------- | -------- | ------- | ------- | --------- | -------- | -------- |\n| icid/121 | icid/270 | icid/90 | icid/67 | icid/6950 | icid/194 | icid/136 |\n\n| 小米      | VIVO     | 三星     | 魅族     | 一加     | 比亚迪   | 小鹏      |\n| --------- | -------- | -------- | -------- | -------- | -------- | --------- |\n| icid/9355 | icid/288 | icid/154 | icid/140 | icid/385 | icid/770 | icid/7259 |\n\n| 蔚来      | 理想       | 奔驰     | 宝马     | 大众     |\n| --------- | ---------- | -------- | -------- | -------- |\n| icid/7318 | icid/12947 | icid/429 | icid/461 | icid/481 |",
   "example": "/mydrivers/bcid/801",
-  "heat": 74,
+  "heat": 73,
   "location": "index.tsx",
   "maintainers": [
     "kt286",
@@ -98,8 +98,8 @@ _None_
     },
     {
       "description": "手机驱动之家是驱动之家的手机门户网站，为亿万用户打造一个手机联通世界的超级平台，提供24小时全面及时的中文IT资讯。手机驱动之家触屏版 - Powered by RSSHub",
-      "errorAt": "2026-05-18T23:07:33.911Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74113562646678532",
       "image": "https://11.mydrivers.com/m/images/v1/kkj_hearlogo.png",
       "ownerUserId": null,

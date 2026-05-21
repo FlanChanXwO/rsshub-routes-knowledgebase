@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 40,
+  "heat": 39,
   "location": "novel-series.ts",
   "maintainers": [
     "SnowAgar25",
@@ -94,8 +94,8 @@ _None_
     },
     {
       "description": "真白未那，小时的青梅，家世神秘的绝美女子大学生，成为了我的女友。 但我却总是能看到她被别的男人寝取幻象。于是，我们两人决定展开禁忌的NTRS游戏。 - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:12:14.600Z",
-      "errorMessage": "This user is an R18 creator, PIXIV_REFRESHTOKEN is required.\npixiv RSS is disabled due to the lack of relevant config.\n該用戶爲 R18 創作者，需要 PIXIV_REFRESHTOKEN。\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "98849096219253760",
       "image": "https://pixiv.rss3.workers.dev/novel-cover-original/img/2024/11/09/20/14/09/sci12807039_c4e913ac38af901bdc05bd1ed9ea1a7e.jpg",
       "ownerUserId": null,

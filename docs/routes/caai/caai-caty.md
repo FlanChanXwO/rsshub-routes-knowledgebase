@@ -75,7 +75,7 @@ _None_
     {
       "description": "中国人工智能学会 - 学科皮书系列. - Powered by RSSHub",
       "errorAt": "2025-06-29T10:41:23.066Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http://www.caai.cn/index.php?s=/home/article/index/id/53.html\": 444 \n",
       "id": "74648307338782720",
       "image": null,
       "ownerUserId": null,

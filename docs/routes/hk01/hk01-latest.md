@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 380,
+  "heat": 378,
   "location": "latest.ts",
   "maintainers": [
     "5upernova-heng"
@@ -71,7 +71,7 @@ _None_
   "topFeeds": [
     {
       "description": "即時 | 香港01 - Powered by RSSHub",
-      "errorAt": "2026-05-18T14:33:29.439Z",
+      "errorAt": "2026-05-20T03:18:08.496Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55294680289713152",
       "id": "55294680289713152",
       "image": null,

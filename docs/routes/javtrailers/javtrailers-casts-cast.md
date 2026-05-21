@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "Watch Hibiki Otsuki Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
-      "errorAt": "2026-05-06T21:32:36.513Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javtrailers.com/api/casts/hibiki-otsuki?page=0\": <no response> fetch failed\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n502 Bad Gateway\n[GET] \"https://javtrailers.com/api/casts/hibiki-otsuki?page=0\": 403 Forbidden\nUnexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorAt": "2026-05-19T17:18:40.766Z",
+      "errorMessage": "Failed to fetch\n530 <none>\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n502 Bad Gateway\n[GET] \"https://javtrailers.com/api/casts/hibiki-otsuki?page=0\": 403 Forbidden\n500 Internal Server Error\n",
       "id": "80211295551420416",
       "image": "https://pics.dmm.co.jp/mono/actjpgs/ootuki_hibiki.jpg",
       "ownerUserId": null,
@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "Watch Miu Shiromine Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
-      "errorAt": "2026-05-06T11:02:32.241Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://javtrailers.com/api/casts/miu-shiramine?page=0\": 403 Forbidden\nUnexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "111072758149291008",
       "image": "https://pics.dmm.co.jp/mono/actjpgs/siromine_miu.jpg",
       "ownerUserId": null,

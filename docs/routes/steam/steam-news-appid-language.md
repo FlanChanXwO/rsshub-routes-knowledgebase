@@ -132,8 +132,8 @@
     },
     {
       "description": "App 774171 News - Powered by RSSHub",
-      "errorAt": "2026-05-18T19:42:45.161Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149545975496265728",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774171/hero_capsule.jpg",
       "ownerUserId": null,

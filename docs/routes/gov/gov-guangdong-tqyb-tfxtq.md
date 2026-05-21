@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "突发性天气提示 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:14:06.830Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55178154410946577",
       "image": null,
       "ownerUserId": null,

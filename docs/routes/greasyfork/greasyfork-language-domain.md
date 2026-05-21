@@ -99,8 +99,8 @@
     },
     {
       "description": "User scripts for google.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:21:03.711Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "126248223506523136",
       "image": null,
       "ownerUserId": null,

@@ -98,8 +98,8 @@ Sepcific MangaDex MDList Feed
   "topFeeds": [
     {
       "description": "The latest updates of all the manga in a sepcific list - Powered by RSSHub",
-      "errorAt": "2026-05-19T00:03:03.841Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "182814965369088000",
       "image": null,
       "ownerUserId": null,

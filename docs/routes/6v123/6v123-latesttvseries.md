@@ -72,7 +72,7 @@ _None_
     {
       "description": "6v最新电影RSS - Powered by RSSHub",
       "errorAt": "2026-01-08T04:57:10.678Z",
-      "errorMessage": "[GET] \"https://www.hao6v.tv/gvod/dsj.html\": <no response> fetch failed\n500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://www.hao6v.tv/gvod/dsj.html\": <no response> fetch failed\n[GET] \"https://www.hao6v.tv/gvod/dsj.html\": <no response> fetch failed\n",
       "id": "59838106508034048",
       "image": null,
       "ownerUserId": null,

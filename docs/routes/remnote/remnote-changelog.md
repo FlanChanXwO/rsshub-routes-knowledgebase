@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Vote or request new RemNote features. Subscribe to get updates about new features from RemNote. - Powered by RSSHub",
-      "errorAt": "2026-05-06T18:03:39.914Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "141758545819620352",
       "image": "https://vault.hnxt.dev/uploads/organization_customization/favicon/3970/88153ff13b4b03492ddfee6e675228c1.png",
       "ownerUserId": null,

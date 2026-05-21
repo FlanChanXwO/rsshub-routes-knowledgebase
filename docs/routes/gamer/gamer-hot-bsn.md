@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 69,
+  "heat": 68,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk",
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "星期一的豐滿 哈啦板 - 巴哈姆特 - Powered by RSSHub",
-      "errorAt": "2026-05-18T21:48:18.215Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61362528816905216",
       "image": null,
       "ownerUserId": null,

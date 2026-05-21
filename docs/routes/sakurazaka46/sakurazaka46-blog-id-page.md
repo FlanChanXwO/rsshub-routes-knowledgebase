@@ -116,15 +116,15 @@ _None_
     },
     {
       "description": "櫻坂46公式サイト - 森田 ひかる - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "82765728227921920",
+      "errorAt": "2026-05-20T00:02:55.799Z",
+      "errorMessage": "500 Internal Server Error\n",
+      "id": "114344382486767616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://sakurazaka46.com/s/s46/diary/blog/list?page=0",
+      "siteUrl": "https://sakurazaka46.com/s/s46/diary/blog/list?page=0&ct=50",
       "title": "櫻坂46公式サイト - 森田 ひかる",
       "type": "feed",
-      "url": "rsshub://sakurazaka46/blog"
+      "url": "rsshub://sakurazaka46/blog/50"
     }
   ]
 }

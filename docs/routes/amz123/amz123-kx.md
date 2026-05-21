@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 49,
+  "heat": 48,
   "location": "kx.ts",
   "maintainers": [
     "defp"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "AMZ123 快讯 - Powered by RSSHub",
-      "errorAt": "2026-05-19T00:22:38.964Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": "2026-05-19T22:13:25.413Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "89539003493689344",
       "image": null,
       "ownerUserId": null,

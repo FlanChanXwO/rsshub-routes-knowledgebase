@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "社会学研究 2024年第1期 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T20:57:51.100Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "82998945824254976",
       "image": null,
       "ownerUserId": null,

@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "emby自供版 交流群：433493451 703381164 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:38:22.547Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67082647330225152",
       "image": null,
       "ownerUserId": null,

@@ -134,8 +134,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub events received by free-nodes - includes private events - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:27:56.728Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "238161917546848256",
       "image": null,
       "ownerUserId": null,

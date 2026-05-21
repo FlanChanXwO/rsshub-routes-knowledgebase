@@ -97,7 +97,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 30,
+  "heat": 32,
   "location": "likes.ts",
   "maintainers": [
     "xyqfer"
@@ -112,7 +112,7 @@ _None_
     {
       "description": "Twitter Likes - DIYgod - Powered by RSSHub",
       "errorAt": "2026-05-18T10:52:37.311Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "54122407526122496",
       "image": null,
       "ownerUserId": null,

@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "培养信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T06:17:57.866Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "66125075329784832",
       "image": null,
       "ownerUserId": null,
@@ -102,8 +102,8 @@
     },
     {
       "description": "硕士招生 - 招生信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
-      "errorAt": "2026-05-19T01:27:31.065Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": "2026-05-20T02:48:11.771Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66124550888512512",
       "image": null,
       "ownerUserId": null,

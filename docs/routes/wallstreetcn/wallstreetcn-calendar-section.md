@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "财经日历 - 华尔街见闻 - Powered by RSSHub",
-      "errorAt": "2026-05-19T03:38:10.480Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "165321950833192960",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

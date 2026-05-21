@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "逛丢 - 今日必买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:19:40.341Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "141468238742304768",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "逛丢 - 6750gre - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:18:47.026Z",
+      "errorMessage": "Authentication failed. Access denied.\n/guangdiu/search/q=6750gre\nFailed to fetch\n",
       "id": "136052350296282112",
       "image": null,
       "ownerUserId": null,

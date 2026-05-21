@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "Report articles from Newslaundry - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:22:17.723Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "167451583004490752",
       "image": null,
       "ownerUserId": null,

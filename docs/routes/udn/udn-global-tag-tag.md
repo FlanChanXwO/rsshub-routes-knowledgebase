@@ -89,8 +89,8 @@
     },
     {
       "description": "轉角國際 udn Global - 深度專欄 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T16:43:28.005Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "80781985075075072",
       "image": null,
       "ownerUserId": null,

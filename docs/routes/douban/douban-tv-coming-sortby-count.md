@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "即将播出的剧集，请求参数: count=10, total=248, sortBy=hot, requestCount=10 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T09:48:06.952Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "259521396346720256",
       "image": null,
       "ownerUserId": null,

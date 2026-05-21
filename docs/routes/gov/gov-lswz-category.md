@@ -232,7 +232,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 63,
+  "heat": 64,
   "location": "lswz/index.ts",
   "maintainers": [
     "nczitzk"

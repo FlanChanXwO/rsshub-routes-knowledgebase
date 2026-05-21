@@ -59,6 +59,19 @@ _None_
     "lang": "语言，`zh-CN`, `en-US`"
   },
   "path": "/blog/:lang?",
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Qwen Blog - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1115783605780348928",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://qwen.ai/research",
+      "title": "Qwen Blog",
+      "type": "feed",
+      "url": "rsshub://qwen/blog/en-US"
+    }
+  ]
 }
 ```

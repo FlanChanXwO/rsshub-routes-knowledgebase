@@ -484,7 +484,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1185,
+  "heat": 1189,
   "location": "csrc/csrc.ts",
   "maintainers": [
     "nczitzk"
@@ -945,8 +945,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T23:14:19.062Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,
@@ -957,8 +957,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:38:19.731Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

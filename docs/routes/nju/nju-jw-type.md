@@ -86,8 +86,8 @@
     },
     {
       "description": "本科生院-教学动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:57:17.962Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "163579923082247168",
       "image": null,
       "ownerUserId": null,

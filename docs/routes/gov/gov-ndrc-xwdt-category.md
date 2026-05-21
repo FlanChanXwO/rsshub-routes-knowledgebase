@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 新闻发布 | 通知通告 | 委领导动态 | 司局动态 | 地方动态 |\n| -------- | -------- | ---------- | -------- | -------- |\n| xwfb     | tzgg     | wlddt      | sjdt     | dfdt     |",
   "example": "/gov/ndrc/xwdt",
-  "heat": 1304,
+  "heat": 1308,
   "location": "ndrc/xwdt.ts",
   "maintainers": [
     "nczitzk"

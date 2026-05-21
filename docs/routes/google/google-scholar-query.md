@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 312,
+  "heat": 311,
   "location": "scholar.ts",
   "maintainers": [
     "HenryQW"
@@ -82,7 +82,7 @@ _None_
     {
       "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",
       "errorAt": "2026-05-14T16:15:54.714Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
       "id": "62187667735435337",
       "image": null,
       "ownerUserId": null,

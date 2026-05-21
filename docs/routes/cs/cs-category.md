@@ -83,7 +83,7 @@ _None_
     "finance"
   ],
   "description": "| 要闻 | 公司 | 市场 | 基金 |\n| ---- | ---- | ---- | ---- |\n| xwzx | ssgs | gppd | tzjj |\n\n| 科创 | 产经   | 期货     | 海外   |\n| ---- | ------ | -------- | ------ |\n| 5g   | cj2020 | zzqh2020 | hw2020 |\n\n<details>\n<summary>更多栏目</summary>\n\n#### 要闻\n\n| 财经要闻 | 观点评论 | 民生消费  |\n| -------- | -------- | --------- |\n| xwzx/hg  | xwzx/jr  | xwzx/msxf |\n\n#### 公司\n\n| 公司要闻  | 公司深度  | 公司巡礼  |\n| --------- | --------- | --------- |\n| ssgs/gsxw | ssgs/gssd | ssgs/gsxl |\n\n#### 市场\n\n| A 股市场  | 港股资讯  | 债市研究  | 海外报道  | 期货报道  |\n| --------- | --------- | --------- | --------- | --------- |\n| gppd/gsyj | gppd/ggzx | gppd/zqxw | gppd/hwbd | gppd/qhbd |\n\n#### 基金\n\n| 基金动态  | 基金视点  | 基金持仓  | 私募基金  | 基民学苑  |\n| --------- | --------- | --------- | --------- | --------- |\n| tzjj/jjdt | tzjj/jjks | tzjj/jjcs | tzjj/smjj | tzjj/tjdh |\n\n#### 机构\n\n| 券商 | 银行 | 保险 |\n| ---- | ---- | ---- |\n| qs   | yh   | bx   |\n\n#### 其他\n\n| 中证快讯 7x24 | IPO 鉴真 | 公司能见度 |\n| ------------- | -------- | ---------- |\n| sylm/jsbd     | yc/ipojz | yc/gsnjd   |\n\n</details>",
-  "heat": 350,
+  "heat": 351,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -109,7 +109,7 @@ _None_
     {
       "description": "中证新闻中心致力于为用户提供实时专业财经证券资讯,事件报导,国际国内新闻要点，覆盖宏观经济,金融市场,商业动态,上市公司,投资理财等全方位信息； - Powered by RSSHub",
       "errorAt": "2026-04-03T16:16:55.439Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://www.cs.com.cn/gppd/ggzx/\": 403 Forbidden\n[GET] \"https://www.cs.com.cn/gppd/ggzx/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.cs.com.cn/gppd/ggzx/\": 403 Forbidden\n[GET] \"https://www.cs.com.cn/gppd/ggzx/\": 403 Forbidden\n",
       "id": "72507895798413312",
       "image": "https://www.cs.com.cn/images/cslogo-2018.png",
       "ownerUserId": null,

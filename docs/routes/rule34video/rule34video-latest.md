@@ -70,6 +70,19 @@ _None_
       "target": "/latest"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Latest updates from Rule34 Video - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1094754492298952704",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.rule34video.com/latest-updates/",
+      "title": "Rule34 Video Latest Updates",
+      "type": "feed",
+      "url": "rsshub://rule34video/latest"
+    }
+  ]
 }
 ```

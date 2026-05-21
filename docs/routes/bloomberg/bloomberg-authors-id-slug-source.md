@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 47,
+  "heat": 48,
   "location": "authors.ts",
   "maintainers": [
     "josh",

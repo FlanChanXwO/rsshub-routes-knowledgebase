@@ -46,8 +46,8 @@ _None_
   "topFeeds": [
     {
       "description": "日本経済新聞 - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:38:20.517Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60729951918990336",
       "image": null,
       "ownerUserId": null,

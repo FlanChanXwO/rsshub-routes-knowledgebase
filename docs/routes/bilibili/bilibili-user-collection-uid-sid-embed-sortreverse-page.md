@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-05-19T00:37:59.066Z",
-      "errorMessage": "Failed to fetch\n502 Bad Gateway\nCannot read properties of undefined (reading 'archives')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59567779750919168",
       "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-05-18T23:38:56.172Z",
-      "errorMessage": "net::ERR_CONNECTION_RESET at https://space.bilibili.com/1/dynamic\n502 Bad Gateway\nCannot read properties of undefined (reading 'archives')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",
       "ownerUserId": null,

@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "南开大学人工智能学院-最新动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T00:13:13.104Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "188273958932923392",
       "image": null,
       "ownerUserId": null,

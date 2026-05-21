@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1112,
+  "heat": 1116,
   "location": "npc/index.ts",
   "maintainers": [
     "233yeee"

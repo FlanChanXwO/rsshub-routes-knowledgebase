@@ -54,21 +54,9 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "vue - npm - Powered by RSSHub",
+      "description": "pnpm - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175925053805877248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/vue",
-      "title": "vue - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/vue"
-    },
-    {
-      "description": "pnpm - npm - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:22:33.888Z",
-      "errorMessage": "500 Internal Server Error\n",
       "id": "175926392329725952",
       "image": null,
       "ownerUserId": null,
@@ -76,6 +64,18 @@ _None_
       "title": "pnpm - npm",
       "type": "feed",
       "url": "rsshub://npm/package/pnpm"
+    },
+    {
+      "description": "typescript - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "115376694953118720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/typescript",
+      "title": "typescript - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/typescript"
     }
   ]
 }

@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "野生社会观察员 - Powered by RSSHub",
-      "errorAt": "2026-05-18T23:52:40.983Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129188571039811584",
       "image": "https://img.huxiucdn.com/auth/data/avatar/001/51/52/29_1703563667.jpeg",
       "ownerUserId": null,

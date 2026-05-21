@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "浙大软件学院-国际实习 - Powered by RSSHub",
-      "errorAt": "2026-05-19T01:12:32.142Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "168412983866723328",
       "image": null,
       "ownerUserId": null,

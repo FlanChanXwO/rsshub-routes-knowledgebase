@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 386,
+  "heat": 387,
   "location": "category.ts",
   "maintainers": [
     "FuryMartin, Geraldxm"

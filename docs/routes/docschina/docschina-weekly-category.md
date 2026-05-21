@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "印记中文 - 深入挖掘国外前端新领域，为国内 Web 前端开发人员提供优质文档！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T02:45:25.739Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "42759639011832832",
       "image": null,
       "ownerUserId": null,

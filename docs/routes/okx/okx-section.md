@@ -138,8 +138,8 @@ _None_
     },
     {
       "description": "最新公告 - Powered by RSSHub",
-      "errorAt": "2026-05-19T02:52:39.452Z",
-      "errorMessage": "Empty RSSHub items from 147936360793227264\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "113827262636876800",
       "image": null,
       "ownerUserId": null,

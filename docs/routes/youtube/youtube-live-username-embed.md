@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 152,
+  "heat": 150,
   "location": "live.ts",
   "maintainers": [
     "sussurr127"
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "$Gawr Gura Ch. hololive-EN's live streaming status - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:23:21.732Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42001666786766848",
       "image": null,
       "ownerUserId": null,

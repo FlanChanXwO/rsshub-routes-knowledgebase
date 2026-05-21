@@ -78,7 +78,7 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 11,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -136,8 +136,8 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
   "topFeeds": [
     {
       "description": "Repositories Ranking - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:25:58.370Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "183008047351892992",
       "image": null,
       "ownerUserId": null,

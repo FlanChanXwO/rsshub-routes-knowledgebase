@@ -70,7 +70,7 @@ _None_
     {
       "description": "Paradigm - Writing - Powered by RSSHub",
       "errorAt": "2024-09-10T18:52:57.497Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "41691330851083264",
       "image": null,
       "ownerUserId": null,

@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "酷安个人动态-晨钟酱 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:37:34.272Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "68924893291413504",
       "image": null,
       "ownerUserId": null,

@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/latest",
-  "heat": 15,
+  "heat": 14,
   "location": "latest.ts",
   "maintainers": [
     "mintyfrankie"

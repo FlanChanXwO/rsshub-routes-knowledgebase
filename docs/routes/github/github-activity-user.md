@@ -54,7 +54,7 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4826,
+  "heat": 4838,
   "location": "activity.ts",
   "maintainers": [
     "hyoban"

@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for yonggekkk/Cloudflare_vless_trojan - Powered by RSSHub",
+      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "88072707051804672",
+      "id": "83173808754165760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yonggekkk/Cloudflare_vless_trojan/graphs/contributors",
-      "title": "yonggekkk/Cloudflare_vless_trojan Contributors",
+      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
+      "title": "biquanlibai/blockchain-course Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/yonggekkk/Cloudflare_vless_trojan"
+      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
     },
     {
-      "description": "New contributors for zabbix/zabbix-docker - Powered by RSSHub",
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "95485494519570432",
+      "id": "84958270281030656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/zabbix/zabbix-docker/graphs/contributors",
-      "title": "zabbix/zabbix-docker Contributors",
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/zabbix/zabbix-docker"
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "南方都市报奥一网 - Powered by RSSHub",
-      "errorAt": "2026-05-18T23:57:50.030Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150755089712076808",
       "image": null,
       "ownerUserId": null,

@@ -90,8 +90,8 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
   "topFeeds": [
     {
       "description": "News - Node.js - Powered by RSSHub",
-      "errorAt": "2026-05-18T19:03:36.585Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "98341488375760896",
       "image": null,
       "ownerUserId": null,
@@ -102,8 +102,8 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
     },
     {
       "description": "News - Node.js - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T20:17:26.785Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "72473659742656512",
       "image": null,
       "ownerUserId": null,

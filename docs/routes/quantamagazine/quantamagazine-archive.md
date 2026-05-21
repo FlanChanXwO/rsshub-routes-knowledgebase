@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Quanta Magazine - Powered by RSSHub",
-      "errorAt": "2026-05-19T00:33:04.617Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "145148341029475363",
       "image": null,
       "ownerUserId": null,

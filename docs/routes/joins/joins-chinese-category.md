@@ -260,8 +260,8 @@
     },
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:38:35.343Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "65469694593591296",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

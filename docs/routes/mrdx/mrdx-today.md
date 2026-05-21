@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 432,
+  "heat": 431,
   "location": "daily.ts",
   "maintainers": [
     "Dustin-Jiang"

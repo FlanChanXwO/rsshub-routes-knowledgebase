@@ -47,7 +47,7 @@ _None_
       }
     ]
   },
-  "heat": 37,
+  "heat": 38,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin",
@@ -62,7 +62,7 @@ _None_
     {
       "description": "特はない。 - Powered by RSSHub",
       "errorAt": "2025-11-26T09:51:52.390Z",
-      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11011774\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=10712861\": 403 Forbidden\n",
       "id": "140056726308777984",
       "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3326223/icon/MueHg8Ixy6zLRTamiarKT8xC.jpeg",
       "ownerUserId": null,
@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanbox/kuromomo"
     },
     {
-      "description": "这里是鬼针草！每个月我都会更新一幅白丝、黑丝题材的插图的，尺度在r15，谢谢大家的支持！ - Powered by RSSHub",
-      "errorAt": "2025-11-26T15:22:23.460Z",
-      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11755600\": 403 Forbidden\n[GET] \"https://api.fanbox.cc/post.info?postId=11594889\": 403 Forbidden\n",
-      "id": "140054677210474496",
-      "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/6049901/icon/FQky4DosFQb4M2L1WKK42DQ6.jpeg",
+      "description": "Fanbox - Feather - Powered by RSSHub",
+      "errorAt": "2025-11-26T11:26:59.575Z",
+      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11900940\": 403 Forbidden\n",
+      "id": "82082879942475776",
+      "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/24059807/icon/aeWv4PxOsfgxu9I1n6OenEl5.jpeg",
       "ownerUserId": null,
-      "siteUrl": "https://szcb911.fanbox.cc/",
-      "title": "Fanbox - 鬼針草",
+      "siteUrl": "https://feather.fanbox.cc/",
+      "title": "Fanbox - Feather",
       "type": "feed",
-      "url": "rsshub://fanbox/szcb911"
+      "url": "rsshub://fanbox/feather"
     }
   ]
 }

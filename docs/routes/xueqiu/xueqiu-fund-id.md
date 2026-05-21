@@ -62,7 +62,7 @@ _None_
   "path": "/fund/:id",
   "topFeeds": [
     {
-      "description": "基金代码 019305 <br> 今日净值(2026-05-15) ¥1.6478 <br> 日跌跌 -1.1162% - Powered by RSSHub",
+      "description": "基金代码 019305 <br> 今日净值(2026-05-18) ¥1.6465 <br> 日跌跌 -0.0789% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899751385970688",
@@ -74,9 +74,9 @@ _None_
       "url": "rsshub://xueqiu/fund/019305"
     },
     {
-      "description": "基金代码 017093 <br> 今日净值(2026-05-14) ¥2.7418 <br> 日涨跌 0.9053% - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "基金代码 017093 <br> 今日净值(2026-05-18) ¥2.6835 <br> 日跌跌 -0.8095% - Powered by RSSHub",
+      "errorAt": "2026-05-19T23:12:17.883Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "64899487882088448",
       "image": null,
       "ownerUserId": null,

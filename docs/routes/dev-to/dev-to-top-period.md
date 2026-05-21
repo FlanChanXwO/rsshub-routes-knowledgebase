@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 130,
+  "heat": 128,
   "location": "top.ts",
   "maintainers": [
     "dwemerx",

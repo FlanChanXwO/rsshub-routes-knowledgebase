@@ -468,8 +468,8 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
   "topFeeds": [
     {
       "description": "小説家になろう (noc) - 日間総合ランキング BEST300 - Powered by RSSHub",
-      "errorAt": "2026-05-18T18:58:11.737Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82945591703756800",
       "image": null,
       "ownerUserId": null,
@@ -480,8 +480,8 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
     },
     {
       "description": "小説家になろう (noc) - 日間完結済ランキング BEST300 - Powered by RSSHub",
-      "errorAt": "2026-05-18T20:58:09.616Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "146209536416978944",
       "image": null,
       "ownerUserId": null,

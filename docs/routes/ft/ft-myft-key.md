@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "myft.ts",
   "maintainers": [
     "HenryQW"
@@ -77,6 +77,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://ft/myft/REPLACE_WITH_KEY"
+    },
+    {
+      "description": null,
+      "errorAt": "2026-05-20T01:13:07.457Z",
+      "errorMessage": "Status code 404\n",
+      "id": "1105989238660136960",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://ft/myft/all"
     }
   ]
 }

@@ -88,8 +88,8 @@
     },
     {
       "description": "挂牌督办 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:43:39.926Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "73327086064622592",
       "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
       "ownerUserId": null,

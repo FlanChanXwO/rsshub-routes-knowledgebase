@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",
-      "errorAt": "2026-05-18T21:13:17.617Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57236269888968706",
       "image": null,
       "ownerUserId": null,

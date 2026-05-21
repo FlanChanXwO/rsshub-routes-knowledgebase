@@ -113,7 +113,7 @@
     {
       "description": "第一财经 - 谈股论金 - Powered by RSSHub",
       "errorAt": "2025-11-04T09:04:03.275Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'slug')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "134860047181050880",
       "image": null,
       "ownerUserId": null,

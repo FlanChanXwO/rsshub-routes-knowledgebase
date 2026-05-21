@@ -39,7 +39,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "heat": 121,
+  "heat": 120,
   "location": "ac/comic.ts",
   "maintainers": [],
   "name": "Unknown",

@@ -47,8 +47,8 @@ _None_
   "topFeeds": [
     {
       "description": "提供經天文台分析的全球5.0級或以上及本地有感的地震資訊。 - Powered by RSSHub",
-      "errorAt": "2026-05-19T02:43:43.797Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69201588937562112",
       "image": null,
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
     "programming"
   ],
   "example": "/github/file/DIYgod/RSSHub/master/README.md",
-  "heat": 173,
+  "heat": 177,
   "location": "file.ts",
   "maintainers": [
     "zengxs"
@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://github/file/guanguans/favorite-link/master/README.md"
     },
     {
-      "description": "GitHub File - ginobefun/BestBlogs/main/BestBlogs_RSS_ALL.opml - Powered by RSSHub",
+      "description": "GitHub File - anthropics/claude-code/main/CHANGELOG.md - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "156630877976181760",
+      "id": "160510153923355648",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/ginobefun/BestBlogs/commits/main/BestBlogs_RSS_ALL.opml",
-      "title": "GitHub File - ginobefun/BestBlogs/main/BestBlogs_RSS_ALL.opml",
+      "siteUrl": "https://github.com/anthropics/claude-code/commits/main/CHANGELOG.md",
+      "title": "GitHub File - anthropics/claude-code/main/CHANGELOG.md",
       "type": "feed",
-      "url": "rsshub://github/file/ginobefun/BestBlogs/main/BestBlogs_RSS_ALL.opml"
+      "url": "rsshub://github/file/anthropics/claude-code/main/CHANGELOG.md"
     }
   ]
 }

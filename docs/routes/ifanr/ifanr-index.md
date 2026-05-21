@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 531,
+  "heat": 530,
   "location": "index.ts",
   "maintainers": [
     "donghongfei"

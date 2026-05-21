@@ -67,7 +67,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 40,
+  "heat": 39,
   "location": "blog.ts",
   "maintainers": [
     "johan456789"

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 94,
+  "heat": 93,
   "location": "music/artist.ts",
   "maintainers": [
     "metowolf"
@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "65815290747943936",
-      "image": "https://p2.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
+      "image": "https://p1.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/#/artist/album?id=59573590",
       "title": "The 1999",

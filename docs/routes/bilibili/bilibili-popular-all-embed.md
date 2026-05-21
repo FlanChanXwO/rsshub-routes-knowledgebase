@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 843,
+  "heat": 846,
   "location": "popular.ts",
   "maintainers": [
     "ziminliu"
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",
-      "errorAt": "2026-05-19T03:03:19.157Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "169231605189909504",
       "image": null,
       "ownerUserId": null,

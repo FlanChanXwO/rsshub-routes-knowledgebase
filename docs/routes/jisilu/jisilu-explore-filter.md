@@ -58,7 +58,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 295,
+  "heat": 292,
   "location": "explore.ts",
   "maintainers": [
     "nczitzk"
@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:04:28.237Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "60339440727459840",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,

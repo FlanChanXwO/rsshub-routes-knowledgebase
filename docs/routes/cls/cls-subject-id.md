@@ -88,8 +88,8 @@
     },
     {
       "description": "每日7点，最热、最全面的财经资讯尽在财联社早报 - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:28:16.615Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69656992151508992",
       "image": "https://img.cls.cn/images/20230626/VTro88PCM7.jpg",
       "ownerUserId": null,

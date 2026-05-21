@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "リスタープロ所属。子役→塾講師→グラビアアイドル→MUTEKI ちいかわ好きです お仕事の依頼について→info@listarpro.com - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:48:02.355Z",
-      "errorMessage": "[GET] \"https://www.instagram.com/api/v1/users/web_profile_info/?username=rui_shido\": <no response> fetch failed\n[GET] \"https://www.instagram.com/api/v1/users/web_profile_info/?username=rui_shido\": <no response> fetch failed\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "168841072365077504",
       "image": "https://scontent-sin6-3.cdninstagram.com/v/t51.2885-19/365432985_1321784328764826_5416763734837577804_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sin6-3.cdninstagram.com&_nc_cat=106&_nc_oc=Q6cZ2gEWqKZr5C4MKZuGyKQihCyxSvdPohobzKnMBMHxlornaYex6tCf-IiXSpOiTiSwy6I&_nc_ohc=SM2It1L4BZsQ7kNvwE3SK61&_nc_gid=oxXvVOYgUQr247L6_9rbbw&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af2a90cpN5jZRT_BEDh8xpuWkHQW0o1msJ7wQ0inQeI77w&oe=69F42FAE&_nc_sid=8b3546",
       "ownerUserId": null,

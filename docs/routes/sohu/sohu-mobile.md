@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 17,
+  "heat": 18,
   "location": "mobile.ts",
   "maintainers": [
     "asqwe1"

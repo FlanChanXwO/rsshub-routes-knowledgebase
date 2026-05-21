@@ -94,8 +94,8 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
     },
     {
       "description": "Wallpaper Search: - wallhaven.cc - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T20:44:52.266Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41870267217959936",
       "image": null,
       "ownerUserId": null,

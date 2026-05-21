@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23,
+  "heat": 22,
   "location": "preferential.ts",
   "maintainers": [
     "howel52"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "飞客茶馆优惠 - Powered by RSSHub",
-      "errorAt": "2026-05-18T21:09:23.337Z",
-      "errorMessage": "[GET] \"https://www.flyert.com/forum.php?mod=forumdisplay&sum=all&fid=all&catid=322\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56540861752061952",
       "image": null,
       "ownerUserId": null,

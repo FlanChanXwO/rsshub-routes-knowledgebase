@@ -1540,8 +1540,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:19:54.832Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "215454511119244288",
       "image": "/_next/static/media/logo.e924b854.png",
       "ownerUserId": null,

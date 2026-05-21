@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "魔法禁书目录 - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": "2026-05-18T23:52:32.694Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126699050007148544",
       "image": null,
       "ownerUserId": null,
@@ -70,8 +70,8 @@ _None_
     },
     {
       "description": "败北女角太多了！ - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": "2026-05-02T00:01:10.624Z",
-      "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58014655249591296",
       "image": null,
       "ownerUserId": null,

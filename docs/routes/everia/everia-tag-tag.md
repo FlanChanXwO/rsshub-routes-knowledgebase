@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "EVERIA.CLUB - Tag: hinatazaka46-日向坂46 - Powered by RSSHub",
-      "errorAt": "2026-05-18T22:48:23.815Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153295667919122432",
       "image": null,
       "ownerUserId": null,

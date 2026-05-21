@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/rustcc/news",
-  "heat": 636,
+  "heat": 635,
   "location": "news.ts",
   "maintainers": [
     "zhenlohuang"

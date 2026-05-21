@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "华中科技大学研究生调剂信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T10:39:21.077Z",
+      "errorMessage": "[GET] \"https://gszs.hust.edu.cn/zsxx/ggtz.htm\": <no response> fetch failed\n",
       "id": "73883177475050496",
       "image": null,
       "ownerUserId": null,

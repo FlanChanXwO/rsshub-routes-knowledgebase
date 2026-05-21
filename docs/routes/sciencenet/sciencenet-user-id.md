@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "科学网 - 朱豫才的博文 - Powered by RSSHub",
-      "errorAt": "2026-05-18T19:28:24.235Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66637908923103232",
       "image": null,
       "ownerUserId": null,

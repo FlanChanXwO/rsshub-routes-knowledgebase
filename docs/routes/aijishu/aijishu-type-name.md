@@ -76,6 +76,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://aijishu/channel/ai"
+    },
+    {
+      "description": null,
+      "errorAt": "2026-05-11T03:02:37.106Z",
+      "errorMessage": "[GET] \"https://aijishu.comundefined?page=1\": <no response> fetch failed\n",
+      "id": "250564935356404739",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://aijishu/hot"
     }
   ]
 }

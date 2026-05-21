@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 45,
+  "heat": 43,
   "location": "index.ts",
   "maintainers": [
     "hoilc"
@@ -79,7 +79,7 @@ _None_
     {
       "description": "ClickMe R18 - 最新 - Powered by RSSHub",
       "errorAt": "2026-05-18T02:12:27.697Z",
-      "errorMessage": "[POST] \"https://api.clickme.net/article/list?key=clickme\": 404 Not Found\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "156717605498762240",
       "image": null,
       "ownerUserId": null,

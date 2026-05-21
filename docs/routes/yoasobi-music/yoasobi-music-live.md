@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "YOASOBI's Latest Live - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T01:33:22.678Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59198397654618112",
       "image": null,
       "ownerUserId": null,

@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T19:48:20.100Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88557710935450624",
       "image": null,
       "ownerUserId": null,
@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
+      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852225922308096",
+      "id": "123852126561305600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
-      "title": "SilkSpawners Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
+      "title": "PvPManager Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
+      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
     }
   ]
 }

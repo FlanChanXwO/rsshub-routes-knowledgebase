@@ -168,8 +168,8 @@
     },
     {
       "description": "国资委重磅发文：绿色低碳供应链成为央企硬性绩效考核！不懂“绿”，央企领导的帽子和票子可能不稳！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-19T12:43:23.284Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "166018536566226944",
       "image": null,
       "ownerUserId": null,

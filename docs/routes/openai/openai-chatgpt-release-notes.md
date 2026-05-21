@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 5,
   "location": "chatgpt.ts",
   "maintainers": [
     "xbot"
@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "ChatGPT Release Notes - Powered by RSSHub",
-      "errorAt": "2026-05-19T01:17:51.162Z",
-      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "241365607440964608",
       "image": null,
       "ownerUserId": null,

@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
-      "errorAt": "2026-05-18T15:37:44.856Z",
-      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667731240962",
       "image": null,
       "ownerUserId": null,

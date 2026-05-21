@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/baijing/article",
-  "heat": 57,
+  "heat": 58,
   "location": "index.ts",
   "maintainers": [
     "p3psi-boo"
