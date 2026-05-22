@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "学术观点 - Powered by RSSHub",
-      "errorAt": "2026-05-19T22:08:13.413Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79124130475658240",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://tongji/sem/academic-paper"
     },
     {
-      "description": "活动 - Powered by RSSHub",
-      "errorAt": "2026-05-19T16:43:49.991Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "79122838265601024",
+      "description": "新闻 - Powered by RSSHub",
+      "errorAt": "2026-05-19T07:39:27.500Z",
+      "errorMessage": "502 Bad Gateway\n",
+      "id": "79122535436852224",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
       "siteUrl": "https://sem.tongji.edu.cn/semch",
       "title": "同济大学经济与管理学院",
       "type": "feed",
-      "url": "rsshub://tongji/sem/events"
+      "url": "rsshub://tongji/sem/news"
     }
   ],
   "url": "sem.tongji.edu.cn/semch"

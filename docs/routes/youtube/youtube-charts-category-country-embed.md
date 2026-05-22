@@ -97,7 +97,7 @@ _None_
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
       "errorAt": "2026-05-16T00:17:53.443Z",
-      "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": <no response> fetch failed\nCannot read properties of undefined (reading 'filter')\n",
       "id": "57506261522656256",
       "image": null,
       "ownerUserId": null,

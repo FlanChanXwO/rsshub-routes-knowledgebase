@@ -240,7 +240,7 @@
     {
       "description": "Error 404 (Not Found)!!1 - 江河日下 - Powered by RSSHub",
       "errorAt": "2026-04-18T13:03:27.049Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://river.to/occasus/vncwdhq2xje7wp/rawzi0ruu6p6a1\": 404 Not Found\n",
       "id": "43417089717578752",
       "image": "",
       "ownerUserId": null,

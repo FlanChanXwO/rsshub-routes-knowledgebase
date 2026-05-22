@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 101,
+  "heat": 102,
   "location": "feeds.ts",
   "maintainers": [
     "zhenlohuang"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "Bestblogs.dev - Powered by RSSHub",
       "errorAt": "2026-04-11T13:02:50.531Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
       "id": "120316345262161920",
       "image": null,
       "ownerUserId": null,

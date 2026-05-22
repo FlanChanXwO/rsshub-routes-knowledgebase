@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-05-19T21:24:35.423Z",
-      "errorMessage": "Empty RSSHub items from 147936360793227264\n[GET] \"https://javtiful.com/channel/madonna\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63624830978450432",
       "image": "https://javtiful.com/media/categories/collection/44.jpg?width=140",
       "ownerUserId": null,

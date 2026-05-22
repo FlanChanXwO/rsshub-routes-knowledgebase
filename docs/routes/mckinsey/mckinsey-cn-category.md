@@ -167,8 +167,8 @@ _None_
     },
     {
       "description": "Insights – McKinsey Greater China - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T01:05:10.963Z",
+      "errorMessage": "403 Forbidden\nFailed to fetch\n",
       "id": "55154008868618240",
       "image": "https://www.mckinsey.com.cn/wp-content/uploads/2022/07/cropped-620A014D-827F-470B-8E91-990A4222CAE8-270x270.jpeg",
       "ownerUserId": null,

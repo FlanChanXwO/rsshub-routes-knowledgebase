@@ -36,7 +36,7 @@ _None_
     "blog"
   ],
   "example": "/thzt/blog",
-  "heat": 13,
+  "heat": 14,
   "location": "index.ts",
   "maintainers": [
     "jihuayu"

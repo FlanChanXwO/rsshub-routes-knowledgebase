@@ -1,15 +1,15 @@
-# 国家能源局 - 事故及灾害查处
+# 深圳市罗湖区人民政府 - 事故及灾害查处
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/mem/gk/sgcc/:category?`
 - Route Name: `事故及灾害查处`
 - Example: `/gov/mem/gk/sgcc/tbzdsgdcbg`
-- URL: `www.nea.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -88,8 +88,8 @@
     },
     {
       "description": "挂牌督办 - Powered by RSSHub",
-      "errorAt": "2026-05-19T19:43:39.926Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73327086064622592",
       "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
       "ownerUserId": null,

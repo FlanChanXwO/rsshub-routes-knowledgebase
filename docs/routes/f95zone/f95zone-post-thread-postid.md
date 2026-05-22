@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://f95zone/post/nyl-collection-2026-01-01-nyl2.46099/post-3049831"
     },
     {
-      "description": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-05-01] [LazyProcrastinator/LazyProcrast] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523390007444480",
+      "id": "250523611655439360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/nagoonimation-collection-2025-11-14-nagoonimation.52702/#post-3510810",
-      "title": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation]",
+      "siteUrl": "https://f95zone.to/threads/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/#post-3358507",
+      "title": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-05-01] [LazyProcrastinator/LazyProcrast]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/nagoonimation-collection-2025-11-14-nagoonimation.52702/post-3510810"
+      "url": "rsshub://f95zone/post/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/post-3358507"
     }
   ]
 }

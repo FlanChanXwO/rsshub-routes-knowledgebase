@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "文学 - Powered by RSSHub",
-      "errorAt": "2026-05-19T22:17:27.636Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "152614384793012224",
       "image": null,
       "ownerUserId": null,

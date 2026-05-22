@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "Watch Humiliation Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
-      "errorAt": "2026-05-06T12:13:15.118Z",
-      "errorMessage": "[GET] \"https://javtrailers.com/api/categories/humiliation?page=0\": 403 Forbidden\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "89582686639029248",
       "image": null,
       "ownerUserId": null,
@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "Watch Female Teacher Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
-      "errorAt": "2026-05-05T01:06:28.512Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "89580112137494528",
       "image": null,
       "ownerUserId": null,

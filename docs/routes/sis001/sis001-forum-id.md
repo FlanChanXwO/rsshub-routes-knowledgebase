@@ -66,7 +66,7 @@ _None_
     {
       "description": "仅限于发布日本、韩国、国产、泰国、印度等亚洲无码类成人视频BT资源【5级主贴 1级回复】 SiS001! Board - [第一会所 关闭注册] - Powered by RSSHub",
       "errorAt": "2025-08-22T21:19:59.702Z",
-      "errorMessage": "[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n",
       "id": "72307748768172032",
       "image": null,
       "ownerUserId": null,
@@ -78,7 +78,7 @@ _None_
     {
       "description": "仅用于第一会所新片账号发布最新日本AV BT资源【全员可见 1级回复】 SiS001! Board - [第一会所 关闭注册] - Powered by RSSHub",
       "errorAt": "2025-08-22T19:01:45.676Z",
-      "errorMessage": "[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n",
       "id": "57370193871711232",
       "image": null,
       "ownerUserId": null,

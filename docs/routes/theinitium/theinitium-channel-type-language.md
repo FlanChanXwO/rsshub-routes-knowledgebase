@@ -102,8 +102,8 @@ Type 栏目（对应 Ghost 标签）：
   "topFeeds": [
     {
       "description": "端傳媒 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:43:16.797Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41443203209057310",
       "image": null,
       "ownerUserId": null,
@@ -114,8 +114,8 @@ Type 栏目（对应 Ghost 标签）：
     },
     {
       "description": "端傳媒 - 专题 - Powered by RSSHub",
-      "errorAt": "2026-05-19T05:03:54.225Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56674476083111936",
       "image": "https://d32kak7w9u5ewj.cloudfront.net/media/channel/2020/09/a371f1d3b70c4006a88cc12d127e1f52.jpg",
       "ownerUserId": null,

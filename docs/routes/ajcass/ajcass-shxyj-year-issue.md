@@ -63,21 +63,21 @@ _None_
   "path": "/shxyj/:year?/:issue?",
   "topFeeds": [
     {
-      "description": "社会学研究 2026年第2期 - Powered by RSSHub",
+      "description": "社会学研究 2026年第3期 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "83506691980410880",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://shxyj.ajcass.com/Magazine/?Year=2026&Issue=2",
-      "title": "社会学研究 2026年第2期",
+      "siteUrl": "https://shxyj.ajcass.com/Magazine/?Year=2026&Issue=3",
+      "title": "社会学研究 2026年第3期",
       "type": "feed",
       "url": "rsshub://ajcass/shxyj"
     },
     {
       "description": "社会学研究 2024年第1期 - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:57:51.100Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82998945824254976",
       "image": null,
       "ownerUserId": null,

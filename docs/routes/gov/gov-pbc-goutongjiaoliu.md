@@ -1,11 +1,11 @@
-# 国家能源局 - 沟通交流
+# 深圳市罗湖区人民政府 - 沟通交流
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/pbc/goutongjiaoliu`
 - Route Name: `沟通交流`
 - Example: `/gov/pbc/goutongjiaoliu`
@@ -70,7 +70,7 @@ _None_
     {
       "description": "中国人民银行 - 沟通交流 - Powered by RSSHub",
       "errorAt": "2026-01-06T11:19:10.515Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "page.goto: Target page, context or browser has been closed\nCall log:\n  - navigating to \"http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/index.html\", waiting until \"domcontentloaded\"\n\n",
       "id": "146226947009457153",
       "image": null,
       "ownerUserId": null,

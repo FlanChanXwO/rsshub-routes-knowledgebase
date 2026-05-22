@@ -60,7 +60,7 @@ _None_
   "topFeeds": [
     {
       "description": "Mashiro's Baumkuchen - Powered by RSSHub",
-      "errorAt": "2026-05-19T16:13:55.873Z",
+      "errorAt": "2026-05-20T18:37:13.189Z",
       "errorMessage": "[GET] \"https://mashiro.best/zh-cn/archives/\": 404 Not Found\n",
       "id": "113613880452673536",
       "image": null,

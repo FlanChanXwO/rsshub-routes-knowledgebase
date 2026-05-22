@@ -65,7 +65,7 @@ _None_
     {
       "description": "Watch documentaries online, including films and videos featuring true stories, character and artist profiles, and more. - Powered by RSSHub",
       "errorAt": "2025-11-14T00:40:29.030Z",
-      "errorMessage": "502 Bad Gateway\n500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "67892393839925248",
       "image": null,
       "ownerUserId": null,
@@ -77,7 +77,7 @@ _None_
     {
       "description": "Watch documentaries online, including films and videos featuring true stories, character and artist profiles, and more. - Powered by RSSHub",
       "errorAt": "2025-11-14T01:11:29.498Z",
-      "errorMessage": "[GET] \"https://api.vimeo.com/categories/documentary/videos?page=1&per_page=18&direction=desc&sort=date&filter=conditional_featured\": 406 Not Acceptable\n",
+      "errorMessage": "[GET] \"https://api.vimeo.com/categories/documentary/videos?page=1&per_page=18&direction=desc&sort=date&filter=conditional_featured\": 404 Not Found\n",
       "id": "60197856983408640",
       "image": null,
       "ownerUserId": null,

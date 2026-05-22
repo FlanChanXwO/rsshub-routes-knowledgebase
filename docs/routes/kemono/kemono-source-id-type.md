@@ -137,8 +137,8 @@ Support for announcements and fancards:
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",
-      "errorAt": "2026-05-20T02:08:20.073Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59871541870611456",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59871541870611456",
       "image": "https://kemono.cr/favicon.ico",
       "ownerUserId": null,

@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Komiic - 魔都精兵的奴隸 - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:27:18.751Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "118075271617970176",
       "image": null,
       "ownerUserId": null,

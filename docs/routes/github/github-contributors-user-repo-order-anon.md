@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
+      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83173808754165760",
+      "id": "64129774135370752",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
+      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
+      "title": "KrystalCJ/Conf Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
+      "url": "rsshub://github/contributors/KrystalCJ/Conf"
     },
     {
-      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84958270281030656",
+      "id": "80504153337164800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
-      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
+      "title": "comfyanonymous/ComfyUI Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
+      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
     }
   ]
 }

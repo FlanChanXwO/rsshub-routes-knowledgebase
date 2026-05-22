@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5571,
+  "heat": 5570,
   "location": "activities.ts",
   "maintainers": [
     "DIYgod"
@@ -79,7 +79,7 @@ _None_
     {
       "description": "个人星球:DeepVan的逃生地牢 - Powered by RSSHub",
       "errorAt": "2026-03-18T09:48:51.681Z",
-      "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n",
       "id": "55789531638486016",
       "image": "https://pic1.zhimg.com/v2-2161a03f1aac4c7b20a4edfa43318a7a_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": null,

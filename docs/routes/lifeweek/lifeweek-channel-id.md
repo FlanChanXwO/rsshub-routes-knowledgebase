@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": "2026-05-19T21:32:10.003Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

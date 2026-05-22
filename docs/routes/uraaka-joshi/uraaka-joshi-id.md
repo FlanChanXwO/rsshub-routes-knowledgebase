@@ -75,7 +75,7 @@ _None_
     {
       "description": "セルフグラビアの人。https://t.co/uaezeN1CR4 - Powered by RSSHub",
       "errorAt": "2025-05-15T09:52:55.580Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Access denied (403)\n",
       "id": "75447921802487808",
       "image": null,
       "ownerUserId": null,

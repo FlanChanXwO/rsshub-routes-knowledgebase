@@ -87,7 +87,7 @@
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
       "errorAt": "2026-05-08T19:18:51.234Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "72512219481102338",
       "image": null,
       "ownerUserId": null,

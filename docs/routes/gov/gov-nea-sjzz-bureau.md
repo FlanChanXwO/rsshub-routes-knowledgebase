@@ -1,11 +1,11 @@
-# 国家能源局 - 司工作进展
+# 深圳市罗湖区人民政府 - 司工作进展
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/nea/sjzz/:bureau`
 - Route Name: `司工作进展`
 - Example: `/gov/nea/sjzz/ghs`
@@ -132,7 +132,7 @@ _None_
     {
       "description": "国家能源局 - 发展规划司工作进展 - Powered by RSSHub",
       "errorAt": "2025-09-12T15:00:21.335Z",
-      "errorMessage": "200 OK",
+      "errorMessage": "Failed to fetch\n",
       "id": "61217794276645888",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1632,
+  "heat": 1631,
   "location": "news.ts",
   "maintainers": [
     "EthanWng97",
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Reporting, Profiles, breaking news, cultural coverage, podcasts, videos, and cartoons from The New Yorker. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T21:12:29.804Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\nCannot read properties of undefined (reading 'map')\nCannot read properties of undefined (reading 'map')\n",
       "id": "62040507105143808",
       "image": null,
       "ownerUserId": null,

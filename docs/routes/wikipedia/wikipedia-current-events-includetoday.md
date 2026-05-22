@@ -95,8 +95,8 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
   "topFeeds": [
     {
       "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",
-      "errorAt": "2026-05-19T23:02:19.561Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "192950772436249600",
       "image": null,
       "ownerUserId": null,

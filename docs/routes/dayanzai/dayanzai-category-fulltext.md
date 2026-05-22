@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 118,
+  "heat": 119,
   "location": "index.ts",
   "maintainers": [],
   "name": "分类",
@@ -79,7 +79,7 @@
     {
       "description": "大眼仔旭 windows RSS - Powered by RSSHub",
       "errorAt": "2025-12-19T05:39:37.981Z",
-      "errorMessage": "Failed to fetch\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n502 Bad Gateway\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n403 Forbidden\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n",
       "id": "64953399235565578",
       "image": null,
       "ownerUserId": null,
@@ -91,7 +91,7 @@
     {
       "description": "大眼仔旭 android RSS - Powered by RSSHub",
       "errorAt": "2025-09-26T01:57:15.388Z",
-      "errorMessage": "[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\n502 Bad Gateway\nFailed to fetch\n",
+      "errorMessage": "[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed\n",
       "id": "66737530237513741",
       "image": null,
       "ownerUserId": null,

@@ -92,8 +92,8 @@
     },
     {
       "description": "最新新聞即時報：24小時不間斷直擊真相｜壹蘋新聞網 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T20:55:27.327Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 101860421509435392",
       "id": "101860421509435392",
       "image": null,
       "ownerUserId": null,

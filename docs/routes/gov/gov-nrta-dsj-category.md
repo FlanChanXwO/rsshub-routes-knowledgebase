@@ -1,15 +1,15 @@
-# 国家能源局 - 电视剧政务平台
+# 深圳市罗湖区人民政府 - 电视剧政务平台
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/nrta/dsj/:category?`
 - Route Name: `电视剧政务平台`
 - Example: `/gov/nrta/dsj`
-- URL: `www.nea.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

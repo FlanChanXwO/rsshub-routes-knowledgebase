@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
-      "errorAt": "2026-05-19T19:48:20.100Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88557710935450624",
       "image": null,
       "ownerUserId": null,

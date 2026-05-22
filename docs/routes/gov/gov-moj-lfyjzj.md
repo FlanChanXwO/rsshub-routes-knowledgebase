@@ -1,11 +1,11 @@
-# 国家能源局 - 立法意见征集
+# 深圳市罗湖区人民政府 - 立法意见征集
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/moj/lfyjzj`
 - Route Name: `立法意见征集`
 - Example: `/gov/moj/lfyjzj`
@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 58,
+  "heat": 57,
   "location": "moj/lfyjzj.ts",
   "maintainers": [
     "la3rence"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "中华人民共和国司法部 - 立法意见征集 - Powered by RSSHub",
       "errorAt": "2025-09-24T07:47:02.292Z",
-      "errorMessage": "[GET] \"https://www.moj.gov.cn/lfyjzj/lflfyjzj/index.html\": <no response> fetch failed\n[GET] \"https://www.moj.gov.cn/lfyjzj/lflfyjzj/index.html\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.moj.gov.cn/lfyjzj/lflfyjzj/index.html\": <no response> fetch failed\n",
       "id": "62781073015771136",
       "image": null,
       "ownerUserId": null,

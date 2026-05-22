@@ -68,6 +68,18 @@ _None_
   "path": "/tag/:owner/:image/:limits?",
   "topFeeds": [
     {
+      "description": "emby自供版 交流群：433493451 703381164 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67082647330225152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hub.docker.com/r/amilys/embyserver",
+      "title": "amilys/embyserver tags",
+      "type": "feed",
+      "url": "rsshub://dockerhub/tag/amilys/embyserver"
+    },
+    {
       "description": "envyafish/byte-muse tags - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -78,18 +90,6 @@ _None_
       "title": "envyafish/byte-muse tags",
       "type": "feed",
       "url": "rsshub://dockerhub/tag/envyafish/byte-muse"
-    },
-    {
-      "description": "emby自供版 交流群：433493451 703381164 - Powered by RSSHub",
-      "errorAt": "2026-05-19T19:38:22.547Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "67082647330225152",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hub.docker.com/r/amilys/embyserver",
-      "title": "amilys/embyserver tags",
-      "type": "feed",
-      "url": "rsshub://dockerhub/tag/amilys/embyserver"
     }
   ]
 }

@@ -1,11 +1,11 @@
-# 国家能源局 - 政府信息公开
+# 深圳市罗湖区人民政府 - 政府信息公开
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/csrc/zfxxgk_zdgk/:id?`
 - Route Name: `政府信息公开`
 - Example: `/gov/csrc/zfxxgk_zdgk/c101971`
@@ -945,8 +945,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": "2026-05-19T23:14:19.062Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,
@@ -957,8 +957,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": "2026-05-19T19:38:19.731Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

@@ -96,7 +96,7 @@
     {
       "description": "通知公告 - 公务员考试 - Powered by RSSHub",
       "errorAt": "2026-02-01T16:35:50.258Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/56\": <no response> fetch failed\n",
       "id": "178439737513011200",
       "image": null,
       "ownerUserId": null,

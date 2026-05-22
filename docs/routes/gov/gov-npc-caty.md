@@ -1,15 +1,15 @@
-# 国家能源局 - 通用
+# 深圳市罗湖区人民政府 - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/npc/:caty`
 - Route Name: `通用`
 - Example: `/gov/npc/c183`
-- URL: `www.nea.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `233yeee`
@@ -75,7 +75,7 @@
     {
       "description": "权威发布_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-03-13T13:27:53.178Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "76238928708564992",
       "image": null,
       "ownerUserId": null,

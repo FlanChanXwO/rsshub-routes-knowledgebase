@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "东南大学研究生公告 - Powered by RSSHub",
-      "errorAt": "2026-05-19T21:07:53.938Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153459055825771520",
       "image": null,
       "ownerUserId": null,

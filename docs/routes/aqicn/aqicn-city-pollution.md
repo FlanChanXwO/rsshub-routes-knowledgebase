@@ -72,8 +72,8 @@ _None_
     },
     {
       "description": "北京AQI-aqicn.org - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:12:44.474Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667735435264",
       "image": null,
       "ownerUserId": null,

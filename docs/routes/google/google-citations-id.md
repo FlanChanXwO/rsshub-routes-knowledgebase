@@ -67,7 +67,7 @@ _None_
     {
       "description": "Google Scholar Citation Monitor: Li Fei-Fei; Profile: Professor of Computer Science, Stanford University; HomePage: http://vision.stanford.edu/ - Powered by RSSHub",
       "errorAt": "2026-05-14T14:31:53.778Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://scholar.google.com/citations?user=rDfyQnIAAAAJ\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://scholar.google.com/citations?user=rDfyQnIAAAAJ\": 403 Forbidden\n",
       "id": "62830172236416000",
       "image": null,
       "ownerUserId": null,

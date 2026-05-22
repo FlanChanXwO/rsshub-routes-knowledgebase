@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "足球 - 直播吧 - Powered by RSSHub",
-      "errorAt": "2026-05-18T04:54:08.294Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61588318218478611",
+      "errorAt": "2026-05-20T22:23:46.134Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61588318218478611",
       "image": null,
       "ownerUserId": null,

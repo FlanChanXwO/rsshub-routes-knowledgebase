@@ -96,7 +96,7 @@
     {
       "description": "软件应用 - 什么值得买好文分类 - Powered by RSSHub",
       "errorAt": "2025-05-17T21:30:41.594Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://post.smzdm.com/fenlei/ruanjianyingyong/\": <no response> fetch failed\n",
       "id": "62650278906211328",
       "image": null,
       "ownerUserId": null,

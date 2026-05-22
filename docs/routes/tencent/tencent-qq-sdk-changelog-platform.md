@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "iOS SDK 历史变更 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T02:24:42.871Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58163407301475328",
       "image": null,
       "ownerUserId": null,

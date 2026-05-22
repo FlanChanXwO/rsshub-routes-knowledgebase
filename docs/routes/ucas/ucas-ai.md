@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "中科院人工智能通知公告 - Powered by RSSHub",
-      "errorAt": "2026-05-19T22:47:08.393Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84842865340954624",
       "image": null,
       "ownerUserId": null,

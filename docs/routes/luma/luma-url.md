@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "The AI Collective - Powered by RSSHub",
+      "description": "MenteX - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265935647087177728",
+      "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
       "type": "feed",
-      "url": "rsshub://luma/genai-collective"
+      "url": "rsshub://luma/mentex_ecosistema"
     }
   ],
   "url": "lu.ma"

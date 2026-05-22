@@ -115,7 +115,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
     {
       "description": "Скачать музыку бесплатно в формате mp3 — без регистрации и в хорошем качестве. Слушайте онлайн и скачивайте новинки, хиты и классику на Musify. - Powered by RSSHub",
       "errorAt": "2026-05-06T18:18:12.168Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "200 OK",
       "id": "165777653595388928",
       "image": "https://s.musify.club/images/logo.png",
       "ownerUserId": null,

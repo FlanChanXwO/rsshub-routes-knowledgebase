@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Urban Dictionary: Random words - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:32:44.597Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "148054920761453568",
       "image": null,
       "ownerUserId": null,

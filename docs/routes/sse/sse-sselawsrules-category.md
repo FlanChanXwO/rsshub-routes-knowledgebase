@@ -312,7 +312,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 298,
+  "heat": 297,
   "location": "sselawsrules.ts",
   "maintainers": [
     "nczitzk"
@@ -640,8 +640,8 @@
   "topFeeds": [
     {
       "description": "股票交易 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": "2026-05-19T21:27:26.088Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72506899888155648",
       "image": "https://www.sse.com.cn/undefined",
       "ownerUserId": null,

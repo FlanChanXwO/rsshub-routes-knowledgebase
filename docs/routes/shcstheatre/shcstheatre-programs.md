@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海文化广场 - 节目列表 - Powered by RSSHub",
-      "errorAt": "2026-05-20T00:24:13.701Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-05-21T00:37:45.077Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "57678974871415814",
       "image": "https://static-pc.shcstheatre.com/images/logo1.png",
       "ownerUserId": null,

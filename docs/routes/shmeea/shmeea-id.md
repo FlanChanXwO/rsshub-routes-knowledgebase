@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
-      "errorAt": "2026-05-18T11:43:49.185Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "92130275905288192",
       "image": null,
       "ownerUserId": null,

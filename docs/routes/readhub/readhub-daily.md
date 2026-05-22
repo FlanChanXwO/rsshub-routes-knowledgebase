@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4724,
+  "heat": 4728,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 谷歌与黑石集团拟成立一家新的 AI 云公司 2. Meta 计划全球裁员 10%：约 7800 人受影响 3. 法官驳回马斯克对 OpenAI 及其 CEO 奥尔特曼的诉讼 4. 外交部：中美同意开展人工智能政府间对话 5. 月之暗面 Kimi 融资获国资加持，国智投等多家基金入场 6. AI 收入集中度创新高：Anthropic 与 OpenAI 吞下 89% 份额 7. Anthropic 宣布收购开发工具初创公司 Stainless 8. 长江存储启动 IPO 辅导 9. 财联社 5 月 19 日电，OpenAI 创始成员 Karpathy 表示他已加入 Anthropic。 10. 月之暗面据悉将重组公司架构，为香港 IPO 铺路 11. 宇树科技发布一镜到底视频：语音驱动机器人实时生成任意动作 12. DeepSeek 回应字符触发模型异常：不涉及安全问题或隐私泄露 13. Anthropic 严打对其股份的未授权交易 投资者担心持仓突然之间一文不值 14. 云深处科创板 IPO 获受理，四足机器人收入排名全球第二，2025 年已实现扭亏为盈 15. 俞浩称将减少自媒体展现：半个月仅涨粉 4 万 16. 苹果公布 WWDC 2026 日程安排：6 月 8 日-12 日举行 - Powered by RSSHub",
+      "description": "1. DeepSeek 正在组建 Harness 团队，对标 Claude Code 2. SpaceX 计划在美国 IPO 后 30 天内收购 AI 编程初创公司 Cursor 3. 谷歌 Gemini 3.5 Pro 模型官宣下月登场：已在内部使用，进步超强 4. 苹果新任首席硬件官启动重组，加速产品研发与芯片整合 5. Meta 准备裁员 10% 公司将扁平化管理层级 6. OpenAI 承诺投资逾 3 亿新元，在新加坡设海外首个应用 AI 实验室 7. 英伟达将在新加坡设立研发中心，主攻具身智能 8. 长鑫科技科创板 IPO 将于 5 月 27 日上会 9. GitHub 确认遭入侵：3800 个内部仓库被窃取 10. Seedance 2.1 即将推出？接近字节跳动人士：不属实 11. 亚马逊创始人贝佐斯证实正在考虑接受外部资金投资蓝色起源公司 12. 全球首部 AI 动画长片在戛纳首映，由 Seedance 2.0 生成 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

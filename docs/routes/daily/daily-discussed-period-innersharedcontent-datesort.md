@@ -117,8 +117,8 @@ _None_
     },
     {
       "description": "Stay on top of real-time developer discussions on daily.dev. Join conversations happening now and engage with the most active community members. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-20T19:38:50.978Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "83025199966683136",
       "image": null,
       "ownerUserId": null,

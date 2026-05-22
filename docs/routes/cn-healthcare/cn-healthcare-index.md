@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "健康界 [cn-healthcare] - RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T00:48:36.949Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72225891697397792",
       "image": null,
       "ownerUserId": null,

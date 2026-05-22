@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 52015,
+  "heat": 52010,
   "location": "podcast.ts",
   "maintainers": [
     "hondajojo",

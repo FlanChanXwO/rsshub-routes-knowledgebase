@@ -72,7 +72,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1091,
+  "heat": 1092,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -87,7 +87,7 @@ _None_
     {
       "description": "东西智库 – 专注中国制造业高质量发展 - Powered by RSSHub",
       "errorAt": "2026-01-24T01:12:42.838Z",
-      "errorMessage": "[GET] \"https://www.dx2025.com\": <no response> fetch failed\nFailed to fetch\n[GET] \"https://www.dx2025.com\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.dx2025.com\": <no response> fetch failed\n403 Forbidden\n[GET] \"https://www.dx2025.com\": <no response> fetch failed\n",
       "id": "42579624844251167",
       "image": null,
       "ownerUserId": null,

@@ -1033,8 +1033,8 @@
     },
     {
       "description": "搬书匠 - Powered by RSSHub",
-      "errorAt": "2026-05-19T13:58:38.027Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "190045554505808896",
       "image": "http://banshujiang.cn/logo.png?imageView2/2/w/128/h/128/q/100",
       "ownerUserId": null,

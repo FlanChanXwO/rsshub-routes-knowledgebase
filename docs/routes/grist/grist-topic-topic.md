@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Culture Articles on grist.org - Powered by RSSHub",
+      "description": "Protest Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "108633066455945216",
+      "id": "108633194292694016",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/culture",
-      "title": "Culture - Gist Articles",
+      "siteUrl": "https://grist.org/protest",
+      "title": "Protest - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/culture"
+      "url": "rsshub://grist/topic/protest"
     }
   ],
   "url": "grist.org/articles/"

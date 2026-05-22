@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "每日AI资讯 | AI工具集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T01:42:42.775Z",
+      "errorMessage": "[GET] \"https://ai-bot.cn/daily-ai-news/\": 403 Forbidden\n503 Service Unavailable\n[GET] \"https://ai-bot.cn/daily-ai-news/\": 403 Forbidden\n",
       "id": "235583235330654208",
       "image": null,
       "ownerUserId": null,
