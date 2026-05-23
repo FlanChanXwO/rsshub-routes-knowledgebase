@@ -88,8 +88,8 @@
     },
     {
       "description": "懂球帝 - 深度 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T00:28:12.890Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67550300258611200",
       "image": null,
       "ownerUserId": null,

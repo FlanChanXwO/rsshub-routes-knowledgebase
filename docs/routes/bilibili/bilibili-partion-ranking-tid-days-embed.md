@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 118,
+  "heat": 120,
   "location": "partion-ranking.ts",
   "maintainers": [
     "lengthmin"

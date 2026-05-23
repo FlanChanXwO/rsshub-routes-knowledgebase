@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 148,
+  "heat": 149,
   "location": "latest-stories.tsx",
   "maintainers": [
     "miles170"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Stories from National Geographic - Powered by RSSHub",
-      "errorAt": "2026-05-20T23:59:14.774Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,

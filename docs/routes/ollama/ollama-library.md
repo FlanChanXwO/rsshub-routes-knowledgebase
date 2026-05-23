@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/ollama/library",
-  "heat": 222,
+  "heat": 223,
   "location": "models.ts",
   "maintainers": [
     "Nick22nd",

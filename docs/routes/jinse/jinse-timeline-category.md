@@ -128,8 +128,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T18:43:35.252Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "72573294615394304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

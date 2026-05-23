@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国金融期货交易所 - 交易所公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T22:08:18.909Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72147630295105536",
       "image": null,
       "ownerUserId": null,

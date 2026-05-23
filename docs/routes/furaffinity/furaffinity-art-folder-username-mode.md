@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of riggsfur - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of eleode - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "106708554094888960",
+      "id": "105952843219328000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/riggsfur",
-      "title": "Fur Affinity | Gallery of riggsfur",
+      "siteUrl": "https://www.furaffinity.net/gallery/eleode",
+      "title": "Fur Affinity | Gallery of eleode",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/riggsfur/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/eleode/nsfw"
     }
   ],
   "url": "furaffinity.net"

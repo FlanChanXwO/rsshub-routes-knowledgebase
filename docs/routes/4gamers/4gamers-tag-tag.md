@@ -72,7 +72,7 @@ _None_
     {
       "description": "4Gamers - #限時免費 - Powered by RSSHub",
       "errorAt": "2026-02-26T04:40:22.335Z",
-      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79168/batman-shadows-edition-and-sunderfolk-are-free-to-keep-on-epic-games-store-this-week\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79169/terrors-to-unveil-day-off-is-free-to-keep-on-steam\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79203/spirit-catcher-93-is-free-to-keep-on-egs\n",
+      "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79299/steampunks-vs-skeletons-adventure-puzzle-park\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79169/terrors-to-unveil-day-off-is-free-to-keep-on-steam\nUnhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/79299/steampunks-vs-skeletons-adventure-puzzle-park\n",
       "id": "66771599303537674",
       "image": null,
       "ownerUserId": null,

@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "酷安 - 新鲜图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T02:08:04.503Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'title')\n[GET] \"/\": <no response> Failed to parse URL from \nFailed to fetch\n",
       "id": "59083231915003968",
       "image": null,
       "ownerUserId": null,

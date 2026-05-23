@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "掘金，指定用户整个收藏集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T02:53:09.499Z",
+      "errorMessage": "Cannot read properties of null (reading 'article_info')\nFailed to fetch\n",
       "id": "99763916916569088",
       "image": null,
       "ownerUserId": null,

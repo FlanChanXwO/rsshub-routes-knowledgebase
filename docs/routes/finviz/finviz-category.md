@@ -100,8 +100,8 @@
     },
     {
       "description": "Stock screener for investors and traders, financial visualizations. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T01:00:43.636Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59063423343404032",
       "id": "59063423343404032",
       "image": "https://finviz.com/img/logo.svg#free",
       "ownerUserId": null,

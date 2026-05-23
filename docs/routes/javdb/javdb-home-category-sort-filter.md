@@ -63,7 +63,7 @@
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 1328,
+  "heat": 1329,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": "2026-05-21T00:49:15.262Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/?vft=1&vst=2\": 403 Forbidden\n[GET] \"https://javdb.com/?vft=1&vst=2\": 403 Forbidden\n500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73931561418737664",
       "image": null,
       "ownerUserId": null,

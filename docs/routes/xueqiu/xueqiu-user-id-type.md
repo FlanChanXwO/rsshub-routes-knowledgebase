@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2763,
+  "heat": 2765,
   "location": "user.ts",
   "maintainers": [
     "imlonghao"
@@ -91,8 +91,8 @@
     },
     {
       "description": "超级鹿鼎公 的雪球全部动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T07:04:53.572Z",
+      "errorMessage": "获取用户动态数据失败\n获取用户动态数据失败\nFailed to fetch\n获取用户动态数据失败\n",
       "id": "60231927983439872",
       "image": "https://xavatar.imedao.com/community/20147/1408271545017-1408271562251.jpg!180x180.png",
       "ownerUserId": null,

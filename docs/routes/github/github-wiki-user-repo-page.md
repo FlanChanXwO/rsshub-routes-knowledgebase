@@ -96,7 +96,7 @@ _None_
     {
       "description": "History / v2ray免费账号 - Alvin9999/new-pac - Powered by RSSHub",
       "errorAt": "2025-12-19T04:17:08.051Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://github.com/Alvin9999/new-pac/wiki/v2ray免费账号/_history\": 404 Not Found\n",
       "id": "80275611650670592",
       "image": null,
       "ownerUserId": null,

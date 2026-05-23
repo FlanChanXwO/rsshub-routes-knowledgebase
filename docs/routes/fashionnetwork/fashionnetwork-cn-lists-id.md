@@ -195,8 +195,8 @@
     },
     {
       "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T21:13:39.859Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "125750058291721216",
       "image": "https://fashionnetwork.cn/static/images/fashion-network-logo.webp",
       "ownerUserId": null,

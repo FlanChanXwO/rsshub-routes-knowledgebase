@@ -72,7 +72,7 @@ _None_
     {
       "description": "西南交大-教务网通知 - Powered by RSSHub",
       "errorAt": "2026-02-27T20:33:12.205Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "72512219481102339",
       "image": null,
       "ownerUserId": null,

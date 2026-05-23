@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "MenteX - Powered by RSSHub",
+      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966986896278528",
+      "id": "265966867461735424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
+      "siteUrl": "https://lu.ma/sgbogota",
+      "title": "Bogota Events powered by Startup Grind",
       "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
+      "url": "rsshub://luma/sgbogota"
     }
   ],
   "url": "lu.ma"

@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "BLOG | Samsung Research - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:52:31.726Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70851835716090880",
       "image": null,
       "ownerUserId": null,

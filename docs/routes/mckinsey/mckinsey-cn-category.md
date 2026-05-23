@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2047,
+  "heat": 2046,
   "location": "cn/index.ts",
   "maintainers": [
     "laampui"
@@ -167,8 +167,8 @@ _None_
     },
     {
       "description": "Insights – McKinsey Greater China - Powered by RSSHub",
-      "errorAt": "2026-05-21T01:05:10.963Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55154008868618240",
       "image": "https://www.mckinsey.com.cn/wp-content/uploads/2022/07/cropped-620A014D-827F-470B-8E91-990A4222CAE8-270x270.jpeg",
       "ownerUserId": null,

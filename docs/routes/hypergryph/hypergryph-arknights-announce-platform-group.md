@@ -48,7 +48,7 @@ _None_
   ],
   "description": "平台\n\n|  安卓服 | iOS 服 |   B 服   |\n| :-----: | :----: | :------: |\n| Android |   IOS  | Bilibili |\n\n分组\n\n| 全部 | 系统公告 | 活动公告 |\n| :--: | :------: | :------: |\n|  ALL |  SYSTEM  | ACTIVITY |",
   "example": "/hypergryph/arknights/announce",
-  "heat": 37,
+  "heat": 36,
   "location": "arknights/announce.ts",
   "maintainers": [
     "swwind"

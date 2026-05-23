@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "BangumiTV 首页 - 成员关注动画榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-21T22:13:57.817Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74067850437124096",
       "image": null,
       "ownerUserId": null,

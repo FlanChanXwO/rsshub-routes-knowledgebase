@@ -100,16 +100,16 @@
       "url": "rsshub://taptap/topic/165287/official"
     },
     {
-      "description": "梦想协奏曲！少女乐团派对！ - undefined - TapTap 论坛 - Powered by RSSHub",
-      "errorAt": "2026-05-02T13:35:39.170Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'split')\n",
-      "id": "108848663019143168",
-      "image": "https://img-tc.tapimg.com/market/images/eedb45acdbfa1066fe9b02ba377ff0ef.png",
+      "description": "EVE - 官方 - TapTap 论坛 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "256765756479228928",
+      "image": "https://img-tc.tapimg.com/market/images/e0e57fdd638a65dd945d795b0f333b47.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/67848/topic?type=feed&sort=commented",
-      "title": "梦想协奏曲！少女乐团派对！ - undefined - TapTap 论坛",
+      "siteUrl": "https://www.taptap.cn/app/788667/topic?type=official&sort=created",
+      "title": "EVE - 官方 - TapTap 论坛",
       "type": "feed",
-      "url": "rsshub://taptap/topic/67848/feed/commented/zh-CN"
+      "url": "rsshub://taptap/topic/788667/official"
     }
   ]
 }

@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 13313,
+  "heat": 13318,
   "location": "index.tsx",
   "maintainers": [
     "MegrezZhu",

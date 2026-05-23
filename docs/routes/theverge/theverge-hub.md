@@ -103,7 +103,7 @@ Provides a better reading experience (full text articles) over the official one.
     {
       "description": "Apps | The Verge - Powered by RSSHub",
       "errorAt": "2025-09-24T18:37:54.873Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
       "id": "52982633246101506",
       "image": null,
       "ownerUserId": null,

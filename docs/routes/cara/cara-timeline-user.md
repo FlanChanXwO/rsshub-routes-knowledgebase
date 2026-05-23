@@ -63,18 +63,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Timeline - Requinoesis - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "131924534067985408",
-      "image": "https://cdn.cara.app/production/profiles/3c4bf5ef-7d4e-4165-b65f-6dc781acf326/pu.png",
-      "ownerUserId": null,
-      "siteUrl": "https://cara.app/requinoesis/all",
-      "title": "Timeline - Requinoesis",
-      "type": "feed",
-      "url": "rsshub://cara/timeline/requinoesis"
-    },
-    {
       "description": "Timeline - Emilia Cantor - Powered by RSSHub",
       "errorAt": "2025-11-26T13:56:52.009Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
@@ -85,6 +73,18 @@ _None_
       "title": "Timeline - Emilia Cantor",
       "type": "feed",
       "url": "rsshub://cara/timeline/emiliacantor"
+    },
+    {
+      "description": "Timeline - Requinoesis - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131924534067985408",
+      "image": "https://cdn.cara.app/production/profiles/3c4bf5ef-7d4e-4165-b65f-6dc781acf326/pu.png",
+      "ownerUserId": null,
+      "siteUrl": "https://cara.app/requinoesis/all",
+      "title": "Timeline - Requinoesis",
+      "type": "feed",
+      "url": "rsshub://cara/timeline/requinoesis"
     }
   ]
 }

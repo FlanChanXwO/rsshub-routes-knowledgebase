@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/05/19/us/chip-roy-donation-texas-attorney-general.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/05/20/world/americas/guzman-cuba-us-negotiations-trump.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

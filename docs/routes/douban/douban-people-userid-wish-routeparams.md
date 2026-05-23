@@ -68,28 +68,28 @@ _None_
   "path": "/people/:userid/wish/:routeParams?",
   "topFeeds": [
     {
-      "description": "豆瓣想看 - kiki - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "169385164284093440",
+      "description": "豆瓣想看 - 白Rap的DJ - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:38:56.520Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "186422945668491341",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/people/46349710/wish",
-      "title": "豆瓣想看 - kiki",
+      "siteUrl": "https://movie.douban.com/people/270652243/wish",
+      "title": "豆瓣想看 - 白Rap的DJ",
       "type": "feed",
-      "url": "rsshub://douban/people/46349710/wish"
+      "url": "rsshub://douban/people/270652243/wish"
     },
     {
-      "description": "豆瓣想看 - 追——＆梦→~异类~ - Powered by RSSHub",
+      "description": "豆瓣想看 - Tredici - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "75887997094583296",
+      "id": "242962409053608960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/people/163194102/wish",
-      "title": "豆瓣想看 - 追——＆梦→~异类~",
+      "siteUrl": "https://movie.douban.com/people/171811323/wish",
+      "title": "豆瓣想看 - Tredici",
       "type": "feed",
-      "url": "rsshub://douban/people/163194102/wish"
+      "url": "rsshub://douban/people/171811323/wish"
     }
   ]
 }

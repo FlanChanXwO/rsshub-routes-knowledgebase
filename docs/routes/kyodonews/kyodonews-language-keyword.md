@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 151,
+  "heat": 152,
   "location": "index.tsx",
   "maintainers": [
     "Rongronggg9"

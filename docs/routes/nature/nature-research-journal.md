@@ -71,7 +71,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 35052,
+  "heat": 35027,
   "location": "research.ts",
   "maintainers": [
     "y9c",
@@ -108,8 +108,8 @@
     },
     {
       "description": "Read the latest Research articles from Nature - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T02:52:17.254Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\n522 <none>\n[GET] \"https://www.nature.com/nature/research-articles\": <no response> fetch failed\nCannot read properties of null (reading 'mainEntity')\n",
       "id": "79390237537101824",
       "image": null,
       "ownerUserId": null,

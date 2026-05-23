@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4728,
+  "heat": 4729,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. DeepSeek 正在组建 Harness 团队，对标 Claude Code 2. SpaceX 计划在美国 IPO 后 30 天内收购 AI 编程初创公司 Cursor 3. 谷歌 Gemini 3.5 Pro 模型官宣下月登场：已在内部使用，进步超强 4. 苹果新任首席硬件官启动重组，加速产品研发与芯片整合 5. Meta 准备裁员 10% 公司将扁平化管理层级 6. OpenAI 承诺投资逾 3 亿新元，在新加坡设海外首个应用 AI 实验室 7. 英伟达将在新加坡设立研发中心，主攻具身智能 8. 长鑫科技科创板 IPO 将于 5 月 27 日上会 9. GitHub 确认遭入侵：3800 个内部仓库被窃取 10. Seedance 2.1 即将推出？接近字节跳动人士：不属实 11. 亚马逊创始人贝佐斯证实正在考虑接受外部资金投资蓝色起源公司 12. 全球首部 AI 动画长片在戛纳首映，由 Seedance 2.0 生成 - Powered by RSSHub",
+      "description": "1. OpenAI 即将递交 IPO 申请 2. Anthropic 有望首次实现季度盈利 3. SpaceX 正式提交 IPO 申请 4. 特斯拉宣布监督版 FSD 登陆中国 5. 马斯克将成为史上首个万亿美元富豪 6. 月之暗面拆除 VIE 架构，估值超 200 亿美元冲刺香港 IPO 7. 供应链传闻苹果 iPhone 2027 年会上类四曲面屏 ID 8. 英伟达第一财季净利润同比增长 211% 回购 800 亿美元股票 9. 特斯拉最后一批 Model S/X 完成交付，原产线将量产机器人 10. OpenAI 宣布攻克 80 年数学难题 AI 首次自主证明 Erdős 开放问题 11. Anthropic 将向 SpaceX 支付近 450 亿美元以获取算力 12. 白宫向人工智能公司介绍审查 AI 模型的行政令 13. 李斌：今年一季度蔚来品牌平均成交价超过宝马 5 万元，是奥迪的 1.5 倍 14. ​Anthropic 与 xAI 达成巨额算力租赁协议，未来将支付超 400 亿美元 15. 字节跳动加码实体医疗「小荷门诊部」将落地上海 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

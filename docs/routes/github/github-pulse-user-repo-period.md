@@ -76,28 +76,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864792",
+      "id": "220767323256864790",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
-      "title": "2noise/ChatTTS weekly Pulse",
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     },
     {
-      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
+      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864791",
+      "id": "220767323256864795",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
-      "title": "haoheliu/AudioLDM weekly Pulse",
+      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
+      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
+      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
     }
   ]
 }

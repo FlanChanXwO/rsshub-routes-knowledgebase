@@ -76,7 +76,7 @@ _None_
     {
       "description": "Stage1 论坛 - 卓明谷 - Powered by RSSHub",
       "errorAt": "2025-03-25T11:54:12.181Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "57332597069544448",
       "image": null,
       "ownerUserId": null,

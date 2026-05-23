@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "nhentai - search - chinese+stockings - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T02:39:02.910Z",
+      "errorMessage": "Failed to fetch\npage.goto: net::ERR_ABORTED; maybe frame was detached?\nCall log:\n  - navigating to \"https://nhentai.net/search/?q=chinese+stockings\", waiting until \"domcontentloaded\"\n\n",
       "id": "54875188593719296",
       "image": null,
       "ownerUserId": null,

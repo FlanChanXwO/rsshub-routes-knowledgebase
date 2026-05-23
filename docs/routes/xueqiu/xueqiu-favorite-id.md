@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 63,
+  "heat": 62,
   "location": "favorite.ts",
   "maintainers": [
     "imlonghao"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",
-      "errorAt": "2025-12-24T04:59:11.751Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'screen_name')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59965365270185984",
       "image": null,
       "ownerUserId": null,
