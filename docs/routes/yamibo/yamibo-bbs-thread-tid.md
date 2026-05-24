@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.17更新至第417话） - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": "2026-05-21T21:43:18.840Z",
-      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1\": 503 Service Unavailable\n[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1\": 503 Service Unavailable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99377084384904192",
       "image": null,
       "ownerUserId": null,

@@ -62,7 +62,7 @@ _None_
     {
       "description": "academia.edu | Artificial_Intelligence documents - Powered by RSSHub",
       "errorAt": "2025-05-28T17:44:40.339Z",
-      "errorMessage": "[GET] \"https://www.academia.edu/Documents/in/Artificial_Intelligence\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "69620974134739968",
       "image": null,
       "ownerUserId": null,
@@ -74,7 +74,7 @@ _None_
     {
       "description": "academia.edu | Machine_Learning documents - Powered by RSSHub",
       "errorAt": "2025-05-28T17:36:24.584Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.academia.edu/Documents/in/Machine_Learning\": 403 Forbidden\n",
       "id": "69620407260983296",
       "image": null,
       "ownerUserId": null,

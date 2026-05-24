@@ -82,7 +82,7 @@ _None_
     {
       "description": "jump 发现游戏 - Powered by RSSHub",
       "errorAt": "2026-05-12T18:02:13.759Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "66698425520730122",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@ _None_
     },
     {
       "description": "jump 发现游戏 - Powered by RSSHub",
-      "errorAt": "2026-05-20T06:59:57.022Z",
+      "errorAt": "2026-05-22T23:38:35.664Z",
       "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "79731667838042112",
       "image": null,

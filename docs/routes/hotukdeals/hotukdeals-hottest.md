@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "hotukdeals hottest - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T18:51:29.286Z",
+      "errorMessage": "[GET] \"https://www.hotukdeals.com/\": 403 Forbidden\n",
       "id": "60584426685234176",
       "image": null,
       "ownerUserId": null,

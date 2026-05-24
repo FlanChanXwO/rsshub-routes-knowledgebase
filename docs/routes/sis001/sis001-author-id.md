@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 34,
   "location": "author.ts",
   "maintainers": [
     "keocheung"

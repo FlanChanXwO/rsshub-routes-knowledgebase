@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.economist.com/culture/2026/05/22/what-to-watch-this-week\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/05/22/you-probably-dont-need-extra-electrolytes\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

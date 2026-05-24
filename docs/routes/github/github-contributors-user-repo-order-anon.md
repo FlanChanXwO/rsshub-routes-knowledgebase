@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
+      "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "145641760615368704",
+      "id": "119580771404221440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
+      "siteUrl": "https://github.com/piderking/vgmt-data/graphs/contributors",
+      "title": "piderking/vgmt-data Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
+      "url": "rsshub://github/contributors/piderking/vgmt-data"
     },
     {
-      "description": "New contributors for yang991178/fluent-reader - Powered by RSSHub",
+      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83366105549031424",
+      "id": "84430164607162368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yang991178/fluent-reader/graphs/contributors",
-      "title": "yang991178/fluent-reader Contributors",
+      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
+      "title": "infiniflow/ragflow Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/yang991178/fluent-reader"
+      "url": "rsshub://github/contributors/infiniflow/ragflow"
     }
   ]
 }

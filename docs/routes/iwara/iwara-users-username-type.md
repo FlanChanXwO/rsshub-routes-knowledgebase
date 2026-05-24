@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "inwerwm's iwara - Videos - Powered by RSSHub",
-      "errorAt": "2026-05-21T12:48:03.101Z",
-      "errorMessage": "[GET] \"https://api.iwara.tv/videos?user=06ca7c4c-f551-43aa-a344-f6568811073e\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60202923086415887",
       "image": null,
       "ownerUserId": null,

@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": "2026-05-05T20:05:22.047Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4408522\": 403 Forbidden\n[GET] \"https://www2.hkej.com/instantnews/announcement/article/4408475\": 403 Forbidden\n",
+      "errorAt": "2026-05-23T03:36:51.823Z",
+      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4410877\": 403 Forbidden\n[GET] \"https://www2.hkej.com/instantnews/international/article/4410825\": 403 Forbidden\n",
       "id": "69975396806332416",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
       "errorAt": "2026-05-18T16:14:28.134Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4409486\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4410828\": 403 Forbidden\n",
       "id": "155622231834300416",
       "image": null,
       "ownerUserId": null,

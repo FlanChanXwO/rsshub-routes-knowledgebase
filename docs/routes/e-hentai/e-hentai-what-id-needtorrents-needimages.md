@@ -46,8 +46,8 @@ _None_
   "topFeeds": [
     {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T11:01:57.964Z",
+      "errorMessage": "s.map is not a function\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,
@@ -58,8 +58,8 @@ _None_
     },
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T22:01:27.214Z",
+      "errorMessage": "s.map is not a function\n",
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,

@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7586,
+  "heat": 7584,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",

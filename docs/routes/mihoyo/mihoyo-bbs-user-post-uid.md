@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 猫冬 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "198685663556975616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=74019947",
+      "title": "米游社 - 猫冬 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/74019947"
     },
     {
-      "description": "米游社 - 小橙子阿 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 紫喵Azunya 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198686747133224960",
+      "id": "198686444754484224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=73603011",
-      "title": "米游社 - 小橙子阿 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75596302",
+      "title": "米游社 - 紫喵Azunya 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/73603011"
+      "url": "rsshub://mihoyo/bbs/user-post/75596302"
     }
   ]
 }

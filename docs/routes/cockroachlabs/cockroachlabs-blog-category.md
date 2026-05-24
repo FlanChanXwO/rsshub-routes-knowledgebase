@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Cockroach Labs Blog - Powered by RSSHub",
-      "errorAt": "2026-05-22T01:53:01.873Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "175519489817326592",
       "image": null,
       "ownerUserId": null,

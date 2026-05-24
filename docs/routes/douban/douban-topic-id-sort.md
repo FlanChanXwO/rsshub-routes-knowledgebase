@@ -77,14 +77,14 @@ _None_
       "url": "rsshub://douban/topic/48823"
     },
     {
-      "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
-      "errorAt": "2026-05-21T10:42:26.204Z",
+      "description": "3379063-豆瓣话题 - Powered by RSSHub",
+      "errorAt": "2026-05-22T21:21:28.013Z",
       "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/gallery/topic/3379063/items?sort=new&start=0&count=10&status_full_text=1\": 403 Forbidden\n",
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.douban.com/gallery/topic/3379063/?sort=new",
-      "title": "收集一切触动过你的评论-豆瓣话题",
+      "title": "3379063-豆瓣话题",
       "type": "feed",
       "url": "rsshub://douban/topic/3379063"
     }

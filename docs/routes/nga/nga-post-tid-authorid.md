@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 29,
+  "heat": 30,
   "location": "post.ts",
   "maintainers": [
     "xyqfer",
@@ -70,7 +70,7 @@ _None_
       "id": "154777115123643392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=857.0809577049932#",
+      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=678.6320819003464#",
       "title": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/41073656/66025368"

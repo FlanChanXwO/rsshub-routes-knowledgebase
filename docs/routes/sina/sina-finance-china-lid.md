@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "新浪财经－国内滚动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T01:52:36.880Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64235783022956544",
       "id": "64235783022956544",
       "image": null,
       "ownerUserId": null,

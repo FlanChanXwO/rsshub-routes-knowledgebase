@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "轻小说 - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T21:56:49.890Z",
+      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=55&orderby=dateline&filter=typeid&typeid=295\": 503 Service Unavailable\n[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=55&orderby=dateline&filter=typeid&typeid=295\": 503 Service Unavailable\n",
       "id": "99375532893443072",
       "image": null,
       "ownerUserId": null,

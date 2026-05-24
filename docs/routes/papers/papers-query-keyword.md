@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "trajectory prediction - Powered by RSSHub",
+      "description": "backdoor - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191738863954954240",
+      "id": "139675539524500480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=trajectory%20prediction&sort=0",
-      "title": "trajectory prediction",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=backdoor&sort=0",
+      "title": "backdoor",
       "type": "feed",
-      "url": "rsshub://papers/query/trajectory%20prediction"
+      "url": "rsshub://papers/query/backdoor"
     }
   ],
   "url": "papers.cool"

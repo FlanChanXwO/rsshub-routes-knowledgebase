@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
+      "description": "Google DeepMind - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966867461735424",
+      "id": "265966953317233664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/sgbogota",
-      "title": "Bogota Events powered by Startup Grind",
+      "siteUrl": "https://lu.ma/deepmind",
+      "title": "Google DeepMind",
       "type": "feed",
-      "url": "rsshub://luma/sgbogota"
+      "url": "rsshub://luma/deepmind"
     }
   ],
   "url": "lu.ma"

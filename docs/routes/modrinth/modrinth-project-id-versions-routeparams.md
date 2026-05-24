@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
+      "description": "The kitchen sink of Chat Management - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852126561305600",
+      "id": "114583401723102208",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
-      "title": "PvPManager Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/IwVOgYiT",
+      "title": "ChatManager Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
+      "url": "rsshub://modrinth/project/IwVOgYiT/versions"
     }
   ]
 }

@@ -113,14 +113,14 @@
       "url": "rsshub://18comic"
     },
     {
-      "description": "最新 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-05-01T13:51:53.995Z",
-      "errorMessage": "502 Bad Gateway\n[GET] \"https://jmcomic1.me/albums\": <no response> fetch failed\n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
+      "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "181646966076518400",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://jmcomic1.me/albums",
-      "title": "最新 Comics - 禁漫天堂",
+      "title": "最新的 Comics - 禁漫天堂",
       "type": "feed",
       "url": "rsshub://18comic/all/a/mr"
     }

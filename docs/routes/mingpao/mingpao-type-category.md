@@ -118,7 +118,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "Status code 406\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20260522/s00006/1779445360761/%e4%b8%96%e7%95%8c%e7%9b%83%e9%bb%9e%e9%96%b1-%e5%be%b7%e5%9c%8b%e8%aa%93%e7%a0%b4%e8%bf%91%e5%85%a9%e5%b1%86%e5%88%86%e7%b5%84%e8%b3%bd%e6%ad%a2%e6%ad%a5%e6%82%b6%e5%b1%80-%e7%b4%90%e4%ba%9e%e5%be%a9%e5%87%ba%e5%8b%a2%e4%ba%94%e6%88%b0%e6%b1%ba%e8%b3%bd%e5%91%a8-%e8%8f%af%e8%a3%94%e5%85%b5%e9%99%b3%e9%81%94%e6%af%85%e9%a0%98%e5%ba%ab%e6%8b%89%e7%b4%a2%e5%88%9d%e6%88%b0\": 403 Forbidden\nFailed to fetch\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

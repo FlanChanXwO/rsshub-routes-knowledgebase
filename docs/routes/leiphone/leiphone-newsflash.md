@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23,
+  "heat": 22,
   "location": "newsflash.ts",
   "maintainers": [],
   "name": "业界资讯",

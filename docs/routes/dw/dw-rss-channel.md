@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 21,
   "location": "rss.ts",
   "maintainers": [
     "quiniapiezoelectricity"
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "Deutsche Welle - Powered by RSSHub",
-      "errorAt": "2026-05-22T01:08:07.323Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80331041578519552",
       "image": null,
       "ownerUserId": null,

@@ -434,7 +434,7 @@
   "topFeeds": [
     {
       "description": "新闻动态 - Powered by RSSHub",
-      "errorAt": "2026-05-21T07:07:55.477Z",
+      "errorAt": "2026-05-23T00:47:16.058Z",
       "errorMessage": "[GET] \"https://gs.hust.edu.cn/xwdt.htm\": <no response> fetch failed\n",
       "id": "73885560348288000",
       "image": "https://gs.hust.edu.cn/img/logo.png",
@@ -446,8 +446,8 @@
     },
     {
       "description": "课程及考试安排 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T02:27:31.351Z",
+      "errorMessage": "[GET] \"https://gs.hust.edu.cn/tzgg/kcjksap.htm\": <no response> fetch failed\n",
       "id": "66343158574786560",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,

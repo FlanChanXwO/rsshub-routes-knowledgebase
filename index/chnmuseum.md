@@ -6,9 +6,17 @@
 - URL: `www.chnmuseum.cn`
 - Language: `_None_`
 - Aliases: `chnmuseum, chnmuseum.cn, national museum of china, www, www.chnmuseum.cn`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
+
+### Exhibitions
+- Route ID: `chnmuseum:/chnmuseum/zl/:type?/:subType?`
+- Route Path: `/chnmuseum/zl/:type?/:subType?`
+- File: `docs/routes/chnmuseum/chnmuseum-zl-type-subtype.md`
+- File Name: `chnmuseum-zl-type-subtype.md`
+- Categories: `travel`
+- Maintainers: `magazian`
 
 ### 资讯要闻
 - Route ID: `chnmuseum:/chnmuseum/zx/xingnew`

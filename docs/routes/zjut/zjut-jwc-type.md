@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "新闻动态 - 浙江工业大学教务处 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T19:01:14.601Z",
+      "errorMessage": "[GET] \"http://www.jwc.zjut.edu.cn/1838/list.htm\": 403 Forbidden\n",
       "id": "76972290386665472",
       "image": null,
       "ownerUserId": null,

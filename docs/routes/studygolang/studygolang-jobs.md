@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - 招聘 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T08:03:18.496Z",
+      "errorMessage": "[GET] \"https://studygolang.com/go/jobs\": 502 Bad Gateway\n",
       "id": "73265535066452992",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
     "university"
   ],
   "example": "/jlu/jwc",
-  "heat": 5,
+  "heat": 6,
   "location": "jwc.ts",
   "maintainers": [
     "mayouxi"
@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "吉林大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T22:24:48.821Z",
+      "errorMessage": "[GET] \"https://jwc.jlu.edu.cn\": <no response> fetch failed\n",
       "id": "75548213781861376",
       "image": null,
       "ownerUserId": null,

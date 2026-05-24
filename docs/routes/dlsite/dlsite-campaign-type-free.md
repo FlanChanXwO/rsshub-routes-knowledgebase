@@ -122,8 +122,8 @@ _None_
     },
     {
       "description": "「DLsite 同人 - R18」は同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 日本語作品 言語不問作品 検索結果 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-22T21:52:29.445Z",
+      "errorMessage": "[GET] \"https://www.dlsite.com/maniax/fsr/=/campaign/campaign/work_category[0]/doujin/order[0]/cstart_d/per_page/30/show_type/1/is_free/1/\": 429 Too Many Requests\n",
       "id": "72511789595944960",
       "image": null,
       "ownerUserId": null,

@@ -113,16 +113,16 @@ _None_
       "url": "rsshub://asus/bios/GA605WV"
     },
     {
-      "description": "RT-BE88U BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126962011544488963",
-      "image": "https://dlcdnwebimgs.asus.com/gain/e1b78b1a-0011-4ec7-bd84-bcbaa489ecbf/w185",
+      "description": "ROG STRIX B560-A GAMING WIFI BIOS - Powered by RSSHub",
+      "errorAt": "2025-03-18T06:24:28.802Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'Obj')\n",
+      "id": "73279691433742336",
+      "image": "https://dlcdnwebimgs.asus.com.cn/gain/2E6CCF1B-9A03-43B9-A991-CDE4A9704E00/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-BE88U/",
-      "title": "RT-BE88U BIOS",
+      "siteUrl": "https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b560-a-gaming-wifi-model/",
+      "title": "ROG STRIX B560-A GAMING WIFI BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/rt-be88u"
+      "url": "rsshub://asus/bios/rog-strix-b560-i-gaming-wifi-model/zh"
     }
   ],
   "url": "www.asus.com"

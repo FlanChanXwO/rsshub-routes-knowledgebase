@@ -91,14 +91,14 @@
       "url": "rsshub://xueqiu/stock_info/SH603986/news"
     },
     {
-      "description": "- 公告 - Powered by RSSHub",
-      "errorAt": "2024-11-22T14:04:44.329Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "description": "豪威集团 - 公告 - Powered by RSSHub",
+      "errorAt": "2026-05-22T21:11:53.408Z",
+      "errorMessage": "[GET] \"https://xueqiu.com/S/SH603501\": 405 Not Allowed\n",
       "id": "64923928046286863",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://xueqiu.com/S/SH603501",
-      "title": "SH603501 - 公告",
+      "title": "SH603501 豪威集团 - 公告",
       "type": "feed",
       "url": "rsshub://xueqiu/stock_info/SH603501"
     }

@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T03:12:55.461Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

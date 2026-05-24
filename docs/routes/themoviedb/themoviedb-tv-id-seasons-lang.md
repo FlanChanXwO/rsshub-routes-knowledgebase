@@ -75,16 +75,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The Message was a surreal comedy series which spoofs current practices in the television industry. It originally aired in 2006 on BBC Three. It consisted of six episodes, and was not renewed after the first season. - Powered by RSSHub",
+      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "90020177225086976",
-      "image": "https://image.tmdb.org/t/p/original/wK9h8FwbmOWlMyW6fT2C6yFPvSu.jpg",
+      "id": "85974796356276224",
+      "image": "https://image.tmdb.org/t/p/original/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/3/seasons",
-      "title": "The Message - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/243875/seasons",
+      "title": "Georgie & Mandy's First Marriage - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/3/seasons"
+      "url": "rsshub://themoviedb/tv/243875/seasons"
     }
   ],
   "view": 5

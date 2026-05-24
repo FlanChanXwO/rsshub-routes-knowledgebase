@@ -1805,7 +1805,7 @@ Use this file to select the target namespace before opening route documents.
 ## National Museum Of China
 - Namespace: `chnmuseum`
 - Aliases: `chnmuseum, chnmuseum.cn, national museum of china, www, www.chnmuseum.cn`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/chnmuseum.md`
 
 ## Chocolatey

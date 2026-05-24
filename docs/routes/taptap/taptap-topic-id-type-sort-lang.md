@@ -88,16 +88,16 @@
   ],
   "topFeeds": [
     {
-      "description": "Phigros - 官方 - TapTap 论坛 - Powered by RSSHub",
+      "description": "饥困荒野 - 官方 - TapTap 论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "197299073968664580",
-      "image": "https://img-tc.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png",
+      "id": "256764943814985728",
+      "image": "https://img-tc.tapimg.com/market/images/71a53cbbe8feb1a9613c78464c907b63.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/165287/topic?type=official&sort=created",
-      "title": "Phigros - 官方 - TapTap 论坛",
+      "siteUrl": "https://www.taptap.cn/app/194039/topic?type=official&sort=created",
+      "title": "饥困荒野 - 官方 - TapTap 论坛",
       "type": "feed",
-      "url": "rsshub://taptap/topic/165287/official"
+      "url": "rsshub://taptap/topic/194039/official"
     },
     {
       "description": "EVE - 官方 - TapTap 论坛 - Powered by RSSHub",

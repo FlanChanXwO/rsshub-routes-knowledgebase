@@ -108,16 +108,16 @@
       "url": "rsshub://hizu"
     },
     {
-      "description": "香洲 - 珠海网 - Powered by RSSHub",
+      "description": "教育 - 珠海网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114507281667054592",
+      "id": "177651896288583694",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.hizh.cn/",
-      "title": "香洲 - 珠海网",
+      "title": "教育 - 珠海网",
       "type": "feed",
-      "url": "rsshub://hizu/5f86a3f5e4b09d75f99dde7d"
+      "url": "rsshub://hizu/5ff7c0fde4b0e2f210d05e20"
     }
   ],
   "url": "hizh.cn/"
