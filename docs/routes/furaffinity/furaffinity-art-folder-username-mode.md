@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of anirusfere - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of eleode - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84426954589635584",
+      "id": "105952843219328000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/anirusfere",
-      "title": "Fur Affinity | Gallery of anirusfere",
+      "siteUrl": "https://www.furaffinity.net/gallery/eleode",
+      "title": "Fur Affinity | Gallery of eleode",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/anirusfere/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/eleode/nsfw"
     }
   ],
   "url": "furaffinity.net"

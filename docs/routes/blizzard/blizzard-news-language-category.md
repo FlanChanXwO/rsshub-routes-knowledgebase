@@ -115,8 +115,8 @@ _None_
     },
     {
       "description": "Overwatch - Powered by RSSHub",
-      "errorAt": "2026-05-23T00:50:57.675Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77926976521555968",
       "image": null,
       "ownerUserId": null,

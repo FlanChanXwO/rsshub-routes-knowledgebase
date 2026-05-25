@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The kitchen sink of Chat Management - Powered by RSSHub",
+      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583401723102208",
+      "id": "114582838985083904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/IwVOgYiT",
-      "title": "ChatManager Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/nZSk44a8",
+      "title": "AxTrade Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/IwVOgYiT/versions"
+      "url": "rsshub://modrinth/project/nZSk44a8/versions"
     }
   ]
 }

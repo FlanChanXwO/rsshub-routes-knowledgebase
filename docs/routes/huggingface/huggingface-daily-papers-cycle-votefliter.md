@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Huggingface Daily Papers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-24T00:48:58.570Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "182620255922244608",
       "image": null,
       "ownerUserId": null,

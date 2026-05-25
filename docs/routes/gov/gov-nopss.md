@@ -54,16 +54,16 @@ _None_
       "url": "rsshub://gov/nopss/GB/219469/431027"
     },
     {
-      "description": "閲嶅ぇ椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "68892056440478838",
+      "description": "鍚庢湡璧勫姪椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
+      "errorAt": "2025-12-27T08:01:57.393Z",
+      "errorMessage": "[GET] \"http://www.nopss.gov.cn/n1/2025/0117/c431030-40404310.html\": 403 Forbidden\n",
+      "id": "68892056440478837",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431028",
-      "title": "閲嶅ぇ椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
+      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431030",
+      "title": "鍚庢湡璧勫姪椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
       "type": "feed",
-      "url": "rsshub://gov/nopss/GB/219469/431028"
+      "url": "rsshub://gov/nopss/GB/219469/431030"
     }
   ]
 }

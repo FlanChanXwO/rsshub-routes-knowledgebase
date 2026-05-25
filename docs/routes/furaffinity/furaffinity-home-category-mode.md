@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T15:17:39.785Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/home.json?sfw=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/home.json?sfw=1\": 500 Internal Server Error\n",
       "id": "78978405973911552",
       "image": null,
       "ownerUserId": null,
@@ -92,13 +92,13 @@ _None_
       "description": "Fur Affinity Index - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "94287099178847232",
+      "id": "141655371304511488",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.furaffinity.net/",
       "title": "Fur Affinity | Home",
       "type": "feed",
-      "url": "rsshub://furaffinity/home/artwork"
+      "url": "rsshub://furaffinity/home/nsfw/nsfw"
     }
   ],
   "url": "furaffinity.net"

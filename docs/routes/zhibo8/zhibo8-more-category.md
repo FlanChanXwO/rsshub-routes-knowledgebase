@@ -88,8 +88,8 @@
     },
     {
       "description": "NBA - 直播吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T09:58:48.065Z",
+      "errorMessage": "403 Forbidden\nFailed to fetch\n",
       "id": "63118600077338626",
       "image": null,
       "ownerUserId": null,

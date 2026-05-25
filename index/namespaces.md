@@ -4880,6 +4880,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/kisskiss.md`
 
+## Kleinanzeigen
+- Namespace: `kleinanzeigen`
+- Aliases: `kleinanzeigen, kleinanzeigen.de, www, www.kleinanzeigen.de`
+- Route Count: `1`
+- Index File: `index/kleinanzeigen.md`
+
 ## Komiic
 - Namespace: `komiic`
 - Aliases: `komiic, komiic.com`

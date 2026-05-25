@@ -60,6 +60,18 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "69965125338796050",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Almheiri.1",
+      "title": "Literature Search - INSPIRE",
+      "type": "feed",
+      "url": "rsshub://inspirehep/literature/a%20A.Almheiri.1"
+    },
+    {
+      "description": "Literature Search - INSPIRE - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69965125338796038",
       "image": null,
       "ownerUserId": null,
@@ -67,18 +79,6 @@ _None_
       "title": "Literature Search - INSPIRE",
       "type": "feed",
       "url": "rsshub://inspirehep/literature/a%20V.E.Hubeny.1"
-    },
-    {
-      "description": "Literature Search - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69965125338796035",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%22black%20hole%20entropy%22",
-      "title": "Literature Search - INSPIRE",
-      "type": "feed",
-      "url": "rsshub://inspirehep/literature/%22black%20hole%20entropy%22"
     }
   ]
 }

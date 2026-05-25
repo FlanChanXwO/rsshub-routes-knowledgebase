@@ -183,7 +183,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 601,
+  "heat": 602,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -356,8 +356,8 @@
     },
     {
       "description": "安卓软件下载_Android应用APK下载 (破解版/去广告/纯净版) - 423Down - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T20:57:15.776Z",
+      "errorMessage": "[GET] \"https://www.423down.com/apk\": 403 Forbidden\n",
       "id": "68887846273620992",
       "image": "https://www.423down.com/wp-content/themes/D7/img/423Down.png",
       "ownerUserId": null,

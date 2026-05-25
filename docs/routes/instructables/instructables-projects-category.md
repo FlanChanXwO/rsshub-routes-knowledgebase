@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 8,
   "location": "projects.ts",
   "maintainers": [
     "wolfg1969"

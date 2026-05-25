@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/google/research",
-  "heat": 889,
+  "heat": 888,
   "location": "research.ts",
   "maintainers": [
     "Levix",

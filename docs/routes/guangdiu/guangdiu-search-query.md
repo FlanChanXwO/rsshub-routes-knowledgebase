@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "逛丢 - 6750gre - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T16:03:12.268Z",
+      "errorMessage": "Authentication failed. Access denied.\n/guangdiu/search/q=6750gre\nFailed to fetch\n",
       "id": "136052350296282112",
       "image": null,
       "ownerUserId": null,

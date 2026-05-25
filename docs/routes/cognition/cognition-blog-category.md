@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Cognition builds autonomous software engineering agents - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-24T02:32:51.441Z",
+      "errorMessage": "[GET] \"https://cognition.ai/blog/1\": <no response> fetch failed\n",
       "id": "207531896770078720",
       "image": "https://cognition.ai/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_AsPGF1a3GT9n63uTPz6oLbFLLR5V",
       "ownerUserId": null,

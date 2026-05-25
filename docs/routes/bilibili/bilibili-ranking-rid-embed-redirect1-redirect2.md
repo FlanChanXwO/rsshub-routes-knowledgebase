@@ -42,7 +42,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 732,
+  "heat": 731,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -133,7 +133,7 @@ _None_
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
       "errorAt": "2026-05-20T22:32:57.297Z",
-      "errorMessage": "-352\n-352\n",
+      "errorMessage": "-352\nFailed to fetch\n",
       "id": "79067786101345280",
       "image": null,
       "ownerUserId": null,

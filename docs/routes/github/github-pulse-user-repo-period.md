@@ -76,28 +76,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "137417584044606464",
+      "id": "220767323256864790",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
-      "title": "datawhalechina/llm-universe weekly Pulse",
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     },
     {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.373Z",
-      "errorMessage": "[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864794",
+      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864796",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
+      "title": "openai/whisper weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/fun-asr/funasr/weekly"
+      "url": "rsshub://github/pulse/openai/whisper/weekly"
     }
   ]
 }

@@ -79,28 +79,28 @@ _None_
   "radar": [],
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-01-04] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523949050013696",
+      "id": "243703331756301312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/hydrafxx-collection-2026-01-01-hydrafxx.25063/#post-1544334",
-      "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/#post-12203185",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-01-04] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
+      "url": "rsshub://f95zone/post/bamh3d-collection-2026-01-04-bamhor.181609/post-12203185"
     },
     {
-      "description": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD] - Powered by RSSHub",
-      "errorAt": "2026-05-22T19:57:00.132Z",
-      "errorMessage": "[GET] \"https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214\": 451 Unavailable For Legal Reasons\n",
-      "id": "250524222304441344",
+      "description": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2] - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250524266322800640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214",
-      "title": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD]",
+      "siteUrl": "https://f95zone.to/threads/nyl-collection-2026-01-01-nyl2.46099/#post-3049831",
+      "title": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/radroachhd-collection-2025-08-08-radroachhd.140965/post-9617214"
+      "url": "rsshub://f95zone/post/nyl-collection-2026-01-01-nyl2.46099/post-3049831"
     }
   ]
 }

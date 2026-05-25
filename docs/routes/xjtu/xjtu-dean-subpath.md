@@ -48,7 +48,7 @@ _None_
     {
       "description": "西安交大教务处 - 教学通知 - Powered by RSSHub",
       "errorAt": "2025-12-26T10:25:16.832Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41461870201364490",
       "image": null,
       "ownerUserId": null,

@@ -87,7 +87,7 @@
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-05-11T09:04:51.612Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "[GET] \"http://www.npc.gov.cn/npc/c2/c183/\": 403 Forbidden\n",
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

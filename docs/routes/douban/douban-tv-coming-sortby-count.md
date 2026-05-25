@@ -73,7 +73,7 @@ _None_
   "path": "/tv/coming/:sortBy?/:count?",
   "topFeeds": [
     {
-      "description": "即将播出的剧集，请求参数: count=10, total=265, sortBy=hot, requestCount=10 - Powered by RSSHub",
+      "description": "即将播出的剧集，请求参数: count=10, total=261, sortBy=hot, requestCount=10 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "259521396346720256",

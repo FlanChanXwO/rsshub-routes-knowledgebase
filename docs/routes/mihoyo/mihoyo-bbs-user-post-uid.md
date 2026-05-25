@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 猫冬 的发帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "198685663556975616",
+      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:02:21.146Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "169381097732121600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=74019947",
-      "title": "米游社 - 猫冬 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
+      "title": "米游社 - 初代 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/74019947"
+      "url": "rsshub://mihoyo/bbs/user-post/76089447"
     },
     {
-      "description": "米游社 - 紫喵Azunya 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 星穹中心 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198686444754484224",
+      "id": "198688011032240128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75596302",
-      "title": "米游社 - 紫喵Azunya 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=368830308",
+      "title": "米游社 - 星穹中心 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75596302"
+      "url": "rsshub://mihoyo/bbs/user-post/368830308"
     }
   ]
 }

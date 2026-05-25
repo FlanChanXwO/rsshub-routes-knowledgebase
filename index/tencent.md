@@ -31,7 +31,7 @@
 - Route Path: `/tencent/news/coronavirus/data/:province?/:city?`
 - File: `docs/routes/tencent/tencent-news-coronavirus-data-province-city.md`
 - File Name: `tencent-news-coronavirus-data-province-city.md`
-- Categories: `programming`
+- Categories: `game`
 - Maintainers: `CaoMeiYouRen`
 
 ### Unknown
@@ -39,7 +39,7 @@
 - Route Path: `/tencent/news/coronavirus/total`
 - File: `docs/routes/tencent/tencent-news-coronavirus-total.md`
 - File Name: `tencent-news-coronavirus-total.md`
-- Categories: `programming`
+- Categories: `game`
 - Maintainers: `CaoMeiYouRen`
 
 ### 新闻中心

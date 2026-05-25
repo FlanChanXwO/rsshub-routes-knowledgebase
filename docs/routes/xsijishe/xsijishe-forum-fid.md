@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2149,
+  "heat": 2148,
   "location": "forum.ts",
   "maintainers": [
     "akynazh"
@@ -90,7 +90,7 @@ _None_
     {
       "description": "司机社日本AV论坛 - Powered by RSSHub",
       "errorAt": "2025-08-20T08:40:00.024Z",
-      "errorMessage": "[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n520 <none>\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\nFailed to fetch\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n",
       "id": "55159238633029632",
       "image": null,
       "ownerUserId": null,

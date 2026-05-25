@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": "2026-05-22T06:45:36.788Z",
-      "errorMessage": "[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56597687648785408",
       "image": null,
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
-      "errorAt": "2026-05-22T06:44:24.214Z",
-      "errorMessage": "[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54846819419389955",
       "image": null,
       "ownerUserId": null,

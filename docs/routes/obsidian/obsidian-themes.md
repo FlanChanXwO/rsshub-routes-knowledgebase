@@ -36,7 +36,7 @@ _None_
     "program-update"
   ],
   "example": "/obsidian/themes",
-  "heat": 0,
+  "heat": 1,
   "location": "themes.ts",
   "maintainers": [
     "DIYgod"

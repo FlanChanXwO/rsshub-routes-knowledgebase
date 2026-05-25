@@ -86,8 +86,8 @@ MSN News
     },
     {
       "description": "Press Trust of India - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-23T19:57:19.617Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCannot read properties of undefined (reading 'cards')\n",
       "id": "95284553009393664",
       "image": "https://www.msn.com/favicon.ico",
       "ownerUserId": null,

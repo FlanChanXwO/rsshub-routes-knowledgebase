@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 97,
+  "heat": 98,
   "location": "research.ts",
   "maintainers": [],
   "name": "最新研报",
