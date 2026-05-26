@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 338,
+  "heat": 339,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -100,8 +100,8 @@
     },
     {
       "description": "Stock screener for investors and traders, financial visualizations. - Powered by RSSHub",
-      "errorAt": "2026-05-24T00:23:14.754Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59063423343404032",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59063423343404032",
       "image": "https://finviz.com/img/logo.svg#free",
       "ownerUserId": null,

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 26,
+  "heat": 25,
   "location": "price.ts",
   "maintainers": [
     "HenryQW"

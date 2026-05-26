@@ -43,7 +43,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 5228,
+  "heat": 5226,
   "location": "profile.ts",
   "maintainers": [
     "KarasuShin",
@@ -79,7 +79,7 @@ _None_
     {
       "description": "DIYgod's subscriptions - Powered by RSSHub",
       "errorAt": "2026-05-02T04:58:02.716Z",
-      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n",
       "id": "58564329155994624",
       "image": "https://assets.folo.is/avatars/fb375d2d6d76367584300836196333fd.jpg",
       "ownerUserId": null,

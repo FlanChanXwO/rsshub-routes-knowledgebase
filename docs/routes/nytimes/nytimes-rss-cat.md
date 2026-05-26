@@ -53,7 +53,7 @@ Enhance the official EN RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 296,
+  "heat": 295,
   "location": "rss.ts",
   "maintainers": [
     "HenryQW",
@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/05/23/magazine/nicolas-cage-interview.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

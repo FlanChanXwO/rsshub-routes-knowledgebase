@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25,
+  "heat": 26,
   "location": "other/classification.ts",
   "maintainers": [
     "zzwab"

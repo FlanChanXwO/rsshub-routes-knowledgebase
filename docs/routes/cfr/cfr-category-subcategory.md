@@ -44,7 +44,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 25,
+  "heat": 24,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin"

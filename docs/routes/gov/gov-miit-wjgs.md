@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 文件公示
+# 中华人民共和国应急管理部 - 文件公示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/miit/wjgs`
 - Route Name: `文件公示`
 - Example: `/gov/miit/wjgs`
-- URL: `www.szlh.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`
@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1280,
+  "heat": 1279,
   "location": "miit/wjgs.ts",
   "maintainers": [
     "Yoge-Code"

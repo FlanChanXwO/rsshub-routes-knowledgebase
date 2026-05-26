@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 重庆市人民政府 国有资产监督管理委员会
+# 中华人民共和国应急管理部 - 重庆市人民政府 国有资产监督管理委员会
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/chongqing/gzw/:category{.+}?`
 - Route Name: `重庆市人民政府 国有资产监督管理委员会`
 - Example: `_None_`

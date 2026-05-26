@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "newshub-zh.ts",
   "maintainers": [
     "sparkcyf"
@@ -66,20 +66,7 @@ _None_
       ]
     }
   ],
-  "topFeeds": [
-    {
-      "description": "南方科技大学新闻网-中文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "101163460934356992",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://newshub.sustech.edu.cn/news",
-      "title": "南方科技大学新闻网-中文",
-      "type": "feed",
-      "url": "rsshub://sustech/newshub-zh"
-    }
-  ],
+  "topFeeds": [],
   "url": "newshub.sustech.edu.cn/news"
 }
 ```

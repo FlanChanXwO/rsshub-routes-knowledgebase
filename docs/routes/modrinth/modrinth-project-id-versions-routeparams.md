@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
+      "description": "Shopkeeper for Folia. Can trade and change professions - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582838985083904",
+      "id": "123852949043433472",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/nZSk44a8",
-      "title": "AxTrade Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/ki2hRsud",
+      "title": "VillagerTradeEdit Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/nZSk44a8/versions"
+      "url": "rsshub://modrinth/project/ki2hRsud/versions"
     }
   ]
 }

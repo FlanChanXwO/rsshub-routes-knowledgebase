@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 924,
+  "heat": 925,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/culture/2026/05/22/what-to-watch-this-week\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/05/22/you-probably-dont-need-extra-electrolytes\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/united-states/2026/05/23/checks-and-balance-newsletter-in-defence-of-americas-elites\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/05/23/meet-the-jailscraper\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/21/what-china-can-learn-from-japan-about-escaping-deflation\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/21/what-china-can-learn-from-japan-about-escaping-deflation\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/21/what-china-can-learn-from-japan-about-escaping-deflation\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/21/what-china-can-learn-from-japan-about-escaping-deflation\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/21/what-china-can-learn-from-japan-about-escaping-deflation\": 403 Forbidden\nFailed to fetch\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

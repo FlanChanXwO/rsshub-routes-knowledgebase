@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "三立新聞網 - 即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-24T21:13:41.639Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55863308067829760",
       "id": "55863308067829760",
       "image": null,
       "ownerUserId": null,

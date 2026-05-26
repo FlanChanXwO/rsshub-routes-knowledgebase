@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 122,
+  "heat": 123,
   "location": "latest-tvseries.ts",
   "maintainers": [
     "tc9011"

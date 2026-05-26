@@ -76,28 +76,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864790",
+      "id": "137417584044606464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
-      "title": "facebookresearch/audiocraft weekly Pulse",
+      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
+      "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
+      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
     },
     {
-      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
+      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864796",
+      "id": "220767323256864792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
-      "title": "openai/whisper weekly Pulse",
+      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
+      "title": "2noise/ChatTTS weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/openai/whisper/weekly"
+      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
     }
   ]
 }

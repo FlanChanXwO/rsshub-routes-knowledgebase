@@ -93,7 +93,7 @@ If you subscribe to [Updates in English](https://www.counter-strike.net/news/upd
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 18,
+  "heat": 20,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"

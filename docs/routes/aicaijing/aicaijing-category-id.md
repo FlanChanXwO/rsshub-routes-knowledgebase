@@ -56,7 +56,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-06-13T10:07:31.857Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "156287304989484033",
       "image": null,
       "ownerUserId": null,

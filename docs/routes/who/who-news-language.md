@@ -90,8 +90,8 @@ Language
     },
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T02:29:07.723Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62422466958723072",
       "image": null,
       "ownerUserId": null,

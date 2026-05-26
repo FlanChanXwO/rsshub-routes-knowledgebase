@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 240,
+  "heat": 241,
   "location": "subject.ts",
   "maintainers": [
     "nczitzk"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "2024年政策产业共振，有望成为低空经济元年，后续载人客运市场应用场景打开有望为eVTOL市场提速。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T01:23:15.375Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68144523718124544",
       "image": "https://img2.gelonghui.com/04d2f-fe73f446-87c6-4203-a828-0959554dfcba.jpg",
       "ownerUserId": null,

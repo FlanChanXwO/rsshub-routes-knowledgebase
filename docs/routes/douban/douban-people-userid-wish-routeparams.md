@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://douban/people/171811323/wish"
     },
     {
-      "description": "豆瓣想看 - 追——＆梦→~异类~ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "75887997094583296",
+      "description": "豆瓣想看 - 白Rap的DJ - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:38:56.520Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "186422945668491341",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/people/163194102/wish",
-      "title": "豆瓣想看 - 追——＆梦→~异类~",
+      "siteUrl": "https://movie.douban.com/people/270652243/wish",
+      "title": "豆瓣想看 - 白Rap的DJ",
       "type": "feed",
-      "url": "rsshub://douban/people/163194102/wish"
+      "url": "rsshub://douban/people/270652243/wish"
     }
   ]
 }

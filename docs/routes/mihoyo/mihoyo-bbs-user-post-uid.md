@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
-      "errorAt": "2025-11-04T02:02:21.146Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "169381097732121600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
-      "title": "米游社 - 初代 的发帖",
-      "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76089447"
-    },
-    {
-      "description": "米游社 - 星穹中心 的发帖 - Powered by RSSHub",
+      "description": "米游社 - ToSnow 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688011032240128",
+      "id": "198685994235902976",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=368830308",
-      "title": "米游社 - 星穹中心 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=113110421",
+      "title": "米游社 - ToSnow 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/368830308"
+      "url": "rsshub://mihoyo/bbs/user-post/113110421"
+    },
+    {
+      "description": "米游社 - 莹泠 的发帖 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198687353464355840",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75149887",
+      "title": "米游社 - 莹泠 的发帖",
+      "type": "feed",
+      "url": "rsshub://mihoyo/bbs/user-post/75149887"
     }
   ]
 }

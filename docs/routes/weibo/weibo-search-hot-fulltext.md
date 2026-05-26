@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6779,
+  "heat": 6778,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",
@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T00:43:50.388Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nFailed to fetch\nFailed to fetch\n",
       "id": "57266422630121472",
       "image": null,
       "ownerUserId": null,

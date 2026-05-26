@@ -70,8 +70,8 @@ _None_
     },
     {
       "description": "台視新聞網 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T02:47:13.377Z",
+      "errorMessage": "[GET] \"https://news.ttv.com.tw/category/政治\": 403 Forbidden\n[GET] \"https://news.ttv.com.tw/category/政治\": 403 Forbidden\n",
       "id": "131972776479638528",
       "image": null,
       "ownerUserId": null,

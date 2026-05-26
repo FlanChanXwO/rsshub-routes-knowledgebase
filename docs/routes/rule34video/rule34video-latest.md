@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates from Rule34 Video - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T01:32:29.508Z",
+      "errorMessage": "[GET] \"https://www.rule34video.com/latest-updates/\": 403 Forbidden\n",
       "id": "1094754492298952704",
       "image": null,
       "ownerUserId": null,

@@ -930,7 +930,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 116,
+  "heat": 115,
   "location": "channel.ts",
   "maintainers": [
     "nczitzk"

@@ -63,28 +63,28 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-05-22T19:01:19.641Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=米利阿鲁德\": 403 Forbidden\n",
-      "id": "86266828598569984",
+      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-21T21:51:21.614Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
+      "id": "128277758834280448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
-      "title": "米利阿鲁德 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
+      "title": "在逃双皮奶 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
+      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
     },
     {
-      "description": "垃圾一件而已 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-24T08:25:24.210Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=KOKOKOKOKO巨蟹\": 403 Forbidden\n",
-      "id": "86267569293295616",
+      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-04-24T13:11:20.764Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
+      "id": "104695101579488257",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
-      "title": "垃圾一件而已 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
+      "title": "dengchunlai 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
+      "url": "rsshub://baidu/tieba/user/dengchunlai"
     }
   ]
 }

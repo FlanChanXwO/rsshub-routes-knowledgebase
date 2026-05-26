@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "手机搜狐新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-24T07:03:19.094Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "141055454808791040",
       "image": null,
       "ownerUserId": null,

@@ -57,7 +57,7 @@ Only some journals are supported.
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 500,
+  "heat": 501,
   "location": "highlight.ts",
   "maintainers": [],
   "name": "Research Highlight",
@@ -90,8 +90,8 @@ Only some journals are supported.
     },
     {
       "description": "Browse the archive of articles on Nature - Powered by RSSHub",
-      "errorAt": "2026-05-21T07:52:19.531Z",
-      "errorMessage": "Cannot read properties of null (reading 'mainEntity')\nCannot read properties of null (reading 'mainEntity')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "121071135298905088",
       "image": null,
       "ownerUserId": null,

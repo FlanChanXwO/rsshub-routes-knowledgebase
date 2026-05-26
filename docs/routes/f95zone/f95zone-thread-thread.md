@@ -99,16 +99,16 @@ Note: If you want to track a specific post's content changes (e.g., first post w
       "url": "rsshub://f95zone/thread/nagoonimation-collection-2025-11-14-nagoonimation.52702"
     },
     {
-      "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "250446095545182208",
+      "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
+      "errorAt": "2026-05-24T14:47:35.752Z",
+      "errorMessage": "[GET] \"https://f95zone.to/threads/ubermation-collection-2025-10-06-uebermation-uebermation.231247/\": 451 Unavailable For Legal Reasons\n",
+      "id": "250445877936302080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/",
-      "title": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko]",
+      "siteUrl": "https://f95zone.to/threads/ubermation-collection-2025-10-06-uebermation-uebermation.231247/",
+      "title": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/vicineko-collection-2025-06-14-vicineko.84596"
+      "url": "rsshub://f95zone/thread/ubermation-collection-2025-10-06-uebermation-uebermation.231247"
     }
   ]
 }

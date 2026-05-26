@@ -434,8 +434,8 @@
   "topFeeds": [
     {
       "description": "新闻动态 - Powered by RSSHub",
-      "errorAt": "2026-05-23T00:47:16.058Z",
-      "errorMessage": "[GET] \"https://gs.hust.edu.cn/xwdt.htm\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73885560348288000",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
@@ -445,16 +445,16 @@
       "url": "rsshub://hust/gs/xwdt"
     },
     {
-      "description": "同济医学院 - Powered by RSSHub",
-      "errorAt": "2026-05-19T13:03:22.666Z",
-      "errorMessage": "[GET] \"https://gs.hust.edu.cn/tzgg/tjyxy.htm\": <no response> fetch failed\n",
-      "id": "73883799327836160",
+      "description": "学位工作 - Powered by RSSHub",
+      "errorAt": "2026-05-18T13:27:59.677Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "73885326299630592",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/tjyxy.htm",
-      "title": "华中科技大学研究生院 - 同济医学院",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/xwgz.htm",
+      "title": "华中科技大学研究生院 - 学位工作",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/tjyxy"
+      "url": "rsshub://hust/gs/tzgg/xwgz"
     }
   ],
   "url": "gs.hust.edu.cn"

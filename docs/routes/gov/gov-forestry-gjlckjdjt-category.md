@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 国家林草科技大讲堂
+# 中华人民共和国应急管理部 - 国家林草科技大讲堂
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/forestry/gjlckjdjt/:category?`
 - Route Name: `国家林草科技大讲堂`
 - Example: `/gov/forestry/gjlckjdjt`
-- URL: `www.szlh.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

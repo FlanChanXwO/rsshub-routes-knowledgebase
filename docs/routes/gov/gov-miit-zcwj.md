@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政策文件
+# 中华人民共和国应急管理部 - 政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/miit/zcwj`
 - Route Name: `政策文件`
 - Example: `/gov/miit/zcwj`
-- URL: `www.szlh.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`
