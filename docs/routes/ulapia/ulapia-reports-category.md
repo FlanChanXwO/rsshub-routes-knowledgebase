@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T02:17:59.089Z",
+      "errorMessage": "[GET] \"http://www.ulapia.com/reports/macro_research\": <no response> fetch failed\n",
       "id": "60865831498850371",
       "image": null,
       "ownerUserId": null,

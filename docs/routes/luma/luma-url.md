@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "vLLM Meetups and Events - Powered by RSSHub",
+      "description": "Deep Tech Week - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265967053376549888",
+      "id": "265966907590378496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/vLLM-Meetups",
-      "title": "vLLM Meetups and Events",
+      "siteUrl": "https://lu.ma/deep-tech-week",
+      "title": "Deep Tech Week",
       "type": "feed",
-      "url": "rsshub://luma/vLLM-Meetups"
+      "url": "rsshub://luma/deep-tech-week"
     }
   ],
   "url": "lu.ma"

@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 61,
+  "heat": 60,
   "location": "baoliao.ts",
   "maintainers": [
     "nczitzk"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "信小兔的爆料 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T21:43:25.926Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
       "id": "63858618178298962",
       "image": null,
       "ownerUserId": null,

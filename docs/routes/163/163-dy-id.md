@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国主流财经全媒体平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T02:03:08.904Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'list')\n",
       "id": "130488664186003456",
       "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2021/0510/e3aaf33fj00qsvpi60003c0004g004gc.jpg&thumbnail=160y160&quality=80&type=jpg",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "洞察金融市场，传播中国价值——《中国基金报》社官方账号（《中国基金报》社有限公司运营管理） - Powered by RSSHub",
-      "errorAt": "2026-05-25T02:02:26.959Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'list')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "90404597556258816",
       "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/4E3QRJTKUFVkkRk3sTGwvwDrPoMmLKnFWQvGQcsdCXjSB1507602600796.png&thumbnail=160y160&quality=80&type=jpg",
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 最新资讯 | 游戏评测 | 游戏视频 | 巴士首页特稿 | 硬件资讯 |\n| -------- | -------- | -------- | ------------ | -------- |\n| news     | review   | video    | special      | hardware |",
   "example": "/tgbus/list/news",
-  "heat": 53,
+  "heat": 54,
   "location": "list.ts",
   "maintainers": [
     "Xzonn"

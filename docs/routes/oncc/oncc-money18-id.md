@@ -77,7 +77,7 @@ _None_
     },
     {
       "description": "東網產經 - 全日焦點 - Powered by RSSHub",
-      "errorAt": "2026-05-24T19:53:46.874Z",
+      "errorAt": "2026-05-25T19:43:45.051Z",
       "errorMessage": "Failed to fetch\n",
       "id": "157944883618202624",
       "image": null,

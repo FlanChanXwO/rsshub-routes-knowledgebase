@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "热点图文 - 游民娱乐 - Powered by RSSHub",
-      "errorAt": "2026-05-23T15:17:44.221Z",
-      "errorMessage": "[GET] \"https://www.gamersky.com/news/202605/2144746.shtml\": 404 Not Found\n[GET] \"https://www.gamersky.com/news/202605/2144746.shtml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73637415277299712",
       "image": null,
       "ownerUserId": null,

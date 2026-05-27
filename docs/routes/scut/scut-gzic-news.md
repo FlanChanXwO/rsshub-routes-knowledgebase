@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "华南理工大学广州国际校区 - 新闻聚焦 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T16:12:53.333Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "163570393290634240",
       "image": null,
       "ownerUserId": null,

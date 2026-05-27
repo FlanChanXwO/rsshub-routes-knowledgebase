@@ -84,7 +84,7 @@ _None_
     {
       "description": "韩国联合通讯社 | 滚动 - Powered by RSSHub",
       "errorAt": "2026-05-23T13:32:05.679Z",
-      "errorMessage": "read ECONNRESET\nFailed to fetch\n",
+      "errorMessage": "read ECONNRESET\nClient network socket disconnected before secure TLS connection was established\n",
       "id": "87238542461270016",
       "image": null,
       "ownerUserId": null,

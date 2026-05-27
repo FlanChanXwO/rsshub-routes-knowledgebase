@@ -90,15 +90,15 @@ Language
     },
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": "2026-05-25T02:29:07.723Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "62422466958723072",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59442632641000448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.who.int/zh/news",
+      "siteUrl": "https://www.who.int/news",
       "title": "News - WHO",
       "type": "feed",
-      "url": "rsshub://who/news/zh"
+      "url": "rsshub://who/news/en"
     }
   ],
   "url": "who.int/news"

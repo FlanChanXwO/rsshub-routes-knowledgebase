@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Browse the latest news from the world's leading research journal. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-25T22:23:10.548Z",
+      "errorMessage": "Cannot read properties of null (reading 'mainEntity')\nAuthentication failed. Access denied.\n/nature/news\nCannot read properties of null (reading 'mainEntity')\n",
       "id": "79390521827702784",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1347,
+  "heat": 1346,
   "location": "matrix.ts",
   "maintainers": [
     "feigaoxyz"

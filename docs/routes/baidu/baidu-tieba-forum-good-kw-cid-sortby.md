@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 84,
+  "heat": 85,
   "location": "tieba/forum.tsx",
   "maintainers": [
     "u3u"

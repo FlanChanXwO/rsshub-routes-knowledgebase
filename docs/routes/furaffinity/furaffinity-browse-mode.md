@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fur Affinity Browsing Artwork - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T00:07:42.101Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/browse.json?sfw=1\": 502 Bad Gateway\n",
       "id": "82628918077837312",
       "image": null,
       "ownerUserId": null,

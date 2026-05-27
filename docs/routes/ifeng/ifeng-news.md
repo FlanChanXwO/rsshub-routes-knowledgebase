@@ -35,7 +35,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "heat": 325,
+  "heat": 328,
   "location": "news.tsx",
   "maintainers": [],
   "name": "Unknown",

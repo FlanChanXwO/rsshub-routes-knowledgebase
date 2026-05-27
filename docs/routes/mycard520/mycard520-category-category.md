@@ -85,7 +85,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -161,20 +161,7 @@
       "title": "實況直播"
     }
   ],
-  "topFeeds": [
-    {
-      "description": "MyCard,手機遊戲,金流,SDK,儲值,教學,教程,手遊,點數卡,線上購買 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126442262783461376",
-      "image": "https://image.mycard520.com/globalmycard/member/soyo/soyo_logo_tw.svg",
-      "ownerUserId": null,
-      "siteUrl": "https://app.mycard520.com.tw/category/cardgame/",
-      "title": "最新遊戲 - 新聞 - MyCard娛樂中心",
-      "type": "feed",
-      "url": "rsshub://mycard520/category/cardgame"
-    }
-  ],
+  "topFeeds": [],
   "url": "app.mycard520.com.tw",
   "view": 0,
   "zh": {

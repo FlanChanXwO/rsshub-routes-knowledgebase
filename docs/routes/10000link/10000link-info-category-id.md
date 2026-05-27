@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "打击“开票经济”误伤正常大宗商品贸易？税务总局纠偏：未经核查不得简单搞“一刀切”，严禁随意停票、限票！ - Powered by RSSHub",
+      "description": "从“冲规模”到“重质量”！金融监管总局发文：取消小微贷款硬性增速指标，释放了什么信号？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 打击“开票经济”误伤正常大宗商品贸易？税务总局纠偏：未经核查不得简单搞“一刀切”，严禁随意停票、限票！",
+      "title": "10000万联网 - 从“冲规模”到“重质量”！金融监管总局发文：取消小微贷款硬性增速指标，释放了什么信号？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

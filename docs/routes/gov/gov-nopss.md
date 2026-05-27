@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - Unknown
+# 深圳市罗湖区人民政府 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/nopss/*`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `None`
@@ -54,16 +54,16 @@ _None_
       "url": "rsshub://gov/nopss/GB/219469/431030"
     },
     {
-      "description": "骞村害椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
-      "errorAt": "2026-05-24T19:33:32.476Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "68892056440478839",
+      "description": "閲嶅ぇ椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68892056440478838",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431027",
-      "title": "骞村害椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
+      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431028",
+      "title": "閲嶅ぇ椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
       "type": "feed",
-      "url": "rsshub://gov/nopss/GB/219469/431027"
+      "url": "rsshub://gov/nopss/GB/219469/431028"
     }
   ]
 }

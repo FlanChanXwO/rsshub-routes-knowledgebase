@@ -356,8 +356,8 @@
     },
     {
       "description": "安卓软件下载_Android应用APK下载 (破解版/去广告/纯净版) - 423Down - Powered by RSSHub",
-      "errorAt": "2026-05-24T21:17:15.819Z",
-      "errorMessage": "[GET] \"https://www.423down.com/apk\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68887846273620992",
       "image": "https://www.423down.com/wp-content/themes/D7/img/423Down.png",
       "ownerUserId": null,

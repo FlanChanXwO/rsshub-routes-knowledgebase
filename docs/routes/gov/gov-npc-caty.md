@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 通用
+# 深圳市罗湖区人民政府 - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/npc/:caty`
 - Route Name: `通用`
 - Example: `/gov/npc/c183`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `233yeee`
@@ -87,7 +87,7 @@
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-05-11T09:04:51.612Z",
-      "errorMessage": "[GET] \"http://www.npc.gov.cn/npc/c2/c183/\": 403 Forbidden\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

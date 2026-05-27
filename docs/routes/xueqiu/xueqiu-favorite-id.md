@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 62,
+  "heat": 61,
   "location": "favorite.ts",
   "maintainers": [
     "imlonghao"

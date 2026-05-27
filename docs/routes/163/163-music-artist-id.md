@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "网易云音乐歌手专辑 - The 1999 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T02:23:19.950Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65815290747943936",
       "image": "https://p2.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
       "ownerUserId": null,

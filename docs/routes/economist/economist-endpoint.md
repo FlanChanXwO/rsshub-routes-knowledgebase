@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 925,
+  "heat": 922,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/united-states/2026/05/23/checks-and-balance-newsletter-in-defence-of-americas-elites\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/05/23/meet-the-jailscraper\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/the-americas/2026/05/24/colombias-pivotal-polarised-election-could-not-be-tighter\": 403 Forbidden\nFailed to fetch\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
