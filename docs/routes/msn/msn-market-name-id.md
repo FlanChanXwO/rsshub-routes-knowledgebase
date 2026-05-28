@@ -74,8 +74,8 @@ MSN News
   "topFeeds": [
     {
       "description": "Bloomberg - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T00:07:28.545Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCannot read properties of undefined (reading 'cards')\n",
       "id": "99576216016317440",
       "image": "https://www.msn.com/favicon.ico",
       "ownerUserId": null,
@@ -86,8 +86,8 @@ MSN News
     },
     {
       "description": "Press Trust of India - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T02:31:59.264Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCannot read properties of undefined (reading 'cards')\n",
       "id": "95284553009393664",
       "image": "https://www.msn.com/favicon.ico",
       "ownerUserId": null,

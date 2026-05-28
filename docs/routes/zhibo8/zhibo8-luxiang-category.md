@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "NBA篮球录像-直播吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T03:33:01.460Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68973917074888704",
       "image": "https://www.zhibo8.cc/favicon.ico",
       "ownerUserId": null,

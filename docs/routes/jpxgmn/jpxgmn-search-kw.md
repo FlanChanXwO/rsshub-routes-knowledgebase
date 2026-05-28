@@ -39,7 +39,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 159,
+  "heat": 160,
   "location": "search.ts",
   "maintainers": [
     "Urabartin"
@@ -53,7 +53,7 @@ _None_
     {
       "description": "极品性感美女搜索 - candy - Powered by RSSHub",
       "errorAt": "2026-01-18T22:36:30.826Z",
-      "errorMessage": "[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n[GET] \"http://mei8.vip/\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n",
       "id": "69003017605357568",
       "image": null,
       "ownerUserId": null,

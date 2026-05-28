@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 通用
+# Hangzhou People's Government - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/npc/:caty`
 - Route Name: `通用`
 - Example: `/gov/npc/c183`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `233yeee`

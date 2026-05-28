@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 沟通交流
+# Hangzhou People's Government - 沟通交流
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/pbc/goutongjiaoliu`
 - Route Name: `沟通交流`
 - Example: `/gov/pbc/goutongjiaoliu`

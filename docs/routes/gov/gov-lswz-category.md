@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 国家粮食和物资储备局
+# Hangzhou People's Government - 国家粮食和物资储备局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/lswz/:category{.+}?`
 - Route Name: `国家粮食和物资储备局`
 - Example: `/gov/lswz`

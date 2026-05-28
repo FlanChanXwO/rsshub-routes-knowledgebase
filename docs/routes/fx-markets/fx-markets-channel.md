@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "FX-Markets Tech and data - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T01:28:14.832Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "91579916169767936",
       "image": null,
       "ownerUserId": null,

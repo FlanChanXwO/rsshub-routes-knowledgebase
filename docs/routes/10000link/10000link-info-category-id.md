@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "从“冲规模”到“重质量”！金融监管总局发文：取消小微贷款硬性增速指标，释放了什么信号？ - Powered by RSSHub",
+      "description": "一地一策！多省市“本土版”46号令细则密集发布，国资监管“一张网”加速织密 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 从“冲规模”到“重质量”！金融监管总局发文：取消小微贷款硬性增速指标，释放了什么信号？",
+      "title": "10000万联网 - 一地一策！多省市“本土版”46号令细则密集发布，国资监管“一张网”加速织密",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

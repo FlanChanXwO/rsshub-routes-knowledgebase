@@ -83,7 +83,7 @@ _None_
     {
       "description": "YouTube Subscriptions - Powered by RSSHub",
       "errorAt": "2025-03-08T16:50:14.180Z",
-      "errorMessage": "YouTube RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "121166426445163520",
       "image": null,
       "ownerUserId": null,

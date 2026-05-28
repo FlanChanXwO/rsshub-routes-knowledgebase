@@ -194,8 +194,8 @@ _None_
     },
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T21:03:51.855Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "244319118695723008",
       "image": "https://about.netflix.com/favicon.ico",
       "ownerUserId": null,

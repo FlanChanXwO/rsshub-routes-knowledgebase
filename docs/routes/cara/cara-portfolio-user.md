@@ -77,7 +77,7 @@ _None_
     {
       "description": "Portfolio - YUE - Powered by RSSHub",
       "errorAt": "2025-11-26T12:19:07.802Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "127387638857893888",
       "image": "https://cdn.cara.app/production/profiles/04fb2142-fc7a-4a11-9e5a-8035b5267327/27029931-E30C-4C04-B673-0375C5EDD112.jpg",
       "ownerUserId": null,

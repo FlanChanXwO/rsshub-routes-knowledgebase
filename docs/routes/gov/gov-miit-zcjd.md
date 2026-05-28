@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政策解读
+# Hangzhou People's Government - 政策解读
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/miit/zcjd`
 - Route Name: `政策解读`
 - Example: `/gov/miit/zcjd`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `Yoge-Code`

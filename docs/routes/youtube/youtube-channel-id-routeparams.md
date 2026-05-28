@@ -72,7 +72,7 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3033,
+  "heat": 3034,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -107,8 +107,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     },
     {
       "description": "YouTube channel 小钟Johnny - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T03:34:09.599Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "62110731608091648",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nLxOCT7qrhIe50CgsatjLIkcALBlBA5b6phRdsYEH9MA=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

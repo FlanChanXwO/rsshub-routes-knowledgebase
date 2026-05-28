@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 13,
   "location": "journal.tsx",
   "maintainers": [
     "nczitzk"
@@ -83,10 +83,10 @@ _None_
     },
     {
       "description": "Energy & Environmental Science - Powered by RSSHub",
-      "errorAt": "2026-05-21T10:07:36.913Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "159483253180956672",
-      "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ee&imageInfo.ImageIdentifier.IssueId=EE019007&imageInfo.ImageIdentifier.Year=2026",
+      "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ee&imageInfo.ImageIdentifier.IssueId=EE019010&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,
       "siteUrl": "https://pubs.rsc.org/en/journals/journalissues/ee#!recentarticles",
       "title": "Energy & Environmental Science",

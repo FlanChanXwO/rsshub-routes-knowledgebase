@@ -72,7 +72,7 @@ _None_
     {
       "description": "Flashcat 快猫星云博客 - Powered by RSSHub",
       "errorAt": "2026-04-12T16:17:28.026Z",
-      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58629995296859136",
       "image": null,
       "ownerUserId": null,

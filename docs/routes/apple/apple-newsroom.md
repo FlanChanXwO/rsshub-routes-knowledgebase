@@ -56,7 +56,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "newsroom.ts",
   "maintainers": [
     "LinxHex"

@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "三立新聞網 - 即時 - Powered by RSSHub",
-      "errorAt": "2026-05-26T02:53:58.218Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://health.setn.com/news/1844322\": 404 Not Found\n",
+      "errorAt": "2026-05-27T01:43:12.341Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55863308067829760",
       "id": "55863308067829760",
       "image": null,
       "ownerUserId": null,

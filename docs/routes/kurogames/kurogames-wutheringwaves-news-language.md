@@ -56,7 +56,7 @@ _None_
   ],
   "description": "\nLanguage codes for the `language` parameter:\n\n| Language | Code         |\n|----------|--------------|\n| English  | en           |\n| 日本語    | jp           |\n| 한국어     | kr           |\n| 简体中文   | zh (default) |\n| 繁體中文   | zh-tw        |\n| Español  | es           |\n| Français | fr           |\n| Deutsch  | de           |\n    ",
   "example": "/kurogames/wutheringwaves/news",
-  "heat": 37,
+  "heat": 38,
   "location": "wutheringwaves/news.ts",
   "maintainers": [
     "goestav",
@@ -97,8 +97,8 @@ _None_
     },
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T03:12:19.008Z",
+      "errorMessage": "[GET] \"https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json?t=1779851501412\": <no response> fetch failed\n",
       "id": "134789849205955584",
       "image": null,
       "ownerUserId": null,

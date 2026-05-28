@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 徐州市人力资源和社会保障局
+# Hangzhou People's Government - 徐州市人力资源和社会保障局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/xuzhou/hrss/:category?`
 - Route Name: `徐州市人力资源和社会保障局`
 - Example: `/gov/xuzhou/hrss`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 拍卖信息 / 海关法规 / 最新文件
+# Hangzhou People's Government - 拍卖信息 / 海关法规 / 最新文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/customs/list/:gchannel?`
 - Route Name: `拍卖信息 / 海关法规 / 最新文件`
 - Example: `/gov/customs/list/paimai`

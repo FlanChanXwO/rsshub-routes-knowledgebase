@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 长沙市人民政府
+# Hangzhou People's Government - 长沙市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/hunan/changsha/major-email`
 - Route Name: `长沙市人民政府`
 - Example: `/gov/hunan/changsha/major-email`

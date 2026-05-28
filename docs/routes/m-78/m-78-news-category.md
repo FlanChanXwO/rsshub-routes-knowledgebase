@@ -118,8 +118,8 @@ _None_
   "topFeeds": [
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T20:41:35.604Z",
+      "errorMessage": "m.map is not a function\n",
       "id": "82624813968150528",
       "image": null,
       "ownerUserId": null,

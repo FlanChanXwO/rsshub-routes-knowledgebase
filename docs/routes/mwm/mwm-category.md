@@ -89,7 +89,7 @@
     {
       "description": "管理世界杂志社-网络首发 - Powered by RSSHub",
       "errorAt": "2026-01-06T14:24:58.913Z",
-      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/wlsf\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "136404008065290240",
       "image": null,
       "ownerUserId": null,

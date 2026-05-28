@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T05:52:58.377Z",
+      "errorMessage": "[GET] \"https://jwc.xidian.edu.cn/tzgg.htm\": <no response> fetch failed\n",
       "id": "69997970126835712",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T08:53:06.589Z",
+      "errorMessage": "[GET] \"https://jwc.xidian.edu.cn/tzgg.htm\": <no response> fetch failed\n",
       "id": "80953491612598272",
       "image": null,
       "ownerUserId": null,

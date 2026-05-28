@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 最新政策
+# Hangzhou People's Government - 最新政策
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/zhengce/zuixin`
 - Route Name: `最新政策`
 - Example: `/gov/zhengce/zuixin`

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 宁波市国资委-公告
+# Hangzhou People's Government - 宁波市国资委-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/zj/ningbogzw-notice/:colId?`
 - Route Name: `宁波市国资委-公告`
 - Example: `/gov/zj/ningbogzw-notice/1229116730`

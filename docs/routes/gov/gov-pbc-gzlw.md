@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 工作论文
+# Hangzhou People's Government - 工作论文
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/pbc/gzlw`
 - Route Name: `工作论文`
 - Example: `/gov/pbc/gzlw`

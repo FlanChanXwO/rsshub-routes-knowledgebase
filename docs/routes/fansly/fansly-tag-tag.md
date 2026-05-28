@@ -73,7 +73,7 @@ _None_
   "topFeeds": [
     {
       "description": "#asian - Fansly - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:20:10.874Z",
+      "errorAt": "2026-05-26T18:56:40.213Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79119861632400384",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "#china - Fansly - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T23:27:11.259Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'find')\n",
       "id": "79121801531701248",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
       "ownerUserId": null,

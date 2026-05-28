@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政务公开-浦东新区
+# Hangzhou People's Government - 政务公开-浦东新区
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/pudong/zwgk`
 - Route Name: `政务公开-浦东新区`
 - Example: `/gov/pudong/zwgk`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `himingway`

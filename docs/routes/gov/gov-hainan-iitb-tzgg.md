@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 通知公告
+# Hangzhou People's Government - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/hainan/iitb/tzgg`
 - Route Name: `通知公告`
 - Example: `/gov/hainan/iitb/tzgg`

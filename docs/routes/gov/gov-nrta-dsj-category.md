@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 电视剧政务平台
+# Hangzhou People's Government - 电视剧政务平台
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/nrta/dsj/:category?`
 - Route Name: `电视剧政务平台`
 - Example: `/gov/nrta/dsj`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

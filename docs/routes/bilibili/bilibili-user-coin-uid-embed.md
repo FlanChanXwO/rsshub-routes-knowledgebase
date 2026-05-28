@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "CLS班长 的 bilibili 投币视频 - Powered by RSSHub",
+      "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73238754758254592",
+      "id": "69594490737078272",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546587043203707",
-      "title": "CLS班长 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/383426197",
+      "title": "undefined 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/3546587043203707"
+      "url": "rsshub://bilibili/user/coin/383426197"
     }
   ]
 }

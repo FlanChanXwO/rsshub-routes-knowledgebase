@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 519,
+  "heat": 520,
   "location": "forum.ts",
   "maintainers": [
     "nczitzk"
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "新手入门及其它(硬件) - 恩山无线论坛 - Powered by RSSHub",
-      "errorAt": "2026-05-25T22:17:18.130Z",
-      "errorMessage": "[GET] \"https://www.right.com.cn/forum/forum-31-1.html\": 521 \n[GET] \"https://www.right.com.cn/forum/forum-31-1.html\": 521 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61252164758378512",
       "image": null,
       "ownerUserId": null,

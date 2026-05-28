@@ -141,7 +141,7 @@
     {
       "description": "游侠网资讯中心是国内资深、全面的单机新闻发布站点之一，24小时报道国内、全球单机新闻以及各类游戏相关资讯！ - Powered by RSSHub",
       "errorAt": "2026-04-24T05:43:48.193Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://mp.ali213.net/ajax/newslist?type=new\": <no response> fetch failed\n",
       "id": "122926847767308288",
       "image": "https://www.ali213.net/news/images/dxhlogo.png",
       "ownerUserId": null,

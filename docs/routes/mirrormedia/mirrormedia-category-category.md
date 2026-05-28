@@ -40,7 +40,7 @@ _None_
     "traditional-media"
   ],
   "example": "/mirrormedia/category/political",
-  "heat": 35,
+  "heat": 37,
   "location": "category.ts",
   "maintainers": [
     "dzx-dzx"

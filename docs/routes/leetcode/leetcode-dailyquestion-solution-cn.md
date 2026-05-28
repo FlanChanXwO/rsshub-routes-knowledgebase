@@ -57,7 +57,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/count-the-number-of-special-characters-i/",
+      "siteUrl": "https://leetcode.cn/problems/count-the-number-of-special-characters-ii/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

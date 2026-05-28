@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 最新消息
+# Hangzhou People's Government - 最新消息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/moj/aac/news/:type?`
 - Route Name: `最新消息`
 - Example: `/gov/moj/aac/news`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

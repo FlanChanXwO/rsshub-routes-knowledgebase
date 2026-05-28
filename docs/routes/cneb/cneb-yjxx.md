@@ -56,7 +56,7 @@ _None_
   "topFeeds": [
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",
-      "errorAt": "2026-04-28T08:56:50.335Z",
+      "errorAt": "2026-05-27T03:01:45.022Z",
       "errorMessage": "[POST] \"https://gdapi.cnr.cn/yjwnews\": 403 Forbidden\n",
       "id": "62187667731240974",
       "image": null,

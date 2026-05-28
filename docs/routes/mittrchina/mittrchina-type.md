@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1704,
+  "heat": 1705,
   "location": "index.tsx",
   "maintainers": [
     "EsuRt",
@@ -79,7 +79,7 @@ _None_
     },
     {
       "description": "MIT 科技评论 - 本周热榜 - Powered by RSSHub",
-      "errorAt": "2026-05-25T19:35:03.578Z",
+      "errorAt": "2026-05-26T23:59:54.344Z",
       "errorMessage": "Failed to fetch\n403 Forbidden\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nAuthentication failed. Access denied.\n/mittrchina/hot\nFailed to fetch\n",
       "id": "41492096674907158",
       "image": null,

@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Komiic - 電鋸人 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T20:11:47.855Z",
+      "errorMessage": "Command timed out",
       "id": "124657497854501888",
       "image": null,
       "ownerUserId": null,

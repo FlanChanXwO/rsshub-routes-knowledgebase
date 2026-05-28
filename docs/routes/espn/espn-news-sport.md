@@ -51,7 +51,7 @@ _None_
   ],
   "description": "Get the news feed of the sport you love on ESPN.\n\n| Sport                 | sport | Sport      | sport   |\n| --------------------- | ----- | ---------- | ------- |\n| 🏀 NBA                | nba   | 🎾 Tennis  | tennis  |\n| 🏀 WNBA               | wnba  | ⛳️ Golf    | golf    |\n| 🏈 NFL                | nfl   | 🏏 Cricket | cricket |\n| ⚾️ MLB                | mlb   | ⚽️ Soccer  | soccer  |\n| 🏒 NHL                | nhl   | 🏎️ F1      | f1      |\n| ⛹️ College Basketball | ncb   | 🥊 MMA     | mma     |\n| 🏟️️ College Football   | ncf   | 🏈 UFL     | ufl     |\n| 🏉 Rugby              | rugby | 🃏 Poker   | poker   |",
   "example": "/espn/news/nba",
-  "heat": 78,
+  "heat": 79,
   "location": "news.tsx",
   "maintainers": [
     "weijianduan0302"
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "ESPN SOCCER News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T14:08:51.617Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72477890360150016",
       "image": null,
       "ownerUserId": null,

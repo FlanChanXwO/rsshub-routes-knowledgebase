@@ -98,8 +98,8 @@
   "topFeeds": [
     {
       "description": "通知公告-研究生院-西安电子科技大学 - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:23:07.574Z",
-      "errorMessage": "[GET] \"https://gr.xidian.edu.cn//tzgg1.htm\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88422062290453504",
       "image": null,
       "ownerUserId": null,

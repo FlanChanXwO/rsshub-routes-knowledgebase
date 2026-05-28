@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Fabric API implemented on top of NeoForge - Powered by RSSHub",
+      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120750574474919936",
+      "id": "114584532715532288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/forgified-fabric-api",
-      "title": "Forgified Fabric API Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
+      "title": "CrazyCrates Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/forgified-fabric-api/versions"
+      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
     }
   ]
 }

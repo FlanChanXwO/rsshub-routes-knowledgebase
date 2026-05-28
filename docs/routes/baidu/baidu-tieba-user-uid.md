@@ -63,6 +63,18 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
+      "description": "K盘音 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-16T04:13:10.675Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
+      "id": "197372964709496832",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
+      "title": "K盘音 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/TheKickInside"
+    },
+    {
       "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
       "errorAt": "2025-11-21T21:51:21.614Z",
       "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
@@ -73,18 +85,6 @@ _None_
       "title": "在逃双皮奶 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
-    },
-    {
-      "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-24T05:52:29.901Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=ryan_knight_12\": 403 Forbidden\n",
-      "id": "86949667680527360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=ryan_knight_12",
-      "title": "ryan_knight_12 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/ryan_knight_12"
     }
   ]
 }

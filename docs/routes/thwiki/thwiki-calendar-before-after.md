@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 11,
+  "heat": 12,
   "location": "index.ts",
   "maintainers": [
     "aether17"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-26T22:17:01.345Z",
+      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-04-27/2026-06-26\": 504 Gateway Timeout\n",
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

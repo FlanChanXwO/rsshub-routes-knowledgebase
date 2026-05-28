@@ -82,7 +82,7 @@
       "image": "https://11.mydrivers.com/m/images/v1/kkj_hearlogo.png",
       "ownerUserId": null,
       "siteUrl": "https://m.mydrivers.com/newsclass.aspx?tid=1001",
-      "title": "快科技 - 24小时最热",
+      "title": "快科技 - 本周最热",
       "type": "feed",
       "url": "rsshub://mydrivers/rank"
     },

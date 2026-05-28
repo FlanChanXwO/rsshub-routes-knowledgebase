@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T03:28:47.409Z",
+      "errorMessage": "Failed to fetch\ncheerio.load() expects a string\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-05-24T02:22:44.662Z",
-      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a1380548e9f097f203efeef\": <no response> fetch failed\n",
+      "errorAt": "2026-05-27T03:08:03.534Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

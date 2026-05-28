@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 茂名市茂南区人民政府
+# Hangzhou People's Government - 茂名市茂南区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `Hangzhou People's Government`
 - Route Path: `/gov/maonan/:category`
 - Route Name: `茂名市茂南区人民政府`
 - Example: `/gov/maonan/zwgk`
-- URL: `www.szlh.gov.cn`
+- URL: `hangzhou.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `ShuiHuo`
