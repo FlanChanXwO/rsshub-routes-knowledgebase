@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 投诉建议
+# 中华人民共和国国家发展和改革委员会 - 投诉建议
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/safe/complaint/:site?`
 - Route Name: `投诉建议`
 - Example: `/gov/safe/complaint/beijing`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

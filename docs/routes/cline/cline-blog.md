@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Cline Official Blog - AI Coding Assistant - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T02:02:38.342Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "143518784556568576",
       "image": null,
       "ownerUserId": null,

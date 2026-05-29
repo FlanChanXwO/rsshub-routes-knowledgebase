@@ -63,28 +63,28 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "K盘音 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-16T04:13:10.675Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
-      "id": "197372964709496832",
+      "description": "垃圾一件而已 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-04-24T08:25:24.210Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=KOKOKOKOKO巨蟹\": 403 Forbidden\n",
+      "id": "86267569293295616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
-      "title": "K盘音 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
+      "title": "垃圾一件而已 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/TheKickInside"
+      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
     },
     {
-      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-21T21:51:21.614Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
-      "id": "128277758834280448",
+      "description": "林子君 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-05-22T16:26:48.243Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=林子◎君\": 403 Forbidden\n",
+      "id": "86267276958861312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
-      "title": "在逃双皮奶 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
+      "title": "林子君 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
+      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
     }
   ]
 }

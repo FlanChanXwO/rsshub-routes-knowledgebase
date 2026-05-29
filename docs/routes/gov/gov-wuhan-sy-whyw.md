@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 武汉要闻
+# 中华人民共和国国家发展和改革委员会 - 武汉要闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/wuhan/sy/whyw`
 - Route Name: `武汉要闻`
 - Example: `/gov/wuhan/sy/whyw`
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "武汉动态 - 武汉市人民政府 - Powered by RSSHub",
-      "errorAt": "2026-05-26T17:28:10.923Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58346915458085890",
       "image": null,
       "ownerUserId": null,

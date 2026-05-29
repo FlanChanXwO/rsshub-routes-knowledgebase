@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 财政厅
+# 中华人民共和国国家发展和改革委员会 - 财政厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/hebei/czt/xwdt/:category?`
 - Route Name: `财政厅`
 - Example: `/gov/hebei/czt/xwdt`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

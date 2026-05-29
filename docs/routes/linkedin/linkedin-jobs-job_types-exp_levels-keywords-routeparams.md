@@ -96,7 +96,7 @@ For example:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 259,
+  "heat": 258,
   "location": "jobs.ts",
   "maintainers": [
     "BrandNewLifeJackie26",

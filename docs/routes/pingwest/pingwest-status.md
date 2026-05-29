@@ -72,7 +72,7 @@ _None_
     {
       "description": "品玩 - 实时要闻 - Powered by RSSHub",
       "errorAt": "2026-05-25T06:27:49.864Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n",
       "id": "41390414693046277",
       "image": null,
       "ownerUserId": null,

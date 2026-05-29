@@ -1,11 +1,11 @@
-# Hangzhou People's Government Route Index
+# 中华人民共和国国家发展和改革委员会 Route Index
 
 ## Namespace
 - Namespace: `gov`
-- Display Name: `Hangzhou People's Government`
-- URL: `hangzhou.gov.cn`
+- Display Name: `中华人民共和国国家发展和改革委员会`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
-- Aliases: `gov, hangzhou, hangzhou people's government, hangzhou.gov.cn`
+- Aliases: `gov, ndrc, ndrc.gov.cn, 中华人民共和国国家发展和改革委员会`
 - Route Count: `119`
 
 ## Routes
@@ -559,7 +559,7 @@
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - File: `docs/routes/gov/gov-ndrc-xwdt-category.md`
 - File Name: `gov-ndrc-xwdt-category.md`
-- Categories: `government`
+- Categories: `government, popular`
 - Maintainers: `nczitzk`
 
 ### 中华人民共和国国家发展和改革委员会政府信息公开

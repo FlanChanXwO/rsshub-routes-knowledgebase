@@ -57,7 +57,7 @@ _None_
   "topFeeds": [
     {
       "description": "吉林大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": "2026-05-26T13:32:39.839Z",
+      "errorAt": "2026-05-27T22:23:00.350Z",
       "errorMessage": "[GET] \"https://jwc.jlu.edu.cn\": <no response> fetch failed\n",
       "id": "75548213781861376",
       "image": null,

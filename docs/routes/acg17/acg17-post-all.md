@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "ACG17 - 全部文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T00:05:36.069Z",
+      "errorMessage": "[GET] \"http://acg17.com/wp-json/wp/v2/posts?per_page=30\": 403 Forbidden\n[GET] \"http://acg17.com/wp-json/wp/v2/posts?per_page=30\": <no response> fetch failed\nFailed to fetch\n",
       "id": "41467081627747330",
       "image": null,
       "ownerUserId": null,

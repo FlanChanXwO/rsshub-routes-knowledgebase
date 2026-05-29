@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 分类
+# 中华人民共和国国家发展和改革委员会 - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/cbirc/:id?`
 - Route Name: `分类`
 - Example: `/gov/cbirc/:id?`

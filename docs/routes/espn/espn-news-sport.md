@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "ESPN NBA News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T22:48:58.185Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'story')\n",
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "ESPN SOCCER News - Powered by RSSHub",
-      "errorAt": "2026-05-26T14:08:51.617Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72477890360150016",
       "image": null,
       "ownerUserId": null,

@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 茂名市茂南区人民政府
+# 中华人民共和国国家发展和改革委员会 - 茂名市茂南区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/maonan/:category`
 - Route Name: `茂名市茂南区人民政府`
 - Example: `/gov/maonan/zwgk`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `ShuiHuo`

@@ -97,8 +97,8 @@ _None_
     },
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": "2026-05-27T03:12:19.008Z",
-      "errorMessage": "[GET] \"https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json?t=1779851501412\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "134789849205955584",
       "image": null,
       "ownerUserId": null,

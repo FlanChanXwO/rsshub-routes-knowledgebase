@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "财经头条、财经新闻、最新资讯 - FastBull - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T02:53:17.545Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59799220289372189",
       "id": "59799220289372189",
       "image": null,
       "ownerUserId": null,

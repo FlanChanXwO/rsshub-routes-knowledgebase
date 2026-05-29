@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 徐州市人力资源和社会保障局
+# 中华人民共和国国家发展和改革委员会 - 徐州市人力资源和社会保障局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/xuzhou/hrss/:category?`
 - Route Name: `徐州市人力资源和社会保障局`
 - Example: `/gov/xuzhou/hrss`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

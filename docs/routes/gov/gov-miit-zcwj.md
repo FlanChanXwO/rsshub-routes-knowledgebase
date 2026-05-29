@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 政策文件
+# 中华人民共和国国家发展和改革委员会 - 政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/miit/zcwj`
 - Route Name: `政策文件`
 - Example: `/gov/miit/zcwj`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`

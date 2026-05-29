@@ -194,15 +194,15 @@ _None_
     },
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": "2026-05-26T21:03:51.855Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "244319118695723008",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "238930364614695936",
       "image": "https://about.netflix.com/favicon.ico",
       "ownerUserId": null,
-      "siteUrl": "https://about.netflix.com/zh-hans/newsroom",
+      "siteUrl": "https://about.netflix.com/en/newsroom",
       "title": "All News - Newsroom - Netflix",
       "type": "feed",
-      "url": "rsshub://netflix/newsroom/all/zh-hans"
+      "url": "rsshub://netflix/newsroom/all/en"
     }
   ],
   "url": "about.netflix.com/"

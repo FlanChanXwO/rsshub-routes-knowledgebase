@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 国家粮食和物资储备局
+# 中华人民共和国国家发展和改革委员会 - 国家粮食和物资储备局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/lswz/:category{.+}?`
 - Route Name: `国家粮食和物资储备局`
 - Example: `/gov/lswz`

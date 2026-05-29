@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "觀點 | 香港01 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T01:47:10.787Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "67391706472795143",
       "image": "https://cdn.hk01.com/di/media/images/dw/20201125/408228012966809600968521.png/iLSX3aBqMJua0Gc3o1pEMySDayDl34CKLKMCpiyjAqY",
       "ownerUserId": null,

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "角編新聞台 - Powered by RSSHub",
-      "errorAt": "2026-05-27T03:02:20.731Z",
-      "errorMessage": "[GET] \"https://www.kadokawa.com.tw/blog/posts\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71823730235321344",
       "image": "https://img.shoplineapp.com/media/image_clips/655dc2a5145a54001432df3c/original.png?1700643493",
       "ownerUserId": null,

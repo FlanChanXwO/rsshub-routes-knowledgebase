@@ -68,15 +68,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2025-10-07T13:08:19.233Z",
-      "errorMessage": "[GET] \"http://www.cbirc.gov.cn/cn/static/data/DocInfo/SelectDocByItemIdAndChild/data_itemId=954,pageIndex=1,pageSize=18.json\": <no response> fetch failed\n",
-      "id": "198372079645781012",
+      "errorAt": "2025-10-07T13:08:15.916Z",
+      "errorMessage": "[GET] \"http://www.cbirc.gov.cn/cn/static/data/DocInfo/SelectDocByItemIdAndChild/data_itemId=951,pageIndex=1,pageSize=18.json\": <no response> fetch failed\n",
+      "id": "198372079645781013",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://cbirc/tjxx"
+      "url": "rsshub://cbirc/zqyj"
     }
   ]
 }

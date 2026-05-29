@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 意见征集
+# 中华人民共和国国家发展和改革委员会 - 意见征集
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/miit/yjzj`
 - Route Name: `意见征集`
 - Example: `/gov/miit/yjzj`

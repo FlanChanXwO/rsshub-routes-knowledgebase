@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",
-      "errorAt": "2026-05-27T03:01:45.022Z",
-      "errorMessage": "[POST] \"https://gdapi.cnr.cn/yjwnews\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667731240974",
       "image": null,
       "ownerUserId": null,
@@ -68,8 +68,8 @@ _None_
     },
     {
       "description": "国家应急广播 - 北京市海淀区预警信息 - Powered by RSSHub",
-      "errorAt": "2026-04-28T13:34:49.857Z",
-      "errorMessage": "[POST] \"https://gdapi.cnr.cn/yjwnews\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60199571398524980",
       "image": null,
       "ownerUserId": null,

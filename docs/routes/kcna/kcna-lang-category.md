@@ -106,8 +106,8 @@
     },
     {
       "description": "KCNA | Article | Latest News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T10:15:40.792Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "185526378093555750",
       "image": null,
       "ownerUserId": null,

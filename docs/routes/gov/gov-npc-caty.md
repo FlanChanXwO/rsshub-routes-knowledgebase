@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 通用
+# 中华人民共和国国家发展和改革委员会 - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/npc/:caty`
 - Route Name: `通用`
 - Example: `/gov/npc/c183`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `233yeee`
@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1116,
+  "heat": 1117,
   "location": "npc/index.ts",
   "maintainers": [
     "233yeee"
@@ -87,7 +87,7 @@
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-05-11T09:04:51.612Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "[GET] \"http://www.scio.gov.cn/live/2026/38643/index.html\": 521 \n",
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

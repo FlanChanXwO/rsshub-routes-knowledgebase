@@ -122,14 +122,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- May 31, 2026 - Powered by RSSHub",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- June 07, 2026 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "56271356825466880",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- May 31, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- June 07, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     },

@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 国务院政策文件库
+# 中华人民共和国国家发展和改革委员会 - 国务院政策文件库
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/zhengce/zhengceku/:department`
 - Route Name: `国务院政策文件库`
 - Example: `/gov/zhengce/zhengceku/bmwj`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `zxx-457`

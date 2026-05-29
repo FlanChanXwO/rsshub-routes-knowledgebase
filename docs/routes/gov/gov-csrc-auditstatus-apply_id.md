@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 申请事项进度
+# 中华人民共和国国家发展和改革委员会 - 申请事项进度
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/csrc/auditstatus/:apply_id`
 - Route Name: `申请事项进度`
 - Example: `/gov/csrc/auditstatus/9ce91cf2d750ee62de27fbbcb05fa483`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `hillerliao`

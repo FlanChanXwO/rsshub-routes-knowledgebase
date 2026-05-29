@@ -75,7 +75,7 @@ _None_
     {
       "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
       "errorAt": "2026-02-26T14:17:23.668Z",
-      "errorMessage": "e.tag_info.map is not a function\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "76813788023884800",
       "image": null,
       "ownerUserId": null,

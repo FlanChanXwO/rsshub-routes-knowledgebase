@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
+      "description": "Show your HuskHomes homes and warps in an easy-to-use GUI menu. Updated to support Folia and latest versions. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114584532715532288",
+      "id": "123851432297317376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
-      "title": "CrazyCrates Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/fkUN2Wmv",
+      "title": "Updated-HuskHomesGUI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
+      "url": "rsshub://modrinth/project/fkUN2Wmv/versions"
     }
   ]
 }

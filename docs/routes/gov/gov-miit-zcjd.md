@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 政策解读
+# 中华人民共和国国家发展和改革委员会 - 政策解读
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/miit/zcjd`
 - Route Name: `政策解读`
 - Example: `/gov/miit/zcjd`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `Yoge-Code`

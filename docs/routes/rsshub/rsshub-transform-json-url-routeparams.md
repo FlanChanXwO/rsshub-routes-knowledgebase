@@ -99,28 +99,28 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/ginuerzh/gost/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:36.929Z",
+      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:56.791Z",
       "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185687225196835840",
+      "id": "185695342945072128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/ginuerzh/gost/releases",
-      "title": "Gost releases",
+      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
+      "title": "goexec releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fginuerzh%2Fgost%2Freleases/title=Gost%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/nodauf/GoMapEnum/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:55.358Z",
+      "description": "Proxy https://api.github.com/repos/zema1/suo5/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:47.422Z",
       "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185695848672577536",
+      "id": "185696056303208448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/nodauf/GoMapEnum/releases",
-      "title": "GoMapEnum releases",
+      "siteUrl": "https://api.github.com/repos/zema1/suo5/releases",
+      "title": "suo5 releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fnodauf%2FGoMapEnum%2Freleases/title=GoMapEnum%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzema1%2Fsuo5%2Freleases/title=suo5%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

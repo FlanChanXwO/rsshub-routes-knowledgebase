@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "有兴趣为《反恐精英》创作内容吗？ 那就来展示一下您的能耐吧。 探索我们的武器、印花、地图制作指南，并开始提交作品吧。 了解更多 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T21:02:28.198Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58572516674359296",
       "image": null,
       "ownerUserId": null,

@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 国家核安全局
+# 中华人民共和国国家发展和改革委员会 - 国家核安全局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/mee/nnsa/:category{.+}?`
 - Route Name: `国家核安全局`
 - Example: `/gov/mee/nnsa/ywdt/hjyw`

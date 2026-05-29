@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "中央气象台全国气象预警 - Powered by RSSHub",
-      "errorAt": "2026-05-26T22:52:26.965Z",
-      "errorMessage": "[GET] \"http://www.nmc.cn/rest/findAlarm?pageNo=1&pageSize=20&signaltype&signallevel&province=%E4%B8%8A%E6%B5%B7%E5%B8%82\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74808527566350336",
       "image": null,
       "ownerUserId": null,

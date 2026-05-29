@@ -53,7 +53,7 @@ Get latest news from TheBlock by category. Note that due to website limitations,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25,
+  "heat": 23,
   "location": "index.ts",
   "maintainers": [
     "pseudoyu"
@@ -86,8 +86,8 @@ Get latest news from TheBlock by category. Note that due to website limitations,
     },
     {
       "description": "Latest articles from TheBlock in the markets category - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T10:15:45.019Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "185526378093555743",
       "image": null,
       "ownerUserId": null,

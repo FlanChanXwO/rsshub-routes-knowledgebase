@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Daily Updates on stockedge.com - Powered by RSSHub",
-      "errorAt": "2026-05-27T01:17:55.781Z",
-      "errorMessage": "[GET] \"https://api.stockedge.com/Api/DailyDashboardApi/GetLatestNewsItems\": 502 Bad Gateway\n[GET] \"https://api.stockedge.com/Api/DailyDashboardApi/GetLatestNewsItems\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72635895363612672",
       "image": null,
       "ownerUserId": null,

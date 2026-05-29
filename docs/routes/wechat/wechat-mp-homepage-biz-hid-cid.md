@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 41,
+  "heat": 43,
   "location": "mp.ts",
   "maintainers": [
     "MisteryMonster"
@@ -82,7 +82,7 @@ _None_
     {
       "description": "|李厚辰·专栏 - Powered by RSSHub",
       "errorAt": "2025-08-12T08:16:13.890Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HKguFGqj3Jx4iWukqSHJF0EFtD3yhWG7TlIAK2kL&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852786%26idx%3D1%26sn%3Dcc7fe151271e7c313d07cb9c550a8124\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEyZFmqjBDy-hu1knGa-V7MlSI8P8tOMbTQZXjOX&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852786%26idx%3D1%26sn%3Dcc7fe151271e7c313d07cb9c550a8124\n",
       "id": "58707616374334464",
       "image": null,
       "ownerUserId": null,

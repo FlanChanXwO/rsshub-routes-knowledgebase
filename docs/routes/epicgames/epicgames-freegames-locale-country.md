@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 36053,
+  "heat": 36030,
   "location": "index.tsx",
   "maintainers": [
     "DIYgod",

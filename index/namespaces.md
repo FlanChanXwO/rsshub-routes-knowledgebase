@@ -3668,9 +3668,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## Hangzhou People's Government
+## 中华人民共和国国家发展和改革委员会
 - Namespace: `gov`
-- Aliases: `gov, hangzhou, hangzhou people's government, hangzhou.gov.cn`
+- Aliases: `gov, ndrc, ndrc.gov.cn, 中华人民共和国国家发展和改革委员会`
 - Route Count: `119`
 - Index File: `index/gov.md`
 

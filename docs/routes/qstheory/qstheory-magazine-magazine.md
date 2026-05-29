@@ -74,7 +74,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "80489063705907200",
-      "image": "http://www.qstheory.cn/20260512/0887709589cb4aebb570a46f394574c1/20a1747a525b4100b2e96bb7d8af40f2.jpg",
+      "image": "http://www.qstheory.cn/20260527/197ffbbdb8804ff3927b2063f461b3ea/70227ef5cef44c5e9e94f95b67fa7330.jpg",
       "ownerUserId": null,
       "siteUrl": "http://www.qstheory.cn/hqwglist/mulu.htm",
       "title": "《红旗文稿》 - 求是网",

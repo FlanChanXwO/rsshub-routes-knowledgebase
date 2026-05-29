@@ -62,7 +62,7 @@ others = 热点新闻 + 滚动新闻
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 330,
+  "heat": 331,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -83,8 +83,8 @@ others = 热点新闻 + 滚动新闻
   "topFeeds": [
     {
       "description": "观察者网 - 全部 - Powered by RSSHub",
-      "errorAt": "2026-05-27T01:03:48.834Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56875843110895617",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56875843110895617",
       "image": null,
       "ownerUserId": null,

@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "轻小说 - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": "2026-05-26T14:48:56.946Z",
-      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=55&orderby=dateline&filter=typeid&typeid=295\": 521 <none>\n[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=55&orderby=dateline&filter=typeid&typeid=295\": 521 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99375532893443072",
       "image": null,
       "ownerUserId": null,
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": "2026-05-26T22:21:51.287Z",
-      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=5&orderby=dateline&filter=typeid&typeid=404\": 521 <none>\n",
+      "errorAt": "2026-05-27T21:51:26.214Z",
+      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=5&orderby=dateline&filter=typeid&typeid=404\": 503 Service Unavailable\n",
       "id": "99080947264681984",
       "image": null,
       "ownerUserId": null,

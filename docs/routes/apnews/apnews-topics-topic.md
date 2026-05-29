@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 729,
+  "heat": 728,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",

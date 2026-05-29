@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 事故及灾害查处
+# 中华人民共和国国家发展和改革委员会 - 事故及灾害查处
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/mem/gk/sgcc/:category?`
 - Route Name: `事故及灾害查处`
 - Example: `/gov/mem/gk/sgcc/tbzdsgdcbg`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

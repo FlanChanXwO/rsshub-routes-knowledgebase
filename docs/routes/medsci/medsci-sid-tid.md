@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T01:54:41.184Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n502 Bad Gateway\n",
       "id": "70825962351576064",
       "image": null,
       "ownerUserId": null,
@@ -117,8 +117,8 @@ _None_
     },
     {
       "description": "心血管 - MedSci.cn - Powered by RSSHub",
-      "errorAt": "2026-05-26T21:19:24.124Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66942767614244865",
       "image": null,
       "ownerUserId": null,

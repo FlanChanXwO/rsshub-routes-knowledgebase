@@ -35,7 +35,7 @@ _None_
   "categories": [
     "program-update"
   ],
-  "heat": 6,
+  "heat": 5,
   "location": "blog.ts",
   "maintainers": [],
   "name": "Unknown",
@@ -55,8 +55,8 @@ _None_
     },
     {
       "description": "We release new updates nearly every week. Stay on top of them here with all our latest company news and views. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-27T10:15:48.672Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "185526378093555740",
       "image": null,
       "ownerUserId": null,

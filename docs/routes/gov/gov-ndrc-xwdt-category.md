@@ -1,17 +1,17 @@
-# Hangzhou People's Government - 新闻动态
+# 中华人民共和国国家发展和改革委员会 - 新闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - Route Name: `新闻动态`
 - Example: `/gov/ndrc/xwdt`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
-- Categories: `government`
+- Categories: `government, popular`
 - Maintainers: `nczitzk`
 - Source Location: `ndrc/xwdt.ts`
 - Source Module: `_None_`
@@ -38,11 +38,12 @@ _None_
 ```json
 {
   "categories": [
-    "government"
+    "government",
+    "popular"
   ],
   "description": "| 新闻发布 | 通知通告 | 委领导动态 | 司局动态 | 地方动态 |\n| -------- | -------- | ---------- | -------- | -------- |\n| xwfb     | tzgg     | wlddt      | sjdt     | dfdt     |",
   "example": "/gov/ndrc/xwdt",
-  "heat": 1308,
+  "heat": 1309,
   "location": "ndrc/xwdt.ts",
   "maintainers": [
     "nczitzk"

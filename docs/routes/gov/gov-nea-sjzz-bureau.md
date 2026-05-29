@@ -1,11 +1,11 @@
-# Hangzhou People's Government - 司工作进展
+# 中华人民共和国国家发展和改革委员会 - 司工作进展
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/nea/sjzz/:bureau`
 - Route Name: `司工作进展`
 - Example: `/gov/nea/sjzz/ghs`

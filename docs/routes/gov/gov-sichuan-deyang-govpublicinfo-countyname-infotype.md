@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 政府公开信息
+# 中华人民共和国国家发展和改革委员会 - 政府公开信息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/sichuan/deyang/govpublicinfo/:countyName/:infoType?`
 - Route Name: `政府公开信息`
 - Example: `/gov/sichuan/deyang/govpublicinfo/绵竹市`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `zytomorrow`

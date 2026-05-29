@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 国家林草科技大讲堂
+# 中华人民共和国国家发展和改革委员会 - 国家林草科技大讲堂
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/forestry/gjlckjdjt/:category?`
 - Route Name: `国家林草科技大讲堂`
 - Example: `/gov/forestry/gjlckjdjt`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

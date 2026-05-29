@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "LA UOSC-最新帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T01:47:20.433Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "69988054872006656",
       "image": null,
       "ownerUserId": null,

@@ -1,15 +1,15 @@
-# Hangzhou People's Government - 业务咨询
+# 中华人民共和国国家发展和改革委员会 - 业务咨询
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `Hangzhou People's Government`
+- Namespace Name: `中华人民共和国国家发展和改革委员会`
 - Route Path: `/gov/safe/business/:site?`
 - Route Name: `业务咨询`
 - Example: `/gov/safe/business/beijing`
-- URL: `hangzhou.gov.cn`
+- URL: `ndrc.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

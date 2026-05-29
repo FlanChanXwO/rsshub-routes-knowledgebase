@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Trending guides and resources from DEV.to - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T03:47:31.396Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "170647077865360384",
       "image": null,
       "ownerUserId": null,
