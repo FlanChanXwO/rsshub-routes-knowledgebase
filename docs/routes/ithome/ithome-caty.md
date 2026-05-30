@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",
-      "errorAt": "2026-05-27T08:29:37.923Z",
-      "errorMessage": "[GET] \"https://live.ithome.com/item/915535.htm\": 404 Not Found\n[GET] \"https://live.ithome.com/item/915535.htm\": 404 Not Found\n403 Forbidden\n[GET] \"https://live.ithome.com/item/915535.htm\": 404 Not Found\n[GET] \"https://it.ithome.com/\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905677",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

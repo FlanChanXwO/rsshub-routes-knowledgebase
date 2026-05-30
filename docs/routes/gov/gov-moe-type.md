@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 新闻
+# 中华人民共和国应急管理部 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/moe/:type`
 - Route Name: `新闻`
 - Example: `/gov/moe/policy_anal`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Crawler995`

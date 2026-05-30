@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/26/chinas-world-beating-solar-industry-is-in-turmoil\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/14/chinas-tea-brands-want-to-conquer-america-starbucks-style\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

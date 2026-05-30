@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 34746,
+  "heat": 34716,
   "location": "magazine.ts",
   "maintainers": [
     "EthanWng97"

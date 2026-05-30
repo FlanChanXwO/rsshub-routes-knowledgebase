@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-\| 新闻中心 | 通知通告 | 教学运行  | 注册学务 | 研究办 | 教改办 | 综合办 | 语言文字 | 工会与支部 | 通识教育 | 面向学生的通知 |
-\| -------- | -------- | --------- | -------- | ------ | ------ | ------ | -------- | ---------- | -------- |
-\| news     | notice   | operation | affairs  | yjb    | jgb    | zhb    | language | party      | ge       | students  |
+| 新闻中心 | 通知通告 | 教学运行  | 注册学务 | 研究办 | 教改办 | 综合办 | 语言文字 | 工会与支部 | 通识教育 | 面向学生的通知 |
+| -------- | -------- | --------- | -------- | ------ | ------ | ------ | -------- | ---------- | -------- | -------------- |
+| news     | notice   | operation | affairs  | yjb    | jgb    | zhb    | language | party      | ge       | students       |
 
 ## Parameters
 - `type`: 默认为 notice
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "university"
   ],
-  "description": "\\| 新闻中心 | 通知通告 | 教学运行  | 注册学务 | 研究办 | 教改办 | 综合办 | 语言文字 | 工会与支部 | 通识教育 | 面向学生的通知 |\n\\| -------- | -------- | --------- | -------- | ------ | ------ | ------ | -------- | ---------- | -------- |\n\\| news     | notice   | operation | affairs  | yjb    | jgb    | zhb    | language | party      | ge       | students  |",
+  "description": "| 新闻中心 | 通知通告 | 教学运行  | 注册学务 | 研究办 | 教改办 | 综合办 | 语言文字 | 工会与支部 | 通识教育 | 面向学生的通知 |\n| -------- | -------- | --------- | -------- | ------ | ------ | ------ | -------- | ---------- | -------- | -------------- |\n| news     | notice   | operation | affairs  | yjb    | jgb    | zhb    | language | party      | ge       | students       |",
   "example": "/sjtu/jwc",
   "features": {
     "antiCrawler": false,

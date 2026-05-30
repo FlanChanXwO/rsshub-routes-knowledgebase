@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 公众留言
+# 中华人民共和国应急管理部 - 公众留言
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/caac/cjwt/:category?`
 - Route Name: `公众留言`
 - Example: `/gov/caac/cjwt`

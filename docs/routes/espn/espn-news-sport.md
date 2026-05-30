@@ -51,7 +51,7 @@ _None_
   ],
   "description": "Get the news feed of the sport you love on ESPN.\n\n| Sport                 | sport | Sport      | sport   |\n| --------------------- | ----- | ---------- | ------- |\n| 🏀 NBA                | nba   | 🎾 Tennis  | tennis  |\n| 🏀 WNBA               | wnba  | ⛳️ Golf    | golf    |\n| 🏈 NFL                | nfl   | 🏏 Cricket | cricket |\n| ⚾️ MLB                | mlb   | ⚽️ Soccer  | soccer  |\n| 🏒 NHL                | nhl   | 🏎️ F1      | f1      |\n| ⛹️ College Basketball | ncb   | 🥊 MMA     | mma     |\n| 🏟️️ College Football   | ncf   | 🏈 UFL     | ufl     |\n| 🏉 Rugby              | rugby | 🃏 Poker   | poker   |",
   "example": "/espn/news/nba",
-  "heat": 79,
+  "heat": 78,
   "location": "news.tsx",
   "maintainers": [
     "weijianduan0302"
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "ESPN NBA News - Powered by RSSHub",
-      "errorAt": "2026-05-27T22:48:58.185Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'story')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "ESPN SOCCER News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T21:32:07.516Z",
+      "errorMessage": "Cannot read properties of undefined (reading '0')\n",
       "id": "72477890360150016",
       "image": null,
       "ownerUserId": null,

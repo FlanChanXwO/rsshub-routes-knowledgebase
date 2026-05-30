@@ -1,17 +1,17 @@
-# 中华人民共和国国家发展和改革委员会 - 新闻动态
+# 中华人民共和国应急管理部 - 新闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - Route Name: `新闻动态`
 - Example: `/gov/ndrc/xwdt`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
-- Categories: `government, popular`
+- Categories: `government`
 - Maintainers: `nczitzk`
 - Source Location: `ndrc/xwdt.ts`
 - Source Module: `_None_`
@@ -38,8 +38,7 @@ _None_
 ```json
 {
   "categories": [
-    "government",
-    "popular"
+    "government"
   ],
   "description": "| 新闻发布 | 通知通告 | 委领导动态 | 司局动态 | 地方动态 |\n| -------- | -------- | ---------- | -------- | -------- |\n| xwfb     | tzgg     | wlddt      | sjdt     | dfdt     |",
   "example": "/gov/ndrc/xwdt",

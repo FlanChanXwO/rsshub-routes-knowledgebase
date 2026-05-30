@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 浙江省人民政府-全省政府网站统一搜索
+# 中华人民共和国应急管理部 - 浙江省人民政府-全省政府网站统一搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
 - Route Name: `浙江省人民政府-全省政府网站统一搜索`
 - Example: `/gov/zj/search`
@@ -20,10 +20,6 @@
 | 行政区域   | websiteid       |
 | ---------- | --------------- |
 | 宁波市本级 | 330201000000000 |
-
-\| 搜索关键词         | word    |
-
-\| 信息分类         | cateid    |
 
 | 排序类型 | sortType |
 | -------- | -------- |
@@ -52,7 +48,7 @@ _None_
   "categories": [
     "government"
   ],
-  "description": "| 行政区域   | websiteid       |\n| ---------- | --------------- |\n| 宁波市本级 | 330201000000000 |\n\n\\| 搜索关键词         | word    |\n\n\\| 信息分类         | cateid    |\n\n| 排序类型 | sortType |\n| -------- | -------- |\n| 按相关度 | 1        |\n| 按时间   | 2        |",
+  "description": "| 行政区域   | websiteid       |\n| ---------- | --------------- |\n| 宁波市本级 | 330201000000000 |\n\n| 排序类型 | sortType |\n| -------- | -------- |\n| 按相关度 | 1        |\n| 按时间   | 2        |",
   "example": "/gov/zj/search",
   "heat": 2,
   "location": "zj/search.ts",
@@ -78,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙江省人民政府-全省政府网站统一搜索 - Powered by RSSHub",
-      "errorAt": "2026-05-27T05:32:12.721Z",
-      "errorMessage": "[POST] \"https://search.zj.gov.cn/jsearchfront/interfaces/cateSearch.do\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139849368771468288",
       "image": null,
       "ownerUserId": null,

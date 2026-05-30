@@ -3668,9 +3668,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 中华人民共和国国家发展和改革委员会
+## 中华人民共和国应急管理部
 - Namespace: `gov`
-- Aliases: `gov, ndrc, ndrc.gov.cn, 中华人民共和国国家发展和改革委员会`
+- Aliases: `gov, mem.gov.cn, www, www.mem.gov.cn, 中华人民共和国应急管理部`
 - Route Count: `119`
 - Index File: `index/gov.md`
 
@@ -7415,7 +7415,7 @@ Use this file to select the target namespace before opening route documents.
 ## Shanghai Museum
 - Namespace: `shanghaimuseum`
 - Aliases: `shanghai museum, shanghaimuseum, shanghaimuseum.net, www, www.shanghaimuseum.net`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/shanghaimuseum.md`
 
 ## 上海文化广场

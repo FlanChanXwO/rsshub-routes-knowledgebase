@@ -45,7 +45,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 112,
+  "heat": 111,
   "location": "index.ts",
   "maintainers": [
     "xzzpig"

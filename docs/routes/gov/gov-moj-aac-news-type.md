@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 最新消息
+# 中华人民共和国应急管理部 - 最新消息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/moj/aac/news/:type?`
 - Route Name: `最新消息`
 - Example: `/gov/moj/aac/news`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

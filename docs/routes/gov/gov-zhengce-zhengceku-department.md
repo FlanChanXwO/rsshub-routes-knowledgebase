@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 国务院政策文件库
+# 中华人民共和国应急管理部 - 国务院政策文件库
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/zhengce/zhengceku/:department`
 - Route Name: `国务院政策文件库`
 - Example: `/gov/zhengce/zhengceku/bmwj`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `zxx-457`

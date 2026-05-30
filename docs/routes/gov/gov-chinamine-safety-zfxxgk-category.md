@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - Unknown
+# 中华人民共和国应急管理部 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/chinamine-safety/zfxxgk/:category{.+}?`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `None`

@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 分类
+# 中华人民共和国应急管理部 - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/cbirc/:id?`
 - Route Name: `分类`
 - Example: `/gov/cbirc/:id?`
@@ -556,8 +556,8 @@
   "topFeeds": [
     {
       "description": "监管动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T23:17:31.565Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75123755399997440",
       "image": "",
       "ownerUserId": null,

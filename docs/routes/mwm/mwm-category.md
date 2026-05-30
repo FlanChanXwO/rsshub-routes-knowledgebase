@@ -77,7 +77,7 @@
     {
       "description": "管理世界杂志社-本期要目 - Powered by RSSHub",
       "errorAt": "2025-12-24T23:47:57.228Z",
-      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed\n",
       "id": "136403935744074752",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@
     {
       "description": "管理世界杂志社-网络首发 - Powered by RSSHub",
       "errorAt": "2026-01-06T14:24:58.913Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/wlsf\": <no response> fetch failed\n",
       "id": "136404008065290240",
       "image": null,
       "ownerUserId": null,

@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 Route Index
+# 中华人民共和国应急管理部 Route Index
 
 ## Namespace
 - Namespace: `gov`
-- Display Name: `中华人民共和国国家发展和改革委员会`
-- URL: `ndrc.gov.cn`
+- Display Name: `中华人民共和国应急管理部`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
-- Aliases: `gov, ndrc, ndrc.gov.cn, 中华人民共和国国家发展和改革委员会`
+- Aliases: `gov, mem.gov.cn, www, www.mem.gov.cn, 中华人民共和国应急管理部`
 - Route Count: `119`
 
 ## Routes
@@ -559,7 +559,7 @@
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - File: `docs/routes/gov/gov-ndrc-xwdt-category.md`
 - File Name: `gov-ndrc-xwdt-category.md`
-- Categories: `government, popular`
+- Categories: `government`
 - Maintainers: `nczitzk`
 
 ### 中华人民共和国国家发展和改革委员会政府信息公开

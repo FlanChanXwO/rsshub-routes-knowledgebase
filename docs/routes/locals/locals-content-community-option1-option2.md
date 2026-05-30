@@ -83,8 +83,8 @@ Fetches the Locals content library with an authenticated session cookie. By defa
   "topFeeds": [
     {
       "description": "Locals content feed for Matt Fradd (video) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T09:11:34.821Z",
+      "errorMessage": "[GET] \"https://locals.com/mattfradd/feed?mode=content\": <no response> fetch failed\nLocals RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "261276499558545408",
       "image": "https://media3.locals.com/images/groups/52374/52374_ceunm7ccudql7dr_big.jpeg",
       "ownerUserId": null,

@@ -95,8 +95,8 @@
     },
     {
       "description": "精選基地編輯每日為你帶來的電玩、動漫、娛樂遊戲最新新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-29T00:22:21.401Z",
+      "errorMessage": "403 Forbidden\n[POST] \"https://api.gamebase.com.tw/api/news/getNewsList\": <no response> fetch failed\n",
       "id": "67001925811204096",
       "image": "https://image.gamebase.com.tw/gb_tw/static/logo_01.png",
       "ownerUserId": null,

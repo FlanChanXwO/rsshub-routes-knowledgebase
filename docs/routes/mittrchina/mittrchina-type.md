@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "MIT 科技评论 - 首页资讯 - Powered by RSSHub",
-      "errorAt": "2026-05-28T01:53:19.074Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71796886442021888",
       "image": null,
       "ownerUserId": null,

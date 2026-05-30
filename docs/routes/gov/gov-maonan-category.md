@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 茂名市茂南区人民政府
+# 中华人民共和国应急管理部 - 茂名市茂南区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/maonan/:category`
 - Route Name: `茂名市茂南区人民政府`
 - Example: `/gov/maonan/zwgk`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `ShuiHuo`

@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Show your HuskHomes homes and warps in an easy-to-use GUI menu. Updated to support Folia and latest versions. - Powered by RSSHub",
+      "description": "Base plugin for every Aurora project. Provides common utilities and functions. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851432297317376",
+      "id": "114582395964709888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/fkUN2Wmv",
-      "title": "Updated-HuskHomesGUI Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/EzEMkR1u",
+      "title": "AuroraLib Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/fkUN2Wmv/versions"
+      "url": "rsshub://modrinth/project/EzEMkR1u/versions"
     }
   ]
 }

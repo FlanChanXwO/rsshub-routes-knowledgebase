@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 获取国家医师资格考试通知
+# 中华人民共和国应急管理部 - 获取国家医师资格考试通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/jinan/healthcommission/medical_exam_notice`
 - Route Name: `获取国家医师资格考试通知`
 - Example: `/gov/jinan/healthcommission/medical_exam_notice`

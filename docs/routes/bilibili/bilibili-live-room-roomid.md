@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "EdmundDZhang 直播间开播状态 - Powered by RSSHub",
-      "errorAt": "2026-05-19T20:07:56.104Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55139597974077440",
       "image": "https://i1.hdslb.com/bfs/face/50900541a74f7875867c38a1e8e572b44b388060.jpg",
       "ownerUserId": null,

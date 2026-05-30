@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "一地一策！多省市“本土版”46号令细则密集发布，国资监管“一张网”加速织密 - Powered by RSSHub",
+      "description": "出口管制全面收紧！834/835号令、阻断令、禁执令四连击：2026年外贸企业的合规生死劫来了！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 一地一策！多省市“本土版”46号令细则密集发布，国资监管“一张网”加速织密",
+      "title": "10000万联网 - 出口管制全面收紧！834/835号令、阻断令、禁执令四连击：2026年外贸企业的合规生死劫来了！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 深圳市委组织部
+# 中华人民共和国应急管理部 - 深圳市委组织部
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/shenzhen/zzb/:caty/:page?`
 - Route Name: `深圳市委组织部`
 - Example: `/gov/shenzhen/zzb/tzgg`

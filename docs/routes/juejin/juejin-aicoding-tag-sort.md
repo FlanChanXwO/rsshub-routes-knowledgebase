@@ -186,8 +186,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI 编程 - Powered by RSSHub",
-      "errorAt": "2026-05-28T03:17:45.991Z",
-      "errorMessage": "[GET] \"https://juejin.cn/post/7644466893394608162\": 403 Forbidden\n[GET] \"https://juejin.cn/post/7644512340549795866\": 403 Forbidden\n[GET] \"https://juejin.cn/post/7644466893395247138\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "189493956607037440",
       "image": "https://lf-web-assets.juejin.cn/obj/juejin-web/goofy_deploy_edenx/toutiao-fe/xitu_juejin_aicoding/favicon.ico",
       "ownerUserId": null,
@@ -198,8 +198,8 @@ _None_
     },
     {
       "description": "AI编程 - AI 编程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-29T01:21:47.509Z",
+      "errorMessage": "Authentication failed. Access denied.\n/juejin/aicoding/AI%E7%BC%96%E7%A8%8B\n[GET] \"https://juejin.cn/post/7644745124401774634\": 403 Forbidden\n",
       "id": "190049393455791104",
       "image": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1fa3c0a49ab34943aa26b26202891e7f~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=200&s=11771&e=png&b=0a0909",
       "ownerUserId": null,

@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 通用
+# 中华人民共和国应急管理部 - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/beijing/bjedu/gh/:urlPath?`
 - Route Name: `通用`
 - Example: `/gov/beijing/bjedu/gh`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

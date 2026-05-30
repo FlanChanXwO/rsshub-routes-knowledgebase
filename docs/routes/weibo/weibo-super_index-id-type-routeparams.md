@@ -92,8 +92,8 @@
   "topFeeds": [
     {
       "description": "#井川里予# 的超话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T06:01:41.013Z",
+      "errorMessage": "Cooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\n",
       "id": "122613879912649728",
       "image": null,
       "ownerUserId": null,
@@ -104,8 +104,8 @@
     },
     {
       "description": "#elizabetholsen# 的超话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T05:21:57.785Z",
+      "errorMessage": "Cooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\n",
       "id": "96189998246796288",
       "image": null,
       "ownerUserId": null,

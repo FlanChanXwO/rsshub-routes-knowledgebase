@@ -63,8 +63,8 @@ _None_
     },
     {
       "description": "IEEE Transactions on Geoscience and Remote Sensing - Powered by RSSHub",
-      "errorAt": "2026-05-27T21:38:55.332Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61591456839305216",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,

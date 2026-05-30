@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 天津人才工作网-公告
+# 中华人民共和国应急管理部 - 天津人才工作网-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/tianjin/tjrcgzw-notice/:cate/:subCate`
 - Route Name: `天津人才工作网-公告`
 - Example: `/gov/tianjin/tjrcgzw-notice/rczc/sjrczc/`

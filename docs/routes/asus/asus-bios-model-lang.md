@@ -113,16 +113,16 @@ _None_
       "url": "rsshub://asus/bios/GA605WV"
     },
     {
-      "description": "RT-BE88U BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126962011544488963",
-      "image": "https://dlcdnwebimgs.asus.com/gain/e1b78b1a-0011-4ec7-bd84-bcbaa489ecbf/w185",
+      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
+      "errorAt": "2025-03-18T06:05:59.524Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'Obj')\n",
+      "id": "73745650488758272",
+      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-BE88U/",
-      "title": "RT-BE88U BIOS",
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
+      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/rt-be88u"
+      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
     }
   ],
   "url": "www.asus.com"

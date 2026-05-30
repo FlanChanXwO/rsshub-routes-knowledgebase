@@ -59,7 +59,7 @@ For example, the URL of [GarageBand](https://apps.apple.com/us/app/garageband/id
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1570,
+  "heat": 1568,
   "location": "apps.ts",
   "maintainers": [
     "EkkoG",
@@ -107,7 +107,7 @@ For example, the URL of [GarageBand](https://apps.apple.com/us/app/garageband/id
       "errorAt": null,
       "errorMessage": null,
       "id": "55304675781277696",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/7e/35/947e3529-c56e-f09b-de69-a99756cbac3a/Placeholder.mill/3000x3000bb.webp",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/86/3c/e1863cd1-3e58-c6dd-eea6-284044dfe237/Placeholder.mill/3000x3000bb.webp",
       "ownerUserId": null,
       "siteUrl": "https://apps.apple.com/cn/app/id414478124",
       "title": "微信 for iOS - Apple App Store",

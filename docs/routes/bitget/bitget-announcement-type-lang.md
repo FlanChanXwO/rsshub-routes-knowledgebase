@@ -142,7 +142,7 @@ _None_
     {
       "description": "Bitget | All - Powered by RSSHub",
       "errorAt": "2026-05-24T12:07:25.990Z",
-      "errorMessage": "[POST] \"https://www.bitget.com/v1/msg/push/stationLetterNew\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "72615354761558016",
       "image": null,
       "ownerUserId": null,

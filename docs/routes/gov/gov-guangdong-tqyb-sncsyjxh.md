@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 广东省内城市预警信号
+# 中华人民共和国应急管理部 - 广东省内城市预警信号
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/guangdong/tqyb/sncsyjxh`
 - Route Name: `广东省内城市预警信号`
 - Example: `/gov/guangdong/tqyb/sncsyjxh`

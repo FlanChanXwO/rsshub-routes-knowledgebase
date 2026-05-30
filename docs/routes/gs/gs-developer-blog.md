@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Goldman Sachs Developer Blog - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T22:07:40.341Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69990064207088640",
       "image": null,
       "ownerUserId": null,

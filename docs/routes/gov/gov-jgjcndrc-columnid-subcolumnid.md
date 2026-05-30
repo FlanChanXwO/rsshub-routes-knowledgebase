@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 中华人民共和国国家发展和改革委员会价格监测中心
+# 中华人民共和国应急管理部 - 中华人民共和国国家发展和改革委员会价格监测中心
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/jgjcndrc/:columnId?/:subColumnId?`
 - Route Name: `中华人民共和国国家发展和改革委员会价格监测中心`
 - Example: `/gov/jgjcndrc/1832739866673426433`
@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "中华人民共和国国家发展和改革委员会 价格监测中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-29T00:27:43.949Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72251568820057088",
       "image": "https://www.jgjcndrc.org.cn/_nuxt/logo.nPIpRnSK.svg",
       "ownerUserId": null,

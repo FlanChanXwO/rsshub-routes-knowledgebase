@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 省科学技术厅
+# 中华人民共和国应急管理部 - 省科学技术厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/shaanxi/kjt/:id?`
 - Route Name: `省科学技术厅`
 - Example: `/gov/shaanxi/kjt`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

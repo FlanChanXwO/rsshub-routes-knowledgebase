@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 深圳市住房和建设局
+# 中华人民共和国应急管理部 - 深圳市住房和建设局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/shenzhen/zjj/xxgk/:caty`
 - Route Name: `深圳市住房和建设局`
 - Example: `/gov/shenzhen/zjj/xxgk/tzgg`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `lonn`
@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "深圳市住房和建设局 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-05-28T01:48:40.680Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69966067980854272",
       "image": null,
       "ownerUserId": null,

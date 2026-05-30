@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 重庆市人民政府 人力社保局 - 事业单位公开招聘
+# 中华人民共和国应急管理部 - 重庆市人民政府 人力社保局 - 事业单位公开招聘
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/chongqing/sydwgkzp/:year?`
 - Route Name: `重庆市人民政府 人力社保局 - 事业单位公开招聘`
 - Example: `/gov/chongqing/sydwgkzp`

@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 甘雨真的爱吃清心吗 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164612226252672000",
+      "id": "198685520162372608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=82959572",
-      "title": "米游社 - MRYU 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=245277504",
+      "title": "米游社 - 甘雨真的爱吃清心吗 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/82959572"
+      "url": "rsshub://mihoyo/bbs/user-post/245277504"
     },
     {
-      "description": "米游社 - 狒狒哦耶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 円学 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "137393297111843840",
+      "id": "198688151528841216",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=11316600",
-      "title": "米游社 - 狒狒哦耶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158501436",
+      "title": "米游社 - 円学 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/11316600"
+      "url": "rsshub://mihoyo/bbs/user-post/158501436"
     }
   ]
 }

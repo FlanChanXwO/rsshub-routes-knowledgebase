@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 503,
+  "heat": 500,
   "location": "hot.ts",
   "maintainers": [
     "5upernova-heng",
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "财联社 - 热门文章排行榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-28T09:48:08.946Z",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\n[GET] \"https://www.cls.cn/v2/article/hot/list?appName=CailianpressWeb&os=web&sv=7.7.5&sign=9c11221af4f6b47b253098a8b9957b8f\": <no response> fetch failed\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\n",
       "id": "53366652701156362",
       "image": null,
       "ownerUserId": null,

@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "hybrid system - Powered by RSSHub",
+      "description": "backdoor - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "189147666469980160",
+      "id": "139675539524500480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Hybrid%20system&sort=0",
-      "title": "hybrid system",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=backdoor&sort=0",
+      "title": "backdoor",
       "type": "feed",
-      "url": "rsshub://papers/query/Hybrid%20system"
+      "url": "rsshub://papers/query/backdoor"
     }
   ],
   "url": "papers.cool"

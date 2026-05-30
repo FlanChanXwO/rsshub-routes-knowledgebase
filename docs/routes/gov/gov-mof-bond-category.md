@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 专题
+# 中华人民共和国应急管理部 - 专题
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/mof/bond/:category?`
 - Route Name: `专题`
 - Example: `/gov/mof/bond`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`

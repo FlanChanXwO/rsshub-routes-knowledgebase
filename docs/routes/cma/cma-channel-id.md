@@ -88,8 +88,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",
-      "errorAt": "2026-05-28T01:42:59.107Z",
-      "errorMessage": "[GET] \"https://weather.cma.cn/api/channel?id=380\": <no response> fetch failed\n[GET] \"https://weather.cma.cn/api/channel?id=380\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57657957614035968",
       "image": "https://weather.cma.cn/assets/cmalogo.png",
       "ownerUserId": null,

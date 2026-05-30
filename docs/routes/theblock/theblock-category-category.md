@@ -53,7 +53,7 @@ Get latest news from TheBlock by category. Note that due to website limitations,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23,
+  "heat": 24,
   "location": "index.ts",
   "maintainers": [
     "pseudoyu"

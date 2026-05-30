@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 826,
+  "heat": 824,
   "location": "category.ts",
   "maintainers": [
     "idealclover",

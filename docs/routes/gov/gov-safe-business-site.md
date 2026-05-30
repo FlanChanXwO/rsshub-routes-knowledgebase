@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 业务咨询
+# 中华人民共和国应急管理部 - 业务咨询
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/safe/business/:site?`
 - Route Name: `业务咨询`
 - Example: `/gov/safe/business/beijing`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

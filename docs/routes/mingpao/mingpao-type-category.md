@@ -118,7 +118,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260526/s00001/1779801844888/%e3%80%90%e9%99%84%e5%90%8d%e5%96%ae%e3%80%918%e9%96%93%e3%80%8c%e6%b4%be0%e7%8f%ad%e3%80%8d%e5%b0%8f%e5%ad%b8%e7%8d%b2%e5%87%86%e5%90%88%e4%bd%b5%e5%90%84%e7%8d%b2100%e8%90%ac%e5%85%83-4%e6%a0%a1%e6%ad%a5%e5%90%91%e3%80%8c%e6%ae%ba%e6%a0%a1%e3%80%8d\": 403 Forbidden\nStatus code 406\n",
+      "errorMessage": "[GET] \"https://ol.mingpao.com/ldy/showbiz/latest/20260528/1779948153383/%e5%8f%a4%e5%a4%a9%e6%a8%82%e6%89%93%e9%80%a0%e5%8b%95%e7%95%ab%e3%80%8a%e6%98%8e%e6%97%a5%e6%88%b0%e8%a8%98-%e5%89%8d%e5%82%b3%e3%80%8b-%e6%a9%9f%e5%af%86%e6%aa%94%e6%a1%88%e6%98%8e%e5%a4%a9%e6%9b%9d%e5%85%89\\\" target=\\\"blank\": 403 Forbidden\nFailed to fetch\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

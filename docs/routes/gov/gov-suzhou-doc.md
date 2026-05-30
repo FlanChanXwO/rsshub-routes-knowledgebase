@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 政府信息公开文件
+# 中华人民共和国应急管理部 - 政府信息公开文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/suzhou/doc`
 - Route Name: `政府信息公开文件`
 - Example: `/gov/suzhou/doc`

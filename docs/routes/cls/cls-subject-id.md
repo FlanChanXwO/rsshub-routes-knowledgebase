@@ -56,7 +56,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 148,
+  "heat": 149,
   "location": "subject.ts",
   "maintainers": [
     "nczitzk"
@@ -75,7 +75,7 @@
   ],
   "topFeeds": [
     {
-      "description": "汽车行业资讯一网打尽。 - Powered by RSSHub",
+      "description": "财联社 - 财联社汽车早报 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "102251632021746688",
@@ -87,7 +87,7 @@
       "url": "rsshub://cls/subject/7527"
     },
     {
-      "description": "每日7点，最热、最全面的财经资讯尽在财联社早报 - Powered by RSSHub",
+      "description": "财联社 - 有声早报 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "69656992151508992",

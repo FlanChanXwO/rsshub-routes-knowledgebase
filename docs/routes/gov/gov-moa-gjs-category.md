@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 中华人民共和国农业农村部国际合作司
+# 中华人民共和国应急管理部 - 中华人民共和国农业农村部国际合作司
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/moa/gjs/:category{.+}?`
 - Route Name: `中华人民共和国农业农村部国际合作司`
 - Example: `/gov/moa/gjs/gzdt`

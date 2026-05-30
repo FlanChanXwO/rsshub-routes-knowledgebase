@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "电子科技大学教务处通知（学生事务公告） - Powered by RSSHub",
-      "errorAt": "2026-05-13T12:12:37.981Z",
-      "errorMessage": "[GET] \"https://www.jwc.uestc.edu.cn/list/256/?page=1\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "113187940233421824",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@
     },
     {
       "description": "电子科技大学教务处通知（重要公告） - Powered by RSSHub",
-      "errorAt": "2026-05-13T15:47:02.108Z",
-      "errorMessage": "[GET] \"https://www.jwc.uestc.edu.cn/hard/?page=1\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "113188362354655232",
       "image": null,
       "ownerUserId": null,

@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",
-      "errorAt": "2026-05-28T01:54:41.184Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70825962351576064",
       "image": null,
       "ownerUserId": null,

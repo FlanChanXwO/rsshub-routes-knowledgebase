@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Learn more about what we're building, how it can help you, and the latest cutting edge generative AI topics. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-29T02:27:59.818Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "163514255527168000",
       "image": "https://exafunction.github.io/public/images/website_thumbnails/home.jpg",
       "ownerUserId": null,

@@ -43,8 +43,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新字幕 分享交流下载字幕平台 - SubHD - Powered by RSSHub",
-      "errorAt": "2026-05-28T01:54:10.727Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70777567210160142",
       "image": null,
       "ownerUserId": null,

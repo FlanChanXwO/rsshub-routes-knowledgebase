@@ -95,7 +95,7 @@ _None_
     {
       "description": "“日知录”是由日谈公园出品的一档音频播客节目，由资源经济博士柯紫主持。在这里你会听到各种不同领域的科研工作者们畅谈他们的研究内容和有趣经历，带大家一块儿观察人类知识宝塔上的砖石，用全新的视角认识这个五彩斑斓的世界。愿日知录也能成为我们和大家一起进步的记录。 - Powered by RSSHub",
       "errorAt": "2026-05-06T06:44:26.391Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'maxPageId')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "60998697494703110",
       "image": "https://imagev2.xmcdn.com/group85/M0A/85/5A/wKg5H18yaD-xFJSeABtYUMb_xmc943.jpg",
       "ownerUserId": null,

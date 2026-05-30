@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 电视剧政务平台
+# 中华人民共和国应急管理部 - 电视剧政务平台
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/nrta/dsj/:category?`
 - Route Name: `电视剧政务平台`
 - Example: `/gov/nrta/dsj`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

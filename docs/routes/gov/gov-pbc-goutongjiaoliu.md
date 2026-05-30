@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 沟通交流
+# 中华人民共和国应急管理部 - 沟通交流
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/pbc/goutongjiaoliu`
 - Route Name: `沟通交流`
 - Example: `/gov/pbc/goutongjiaoliu`

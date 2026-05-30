@@ -1,15 +1,15 @@
-# 中华人民共和国国家发展和改革委员会 - 徐州市人力资源和社会保障局
+# 中华人民共和国应急管理部 - 徐州市人力资源和社会保障局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/xuzhou/hrss/:category?`
 - Route Name: `徐州市人力资源和社会保障局`
 - Example: `/gov/xuzhou/hrss`
-- URL: `ndrc.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

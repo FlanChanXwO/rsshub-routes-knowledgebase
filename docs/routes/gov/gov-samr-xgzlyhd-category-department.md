@@ -1,11 +1,11 @@
-# 中华人民共和国国家发展和改革委员会 - 留言咨询
+# 中华人民共和国应急管理部 - 留言咨询
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国国家发展和改革委员会`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/samr/xgzlyhd/:category?/:department?`
 - Route Name: `留言咨询`
 - Example: `/gov/samr/xgzlyhd`
@@ -169,7 +169,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "61218903598816256",
-      "image": "https://xgzlyhd.samr.gov.cn/gjjly/img/fd-logo.png;JSESSIONID=fwAAAR-Qahd8hihrnsZimETdsrPGrcdL0CoA",
+      "image": "https://xgzlyhd.samr.gov.cn/gjjly/img/fd-logo.png;JSESSIONID=fwAAAR-QahhxcKkMo0doZEsxgZpYYPLBwHgA",
       "ownerUserId": null,
       "siteUrl": "https://xgzlyhd.samr.gov.cn/gjjly/index",
       "title": "国家市场监督管理总局公众留言",
