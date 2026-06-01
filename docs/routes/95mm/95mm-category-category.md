@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 143,
+  "heat": 144,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -89,7 +89,7 @@
     {
       "description": null,
       "errorAt": "2025-06-08T19:57:27.501Z",
-      "errorMessage": "[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 403 Forbidden\n[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 404 Not Found\n[GET] \"https://www.95mm.vip/category-1/list-1/index.html?page=1\": 404 Not Found\n",
       "id": "154611732399652876",
       "image": null,
       "ownerUserId": null,

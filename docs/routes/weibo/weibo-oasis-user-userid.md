@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "꒰•̫͡•ོ꒱海岛吃货小海薇∅ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T13:01:28.194Z",
+      "errorMessage": "[GET] \"https://oasis.weibo.cn/v1/h5/share?uid=5172654370\": <no response> fetch failed\n",
       "id": "154748015616876544",
       "image": null,
       "ownerUserId": null,
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "杂乱无章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T15:26:41.423Z",
+      "errorMessage": "[GET] \"https://oasis.weibo.cn/v1/h5/share?uid=3841137060\": <no response> fetch failed\n",
       "id": "214594184648932352",
       "image": null,
       "ownerUserId": null,

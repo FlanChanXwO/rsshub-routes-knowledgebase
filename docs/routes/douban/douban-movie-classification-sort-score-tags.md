@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "豆瓣电影分类影视 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T13:36:56.429Z",
+      "errorMessage": "[GET] \"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&start=0\": <no response> fetch failed\n",
       "id": "155307226993530880",
       "image": null,
       "ownerUserId": null,

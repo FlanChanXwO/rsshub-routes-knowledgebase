@@ -70,7 +70,7 @@ _None_
     {
       "description": "Crossbell Notes - Powered by RSSHub",
       "errorAt": "2026-01-27T09:38:45.841Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?includeCharacter=true\": <no response> fetch failed\n",
       "id": "72809817072434176",
       "image": null,
       "ownerUserId": null,

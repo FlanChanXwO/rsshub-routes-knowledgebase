@@ -86,7 +86,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 435,
+  "heat": 434,
   "location": "index.ts",
   "maintainers": [
     "nashi23"

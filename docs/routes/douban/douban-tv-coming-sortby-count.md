@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "即将播出的剧集，请求参数: count=10, total=256, sortBy=hot, requestCount=10 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T10:46:30.164Z",
+      "errorMessage": "Douban 数据请求失败，可能触发反爬或限频，请稍后重试。\n",
       "id": "259521396346720256",
       "image": null,
       "ownerUserId": null,

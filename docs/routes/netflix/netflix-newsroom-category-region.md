@@ -182,8 +182,8 @@ _None_
   "topFeeds": [
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-29T14:06:50.080Z",
+      "errorMessage": "Unhandled node type: heading-1\n",
       "id": "191666157347082245",
       "image": "https://about.netflix.com/favicon.ico",
       "ownerUserId": null,

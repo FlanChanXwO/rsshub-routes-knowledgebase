@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
-      "errorAt": "2026-04-26T14:06:39.680Z",
-      "errorMessage": "[GET] \"https://www.mcmod.cn\": <no response> fetch failed\n[GET] \"https://www.mcmod.cn\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "132060968710740992",
       "image": null,
       "ownerUserId": null,

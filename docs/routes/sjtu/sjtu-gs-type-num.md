@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "培养信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-31T00:18:36.029Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66125075329784832",
       "image": null,
       "ownerUserId": null,

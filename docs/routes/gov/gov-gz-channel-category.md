@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - Unknown
+# 深圳市罗湖区人民政府 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/gz/:channel/:category`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `None`

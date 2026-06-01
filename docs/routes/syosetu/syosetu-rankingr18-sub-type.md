@@ -480,8 +480,8 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
     },
     {
       "description": "小説家になろう (noc) - 日間完結済ランキング BEST300 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T09:26:05.727Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "146209536416978944",
       "image": null,
       "ownerUserId": null,

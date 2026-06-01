@@ -65,7 +65,7 @@ _None_
     {
       "description": "视频 美女热舞合集 的视频选集列表 - Powered by RSSHub",
       "errorAt": "2025-05-30T12:00:46.109Z",
-      "errorMessage": "Cannot destructure property 'title' of 's.data.data' as it is undefined.\nCannot destructure property 'title' of 's.data.data' as it is undefined.\n",
+      "errorMessage": "Cannot destructure property 'title' of 's.data.data' as it is undefined.\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1nU1kYgEKE\": <no response> fetch failed\n",
       "id": "69945630785231872",
       "image": null,
       "ownerUserId": null,
@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "视频 STM32入门教程-2023版 细致讲解 中文字幕 的视频选集列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T18:27:07.400Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1th411z7sn\": <no response> fetch failed\n",
       "id": "61191357866744832",
       "image": null,
       "ownerUserId": null,

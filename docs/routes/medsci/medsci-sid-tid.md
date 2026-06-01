@@ -117,8 +117,8 @@ _None_
     },
     {
       "description": "心血管 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T20:53:29.284Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66942767614244865",
       "image": null,
       "ownerUserId": null,

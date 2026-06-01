@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 217,
+  "heat": 218,
   "location": "vsearch.ts",
   "maintainers": [
     "pcrtool",
@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "Result from 思源笔记 bilibili search, ordered by pubdate. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T15:01:40.582Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0&order=pubdate&tids=0\": <no response> fetch failed\n",
       "id": "66120396417817600",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Result from 沙雕动画 bilibili search, ordered by totalrank. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T12:11:28.604Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB&order=totalrank&tids=0\": <no response> fetch failed\n",
       "id": "84117288401258496",
       "image": null,
       "ownerUserId": null,

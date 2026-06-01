@@ -112,7 +112,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 110,
+  "heat": 112,
   "location": "users.ts",
   "maintainers": [
     "I2IMk",

@@ -38,7 +38,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "heat": 231,
+  "heat": 230,
   "location": "channel.ts",
   "maintainers": [],
   "name": "Unknown",

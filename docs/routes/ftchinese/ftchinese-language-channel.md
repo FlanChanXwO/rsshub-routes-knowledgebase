@@ -62,7 +62,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 979,
+  "heat": 977,
   "location": "channel.ts",
   "maintainers": [
     "HenryQW",
@@ -89,7 +89,7 @@ _None_
     },
     {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
-      "errorAt": "2026-05-24T11:52:29.410Z",
+      "errorAt": "2026-05-31T03:42:50.049Z",
       "errorMessage": "Cannot read properties of undefined (reading 'title')\nCannot read properties of undefined (reading 'title')\n",
       "id": "41377818806739968",
       "image": null,

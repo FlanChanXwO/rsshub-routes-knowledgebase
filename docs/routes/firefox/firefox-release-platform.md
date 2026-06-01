@@ -11,7 +11,7 @@
 - Example: `_None_`
 - URL: `monitor.firefox.com`
 - Language: `_None_`
-- Categories: `program-update`
+- Categories: `other`
 - Maintainers: `None`
 - Source Location: `release.ts`
 - Source Module: `_None_`
@@ -33,7 +33,7 @@ _None_
 ```json
 {
   "categories": [
-    "program-update"
+    "other"
   ],
   "heat": 3,
   "location": "release.ts",
@@ -42,16 +42,16 @@ _None_
   "path": "/release/:platform?",
   "topFeeds": [
     {
-      "description": "Firefox beta release notes - Powered by RSSHub",
+      "description": "Firefox nightly release notes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72287537564742660",
+      "id": "55873602868576273",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.mozilla.org/en-US/firefox/beta/notes",
-      "title": "Firefox beta release notes",
+      "siteUrl": "https://www.mozilla.org/en-US/firefox/nightly/notes",
+      "title": "Firefox nightly release notes",
       "type": "feed",
-      "url": "rsshub://firefox/release/beta"
+      "url": "rsshub://firefox/release/nightly"
     },
     {
       "description": "Firefox desktop release notes - Powered by RSSHub",

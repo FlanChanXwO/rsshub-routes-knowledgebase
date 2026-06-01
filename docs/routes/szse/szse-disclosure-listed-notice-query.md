@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 49,
+  "heat": 50,
   "location": "disclosure/listed-notice.ts",
   "maintainers": [
     "nczitzk"
@@ -89,13 +89,13 @@ _None_
       "description": "深交所官网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "242486635647006720",
+      "id": "242488675524008960",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.szse.cn/disclosure/listed/notice",
       "title": "深圳证券交易所 - 上市公司公告",
       "type": "feed",
-      "url": "rsshub://szse/disclosure/listed/notice/stock=300762"
+      "url": "rsshub://szse/disclosure/listed/notice/stock=301418"
     }
   ],
   "url": "www.szse.cn",

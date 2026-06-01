@@ -58,7 +58,7 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -92,8 +92,8 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
     },
     {
       "description": "Latest high quality 0day porn available for free download. Home of scene and P2P releases - Powered by RSSHub",
-      "errorAt": "2026-05-28T21:18:11.895Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-05-31T00:09:44.772Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 196817673683011584",
       "id": "196817673683011584",
       "image": "https://0xxx.ws/images/logo.png",
       "ownerUserId": null,

@@ -163,7 +163,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 124,
+  "heat": 123,
   "location": "partion.ts",
   "maintainers": [
     "DIYgod"
@@ -177,8 +177,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 电脑装机分区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T12:06:42.688Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=189&_=1780171972686\": <no response> fetch failed\n",
       "id": "61803024269907968",
       "image": null,
       "ownerUserId": null,
@@ -189,8 +189,8 @@ _None_
     },
     {
       "description": "bilibili 军事分区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T13:51:41.892Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=179&_=1780180701119\": <no response> fetch failed\n",
       "id": "69643053279241216",
       "image": null,
       "ownerUserId": null,

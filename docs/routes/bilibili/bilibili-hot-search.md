@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 281,
+  "heat": 280,
   "location": "hot-search.ts",
   "maintainers": [
     "CaoMeiYouRen"
@@ -77,12 +77,12 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili热搜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T10:53:56.573Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://api.bilibili.com/x/web-interface/nav\": <no response> fetch failed\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n[GET] \"https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=eabd76dd5b38cfb6d7b5f21c799a0038&wts=1780192243\": <no response> fetch failed\n",
       "id": "54831663495804928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=dc08d13b667d5e42e9244cd799f65cba&wts=1780022349",
+      "siteUrl": "https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=1d32dab8ed45d5924937bb46a0f147ab&wts=1780127975",
       "title": "bilibili热搜",
       "type": "feed",
       "url": "rsshub://bilibili/hot-search"

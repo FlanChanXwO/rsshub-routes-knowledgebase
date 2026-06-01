@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "出口管制全面收紧！834/835号令、阻断令、禁执令四连击：2026年外贸企业的合规生死劫来了！ - Powered by RSSHub",
+      "description": "台上满嘴合规风控，台下暗藏利益输送！交银金科副总裁王浩任上被查，给所有金融圈“技术大佬”敲响警钟 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 出口管制全面收紧！834/835号令、阻断令、禁执令四连击：2026年外贸企业的合规生死劫来了！",
+      "title": "10000万联网 - 台上满嘴合规风控，台下暗藏利益输送！交银金科副总裁王浩任上被查，给所有金融圈“技术大佬”敲响警钟",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

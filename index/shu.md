@@ -39,7 +39,7 @@
 - Route Path: `/shu/jwb/:type?`
 - File: `docs/routes/shu/shu-jwb-type.md`
 - File Name: `shu-jwb-type.md`
-- Categories: `journal`
+- Categories: `university`
 - Maintainers: `tuxinghuan, GhhG123`
 
 ### 官网通知公告

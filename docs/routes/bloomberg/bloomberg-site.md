@@ -129,8 +129,8 @@ _None_
   "topFeeds": [
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-31T03:52:08.778Z",
+      "errorMessage": "200 OK",
       "id": "72541421314282496",
       "image": null,
       "ownerUserId": null,
@@ -141,8 +141,8 @@ _None_
     },
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-31T03:47:16.658Z",
+      "errorMessage": "200 OK",
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,

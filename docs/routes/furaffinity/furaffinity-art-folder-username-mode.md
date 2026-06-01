@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of chesshire88 - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of aoyi - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191942200074407936",
+      "id": "146173028202221568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/chesshire88",
-      "title": "Fur Affinity | Gallery of chesshire88",
+      "siteUrl": "https://www.furaffinity.net/gallery/aoyi",
+      "title": "Fur Affinity | Gallery of aoyi",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/chesshire88/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/aoyi/nsfw"
     }
   ],
   "url": "furaffinity.net"

@@ -79,7 +79,7 @@ _None_
     {
       "description": "Fur Affinity Index - Powered by RSSHub",
       "errorAt": "2026-05-25T17:12:26.065Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/home.json?sfw=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/home.json?sfw=1\": 500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/home.json?sfw=1\": 502 Bad Gateway\n",
       "id": "78978405973911552",
       "image": null,
       "ownerUserId": null,
@@ -92,13 +92,13 @@ _None_
       "description": "Fur Affinity Index - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "141655371304511488",
+      "id": "94287099178847232",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.furaffinity.net/",
       "title": "Fur Affinity | Home",
       "type": "feed",
-      "url": "rsshub://furaffinity/home/nsfw/nsfw"
+      "url": "rsshub://furaffinity/home/artwork"
     }
   ],
   "url": "furaffinity.net"

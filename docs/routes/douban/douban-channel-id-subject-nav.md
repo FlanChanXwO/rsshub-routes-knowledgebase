@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣美剧频道书影音下的电视剧推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T12:46:37.916Z",
+      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/elessar/channel/27622657\": <no response> fetch failed\n",
       "id": "76960076233678848",
       "image": null,
       "ownerUserId": null,
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "豆瓣历史频道书影音下的电影推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T13:47:50.704Z",
+      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/elessar/channel/30168934\": <no response> fetch failed\n",
       "id": "61440669496322048",
       "image": null,
       "ownerUserId": null,

@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21861,
+  "heat": 21888,
   "location": "dynamic.ts",
   "maintainers": [
     "DIYgod",
@@ -106,8 +106,8 @@ _None_
     },
     {
       "description": "罗翔说刑法 的 bilibili 动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T21:53:40.889Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n403 Forbidden\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/space?offset=&host_mid=517327498&platform=web&features=itemOpusStyle,listOnlyfans,opusBigCover,onlyfansVote&dm_img_list=[{\\\"x\\\":6292,\\\"y\\\":-1401,\\\"z\\\":0,\\\"timestamp\\\":36,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2\": 412 Precondition Failed\n500 Internal Server Error\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/space?offset=&host_mid=517327498&platform=web&features=itemOpusStyle,listOnlyfans,opusBigCover,onlyfansVote&dm_img_list=[{\\\"x\\\":6281,\\\"y\\\":-1408,\\\"z\\\":0,\\\"timestamp\\\":31,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2\": <no response> fetch failed\n",
       "id": "41147805276726305",
       "image": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
       "ownerUserId": null,

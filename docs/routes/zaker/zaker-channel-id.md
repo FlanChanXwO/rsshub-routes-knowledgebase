@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-05-28T23:07:01.569Z",
-      "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T08:46:15.742Z",
+      "errorMessage": "cheerio.load() expects a string\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

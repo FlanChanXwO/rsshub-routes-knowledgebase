@@ -88,7 +88,7 @@
     {
       "description": "再漫画 - 一击男ONE原作版 - Powered by RSSHub",
       "errorAt": "2025-07-31T02:30:45.447Z",
-      "errorMessage": "502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://manhua.zaimanhua.com/api/v1/comic2/comic/detail?id=48194\": <no response> fetch failed\n",
       "id": "144946872242255872",
       "image": null,
       "ownerUserId": null,

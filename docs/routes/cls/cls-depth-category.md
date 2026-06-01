@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3558,
+  "heat": 3562,
   "location": "depth.ts",
   "maintainers": [
     "nczitzk"
@@ -79,7 +79,7 @@ _None_
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
       "errorAt": "2026-05-28T08:53:09.720Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'detail')\n[GET] \"https://www.cls.cn/v3/depth/home/assembled/1000?appName=CailianpressWeb&os=web&sv=7.7.5&sign=9c11221af4f6b47b253098a8b9957b8f\": <no response> fetch failed\nCannot read properties of undefined (reading 'detail')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\n",
       "id": "84970828729518080",
       "image": null,
       "ownerUserId": null,

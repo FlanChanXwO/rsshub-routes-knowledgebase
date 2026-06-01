@@ -80,18 +80,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for yonggekkk/Cloudflare_vless_trojan - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "88072707051804672",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/yonggekkk/Cloudflare_vless_trojan/graphs/contributors",
-      "title": "yonggekkk/Cloudflare_vless_trojan Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/yonggekkk/Cloudflare_vless_trojan"
-    },
-    {
       "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@ _None_
       "title": "piderking/vgmt-data Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/piderking/vgmt-data"
+    },
+    {
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84958270281030656",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

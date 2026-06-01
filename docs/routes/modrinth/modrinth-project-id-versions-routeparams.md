@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Base plugin for every Aurora project. Provides common utilities and functions. - Powered by RSSHub",
+      "description": "The kitchen sink of Chat Management - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582395964709888",
+      "id": "114583401723102208",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/EzEMkR1u",
-      "title": "AuroraLib Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/IwVOgYiT",
+      "title": "ChatManager Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/EzEMkR1u/versions"
+      "url": "rsshub://modrinth/project/IwVOgYiT/versions"
     }
   ]
 }

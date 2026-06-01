@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 922,
+  "heat": 921,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/05/27/home-schooling-surges\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.economist.com/the-world-this-week/2026/05/29/cover-story-newsletter-the-new-shape-of-war\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-this-week/2026/05/29/cover-story-newsletter-the-new-shape-of-war\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prize-winning-film\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

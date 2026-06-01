@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2050,
+  "heat": 2052,
   "location": "blog-zh.ts",
   "maintainers": [
     "zcf0508"

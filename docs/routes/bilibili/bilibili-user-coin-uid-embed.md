@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "大闲人贾白 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T12:38:03.080Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/coin/video?vmid=549117578\": <no response> fetch failed\n",
       "id": "59183499828667392",
       "image": null,
       "ownerUserId": null,
@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "CLS班长 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73238754758254592",
+      "description": "DIYgod 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": "2026-05-30T15:01:40.144Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/coin/video?vmid=2267573\": <no response> fetch failed\n",
+      "id": "71192404720008192",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546587043203707",
-      "title": "CLS班长 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/2267573",
+      "title": "DIYgod 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/3546587043203707"
+      "url": "rsshub://bilibili/user/coin/2267573"
     }
   ]
 }

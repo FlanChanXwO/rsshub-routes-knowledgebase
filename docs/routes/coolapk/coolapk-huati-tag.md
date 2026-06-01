@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1021,
+  "heat": 1020,
   "location": "huati.ts",
   "maintainers": [
     "xizeyoupan"
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "酷安话题-酷安夜话 - Powered by RSSHub",
-      "errorAt": "2026-05-28T22:06:37.763Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69604119970038786",
       "image": null,
       "ownerUserId": null,

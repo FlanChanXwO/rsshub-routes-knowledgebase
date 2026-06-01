@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Stories from National Geographic - Powered by RSSHub",
-      "errorAt": "2026-05-28T23:06:51.927Z",
-      "errorMessage": "[GET] \"https://www.nationalgeographic.com/pages/topic/latest-stories\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,

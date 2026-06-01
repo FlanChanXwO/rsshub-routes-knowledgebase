@@ -1,19 +1,19 @@
-# 深圳市罗湖区人民政府 - 上海卫健委 疫情通报
+# 上海交通大学 - 计算机学院 - 学术活动
 
 ## Coverage
 `index-only`
 
 ## Route
-- Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
-- Route Path: `/gov/sh/wsjkw/yqtb`
-- Route Name: `上海卫健委 疫情通报`
-- Example: `/gov/sh/wsjkw/yqtb`
-- URL: `wsjkw.sh.gov.cn/`
+- Namespace: `sjtu`
+- Namespace Name: `上海交通大学`
+- Route Path: `/sjtu/cs/xshd`
+- Route Name: `计算机学院 - 学术活动`
+- Example: `/sjtu/cs/xshd`
+- URL: `www.cs.sjtu.edu.cn/xshd.html`
 - Language: `_None_`
-- Categories: `government`
-- Maintainers: `zcf0508`
-- Source Location: `sh/wsjkw/yqtb/index.ts`
+- Categories: `university`
+- Maintainers: `BeaCox`
+- Source Location: `cs/xshd.tsx`
 - Source Module: `_None_`
 
 ## Description
@@ -34,15 +34,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `wsjkw.sh.gov.cn/`
+  - `www.cs.sjtu.edu.cn/xshd.html`
+- `target`: `/cs/xshd`
 
 ## Raw JSON
 ```json
 {
   "categories": [
-    "government"
+    "university"
   ],
-  "example": "/gov/sh/wsjkw/yqtb",
+  "example": "/sjtu/cs/xshd",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -52,24 +53,22 @@ _None_
     "supportScihub": false
   },
   "heat": 0,
-  "location": "sh/wsjkw/yqtb/index.ts",
+  "location": "cs/xshd.tsx",
   "maintainers": [
-    "zcf0508"
+    "BeaCox"
   ],
-  "name": "上海卫健委 疫情通报",
+  "name": "计算机学院 - 学术活动",
   "parameters": {},
-  "path": [
-    "/sh/wsjkw/yqtb",
-    "/shanghai/wsjkw/yqtb"
-  ],
+  "path": "/cs/xshd",
   "radar": [
     {
       "source": [
-        "wsjkw.sh.gov.cn/"
-      ]
+        "www.cs.sjtu.edu.cn/xshd.html"
+      ],
+      "target": "/cs/xshd"
     }
   ],
   "topFeeds": [],
-  "url": "wsjkw.sh.gov.cn/"
+  "url": "www.cs.sjtu.edu.cn/xshd.html"
 }
 ```

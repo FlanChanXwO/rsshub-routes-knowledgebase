@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣 - 2026年05月定档热门新剧推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T09:42:27.015Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n[GET] \"https://frodo.douban.com/api/v2/skynet/new_playlists?apikey=0ac44ae016490db2204ce0a042db2916&subject_type=tv\": <no response> fetch failed\n",
       "id": "55307751412641792",
       "image": null,
       "ownerUserId": null,
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "豆瓣 - 2026年05月定档热门电影推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-30T12:06:31.949Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n[GET] \"https://frodo.douban.com/api/v2/skynet/new_playlists?apikey=0ac44ae016490db2204ce0a042db2916&subject_type=movie\": <no response> fetch failed\n",
       "id": "62747954002857984",
       "image": null,
       "ownerUserId": null,

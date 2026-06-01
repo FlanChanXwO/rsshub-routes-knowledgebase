@@ -69,7 +69,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://kakuyomu.jp/works/1177354054894027232",
-      "title": "【書籍9巻2026年5月20日発売予定】週に一度クラスメイトを買う話",
+      "title": "【書籍10巻2026年秋発売予定】週に一度クラスメイトを買う話",
       "type": "feed",
       "url": "rsshub://kakuyomu/works/1177354054894027232"
     },

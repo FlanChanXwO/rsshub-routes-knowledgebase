@@ -31,5 +31,5 @@
 - Route Path: `/firefox/release/:platform?`
 - File: `docs/routes/firefox/firefox-release-platform.md`
 - File Name: `firefox-release-platform.md`
-- Categories: `program-update`
+- Categories: `other`
 - Maintainers: `None`

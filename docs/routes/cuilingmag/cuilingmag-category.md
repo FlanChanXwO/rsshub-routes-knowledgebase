@@ -169,8 +169,8 @@
   "topFeeds": [
     {
       "description": "萃嶺网 - Powered by RSSHub",
-      "errorAt": "2026-05-12T12:42:39.484Z",
-      "errorMessage": "[GET] \"https://www.cuilingmag.com/\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72920871518882824",
       "image": "https://www.cuilingmag.com/cuiling/icon/latest-logo.svg",
       "ownerUserId": null,
@@ -181,8 +181,8 @@
     },
     {
       "description": "哲学·文明-萃嶺网 - Powered by RSSHub",
-      "errorAt": "2026-05-12T12:12:46.483Z",
-      "errorMessage": "[GET] \"https://www.cuilingmag.com/category/philosophy_civilization\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84053236632059904",
       "image": "https://www.cuilingmag.com/cuiling/icon/latest-logo.svg",
       "ownerUserId": null,

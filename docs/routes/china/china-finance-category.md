@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 37,
   "location": "finance/finance.ts",
   "maintainers": [
     "KingJem"

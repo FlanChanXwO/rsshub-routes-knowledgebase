@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": "2026-05-28T21:36:33.913Z",
-      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=5&orderby=dateline&filter=typeid&typeid=404\": 503 Service Unavailable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99080947264681984",
       "image": null,
       "ownerUserId": null,

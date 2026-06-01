@@ -91,15 +91,15 @@ More jounals can be found in [AIP Publications](https://publishing.aip.org/publi
     },
     {
       "description": null,
-      "errorAt": "2026-05-09T01:02:56.876Z",
-      "errorMessage": "[GET] \"https://pubs.aip.org/journal/apm/issue\": 403 Forbidden\n",
-      "id": "1100438337916633113",
+      "errorAt": "2026-05-07T07:11:16.874Z",
+      "errorMessage": "[GET] \"https://pubs.aip.org/journal/rsi/issue\": 403 Forbidden\n",
+      "id": "1100438337916633114",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://aip/journal/apm"
+      "url": "rsshub://aip/journal/rsi"
     }
   ]
 }
