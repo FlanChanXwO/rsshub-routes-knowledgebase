@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 淘股论坛 | 社区总版 | 精华加油 | 网友点赞 |\n| -------- | -------- | -------- | -------- |\n| bbs      | zongban  | jinghua  | dianzan  |",
   "example": "/taoguba",
-  "heat": 258,
+  "heat": 257,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -64,8 +64,8 @@ _None_
     },
     {
       "description": "淘股吧散户炒股交流点赞牛贴 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:31:44.535Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 115961018043937792",
       "id": "115961018043937792",
       "image": null,
       "ownerUserId": null,

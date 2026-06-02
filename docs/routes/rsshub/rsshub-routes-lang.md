@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Everything is RSSible - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:35:38.669Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41147805276726402",
       "id": "41147805276726402",
       "image": null,
       "ownerUserId": null,

@@ -11,7 +11,7 @@
 - Example: `_None_`
 - URL: `monitor.firefox.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `program-update`
 - Maintainers: `None`
 - Source Location: `release.ts`
 - Source Module: `_None_`
@@ -33,7 +33,7 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "program-update"
   ],
   "heat": 3,
   "location": "release.ts",
@@ -41,18 +41,6 @@ _None_
   "name": "Unknown",
   "path": "/release/:platform?",
   "topFeeds": [
-    {
-      "description": "Firefox nightly release notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55873602868576273",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.mozilla.org/en-US/firefox/nightly/notes",
-      "title": "Firefox nightly release notes",
-      "type": "feed",
-      "url": "rsshub://firefox/release/nightly"
-    },
     {
       "description": "Firefox desktop release notes - Powered by RSSHub",
       "errorAt": null,
@@ -64,6 +52,18 @@ _None_
       "title": "Firefox desktop release notes",
       "type": "feed",
       "url": "rsshub://firefox/release"
+    },
+    {
+      "description": "Firefox nightly release notes - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55873602868576273",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mozilla.org/en-US/firefox/nightly/notes",
+      "title": "Firefox nightly release notes",
+      "type": "feed",
+      "url": "rsshub://firefox/release/nightly"
     }
   ]
 }

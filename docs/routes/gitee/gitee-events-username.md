@@ -70,18 +70,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "NanGePlus - 公开动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "163616006553730048",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gitee.com/NanGePlus",
-      "title": "NanGePlus - 公开动态",
-      "type": "feed",
-      "url": "rsshub://gitee/events/NanGePlus"
-    },
-    {
       "description": "silencedream - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -92,6 +80,18 @@ _None_
       "title": "silencedream - 公开动态",
       "type": "feed",
       "url": "rsshub://gitee/events/silencedream"
+    },
+    {
+      "description": "maymory - 公开动态 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "197268857426290688",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gitee.com/maymory",
+      "title": "maymory - 公开动态",
+      "type": "feed",
+      "url": "rsshub://gitee/events/maymory"
     }
   ]
 }

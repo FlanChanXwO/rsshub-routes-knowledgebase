@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 271,
+  "heat": 272,
   "location": "subscribe.ts",
   "maintainers": [
     "pseudoyu"

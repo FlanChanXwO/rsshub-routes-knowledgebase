@@ -244,8 +244,8 @@ _None_
   "topFeeds": [
     {
       "description": "什么值得买好价品类榜-好价品类榜-全部-3小时 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:35:41.241Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42006425715388416",
       "id": "42006425715388416",
       "image": null,
       "ownerUserId": null,

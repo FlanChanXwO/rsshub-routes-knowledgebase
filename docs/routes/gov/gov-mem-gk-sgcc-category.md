@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 事故及灾害查处
+# 中华人民共和国应急管理部 - 事故及灾害查处
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/mem/gk/sgcc/:category?`
 - Route Name: `事故及灾害查处`
 - Example: `/gov/mem/gk/sgcc/tbzdsgdcbg`
-- URL: `www.szlh.gov.cn`
+- URL: `www.mem.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

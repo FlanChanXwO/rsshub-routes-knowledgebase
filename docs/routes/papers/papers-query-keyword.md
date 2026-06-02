@@ -63,7 +63,7 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
     "supportRadar": true,
     "supportScihub": true
   },
-  "heat": 20,
+  "heat": 21,
   "location": "query.ts",
   "maintainers": [
     "Muyun99"
@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "backdoor - Powered by RSSHub",
+      "description": "hydrology - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "139675539524500480",
+      "id": "175661283850079232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=backdoor&sort=0",
-      "title": "backdoor",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=hydrology&sort=0",
+      "title": "hydrology",
       "type": "feed",
-      "url": "rsshub://papers/query/backdoor"
+      "url": "rsshub://papers/query/hydrology"
     }
   ],
   "url": "papers.cool"

@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/focusread",
-  "heat": 299,
+  "heat": 298,
   "location": "focus.ts",
   "maintainers": [
     "AlexdanerZe",
@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "ZAKER 精读新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T01:09:52.796Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/?pos=selected_article\": 429 Too Many Requests\n403 Forbidden\ncheerio.load() expects a string\n",
       "id": "54945423974379534",
       "image": null,
       "ownerUserId": null,

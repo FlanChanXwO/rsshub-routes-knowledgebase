@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2775,
+  "heat": 2770,
   "location": "user.ts",
   "maintainers": [
     "imlonghao"

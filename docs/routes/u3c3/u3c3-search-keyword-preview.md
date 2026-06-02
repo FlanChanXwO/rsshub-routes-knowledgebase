@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "home - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:08:47.700Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 131696291531404288",
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,

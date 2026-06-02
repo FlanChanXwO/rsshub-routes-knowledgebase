@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 56,
+  "heat": 55,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "台州19楼 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T02:47:02.607Z",
+      "errorMessage": "[GET] \"https://taizhou.19lou.com\": <no response> fetch failed\n",
       "id": "71090917239899136",
       "image": null,
       "ownerUserId": null,

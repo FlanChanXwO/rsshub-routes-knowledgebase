@@ -91,7 +91,7 @@ _None_
     {
       "description": "王子君的知乎回答 - Powered by RSSHub",
       "errorAt": "2025-04-22T12:23:04.103Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/members/nogirlnotalk/answers?limit=7&include=data[*].is_normal,content\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "62090527887115299",
       "image": null,
       "ownerUserId": null,

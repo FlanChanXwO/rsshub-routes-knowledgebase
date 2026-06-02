@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Urban Dictionary: Random words - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:36:18.378Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 148054920761453568",
       "id": "148054920761453568",
       "image": null,
       "ownerUserId": null,

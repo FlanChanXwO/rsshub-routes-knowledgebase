@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "DIYgod 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": "2026-05-30T15:01:40.144Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/coin/video?vmid=2267573\": <no response> fetch failed\n",
-      "id": "71192404720008192",
+      "description": "papersnake 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73906655693700096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/2267573",
-      "title": "DIYgod 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/35480266",
+      "title": "papersnake 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/2267573"
+      "url": "rsshub://bilibili/user/coin/35480266"
     }
   ]
 }

@@ -91,16 +91,16 @@ _None_
   "path": "/search/:type/:keyword?",
   "topFeeds": [
     {
-      "description": "秀动网 - 搜城市 - 成都 - Powered by RSSHub",
+      "description": "秀动网 - 搜演出 - live - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "138149010608228352",
+      "id": "72889425066383360",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜城市 - 成都",
+      "title": "秀动网 - 搜演出 - live",
       "type": "feed",
-      "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
+      "url": "rsshub://showstart/search/live"
     },
     {
       "description": "秀动网 - 搜艺人 - 声音玩具 - Powered by RSSHub",

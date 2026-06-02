@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 一卷心菜一一 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 猫冬 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120386587430633472",
+      "id": "198685663556975616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158107848",
-      "title": "米游社 - 一卷心菜一一 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=74019947",
+      "title": "米游社 - 猫冬 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/158107848"
+      "url": "rsshub://mihoyo/bbs/user-post/74019947"
     },
     {
-      "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 初始镜像OriginMirror 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164612226252672000",
+      "id": "198686272342260736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=82959572",
-      "title": "米游社 - MRYU 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=159117584",
+      "title": "米游社 - 初始镜像OriginMirror 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/82959572"
+      "url": "rsshub://mihoyo/bbs/user-post/159117584"
     }
   ]
 }

@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "「会免」最新讨论 - PSN中文站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T02:39:57.523Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "125916510049597440",
       "image": null,
       "ownerUserId": null,

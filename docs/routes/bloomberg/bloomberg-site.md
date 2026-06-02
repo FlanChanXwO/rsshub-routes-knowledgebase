@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5461,
+  "heat": 5466,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -129,8 +129,8 @@ _None_
   "topFeeds": [
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-05-31T03:52:08.778Z",
-      "errorMessage": "200 OK",
+      "errorAt": "2026-06-01T02:21:11.633Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72541421314282496",
       "id": "72541421314282496",
       "image": null,
       "ownerUserId": null,
@@ -141,8 +141,8 @@ _None_
     },
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-05-31T03:47:16.658Z",
-      "errorMessage": "200 OK",
+      "errorAt": "2026-05-31T13:43:09.737Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64731996464440320",
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,

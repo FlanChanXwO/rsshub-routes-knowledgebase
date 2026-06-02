@@ -39,7 +39,7 @@ _None_
   ],
   "description": "LangChain Blog Posts",
   "example": "/langchain/blog",
-  "heat": 171,
+  "heat": 170,
   "location": "index.ts",
   "maintainers": [
     "liyaozhong"
@@ -57,7 +57,7 @@ _None_
     {
       "description": "LangChain Blog - Powered by RSSHub",
       "errorAt": "2026-04-15T22:16:09.924Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "75806179511343104",
       "image": null,
       "ownerUserId": null,

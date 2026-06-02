@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1033,
+  "heat": 1034,
   "location": "daily-papers.ts",
   "maintainers": [
     "zeyugao",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Huggingface Daily Papers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:36:04.505Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41359648680482832",
       "id": "41359648680482832",
       "image": null,
       "ownerUserId": null,

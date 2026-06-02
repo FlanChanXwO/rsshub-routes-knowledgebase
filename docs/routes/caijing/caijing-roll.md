@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 231,
+  "heat": 230,
   "location": "roll.ts",
   "maintainers": [
     "TonyRL"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "滚动新闻-财经网 - Powered by RSSHub",
       "errorAt": "2025-05-12T11:21:50.287Z",
-      "errorMessage": "[GET] \"https://roll.caijing.com.cn/ajax_lists.php?modelid=0&time=0.9554639213540388\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://roll.caijing.com.cn/ajax_lists.php?modelid=0&time=0.22088245776666404\": 403 Forbidden\n",
       "id": "59951906827705344",
       "image": "https://www.caijing.com.cn/favicon.ico",
       "ownerUserId": null,

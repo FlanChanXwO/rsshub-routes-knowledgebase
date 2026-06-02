@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 744,
+  "heat": 743,
   "location": "all.tsx",
   "maintainers": [
     "nczitzk"
@@ -90,8 +90,8 @@
     },
     {
       "description": "虎扑社区 - 步行街热帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:09:07.458Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63404283121618947",
       "id": "63404283121618947",
       "image": null,
       "ownerUserId": null,

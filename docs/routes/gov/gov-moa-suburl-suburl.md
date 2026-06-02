@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国农业农村部 - 新闻
+# 中华人民共和国应急管理部 - 中华人民共和国农业农村部 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/moa/suburl/:suburl{.+}`
 - Route Name: `中华人民共和国农业农村部 - 新闻`
 - Example: `/gov/moa/suburl/gk/zcjd/`

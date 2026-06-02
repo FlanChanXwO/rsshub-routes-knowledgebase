@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 825,
+  "heat": 826,
   "location": "category.ts",
   "maintainers": [
     "idealclover",
@@ -87,8 +87,8 @@
     },
     {
       "description": "央视新闻 china - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:35:47.662Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581989",
       "id": "41965184796581989",
       "image": null,
       "ownerUserId": null,

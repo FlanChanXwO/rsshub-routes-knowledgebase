@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 65,
+  "heat": 66,
   "location": "full.ts",
   "maintainers": [
     "bennyyip"

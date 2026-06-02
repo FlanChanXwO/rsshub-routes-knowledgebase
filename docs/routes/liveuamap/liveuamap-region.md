@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Liveuamap - china - Powered by RSSHub",
-      "errorAt": "2026-05-30T20:56:52.535Z",
-      "errorMessage": "[GET] \"https://china.liveuamap.com/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85175414937704448",
       "image": null,
       "ownerUserId": null,

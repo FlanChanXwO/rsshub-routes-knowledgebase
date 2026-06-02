@@ -1112,7 +1112,7 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
     "supportRadar": true,
     "supportScihub": true
   },
-  "heat": 50,
+  "heat": 51,
   "location": "category.ts",
   "maintainers": [
     "nczitzk",
@@ -2310,8 +2310,8 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
     },
     {
       "description": "The list of papers for Robotics category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:35:26.847Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 114300591154852864",
       "id": "114300591154852864",
       "image": null,
       "ownerUserId": null,

@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 今日绵竹
+# 中华人民共和国应急管理部 - 今日绵竹
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/sichuan/deyang/mztoday/:infoType?`
 - Route Name: `今日绵竹`
 - Example: `/gov/sichuan/deyang/mztoday/zx`

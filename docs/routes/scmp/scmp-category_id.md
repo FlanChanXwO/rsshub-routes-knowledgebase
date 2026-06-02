@@ -52,7 +52,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 170,
+  "heat": 169,
   "location": "index.ts",
   "maintainers": [
     "proletarius101"

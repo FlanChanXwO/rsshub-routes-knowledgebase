@@ -104,7 +104,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5059,
+  "heat": 5067,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -128,8 +128,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter Keyword - AI - Powered by RSSHub",
-      "errorAt": "2026-05-31T03:21:05.417Z",
-      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n403 Forbidden\nTwitter API is not configured\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53226580778291200",
       "image": null,
       "ownerUserId": null,

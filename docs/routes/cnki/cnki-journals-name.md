@@ -86,7 +86,7 @@ _None_
     {
       "description": "电子与封装 - Powered by RSSHub",
       "errorAt": "2026-04-20T10:41:11.822Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=DYFZ&Virtual=knavi\": <no response> fetch failed\n",
       "id": "159266714924499968",
       "image": null,
       "ownerUserId": null,

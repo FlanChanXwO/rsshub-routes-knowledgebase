@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Gay Asian Cocks In Hot Free Porn Videos And Sex Clips | Pornhub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-31T17:38:22.789Z",
+      "errorMessage": "[GET] \"https://www.pornhub.com/gay/video?c=48\": <no response> fetch failed\n",
       "id": "184894860867500032",
       "image": null,
       "ownerUserId": null,

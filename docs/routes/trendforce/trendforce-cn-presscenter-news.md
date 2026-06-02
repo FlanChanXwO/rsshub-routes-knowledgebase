@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "集邦咨询产业洞察，提供国际高科技产业资讯与市场资讯，包括半导体、LED、新能源、显示面板、第三代半导体、MLCC、存储器等领域。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-31T20:32:18.179Z",
+      "errorMessage": "[GET] \"https://www.trendforce.cn/presscenter/news\": <no response> fetch failed\n",
       "id": "264963176688239616",
       "image": "https://www.trendforce.cn/images/apple-touch-icon-152x152.png",
       "ownerUserId": null,

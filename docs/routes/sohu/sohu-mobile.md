@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "手机搜狐新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-05-31T08:43:31.469Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 141055454808791040",
       "id": "141055454808791040",
       "image": null,
       "ownerUserId": null,

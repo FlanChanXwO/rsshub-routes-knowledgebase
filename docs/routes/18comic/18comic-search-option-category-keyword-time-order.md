@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 96,
+  "heat": 95,
   "location": "search.ts",
   "maintainers": [
     "nczitzk",
@@ -87,8 +87,8 @@
   "topFeeds": [
     {
       "description": "Search Results For '' - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-05-31T02:21:35.829Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "163668204999134208",
       "image": null,
       "ownerUserId": null,

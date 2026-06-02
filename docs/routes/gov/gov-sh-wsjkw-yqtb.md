@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 上海卫健委 疫情通报
+# 中华人民共和国应急管理部 - 上海卫健委 疫情通报
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `中华人民共和国应急管理部`
 - Route Path: `/gov/sh/wsjkw/yqtb`
 - Route Name: `上海卫健委 疫情通报`
 - Example: `/gov/sh/wsjkw/yqtb`

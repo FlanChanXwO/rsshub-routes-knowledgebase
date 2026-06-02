@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "知乎热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:31:53.945Z",
+      "errorMessage": "Failed query: select \"subscriptions\".\"user_id\", \"rsshub_usage\".\"rsshub_id\", \"rsshub\".\"base_url\", \"rsshub\".\"access_key\", \"rsshub\".\"error_message\" from \"subscriptions\" left join \"rsshub_usage\" on \"subscriptions\".\"user_id\" = \"rsshub_usage\".\"user_id\" left join \"rsshub\" on \"rsshub\".\"id\" = \"rsshub_usage\".\"rsshub_id\" where \"subscriptions\".\"feed_id\" = $1\nparams: 41358761177015296",
       "id": "41358761177015296",
       "image": null,
       "ownerUserId": null,

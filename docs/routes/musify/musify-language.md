@@ -67,7 +67,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 1,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -115,7 +115,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
     {
       "description": "Download music for free in mp3 format — high quality and no registration required. Listen online and download new releases, hits, and classics on Musify. - Powered by RSSHub",
       "errorAt": "2026-05-08T04:09:01.847Z",
-      "errorMessage": "200 OK",
+      "errorMessage": "Failed to fetch\n",
       "id": "164874302196685824",
       "image": "https://s.musify.club/images/logo.png",
       "ownerUserId": null,
@@ -127,7 +127,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
     {
       "description": "Скачать музыку бесплатно в формате mp3 — без регистрации и в хорошем качестве. Слушайте онлайн и скачивайте новинки, хиты и классику на Musify. - Powered by RSSHub",
       "errorAt": "2026-05-06T18:18:12.168Z",
-      "errorMessage": "200 OK",
+      "errorMessage": "Failed to fetch\n",
       "id": "165777653595388928",
       "image": "https://s.musify.club/images/logo.png",
       "ownerUserId": null,

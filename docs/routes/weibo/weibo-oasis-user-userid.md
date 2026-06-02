@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://weibo/oasis/user/5172654370"
     },
     {
-      "description": "杂乱无章 - Powered by RSSHub",
-      "errorAt": "2026-05-30T15:26:41.423Z",
-      "errorMessage": "[GET] \"https://oasis.weibo.cn/v1/h5/share?uid=3841137060\": <no response> fetch failed\n",
-      "id": "214594184648932352",
+      "description": "设计师 - Powered by RSSHub",
+      "errorAt": "2026-05-30T17:12:47.799Z",
+      "errorMessage": "[GET] \"https://oasis.weibo.cn/v1/h5/share?uid=1750421453\": <no response> fetch failed\n",
+      "id": "217089827345700864",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://oasis.weibo.cn/v1/h5/share?uid=3841137060",
-      "title": "驿站边 - 用户 - 绿洲",
+      "siteUrl": "https://oasis.weibo.cn/v1/h5/share?uid=1750421453",
+      "title": "木易氧氧氧 - 用户 - 绿洲",
       "type": "feed",
-      "url": "rsshub://weibo/oasis/user/3841137060"
+      "url": "rsshub://weibo/oasis/user/1750421453"
     }
   ]
 }

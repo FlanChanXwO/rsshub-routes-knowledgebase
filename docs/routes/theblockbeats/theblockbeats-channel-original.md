@@ -53,7 +53,7 @@ _None_
   ],
   "description": "|    快讯   |   文章  |\n| :-------: | :-----: |\n| newsflash | article |\n\n| 全部 | 深度 | 精选 | 热点追踪 |\n| :--: | :--: | :--: | :------: |\n|      |  -2  |   1  |     2    |",
   "example": "/theblockbeats/newsflash",
-  "heat": 803,
+  "heat": 804,
   "location": "index.tsx",
   "maintainers": [
     "Fatpandac",
@@ -119,8 +119,8 @@ _None_
   "topFeeds": [
     {
       "description": "TheBlockBeats - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:36:04.869Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72541715399995392",
       "id": "72541715399995392",
       "image": null,
       "ownerUserId": null,

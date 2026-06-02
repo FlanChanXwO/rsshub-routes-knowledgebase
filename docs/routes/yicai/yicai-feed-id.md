@@ -90,8 +90,8 @@
     },
     {
       "description": "第一财经主题 - 一财早报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T03:36:20.163Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149537784167521280",
       "image": null,
       "ownerUserId": null,

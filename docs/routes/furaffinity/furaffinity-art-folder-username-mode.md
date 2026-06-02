@@ -101,7 +101,7 @@ _None_
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
       "errorAt": "2026-05-25T18:57:48.549Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 502 Bad Gateway\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 502 Bad Gateway\n",
       "id": "79207337889916928",
       "image": null,
       "ownerUserId": null,
@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of aoyi - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "146173028202221568",
+      "description": "Fur Affinity Gallery of fender - Powered by RSSHub",
+      "errorAt": "2026-05-25T19:32:44.435Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/fender/gallery.json?full=1\": 502 Bad Gateway\n",
+      "id": "92761069156367360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/aoyi",
-      "title": "Fur Affinity | Gallery of aoyi",
+      "siteUrl": "https://www.furaffinity.net/gallery/fender",
+      "title": "Fur Affinity | Gallery of fender",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/aoyi/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/fender/nsfw"
     }
   ],
   "url": "furaffinity.net"
