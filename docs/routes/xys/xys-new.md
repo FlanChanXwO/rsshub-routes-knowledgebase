@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 78,
+  "heat": 77,
   "location": "new.tsx",
   "maintainers": [
     "wenzhenl"
@@ -71,7 +71,7 @@ _None_
   "topFeeds": [
     {
       "description": "新语丝 - 新到资料 - Powered by RSSHub",
-      "errorAt": "2026-05-26T13:14:18.741Z",
+      "errorAt": "2026-06-01T12:47:12.382Z",
       "errorMessage": "200 OK",
       "id": "57799650921358344",
       "image": null,

@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Product news and best practices for teams building with Claude. - Powered by RSSHub",
-      "errorAt": "2026-06-01T01:11:00.222Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "254514272394244096",
       "image": null,
       "ownerUserId": null,

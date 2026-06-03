@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "東網 - 港澳 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T19:18:28.033Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74060845450725376",
       "image": null,
       "ownerUserId": null,

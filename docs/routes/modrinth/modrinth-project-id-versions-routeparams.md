@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A simple teleportation plugin that supports Folia, compatible with Bukkit/Spigot/Paper/Folia. - Powered by RSSHub",
+      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852542430741504",
+      "id": "123851322293306368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/t0Xh802L",
-      "title": "TPA Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
+      "title": "HuskHomes Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/t0Xh802L/versions"
+      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
     }
   ]
 }

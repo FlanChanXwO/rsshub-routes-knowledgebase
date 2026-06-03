@@ -73,16 +73,16 @@ _None_
       "url": "rsshub://orcid/0000-0003-2220-1738"
     },
     {
-      "description": "ORCID Works List0009-0007-8141-8183 - Powered by RSSHub",
+      "description": "ORCID Works List0000-0002-4731-9700 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "94289757544125440",
+      "id": "71818953176338432",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://orcid.org/0009-0007-8141-8183/worksPage.json?offset=0&sort=date&sortAsc=false&pageSize=20",
-      "title": "ORCID Works List0009-0007-8141-8183",
+      "siteUrl": "https://orcid.org/0000-0002-4731-9700/worksPage.json?offset=0&sort=date&sortAsc=false&pageSize=20",
+      "title": "ORCID Works List0000-0002-4731-9700",
       "type": "feed",
-      "url": "rsshub://orcid/0009-0007-8141-8183"
+      "url": "rsshub://orcid/0000-0002-4731-9700"
     }
   ]
 }

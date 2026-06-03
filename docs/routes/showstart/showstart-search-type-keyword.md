@@ -91,21 +91,21 @@ _None_
   "path": "/search/:type/:keyword?",
   "topFeeds": [
     {
-      "description": "秀动网 - 搜演出 - live - Powered by RSSHub",
+      "description": "秀动网 - 搜城市 - 苏州 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72889425066383360",
+      "id": "175967172586634240",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜演出 - live",
+      "title": "秀动网 - 搜城市 - 苏州",
       "type": "feed",
-      "url": "rsshub://showstart/search/live"
+      "url": "rsshub://showstart/search/city/%E8%8B%8F%E5%B7%9E"
     },
     {
       "description": "秀动网 - 搜艺人 - 声音玩具 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T22:32:40.034Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "220803179682283520",
       "image": null,
       "ownerUserId": null,

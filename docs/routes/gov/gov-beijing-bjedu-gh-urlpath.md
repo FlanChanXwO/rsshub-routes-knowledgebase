@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 通用
+# 深圳市罗湖区人民政府 - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/beijing/bjedu/gh/:urlPath?`
 - Route Name: `通用`
 - Example: `/gov/beijing/bjedu/gh`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

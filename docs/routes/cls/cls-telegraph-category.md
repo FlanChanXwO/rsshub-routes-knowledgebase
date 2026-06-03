@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-| 看盘  | 公司         | 解读    | 加红 | 推送  | 提醒   | 基金 | 港股 |
-| ----- | ------------ | ------- | ---- | ----- | ------ | ---- | ---- |
-| watch | announcement | explain | red  | jpush | remind | fund | hk   |
+| 看盘  | 公司         | 加红 | 提醒   | 基金 | 港美股 |
+| ----- | ------------ | ---- | ------ | ---- | ------ |
+| watch | announcement | red  | remind | fund | hk\_us |
 
 ## Parameters
 - `category`: 分类，见下表，默认为全部
@@ -47,7 +47,7 @@
     "finance",
     "popular"
   ],
-  "description": "| 看盘  | 公司         | 解读    | 加红 | 推送  | 提醒   | 基金 | 港股 |\n| ----- | ------------ | ------- | ---- | ----- | ------ | ---- | ---- |\n| watch | announcement | explain | red  | jpush | remind | fund | hk   |",
+  "description": "| 看盘  | 公司         | 加红 | 提醒   | 基金 | 港美股 |\n| ----- | ------------ | ---- | ------ | ---- | ------ |\n| watch | announcement | red  | remind | fund | hk\\_us |",
   "example": "/cls/telegraph",
   "features": {
     "antiCrawler": false,
@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1445,
+  "heat": 1449,
   "location": "telegraph.tsx",
   "maintainers": [
     "nczitzk"

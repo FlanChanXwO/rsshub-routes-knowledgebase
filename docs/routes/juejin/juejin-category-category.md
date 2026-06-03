@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1202,
+  "heat": 1201,
   "location": "category.ts",
   "maintainers": [
     "DIYgod"
@@ -86,8 +86,8 @@
     },
     {
       "description": "掘金 人工智能 - Powered by RSSHub",
-      "errorAt": "2026-06-01T00:23:13.296Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42000866869432330",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42000866869432330",
       "image": null,
       "ownerUserId": null,

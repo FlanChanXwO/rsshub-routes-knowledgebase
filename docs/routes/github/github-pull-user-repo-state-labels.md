@@ -113,8 +113,8 @@ _None_
     },
     {
       "description": "projectdiscovery/nuclei-templates Open Pull Requests - Powered by RSSHub",
-      "errorAt": "2026-06-01T02:41:09.330Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "154479685635981317",
       "image": null,
       "ownerUserId": null,

@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2755,
+  "heat": 2761,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"
@@ -84,8 +84,8 @@ _None_
   "topFeeds": [
     {
       "description": "科学网 - 精选博文 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:34:32.652Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58829412811444254",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58829412811444254",
       "image": null,
       "ownerUserId": null,

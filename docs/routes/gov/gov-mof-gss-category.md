@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 关税政策文件
+# 深圳市罗湖区人民政府 - 关税政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/mof/gss/:category?`
 - Route Name: `关税政策文件`
 - Example: `/gov/mof/gss`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T23:01:55.604Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "133069318957962240",
       "image": null,
       "ownerUserId": null,

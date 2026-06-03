@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:32:42.606Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 44366244616936448",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "44366244616936448",
       "image": null,
       "ownerUserId": null,
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:36:14.765Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72573375336611840",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72573375336611840",
       "image": null,
       "ownerUserId": null,

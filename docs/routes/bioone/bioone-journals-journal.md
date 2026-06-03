@@ -75,7 +75,7 @@ _None_
   "topFeeds": [
     {
       "description": "VOL. 45 · NO. 1 | April 2026 - Powered by RSSHub",
-      "errorAt": "2026-06-01T00:14:25.996Z",
+      "errorAt": "2026-06-01T17:31:57.783Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "72828126275162112",
       "image": null,

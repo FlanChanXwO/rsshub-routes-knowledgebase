@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Essays - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T09:37:20.582Z",
+      "errorMessage": "[GET] \"http://www.caareviews.org/reviews/essay\": 500 Internal Server Error\n",
       "id": "56552618376634368",
       "image": null,
       "ownerUserId": null,

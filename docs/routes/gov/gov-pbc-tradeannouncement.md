@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 货币政策司公开市场交易公告
+# 深圳市罗湖区人民政府 - 货币政策司公开市场交易公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/pbc/tradeAnnouncement`
 - Route Name: `货币政策司公开市场交易公告`
 - Example: `/gov/pbc/tradeAnnouncement`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`

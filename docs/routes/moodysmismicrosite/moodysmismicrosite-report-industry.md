@@ -110,8 +110,8 @@ _None_
   "topFeeds": [
     {
       "description": "穆迪评级(全部) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-02T02:32:06.546Z",
+      "errorMessage": "[GET] \"https://www.moodysmismicrosite.com/micro/v2/report/list?page_num=1&page_size=25&keyword=&industry_ids=\": 521 <none>\n[GET] \"https://www.moodysmismicrosite.com/micro/v2/report/list?page_num=1&page_size=25&keyword=&industry_ids=\": 521 <none>\n",
       "id": "150839360846191616",
       "image": null,
       "ownerUserId": null,
@@ -122,8 +122,8 @@ _None_
     },
     {
       "description": "穆迪评级(宏观经济&主权&行业&地方政府及城投公司) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-02T02:58:02.070Z",
+      "errorMessage": "[GET] \"https://www.moodysmismicrosite.com/micro/v2/report/list?page_num=1&page_size=25&keyword=&industry_ids=4,2,3\": 521 <none>\n[GET] \"https://www.moodysmismicrosite.com/micro/v2/report/list?page_num=1&page_size=25&keyword=&industry_ids=4,2,3\": 521 <none>\n",
       "id": "94559628931010560",
       "image": null,
       "ownerUserId": null,

@@ -96,7 +96,7 @@ Topics
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 11,
   "location": "topic.ts",
   "maintainers": [
     "Rjnishant530"
@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Culture Articles on grist.org - Powered by RSSHub",
+      "description": "Energy Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "108633066455945216",
+      "id": "84843151356735488",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/culture",
-      "title": "Culture - Gist Articles",
+      "siteUrl": "https://grist.org/energy",
+      "title": "Energy - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/culture"
+      "url": "rsshub://grist/topic/energy"
     }
   ],
   "url": "grist.org/articles/"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 185,
+  "heat": 183,
   "location": "book/rank.ts",
   "maintainers": [
     "xyqfer",
@@ -79,7 +79,7 @@ _None_
     {
       "description": "每周一更新 - Powered by RSSHub",
       "errorAt": "2026-05-30T10:18:06.607Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/book_fiction/items?start=0&count=10\": <no response> fetch failed\n",
       "id": "59787999536110592",
       "image": null,
       "ownerUserId": null,

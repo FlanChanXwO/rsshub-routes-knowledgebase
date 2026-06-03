@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "封面新闻作为华西都市报深度融合转型和打造新型主流媒体的载体，牢固确立移动优先战略，创新移动新闻产品，打造移动传播矩阵，封面新闻的传播力、引导力、影响力和公信力不断得到各方肯定。封面新闻突破千万的用户下载量，呈现出以四川为主阵地的全国分布态势，用户年龄构成以20-35岁为主，“亿万年轻人的生活方式”的定位初步得到体现。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T20:02:24.937Z",
+      "errorMessage": "[GET] \"https://www.thecover.cn/channel_3560\": 405 Not Allowed\n",
       "id": "61227956309027840",
       "image": null,
       "ownerUserId": null,

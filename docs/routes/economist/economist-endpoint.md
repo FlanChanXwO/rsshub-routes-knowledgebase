@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 921,
+  "heat": 920,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/28/a-coalmine-explosion-lays-bare-chinas-two-speed-economy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/05/29/the-war-room-newsletter-the-most-important-wars-forgotten-by-the-west\": 403 Forbidden\nFailed to fetch\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

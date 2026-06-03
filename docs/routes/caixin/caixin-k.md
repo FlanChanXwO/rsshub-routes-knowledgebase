@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新网 - 财新一线新闻 - Powered by RSSHub",
-      "errorAt": "2026-05-30T11:27:19.217Z",
-      "errorMessage": "[GET] \"https://k.caixin.com/app/v1/list?productIdList=8,28&uid&unit=1&name&code&deviceType&device&userTag&p=1&c=20\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41835391477202944",
       "image": null,
       "ownerUserId": null,

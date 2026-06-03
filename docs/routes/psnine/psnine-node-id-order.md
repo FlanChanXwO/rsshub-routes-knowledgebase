@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "「会免」最新讨论 - PSN中文站 - Powered by RSSHub",
-      "errorAt": "2026-06-01T02:39:57.523Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "125916510049597440",
       "image": null,
       "ownerUserId": null,
@@ -75,13 +75,13 @@ _None_
       "description": "「新闻」最新讨论 - PSN中文站 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "130453375930870784",
+      "id": "194206298407365632",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.psnine.com/node/news?ob=obdate",
       "title": "「新闻」最新讨论 - PSN中文站",
       "type": "feed",
-      "url": "rsshub://psnine/node/news"
+      "url": "rsshub://psnine/node"
     }
   ]
 }

@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 350,
+  "heat": 349,
   "location": "haowen-fenlei.ts",
   "maintainers": [
     "LogicJake"
@@ -84,7 +84,7 @@
     {
       "description": "NAS存储 - 什么值得买好文分类 - Powered by RSSHub",
       "errorAt": "2025-04-23T01:49:36.639Z",
-      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
       "id": "63960223947361280",
       "image": null,
       "ownerUserId": null,
@@ -96,7 +96,7 @@
     {
       "description": "软件应用 - 什么值得买好文分类 - Powered by RSSHub",
       "errorAt": "2025-05-17T21:30:41.594Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "62650278906211328",
       "image": null,
       "ownerUserId": null,

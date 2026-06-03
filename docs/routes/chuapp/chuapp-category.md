@@ -88,18 +88,6 @@
   ],
   "topFeeds": [
     {
-      "description": "触乐 - 触乐夜话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "144651366868700160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.chuapp.com/tag/index/id/20369.html",
-      "title": "触乐 - 触乐夜话",
-      "type": "feed",
-      "url": "rsshub://chuapp/night"
-    },
-    {
       "description": "触乐 - 每日聚焦 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -110,6 +98,18 @@
       "title": "触乐 - 每日聚焦",
       "type": "feed",
       "url": "rsshub://chuapp/daily"
+    },
+    {
+      "description": "触乐 - 触乐夜话 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "144651366868700160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.chuapp.com/tag/index/id/20369.html",
+      "title": "触乐 - 触乐夜话",
+      "type": "feed",
+      "url": "rsshub://chuapp/night"
     }
   ]
 }

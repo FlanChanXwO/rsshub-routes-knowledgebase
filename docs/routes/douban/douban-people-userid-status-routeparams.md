@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "豆瓣广播 - DIYgod - Powered by RSSHub",
-      "errorAt": "2026-05-30T12:06:23.482Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/status/user_timeline/62759792\": <no response> fetch failed\n",
+      "errorAt": "2026-06-01T16:17:32.942Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65438587764467712",
       "image": null,
       "ownerUserId": null,

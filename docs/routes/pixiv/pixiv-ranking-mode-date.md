@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7686,
+  "heat": 7684,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -127,9 +127,9 @@ _None_
   "path": "/ranking/:mode/:date?",
   "topFeeds": [
     {
-      "description": "2026年6月1日 pixiv 日排行 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:35:48.068Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41427688948323328",
+      "description": "2026年6月2日 pixiv 日排行 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41427688948323328",
       "image": null,
       "ownerUserId": null,
@@ -139,7 +139,7 @@ _None_
       "url": "rsshub://pixiv/ranking/day"
     },
     {
-      "description": "2026年6月1日 pixiv 周排行 - Powered by RSSHub",
+      "description": "2026年6月2日 pixiv 周排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41147805276726317",

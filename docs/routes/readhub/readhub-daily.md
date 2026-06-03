@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4730,
+  "heat": 4732,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 天涯社区 6 月 1 日正式恢复访问 2. MiniMax：拟于科创板上市 3. 新包装矿泉水停止销售，胖东来：系设计方面重大失误，正重新设计 4. 微软 GitHub Copilot 改计费模式后成本暴涨，引开发者吐槽 5. 软银承诺斥资 750 亿欧元在法国建设人工智能设施 6. 辉瑞与信达生物达成 105 亿美元肿瘤药战略合作 - Powered by RSSHub",
+      "description": "1. Anthropic 已秘密提交 IPO 申请 估值近万亿美元 2. 宇树科技科创板 IPO 过会 3. 英伟达宣布进军 PC 处理器市场，正面挑战苹果与英特尔 4. OpenAI 正式成立机器人团队，进军实体世界 AI 5. 英伟达 Isaac GR00T 人形机器人发布：基于宇树 H2 打造，年底推出 6. OpenAI 现场演示「无 App 手机」 7. 苹果智能眼镜推迟至 2027 年底发布，其被库克视为交棒前的首要任务 8. 豆包 6 月下旬正式付费，并加速打通抖音电商 9. Anthropic 将向欧盟提供其高级 Mythos 模型的访问权限 10. 超越丰田，软银成为日本市值最高公司 11. 字节跳动 AI Agent 平台扣子 Coze 正式上线 3.0 全新版本 12. 华为徐直军「感谢」美国制裁：使得我们国家半导体产业链能够真正地成长起来，现在势头好得很 13. 英伟达：Anthropic、OpenAI 等企业将率先采用新款 Vera 芯片 14. 古尔曼重申苹果 iOS 27 聚焦于小修小补，明年 20 周年款 iPhone 预装的 iOS 28 将更有看点 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

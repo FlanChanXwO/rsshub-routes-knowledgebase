@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "React Blog - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T22:39:44.272Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56764064675419136",
       "image": null,
       "ownerUserId": null,

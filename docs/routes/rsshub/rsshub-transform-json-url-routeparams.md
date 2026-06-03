@@ -99,28 +99,28 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/chainreactors/gogo/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:43.687Z",
+      "description": "Proxy https://api.github.com/repos/Macmod/godap/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T01:19:14.097Z",
       "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185695668595820544",
+      "id": "185695094733155328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/chainreactors/gogo/releases",
-      "title": "gogo releases",
+      "siteUrl": "https://api.github.com/repos/Macmod/godap/releases",
+      "title": "godap releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fgogo%2Freleases/title=gogo%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fgodap%2Freleases/title=godap%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
-      "errorAt": "2026-01-18T23:55:51.036Z",
+      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:51.783Z",
       "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185694005069753344",
+      "id": "185694635969967104",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
-      "title": "zed releases",
+      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
+      "title": "dbeaver releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

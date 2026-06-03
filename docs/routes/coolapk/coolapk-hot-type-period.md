@@ -67,7 +67,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 410,
+  "heat": 411,
   "location": "hot.ts",
   "maintainers": [
     "xizeyoupan"
@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "热榜-收藏榜-周榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T23:56:19.556Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61940628618176512",
       "id": "61940628618176512",
       "image": null,
       "ownerUserId": null,

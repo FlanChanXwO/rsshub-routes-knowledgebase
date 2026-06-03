@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "华东师范大学研究生调剂信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-01T14:03:19.491Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73235012638578688",
       "image": null,
       "ownerUserId": null,

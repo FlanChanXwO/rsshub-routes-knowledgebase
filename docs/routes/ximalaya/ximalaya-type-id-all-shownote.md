@@ -63,7 +63,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 61,
+  "heat": 60,
   "location": "album.ts",
   "maintainers": [
     "lengthmin",
@@ -83,7 +83,7 @@ _None_
     {
       "description": "梁文道播客《八分》每周三、周五晚8点更新，欢迎留言说出你的问题和建议。 - Powered by RSSHub",
       "errorAt": "2025-08-19T13:07:24.786Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'albumPageMainInfo')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "53322153570297860",
       "image": "https://imagev2.xmcdn.com/storages/3c93-audiofreehighqps/FB/D1/GKwRIRwHXJrWAATrWgHYPYcT.jpeg",
       "ownerUserId": null,

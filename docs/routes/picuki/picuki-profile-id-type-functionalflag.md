@@ -130,7 +130,7 @@ _None_
     {
       "description": "白银 (@baiyinn811) public posts - Picuki - Powered by RSSHub",
       "errorAt": "2024-12-09T13:19:26.547Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n[GET] \"https://www.picuki.com/profile/baiyinn811\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://www.picuki.com/profile/baiyinn811\": <no response> fetch failed\n[GET] \"https://www.picuki.com/profile/baiyinn811\": <no response> fetch failed\n",
       "id": "68562239082161152",
       "image": "https://cdn1.picuki.com/hosted-by-instagram/q/yep6IPkO1EBGZyPbcMUQzeBRjaJ4Rg1ONw==.jpeg",
       "ownerUserId": null,

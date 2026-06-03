@@ -66,16 +66,16 @@ _None_
       "url": "rsshub://npm/package/@vue/language-server"
     },
     {
-      "description": "curlconverter - npm - Powered by RSSHub",
+      "description": "typescript - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66440451159486464",
+      "id": "115376694953118720",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/curlconverter",
-      "title": "curlconverter - npm",
+      "siteUrl": "https://www.npmjs.com/package/typescript",
+      "title": "typescript - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/curlconverter"
+      "url": "rsshub://npm/package/typescript"
     }
   ]
 }

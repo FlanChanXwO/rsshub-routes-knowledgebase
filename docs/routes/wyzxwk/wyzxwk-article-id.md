@@ -126,8 +126,8 @@
     },
     {
       "description": "时代观察 - 乌有之乡网刊 - Powered by RSSHub",
-      "errorAt": "2026-04-16T05:16:06.658Z",
-      "errorMessage": "[GET] \"http://www.wyzxwk.com/Article/shidai\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77243793808392192",
       "image": null,
       "ownerUserId": null,

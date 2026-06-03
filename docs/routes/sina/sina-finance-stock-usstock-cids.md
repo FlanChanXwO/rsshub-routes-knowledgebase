@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:35:45.162Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72165621423506432",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72165621423506432",
       "image": null,
       "ownerUserId": null,

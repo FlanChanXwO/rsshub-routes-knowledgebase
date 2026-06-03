@@ -90,8 +90,8 @@
     },
     {
       "description": "虎扑社区 - 步行街热帖 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:09:07.458Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63404283121618947",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63404283121618947",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/sankei/news/flash",
-  "heat": 27,
+  "heat": 28,
   "location": "news.ts",
   "maintainers": [
     "yuikisaito"
@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、生活、健康、災害情報などの速報記事と解説記事を新着順に一覧できます。 - Powered by RSSHub",
-      "errorAt": "2026-06-01T00:53:21.958Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 157150339579158528",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "157150339579158528",
       "image": "https://www.sankei.com/common/images/ogp_default.jpg",
       "ownerUserId": null,

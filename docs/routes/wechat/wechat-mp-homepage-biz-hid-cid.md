@@ -82,7 +82,7 @@ _None_
     {
       "description": "|李厚辰·专栏 - Powered by RSSHub",
       "errorAt": "2025-08-12T08:16:13.890Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HP48G2qjPXP03hKHLDpp5N5jtN8g33iaAJ_8S0P2&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650851769%26idx%3D1%26sn%3Db27a6dbbd079f256cc71c1bd57c76ebf\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HOuXHWqja67KXfUgRsGpgmIDFPRLGU9aSn3ipSRR&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852529%26idx%3D1%26sn%3D19e0f66ad91816137a5b16d64d6969d7\n",
       "id": "58707616374334464",
       "image": null,
       "ownerUserId": null,

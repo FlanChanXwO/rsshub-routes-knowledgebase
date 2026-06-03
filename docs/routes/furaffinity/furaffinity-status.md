@@ -75,7 +75,7 @@ _None_
     {
       "description": "Fur Affinity Status - Powered by RSSHub",
       "errorAt": "2026-05-25T12:32:54.917Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/status.json\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/status.json\": 500 Internal Server Error\n",
       "id": "87385847063373824",
       "image": null,
       "ownerUserId": null,

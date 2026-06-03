@@ -1,15 +1,15 @@
-# 中华人民共和国应急管理部 - 政府新闻
+# 深圳市罗湖区人民政府 - 政府新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `中华人民共和国应急管理部`
+- Namespace Name: `深圳市罗湖区人民政府`
 - Route Path: `/gov/suzhou/news/:uid`
 - Route Name: `政府新闻`
 - Example: `/gov/suzhou/news/news`
-- URL: `www.mem.gov.cn`
+- URL: `www.szlh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt, luyuhuang`
@@ -96,18 +96,6 @@
   ],
   "topFeeds": [
     {
-      "description": "苏州市政府 - 苏州要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "105467750186756096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.suzhou.gov.cn/szsrmzf/szyw/nav_list.shtml",
-      "title": "苏州市政府 - 苏州要闻",
-      "type": "feed",
-      "url": "rsshub://gov/suzhou/news/news"
-    },
-    {
       "description": "苏州市政府 - 政务公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -118,6 +106,18 @@
       "title": "苏州市政府 - 政务公告",
       "type": "feed",
       "url": "rsshub://gov/suzhou/news/zwgg"
+    },
+    {
+      "description": "苏州市政府 - 苏州要闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "105467750186756096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.suzhou.gov.cn/szsrmzf/szyw/nav_list.shtml",
+      "title": "苏州市政府 - 苏州要闻",
+      "type": "feed",
+      "url": "rsshub://gov/suzhou/news/news"
     }
   ]
 }

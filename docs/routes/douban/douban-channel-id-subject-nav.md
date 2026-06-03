@@ -67,7 +67,7 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣美剧频道书影音下的电视剧推荐 - Powered by RSSHub",
-      "errorAt": "2026-05-30T12:46:37.916Z",
+      "errorAt": "2026-06-02T02:58:09.288Z",
       "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/elessar/channel/27622657\": <no response> fetch failed\n",
       "id": "76960076233678848",
       "image": null,

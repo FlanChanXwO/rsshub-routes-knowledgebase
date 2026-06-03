@@ -72,7 +72,7 @@ _None_
     {
       "description": "New products released by IKEA UK. - Powered by RSSHub",
       "errorAt": "2025-11-10T19:06:56.198Z",
-      "errorMessage": "[GET] \"https://sik.search.blue.cdtapps.com/gb/en/special/more-products?special=new_product&start=24&end=1193\": 400 Bad Request\n",
+      "errorMessage": "[GET] \"https://sik.search.blue.cdtapps.com/gb/en/special/more-products?special=new_product&start=24&end=1131\": 400 Bad Request\n",
       "id": "93829994856769536",
       "image": null,
       "ownerUserId": null,

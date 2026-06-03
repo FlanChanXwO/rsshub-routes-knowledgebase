@@ -244,8 +244,8 @@ _None_
   "topFeeds": [
     {
       "description": "什么值得买好价品类榜-好价品类榜-全部-3小时 - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:35:41.241Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42006425715388416",
+      "errorAt": "2026-06-01T19:54:45.326Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n403 Forbidden\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
       "id": "42006425715388416",
       "image": null,
       "ownerUserId": null,

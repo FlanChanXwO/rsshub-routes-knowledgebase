@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 929,
+  "heat": 924,
   "location": "user-collection.ts",
   "maintainers": [
     "shininome",
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-05-30T11:29:41.590Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-06-02T03:24:46.607Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=65564239&season_id=1982929&sort_reverse=true&page_num=1&page_size=25\": <no response> fetch failed\n",
       "id": "59567779750919168",
       "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-05-30T11:28:34.822Z",
-      "errorMessage": "net::ERR_SOCKET_NOT_CONNECTED at https://space.bilibili.com/1/dynamic\n[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=103118875&season_id=1982480&sort_reverse=true&page_num=1&page_size=25\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",
       "ownerUserId": null,

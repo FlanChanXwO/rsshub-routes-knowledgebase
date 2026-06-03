@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Result from 沙雕动画 bilibili search, ordered by totalrank. - Powered by RSSHub",
-      "errorAt": "2026-05-30T12:11:28.604Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB&order=totalrank&tids=0\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84117288401258496",
       "image": null,
       "ownerUserId": null,
