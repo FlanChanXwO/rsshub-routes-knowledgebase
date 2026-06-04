@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "data driven equation discovery - Powered by RSSHub",
+      "description": "hydrology - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191720715485692928",
+      "id": "175661283850079232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=data-driven%20equation%20discovery&sort=0",
-      "title": "data driven equation discovery",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=hydrology&sort=0",
+      "title": "hydrology",
       "type": "feed",
-      "url": "rsshub://papers/query/data-driven%20equation%20discovery"
+      "url": "rsshub://papers/query/hydrology"
     }
   ],
   "url": "papers.cool"

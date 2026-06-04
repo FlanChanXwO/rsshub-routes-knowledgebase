@@ -70,7 +70,7 @@ _None_
       "id": "154777115123643392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=114.74468634447899#",
+      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=415.2525006125252#",
       "title": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/41073656/66025368"
@@ -82,7 +82,7 @@ _None_
       "id": "179409436734540800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=43098323&page=292&authorid=150058&rand=310.20764265270515#",
+      "siteUrl": "https://nga.178.com/read.php?tid=43098323&page=292&authorid=150058&rand=249.20481913749637#",
       "title": "NGA -阿狼- 在 - 我必不是蛇年红包 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/43098323/150058"

@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "视频 STM32入门教程-2023版 细致讲解 中文字幕 的视频选集列表 - Powered by RSSHub",
-      "errorAt": "2026-05-30T18:27:07.400Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1th411z7sn\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61191357866744832",
       "image": null,
       "ownerUserId": null,

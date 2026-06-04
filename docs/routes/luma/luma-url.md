@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google Gemma - Powered by RSSHub",
+      "description": "Google DeepMind - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966966744675328",
+      "id": "265966953317233664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/gemma-events",
-      "title": "Google Gemma",
+      "siteUrl": "https://lu.ma/deepmind",
+      "title": "Google DeepMind",
       "type": "feed",
-      "url": "rsshub://luma/gemma-events"
+      "url": "rsshub://luma/deepmind"
     }
   ],
   "url": "lu.ma"

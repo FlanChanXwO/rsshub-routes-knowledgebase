@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5560,
+  "heat": 5559,
   "location": "tugua.ts",
   "maintainers": [
     "tgly307"

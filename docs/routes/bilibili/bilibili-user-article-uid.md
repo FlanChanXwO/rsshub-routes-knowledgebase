@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Ayb爱莹宝 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": "2026-05-30T11:27:27.681Z",
-      "errorMessage": "403 Forbidden\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/opus/feed/space?host_mid=57276677\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 205,
+  "heat": 206,
   "location": "book/latest.ts",
   "maintainers": [
     "fengkx",
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "豆瓣新书速递-小说 - Powered by RSSHub",
-      "errorAt": "2026-05-30T11:01:50.321Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/new_book_fiction/items?start=0&count=10&mode=collection&for_mobile=1\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72931562996240384",
       "image": null,
       "ownerUserId": null,

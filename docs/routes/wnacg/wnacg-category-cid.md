@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 599,
+  "heat": 598,
   "location": "category.ts",
   "maintainers": [
     "Gandum2077"
@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "漢化 < 雜誌&短篇 < 紳士漫畫-專註分享漢化本子|邪惡漫畫 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-02T11:18:57.444Z",
+      "errorMessage": "[GET] \"https://www.wnacg.com/albums-index-cate-10.html\": 403 Forbidden\n[GET] \"https://www.wnacg.com/albums-index-cate-10.html\": 403 Forbidden\n",
       "id": "42178678837350400",
       "image": null,
       "ownerUserId": null,

@@ -81,7 +81,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-03-19T02:57:38.489Z",
-      "errorMessage": "403 Forbidden\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
+      "errorMessage": "403 Forbidden\n[GET] \"https://www.zhitongcaijing.com/content/detail/1448955.html\": 503 Service Temporarily Unavailable\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
-      "errorAt": "2026-06-01T11:45:10.101Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72559122759839744",
       "image": null,
       "ownerUserId": null,

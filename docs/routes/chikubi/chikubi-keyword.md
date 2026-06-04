@@ -79,7 +79,7 @@ _None_
     },
     {
       "description": "漫畫 - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-06-01T14:01:56.056Z",
+      "errorAt": "2026-06-02T22:41:54.206Z",
       "errorMessage": "Status code 415\n",
       "id": "72575658360313856",
       "image": null,

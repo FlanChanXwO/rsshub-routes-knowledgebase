@@ -70,18 +70,6 @@ _None_
   "path": "/event/:cityCode/:showStyle?",
   "topFeeds": [
     {
-      "description": "秀动网 - 上海 - 摇滚 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "67433992246280192",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 上海 - 摇滚",
-      "type": "feed",
-      "url": "rsshub://showstart/event/21/2"
-    },
-    {
       "description": "秀动网 - 杭州 - 摇滚 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -92,6 +80,18 @@ _None_
       "title": "秀动网 - 杭州 - 摇滚",
       "type": "feed",
       "url": "rsshub://showstart/event/571/2"
+    },
+    {
+      "description": "秀动网 - 上海 - 摇滚 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67433992246280192",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.showstart.com/",
+      "title": "秀动网 - 上海 - 摇滚",
+      "type": "feed",
+      "url": "rsshub://showstart/event/21/2"
     }
   ]
 }

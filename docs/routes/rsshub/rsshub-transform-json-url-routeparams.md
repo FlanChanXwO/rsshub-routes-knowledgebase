@@ -99,28 +99,28 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/Macmod/godap/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T01:19:14.097Z",
+      "description": "Proxy https://api.github.com/repos/java-decompiler/jd-gui/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T01:24:00.572Z",
       "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185695094733155328",
+      "id": "185694472030917632",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/Macmod/godap/releases",
-      "title": "godap releases",
+      "siteUrl": "https://api.github.com/repos/java-decompiler/jd-gui/releases",
+      "title": "jd-gui releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fgodap%2Freleases/title=godap%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:51.783Z",
+      "description": "Proxy https://api.github.com/repos/zema1/suo5/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:47.422Z",
       "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185694635969967104",
+      "id": "185696056303208448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
-      "title": "dbeaver releases",
+      "siteUrl": "https://api.github.com/repos/zema1/suo5/releases",
+      "title": "suo5 releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzema1%2Fsuo5%2Freleases/title=suo5%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

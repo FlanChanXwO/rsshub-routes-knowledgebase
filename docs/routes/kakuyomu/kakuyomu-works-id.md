@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "規格外エセお嬢様の現代ダンジョン無双バズ！【書籍５巻発売中ですの！】 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-02T09:02:55.416Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "125229131096233984",
       "image": null,
       "ownerUserId": null,

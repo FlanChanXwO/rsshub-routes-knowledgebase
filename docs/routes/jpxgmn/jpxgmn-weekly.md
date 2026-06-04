@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 4335,
+  "heat": 4333,
   "location": "weekly.ts",
   "maintainers": [
     "Urabartin"

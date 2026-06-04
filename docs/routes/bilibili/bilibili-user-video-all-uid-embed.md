@@ -62,7 +62,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-02-20T14:10:00.367Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://api.bilibili.com/x/space/wbi/arc/search?mid=520819684&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&dm_img_list=[{\\\"x\\\":6290,\\\"y\\\":-1442,\\\"z\\\":0,\\\"timestamp\\\":36,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2&w_rid=9895df7ad0d4b51b5099d3ef08593980&wts=1780264368\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "每周一更新 - Powered by RSSHub",
-      "errorAt": "2026-05-30T10:18:06.607Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/book_fiction/items?start=0&count=10\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59787999536110592",
       "image": null,
       "ownerUserId": null,

@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "财新网 - 提供财经新闻及资讯服务 - Powered by RSSHub",
-      "errorAt": "2026-06-01T18:36:47.288Z",
-      "errorMessage": "[GET] \"https://finance.caixin.com/regulation\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60143536924270599",
       "image": null,
       "ownerUserId": null,

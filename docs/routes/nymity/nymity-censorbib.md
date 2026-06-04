@@ -38,7 +38,7 @@ _None_
     "journal"
   ],
   "example": "/nymity/censorbib",
-  "heat": 1,
+  "heat": 0,
   "location": "censorbib.ts",
   "maintainers": [
     "xtexChooser"
@@ -52,20 +52,7 @@ _None_
       ]
     }
   ],
-  "topFeeds": [
-    {
-      "description": "CensorBib Updates - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "171752618141782016",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://censorbib.nymity.ch/",
-      "title": "CensorBib",
-      "type": "feed",
-      "url": "rsshub://nymity/censorbib"
-    }
-  ],
+  "topFeeds": [],
   "url": "censorbib.nymity.ch/"
 }
 ```

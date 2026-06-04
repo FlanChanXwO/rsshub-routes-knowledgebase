@@ -38,7 +38,7 @@ _None_
     "program-update"
   ],
   "example": "/npm/package/rsshub",
-  "heat": 10,
+  "heat": 11,
   "location": "package.tsx",
   "maintainers": [
     "Fatpandac"
@@ -54,28 +54,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "@vue/language-server - npm - Powered by RSSHub",
+      "description": "homebridge - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175923362558744576",
+      "id": "92451824997987328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/@vue/language-server",
-      "title": "@vue/language-server - npm",
+      "siteUrl": "https://www.npmjs.com/package/homebridge",
+      "title": "homebridge - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/@vue/language-server"
+      "url": "rsshub://npm/package/homebridge"
     },
     {
-      "description": "typescript - npm - Powered by RSSHub",
+      "description": "homebridge-miot - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "115376694953118720",
+      "id": "92451467824140288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/typescript",
-      "title": "typescript - npm",
+      "siteUrl": "https://www.npmjs.com/package/homebridge-miot",
+      "title": "homebridge-miot - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/typescript"
+      "url": "rsshub://npm/package/homebridge-miot"
     }
   ]
 }

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "switch游戏下载-免费switch游戏下载-ns游戏资源下载 - 游戏星辰 - Powered by RSSHub",
-      "errorAt": "2026-05-31T13:46:51.355Z",
-      "errorMessage": "[GET] \"https://www.2023game.com/sgame/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75155926100067328",
       "image": "https://www.2023game.com/resources/img/logo.png",
       "ownerUserId": null,

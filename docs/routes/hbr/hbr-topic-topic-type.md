@@ -60,7 +60,7 @@ Click here to view [All Topics](https://hbr.org/topics)
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 78,
+  "heat": 76,
   "location": "topic.ts",
   "maintainers": [
     "nczitzk",
@@ -101,7 +101,7 @@ Click here to view [All Topics](https://hbr.org/topics)
     {
       "description": "Leadership - HBR - Popular - Powered by RSSHub",
       "errorAt": "2025-03-06T20:21:02.722Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "87319836309791744",
       "image": null,
       "ownerUserId": null,
@@ -113,7 +113,7 @@ Click here to view [All Topics](https://hbr.org/topics)
     {
       "description": "Leadership - HBR - Popular - Powered by RSSHub",
       "errorAt": "2025-03-06T17:56:40.711Z",
-      "errorMessage": "[GET] \"https://hbr.org/topic/Leadership\": 504 Gateway Time-out\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41359648684677137",
       "image": null,
       "ownerUserId": null,

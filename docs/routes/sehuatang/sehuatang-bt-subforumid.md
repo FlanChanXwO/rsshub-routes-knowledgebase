@@ -49,7 +49,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 300,
+  "heat": 299,
   "location": "index.ts",
   "maintainers": [
     "qiwihui",
@@ -68,7 +68,7 @@ _None_
     {
       "description": "色花堂 - 高清中文字幕 - Powered by RSSHub",
       "errorAt": "2026-02-13T10:55:26.330Z",
-      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n",
       "id": "65327819580054528",
       "image": null,
       "ownerUserId": null,

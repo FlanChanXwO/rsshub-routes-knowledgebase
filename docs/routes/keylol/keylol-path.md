@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 103,
+  "heat": 104,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -94,8 +94,8 @@
     },
     {
       "description": "购物心得 ,其乐 Keylol - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T01:12:45.955Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "77664835339807744",
       "image": null,
       "ownerUserId": null,

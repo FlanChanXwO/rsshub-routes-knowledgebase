@@ -82,16 +82,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP manipulation RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "231673359707123712",
+      "description": "DBLP grasp RSS - Powered by RSSHub",
+      "errorAt": "2026-06-03T03:17:48.528Z",
+      "errorMessage": "[GET] \"https://dblp.org/search/publ/api?q=grasp&format=json&h=10\": 500 Internal Server Error\n",
+      "id": "179692167689031680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=manipulation",
-      "title": "【dblp】manipulation",
+      "siteUrl": "https://dblp.org/search?q=grasp",
+      "title": "【dblp】grasp",
       "type": "feed",
-      "url": "rsshub://dblp/manipulation"
+      "url": "rsshub://dblp/grasp"
     }
   ]
 }

@@ -81,7 +81,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "207531896770078720",
-      "image": "https://cognition.ai/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_8yZR7MHEEizcyKWkwQCFnojaoYdk",
+      "image": "https://cognition.ai/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_3DPatsJ6cY5Uv48FNoRCrqHbtYHK",
       "ownerUserId": null,
       "siteUrl": "https://cognition.ai/blog/1",
       "title": "Blog | Cognition",

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2212,
+  "heat": 2211,
   "location": "zhengce/index.ts",
   "maintainers": [
     "SettingDust",

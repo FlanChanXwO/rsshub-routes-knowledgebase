@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 影视  | 音乐  | 游戏 | 动漫  | 趣闻  | 科学    | 软件 |\n| ----- | ----- | ---- | ----- | ----- | ------- | ---- |\n| movie | music | game | comic | funny | science | soft |",
   "example": "/cnbeta/category/movie",
-  "heat": 67,
+  "heat": 66,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T02:48:46.375Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61806357094007808",
       "id": "61806357094007808",
       "image": null,
       "ownerUserId": null,

@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-02T00:03:33.113Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 86770785762500608",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86770785762500608",
       "image": null,
       "ownerUserId": null,

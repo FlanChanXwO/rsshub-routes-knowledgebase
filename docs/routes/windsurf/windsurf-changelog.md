@@ -71,14 +71,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Latest updates and changes for the Windsurf Editor. - Powered by RSSHub",
+      "description": "Release notes for Devin Desktop (Windsurf). - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "159056464110272512",
-      "image": "https://exafunction.github.io/public/images/website_thumbnails/changelog.jpg",
+      "image": "https://cognitionai.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DReleases%26title%3DChangelog%26description%3DRelease%2Bnotes%2Bfor%2BDevin%2BDesktop%2B%2528Windsurf%2529.%26logoLight%3Dhttps%253A%252F%252Fmintcdn.com%252Fcognitionai%252Fk89q9Lsp7DOurdC0%252Flogo%252Fdevin.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk89q9Lsp7DOurdC0%2526q%253D85%2526s%253De83fbc727ea2cae8f1b80442fa772c50%26logoDark%3Dhttps%253A%252F%252Fmintcdn.com%252Fcognitionai%252Fk89q9Lsp7DOurdC0%252Flogo%252Fdevin.png%253Ffit%253Dmax%2526auto%253Dformat%2526n%253Dk89q9Lsp7DOurdC0%2526q%253D85%2526s%253De83fbc727ea2cae8f1b80442fa772c50%26primaryColor%3D%2523317CFF%26lightColor%3D%2523317CFF%26darkColor%3D%2523317CFF%26backgroundLight%3D%2523FCFCFC%26backgroundDark%3D%2523141414&w=1200&q=100",
       "ownerUserId": null,
       "siteUrl": "https://windsurf.com/changelog",
-      "title": "Discord",
+      "title": "Changelog - Devin Docs",
       "type": "feed",
       "url": "rsshub://windsurf/changelog"
     }

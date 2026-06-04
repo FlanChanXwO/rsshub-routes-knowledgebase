@@ -133,7 +133,7 @@ _None_
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
       "errorAt": "2026-05-29T02:12:57.724Z",
-      "errorMessage": "-352\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&web_location=333.934\": <no response> fetch failed\n",
+      "errorMessage": "-352\n-352\n",
       "id": "79067786101345280",
       "image": null,
       "ownerUserId": null,
@@ -145,7 +145,7 @@ _None_
     {
       "description": "bilibili 排行榜-舞蹈 - Powered by RSSHub",
       "errorAt": "2025-12-23T16:01:16.653Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=7&type=all&web_location=333.934\": <no response> fetch failed\n",
+      "errorMessage": "请求错误\n",
       "id": "78833272579505152",
       "image": null,
       "ownerUserId": null,

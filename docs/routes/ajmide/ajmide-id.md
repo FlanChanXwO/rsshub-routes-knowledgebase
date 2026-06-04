@@ -61,14 +61,14 @@ _None_
   "path": "/:id",
   "topFeeds": [
     {
-      "description": "全球华语广播歌曲 - Powered by RSSHub",
+      "description": "全球华语音乐排行榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "75392155030438912",
       "image": "https://img-ossimg-qn.ajmide.com/program/1IMu3m.png",
       "ownerUserId": null,
       "siteUrl": "https://m.ajmide.com/m/brand?id=10602753",
-      "title": "全球华语广播歌曲",
+      "title": "全球华语音乐排行榜",
       "type": "feed",
       "url": "rsshub://ajmide/10602753"
     },

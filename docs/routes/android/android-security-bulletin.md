@@ -76,7 +76,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "156000891791099904",
-      "image": "https://www.gstatic.com/devrel-devsite/prod/v6ae673272608590539f8a06b3f3271c0f5688cde07499d1c9e644aeb66c8c060/androidsource/images/touchicon-180.png",
+      "image": "https://www.gstatic.com/devrel-devsite/prod/v5b93ab110c02dc91cc5b79fb160a3c37758bb2dfb04b22b9173ffe5646621934/androidsource/images/touchicon-180.png",
       "ownerUserId": null,
       "siteUrl": "https://source.android.com/docs/security/bulletin/asb-overview",
       "title": "Android Security Bulletins | Android Open Source Project",

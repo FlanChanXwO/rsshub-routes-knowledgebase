@@ -41,7 +41,7 @@ _None_
   "features": {
     "supportScihub": true
   },
-  "heat": 55,
+  "heat": 57,
   "location": "all.ts",
   "maintainers": [
     "5upernova-heng"

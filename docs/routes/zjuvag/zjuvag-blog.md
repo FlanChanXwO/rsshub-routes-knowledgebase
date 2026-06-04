@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 63,
+  "heat": 62,
   "location": "blog.ts",
   "maintainers": [
     "KaiyoungYu"
@@ -61,7 +61,7 @@ _None_
     {
       "description": "浙江大学可视分析小组博客 - Powered by RSSHub",
       "errorAt": "2025-05-20T17:01:20.315Z",
-      "errorMessage": "[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n403 Forbidden\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n403 Forbidden\nFailed to fetch\n",
       "id": "41774679266456588",
       "image": null,
       "ownerUserId": null,

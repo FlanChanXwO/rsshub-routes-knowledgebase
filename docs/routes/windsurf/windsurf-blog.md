@@ -71,14 +71,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Learn more about what we're building, how it can help you, and the latest cutting edge generative AI topics. - Powered by RSSHub",
+      "description": "Read about the latest Devin announcements, product updates, and research from Cognition. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "163514255527168000",
-      "image": "https://exafunction.github.io/public/images/website_thumbnails/home.jpg",
+      "image": "https://devin.ai/cover.png",
       "ownerUserId": null,
       "siteUrl": "https://windsurf.com/blog",
-      "title": "Discord",
+      "title": "Blog | Devin",
       "type": "feed",
       "url": "rsshub://windsurf/blog"
     }

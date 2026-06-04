@@ -3,11 +3,11 @@
 This branch is generated automatically from RSSHub official route metadata.
 
 ## Summary
-- Generated At: `2026-06-03T08:30:33+00:00`
+- Generated At: `2026-06-04T08:02:24+00:00`
 - Source Repo: `https://github.com/DIYgod/RSSHub`
-- Source Revision: `5eb4e3701d88cf31420a50fcd1dbf26ed6448408`
-- Namespaces: `1590`
-- Route Documents: `3214`
+- Source Revision: `42e99cb1c5ddf08563c8836cdf30fe9b69964b08`
+- Namespaces: `1591`
+- Route Documents: `3215`
 - Categories: `25`
 
 ## Files

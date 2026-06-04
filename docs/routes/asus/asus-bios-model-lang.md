@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 6,
   "location": "bios.tsx",
   "maintainers": [
     "Fatpandac"
@@ -105,7 +105,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "84439902528045056",
-      "image": "https://dlcdnwebimgs.asus.com/gain/90DC1EAA-393C-49B0-A7F0-10870C086D86/w185",
+      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
       "ownerUserId": null,
       "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
       "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
@@ -113,16 +113,16 @@ _None_
       "url": "rsshub://asus/bios/GA605WV"
     },
     {
-      "description": "ASUS TUF Gaming A14 (2024) BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "190738676600295424",
-      "image": "https://dlcdnwebimgs.asus.com/gain/8ef79421-e9c6-4c8b-8529-0e0dc2a09952/w185",
+      "description": "ROG STRIX B560-A GAMING WIFI BIOS - Powered by RSSHub",
+      "errorAt": "2025-03-18T06:24:28.802Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'Obj')\n",
+      "id": "73279691433742336",
+      "image": "https://dlcdnwebimgs.asus.com.cn/gain/2E6CCF1B-9A03-43B9-A991-CDE4A9704E00/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-A14-2024/",
-      "title": "ASUS TUF Gaming A14 (2024) BIOS",
+      "siteUrl": "https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b560-a-gaming-wifi-model/",
+      "title": "ROG STRIX B560-A GAMING WIFI BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/FA401WV"
+      "url": "rsshub://asus/bios/rog-strix-b560-i-gaming-wifi-model/zh"
     }
   ],
   "url": "www.asus.com"

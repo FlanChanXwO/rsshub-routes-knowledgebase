@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣最新增加的音乐 - Powered by RSSHub",
-      "errorAt": "2026-05-30T17:01:54.643Z",
-      "errorMessage": "[GET] \"https://music.douban.com/latest\": <no response> fetch failed\n",
+      "errorAt": "2026-06-03T00:12:18.648Z",
+      "errorMessage": "[GET] \"https://music.douban.com/latest\": 403 Forbidden\n",
       "id": "155012285947975680",
       "image": null,
       "ownerUserId": null,

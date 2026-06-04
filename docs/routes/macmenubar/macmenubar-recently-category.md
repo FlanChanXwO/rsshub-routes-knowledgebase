@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
-      "errorAt": "2026-06-01T20:17:11.906Z",
-      "errorMessage": "[GET] \"https://macmenubar.com/wp-json/wp/v2/posts?per_page=100\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56446382044379136",
       "image": null,
       "ownerUserId": null,

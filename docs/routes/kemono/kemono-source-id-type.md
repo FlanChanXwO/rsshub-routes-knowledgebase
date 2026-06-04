@@ -137,8 +137,8 @@ Support for announcements and fancards:
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",
-      "errorAt": "2026-06-02T02:49:40.198Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59871541870611456",
       "image": "https://kemono.cr/favicon.ico",
       "ownerUserId": null,

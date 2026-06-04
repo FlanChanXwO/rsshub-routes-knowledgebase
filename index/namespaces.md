@@ -1802,6 +1802,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/chlinlearn.md`
 
+## Henan Museum
+- Namespace: `chnmus`
+- Aliases: `chnmus, chnmus.net, henan museum, www, www.chnmus.net`
+- Route Count: `1`
+- Index File: `index/chnmus.md`
+
 ## National Museum Of China
 - Namespace: `chnmuseum`
 - Aliases: `chnmuseum, chnmuseum.cn, national museum of china, www, www.chnmuseum.cn`

@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "豆瓣同城-热门活动-108296 - Powered by RSSHub",
-      "errorAt": "2026-05-30T16:46:46.533Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/event_hot/items?os=ios&for_mobile=1&callback=&start=0&count=20&loc_id=108296\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72575419585855536",
       "image": null,
       "ownerUserId": null,

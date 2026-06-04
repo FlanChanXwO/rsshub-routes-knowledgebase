@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "Result from 思源笔记 bilibili search, ordered by pubdate. - Powered by RSSHub",
-      "errorAt": "2026-05-30T15:01:40.582Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0&order=pubdate&tids=0\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66120396417817600",
       "image": null,
       "ownerUserId": null,

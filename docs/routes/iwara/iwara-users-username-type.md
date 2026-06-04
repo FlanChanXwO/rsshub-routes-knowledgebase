@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "inwerwm's iwara - Videos - Powered by RSSHub",
-      "errorAt": "2026-06-01T22:43:07.594Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60202923086415887",
       "image": null,
       "ownerUserId": null,
