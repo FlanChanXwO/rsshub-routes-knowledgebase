@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Auction your items off in style! - Powered by RSSHub",
+      "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583999678704640",
+      "id": "120303120316993536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/U3Q9GAst",
-      "title": "CrazyAuctions Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/complementary-unbound",
+      "title": "Complementary Shaders - Unbound Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/U3Q9GAst/versions"
+      "url": "rsshub://modrinth/project/complementary-unbound/versions"
     }
   ]
 }

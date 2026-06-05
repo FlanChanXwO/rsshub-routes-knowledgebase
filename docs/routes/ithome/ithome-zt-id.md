@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "最新最全的「喜加一」游戏动态尽在这里！ - Powered by RSSHub",
-      "errorAt": "2026-06-02T14:29:49.678Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65331190227109888",
       "image": "https://www.ithome.com/undefined",
       "ownerUserId": null,

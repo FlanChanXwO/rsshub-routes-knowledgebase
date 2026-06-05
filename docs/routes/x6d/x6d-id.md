@@ -97,8 +97,8 @@ _None_
     },
     {
       "description": "爱网络，爱这里。网络人的烟火，熬不尽的网络江湖。专注活动，软件，教程分享！总之就是网络那些事。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T01:43:46.135Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71601405221191684",
       "image": "https://xd.x6d.com/static/images/logo.png",
       "ownerUserId": null,

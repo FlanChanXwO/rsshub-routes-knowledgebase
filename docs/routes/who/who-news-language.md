@@ -78,8 +78,8 @@ Language
   "topFeeds": [
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T02:23:05.954Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "80542799527249920",
       "image": null,
       "ownerUserId": null,
@@ -90,15 +90,15 @@ Language
     },
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59442632641000448",
+      "errorAt": "2026-06-03T23:18:08.662Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "62422466958723072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.who.int/news",
+      "siteUrl": "https://www.who.int/zh/news",
       "title": "News - WHO",
       "type": "feed",
-      "url": "rsshub://who/news/en"
+      "url": "rsshub://who/news/zh"
     }
   ],
   "url": "who.int/news"

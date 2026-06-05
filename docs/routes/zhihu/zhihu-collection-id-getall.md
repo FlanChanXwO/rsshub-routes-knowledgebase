@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 153,
+  "heat": 150,
   "location": "collection.ts",
   "maintainers": [
     "huruji",

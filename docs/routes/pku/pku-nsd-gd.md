@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "观点 - 北京大学国家发展研究院 - Powered by RSSHub",
-      "errorAt": "2026-06-02T20:17:32.282Z",
-      "errorMessage": "wechat-mp: unknown page, probably due to WAF: 林毅夫：新结构经济学自主知识体系的构建及对青年学者...: https://mp.weixin.qq.com/s/tkGvXcWBreKYlvq91KM1cA\nConsider raise an issue (mentioning @Rongronggg9) with the article URL for further investigation\n[GET] \"https://nsd.pku.edu.cn/sylm/gd/\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62140885913688088",
       "image": null,
       "ownerUserId": null,

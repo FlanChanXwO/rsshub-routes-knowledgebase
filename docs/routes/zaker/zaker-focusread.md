@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "ZAKER 精读新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T03:18:56.580Z",
+      "errorMessage": "Failed to fetch\n403 Forbidden\n502 Bad Gateway\ncheerio.load() expects a string\n",
       "id": "54945423974379534",
       "image": null,
       "ownerUserId": null,

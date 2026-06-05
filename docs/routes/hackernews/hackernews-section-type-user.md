@@ -56,7 +56,7 @@ Subscribe to the content of a specific user
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6637,
+  "heat": 6639,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -98,8 +98,8 @@ Subscribe to the content of a specific user
     },
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": "2026-06-03T02:49:25.168Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61780263784145920",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61780263784145920",
       "image": null,
       "ownerUserId": null,

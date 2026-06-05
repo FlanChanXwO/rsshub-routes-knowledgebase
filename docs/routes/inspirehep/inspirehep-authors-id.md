@@ -57,18 +57,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Lu Meng - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "88305313696693248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/authors/1692520",
-      "title": "Lu Meng - INSPIRE",
-      "type": "feed",
-      "url": "rsshub://inspirehep/authors/1692520"
-    },
-    {
       "description": "Harjot Kaur - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -79,6 +67,18 @@ _None_
       "title": "Harjot Kaur - INSPIRE",
       "type": "feed",
       "url": "rsshub://inspirehep/authors/1696909"
+    },
+    {
+      "description": "Lu Meng - INSPIRE - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "88305313696693248",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://inspirehep.net/authors/1692520",
+      "title": "Lu Meng - INSPIRE",
+      "type": "feed",
+      "url": "rsshub://inspirehep/authors/1692520"
     }
   ]
 }

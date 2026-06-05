@@ -62,7 +62,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 502,
+  "heat": 501,
   "location": "index.ts",
   "maintainers": [
     "falling",
@@ -84,7 +84,7 @@
     {
       "description": "分享快乐，如此简单 ! BT之家单版社区平台，提供全网最快 最新 最全 高清 电影、动漫、韩剧、日剧、美剧、无损音乐、小说等BT/网盘下载以及资讯！影视爱好者的聚集地的~BT电影天堂之家，BT之家官网：1lOU.ME，BT之家BTBTT，BT之家BTBBT， BTHome，BTHouse - Powered by RSSHub",
       "errorAt": "2026-04-03T15:31:49.462Z",
-      "errorMessage": "[GET] \"https://www.1lou.me/forum-1.htm?format=json\": 403 Forbidden\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": 403 Forbidden\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n",
       "id": "62495339293222913",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,

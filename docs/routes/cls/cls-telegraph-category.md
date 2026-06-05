@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1450,
+  "heat": 1451,
   "location": "telegraph.tsx",
   "maintainers": [
     "nczitzk"
@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "财联社 - 电报 - Powered by RSSHub",
-      "errorAt": "2026-05-28T15:17:27.514Z",
-      "errorMessage": "[GET] \"https://www.cls.cn/nodeapi/updateTelegraphList?appName=CailianpressWeb&category=&hasFirstVipArticle=1&os=web&sv=7.7.5&sign=a238a5f06453a6fe1e3c33e8f835c19e\": 404 Not Found\n[GET] \"https://www.cls.cn/nodeapi/updateTelegraphList?appName=CailianpressWeb&category=&hasFirstVipArticle=1&os=web&sv=7.7.5&sign=a238a5f06453a6fe1e3c33e8f835c19e\": 404 Not Found\n[GET] \"https://www.cls.cn/nodeapi/updateTelegraphList?appName=CailianpressWeb&category=&hasFirstVipArticle=1&os=web&sv=7.7.5&sign=a238a5f06453a6fe1e3c33e8f835c19e\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53366652701156363",
       "image": null,
       "ownerUserId": null,

@@ -8,7 +8,7 @@
 - Namespace Name: `AP News`
 - Route Path: `/apnews/mobile/:path{.+}?`
 - Route Name: `News (from mobile client API)`
-- Example: `/apnews/mobile/ap-top-news`
+- Example: `/apnews/mobile`
 - URL: `apnews.com`
 - Language: `_None_`
 - Categories: `traditional-media`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `path`: {"default": "ap-top-news", "description": "Corresponding path from AP News website"}
+- `path`: {"default": "/", "description": "Corresponding path from AP News website"}
 
 
 ## Features
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "traditional-media"
   ],
-  "example": "/apnews/mobile/ap-top-news",
+  "example": "/apnews/mobile",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -59,7 +59,7 @@ _None_
   "name": "News (from mobile client API)",
   "parameters": {
     "path": {
-      "default": "ap-top-news",
+      "default": "/",
       "description": "Corresponding path from AP News website"
     }
   },

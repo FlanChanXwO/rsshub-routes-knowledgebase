@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5463,
+  "heat": 5460,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -141,8 +141,8 @@ _None_
     },
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T19:48:38.427Z",
+      "errorMessage": "Command timed out",
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,

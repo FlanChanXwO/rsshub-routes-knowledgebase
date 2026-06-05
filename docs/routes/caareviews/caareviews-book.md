@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Book Reviews - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:51:23.754Z",
-      "errorMessage": "[GET] \"http://www.caareviews.org/reviews/book\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54822609193475092",
       "image": null,
       "ownerUserId": null,

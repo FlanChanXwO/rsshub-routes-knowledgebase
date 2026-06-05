@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "DBLP grasp RSS - Powered by RSSHub",
-      "errorAt": "2026-06-03T03:17:48.528Z",
-      "errorMessage": "[GET] \"https://dblp.org/search/publ/api?q=grasp&format=json&h=10\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "179692167689031680",
       "image": null,
       "ownerUserId": null,

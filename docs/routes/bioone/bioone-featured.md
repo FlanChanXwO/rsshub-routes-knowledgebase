@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Featured articles - BioOne - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T14:27:19.055Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56553335105003520",
       "image": null,
       "ownerUserId": null,

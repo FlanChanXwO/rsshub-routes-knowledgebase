@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 崩坏星穹铁道 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "144943828575256576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=288909600",
+      "title": "米游社 - 崩坏星穹铁道 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/288909600"
     },
     {
-      "description": "米游社 - 初始镜像OriginMirror 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 小新sama 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198686272342260736",
+      "id": "198688595211734016",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=159117584",
-      "title": "米游社 - 初始镜像OriginMirror 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76062032",
+      "title": "米游社 - 小新sama 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/159117584"
+      "url": "rsshub://mihoyo/bbs/user-post/76062032"
     }
   ]
 }

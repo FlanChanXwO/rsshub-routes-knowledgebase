@@ -71,7 +71,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 34728,
+  "heat": 34700,
   "location": "research.ts",
   "maintainers": [
     "y9c",

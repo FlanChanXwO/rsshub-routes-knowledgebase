@@ -58,7 +58,7 @@ _None_
     {
       "description": "后续 - 专栏 - Powered by RSSHub",
       "errorAt": "2025-12-22T09:59:52.300Z",
-      "errorMessage": "[GET] \"https://houxu.app/api/1/events?limit=50\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "66319032172271616",
       "image": null,
       "ownerUserId": null,

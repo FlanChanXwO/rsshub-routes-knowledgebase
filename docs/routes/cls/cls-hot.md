@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 496,
+  "heat": 497,
   "location": "hot.ts",
   "maintainers": [
     "5upernova-heng",
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "财联社 - 热门文章排行榜 - Powered by RSSHub",
-      "errorAt": "2026-05-28T09:48:08.946Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53366652701156362",
       "image": null,
       "ownerUserId": null,

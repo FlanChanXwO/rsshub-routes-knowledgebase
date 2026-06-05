@@ -227,8 +227,8 @@
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",
-      "errorAt": "2026-06-02T23:38:21.568Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "172677342256609280",
       "image": "/_upload/tpl/03/b7/951/template951/images/logo.svg",
       "ownerUserId": null,

@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T22:37:20.601Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,

@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 237,
+  "heat": 118,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -75,18 +75,6 @@ _None_
   "path": "/category_url/:url?/:language?/:img?",
   "topFeeds": [
     {
-      "description": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "149468002441700352",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/video",
-      "title": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube",
-      "type": "feed",
-      "url": "rsshub://pornhub/category_url"
-    },
-    {
       "description": "Anal Creampie: Free Teen Creampies Videos | Pornhub - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "Anal Creampie: Free Teen Creampies Videos | Pornhub",
       "type": "feed",
       "url": "rsshub://pornhub/category_url/video%3Fc%3D15%26o%3Dmv%26t%3Dw%26cc%3Djp"
+    },
+    {
+      "description": "Gay Asian Cocks In Hot Free Porn Videos And Sex Clips | Pornhub - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "184894860867500032",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pornhub.com/gay/video?c=48",
+      "title": "Gay Asian Cocks In Hot Free Porn Videos And Sex Clips | Pornhub",
+      "type": "feed",
+      "url": "rsshub://pornhub/category_url/gay%2Fvideo%3Fc%3D48"
     }
   ]
 }

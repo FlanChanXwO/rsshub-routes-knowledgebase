@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/rsshub/routes/en",
-  "heat": 4507,
+  "heat": 4506,
   "location": "routes.ts",
   "maintainers": [
     "DIYgod"

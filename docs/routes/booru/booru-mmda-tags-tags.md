@@ -61,7 +61,7 @@ For example:
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 16,
   "location": "mmda.ts",
   "maintainers": [
     "N78Wy"
@@ -81,8 +81,8 @@ For example:
   "topFeeds": [
     {
       "description": " - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T14:28:56.757Z",
+      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list\": 403 Forbidden\n",
       "id": "63500086553914368",
       "image": null,
       "ownerUserId": null,

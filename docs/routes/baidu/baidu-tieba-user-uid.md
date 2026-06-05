@@ -63,28 +63,28 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "K盘音 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-16T04:13:10.675Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
-      "id": "197372964709496832",
+      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-18T07:31:14.501Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
+      "id": "197374238844610560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
-      "title": "K盘音 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
+      "title": "双鱼座73 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/TheKickInside"
+      "url": "rsshub://baidu/tieba/user/18p2pmimi"
     },
     {
-      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:17:33.906Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=米利阿鲁德\": 403 Forbidden\n",
-      "id": "86266828598569984",
+      "description": "狼獾赝月 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-02T19:26:02.118Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=狼獾赝月\": 403 Forbidden\n",
+      "id": "102690853823372288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
-      "title": "米利阿鲁德 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88",
+      "title": "狼獾赝月 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
+      "url": "rsshub://baidu/tieba/user/%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88"
     }
   ]
 }

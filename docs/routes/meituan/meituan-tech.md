@@ -53,7 +53,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1002,
+  "heat": 1001,
   "location": "tech.ts",
   "maintainers": [
     "ktKongTong",
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "美团技术团队最近更新内容。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-03T10:18:34.498Z",
+      "errorMessage": "Unexpected close tag\nLine: 65\nColumn: 9\nChar: >\nUnexpected close tag\nLine: 65\nColumn: 9\nChar: >\nFeed not recognized as RSS 1 or 2.\nAuthentication failed. Access denied.\n/meituan/tech\nFeed not recognized as RSS 1 or 2.\nUnexpected close tag\nLine: 65\nColumn: 9\nChar: >\n",
       "id": "41467081627747351",
       "image": null,
       "ownerUserId": null,

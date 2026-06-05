@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 180545,
+  "heat": 180538,
   "location": "video.ts",
   "maintainers": [
     "DIYgod",
@@ -89,14 +89,14 @@ _None_
       "url": "rsshub://bilibili/user/video/946974"
     },
     {
-      "description": "的 bilibili 空间 - Powered by RSSHub",
+      "description": "技术爬爬虾 的 bilibili 空间 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "58463916731079680",
-      "image": "",
+      "image": "https://i0.hdslb.com/bfs/face/333b1b477f1ac1b40091b70afcfd4444e646a7d3.jpg",
       "ownerUserId": null,
       "siteUrl": "https://space.bilibili.com/316183842",
-      "title": "的 bilibili 空间",
+      "title": "技术爬爬虾 的 bilibili 空间",
       "type": "feed",
       "url": "rsshub://bilibili/user/video/316183842"
     }

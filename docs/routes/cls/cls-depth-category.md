@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3562,
+  "heat": 3565,
   "location": "depth.ts",
   "maintainers": [
     "nczitzk"
@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-05-28T09:48:07.461Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55126637721518105",
       "image": null,
       "ownerUserId": null,
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-05-28T08:53:09.720Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\nCannot read properties of undefined (reading 'detail')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84970828729518080",
       "image": null,
       "ownerUserId": null,

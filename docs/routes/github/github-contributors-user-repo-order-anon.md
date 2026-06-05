@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://github/contributors/limbopro/Adblock4limbo"
     },
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
+      "description": "New contributors for yonggekkk/Cloudflare_vless_trojan - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83173808754165760",
+      "id": "88072707051804672",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
+      "siteUrl": "https://github.com/yonggekkk/Cloudflare_vless_trojan/graphs/contributors",
+      "title": "yonggekkk/Cloudflare_vless_trojan Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
+      "url": "rsshub://github/contributors/yonggekkk/Cloudflare_vless_trojan"
     }
   ]
 }

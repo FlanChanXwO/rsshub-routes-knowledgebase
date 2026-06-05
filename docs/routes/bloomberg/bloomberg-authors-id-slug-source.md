@@ -81,7 +81,7 @@ _None_
     {
       "description": "Bloomberg - matthew-s-levine - Powered by RSSHub",
       "errorAt": "2025-02-04T02:35:57.482Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=ARbTQlRLRjE/matthew-s-levine&authorType=default&page=1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=ARbTQlRLRjE/matthew-s-levine&authorType=default&page=1\": 404 Not Found\n",
       "id": "54713301214977024",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@ _None_
     {
       "description": "Bloomberg - mark-gurman - Powered by RSSHub",
       "errorAt": "2025-02-04T03:11:54.228Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 403 Forbidden\n[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 403 Forbidden\n[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 403 Forbidden\n",
       "id": "69567457875551232",
       "image": null,
       "ownerUserId": null,

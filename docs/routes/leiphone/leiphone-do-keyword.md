@@ -38,7 +38,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "heat": 27,
+  "heat": 26,
   "location": "index.ts",
   "maintainers": [],
   "name": "Unknown",
