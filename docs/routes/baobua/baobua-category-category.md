@@ -74,7 +74,7 @@ _None_
     {
       "description": "BaoBua - Category: xiuren - Powered by RSSHub",
       "errorAt": "2025-09-16T08:27:34.576Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nFailed to fetch\n",
       "id": "146189302661421056",
       "image": null,
       "ownerUserId": null,
@@ -86,7 +86,7 @@ _None_
     {
       "description": "BaoBua - Category: network - Powered by RSSHub",
       "errorAt": "2025-09-16T09:16:48.457Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Unexpected end of JSON input\n",
       "id": "131254379451723776",
       "image": null,
       "ownerUserId": null,

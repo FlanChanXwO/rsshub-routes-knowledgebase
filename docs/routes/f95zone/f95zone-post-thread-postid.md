@@ -79,28 +79,28 @@ _None_
   "radar": [],
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "242895914631755776",
+      "id": "250523390007444480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830",
-      "title": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko]",
+      "siteUrl": "https://f95zone.to/threads/nagoonimation-collection-2025-11-14-nagoonimation.52702/#post-3510810",
+      "title": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830"
+      "url": "rsshub://f95zone/post/nagoonimation-collection-2025-11-14-nagoonimation.52702/post-3510810"
     },
     {
-      "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "242891845605645312",
+      "id": "250523949050013696",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/ubermation-collection-2026-01-19-uebermation-uebermation.231247/#post-15251821",
-      "title": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation]",
+      "siteUrl": "https://f95zone.to/threads/hydrafxx-collection-2026-01-01-hydrafxx.25063/#post-1544334",
+      "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/ubermation-collection-2026-01-19-uebermation-uebermation.231247/post-15251821"
+      "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
     }
   ]
 }

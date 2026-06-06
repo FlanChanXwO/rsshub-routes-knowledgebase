@@ -92,7 +92,7 @@ _None_
     {
       "description": "Hanime1 202504 新番 - Powered by RSSHub",
       "errorAt": "2026-02-25T23:45:57.858Z",
-      "errorMessage": "[GET] \"https://hanime1.me/previews/202504\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://hanime1.me/previews/202504\": 403 \n",
       "id": "133901229760109568",
       "image": null,
       "ownerUserId": null,

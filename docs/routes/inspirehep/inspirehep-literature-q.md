@@ -60,25 +60,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796045",
+      "id": "69965125338796032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20R.M.Wald.",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%22lower%20dimensional%22%20gravity",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20R.M.Wald."
+      "url": "rsshub://inspirehep/literature/%22lower%20dimensional%22%20gravity"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796044",
+      "id": "69965125338796047",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Geoffrey.R.Penington.",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20S.Carlip.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20Geoffrey.R.Penington."
+      "url": "rsshub://inspirehep/literature/a%20S.Carlip.1"
     }
   ]
 }

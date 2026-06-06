@@ -88,8 +88,8 @@
     },
     {
       "description": "热门文章 - 周榜 - 人人都是产品经理 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T12:43:40.934Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62029871009936384",
       "image": null,
       "ownerUserId": null,

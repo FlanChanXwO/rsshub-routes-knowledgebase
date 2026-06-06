@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 73,
+  "heat": 72,
   "location": "banner-item.ts",
   "maintainers": [
     "DIYgod"

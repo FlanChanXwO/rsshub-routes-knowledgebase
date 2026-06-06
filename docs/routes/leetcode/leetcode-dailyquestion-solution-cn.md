@@ -37,7 +37,7 @@ _None_
   "categories": [
     "programming"
   ],
-  "heat": 106,
+  "heat": 107,
   "location": "dailyquestion-solution-cn.ts",
   "maintainers": [],
   "name": "Unknown",

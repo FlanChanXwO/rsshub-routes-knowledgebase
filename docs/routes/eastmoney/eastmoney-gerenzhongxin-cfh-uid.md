@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 21,
   "location": "gerenzhongxin/cfh.ts",
   "maintainers": [
     "AwesomeDog"

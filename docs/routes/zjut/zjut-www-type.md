@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "通知公告 - 浙江工业大学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T01:49:08.135Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72308822252839936",
       "image": null,
       "ownerUserId": null,

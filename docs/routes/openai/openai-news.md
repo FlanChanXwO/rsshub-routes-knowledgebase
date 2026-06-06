@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T01:27:45.718Z",
+      "errorMessage": "[GET] \"https://openai.com/index/endava-frontiers\": 403 Forbidden\n[GET] \"https://openai.com/index/endava-frontiers/\": 403 \n404 Not Found\n[GET] \"https://openai.com/index/endava-frontiers/\": 403 \n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

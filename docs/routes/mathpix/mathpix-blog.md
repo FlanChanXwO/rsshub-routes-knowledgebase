@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "News, updates, and insights from the Mathpix team. - Powered by RSSHub",
-      "errorAt": "2026-06-04T00:48:04.567Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "157837964397582336",
       "image": "https://mathpix.com/images/og-default.png",
       "ownerUserId": null,

@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - App - Powered by RSSHub",
-      "errorAt": "2026-05-25T07:22:37.501Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=349&type=0\": 405 Not Allowed\n",
-      "id": "121129481487078400",
+      "description": "品玩 - 品玩大模型内刊 - Powered by RSSHub",
+      "errorAt": "2026-05-25T07:52:17.077Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20868&type=0\": 405 Not Allowed\n",
+      "id": "86386944820703232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/349",
-      "title": "品玩 - App",
+      "siteUrl": "https://www.pingwest.com/tag/gpt",
+      "title": "品玩 - 品玩大模型内刊",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/349/1"
+      "url": "rsshub://pingwest/tag/gpt/1"
     }
   ]
 }

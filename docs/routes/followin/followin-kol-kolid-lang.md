@@ -76,7 +76,7 @@ _None_
     {
       "description": "关注人工智能、LLM 、 AI 图像视频和设计（Interested in AI, LLM, Stable Diffusion, and design） AIGC 周刊主理人｜公众号：歸藏的AI工具箱 - Powered by RSSHub",
       "errorAt": "2026-02-06T11:36:15.169Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://followin.io\": 429 \n",
       "id": "152340239177418752",
       "image": "https://static.fwimg.io/img/user/cd2305bdad53876f2aa8a29c7b7ac950.jpg",
       "ownerUserId": null,

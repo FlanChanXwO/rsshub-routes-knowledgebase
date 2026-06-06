@@ -60,7 +60,7 @@ _None_
     {
       "description": "Calls for Papers on ScienceDirect for subject: computer-science - Powered by RSSHub",
       "errorAt": "2025-11-06T10:27:52.276Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science\": 403 \n",
       "id": "137424111559118848",
       "image": null,
       "ownerUserId": null,

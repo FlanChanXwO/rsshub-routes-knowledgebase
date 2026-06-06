@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Android Security Bulletins | Android Open Source Project - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T20:12:36.582Z",
+      "errorMessage": "[GET] \"https://source.android.com/docs/security/bulletin/asb-overview\": 429 \n",
       "id": "156000891791099904",
       "image": "https://www.gstatic.com/devrel-devsite/prod/v5b93ab110c02dc91cc5b79fb160a3c37758bb2dfb04b22b9173ffe5646621934/androidsource/images/touchicon-180.png",
       "ownerUserId": null,

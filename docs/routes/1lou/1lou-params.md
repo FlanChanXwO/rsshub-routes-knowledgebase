@@ -62,7 +62,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 501,
+  "heat": 502,
   "location": "index.ts",
   "maintainers": [
     "falling",
@@ -82,26 +82,26 @@
   ],
   "topFeeds": [
     {
-      "description": "分享快乐，如此简单 ! BT之家单版社区平台，提供全网最快 最新 最全 高清 电影、动漫、韩剧、日剧、美剧、无损音乐、小说等BT/网盘下载以及资讯！影视爱好者的聚集地的~BT电影天堂之家，BT之家官网：1lOU.ME，BT之家BTBTT，BT之家BTBBT， BTHome，BTHouse - Powered by RSSHub",
-      "errorAt": "2026-04-03T15:31:49.462Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\n",
+      "description": "- BT 之家 1LOU 站 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62495339293222913",
-      "image": "https://www.1lou.me/view/img/logo.png",
+      "image": "https://www.1lou.me/undefined",
       "ownerUserId": null,
       "siteUrl": "https://www.1lou.me/forum-1.htm?format=json",
-      "title": "BT之家1LOU站 - BT 之家 1LOU 站",
+      "title": "- BT 之家 1LOU 站",
       "type": "feed",
       "url": "rsshub://1lou/forum-1"
     },
     {
-      "description": "分享快乐，如此简单 ! BT之家单版社区平台，提供全网最快 最新 最全 高清 电影、动漫、韩剧、日剧、美剧、无损音乐、小说等BT/网盘下载以及资讯！影视爱好者的聚集地的~BT电影天堂之家，BT之家官网：1lOU.ME，BT之家BTBTT，BT之家BTBBT， BTHome，BTHouse - Powered by RSSHub",
-      "errorAt": "2026-04-03T15:32:07.046Z",
-      "errorMessage": "[GET] \"https://www.1lou.me/forum-2-1.htm?format=json\": 403 Forbidden\n[GET] \"https://www.1lou.me/forum-2-1.htm?format=json\": 403 Forbidden\n",
+      "description": "- BT 之家 1LOU 站 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64249408253921283",
-      "image": "https://www.1lou.me/view/img/logo.png",
+      "image": "https://www.1lou.me/undefined",
       "ownerUserId": null,
       "siteUrl": "https://www.1lou.me/forum-2-1.htm?format=json",
-      "title": "BT之家1LOU站 - BT 之家 1LOU 站",
+      "title": "- BT 之家 1LOU 站",
       "type": "feed",
       "url": "rsshub://1lou/forum-2-1"
     }

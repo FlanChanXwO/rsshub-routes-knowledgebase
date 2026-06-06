@@ -87,7 +87,7 @@
     {
       "description": "測試及調查 - 消費者委員會 - Powered by RSSHub",
       "errorAt": "2025-01-02T04:08:51.076Z",
-      "errorMessage": "[GET] \"https://www.consumer.org.hk/tc/free-article/free-article-test?category=free-article-test&q=\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.consumer.org.hk/tc/free-article/free-article-test?category=free-article-test&q=\": 404 \n",
       "id": "55295012804329472",
       "image": null,
       "ownerUserId": null,

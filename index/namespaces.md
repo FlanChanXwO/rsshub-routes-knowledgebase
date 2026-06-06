@@ -7541,7 +7541,7 @@ Use this file to select the target namespace before opening route documents.
 ## 上海交通大学
 - Namespace: `sjtu`
 - Aliases: `sjtu, sjtu.edu.cn, www, www.sjtu.edu.cn, 上海交通大学`
-- Route Count: `7`
+- Route Count: `8`
 - Index File: `index/sjtu.md`
 
 ## Skeb
@@ -7675,6 +7675,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `nfapp, nfapp.southcn.com, southcn, 南方网`
 - Route Count: `2`
 - Index File: `index/southcn.md`
+
+## SoWeather
+- Namespace: `soweather`
+- Aliases: `soweather, wx, wx.soweather.com`
+- Route Count: `1`
+- Index File: `index/soweather.md`
 
 ## SpankBang
 - Namespace: `spankbang`

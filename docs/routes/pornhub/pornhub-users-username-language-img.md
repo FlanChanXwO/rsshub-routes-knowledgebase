@@ -112,7 +112,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 113,
+  "heat": 114,
   "location": "users.ts",
   "maintainers": [
     "I2IMk",
@@ -226,8 +226,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-06-03T21:16:40.819Z",
-      "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 403 Forbidden\n",
+      "errorAt": "2026-06-04T23:43:26.612Z",
+      "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 404 \n",
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",
       "ownerUserId": null,

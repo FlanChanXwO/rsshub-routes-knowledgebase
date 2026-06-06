@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "工作动态_山东省教育招生考试院 - Powered by RSSHub",
-      "errorAt": "2026-06-03T19:48:04.629Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66769930499978240",
       "image": null,
       "ownerUserId": null,
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://sdzk/1/16"
     },
     {
-      "description": "山东省教育招生考试院官网 - Powered by RSSHub",
+      "description": "工作动态_山东省教育招生考试院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84436097402035200",
+      "id": "57309725932286976",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.sdzk.cn/NewsList.aspx?BCID=:bcid&CID=16",
-      "title": "山东省教育招生考试院官网",
+      "siteUrl": "https://www.sdzk.cn/NewsList.aspx?BCID=1&CID=16",
+      "title": "工作动态_山东省教育招生考试院",
       "type": "feed",
-      "url": "rsshub://sdzk/:bcid"
+      "url": "rsshub://sdzk"
     }
   ]
 }

@@ -74,7 +74,7 @@
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",
-      "errorAt": "2026-06-03T19:17:47.600Z",
+      "errorAt": "2026-06-04T21:42:57.684Z",
       "errorMessage": "[GET] \"https://edu.cags.ac.cn/api/cms/cmsNews/pageByCmsNavBarId/tzgg/1/10/0\": <no response> fetch failed\n",
       "id": "77888993877532672",
       "image": null,

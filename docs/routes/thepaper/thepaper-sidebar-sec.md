@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/thepaper/sidebar",
-  "heat": 113,
+  "heat": 114,
   "location": "sidebar.ts",
   "maintainers": [
     "bigfei"
@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": "2026-06-03T22:37:20.601Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,

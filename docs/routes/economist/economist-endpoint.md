@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 920,
+  "heat": 919,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/06/02/want-to-know-the-future-dont-trust-the-stockmarket\": 403 Forbidden\n[GET] \"https://www.economist.com/by-invitation/2026/06/02/reaganomics-brought-growth-we-can-only-dream-of-today\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/britain/2026/06/04/british-politics-has-passed-peak-palestine\": 403 Forbidden\n[GET] \"https://www.economist.com/britain/2026/06/04/british-politics-has-passed-peak-palestine\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/05/28/bowing-to-online-fury-chinas-censors-ban-a-prizewinning-film\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/02/chinas-high-tech-rise-is-leaving-much-of-the-country-behind\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/02/chinas-high-tech-rise-is-leaving-much-of-the-country-behind\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/02/chinas-high-tech-rise-is-leaving-much-of-the-country-behind\": 403 \n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

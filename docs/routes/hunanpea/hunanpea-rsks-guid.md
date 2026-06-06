@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "公务员及事业单位考试 - 湖南人事考试网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T18:39:40.206Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62787884154546176",
       "image": null,
       "ownerUserId": null,

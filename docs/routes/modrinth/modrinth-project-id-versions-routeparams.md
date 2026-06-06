@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. - Powered by RSSHub",
+      "description": "Base plugin for every Aurora project. Provides common utilities and functions. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120303120316993536",
+      "id": "114582395964709888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/complementary-unbound",
-      "title": "Complementary Shaders - Unbound Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/EzEMkR1u",
+      "title": "AuroraLib Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/complementary-unbound/versions"
+      "url": "rsshub://modrinth/project/EzEMkR1u/versions"
     }
   ]
 }

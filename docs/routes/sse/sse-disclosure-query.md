@@ -61,21 +61,21 @@ _None_
   "path": "/disclosure/:query?",
   "topFeeds": [
     {
-      "description": "上海证券交易所 - 上市公司信息 - 皖通高速最新公告 - Powered by RSSHub",
+      "description": "上海证券交易所 - 上市公司信息 - 浦发银行最新公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=undefined",
-      "title": "上海证券交易所 - 上市公司信息 - 皖通高速最新公告",
+      "title": "上海证券交易所 - 上市公司信息 - 浦发银行最新公告",
       "type": "feed",
       "url": "rsshub://sse/disclosure"
     },
     {
       "description": "上海证券交易所 - 上市公司信息 - 公牛集团最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T11:03:13.398Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64944303082021888",
       "image": null,
       "ownerUserId": null,

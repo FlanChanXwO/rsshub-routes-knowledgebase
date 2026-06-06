@@ -78,8 +78,8 @@ Language
   "topFeeds": [
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": "2026-06-04T02:23:05.954Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80542799527249920",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@ Language
     },
     {
       "description": "News - WHO - Powered by RSSHub",
-      "errorAt": "2026-06-03T23:18:08.662Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62422466958723072",
       "image": null,
       "ownerUserId": null,

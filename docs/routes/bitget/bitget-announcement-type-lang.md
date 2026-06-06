@@ -142,7 +142,7 @@ _None_
     {
       "description": "Bitget | All - Powered by RSSHub",
       "errorAt": "2026-06-03T09:22:38.113Z",
-      "errorMessage": "[POST] \"https://www.bitget.com/v1/msg/push/stationLetterNew\": 403 Forbidden\n",
+      "errorMessage": "Unexpected end of JSON input\n",
       "id": "72615354761558016",
       "image": null,
       "ownerUserId": null,

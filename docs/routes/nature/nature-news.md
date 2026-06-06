@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 308,
+  "heat": 309,
   "location": "news.ts",
   "maintainers": [
     "y9c",
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Browse the latest news from the world's leading research journal. - Powered by RSSHub",
-      "errorAt": "2026-06-03T11:07:39.776Z",
-      "errorMessage": "Cannot read properties of null (reading 'mainEntity')\nCannot read properties of null (reading 'mainEntity')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79390521827702784",
       "image": null,
       "ownerUserId": null,

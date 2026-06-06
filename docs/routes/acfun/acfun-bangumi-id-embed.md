@@ -69,7 +69,7 @@ _None_
     {
       "description": "AcFun番剧相关信息请关注微博@AcFun新番 2018年的某一天，少女们和另一个世界的“自己”相遇了——。 高中生土宫明日架与朋友们隶属“矿石电台研究会”，在一次游戏中，她们效仿都市传说举行了“某个仪式”。不料仪式打开了平行世界，她们踏入了与日常截然不同的领域，新世界的大门就此打开。 - Powered by RSSHub",
       "errorAt": "2025-01-14T11:12:16.725Z",
-      "errorMessage": "[GET] \"https://www.acfun.cn/bangumi/aa5022158\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.acfun.cn/bangumi/aa5022158\": 404 \n",
       "id": "58871334458500096",
       "image": "http://imgs.aixifan.com/cms/2019_01_17/1547693206599.jpg",
       "ownerUserId": null,

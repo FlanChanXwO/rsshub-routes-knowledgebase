@@ -41,7 +41,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 4,
+  "heat": 3,
   "location": "list.tsx",
   "maintainers": [
     "TonyRL"

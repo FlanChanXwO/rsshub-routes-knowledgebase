@@ -81,8 +81,8 @@ For example:
   "topFeeds": [
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-06-03T14:28:56.757Z",
-      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list\": 403 Forbidden\n",
+      "errorAt": "2026-06-04T13:21:50.392Z",
+      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list\": 403 \n",
       "id": "63500086553914368",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +93,8 @@ For example:
     },
     {
       "description": "blue_archive - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T20:02:34.755Z",
+      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list&tags=blue_archive\": 403 Forbidden\n[GET] \"https://mmda.booru.org/index.php?page=post&s=list&tags=blue_archive\": 403 \n",
       "id": "84529539746481152",
       "image": null,
       "ownerUserId": null,

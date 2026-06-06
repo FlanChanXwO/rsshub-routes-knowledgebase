@@ -74,7 +74,7 @@ _None_
     {
       "description": "我不是赛博精神病 - Powered by RSSHub",
       "errorAt": "2025-04-08T16:06:51.351Z",
-      "errorMessage": "[GET] \"https://www.69shuba.cx/book/47117.htm\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.69shuba.cx/book/47117.htm\": 403 \n",
       "id": "65269883630621696",
       "image": "/cdn/images/nc.jpg",
       "ownerUserId": null,

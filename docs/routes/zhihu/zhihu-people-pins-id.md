@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "王海的知乎想法 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T00:42:00.534Z",
+      "errorMessage": "[GET] \"https://api.zhihu.com/pins/wang-hai-33-67/moments?limit=10&offset=0\": 403 \n",
       "id": "108005640078193664",
       "image": null,
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 241,
+  "heat": 240,
   "location": "subject.ts",
   "maintainers": [
     "nczitzk"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "我们密切关注A股的市场动态，为你搜集最及时的A股资讯和分析解读。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T01:45:09.945Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "59829598270902276",
       "image": "https://img7.gelonghui.com/apply/211719_20181221/column_article_file_20181221170139302.png",
       "ownerUserId": null,

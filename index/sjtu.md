@@ -6,9 +6,17 @@
 - URL: `www.sjtu.edu.cn`
 - Language: `_None_`
 - Aliases: `sjtu, sjtu.edu.cn, www, www.sjtu.edu.cn, 上海交通大学`
-- Route Count: `7`
+- Route Count: `8`
 
 ## Routes
+
+### 计算机学院 - 通知公告
+- Route ID: `sjtu:/sjtu/cs/tzgg/:category`
+- Route Path: `/sjtu/cs/tzgg/:category`
+- File: `docs/routes/sjtu/sjtu-cs-tzgg-category.md`
+- File Name: `sjtu-cs-tzgg-category.md`
+- Categories: `university`
+- Maintainers: `BeaCox`
 
 ### 计算机学院 - 学术活动
 - Route ID: `sjtu:/sjtu/cs/xshd`

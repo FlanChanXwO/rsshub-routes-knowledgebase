@@ -56,7 +56,7 @@ Subscribe to the content of a specific user
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6639,
+  "heat": 6641,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -98,8 +98,8 @@ Subscribe to the content of a specific user
     },
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-04T16:53:46.305Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61780263784145920",
       "image": null,
       "ownerUserId": null,
