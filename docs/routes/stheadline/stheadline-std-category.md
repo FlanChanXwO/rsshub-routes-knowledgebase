@@ -40,7 +40,7 @@ _None_
     "other"
   ],
   "example": "/stheadline/std/realtimenews",
-  "heat": 42,
+  "heat": 41,
   "location": "std/realtime.ts",
   "maintainers": [
     "TonyRL"

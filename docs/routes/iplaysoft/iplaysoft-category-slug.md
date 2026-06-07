@@ -88,7 +88,7 @@ _None_
     {
       "description": "软件改变生活 - Powered by RSSHub",
       "errorAt": "2025-03-06T19:01:36.406Z",
-      "errorMessage": "[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=security\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=security\": 403 \n",
       "id": "117436204713032704",
       "image": null,
       "ownerUserId": null,

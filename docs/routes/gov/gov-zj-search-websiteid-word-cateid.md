@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 浙江省人民政府-全省政府网站统一搜索
+# 上海市人民政府 - 浙江省人民政府-全省政府网站统一搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
 - Route Name: `浙江省人民政府-全省政府网站统一搜索`
 - Example: `/gov/zj/search`
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙江省人民政府-全省政府网站统一搜索 - Powered by RSSHub",
-      "errorAt": "2026-06-04T21:53:04.539Z",
-      "errorMessage": "[POST] \"https://search.zj.gov.cn/jsearchfront/interfaces/cateSearch.do\": <no response> fetch failed\n",
+      "errorAt": "2026-06-05T15:27:43.930Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "139849368771468288",
       "image": null,
       "ownerUserId": null,

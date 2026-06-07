@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 通知公告
+# 上海市人民政府 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/beijing/jw/tzgg`
 - Route Name: `通知公告`
 - Example: `/gov/beijing/jw/tzgg`

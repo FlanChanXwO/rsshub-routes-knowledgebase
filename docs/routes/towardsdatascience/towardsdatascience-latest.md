@@ -56,7 +56,7 @@ _None_
     {
       "description": "Latest articles from Towards Data Science - Powered by RSSHub",
       "errorAt": "2025-07-11T18:16:34.828Z",
-      "errorMessage": "[GET] \"https://medium.com/towards-data-science/latest?posts=true\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://medium.com/towards-data-science/latest?posts=true\": 403 \n",
       "id": "74489134815213568",
       "image": null,
       "ownerUserId": null,

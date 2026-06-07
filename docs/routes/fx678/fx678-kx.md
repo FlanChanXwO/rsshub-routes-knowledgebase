@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 900,
+  "heat": 899,
   "location": "kx.ts",
   "maintainers": [
     "occupy5",

@@ -79,15 +79,15 @@ More jounals can be found in [AIP Publications](https://publishing.aip.org/publi
   "topFeeds": [
     {
       "description": null,
-      "errorAt": "2026-05-09T01:02:56.876Z",
-      "errorMessage": "[GET] \"https://pubs.aip.org/journal/apm/issue\": 403 \n",
-      "id": "1100438337916633113",
+      "errorAt": "2026-05-07T07:11:15.739Z",
+      "errorMessage": "[GET] \"https://pubs.aip.org/journal/jap/issue\": 403 \n",
+      "id": "1100438337916633112",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://aip/journal/apm"
+      "url": "rsshub://aip/journal/jap"
     },
     {
       "description": null,

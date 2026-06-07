@@ -65,7 +65,7 @@ _None_
     {
       "description": "Portfolio - YUE - Powered by RSSHub",
       "errorAt": "2025-11-26T12:19:07.802Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 \n",
       "id": "127387638857893888",
       "image": "https://cdn.cara.app/production/profiles/04fb2142-fc7a-4a11-9e5a-8035b5267327/27029931-E30C-4C04-B673-0375C5EDD112.jpg",
       "ownerUserId": null,
@@ -77,7 +77,7 @@ _None_
     {
       "description": "Portfolio - Anton Skeor - Powered by RSSHub",
       "errorAt": "2025-11-26T12:40:09.550Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 \n",
       "id": "127386290009904128",
       "image": "https://cdn.cara.app/production/profiles/d0ff88c0-9327-43d1-9bc0-6d8cdad500a8/130250239_3682129068510144_4368625358048921473_n.jpg",
       "ownerUserId": null,

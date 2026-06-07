@@ -79,7 +79,7 @@ _None_
     {
       "description": "Hanime1 搜索结果 | 类型: Cosplay - Powered by RSSHub",
       "errorAt": "2026-01-14T04:42:31.316Z",
-      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=Cosplay&broad=&sort=&year=&month=\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=Cosplay&broad=&sort=&year=&month=\": 403 \n",
       "id": "165957469628528640",
       "image": null,
       "ownerUserId": null,

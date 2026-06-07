@@ -10,7 +10,7 @@
 
 ## Routes
 
-### User Profile - Picnob
+### User Profile - Picnob.info
 - Route ID: `picnob.info:/picnob.info/user/:id/:type?`
 - Route Path: `/picnob.info/user/:id/:type?`
 - File: `docs/routes/picnob-info/picnob-info-user-id-type.md`

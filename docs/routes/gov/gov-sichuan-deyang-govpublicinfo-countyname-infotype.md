@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 政府公开信息
+# 上海市人民政府 - 政府公开信息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/sichuan/deyang/govpublicinfo/:countyName/:infoType?`
 - Route Name: `政府公开信息`
 - Example: `/gov/sichuan/deyang/govpublicinfo/绵竹市`
-- URL: `www.szlh.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `zytomorrow`

@@ -72,7 +72,7 @@ _None_
     {
       "description": "刑法库 | 自由微信 | FreeWeChat - Powered by RSSHub",
       "errorAt": "2025-11-26T12:46:04.860Z",
-      "errorMessage": "[GET] \"https://freewechat.com/a/MzI5NTUxNzk3OA==/2247492264/1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://freewechat.com/a/MzI5NTUxNzk3OA==/2247492264/1\": 403 \n",
       "id": "60004603567114240",
       "image": "https://freewechat.com/favicon.ico",
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "游戏葡萄 | 自由微信 | FreeWeChat - Powered by RSSHub",
       "errorAt": "2025-11-26T10:25:21.045Z",
-      "errorMessage": "[GET] \"https://freewechat.com/a/MjM5OTc2ODUxMw==/2649992634/1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://freewechat.com/a/MjM5OTc2ODUxMw==/2649992554/1\": 403 \n",
       "id": "77190515673860096",
       "image": "https://freewechat.com/favicon.ico",
       "ownerUserId": null,

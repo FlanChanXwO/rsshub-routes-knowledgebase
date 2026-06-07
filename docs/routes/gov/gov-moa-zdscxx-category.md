@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 中华人民共和国农业农村部数据
+# 上海市人民政府 - 中华人民共和国农业农村部数据
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/moa/zdscxx/:category{.+}?`
 - Route Name: `中华人民共和国农业农村部数据`
 - Example: `/gov/moa/zdscxx`
@@ -145,8 +145,8 @@
   "topFeeds": [
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T10:33:23.930Z",
+      "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessages\": <no response> fetch failed\n",
       "id": "72147260240052224",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,
@@ -157,8 +157,8 @@
     },
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T17:42:44.894Z",
+      "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessageFilters\": <no response> fetch failed\n",
       "id": "92886505678071808",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

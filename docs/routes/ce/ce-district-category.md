@@ -65,7 +65,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 15,
   "location": "district.ts",
   "maintainers": [
     "cscnk52"

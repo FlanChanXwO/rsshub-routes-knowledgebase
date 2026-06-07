@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Protest Articles on grist.org - Powered by RSSHub",
+      "description": "Migration Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "108633194292694016",
+      "id": "100895480425924629",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/protest",
-      "title": "Protest - Gist Articles",
+      "siteUrl": "https://grist.org/migration",
+      "title": "Migration - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/protest"
+      "url": "rsshub://grist/topic/migration"
     }
   ],
   "url": "grist.org/articles/"

@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4614,
+  "heat": 4612,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "绝对值 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T01:09:17.532Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n403 Forbidden\nFailed to fetch\n",
       "id": "56874574824669184",
       "image": null,
       "ownerUserId": null,

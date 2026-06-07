@@ -83,7 +83,7 @@
     {
       "description": null,
       "errorAt": "2025-08-11T10:10:17.803Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.sobooks.net/books/tag/教育\": <no response> fetch failed\n",
       "id": "177651896288583693",
       "image": null,
       "ownerUserId": null,

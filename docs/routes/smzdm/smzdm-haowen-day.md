@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2013,
+  "heat": 2012,
   "location": "haowen.ts",
   "maintainers": [
     "LogicJake",
@@ -86,8 +86,8 @@ _None_
   "topFeeds": [
     {
       "description": "周热门-什么值得买好文 - Powered by RSSHub",
-      "errorAt": "2026-06-05T03:45:46.381Z",
-      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n403 Forbidden\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41423034778090522",
       "image": null,
       "ownerUserId": null,

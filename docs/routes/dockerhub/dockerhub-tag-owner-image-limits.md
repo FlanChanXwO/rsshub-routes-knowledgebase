@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "emby自供版 交流群：433493451 703381164 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T21:43:02.361Z",
+      "errorMessage": "502 Bad Gateway\n",
       "id": "67082647330225152",
       "image": null,
       "ownerUserId": null,

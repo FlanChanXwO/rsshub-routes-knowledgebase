@@ -70,6 +70,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "王海的知乎想法 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "108005640078193664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.zhihu.com/people/wang-hai-33-67/pins",
+      "title": "王海的知乎想法",
+      "type": "feed",
+      "url": "rsshub://zhihu/people/pins/wang-hai-33-67"
+    },
+    {
       "description": "00后富一代的知乎想法 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -80,18 +92,6 @@ _None_
       "title": "00后富一代的知乎想法",
       "type": "feed",
       "url": "rsshub://zhihu/people/pins/mei-hao-wei-lai-9-78-87"
-    },
-    {
-      "description": "王海的知乎想法 - Powered by RSSHub",
-      "errorAt": "2026-06-05T00:42:00.534Z",
-      "errorMessage": "[GET] \"https://api.zhihu.com/pins/wang-hai-33-67/moments?limit=10&offset=0\": 403 \n",
-      "id": "108005640078193664",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.zhihu.com/people/wang-hai-33-67/pins",
-      "title": "王海的知乎想法",
-      "type": "feed",
-      "url": "rsshub://zhihu/people/pins/wang-hai-33-67"
     }
   ]
 }

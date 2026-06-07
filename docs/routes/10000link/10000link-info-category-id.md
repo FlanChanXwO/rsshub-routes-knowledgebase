@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "底子再厚也怕“家贼”掏空！金川国际海外矿场自曝惊天骗局：1.45亿美元公款蒸发，这笔钱到底咋没的？ - Powered by RSSHub",
+      "description": "国企背景+新平台！泸州金桂商业保理（筹）首批招聘，好岗位等你来挑~ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 底子再厚也怕“家贼”掏空！金川国际海外矿场自曝惊天骗局：1.45亿美元公款蒸发，这笔钱到底咋没的？",
+      "title": "10000万联网 - 国企背景+新平台！泸州金桂商业保理（筹）首批招聘，好岗位等你来挑~",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

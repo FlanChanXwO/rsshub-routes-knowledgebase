@@ -72,18 +72,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "#asian - Fansly - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "79119861632400384",
-      "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
-      "ownerUserId": null,
-      "siteUrl": "https://fansly.com/explore/tag/asian",
-      "title": "#asian - Fansly",
-      "type": "feed",
-      "url": "rsshub://fansly/tag/asian"
-    },
-    {
       "description": "#china - Fansly - Powered by RSSHub",
       "errorAt": "2026-06-04T09:57:06.860Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -94,6 +82,18 @@ _None_
       "title": "#china - Fansly",
       "type": "feed",
       "url": "rsshub://fansly/tag/china"
+    },
+    {
+      "description": "#asian - Fansly - Powered by RSSHub",
+      "errorAt": "2026-06-05T08:16:52.572Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "79119861632400384",
+      "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
+      "ownerUserId": null,
+      "siteUrl": "https://fansly.com/explore/tag/asian",
+      "title": "#asian - Fansly",
+      "type": "feed",
+      "url": "rsshub://fansly/tag/asian"
     }
   ]
 }

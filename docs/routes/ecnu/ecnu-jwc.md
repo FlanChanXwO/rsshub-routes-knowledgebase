@@ -43,7 +43,7 @@ _None_
     "university"
   ],
   "example": "/ecnu/jwc",
-  "heat": 1,
+  "heat": 0,
   "location": "jwc.ts",
   "maintainers": [
     "markbang"
@@ -64,19 +64,6 @@ _None_
       "target": "/tzgg"
     }
   ],
-  "topFeeds": [
-    {
-      "description": "教务处通知 - Powered by RSSHub",
-      "errorAt": "2025-02-16T07:02:53.989Z",
-      "errorMessage": "[GET] \"http://www.jwc.ecnu.edu.cn/tzggwwxsgg/list.htm\": 502 Bad Gateway\n",
-      "id": "54823689335371776",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.jwc.ecnu.edu.cn/tzggwwxsgg/list.htm",
-      "title": "教务处通知",
-      "type": "feed",
-      "url": "rsshub://ecnu/jwc"
-    }
-  ]
+  "topFeeds": []
 }
 ```

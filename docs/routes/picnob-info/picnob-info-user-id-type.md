@@ -1,4 +1,4 @@
-# Instagram - User Profile - Picnob
+# Instagram - User Profile - Picnob.info
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `picnob.info`
 - Namespace Name: `Instagram`
 - Route Path: `/picnob.info/user/:id/:type?`
-- Route Name: `User Profile - Picnob`
+- Route Name: `User Profile - Picnob.info`
 - Example: `/picnob.info/user/xlisa_olivex`
 - URL: `picnob.info`
 - Language: `_None_`
@@ -21,12 +21,12 @@ _None_
 
 ## Parameters
 - `id`: Instagram id
-- `type`: {"default": "posts", "description": "Type of profile page", "options": [{"label": "Posts", "value": "posts"}, {"label": "Stories", "value": "stories"}]}
+- `type`: {"default": "posts", "description": "Type of profile page", "options": [{"label": "Posts", "value": "posts"}]}
 
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -46,17 +46,17 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 379090,
+  "heat": 379097,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "User Profile - Picnob",
+  "name": "User Profile - Picnob.info",
   "parameters": {
     "id": "Instagram id",
     "type": {
@@ -66,10 +66,6 @@ _None_
         {
           "label": "Posts",
           "value": "posts"
-        },
-        {
-          "label": "Stories",
-          "value": "stories"
         }
       ]
     }

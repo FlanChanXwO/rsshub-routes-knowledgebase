@@ -71,7 +71,7 @@ _None_
     {
       "description": "新片场社区汇聚全球优秀创作人和海量精选原创短视频作品,覆盖广告,宣传片,剧情短片,创意混剪,婚礼,纪录片,特殊摄影,旅拍,Vlog,影视干货教程,音乐MV等无水印高清视频案例学习下载。 - Powered by RSSHub",
       "errorAt": "2025-08-15T00:11:41.108Z",
-      "errorMessage": "[GET] \"https://www.xinpianchang.com/discover/article-0-0-all-all-0-0-score\": 406 Not Acceptable\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "61586602339364911",
       "image": "https://oss-xpc0.xpccdn.com/Upload/edu/2022/06/02629881408a499.png",
       "ownerUserId": null,

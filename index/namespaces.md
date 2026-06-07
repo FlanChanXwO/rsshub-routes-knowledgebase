@@ -3674,9 +3674,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 深圳市罗湖区人民政府
+## 上海市人民政府
 - Namespace: `gov`
-- Aliases: `gov, szlh.gov.cn, www, www.szlh.gov.cn, 深圳市罗湖区人民政府`
+- Aliases: `gov, sh, sh.gov.cn, 上海市人民政府`
 - Route Count: `119`
 - Index File: `index/gov.md`
 
@@ -3709,6 +3709,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `grub street, grubstreet, grubstreet.com`
 - Route Count: `1`
 - Index File: `index/grubstreet.md`
+
+## Grupo Animal
+- Namespace: `grupoanimal`
+- Aliases: `grupo animal, grupoanimal, grupoanimal.mx`
+- Route Count: `2`
+- Index File: `index/grupoanimal.md`
 
 ## Goldman Sachs
 - Namespace: `gs`
@@ -5089,6 +5095,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `join-lemmy, join-lemmy.org, lemmy`
 - Route Count: `1`
 - Index File: `index/lemmy.md`
+
+## Le Monde
+- Namespace: `lemonde`
+- Aliases: `le monde, lemonde, lemonde.fr`
+- Route Count: `2`
+- Index File: `index/lemonde.md`
 
 ## 联想
 - Namespace: `lenovo`

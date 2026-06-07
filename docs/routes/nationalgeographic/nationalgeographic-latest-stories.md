@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Stories from National Geographic - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T17:27:48.295Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'flatMap')\n",
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,

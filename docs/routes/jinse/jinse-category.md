@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 216,
+  "heat": 214,
   "location": "catalogue.ts",
   "maintainers": [
     "nczitzk",
@@ -71,7 +71,7 @@ _None_
     {
       "description": "undefined - 研报 - Powered by RSSHub",
       "errorAt": "2026-05-12T16:51:00.404Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3733921.html\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3733977.html\": <no response> fetch failed\n",
       "id": "67468126492383233",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

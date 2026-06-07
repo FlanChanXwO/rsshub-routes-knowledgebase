@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - Unknown
+# 上海市人民政府 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/nsfc/*`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `www.szlh.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `None`
@@ -44,7 +44,7 @@ _None_
     {
       "description": "科普快讯 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:29:39.007Z",
-      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 \n",
       "id": "65380269087729741",
       "image": null,
       "ownerUserId": null,

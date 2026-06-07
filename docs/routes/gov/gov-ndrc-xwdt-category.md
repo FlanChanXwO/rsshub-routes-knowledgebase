@@ -1,17 +1,17 @@
-# 深圳市罗湖区人民政府 - 新闻动态
+# 上海市人民政府 - 新闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - Route Name: `新闻动态`
 - Example: `/gov/ndrc/xwdt`
-- URL: `www.szlh.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
-- Categories: `government`
+- Categories: `government, popular`
 - Maintainers: `nczitzk`
 - Source Location: `ndrc/xwdt.ts`
 - Source Module: `_None_`
@@ -38,7 +38,8 @@ _None_
 ```json
 {
   "categories": [
-    "government"
+    "government",
+    "popular"
   ],
   "description": "| 新闻发布 | 通知通告 | 委领导动态 | 司局动态 | 地方动态 |\n| -------- | -------- | ---------- | -------- | -------- |\n| xwfb     | tzgg     | wlddt      | sjdt     | dfdt     |",
   "example": "/gov/ndrc/xwdt",

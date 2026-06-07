@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "yjs.ts",
   "maintainers": [
     "shengmaosu"
@@ -68,20 +68,7 @@ _None_
       ]
     }
   ],
-  "topFeeds": [
-    {
-      "description": "华东师范大学研究生调剂信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73235012638578688",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://yz.kaoyan.com/ecnu/tiaoji/",
-      "title": "华东师范大学研究生院",
-      "type": "feed",
-      "url": "rsshub://ecnu/yjs"
-    }
-  ],
+  "topFeeds": [],
   "url": "yz.kaoyan.com/ecnu/tiaoji"
 }
 ```

@@ -56,7 +56,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1930,
+  "heat": 1928,
   "location": "news.ts",
   "maintainers": [
     "zreo0"

@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-06-05T03:29:01.256Z",
-      "errorMessage": "net::ERR_SOCKET_NOT_CONNECTED at https://space.bilibili.com/1/dynamic\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",
       "ownerUserId": null,

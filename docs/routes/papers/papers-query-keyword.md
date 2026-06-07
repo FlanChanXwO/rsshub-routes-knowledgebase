@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "remote sensing - Powered by RSSHub",
+      "description": "hybrid system identification - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175660378666109952",
+      "id": "191708604458556416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=remote%20sensing&sort=0",
-      "title": "remote sensing",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Hybrid%20system%20identification%20&sort=0",
+      "title": "hybrid system identification",
       "type": "feed",
-      "url": "rsshub://papers/query/remote%20sensing"
+      "url": "rsshub://papers/query/Hybrid%20system%20identification%20"
     }
   ],
   "url": "papers.cool"

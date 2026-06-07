@@ -74,7 +74,7 @@ _None_
     {
       "description": "ForesightNews 深度 - Foresight News - Powered by RSSHub",
       "errorAt": "2026-03-25T09:48:18.526Z",
-      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50&column_id=894\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50&column_id=894\": 403 \n",
       "id": "56166789173943296",
       "image": "https://img.foresightnews.pro/vertical_logo.png",
       "ownerUserId": null,

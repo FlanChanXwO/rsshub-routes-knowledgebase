@@ -1,4 +1,4 @@
-# Instagram - User Profile - Pixnoy
+# Instagram - User Profile - Picnob
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `picnob`
 - Namespace Name: `Instagram`
 - Route Path: `/picnob/user/:id/:type?`
-- Route Name: `User Profile - Pixnoy`
+- Route Name: `User Profile - Picnob`
 - Example: `/picnob/user/xlisa_olivex`
 - URL: `www.instagram.com`
 - Language: `_None_`
@@ -26,7 +26,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -35,11 +35,11 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.pixnoy.com/profile/:id`
+  - `www.picnob.com/profile/:id`
 - `target`: `/user/:id`
 ### Rule 2
 - `source`:
-  - `www.pixnoy.com/profile/:id/tagged`
+  - `www.picnob.com/profile/:id/tagged`
 - `target`: `/user/:id/tagged`
 
 ## Raw JSON
@@ -53,12 +53,12 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 37239,
+  "heat": 37238,
   "location": "user.ts",
   "maintainers": [
     "TonyRL",
@@ -68,7 +68,7 @@ _None_
     "hyoban",
     "Rongronggg9"
   ],
-  "name": "User Profile - Pixnoy",
+  "name": "User Profile - Picnob",
   "parameters": {
     "id": "Instagram id",
     "type": "Type of profile page (profile or tagged)"
@@ -77,13 +77,13 @@ _None_
   "radar": [
     {
       "source": [
-        "www.pixnoy.com/profile/:id"
+        "www.picnob.com/profile/:id"
       ],
       "target": "/user/:id"
     },
     {
       "source": [
-        "www.pixnoy.com/profile/:id/tagged"
+        "www.picnob.com/profile/:id/tagged"
       ],
       "target": "/user/:id/tagged"
     }

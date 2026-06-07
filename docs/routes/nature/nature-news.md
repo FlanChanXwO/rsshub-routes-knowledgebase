@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Browse the latest news from the world's leading research journal. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T12:58:22.784Z",
+      "errorMessage": "Cannot read properties of null (reading 'mainEntity')\nCannot read properties of null (reading 'mainEntity')\n",
       "id": "79390521827702784",
       "image": null,
       "ownerUserId": null,

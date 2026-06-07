@@ -87,7 +87,7 @@
     {
       "description": "最新 - Odaily星球日报 - Powered by RSSHub",
       "errorAt": "2025-07-24T20:18:06.864Z",
-      "errorMessage": "[GET] \"https://www.odaily.news/api/pp/api/app-front/feed-stream?feed_id=280&b_id=&per_page=25\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.odaily.news/api/pp/api/app-front/feed-stream?feed_id=280&b_id=&per_page=25\": 404 \n",
       "id": "85203770103696384",
       "image": null,
       "ownerUserId": null,

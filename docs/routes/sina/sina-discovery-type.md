@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 42,
+  "heat": 40,
   "location": "discovery.ts",
   "maintainers": [
     "LogicJake"

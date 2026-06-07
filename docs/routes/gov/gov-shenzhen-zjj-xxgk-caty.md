@@ -1,15 +1,15 @@
-# 深圳市罗湖区人民政府 - 深圳市住房和建设局
+# 上海市人民政府 - 深圳市住房和建设局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/shenzhen/zjj/xxgk/:caty`
 - Route Name: `深圳市住房和建设局`
 - Example: `/gov/shenzhen/zjj/xxgk/tzgg`
-- URL: `www.szlh.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `lonn`

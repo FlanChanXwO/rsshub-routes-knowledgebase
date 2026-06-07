@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Base plugin for every Aurora project. Provides common utilities and functions. - Powered by RSSHub",
+      "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582395964709888",
+      "id": "120292750977081344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/EzEMkR1u",
-      "title": "AuroraLib Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/sodium",
+      "title": "Sodium Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/EzEMkR1u/versions"
+      "url": "rsshub://modrinth/project/sodium/versions"
     }
   ]
 }

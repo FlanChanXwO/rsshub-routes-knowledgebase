@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of fender - Powered by RSSHub",
-      "errorAt": "2026-05-25T19:32:44.435Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/fender/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "92761069156367360",
+      "description": "Fur Affinity Gallery of Smileeeeeee - Powered by RSSHub",
+      "errorAt": "2026-05-25T14:23:20.010Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/Smileeeeeee/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "106706133600239616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/fender",
-      "title": "Fur Affinity | Gallery of fender",
+      "siteUrl": "https://www.furaffinity.net/gallery/Smileeeeeee",
+      "title": "Fur Affinity | Gallery of Smileeeeeee",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/fender/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/Smileeeeeee/nsfw"
     }
   ],
   "url": "furaffinity.net"

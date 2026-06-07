@@ -72,7 +72,7 @@ _None_
     {
       "description": "Obsidian Publish - Powered by RSSHub",
       "errorAt": "2026-02-26T02:32:22.133Z",
-      "errorMessage": "[GET] \"https://publish.obsidian.md/marshallontheroad\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://publish.obsidian.md/marshallontheroad\": 404 \n",
       "id": "61600181436221440",
       "image": null,
       "ownerUserId": "59203816531726336",

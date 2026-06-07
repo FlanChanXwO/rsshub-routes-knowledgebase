@@ -1,11 +1,11 @@
-# 深圳市罗湖区人民政府 - 政府信息公开
+# 上海市人民政府 - 政府信息公开
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `深圳市罗湖区人民政府`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/csrc/zfxxgk_zdgk/:id?`
 - Route Name: `政府信息公开`
 - Example: `/gov/csrc/zfxxgk_zdgk/c101971`
@@ -957,8 +957,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T00:38:19.149Z",
+      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101794\": <no response> fetch failed\n",
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

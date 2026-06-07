@@ -54,7 +54,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "provided by the Hong Kong Observatory: Thu, 04 Jun 2026 10:31:00 GMT - Powered by RSSHub",
+      "description": "provided by the Hong Kong Observatory: Sat, 06 Jun 2026 02:16:00 GMT - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "69176555091531776",

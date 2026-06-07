@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7445,
+  "heat": 7447,
   "location": "index.ts",
   "maintainers": [
     "moke8",

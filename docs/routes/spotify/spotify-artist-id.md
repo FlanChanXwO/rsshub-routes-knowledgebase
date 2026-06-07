@@ -81,7 +81,7 @@ _None_
     {
       "description": "Albums of Taylor Swift - Powered by RSSHub",
       "errorAt": "2026-03-10T15:04:10.929Z",
-      "errorMessage": "[GET] \"https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02\": 403 \n",
       "id": "55152034158156800",
       "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
       "ownerUserId": null,
@@ -93,7 +93,7 @@ _None_
     {
       "description": "Albums of Jay Chou - Powered by RSSHub",
       "errorAt": "2026-03-13T13:28:45.639Z",
-      "errorMessage": "Spotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql\": 403 Forbidden\n",
+      "errorMessage": "Spotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.spotify.com/v1/artists/2elBjNSdBE2Y3f0j1mjrql\": 403 \n",
       "id": "54863626825990144",
       "image": "https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da",
       "ownerUserId": null,

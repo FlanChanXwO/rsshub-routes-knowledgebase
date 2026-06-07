@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "湖南日报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T05:57:47.785Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75409322850391040",
       "image": null,
       "ownerUserId": null,
@@ -97,8 +97,8 @@
     },
     {
       "description": "湖南日报 - 第01版：头版 - Powered by RSSHub",
-      "errorAt": "2026-04-14T08:57:29.489Z",
-      "errorMessage": "[GET] \"https://hnrb.voc.com.cn/hnrb_epaper\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "81619059516564480",
       "image": null,
       "ownerUserId": null,

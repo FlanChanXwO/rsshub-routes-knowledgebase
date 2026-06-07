@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 533,
+  "heat": 534,
   "location": "index.ts",
   "maintainers": [
     "WhiteWorld",
@@ -73,7 +73,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://readhub.cn/",
-      "title": "Readhub - 热门话题",
+      "title": "Readhub - 无码科技 - 热门话题",
       "type": "feed",
       "url": "rsshub://readhub"
     },

@@ -198,8 +198,8 @@ _None_
     },
     {
       "description": "AI编程 - AI 编程 - Powered by RSSHub",
-      "errorAt": "2026-06-03T03:12:00.268Z",
-      "errorMessage": "Authentication failed. Access denied.\n/juejin/aicoding/AI%E7%BC%96%E7%A8%8B\n[GET] \"https://juejin.cn/post/7647424102764757032\": 403 \n",
+      "errorAt": "2026-06-06T02:07:03.329Z",
+      "errorMessage": "Authentication failed. Access denied.\n/juejin/aicoding/AI%E7%BC%96%E7%A8%8B\n[GET] \"https://juejin.cn/post/7647819908642553899\": 403 \n",
       "id": "190049393455791104",
       "image": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1fa3c0a49ab34943aa26b26202891e7f~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=200&s=11771&e=png&b=0a0909",
       "ownerUserId": null,

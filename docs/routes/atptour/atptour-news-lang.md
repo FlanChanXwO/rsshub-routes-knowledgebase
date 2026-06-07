@@ -59,7 +59,7 @@ _None_
     {
       "description": "News from the official site of men's professional tennis. - Powered by RSSHub",
       "errorAt": "2026-05-06T10:58:41.651Z",
-      "errorMessage": "[GET] \"https://www.atptour.com/en/-/tour/news/latest-filtered-results/0/15\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.atptour.com/en/-/tour/news/latest-filtered-results/0/15\": 403 \n",
       "id": "83684289961634816",
       "image": null,
       "ownerUserId": null,

@@ -95,7 +95,7 @@ _None_
     {
       "description": "News - Followin - Powered by RSSHub",
       "errorAt": "2026-02-06T11:37:50.737Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://followin.io\": 429 \n[GET] \"https://followin.io\": 429 \n",
       "id": "64124473013636098",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,
@@ -107,7 +107,7 @@ _None_
     {
       "description": "快讯 - Followin - Powered by RSSHub",
       "errorAt": "2026-02-06T08:52:00.748Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://followin.io\": 429 \n",
       "id": "41419133062574080",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

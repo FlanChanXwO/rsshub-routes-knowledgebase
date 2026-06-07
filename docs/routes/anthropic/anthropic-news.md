@@ -39,7 +39,7 @@ _None_
     "programming"
   ],
   "example": "/anthropic/news",
-  "heat": 1305,
+  "heat": 1306,
   "location": "news.ts",
   "maintainers": [
     "etShaw-zh",

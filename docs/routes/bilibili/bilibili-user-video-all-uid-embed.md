@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1262,
+  "heat": 1261,
   "location": "video-all.ts",
   "maintainers": [],
   "name": "用户所有视频",

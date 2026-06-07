@@ -53,7 +53,7 @@ Enhance the official EN RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 295,
+  "heat": 294,
   "location": "rss.ts",
   "maintainers": [
     "HenryQW",
@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/03/us/house-russia-ukraine-sanctions-aid.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html\": 403 \n[GET] \"https://www.nytimes.com/article/what-to-know-about-the-jobs-report.html\": 403 \n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

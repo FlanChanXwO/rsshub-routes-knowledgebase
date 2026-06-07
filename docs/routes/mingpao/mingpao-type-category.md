@@ -74,7 +74,7 @@ _None_
   ],
   "description": "| category | 即時新聞頻道 |\n| -------- | ------------ |\n| all      | 總目錄       |\n| s00001   | 港聞         |\n| s00002   | 經濟         |\n| s00003   | 地產         |\n| s00004   | 兩岸         |\n| s00005   | 國際         |\n| s00006   | 體育         |\n| s00007   | 娛樂         |\n| s00022   | 文摘         |\n| s00024   | 熱點         |\n\n| category | 每日明報頻道 |\n| -------- | ------------ |\n| s00001   | 要聞         |\n| s00002   | 港聞         |\n| s00003   | 社評         |\n| s00004   | 經濟         |\n| s00005   | 副刊         |\n| s00011   | 教育         |\n| s00012   | 觀點         |\n| s00013   | 中國         |\n| s00014   | 國際         |\n| s00015   | 體育         |\n| s00016   | 娛樂         |\n| s00017   | English      |\n| s00018   | 作家專欄     |",
   "example": "/mingpao/ins/all",
-  "heat": 29,
+  "heat": 27,
   "location": "index.tsx",
   "maintainers": [
     "TonyRL"
@@ -118,7 +118,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "Status code 403\nStatus code 403\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e5%9c%8b%e9%9a%9b/article/20260605/s00005/1780674125596/%e5%9c%8b%e9%9a%9b%e5%a4%aa%e7%a9%ba%e7%ab%99%e4%bf%84%e8%89%99%e6%ae%b5%e6%bc%8f%e6%b0%a3%e6%83%a1%e5%8c%96-nasa%e4%b8%80%e5%ba%a6%e4%b8%8b%e4%bb%a4%e5%a4%aa%e7%a9%ba%e4%ba%ba%e6%ba%96%e5%82%99%e6%92%a4%e9%9b%a2\": 403 \nFailed to fetch\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

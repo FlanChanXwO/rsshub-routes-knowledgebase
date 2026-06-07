@@ -146,8 +146,8 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": "2026-06-05T03:28:56.491Z",
-      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/\": 403 \n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=306092\": 429 \n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,

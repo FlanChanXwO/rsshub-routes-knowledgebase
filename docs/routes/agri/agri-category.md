@@ -405,8 +405,8 @@
   "topFeeds": [
     {
       "description": "中国农业农村信息网_最新发布 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-05T08:23:47.931Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "70027894230618112",
       "image": "http://www.agri.cn/images/ny_logo.png",
       "ownerUserId": null,
