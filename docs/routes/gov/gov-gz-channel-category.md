@@ -42,18 +42,6 @@ _None_
   "path": "/gz/:channel/:category",
   "topFeeds": [
     {
-      "description": "广州市人民政府 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73918360042176521",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.gz.gov.cn/xw/tzgg/",
-      "title": "广州市人民政府 - 通知公告",
-      "type": "feed",
-      "url": "rsshub://gov/gz/xw/tzgg"
-    },
-    {
       "description": "广州市人民政府 - 文字解读 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -64,6 +52,18 @@ _None_
       "title": "广州市人民政府 - 文字解读",
       "type": "feed",
       "url": "rsshub://gov/gz/zwgk/zcjd"
+    },
+    {
+      "description": "广州市人民政府 - 通知公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73918360042176521",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gz.gov.cn/xw/tzgg/",
+      "title": "广州市人民政府 - 通知公告",
+      "type": "feed",
+      "url": "rsshub://gov/gz/xw/tzgg"
     }
   ]
 }

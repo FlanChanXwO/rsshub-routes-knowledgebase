@@ -141,8 +141,8 @@ _None_
   "topFeeds": [
     {
       "description": "Bitget | All - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T06:32:19.917Z",
+      "errorMessage": "[POST] \"https://www.bitget.com/v1/msg/push/stationLetterNew\": 403 \n",
       "id": "72615354761558016",
       "image": null,
       "ownerUserId": null,

@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 莹泠 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 一卷心菜一一 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198687353464355840",
+      "id": "120386587430633472",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75149887",
-      "title": "米游社 - 莹泠 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158107848",
+      "title": "米游社 - 一卷心菜一一 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75149887"
+      "url": "rsshub://mihoyo/bbs/user-post/158107848"
     },
     {
-      "description": "米游社 - 崩坏星穹铁道 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "144943828575256576",
+      "id": "198688274828765184",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=288909600",
-      "title": "米游社 - 崩坏星穹铁道 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
+      "title": "米游社 - 鸦居丶 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/288909600"
+      "url": "rsshub://mihoyo/bbs/user-post/75259669"
     }
   ]
 }

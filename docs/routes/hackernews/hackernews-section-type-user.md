@@ -98,8 +98,8 @@ Subscribe to the content of a specific user
     },
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": "2026-06-04T16:53:46.305Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61780263784145920",
       "image": null,
       "ownerUserId": null,

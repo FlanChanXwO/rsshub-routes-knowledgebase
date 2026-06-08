@@ -63,18 +63,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Timeline - Britney Thoreson - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:58:42.378Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 \n",
-      "id": "127384563223460864",
-      "image": "https://cdn.cara.app/production/profiles/1b09ec83-f0f8-4d52-ac03-99610774aefc/0000471C-4233-4967-A20B-6ACE30C7A8B3.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://cara.app/britneythoresonart/all",
-      "title": "Timeline - Britney Thoreson",
-      "type": "feed",
-      "url": "rsshub://cara/timeline/britneythoresonart"
-    },
-    {
       "description": "Timeline - Poltorykhina Anna - Powered by RSSHub",
       "errorAt": "2025-11-26T14:15:25.443Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 \n",
@@ -85,6 +73,18 @@ _None_
       "title": "Timeline - Poltorykhina Anna",
       "type": "feed",
       "url": "rsshub://cara/timeline/polanya"
+    },
+    {
+      "description": "Timeline - Requinoesis - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131924534067985408",
+      "image": "https://cdn.cara.app/production/profiles/3c4bf5ef-7d4e-4165-b65f-6dc781acf326/pu.png",
+      "ownerUserId": null,
+      "siteUrl": "https://cara.app/requinoesis/all",
+      "title": "Timeline - Requinoesis",
+      "type": "feed",
+      "url": "rsshub://cara/timeline/requinoesis"
     }
   ]
 }

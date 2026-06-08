@@ -44,7 +44,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 12441,
+  "heat": 12440,
   "location": "actress.ts",
   "maintainers": [
     "huanfe1"
@@ -66,7 +66,7 @@ _None_
   "topFeeds": [
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-06-06T00:34:25.519Z",
+      "errorAt": "2026-06-07T02:23:36.709Z",
       "errorMessage": "Empty RSSHub items from 147936360793227264\n[GET] \"https://javtiful.com/actress/akari-tsumugi\": <no response> fetch failed\nFailed to fetch\n",
       "id": "63617818932634624",
       "image": "https://javtiful.com/media/categories/actress/THUMB-ACTRESS-271-6438402B2B69B.jpg?class=tmbactpage",

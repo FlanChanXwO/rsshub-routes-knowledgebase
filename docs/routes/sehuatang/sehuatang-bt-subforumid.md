@@ -49,7 +49,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 299,
+  "heat": 300,
   "location": "index.ts",
   "maintainers": [
     "qiwihui",

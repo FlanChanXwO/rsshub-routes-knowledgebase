@@ -70,7 +70,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-06-08T19:57:05.819Z",
-      "errorMessage": "[GET] \"https://www.javlibrary.com/ja/tl_bestreviews.php?list&mode=1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.javlibrary.com/ja/tl_bestreviews.php?list&mode=1\": 403 \n",
       "id": "154611732345126913",
       "image": null,
       "ownerUserId": null,
@@ -82,7 +82,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-07-28T06:23:29.873Z",
-      "errorMessage": "[GET] \"https://www.javlibrary.com/zh/tl_bestreviews.php?list&mode=2\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.javlibrary.com/zh/tl_bestreviews.php?list&mode=2\": 403 \n",
       "id": "172541899423889409",
       "image": null,
       "ownerUserId": null,

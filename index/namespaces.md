@@ -5870,6 +5870,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/nautiljon.md`
 
+## 네이버
+- Namespace: `naver`
+- Aliases: `naver, naver.com, 네이버`
+- Route Count: `1`
+- Index File: `index/naver.md`
+
 ## 每经网
 - Namespace: `nbd`
 - Aliases: `nbd, nbd.com.cn, 每经网`

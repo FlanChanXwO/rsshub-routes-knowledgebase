@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",
-      "errorAt": "2026-06-05T06:07:13.484Z",
-      "errorMessage": "[GET] \"https://openai.com/index/chatgpt-memory-dreaming/\": 403 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

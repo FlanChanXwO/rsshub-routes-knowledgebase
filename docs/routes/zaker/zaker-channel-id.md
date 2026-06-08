@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T22:47:52.285Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/13\": 429 \ncheerio.load() expects a string\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,

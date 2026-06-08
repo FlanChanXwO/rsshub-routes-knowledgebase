@@ -64,7 +64,7 @@ _None_
     {
       "description": "Public posts from @pseudoyu@mas.to - Powered by RSSHub",
       "errorAt": "2026-01-20T10:21:10.572Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
       "id": "56548464220512256",
       "image": "https://media.mas.to/accounts/avatars/109/300/507/275/095/341/original/9a0abd8b35530714.jpeg",
       "ownerUserId": "41229460898486272",

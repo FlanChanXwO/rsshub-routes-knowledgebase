@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 精选 | 链游 | 元宇宙 | NFT | DeFi | 监管 | 央行数字货币 | 波卡 | Layer 2 | DAO | 融资 | 活动 |\n| ---- | ---- | ------ | --- | ---- | ---- | ------------ | ---- | ------- | --- | ---- | ---- |",
   "example": "/panewslab/profundity",
-  "heat": 137,
+  "heat": 136,
   "location": "profundity.ts",
   "maintainers": [
     "nczitzk"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "PANews - 精选 - Powered by RSSHub",
       "errorAt": "2025-12-14T11:22:59.129Z",
-      "errorMessage": "[GET] \"https://panewslab.com/webapi/depth/list?LId=1&Rn=25&TagId=&tw=0\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://panewslab.com/webapi/depth/list?LId=1&Rn=25&TagId=&tw=0\": 404 \n",
       "id": "57477263957849088",
       "image": null,
       "ownerUserId": null,

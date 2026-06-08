@@ -180,8 +180,8 @@
     },
     {
       "description": "资讯|第一财经商业数据中心（CBNData）隶属于上海文化广播影视集团，是国内领先的消费研究机构及数字化增长服务商。CBNData消费站为消费行业从业者提供前沿、高效、深度的新闻资讯服务，每日提供新零售、电商直播、美妆个护、食品饮料、餐饮、家电、网红达人等行业热点及相关政策新闻，还有行业大咖独家经验分享、消费早报、营销观察、视频课、新品研究、双11和618专题等原创资讯。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T15:32:42.841Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "151627344646140930",
       "image": "//assets-oss.cbndata.com/cbndata-refactor-fe/FvLd08nxNlLXw7TRuskoy8oMo5Dt.png",
       "ownerUserId": null,

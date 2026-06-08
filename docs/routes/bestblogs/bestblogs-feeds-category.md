@@ -63,7 +63,7 @@ _None_
     {
       "description": "Bestblogs.dev - Powered by RSSHub",
       "errorAt": "2026-04-11T18:12:10.660Z",
-      "errorMessage": "[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
+      "errorMessage": "[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \nFailed to fetch\n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
       "id": "55765580939819008",
       "image": null,
       "ownerUserId": null,

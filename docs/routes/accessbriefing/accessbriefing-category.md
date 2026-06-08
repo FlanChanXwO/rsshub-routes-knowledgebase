@@ -219,7 +219,7 @@ If you subscribe to [Latest News](https://www.accessbriefing.com/latest/news)，
     {
       "description": "Dive into the pulse of the access industry on our News Page. From breaking news to in-depth analyses, stay connected with the latest trends in access solutions. - Powered by RSSHub",
       "errorAt": "2025-11-06T10:59:28.495Z",
-      "errorMessage": "[GET] \"https://www.accessbriefing.com/Ajax/GetPagedArticles?navcontentid=9282&brandid=32&page=0&lastpage=0&pagesize=30\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.accessbriefing.com/Ajax/GetPagedArticles?navcontentid=9282&brandid=32&page=0&lastpage=0&pagesize=30\": 404 \n",
       "id": "61651923101048832",
       "image": "https://www.accessbriefing.com/images/anyx34/20240429-122716-KHLFINALlogoWHITE.png",
       "ownerUserId": null,

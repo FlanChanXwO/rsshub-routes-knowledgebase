@@ -82,16 +82,16 @@ _None_
       "url": "rsshub://gitee/events/silencedream"
     },
     {
-      "description": "callmer - 公开动态 - Powered by RSSHub",
+      "description": "maymory - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "158419992977388544",
+      "id": "197268857426290688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://gitee.com/callmer",
-      "title": "callmer - 公开动态",
+      "siteUrl": "https://gitee.com/maymory",
+      "title": "maymory - 公开动态",
       "type": "feed",
-      "url": "rsshub://gitee/events/callmer"
+      "url": "rsshub://gitee/events/maymory"
     }
   ]
 }

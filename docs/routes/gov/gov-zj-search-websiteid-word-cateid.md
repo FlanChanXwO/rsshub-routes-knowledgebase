@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙江省人民政府-全省政府网站统一搜索 - Powered by RSSHub",
-      "errorAt": "2026-06-05T15:27:43.930Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-06-06T17:52:06.427Z",
+      "errorMessage": "[POST] \"https://search.zj.gov.cn/jsearchfront/interfaces/cateSearch.do\": <no response> fetch failed\n",
       "id": "139849368771468288",
       "image": null,
       "ownerUserId": null,

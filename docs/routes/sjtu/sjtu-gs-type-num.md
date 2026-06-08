@@ -68,7 +68,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "gs.ts",
   "maintainers": [
     "dzx-dzx"

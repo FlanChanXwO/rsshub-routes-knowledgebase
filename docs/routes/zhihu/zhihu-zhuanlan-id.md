@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1878,
+  "heat": 1877,
   "location": "zhuanlan.ts",
   "maintainers": [
     "DIYgod"
@@ -78,7 +78,7 @@ _None_
     {
       "description": "知乎专栏-体验碎周报 - Powered by RSSHub",
       "errorAt": "2025-12-13T01:07:26.995Z",
-      "errorMessage": "403 Forbidden\n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n",
+      "errorMessage": "403 Forbidden\n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n",
       "id": "41359836954400791",
       "image": null,
       "ownerUserId": null,

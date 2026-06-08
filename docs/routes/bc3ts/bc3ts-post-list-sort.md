@@ -62,7 +62,7 @@ _None_
     {
       "description": "爆料公社最新動態 - Powered by RSSHub",
       "errorAt": "2025-11-26T17:59:38.721Z",
-      "errorMessage": "[GET] \"https://app.bc3ts.net/post/list/v2?limits=20&sort_type=1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://app.bc3ts.net/post/list/v2?limits=20&sort_type=1\": 403 \n",
       "id": "59860699815644183",
       "image": "https://img.bc3ts.net/image/web/main/logo-white-new-2023.png",
       "ownerUserId": null,

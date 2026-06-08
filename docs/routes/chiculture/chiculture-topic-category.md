@@ -66,7 +66,7 @@ _None_
     {
       "description": "議題熱話 | 通識·現代中國 - Powered by RSSHub",
       "errorAt": "2026-05-04T04:46:56.217Z",
-      "errorMessage": "[GET] \"https://ls.chiculture.org.hk/api/general-listing?lang=zh-hant&type=ssrh&category=&page=1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://ls.chiculture.org.hk/api/general-listing?lang=zh-hant&type=ssrh&category=&page=1\": 403 \n",
       "id": "55135298544042029",
       "image": null,
       "ownerUserId": null,

@@ -63,18 +63,6 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "星芒√月幻 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-02T10:12:38.476Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=星芒√月幻\": 403 Forbidden\n",
-      "id": "105199795080017920",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%98%9F%E8%8A%92%E2%88%9A%E6%9C%88%E5%B9%BB",
-      "title": "星芒√月幻 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E6%98%9F%E8%8A%92%E2%88%9A%E6%9C%88%E5%B9%BB"
-    },
-    {
       "description": "狼獾赝月 的贴吧 - Powered by RSSHub",
       "errorAt": "2025-11-02T19:26:02.118Z",
       "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=狼獾赝月\": 403 Forbidden\n",
@@ -85,6 +73,18 @@ _None_
       "title": "狼獾赝月 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88"
+    },
+    {
+      "description": "垃圾一件而已 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-06-06T22:26:57.932Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=KOKOKOKOKO巨蟹\": 403 Forbidden\n",
+      "id": "86267569293295616",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
+      "title": "垃圾一件而已 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
     }
   ]
 }

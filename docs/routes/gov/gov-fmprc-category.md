@@ -72,8 +72,8 @@ _None_
     },
     {
       "description": "吹风会_中华人民共和国外交部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T22:26:35.185Z",
+      "errorMessage": "[GET] \"https://www.mfa.gov.cn/web/wjdt_674879/cfhsl_674891\": 403 Forbidden\n",
       "id": "103088350778989568",
       "image": null,
       "ownerUserId": null,

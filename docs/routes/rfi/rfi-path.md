@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "同步、随时跟踪法广政治、文化、体育新闻，了解法国、中国与世界各地大事 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-07T01:49:53.101Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58701529235465216",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://rfi/cn"
     },
     {
-      "description": "Follow any political information, cultural, sporting and live streaming on RFI. The latest information, news and events around the world. - Powered by RSSHub",
+      "description": "同步、随时跟踪中国时事：采访、报道、特别专题 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "92774456092420096",
+      "id": "75444883463138304",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.rfi.fr/en/",
-      "title": "RFI - All the news from France, Europe, Africa and the rest of the world.",
+      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/",
+      "title": "中国时事 - 法广 - RFI",
       "type": "feed",
-      "url": "rsshub://rfi/en"
+      "url": "rsshub://rfi/cn/%E4%B8%AD%E5%9B%BD"
     }
   ],
   "url": "rfi.fr"

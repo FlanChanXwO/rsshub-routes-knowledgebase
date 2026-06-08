@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2112,
+  "heat": 2113,
   "location": "show.ts",
   "maintainers": [
     "caiohsramos",
@@ -95,7 +95,7 @@ _None_
     {
       "description": "当下中国最有趣的谈话都是在私下进行的。《不明白播客》希望把有趣的谈话分享给世界各地的中文听众，在这个黑暗、混乱的时代发出一点光亮和温度。这个播客是几位专业新闻记者联合发起的个人项目，不代表我们供职的机构。取名不明白是因为在这个魔幻的国度有太多不符合常理值得探究的事情。我们希望每周能就一个话题进行深入、不设限制的讨论。欢迎收听、订阅和分享。 Hosted on Acast. See acast.com/privacy for more information. - Powered by RSSHub",
       "errorAt": "2026-03-11T03:50:47.604Z",
-      "errorMessage": "[GET] \"https://api.spotify.com/v1/shows/5CV2Xo4kHE6Lf1iZBzsrP2?market=US\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.spotify.com/v1/shows/5CV2Xo4kHE6Lf1iZBzsrP2?market=US\": 403 \n",
       "id": "54407761127659520",
       "image": "https://i.scdn.co/image/ab6765630000ba8ad4f083c27e19d2258bc9b02c",
       "ownerUserId": null,

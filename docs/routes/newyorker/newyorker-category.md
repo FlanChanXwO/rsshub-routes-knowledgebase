@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Reporting, Profiles, breaking news, cultural coverage, podcasts, videos, and cartoons from The New Yorker. - Powered by RSSHub",
-      "errorAt": "2026-06-05T12:52:57.464Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\nCannot read properties of undefined (reading 'map')\nCannot read properties of undefined (reading 'map')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62040507105143808",
       "image": null,
       "ownerUserId": null,

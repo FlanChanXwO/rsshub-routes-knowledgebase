@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Tag: ドリームチケット - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-06-05T10:32:30.916Z",
-      "errorMessage": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67431890670912512",
       "image": null,
       "ownerUserId": null,

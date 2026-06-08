@@ -36,7 +36,7 @@ _None_
     "bbs"
   ],
   "example": "/chiphell/portal/1",
-  "heat": 93,
+  "heat": 90,
   "location": "portal.ts",
   "maintainers": [
     "tylinux"

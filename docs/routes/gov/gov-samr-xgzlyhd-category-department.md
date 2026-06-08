@@ -169,7 +169,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "61218903598816256",
-      "image": "https://xgzlyhd.samr.gov.cn/gjjly/img/fd-logo.png;JSESSIONID=fwAAAR-QaiNJ0rYRGzJLWkJxgkR_xHHJh98A",
+      "image": "https://xgzlyhd.samr.gov.cn/gjjly/img/fd-logo.png;JSESSIONID=fwAAAR-QaiS9KB0kf-kJRUjxtifo0bGuSkoA",
       "ownerUserId": null,
       "siteUrl": "https://xgzlyhd.samr.gov.cn/gjjly/index",
       "title": "国家市场监督管理总局公众留言",

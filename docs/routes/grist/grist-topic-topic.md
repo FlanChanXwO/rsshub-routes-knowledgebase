@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Migration Articles on grist.org - Powered by RSSHub",
+      "description": "Cities Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "100895480425924629",
+      "id": "108632404162427904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/migration",
-      "title": "Migration - Gist Articles",
+      "siteUrl": "https://grist.org/cities",
+      "title": "Cities - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/migration"
+      "url": "rsshub://grist/topic/cities"
     }
   ],
   "url": "grist.org/articles/"

@@ -105,7 +105,7 @@ _None_
     {
       "description": "Everything that Insider has to offer about Business And Brand Tales for you to read and learn. - Powered by RSSHub",
       "errorAt": "2025-11-29T00:31:18.316Z",
-      "errorMessage": "[GET] \"https://insider.finology.in/tag/business-and-brand-tales\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://insider.finology.in/tag/business-and-brand-tales\": 403 \n",
       "id": "73946245999100928",
       "image": null,
       "ownerUserId": null,

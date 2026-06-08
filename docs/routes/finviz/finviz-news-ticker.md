@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
-      "errorAt": "2026-06-06T02:28:36.812Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79424087027101706",
       "image": null,
       "ownerUserId": null,

@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/britain/2026/06/04/british-politics-has-passed-peak-palestine\": 403 Forbidden\n[GET] \"https://www.economist.com/britain/2026/06/04/british-politics-has-passed-peak-palestine\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/06/06/how-to-retire-at-30\": 403 \n[GET] \"https://www.economist.com/united-states/2026/06/06/checks-and-balance-newsletter-a-modest-proposal-on-cuba\": 403 \n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/02/chinas-high-tech-rise-is-leaving-much-of-the-country-behind\": 403 \n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/01/chinas-delivery-drivers-are-its-most-obvious-underclass\": 403 \n[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 \n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T15:47:01.389Z",
+      "errorMessage": "[GET] \"https://www.mcmod.cn\": 403 Forbidden\n[GET] \"https://www.mcmod.cn\": 403 \n",
       "id": "56355911890850816",
       "image": null,
       "ownerUserId": null,
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-06T20:47:05.013Z",
+      "errorMessage": "[GET] \"https://www.mcmod.cn\": 403 \n[GET] \"https://www.mcmod.cn\": 403 \n",
       "id": "132060968710740992",
       "image": null,
       "ownerUserId": null,
