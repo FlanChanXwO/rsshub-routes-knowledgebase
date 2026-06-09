@@ -1,11 +1,11 @@
-# 上海市人民政府 - 最新文件
+# 国家能源局 - 最新文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zhengce/wenjian/:pcodeJiguan?`
 - Route Name: `最新文件`
 - Example: `/gov/zhengce/wenjian`

@@ -1,11 +1,11 @@
-# 上海市人民政府 - 上海卫健委 疫情通报
+# 国家能源局 - 上海卫健委 疫情通报
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/sh/wsjkw/yqtb`
 - Route Name: `上海卫健委 疫情通报`
 - Example: `/gov/sh/wsjkw/yqtb`

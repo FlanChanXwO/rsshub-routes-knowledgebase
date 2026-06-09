@@ -1,15 +1,15 @@
-# 上海市人民政府 - 政策文件
+# 国家能源局 - 政策文件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/miit/zcwj`
 - Route Name: `政策文件`
 - Example: `/gov/miit/zcwj`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`

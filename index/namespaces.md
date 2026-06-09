@@ -2936,6 +2936,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/eeo.md`
 
+## EFE Noticias
+- Namespace: `efe`
+- Aliases: `efe, efe noticias, efe.com`
+- Route Count: `1`
+- Index File: `index/efe.md`
+
 ## e 公司
 - Namespace: `egsea`
 - Aliases: `e 公司, egsea, egsea.com`
@@ -3674,9 +3680,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `13`
 - Index File: `index/google.md`
 
-## 上海市人民政府
+## 国家能源局
 - Namespace: `gov`
-- Aliases: `gov, sh, sh.gov.cn, 上海市人民政府`
+- Aliases: `gov, nea.gov.cn, www, www.nea.gov.cn, 国家能源局`
 - Route Count: `119`
 - Index File: `index/gov.md`
 

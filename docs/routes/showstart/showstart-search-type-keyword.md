@@ -91,6 +91,18 @@ _None_
   "path": "/search/:type/:keyword?",
   "topFeeds": [
     {
+      "description": "秀动网 - 搜城市 - 苏州 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "175967172586634240",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.showstart.com/",
+      "title": "秀动网 - 搜城市 - 苏州",
+      "type": "feed",
+      "url": "rsshub://showstart/search/city/%E8%8B%8F%E5%B7%9E"
+    },
+    {
       "description": "秀动网 - 搜演出 - Fine乐团 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -101,18 +113,6 @@ _None_
       "title": "秀动网 - 搜演出 - Fine乐团",
       "type": "feed",
       "url": "rsshub://showstart/search/Fine%E4%B9%90%E5%9B%A2"
-    },
-    {
-      "description": "秀动网 - 搜演出 - live - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72889425066383360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜演出 - live",
-      "type": "feed",
-      "url": "rsshub://showstart/search/live"
     }
   ]
 }

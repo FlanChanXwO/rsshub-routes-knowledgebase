@@ -75,16 +75,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The Message was a surreal comedy series which spoofs current practices in the television industry. It originally aired in 2006 on BBC Three. It consisted of six episodes, and was not renewed after the first season. - Powered by RSSHub",
+      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "90020177225086976",
-      "image": "https://image.tmdb.org/t/p/original/wK9h8FwbmOWlMyW6fT2C6yFPvSu.jpg",
+      "id": "146311702677387264",
+      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/3/seasons",
-      "title": "The Message - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
+      "title": "Immoral Sisters - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/3/seasons"
+      "url": "rsshub://themoviedb/tv/60593/seasons"
     }
   ],
   "view": 5

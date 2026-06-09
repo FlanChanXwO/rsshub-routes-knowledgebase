@@ -1,11 +1,11 @@
-# 上海市人民政府 - 中华人民共和国国家发展和改革委员会价格监测中心
+# 国家能源局 - 中华人民共和国国家发展和改革委员会价格监测中心
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/jgjcndrc/:columnId?/:subColumnId?`
 - Route Name: `中华人民共和国国家发展和改革委员会价格监测中心`
 - Example: `/gov/jgjcndrc/1832739866673426433`
@@ -92,8 +92,8 @@
     },
     {
       "description": "监测信息 - 猪料、鸡料、蛋料比价信息 - Powered by RSSHub",
-      "errorAt": "2026-06-06T19:33:06.711Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "112027538201244672",
       "image": "https://www.jgjcndrc.org.cn/_nuxt/logo.nPIpRnSK.svg",
       "ownerUserId": null,

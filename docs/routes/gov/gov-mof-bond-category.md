@@ -1,15 +1,15 @@
-# 上海市人民政府 - 专题
+# 国家能源局 - 专题
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/mof/bond/:category?`
 - Route Name: `专题`
 - Example: `/gov/mof/bond`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`
@@ -68,7 +68,7 @@ _None_
     {
       "description": "国债管理工作动态 - 中华人民共和国财政部 - Powered by RSSHub",
       "errorAt": "2026-02-12T02:46:43.224Z",
-      "errorMessage": "[GET] \"https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxgzdt/\": 502 Bad Gateway\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "72200004362793984",
       "image": null,
       "ownerUserId": null,

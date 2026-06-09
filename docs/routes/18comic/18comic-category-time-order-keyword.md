@@ -114,8 +114,8 @@
     },
     {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-08T00:32:32.177Z",
+      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": <no response> fetch failed\n[GET] \"https://jmcomic1.me/albums\": 403 \n[GET] \"https://jmcomic1.me/albums\": 403 \n",
       "id": "181646966076518400",
       "image": null,
       "ownerUserId": null,

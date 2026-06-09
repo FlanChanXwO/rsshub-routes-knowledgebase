@@ -78,7 +78,7 @@ _None_
     {
       "description": "党建 - 求是网 - Powered by RSSHub",
       "errorAt": "2024-12-10T05:21:10.650Z",
-      "errorMessage": "[GET] \"../20260605/c52b94a07f074a6a9b4d578816e2f4a9/c.html\": <no response> Failed to parse URL from ../20260605/c52b94a07f074a6a9b4d578816e2f4a9/c.html\n",
+      "errorMessage": "[GET] \"../20260607/4ffcc4622f734408a96ac7edcce8b877/c.html\": <no response> Failed to parse URL from ../20260607/4ffcc4622f734408a96ac7edcce8b877/c.html\n",
       "id": "83847865922732032",
       "image": null,
       "ownerUserId": null,

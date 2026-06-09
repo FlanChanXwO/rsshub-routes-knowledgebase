@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 56,
   "location": "wainao-reads.ts",
   "maintainers": [
     "lucky13820"

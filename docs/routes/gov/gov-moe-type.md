@@ -1,15 +1,15 @@
-# 上海市人民政府 - 新闻
+# 国家能源局 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/moe/:type`
 - Route Name: `新闻`
 - Example: `/gov/moe/policy_anal`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Crawler995`

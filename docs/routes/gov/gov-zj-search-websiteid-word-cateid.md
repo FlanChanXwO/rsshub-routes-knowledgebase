@@ -1,11 +1,11 @@
-# 上海市人民政府 - 浙江省人民政府-全省政府网站统一搜索
+# 国家能源局 - 浙江省人民政府-全省政府网站统一搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
 - Route Name: `浙江省人民政府-全省政府网站统一搜索`
 - Example: `/gov/zj/search`
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙江省人民政府-全省政府网站统一搜索 - Powered by RSSHub",
-      "errorAt": "2026-06-06T17:52:06.427Z",
-      "errorMessage": "[POST] \"https://search.zj.gov.cn/jsearchfront/interfaces/cateSearch.do\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139849368771468288",
       "image": null,
       "ownerUserId": null,

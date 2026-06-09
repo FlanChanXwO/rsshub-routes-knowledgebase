@@ -1,11 +1,11 @@
-# 上海市人民政府 - 广东省内城市预警信号
+# 国家能源局 - 广东省内城市预警信号
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/guangdong/tqyb/sncsyjxh`
 - Route Name: `广东省内城市预警信号`
 - Example: `/gov/guangdong/tqyb/sncsyjxh`

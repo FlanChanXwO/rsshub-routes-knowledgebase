@@ -1,15 +1,15 @@
-# 上海市人民政府 - 货币政策司公开市场交易公告
+# 国家能源局 - 货币政策司公开市场交易公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/pbc/tradeAnnouncement`
 - Route Name: `货币政策司公开市场交易公告`
 - Example: `/gov/pbc/tradeAnnouncement`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`

@@ -1,15 +1,15 @@
-# 上海市人民政府 - 通用
+# 国家能源局 - 通用
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/npc/:caty`
 - Route Name: `通用`
 - Example: `/gov/npc/c183`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `233yeee`

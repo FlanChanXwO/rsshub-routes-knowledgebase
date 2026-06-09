@@ -1,11 +1,11 @@
-# 上海市人民政府 - 宁波市人力资源和社会保障局-公告
+# 国家能源局 - 宁波市人力资源和社会保障局-公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zj/ningborsjnotice/:colId?`
 - Route Name: `宁波市人力资源和社会保障局-公告`
 - Example: `/gov/zj/ningborsjnotice/1229676740`

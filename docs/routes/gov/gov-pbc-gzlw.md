@@ -1,11 +1,11 @@
-# 上海市人民政府 - 工作论文
+# 国家能源局 - 工作论文
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/pbc/gzlw`
 - Route Name: `工作论文`
 - Example: `/gov/pbc/gzlw`

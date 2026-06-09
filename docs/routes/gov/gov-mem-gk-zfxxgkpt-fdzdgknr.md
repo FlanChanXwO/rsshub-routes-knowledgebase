@@ -1,15 +1,15 @@
-# 上海市人民政府 - 法定主动公开内容
+# 国家能源局 - 法定主动公开内容
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
 - Route Name: `法定主动公开内容`
 - Example: `/gov/mem/gk/zfxxgkpt/fdzdgknr`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `skeaven`

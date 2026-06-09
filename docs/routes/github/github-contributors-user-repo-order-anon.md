@@ -80,18 +80,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84430164607162368",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
-      "title": "infiniflow/ragflow Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/infiniflow/ragflow"
-    },
-    {
       "description": "New contributors for cgw88/cgw321.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@ _None_
       "title": "cgw88/cgw321.com Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/cgw88/cgw321.com"
+    },
+    {
+      "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126806034891658240",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/LOWERTOP/Shadowrocket-First/graphs/contributors",
+      "title": "LOWERTOP/Shadowrocket-First Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
     }
   ]
 }

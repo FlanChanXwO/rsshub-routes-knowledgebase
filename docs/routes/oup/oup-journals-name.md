@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 47,
+  "heat": 45,
   "location": "index.tsx",
   "maintainers": [
     "Fatpandac"
@@ -86,7 +86,7 @@ _None_
     {
       "description": "OUP - restud - Powered by RSSHub",
       "errorAt": "2025-07-18T14:31:43.383Z",
-      "errorMessage": "[GET] \"https://academic.oup.com/restud/issue\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://academic.oup.com/restud/issue\": 403 \n",
       "id": "73543481897669632",
       "image": null,
       "ownerUserId": null,

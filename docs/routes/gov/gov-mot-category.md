@@ -1,11 +1,11 @@
-# 上海市人民政府 - 中华人民共和国交通运输部
+# 国家能源局 - 中华人民共和国交通运输部
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/mot/:category{.+}?`
 - Route Name: `中华人民共和国交通运输部`
 - Example: `/gov/mot/jiaotongyaowen`

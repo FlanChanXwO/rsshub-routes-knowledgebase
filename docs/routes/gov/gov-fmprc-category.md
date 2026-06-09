@@ -1,15 +1,15 @@
-# 上海市人民政府 - Unknown
+# 国家能源局 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/fmprc/:category?`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nicolaszf, nczitzk`
@@ -72,8 +72,8 @@ _None_
     },
     {
       "description": "吹风会_中华人民共和国外交部 - Powered by RSSHub",
-      "errorAt": "2026-06-06T22:26:35.185Z",
-      "errorMessage": "[GET] \"https://www.mfa.gov.cn/web/wjdt_674879/cfhsl_674891\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "103088350778989568",
       "image": null,
       "ownerUserId": null,

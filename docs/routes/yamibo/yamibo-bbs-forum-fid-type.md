@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "轻小说 - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": "2026-06-06T11:17:44.835Z",
-      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99375532893443072",
       "image": null,
       "ownerUserId": null,
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": "2026-06-06T21:52:08.398Z",
-      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=5&orderby=dateline&filter=typeid&typeid=404\": 503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99080947264681984",
       "image": null,
       "ownerUserId": null,

@@ -1,15 +1,15 @@
-# 上海市人民政府 - 分类
+# 国家能源局 - 分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/nrta/news/:category?`
 - Route Name: `分类`
 - Example: `/gov/nrta/news`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `yuxinliu-alex`

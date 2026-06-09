@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "hybrid system identification - Powered by RSSHub",
+      "description": "llm formal method - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191708604458556416",
+      "id": "191738635390525440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Hybrid%20system%20identification%20&sort=0",
-      "title": "hybrid system identification",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=LLM%20formal%20method&sort=0",
+      "title": "llm formal method",
       "type": "feed",
-      "url": "rsshub://papers/query/Hybrid%20system%20identification%20"
+      "url": "rsshub://papers/query/LLM%20formal%20method"
     }
   ],
   "url": "papers.cool"

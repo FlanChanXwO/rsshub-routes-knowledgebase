@@ -1,15 +1,15 @@
-# 上海市人民政府 - 深圳市罗湖区人民政府
+# 国家能源局 - 深圳市罗湖区人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/shenzhen/szlh/zwfw/zffw/:caty`
 - Route Name: `深圳市罗湖区人民政府`
 - Example: `/gov/shenzhen/szlh/zwfw/zffw/tzgg`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `lonn`

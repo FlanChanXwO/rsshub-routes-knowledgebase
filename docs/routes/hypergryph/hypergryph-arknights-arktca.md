@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "arknights/arktca.ts",
   "maintainers": [
     "Bendancom"
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "明日方舟期刊《回归线》 | 泰拉创作者联合会 - Powered by RSSHub",
-      "errorAt": "2026-06-03T12:43:19.763Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60889229904376832",
       "image": "https://aneot.arktca.com/logo.svg",
       "ownerUserId": null,

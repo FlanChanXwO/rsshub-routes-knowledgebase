@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Run your favourite Fabric mods on NeoForge - Powered by RSSHub",
+      "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120750482624892928",
+      "id": "120292750977081344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/connector",
-      "title": "Sinytra Connector Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/sodium",
+      "title": "Sodium Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/connector/versions"
+      "url": "rsshub://modrinth/project/sodium/versions"
     }
   ]
 }

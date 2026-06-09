@@ -1,11 +1,11 @@
-# 上海市人民政府 - 贵州省教育厅 - 通知公告
+# 国家能源局 - 贵州省教育厅 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/guizhou/jyt/tzgg`
 - Route Name: `贵州省教育厅 - 通知公告`
 - Example: `/gov/guizhou/jyt/tzgg`

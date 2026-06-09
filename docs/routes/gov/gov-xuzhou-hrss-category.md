@@ -1,15 +1,15 @@
-# 上海市人民政府 - 徐州市人力资源和社会保障局
+# 国家能源局 - 徐州市人力资源和社会保障局
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/xuzhou/hrss/:category?`
 - Route Name: `徐州市人力资源和社会保障局`
 - Example: `/gov/xuzhou/hrss`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

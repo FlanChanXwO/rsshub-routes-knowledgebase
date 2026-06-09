@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Journal of Materials Chemistry A - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-07T21:34:03.743Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "175094017782230016",
       "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ta&imageInfo.ImageIdentifier.IssueId=TA014033&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,

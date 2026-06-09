@@ -1,11 +1,11 @@
-# 上海市人民政府 - 沟通交流
+# 国家能源局 - 沟通交流
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/pbc/goutongjiaoliu`
 - Route Name: `沟通交流`
 - Example: `/gov/pbc/goutongjiaoliu`

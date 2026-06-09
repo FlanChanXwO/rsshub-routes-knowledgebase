@@ -67,14 +67,14 @@ _None_
   "path": "/bbs/thread/:tid",
   "topFeeds": [
     {
-      "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.30更新至第418话） - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.6.7更新至第419话） - 轻小说/译文区 - Powered by RSSHub",
+      "errorAt": "2026-06-07T21:57:09.296Z",
+      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1\": 503 Service Unavailable\n[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1\": 503 \n",
       "id": "99377084384904192",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1",
-      "title": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.5.30更新至第418话） - 轻小说/译文区",
+      "title": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.6.7更新至第419话） - 轻小说/译文区",
       "type": "feed",
       "url": "rsshub://yamibo/bbs/thread/521519"
     },

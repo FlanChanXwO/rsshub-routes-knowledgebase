@@ -70,7 +70,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 908,
+  "heat": 905,
   "location": "index.tsx",
   "maintainers": [
     "yuxinliu-alex",
@@ -88,7 +88,7 @@ _None_
     {
       "description": "参考消息 - Powered by RSSHub",
       "errorAt": "2026-05-30T09:08:06.763Z",
-      "errorMessage": "[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n",
       "id": "59590290141788160",
       "image": null,
       "ownerUserId": null,

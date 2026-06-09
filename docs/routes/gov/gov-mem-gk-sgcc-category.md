@@ -1,15 +1,15 @@
-# 上海市人民政府 - 事故及灾害查处
+# 国家能源局 - 事故及灾害查处
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/mem/gk/sgcc/:category?`
 - Route Name: `事故及灾害查处`
 - Example: `/gov/mem/gk/sgcc/tbzdsgdcbg`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

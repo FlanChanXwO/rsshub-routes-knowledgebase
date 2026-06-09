@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/06/06/how-to-retire-at-30\": 403 \n[GET] \"https://www.economist.com/united-states/2026/06/06/checks-and-balance-newsletter-a-modest-proposal-on-cuba\": 403 \n",
+      "errorMessage": "[GET] \"https://www.economist.com/britain/2026/06/05/warning-signs-from-two-rival-fighter-jet-projects\": 403 \n[GET] \"https://www.economist.com/united-states/2026/06/06/checks-and-balance-newsletter-a-modest-proposal-on-cuba\": 403 \n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

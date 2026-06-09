@@ -1,11 +1,11 @@
-# 上海市人民政府 - 中华人民共和国农业农村部 - 新闻
+# 国家能源局 - 中华人民共和国农业农村部 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/moa/suburl/:suburl{.+}`
 - Route Name: `中华人民共和国农业农村部 - 新闻`
 - Example: `/gov/moa/suburl/gk/zcjd/`

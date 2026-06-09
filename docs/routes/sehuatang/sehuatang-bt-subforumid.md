@@ -49,7 +49,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 300,
+  "heat": 298,
   "location": "index.ts",
   "maintainers": [
     "qiwihui",
@@ -80,7 +80,7 @@ _None_
     {
       "description": "色花堂 - 国产原创 - Powered by RSSHub",
       "errorAt": "2026-02-13T17:03:44.536Z",
-      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 \n[GET] \"https://www.sehuatang.net/\": 403 \n",
+      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 \nFailed to fetch\n",
       "id": "75483915450641408",
       "image": null,
       "ownerUserId": null,

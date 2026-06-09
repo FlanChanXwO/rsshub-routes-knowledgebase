@@ -63,18 +63,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Timeline - Poltorykhina Anna - Powered by RSSHub",
-      "errorAt": "2025-11-26T14:15:25.443Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 \n",
-      "id": "127388130140915712",
-      "image": "https://cdn.cara.app/production/profiles/b17122f7-1148-4a05-a9e4-8be52eb9b189/n5dm6Wqudi8-copy.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://cara.app/polanya/all",
-      "title": "Timeline - Poltorykhina Anna",
-      "type": "feed",
-      "url": "rsshub://cara/timeline/polanya"
-    },
-    {
       "description": "Timeline - Requinoesis - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -85,6 +73,18 @@ _None_
       "title": "Timeline - Requinoesis",
       "type": "feed",
       "url": "rsshub://cara/timeline/requinoesis"
+    },
+    {
+      "description": "Timeline - Victor Sales - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131925929537537024",
+      "image": "https://cdn.cara.app/production/profiles/c0bf0283-3381-4128-81e1-706b580b8ddf/The_Dhow_Rostos7.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://cara.app/vsalesv/all",
+      "title": "Timeline - Victor Sales",
+      "type": "feed",
+      "url": "rsshub://cara/timeline/vsalesv"
     }
   ]
 }

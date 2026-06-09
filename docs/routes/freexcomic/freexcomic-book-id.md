@@ -64,7 +64,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "100187430380041216",
-      "image": "https://www.jjmhw5.top/static/upload/book/912/cover.jpg",
+      "image": "https://www.jjmhw6.top/static/upload/book/912/cover.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.jjmhw5.top/book/912",
       "title": "漫小肆 老師的親密指導",

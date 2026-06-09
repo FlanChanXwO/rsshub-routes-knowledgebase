@@ -37,7 +37,7 @@ _None_
     "popular"
   ],
   "example": "/obsidian/plugins",
-  "heat": 1606,
+  "heat": 1605,
   "location": "plugins.ts",
   "maintainers": [
     "DIYgod"

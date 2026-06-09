@@ -91,7 +91,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 60,
   "location": "bbs/img-ranking.ts",
   "maintainers": [
     "CaoMeiYouRen"

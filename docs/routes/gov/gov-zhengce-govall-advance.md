@@ -1,11 +1,11 @@
-# 上海市人民政府 - 信息稿件
+# 国家能源局 - 信息稿件
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/zhengce/govall/:advance?`
 - Route Name: `信息稿件`
 - Example: `/gov/zhengce/govall/orpro=555&notpro=2&search_field=title`

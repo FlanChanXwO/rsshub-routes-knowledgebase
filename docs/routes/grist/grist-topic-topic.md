@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Cities Articles on grist.org - Powered by RSSHub",
+      "description": "Science Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "108632404162427904",
+      "id": "100895480425924627",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/cities",
-      "title": "Cities - Gist Articles",
+      "siteUrl": "https://grist.org/science",
+      "title": "Science - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/cities"
+      "url": "rsshub://grist/topic/science"
     }
   ],
   "url": "grist.org/articles/"

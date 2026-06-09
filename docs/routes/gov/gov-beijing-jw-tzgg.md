@@ -1,11 +1,11 @@
-# 上海市人民政府 - 通知公告
+# 国家能源局 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/beijing/jw/tzgg`
 - Route Name: `通知公告`
 - Example: `/gov/beijing/jw/tzgg`

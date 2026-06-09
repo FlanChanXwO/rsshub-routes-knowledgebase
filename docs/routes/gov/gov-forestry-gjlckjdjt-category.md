@@ -1,15 +1,15 @@
-# 上海市人民政府 - 国家林草科技大讲堂
+# 国家能源局 - 国家林草科技大讲堂
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/forestry/gjlckjdjt/:category?`
 - Route Name: `国家林草科技大讲堂`
 - Example: `/gov/forestry/gjlckjdjt`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

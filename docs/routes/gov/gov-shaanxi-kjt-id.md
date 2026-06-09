@@ -1,15 +1,15 @@
-# 上海市人民政府 - 省科学技术厅
+# 国家能源局 - 省科学技术厅
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/shaanxi/kjt/:id?`
 - Route Name: `省科学技术厅`
 - Example: `/gov/shaanxi/kjt`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

@@ -87,6 +87,18 @@
   ],
   "topFeeds": [
     {
+      "description": "实践竞赛 - 浙江工业大学教务处 - Powered by RSSHub",
+      "errorAt": "2026-06-07T11:17:19.024Z",
+      "errorMessage": "[GET] \"http://www.jwc.zjut.edu.cn/1850/list.htm\": 403 Forbidden\n",
+      "id": "76958464712676352",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.jwc.zjut.edu.cn/1850/list.htm",
+      "title": "实践竞赛 - 浙江工业大学教务处",
+      "type": "feed",
+      "url": "rsshub://zjut/jwc/1850"
+    },
+    {
       "description": "新闻动态 - 浙江工业大学教务处 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,18 +109,6 @@
       "title": "新闻动态 - 浙江工业大学教务处",
       "type": "feed",
       "url": "rsshub://zjut/jwc/1838"
-    },
-    {
-      "description": "实践竞赛 - 浙江工业大学教务处 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "76958464712676352",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.jwc.zjut.edu.cn/1850/list.htm",
-      "title": "实践竞赛 - 浙江工业大学教务处",
-      "type": "feed",
-      "url": "rsshub://zjut/jwc/1850"
     }
   ],
   "url": "www.jwc.zjut.edu.cn"

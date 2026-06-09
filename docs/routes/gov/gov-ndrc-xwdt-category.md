@@ -1,15 +1,15 @@
-# 上海市人民政府 - 新闻动态
+# 国家能源局 - 新闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - Route Name: `新闻动态`
 - Example: `/gov/ndrc/xwdt`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `nczitzk`

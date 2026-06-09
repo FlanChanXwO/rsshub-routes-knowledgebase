@@ -89,7 +89,7 @@ Support for announcements and fancards:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1412,
+  "heat": 1415,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk",

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 859,
+  "heat": 858,
   "location": "msgalbum.ts",
   "maintainers": [
     "MisteryMonster"
@@ -66,7 +66,7 @@ _None_
     {
       "description": "PaperAgent|LLM热点Paper - Powered by RSSHub",
       "errorAt": "2025-07-23T12:13:10.406Z",
-      "errorMessage": "Failed to fetch\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGlzI2qj4np23CFT5znGM4gZR0ujPlJfL45jbdSF&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247507799%26idx%3D2%26sn%3D31a2d678148eb219eec37c2db98fea1e\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJZzI2qjLo2DU1HQcVFcHwLkgwpMe78AXRNoIp13&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247507969%26idx%3D1%26sn%3D4c2a9ac476c46d64d5529f166d08ae14\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEwXJmqjGnbJcsDwYzVTDjetXC8TCovctwc8GI0P&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508057%26idx%3D2%26sn%3Dae742e2461e01390891a91501be7d19d\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HFEXJmqj5n3D6UImZoB00IoHDZVa5PPo4n1Wt-El&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508099%26idx%3D1%26sn%3D7a23912f7e9353d1d2a4bcdab29afa0b\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HFwXJmqjmAil_infomYQljqbcHPcDbyZstxHL_cl&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508099%26idx%3D1%26sn%3D7a23912f7e9353d1d2a4bcdab29afa0b\n",
       "id": "55818057211386897",
       "image": null,
       "ownerUserId": null,

@@ -86,7 +86,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 434,
+  "heat": 435,
   "location": "index.ts",
   "maintainers": [
     "nashi23"
@@ -107,8 +107,8 @@
   "topFeeds": [
     {
       "description": "线板酷-最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-07T23:28:07.009Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57341806801267712",
       "id": "57341806801267712",
       "image": null,
       "ownerUserId": null,

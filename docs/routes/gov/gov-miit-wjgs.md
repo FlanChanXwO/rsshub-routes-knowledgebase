@@ -1,15 +1,15 @@
-# 上海市人民政府 - 文件公示
+# 国家能源局 - 文件公示
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/miit/wjgs`
 - Route Name: `文件公示`
 - Example: `/gov/miit/wjgs`
-- URL: `sh.gov.cn`
+- URL: `www.nea.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Yoge-Code`

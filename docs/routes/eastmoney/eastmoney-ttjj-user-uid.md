@@ -61,21 +61,21 @@ _None_
   "path": "/ttjj/user/:uid",
   "topFeeds": [
     {
-      "description": "不存在的用户 的动态 - Powered by RSSHub",
+      "description": "范范爱养基 的动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "63493307705393157",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://fundbarmob.eastmoney.com/index.html?goPage=personDetailView&userid=7185105344679198",
-      "title": "天天基金-不存在的用户的主页",
+      "title": "天天基金-范范爱养基的主页",
       "type": "feed",
       "url": "rsshub://eastmoney/ttjj/user/7185105344679198"
     },
     {
       "description": "herorose 的动态 - Powered by RSSHub",
-      "errorAt": "2026-06-06T23:35:48.383Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73927094898480128",
       "image": null,
       "ownerUserId": null,

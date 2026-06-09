@@ -1,11 +1,11 @@
-# 上海市人民政府 - 政府信息公开
+# 国家能源局 - 政府信息公开
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `上海市人民政府`
+- Namespace Name: `国家能源局`
 - Route Path: `/gov/csrc/zfxxgk_zdgk/:id?`
 - Route Name: `政府信息公开`
 - Example: `/gov/csrc/zfxxgk_zdgk/c101971`
