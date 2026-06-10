@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T03:22:48.990Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "99080947264681984",
       "image": null,
       "ownerUserId": null,

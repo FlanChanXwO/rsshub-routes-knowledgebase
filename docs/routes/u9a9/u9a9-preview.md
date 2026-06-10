@@ -72,7 +72,7 @@ _None_
     },
     {
       "description": "U9A9 - Powered by RSSHub",
-      "errorAt": "2026-06-08T01:22:57.933Z",
+      "errorAt": "2026-06-09T03:53:09.570Z",
       "errorMessage": "Failed to fetch\n",
       "id": "75777045788956696",
       "image": null,

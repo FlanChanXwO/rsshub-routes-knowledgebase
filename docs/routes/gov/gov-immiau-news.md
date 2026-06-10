@@ -1,15 +1,15 @@
-# 国家能源局 - Immigration and Citizenship - News
+# 上海市人民政府 - Immigration and Citizenship - News
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/immiau/news`
 - Route Name: `Immigration and Citizenship - News`
 - Example: `/gov/immiau/news`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `liu233w`

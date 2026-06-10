@@ -1,11 +1,11 @@
-# 国家能源局 - 获取国家医师资格考试通知
+# 上海市人民政府 - 获取国家医师资格考试通知
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/jinan/healthcommission/medical_exam_notice`
 - Route Name: `获取国家医师资格考试通知`
 - Example: `/gov/jinan/healthcommission/medical_exam_notice`

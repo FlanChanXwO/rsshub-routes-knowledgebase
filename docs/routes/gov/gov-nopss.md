@@ -1,15 +1,15 @@
-# 国家能源局 - Unknown
+# 上海市人民政府 - Unknown
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/nopss/*`
 - Route Name: `Unknown`
 - Example: `_None_`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `None`
@@ -44,7 +44,7 @@ _None_
     {
       "description": "鍚庢湡璧勫姪椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
       "errorAt": "2025-12-27T08:01:57.393Z",
-      "errorMessage": "[GET] \"http://www.nopss.gov.cn/n1/2025/0117/c431030-40404310.html\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "68892056440478837",
       "image": null,
       "ownerUserId": null,
@@ -54,16 +54,16 @@ _None_
       "url": "rsshub://gov/nopss/GB/219469/431030"
     },
     {
-      "description": "骞村害椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
+      "description": "閲嶅ぇ椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "68892056440478839",
+      "id": "68892056440478838",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431027",
-      "title": "骞村害椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
+      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431028",
+      "title": "閲嶅ぇ椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
       "type": "feed",
-      "url": "rsshub://gov/nopss/GB/219469/431027"
+      "url": "rsshub://gov/nopss/GB/219469/431028"
     }
   ]
 }

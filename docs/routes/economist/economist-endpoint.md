@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/01/chinas-delivery-drivers-are-its-most-obvious-underclass\": 403 \n[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/04/ma-ning-will-proudly-represent-china-at-the-world-cup\": 403 \n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/07/china-and-russia-are-competing-for-influence-over-north-korea\": 403 \n[GET] \"https://www.economist.com/china/2026/06/07/china-and-russia-are-competing-for-influence-over-north-korea\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/07/china-and-russia-are-competing-for-influence-over-north-korea\": 403 \n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

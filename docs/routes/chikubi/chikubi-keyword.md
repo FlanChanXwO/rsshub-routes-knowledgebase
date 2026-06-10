@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 38,
   "location": "navigation.ts",
   "maintainers": [
     "SnowAgar25"
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "漫畫 - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-06-07T11:16:33.456Z",
-      "errorMessage": "Status code 415\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72575658360313856",
       "image": null,
       "ownerUserId": null,

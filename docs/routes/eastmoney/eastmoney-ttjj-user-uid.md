@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "范范爱养基 的动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-08T21:58:59.055Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "63493307705393157",
       "image": null,
       "ownerUserId": null,

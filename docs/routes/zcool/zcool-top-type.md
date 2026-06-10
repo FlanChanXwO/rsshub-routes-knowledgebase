@@ -81,7 +81,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.zcool.com.cn/top/index.do",
-      "title": "站酷总榜设计_创意作品榜_第475期-站酷ZCOOL",
+      "title": "站酷总榜设计_创意作品榜_第476期-站酷ZCOOL",
       "type": "feed",
       "url": "rsshub://zcool/top/design"
     },

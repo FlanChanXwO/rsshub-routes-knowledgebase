@@ -1,17 +1,17 @@
-# 国家能源局 - 新闻动态
+# 上海市人民政府 - 新闻动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - Route Name: `新闻动态`
 - Example: `/gov/ndrc/xwdt`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
-- Categories: `government, popular`
+- Categories: `government`
 - Maintainers: `nczitzk`
 - Source Location: `ndrc/xwdt.ts`
 - Source Module: `_None_`
@@ -38,12 +38,11 @@ _None_
 ```json
 {
   "categories": [
-    "government",
-    "popular"
+    "government"
   ],
   "description": "| 新闻发布 | 通知通告 | 委领导动态 | 司局动态 | 地方动态 |\n| -------- | -------- | ---------- | -------- | -------- |\n| xwfb     | tzgg     | wlddt      | sjdt     | dfdt     |",
   "example": "/gov/ndrc/xwdt",
-  "heat": 1307,
+  "heat": 1308,
   "location": "ndrc/xwdt.ts",
   "maintainers": [
     "nczitzk"

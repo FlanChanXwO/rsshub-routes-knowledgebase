@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "我们密切关注A股的市场动态，为你搜集最及时的A股资讯和分析解读。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T02:38:49.909Z",
+      "errorMessage": "[GET] \"https://www.gelonghui.com/subject/4\": <no response> fetch failed\n[GET] \"https://www.gelonghui.com/subject/4\": <no response> fetch failed\n",
       "id": "59829598270902276",
       "image": "https://img7.gelonghui.com/apply/211719_20181221/column_article_file_20181221170139302.png",
       "ownerUserId": null,

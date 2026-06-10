@@ -100,7 +100,7 @@ If you subscribe to [Gold Price News](https://www.bullionvault.com/gold-news/gol
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 14,
   "location": "gold-news.ts",
   "maintainers": [
     "nczitzk"

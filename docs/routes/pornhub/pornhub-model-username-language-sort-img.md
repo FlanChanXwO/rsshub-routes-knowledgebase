@@ -114,7 +114,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 28294,
+  "heat": 25919,
   "location": "model.ts",
   "maintainers": [
     "I2IMk",

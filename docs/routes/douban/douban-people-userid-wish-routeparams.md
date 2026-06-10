@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://douban/people/270652243/wish"
     },
     {
-      "description": "豆瓣想看 - kiki - Powered by RSSHub",
+      "description": "豆瓣想看 - 追——＆梦→~异类~ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "169385164284093440",
+      "id": "75887997094583296",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/people/46349710/wish",
-      "title": "豆瓣想看 - kiki",
+      "siteUrl": "https://movie.douban.com/people/163194102/wish",
+      "title": "豆瓣想看 - 追——＆梦→~异类~",
       "type": "feed",
-      "url": "rsshub://douban/people/46349710/wish"
+      "url": "rsshub://douban/people/163194102/wish"
     }
   ]
 }

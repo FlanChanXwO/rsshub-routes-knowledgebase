@@ -1,15 +1,15 @@
-# 国家能源局 - 文件发布
+# 上海市人民政府 - 文件发布
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/miit/wjfb/:ministry`
 - Route Name: `文件发布`
 - Example: `/gov/miit/wjfb/ghs`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

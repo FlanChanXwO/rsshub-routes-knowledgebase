@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-07T15:32:53.781Z",
-      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a2600368e9f091353460bed\": <no response> fetch failed\n",
+      "errorAt": "2026-06-09T02:16:56.591Z",
+      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a2750208e9f09666b6125fc\": <no response> fetch failed\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

@@ -1,11 +1,11 @@
-# 国家能源局 - 贵州省教育厅 - 通知公告
+# 上海市人民政府 - 贵州省教育厅 - 通知公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/guizhou/jyt/tzgg`
 - Route Name: `贵州省教育厅 - 通知公告`
 - Example: `/gov/guizhou/jyt/tzgg`
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "贵州省教育厅门户网站通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T00:07:30.405Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "238150952866085888",
       "image": null,
       "ownerUserId": null,

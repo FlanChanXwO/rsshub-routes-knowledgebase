@@ -1,15 +1,15 @@
-# 国家能源局 - 政策解读
+# 上海市人民政府 - 政策解读
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/miit/zcjd`
 - Route Name: `政策解读`
 - Example: `/gov/miit/zcjd`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government, popular`
 - Maintainers: `Yoge-Code`

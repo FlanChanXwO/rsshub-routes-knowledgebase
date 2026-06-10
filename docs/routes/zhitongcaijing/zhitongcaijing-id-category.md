@@ -66,7 +66,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 522,
+  "heat": 521,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -81,7 +81,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-03-19T02:57:38.489Z",
-      "errorMessage": "403 Forbidden\n[GET] \"https://www.zhitongcaijing.com/content/detail/1451096.html\": 503 Service Temporarily Unavailable\n",
+      "errorMessage": "403 Forbidden\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-06-03T14:02:14.769Z",
-      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/detail/1451752.html\": 400 \n",
       "id": "72559122759839744",
       "image": null,
       "ownerUserId": null,

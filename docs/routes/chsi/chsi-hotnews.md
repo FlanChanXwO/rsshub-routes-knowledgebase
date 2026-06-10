@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 40,
+  "heat": 39,
   "location": "hotnews.ts",
   "maintainers": [
     "yanbot-team"

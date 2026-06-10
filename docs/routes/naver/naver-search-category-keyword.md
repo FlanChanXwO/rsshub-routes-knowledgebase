@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 5,
   "location": "search.ts",
   "maintainers": [
     "slowmande"

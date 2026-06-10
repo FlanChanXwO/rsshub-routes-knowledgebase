@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The fastest and most compatible rendering optimization mod for Minecraft. Now available for both NeoForge and Fabric! - Powered by RSSHub",
+      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292750977081344",
+      "id": "120292329928510464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/sodium",
-      "title": "Sodium Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/modern-ui",
+      "title": "Modern UI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/sodium/versions"
+      "url": "rsshub://modrinth/project/modern-ui/versions"
     }
   ]
 }

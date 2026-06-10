@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "BBC News Top Stories - Powered by RSSHub",
-      "errorAt": "2026-06-08T02:58:38.892Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55115129833870338",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55115129833870338",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,

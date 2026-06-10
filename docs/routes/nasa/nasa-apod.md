@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 38782,
+  "heat": 38760,
   "location": "apod.ts",
   "maintainers": [
     "nczitzk",

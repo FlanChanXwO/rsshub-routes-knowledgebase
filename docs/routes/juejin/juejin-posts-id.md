@@ -92,7 +92,7 @@ _None_
       "image": "https://p9-passport.byteacctimg.com/img/user-avatar/4e9e751e2b32fb8afbbf559a296ccbf2~300x300.image",
       "ownerUserId": null,
       "siteUrl": "https://juejin.cn/user/2788017216685118/posts",
-      "title": "掘金专栏-zxg_神说要有光",
+      "title": "掘金专栏-神光的幸福生活公号",
       "type": "feed",
       "url": "rsshub://juejin/posts/2788017216685118"
     }

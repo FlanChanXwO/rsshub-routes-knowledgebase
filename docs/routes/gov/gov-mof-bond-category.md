@@ -1,15 +1,15 @@
-# 国家能源局 - 专题
+# 上海市人民政府 - 专题
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/mof/bond/:category?`
 - Route Name: `专题`
 - Example: `/gov/mof/bond`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `la3rence`
@@ -80,7 +80,7 @@ _None_
     {
       "description": "储蓄国债发行 - 中华人民共和国财政部 - Powered by RSSHub",
       "errorAt": "2026-02-12T06:18:06.323Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxdzs/\": 502 Bad Gateway\n",
       "id": "100135024449222656",
       "image": null,
       "ownerUserId": null,

@@ -69,16 +69,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "延禧攻略璎珞，容音和明玉穿越并拯救如懿传世界 有系统但金手指不大，前期仅有看部分剧情和部分道具帮助 对如懿传原主角团不友好，不喜勿入 本文所有比喻，隐喻写法仅表达影视剧情，角色和台词吐槽，以及少量作者对文娱作品创作的个人看法，不上升演员！不上升演员！不上升演员！ - Powered by RSSHub",
-      "errorAt": "2025-12-13T10:00:25.474Z",
-      "errorMessage": "[GET] \"https://fanqienovel.com/page/7356782767855635481\": 404 \n",
-      "id": "69776058995578880",
-      "image": "https://p6-novel-sign.byteimg.com/novel-pic/p2o8b7f595cdf7dfce6953863d976ddcdb6~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1765675631&x-signature=sWD%2FC%2F%2Bk1R6cw13zc10JQwlM%2B%2Fc%3D",
+      "description": "有人说，官场是权力的游戏，尔虞我诈，勾心斗角，比江湖更险恶。 刘浮生觉得，官场是情与法，黑与白，真实与谎言，更是人间正道。 前世的他，唯唯诺诺，一心求稳，却遭人陷害，郁郁而终。 重活一世，他早已洞悉官场，青云之路尽在眼中，挡我者，必将万劫不复！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "125208460025614336",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/p2o51f9a4a8ec7d3d27446f67797c1c949c~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1781053570&x-signature=umRTZ4qulqOBmsMAYkV%2Bi%2F6kQCA%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7356782767855635481",
-      "title": "长春宫小分队穿越如懿传 - 长生试剂",
+      "siteUrl": "https://fanqienovel.com/page/7199473033239596087",
+      "title": "重生：官运亨通 - 弹剑听潮",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7356782767855635481"
+      "url": "rsshub://fanqienovel/page/7199473033239596087"
     }
   ]
 }

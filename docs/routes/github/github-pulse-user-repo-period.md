@@ -76,28 +76,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
+      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "137417584044606464",
+      "id": "215344700650354688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
-      "title": "datawhalechina/llm-universe weekly Pulse",
+      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
+      "title": "wood3n/biu weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
+      "url": "rsshub://github/pulse/wood3n/biu"
     },
     {
-      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
+      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864791",
+      "id": "220767323256864796",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
-      "title": "haoheliu/AudioLDM weekly Pulse",
+      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
+      "title": "openai/whisper weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
+      "url": "rsshub://github/pulse/openai/whisper/weekly"
     }
   ]
 }

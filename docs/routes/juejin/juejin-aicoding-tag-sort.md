@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 282,
+  "heat": 283,
   "location": "aicoding.ts",
   "maintainers": [
     "TonyRL"
@@ -199,7 +199,7 @@ _None_
     {
       "description": "AI编程 - AI 编程 - Powered by RSSHub",
       "errorAt": "2026-06-06T02:07:03.329Z",
-      "errorMessage": "Authentication failed. Access denied.\n/juejin/aicoding/AI%E7%BC%96%E7%A8%8B\n[GET] \"https://juejin.cn/post/7648053214596874267\": 403 \n",
+      "errorMessage": "Authentication failed. Access denied.\n/juejin/aicoding/AI%E7%BC%96%E7%A8%8B\n500 Internal Server Error\n",
       "id": "190049393455791104",
       "image": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1fa3c0a49ab34943aa26b26202891e7f~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=200&s=11771&e=png&b=0a0909",
       "ownerUserId": null,

@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - 過去24小時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T01:32:13.703Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69916583666986003",
       "image": null,
       "ownerUserId": null,

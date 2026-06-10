@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 152,
+  "heat": 150,
   "location": "live.ts",
   "maintainers": [
     "sussurr127"

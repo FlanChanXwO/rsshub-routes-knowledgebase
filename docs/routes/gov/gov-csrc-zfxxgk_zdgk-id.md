@@ -1,11 +1,11 @@
-# 国家能源局 - 政府信息公开
+# 上海市人民政府 - 政府信息公开
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/csrc/zfxxgk_zdgk/:id?`
 - Route Name: `政府信息公开`
 - Example: `/gov/csrc/zfxxgk_zdgk/c101971`
@@ -945,8 +945,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T03:13:18.145Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

@@ -1,15 +1,15 @@
-# 国家能源局 - 业务咨询
+# 上海市人民政府 - 业务咨询
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/safe/business/:site?`
 - Route Name: `业务咨询`
 - Example: `/gov/safe/business/beijing`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`

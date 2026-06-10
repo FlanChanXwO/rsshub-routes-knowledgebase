@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "学术观点 - Powered by RSSHub",
-      "errorAt": "2026-06-06T17:07:10.774Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79124130475658240",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "视点 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T03:22:50.185Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79123105460402176",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

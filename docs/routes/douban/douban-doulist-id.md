@@ -62,18 +62,6 @@ _None_
   "path": "/doulist/:id",
   "topFeeds": [
     {
-      "description": "赚钱！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "218332020877377536",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.douban.com/doulist/159237128",
-      "title": "赚钱！",
-      "type": "feed",
-      "url": "rsshub://douban/doulist/159237128"
-    },
-    {
       "description": "通向牛逼之路。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -84,6 +72,18 @@ _None_
       "title": "记住这些我觉得你就应该很牛掰了",
       "type": "feed",
       "url": "rsshub://douban/doulist/37716774"
+    },
+    {
+      "description": "赚钱！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "218332020877377536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.douban.com/doulist/159237128",
+      "title": "赚钱！",
+      "type": "feed",
+      "url": "rsshub://douban/doulist/159237128"
     }
   ]
 }

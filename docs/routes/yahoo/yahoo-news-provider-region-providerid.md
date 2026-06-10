@@ -92,14 +92,14 @@
   ],
   "topFeeds": [
     {
-      "description": "Yahoo 新聞 - 法新社 - Powered by RSSHub",
+      "description": "Yahoo 新聞 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "66154144789164034",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,
-      "siteUrl": "https://hk.news.yahoo.com/afp.com.hk--%E6%89%80%E6%9C%89%E9%A1%9E%E5%88%A5/archive",
-      "title": "Yahoo 新聞 - 法新社",
+      "siteUrl": "https://hk.news.yahoo.com/",
+      "title": "Yahoo 新聞 -",
       "type": "feed",
       "url": "rsshub://yahoo/news/provider/hk/afp.com.hk"
     },

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 479,
+  "heat": 481,
   "location": "category.ts",
   "maintainers": [
     "emdoe"

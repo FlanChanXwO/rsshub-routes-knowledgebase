@@ -1,15 +1,15 @@
-# 国家能源局 - 惠州市人民政府
+# 上海市人民政府 - 惠州市人民政府
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov`
-- Namespace Name: `国家能源局`
+- Namespace Name: `上海市人民政府`
 - Route Path: `/gov/huizhou/zwgk/:category?`
 - Route Name: `惠州市人民政府`
 - Example: `/gov/huizhou/zwgk/jgdt`
-- URL: `www.nea.gov.cn`
+- URL: `sh.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `Fatpandac`

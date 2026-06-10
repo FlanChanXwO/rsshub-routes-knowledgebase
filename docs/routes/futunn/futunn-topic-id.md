@@ -43,7 +43,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 23,
+  "heat": 25,
   "location": "topic.ts",
   "maintainers": [
     "kennyfong19931"

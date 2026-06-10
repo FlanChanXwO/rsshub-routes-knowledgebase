@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Platzi - Powered by RSSHub",
-      "errorAt": "2026-06-04T07:57:16.541Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265967006213506048",
+      "description": "The AI Collective - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/platzi",
-      "title": "Platzi",
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
       "type": "feed",
-      "url": "rsshub://luma/platzi"
+      "url": "rsshub://luma/genai-collective"
     }
   ],
   "url": "lu.ma"

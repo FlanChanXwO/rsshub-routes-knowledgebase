@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 94,
+  "heat": 93,
   "location": "kydt.ts",
   "maintainers": [
     "SunBK201"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国研究生招生信息网 - 考研动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-08T21:58:13.950Z",
+      "errorMessage": "403 Forbidden\nFailed to fetch\n",
       "id": "64923928042092545",
       "image": null,
       "ownerUserId": null,

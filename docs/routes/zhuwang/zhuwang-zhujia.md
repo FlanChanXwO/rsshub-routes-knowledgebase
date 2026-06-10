@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 268,
+  "heat": 269,
   "location": "index.ts",
   "maintainers": [],
   "name": "全国今日生猪价格",

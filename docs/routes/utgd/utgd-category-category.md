@@ -90,8 +90,8 @@
     },
     {
       "description": "来自本站作者们的方法型文章。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T00:26:43.819Z",
+      "errorMessage": "[GET] \"https://api.utgd.net/api/v2/category/slug/method/\": <no response> fetch failed\n",
       "id": "84874523594988544",
       "image": "https://cdn.utgd.net",
       "ownerUserId": null,
