@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T03:13:30.047Z",
+      "errorMessage": "Failed to fetch\n522 <none>\n403 Forbidden\n502 Bad Gateway\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41572238273905677",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-06-09T03:09:05.656Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

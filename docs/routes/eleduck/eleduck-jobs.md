@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "招聘 | 电鸭社区 - Powered by RSSHub",
-      "errorAt": "2026-06-09T03:49:06.078Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n[GET] \"https://svc.eleduck.com/api/v1/posts/QZfpy9\": 404 Not Found\n[GET] \"https://svc.eleduck.com/api/v1/posts/z1farm\": 404 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57251990358714368",
       "image": null,
       "ownerUserId": null,

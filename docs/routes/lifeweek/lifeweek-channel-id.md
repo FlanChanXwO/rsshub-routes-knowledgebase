@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T21:02:51.834Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": <no response> fetch failed\n",
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

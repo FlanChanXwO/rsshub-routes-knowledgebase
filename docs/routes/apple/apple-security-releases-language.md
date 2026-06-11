@@ -90,8 +90,8 @@ To subscribe to [Apple security releases](https://support.apple.com/en-us/100100
     },
     {
       "description": "这篇文稿列出了 Apple 软件的安全性更新。 - Powered by RSSHub",
-      "errorAt": "2026-06-09T03:36:24.323Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "172636149124995072",
       "image": null,
       "ownerUserId": null,

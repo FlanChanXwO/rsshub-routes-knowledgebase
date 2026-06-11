@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T01:47:26.662Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67473482043971584",
       "id": "67473482043971584",
       "image": null,
       "ownerUserId": null,

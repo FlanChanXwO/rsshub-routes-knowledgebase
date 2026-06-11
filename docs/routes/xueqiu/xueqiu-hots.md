@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3590,
+  "heat": 3592,
   "location": "hots.ts",
   "maintainers": [
     "hillerliao"

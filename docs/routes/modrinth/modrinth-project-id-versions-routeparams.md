@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
+      "description": "The ULTIMATE plugin to reward AFK players by creating AFK zones / pools - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292329928510464",
+      "id": "123847807916844032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/modern-ui",
-      "title": "Modern UI Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/6dJ1xToi",
+      "title": "AxAFKZone Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/modern-ui/versions"
+      "url": "rsshub://modrinth/project/6dJ1xToi/versions"
     }
   ]
 }

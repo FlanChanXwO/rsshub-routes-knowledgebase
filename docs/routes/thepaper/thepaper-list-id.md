@@ -174,8 +174,8 @@ _None_
     },
     {
       "description": "澎湃新闻栏目 - 上海书评 - Powered by RSSHub",
-      "errorAt": "2026-06-09T03:48:52.621Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65685705337799701",
       "image": "https://image.thepaper.cn/depository/image/5/352/565.jpg",
       "ownerUserId": null,

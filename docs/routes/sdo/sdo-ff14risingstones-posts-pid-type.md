@@ -124,8 +124,8 @@ _None_
   "topFeeds": [
     {
       "description": "石之家 - 帖文 - 官方讯息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T08:16:25.111Z",
+      "errorMessage": "522 <none>\nff14risingstones RSS is disabled due to the lack of relevant config\n",
       "id": "188045775088455680",
       "image": "https://ff14risingstones.web.sdo.com/pc/favicon.ico",
       "ownerUserId": null,

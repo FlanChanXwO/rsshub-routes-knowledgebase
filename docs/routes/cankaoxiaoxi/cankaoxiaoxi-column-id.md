@@ -87,8 +87,8 @@ _None_
   "topFeeds": [
     {
       "description": "参考消息 - Powered by RSSHub",
-      "errorAt": "2026-05-30T09:08:06.763Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/gj/list.json\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59590290141788160",
       "image": null,
       "ownerUserId": null,
@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "参考消息 - Powered by RSSHub",
-      "errorAt": "2026-05-30T08:32:47.398Z",
-      "errorMessage": "[GET] \"https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json\": <no response> fetch failed\n[GET] \"https://china.cankaoxiaoxi.com/json/channel/zhongguo/list.json\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41461870201364480",
       "image": null,
       "ownerUserId": null,

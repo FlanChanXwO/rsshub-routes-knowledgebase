@@ -79,28 +79,28 @@ _None_
   "radar": [],
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523949050013696",
+      "id": "250523390007444480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/hydrafxx-collection-2026-01-01-hydrafxx.25063/#post-1544334",
-      "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
+      "siteUrl": "https://f95zone.to/threads/nagoonimation-collection-2025-11-14-nagoonimation.52702/#post-3510810",
+      "title": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
+      "url": "rsshub://f95zone/post/nagoonimation-collection-2025-11-14-nagoonimation.52702/post-3510810"
     },
     {
-      "description": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-01-04] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "243703193927277568",
+      "id": "243703331756301312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/ecksoh-collection-2026-01-01-xoxo.136515/#post-9343108",
-      "title": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/#post-12203185",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-01-04] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/ecksoh-collection-2026-01-01-xoxo.136515/post-9343108"
+      "url": "rsshub://f95zone/post/bamh3d-collection-2026-01-04-bamhor.181609/post-12203185"
     }
   ]
 }

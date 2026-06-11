@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 149,
+  "heat": 148,
   "location": "latest-stories.tsx",
   "maintainers": [
     "miles170"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Stories from National Geographic - Powered by RSSHub",
-      "errorAt": "2026-06-05T17:27:48.295Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'flatMap')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,

@@ -66,7 +66,7 @@ _None_
     {
       "description": "仅限于发布日本、韩国、国产、泰国、印度等亚洲无码类成人视频BT资源【5级主贴 1级回复】 SiS001! Board - [第一会所 关闭注册] - Powered by RSSHub",
       "errorAt": "2025-08-22T21:19:59.702Z",
-      "errorMessage": "[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 \n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-143-1.html\": 403 \n",
       "id": "72307748768172032",
       "image": null,
       "ownerUserId": null,

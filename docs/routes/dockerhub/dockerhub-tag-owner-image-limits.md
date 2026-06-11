@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "emby自供版 交流群：433493451 703381164 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T20:23:31.272Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67082647330225152",
       "image": null,
       "ownerUserId": null,

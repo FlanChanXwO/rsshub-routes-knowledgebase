@@ -107,8 +107,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates and insights from the Cursor team. Learn about AI-powered coding, product updates, and development tips. - Powered by RSSHub",
-      "errorAt": "2026-06-09T03:36:59.648Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "194403390016990208",
       "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/opengraph-blog.png",
       "ownerUserId": null,

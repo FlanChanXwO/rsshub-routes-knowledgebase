@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 419,
+  "heat": 418,
   "location": "artist.ts",
   "maintainers": [
     "outloudvi"

@@ -90,8 +90,8 @@
     },
     {
       "description": "游戏资讯, 游戏日报提供最具价值行业信息。 - Powered by RSSHub",
-      "errorAt": "2026-06-09T02:47:41.993Z",
-      "errorMessage": "[GET] \"http://news.yxrb.net/2026/0609/7069.html\": 404 Not Found\n[GET] \"http://news.yxrb.net/2026/0609/7070.html\": 404 Not Found\n[GET] \"http://news.yxrb.net/2026/0609/7070.html\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "93963104693017600",
       "image": "http://news.yxrb.net/uploadfile/2022/1008/8daa67f624b4928.png",
       "ownerUserId": null,

@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/06/business/media/60-minutes-nick-bilton.html\": 403 \n[GET] \"https://www.nytimes.com/2026/06/07/world/middleeast/israel-beirut-attacks-hezbollah.html\": 403 \n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html\": 403 \n[GET] \"https://www.nytimes.com/2026/06/09/world/middleeast/us-iran-talks-war.html\": 403 \n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

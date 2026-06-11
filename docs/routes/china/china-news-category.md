@@ -77,7 +77,7 @@ Category of news
     {
       "description": "中华网-国内新闻 - Powered by RSSHub",
       "errorAt": "2026-01-20T09:48:46.713Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://news.china.com/domestic\": 403 Forbidden\n",
       "id": "56595070994110464",
       "image": null,
       "ownerUserId": null,

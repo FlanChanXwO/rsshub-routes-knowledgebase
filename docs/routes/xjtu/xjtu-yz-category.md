@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "西安交通大学研究生招生信息网 - Powered by RSSHub",
-      "errorAt": "2025-12-05T06:53:13.544Z",
-      "errorMessage": "[GET] \"https://yz.xjtu.edu.cn/index/zsdt.htm\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "134832567118453760",
       "image": null,
       "ownerUserId": null,

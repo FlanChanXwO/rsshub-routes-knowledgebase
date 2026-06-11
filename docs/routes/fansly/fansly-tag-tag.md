@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "#asian - Fansly - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T09:11:39.907Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79119861632400384",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "#china - Fansly - Powered by RSSHub",
-      "errorAt": "2026-06-04T09:57:06.860Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79121801531701248",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
       "ownerUserId": null,

@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "台州19楼 - Powered by RSSHub",
-      "errorAt": "2026-06-01T02:47:02.607Z",
-      "errorMessage": "[GET] \"https://taizhou.19lou.com\": <no response> fetch failed\n",
+      "errorAt": "2026-06-10T02:07:30.974Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71090917239899136",
       "image": null,
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1322,
+  "heat": 1323,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",
@@ -146,8 +146,8 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T03:53:28.796Z",
+      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/\": 403 \n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=306387\": 429 \n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n502 Bad Gateway\nFailed to fetch\n",
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,

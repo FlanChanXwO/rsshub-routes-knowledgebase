@@ -57,7 +57,7 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 214,
+  "heat": 215,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

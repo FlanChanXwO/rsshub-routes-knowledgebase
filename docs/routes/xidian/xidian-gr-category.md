@@ -98,8 +98,8 @@
   "topFeeds": [
     {
       "description": "通知公告-研究生院-西安电子科技大学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-09T22:42:47.192Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88422062290453504",
       "image": null,
       "ownerUserId": null,

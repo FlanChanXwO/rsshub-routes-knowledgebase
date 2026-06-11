@@ -80,6 +80,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84430164607162368",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
+      "title": "infiniflow/ragflow Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/infiniflow/ragflow"
+    },
+    {
       "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,18 +102,6 @@ _None_
       "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
-    },
-    {
-      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64129774135370752",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
-      "title": "KrystalCJ/Conf Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/KrystalCJ/Conf"
     }
   ]
 }

@@ -56,7 +56,7 @@ Subscribe to the content of a specific user
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6642,
+  "heat": 6647,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

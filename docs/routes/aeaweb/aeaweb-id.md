@@ -90,8 +90,8 @@ More jounals can be found in [AEA Journals](https://www.aeaweb.org/journals).
     },
     {
       "description": "American Economic Journal: Applied Economics covers a range of topics in applied economics, with a focus on empirical microeconomic issues. Subject areas include labor economics, development microeconomics, health, education, demography, empirical corporate finance, empirical studies of trade, and empirical behavioral economics. The journal publishes four issues per year. - Powered by RSSHub",
-      "errorAt": "2026-06-09T01:32:11.812Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75182460564086784",
       "image": null,
       "ownerUserId": null,

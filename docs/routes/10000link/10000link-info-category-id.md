@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "国企背景+新平台！泸州金桂商业保理（筹）首批招聘，好岗位等你来挑~ - Powered by RSSHub",
+      "description": "跑偏的拉回，缺位的补齐！国办54号新规重塑23万亿私募生态：地方想随便搞产业基金？没门 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 国企背景+新平台！泸州金桂商业保理（筹）首批招聘，好岗位等你来挑~",
+      "title": "10000万联网 - 跑偏的拉回，缺位的补齐！国办54号新规重塑23万亿私募生态：地方想随便搞产业基金？没门",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },
