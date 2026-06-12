@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 17,
   "location": "artists-top.ts",
   "maintainers": [
     "outloudvi"
@@ -83,7 +83,7 @@ _None_
     {
       "description": "Spotify: My Top Artists - Powered by RSSHub",
       "errorAt": "2026-03-12T05:56:28.822Z",
-      "errorMessage": "[GET] \"https://api.spotify.com/v1/me/top/artists\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.spotify.com/v1/me/top/artists\": 403 \n",
       "id": "60272158594622464",
       "image": null,
       "ownerUserId": null,

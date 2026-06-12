@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 650,
+  "heat": 651,
   "location": "book.ts",
   "maintainers": [
     "melvinto",
@@ -122,14 +122,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- June 14, 2026 - Powered by RSSHub",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- June 21, 2026 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "56271356825466880",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- June 14, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- June 21, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     },

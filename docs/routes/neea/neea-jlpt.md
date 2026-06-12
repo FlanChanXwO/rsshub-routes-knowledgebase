@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "维护通知 - 中国教育考试网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T11:52:17.733Z",
+      "errorMessage": "[GET] \"https://jlpt.neea.cn/index.do\": 412 Precondition Failed\n[GET] \"https://jlpt.neea.cn/index.do\": 412 Precondition Failed\n",
       "id": "106226114484296704",
       "image": null,
       "ownerUserId": null,

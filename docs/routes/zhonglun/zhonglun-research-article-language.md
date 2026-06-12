@@ -128,7 +128,7 @@
     },
     {
       "description": "中伦律师事务所官方网站 - ARTICLES 专业文章 - Powered by RSSHub",
-      "errorAt": "2026-06-09T20:43:14.430Z",
+      "errorAt": "2026-06-10T22:33:08.934Z",
       "errorMessage": "Failed to fetch\n",
       "id": "166932773326277632",
       "image": "https://www.zhonglun.com/upload/static/images/logo.png",

@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "一個滯留臺灣，有著臺灣血統、馬雅認同、印度外表的馬雅國駐臺大使。是的！我就是臺灣馬雅文化唯一品牌，全亞洲最大的馬雅線上客服，PTT八卦版的馬雅人Mayaman。 - Powered by RSSHub",
-      "errorAt": "2026-06-09T22:37:26.171Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69072624867105792",
       "image": "https://images.vocus.cc/c35c9f21-767d-40fa-bd24-a9a0f2b33145.png",
       "ownerUserId": null,

@@ -67,7 +67,7 @@ _None_
     {
       "description": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他 - Powered by RSSHub",
       "errorAt": "2026-01-14T05:24:14.256Z",
-      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 \n",
+      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\nFailed to fetch\n",
       "id": "143852106817588235",
       "image": null,
       "ownerUserId": null,
@@ -79,7 +79,7 @@ _None_
     {
       "description": "Hanime1 搜索结果 | 类型: Cosplay - Powered by RSSHub",
       "errorAt": "2026-01-14T04:42:31.316Z",
-      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=Cosplay&broad=&sort=&year=&month=\": 403 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "165957469628528640",
       "image": null,
       "ownerUserId": null,

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1122,
+  "heat": 1123,
   "location": "news.tsx",
   "maintainers": [
     "TonyRL",
@@ -162,8 +162,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": "2026-06-09T05:37:57.373Z",
-      "errorMessage": "[GET] \"https://api.nhkworld.jp/nwapi/rdnewsweb/v6b/en/detail/20260512_B2.json\": 400 \nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-06-10T09:23:37.167Z",
+      "errorMessage": "[GET] \"https://api.nhkworld.jp/nwapi/rdnewsweb/v6b/en/detail/20260512_B2.json\": 400 \nFailed to fetch\n404 Not Found\nFailed to fetch\n",
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,

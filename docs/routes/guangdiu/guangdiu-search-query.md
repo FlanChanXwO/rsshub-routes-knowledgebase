@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "逛丢 - 6750gre - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T20:07:09.797Z",
+      "errorMessage": "Authentication failed. Access denied.\n/guangdiu/search/q=6750gre\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "136052350296282112",
       "image": null,
       "ownerUserId": null,

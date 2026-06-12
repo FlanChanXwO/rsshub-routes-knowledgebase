@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "信息公开_政务公开-上海市浦东新区门户网站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T01:08:41.212Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "70670986639239168",
       "image": null,
       "ownerUserId": null,

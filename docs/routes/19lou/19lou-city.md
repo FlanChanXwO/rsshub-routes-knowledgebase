@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "嘉兴 19 楼 - Powered by RSSHub",
-      "errorAt": "2026-06-01T08:27:30.114Z",
-      "errorMessage": "[GET] \"https://jiaxing.19lou.com\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59034349000577024",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "台州19楼 - Powered by RSSHub",
-      "errorAt": "2026-06-10T02:07:30.974Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71090917239899136",
       "image": null,
       "ownerUserId": null,

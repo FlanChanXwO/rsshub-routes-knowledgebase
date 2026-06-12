@@ -105,7 +105,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5631,
+  "heat": 5632,
   "location": "list.ts",
   "maintainers": [
     "DIYgod",
@@ -141,8 +141,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter List - 1502570462752219136 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T03:26:31.473Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "59816386195718144",
       "image": null,
       "ownerUserId": null,

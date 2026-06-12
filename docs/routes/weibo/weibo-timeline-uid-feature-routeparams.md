@@ -65,7 +65,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18,
+  "heat": 19,
   "location": "timeline.ts",
   "maintainers": [
     "zytomorrow",
@@ -94,15 +94,15 @@ _None_
     },
     {
       "description": "undefined - Powered by RSSHub",
-      "errorAt": "2025-11-04T02:24:13.238Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "178677914000592896",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "188623950551269376",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
       "title": "RSSHub",
       "type": "feed",
-      "url": "rsshub://weibo/timeline/7182642782"
+      "url": "rsshub://weibo/timeline/6384001339"
     }
   ]
 }

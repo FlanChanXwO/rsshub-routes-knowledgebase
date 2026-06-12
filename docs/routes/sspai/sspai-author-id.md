@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "少数派编辑部 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T01:48:42.870Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72521496466017287",
       "image": null,
       "ownerUserId": null,

@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "跑偏的拉回，缺位的补齐！国办54号新规重塑23万亿私募生态：地方想随便搞产业基金？没门 - Powered by RSSHub",
+      "description": "退休离岗绝非护身符！河北某千亿国企一把手刚退休三月就被查，46号令戳破多少人侥幸的幻想？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 跑偏的拉回，缺位的补齐！国办54号新规重塑23万亿私募生态：地方想随便搞产业基金？没门",
+      "title": "10000万联网 - 退休离岗绝非护身符！河北某千亿国企一把手刚退休三月就被查，46号令戳破多少人侥幸的幻想？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

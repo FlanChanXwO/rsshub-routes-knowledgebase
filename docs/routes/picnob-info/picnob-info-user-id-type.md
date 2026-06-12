@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 26064,
+  "heat": 24326,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"
@@ -73,18 +73,6 @@ _None_
   "path": "/user/:id/:type?",
   "topFeeds": [
     {
-      "description": "Click here to shop 👇 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66951915592595456",
-      "image": "https://media.picnob.info/get?url=https://scontent-vie1-1.cdninstagram.com/v/t51.82787-19/530530023_17920687083120782_1858159198046479550_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=102&_nc_oc=Q6cZ2gHU9lGUdOrLkU2VXSMj5U1me1NzYi0QuzQCSdgTMe5xWAYveVHIjiGayk8SPQU2Yp4&_nc_ohc=2-3YX0Dg2ZsQ7kNvwFKjKq2&_nc_gid=pbrCGT0wDINc03Bkn_MkCA&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=GOc_nx_OaLgbxao-AL5krxfygckZbmNDAQAB3203200j-ccb7-5&oh=00_Af3i8d2nPmqrcJvcnmmix8xDF1xFAsEJrKuv8jpZG2T91w&oe=69F0FA51&_nc_sid=8b3546",
-      "ownerUserId": null,
-      "siteUrl": "https://www.instagram.com/loveonly.ai/",
-      "title": "love only ai (@loveonly.ai) public posts - Picnob",
-      "type": "feed",
-      "url": "rsshub://picnob.info/user/loveonly.ai"
-    },
-    {
       "description": "Discover what's new on Instagram 🔎✨ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "Instagram (@instagram) public posts - Picnob",
       "type": "feed",
       "url": "rsshub://picnob.info/user/instagram"
+    },
+    {
+      "description": "👇🏻 🔮click for more 🔮 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67078339316597760",
+      "image": "https://media.picnob.info/get?url=https://scontent-vie1-1.cdninstagram.com/v/t51.82787-19/552007250_18061848512600173_228633516572074893_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF604gguYpz4gNeRleeZ1UH_88FgSl3wdsUCyK_kFwC9ZsPDoowwxHThtU0Oe1utwk&_nc_ohc=ihZNeFQ4qJkQ7kNvwFMvaBy&_nc_gid=ynjXYOuDT_S3zHDUx3-Q6Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=GFL25iBtmJTQJytAAI3jBtP4RCwDbmNDAQAB3203200j-ccb7-5&oh=00_AfzpQBK76agL4cyzTHqSgkgUvhU6OekcldMtD2B51D47Gg&oe=69CB5D75&_nc_sid=8b3546",
+      "ownerUserId": null,
+      "siteUrl": "https://www.instagram.com/auddk_77/",
+      "title": "Irene🐰✨ (@auddk_77) public posts - Picnob",
+      "type": "feed",
+      "url": "rsshub://picnob.info/user/auddk_77"
     }
   ],
   "url": "picnob.info",

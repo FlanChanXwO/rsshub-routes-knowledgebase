@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "中国研究生招生信息网 - 考研资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T01:12:48.789Z",
+      "errorMessage": "403 Forbidden\nFailed to fetch\n",
       "id": "74787247590792206",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@
     },
     {
       "description": "中国研究生招生信息网 - 考研资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T01:08:33.612Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65029213581827072",
       "image": null,
       "ownerUserId": null,

@@ -65,7 +65,7 @@ _None_
   "path": "/tag/:id",
   "topFeeds": [
     {
-      "description": "人工智能的英文简称 - Powered by RSSHub",
+      "description": "虎嗅标签-AI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "111032291110780928",
@@ -77,7 +77,7 @@ _None_
       "url": "rsshub://huxiu/tag/10761"
     },
     {
-      "description": "日本全称日本国，英文名：Japan。地理位置：亚洲东部、太平洋西北部。日本是一个高度发达的资本主义国家。其国名取“日出之国”之意，领土由本州、四国、九州、北海道四大岛及7200多个小岛组成，总面积37.8万平方千米。日本以大和民族为主体民族，通用日语，总人口为1.26亿。日本资源匮乏并极端依赖进口，高度发达的工业是其国民经济的主要支柱。其科学研发能力十分强大，拥有大量的著名跨国公司和科研机构，每年的科研经费约占GDP的3.1%，该比例位居发达国家榜首。此外，以动漫产业为首的文化产业和发达的旅游业，也是日本的重要象征。 - Powered by RSSHub",
+      "description": "虎嗅标签-日本 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "126557871055055872",

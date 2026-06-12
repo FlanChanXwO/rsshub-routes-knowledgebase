@@ -4304,6 +4304,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/hdu.md`
 
+## Hebei Museum
+- Namespace: `hebeimuseum`
+- Aliases: `hebei museum, hebeimuseum, hebeimuseum.org.cn, www, www.hebeimuseum.org.cn`
+- Route Count: `1`
+- Index File: `index/hebeimuseum.md`
+
 ## 河北网络广播电视台
 - Namespace: `hebtv`
 - Aliases: `hebtv, web, web.cmc.hebtv.com, 河北网络广播电视台`
@@ -7759,6 +7765,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `scvtc, scvtc.edu.cn, 四川职业技术学院`
 - Route Count: `1`
 - Index File: `index/scvtc.md`
+
+## Shan Dong Museum
+- Namespace: `sdmuseum`
+- Aliases: `sdmuseum, sdmuseum.com/, shan dong museum, www, www.sdmuseum.com/`
+- Route Count: `2`
+- Index File: `index/sdmuseum.md`
 
 ## 盛趣游戏在线
 - Namespace: `sdo`

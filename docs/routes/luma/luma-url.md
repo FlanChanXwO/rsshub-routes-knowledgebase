@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Eventos Ignia - Powered by RSSHub",
+      "description": "Platzi - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966934845992960",
+      "id": "265967006213506048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/ignia",
-      "title": "Eventos Ignia",
+      "siteUrl": "https://lu.ma/platzi",
+      "title": "Platzi",
       "type": "feed",
-      "url": "rsshub://luma/ignia"
+      "url": "rsshub://luma/platzi"
     }
   ],
   "url": "lu.ma"

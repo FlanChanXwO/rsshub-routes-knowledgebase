@@ -55,8 +55,8 @@ _None_
     },
     {
       "description": "凤凰大参考_资讯_凤凰网 - Powered by RSSHub",
-      "errorAt": "2026-06-09T21:52:31.062Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150755089712076813",
       "image": null,
       "ownerUserId": null,

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "ISCT News - ja - Powered by RSSHub",
-      "errorAt": "2026-06-09T22:42:50.481Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79365445591242752",
       "image": null,
       "ownerUserId": null,

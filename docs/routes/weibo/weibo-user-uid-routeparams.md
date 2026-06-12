@@ -72,7 +72,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 51753,
+  "heat": 51725,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -113,7 +113,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "55873602868576278",
-      "image": "https://tvax2.sinaimg.cn/crop.0.0.600.600.180/008tj0GNly8i4ul6s2etyj30go0goq4h.jpg?KID=imgbed,tva&Expires=1781074016&ssig=ApGzGR3kUa",
+      "image": "https://tvax2.sinaimg.cn/crop.0.0.600.600.180/008tj0GNly8i4ul6s2etyj30go0goq4h.jpg?KID=imgbed,tva&Expires=1781158902&ssig=EfA%2BEKnE%2FG",
       "ownerUserId": null,
       "siteUrl": "https://weibo.com/7762107285/",
       "title": "罗永浩的十字路口的微博",
@@ -122,10 +122,10 @@
     },
     {
       "description": "数码闲聊站的微博 - Powered by RSSHub",
-      "errorAt": "2026-06-09T16:07:31.165Z",
-      "errorMessage": "Failed to fetch\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCannot read properties of undefined (reading 'userInfo')\n502 Bad Gateway\n403 Forbidden\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\nbrowserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.59                          ║\n║   - client version: v1.60                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.59                          ║\n║   - client version: v1.60                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56574455833521152",
-      "image": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/006BlblIly8gdim8sx8poj30u00u0adb.jpg?KID=imgbed,tva&Expires=1781023334&ssig=XqYGlNKD4c",
+      "image": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/006BlblIly8gdim8sx8poj30u00u0adb.jpg?KID=imgbed,tva&Expires=1781154759&ssig=nXYsYENtad",
       "ownerUserId": null,
       "siteUrl": "https://weibo.com/6048569942/",
       "title": "数码闲聊站的微博",

@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "东方财富网 - 搜索'web3' - Powered by RSSHub",
-      "errorAt": "2026-06-10T02:08:46.372Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65980643863635968",
       "image": null,
       "ownerUserId": null,

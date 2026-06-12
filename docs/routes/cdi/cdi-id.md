@@ -78,7 +78,7 @@ _None_
     {
       "description": "综研观察 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
       "errorAt": "2025-03-10T07:15:28.291Z",
-      "errorMessage": "[GET] \"http://www.cdi.com.cn/Article/List?ColumnId=150\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "65950460200200203",
       "image": null,
       "ownerUserId": null,

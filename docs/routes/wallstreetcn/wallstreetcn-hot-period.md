@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1127,
+  "heat": 1128,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "华尔街见闻 - 最热文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T01:49:03.738Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "79704903500190720",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

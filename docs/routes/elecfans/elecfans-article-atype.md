@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "elecfans special articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T03:51:27.689Z",
+      "errorMessage": "[GET] \"https://www.elecfans.com/article/special/\": 468 \n",
       "id": "182701002532529152",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4736,
+  "heat": 4739,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. OpenAI 向美国证监会秘密提交 IPO 文件，尚未决定上市时间 2. Anthropic 明天或将发布公开版本 Mythos 3. 欧盟回应苹果 Siri AI 争议：法律不可谈判，苹果未能达到互操作性要求 4. DeepSeek 开招「土木老哥」：自建 GW 级数据中心 5. 哈啰回应「失控」：涉嫌传播不实信息 6. 苹果抨击「为 AI 而 AI」，称有用 AI 需以用户为中心 7. 阿里巴巴、百度、蔚来回应「被美国防部列入中国军工企业名单」 8. SpaceX IPO 获大幅超额认购，机构认购将于周三截止 9. 博通、阿波罗、黑石集团成立战略平台 10. 美团发布 AI 浏览器 Tabbit 1.0 - Powered by RSSHub",
+      "description": "1. Anthropic 推出新模型 Claude Fable 5 和 Mythos 5 2. 消息称 SpaceX 获 4 倍超额认购：认购资金超 2500 亿美元 3. 阿里合伙人委员会内网发帖：批评钉钉管理方式「不是阿里文化该有的样子」 4. 字节 AI 制药开启拆分融资，AI4S 进入产业化阶段 5. 何小鹏发内部信：亲自下场直管机器人业务，迎来量产和商业化前夜 6. SK 海力士据悉最早将于 8 月在美国上市 7. 豆包专业版开放灰度测试：最高档年费超 5000 元 8. OpenAI 据悉正在洽谈租赁俄亥俄州 10GW 数据中心 9. 谷歌推出 Gemini 3.5 实时翻译模型 10. 荣耀 YOYO 与微信 A2A 合作正式上线 11. Altman 预计 OpenAI 将于未来一年内 IPO 12. 张雪回应张雪机车是否有上市计划：顺其自然 13. 阿里千问发布国内首个全周期高考志愿填报 Agent 14. 泡泡玛特否认海外全靠 Labubu，首次披露其他产品占比 15. Meta 与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

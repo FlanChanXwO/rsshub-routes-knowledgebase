@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "纵论天下，闲话三分，细品是非功过，总结成败得失，欢迎收听《易中天品三国》。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T22:52:47.422Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "91729125068344320",
       "image": "https://ytmedia.radio.cn/CCYT%2F201910%2F24%2F11%2FduHn3qQZwCOAW7deD6hPXpYYRbNApf2SEThIm91qr2019102411186.jpg",
       "ownerUserId": null,

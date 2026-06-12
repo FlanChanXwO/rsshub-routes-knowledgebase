@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 389,
+  "heat": 390,
   "location": "category.ts",
   "maintainers": [
     "FuryMartin, Geraldxm"
@@ -86,8 +86,8 @@
     },
     {
       "description": "量子位 - ebandeng - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T02:17:49.999Z",
+      "errorMessage": "socket hang up\n",
       "id": "69701236541384704",
       "image": null,
       "ownerUserId": null,

@@ -65,7 +65,7 @@ _None_
     {
       "description": "视频 美女热舞合集 的视频选集列表 - Powered by RSSHub",
       "errorAt": "2025-05-30T12:00:46.109Z",
-      "errorMessage": "Cannot destructure property 'title' of 's.data.data' as it is undefined.\nCannot destructure property 'title' of 's.data.data' as it is undefined.\n",
+      "errorMessage": "Failed to fetch\nCannot destructure property 'title' of 's.data.data' as it is undefined.\n",
       "id": "69945630785231872",
       "image": null,
       "ownerUserId": null,

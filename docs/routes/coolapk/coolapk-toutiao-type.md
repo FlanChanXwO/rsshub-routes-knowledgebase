@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "历史头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T01:02:52.612Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 54905314771686400",
       "id": "54905314771686400",
       "image": null,
       "ownerUserId": null,

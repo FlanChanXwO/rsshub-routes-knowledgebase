@@ -69,7 +69,7 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 334,
+  "heat": 333,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk",
@@ -110,8 +110,8 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     },
     {
       "description": "Coomer Posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-10T23:19:05.205Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59850686115931136",
       "image": "https://coomer.st/favicon.ico",
       "ownerUserId": null,

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Featured articles - BioOne - Powered by RSSHub",
-      "errorAt": "2026-06-09T13:06:48.624Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56553335105003520",
       "image": null,
       "ownerUserId": null,

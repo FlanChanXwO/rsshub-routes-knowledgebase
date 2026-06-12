@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The ULTIMATE plugin to reward AFK players by creating AFK zones / pools - Powered by RSSHub",
+      "description": "Pre-generates chunks, quickly and efficiently - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123847807916844032",
+      "id": "114583879834365952",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/6dJ1xToi",
-      "title": "AxAFKZone Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/fALzjamp",
+      "title": "Chunky Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/6dJ1xToi/versions"
+      "url": "rsshub://modrinth/project/fALzjamp/versions"
     }
   ]
 }

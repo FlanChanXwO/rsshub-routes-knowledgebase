@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 213,
+  "heat": 215,
   "location": "manga-update.ts",
   "maintainers": [
     "hoilc"
