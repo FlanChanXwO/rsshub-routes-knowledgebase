@@ -73,7 +73,7 @@ _None_
     {
       "description": "手机搜狐新闻 - Powered by RSSHub",
       "errorAt": "2026-06-10T11:58:17.382Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "141055454808791040",
       "image": null,
       "ownerUserId": null,

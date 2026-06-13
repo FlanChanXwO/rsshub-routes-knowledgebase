@@ -61,8 +61,8 @@ _None_
     },
     {
       "description": "小叔TV，这是北京小叔的另外一个频道，\"北同\"的一个子品牌和兄弟频道，这里没有LGBT内容，我的目标是寻找适合自己的养老城市，我计划走遍中国的大小城市，记录当地风土人情和国家变迁，见证这个大时代的发展，同时也去看看各个地方的房地产，合适时机我会买一套属于自己的房定居下来。油管是小叔TV的首发平台。 - Powered by RSSHub",
-      "errorAt": "2026-06-10T23:18:59.317Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59504691960224768",
       "image": null,
       "ownerUserId": null,

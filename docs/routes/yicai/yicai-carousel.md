@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "第一财经 - 轮播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T19:29:42.773Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84044454166195200",
       "image": null,
       "ownerUserId": null,

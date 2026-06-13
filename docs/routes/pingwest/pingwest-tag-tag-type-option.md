@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 新零售 - Powered by RSSHub",
-      "errorAt": "2026-05-25T09:02:12.074Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=12279&type=0\": 405 Not Allowed\n",
-      "id": "86387422106570752",
+      "description": "品玩 - ChinaJoy - Powered by RSSHub",
+      "errorAt": "2026-05-25T14:13:19.003Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=7604&type=0\": 405 Not Allowed\n",
+      "id": "69704836086005760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/12279",
-      "title": "品玩 - 新零售",
+      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
+      "title": "品玩 - ChinaJoy",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/12279/1"
+      "url": "rsshub://pingwest/tag/ChinaJoy/1"
     }
   ]
 }

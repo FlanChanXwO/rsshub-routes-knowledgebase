@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "🌈资深程序猿一名 🏠分享AI知识，以及好用的软件推荐 🙊一个说真话的培训师 软件都在 抖音粉丝群 承接各类培训服务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T05:56:38.951Z",
+      "errorMessage": "Invalid code point 0.00390625\nFailed to fetch\n",
       "id": "84064321853358080",
       "image": "https://sf6-cdn-tos.bdxiguastatic.com/img/user-avatar/b8b6c80c419c2743cabb64c20b65271b~300x300.image",
       "ownerUserId": null,
@@ -73,10 +73,10 @@ _None_
     },
     {
       "description": "科普号@听风的蚕讲科普 关注不迷路🤙🏻 - Powered by RSSHub",
-      "errorAt": "2026-06-10T19:57:39.771Z",
-      "errorMessage": "无法获取用户信息\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84412058211393536",
-      "image": "https://p3-sign.toutiaoimg.com/user-avatar/574d56bc5fcc3e3dd56bf1d0989e7c2e~300x300.image?_iz=112761&from=tt_user.profile_all_shortvideo&lk3s=06827d14&x-expires=1781740800&x-signature=MGU0Z%2FOhhwZWJyYwM3pYic1pw8I%3D",
+      "image": "https://p11-sign.toutiaoimg.com/user-avatar/574d56bc5fcc3e3dd56bf1d0989e7c2e~300x300.image?_iz=112761&from=tt_user.profile_all_shortvideo&lk3s=06827d14&x-expires=1781827200&x-signature=FYw6Nl9N%2FNAJL1mKWXf7d97%2Bq9o%3D",
       "ownerUserId": null,
       "siteUrl": "https://www.toutiao.com/c/user/token/MS4wLjABAAAA1q3h6c_FuudwZwYJBcGMC4LjJwrnBkzE6tkRu2pVPOg/",
       "title": "听风的蚕的头条主页 - 今日头条(www.toutiao.com)",

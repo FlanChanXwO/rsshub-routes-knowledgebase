@@ -75,7 +75,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 58,
+  "heat": 57,
   "location": "list.tsx",
   "maintainers": [
     "nczitzk"

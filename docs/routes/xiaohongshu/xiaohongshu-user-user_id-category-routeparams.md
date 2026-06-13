@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1397912,
+  "heat": 1397914,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -99,7 +99,7 @@ _None_
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 1 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2026-06-10T20:28:44.718Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\n[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5db011250000000001002502\": 500 \n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,
@@ -111,7 +111,7 @@ _None_
     {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\n[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F652baa23000000002a034939\": 500 \n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "68661468126774272",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q8atfr8n6005p9bl8hqmi9p1q1h18o?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

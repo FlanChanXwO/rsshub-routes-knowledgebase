@@ -197,8 +197,8 @@ If you subscribe to [Системные программы](https://lrepacks.net
   "topFeeds": [
     {
       "description": "Авторские репаки от elchupacabra. Скачать бесплатно Repack от чупакабры. - Powered by RSSHub",
-      "errorAt": "2026-06-10T19:48:38.669Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61457506146738176",
       "image": "https://lrepacks.net/templates/biz-ideas/images/sitelogo.png",
       "ownerUserId": null,

@@ -260,8 +260,8 @@
     },
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T19:59:03.916Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65469694593591296",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

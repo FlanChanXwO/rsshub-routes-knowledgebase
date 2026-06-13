@@ -134,14 +134,14 @@ _None_
       "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     },
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- June 14, 2026 - Powered by RSSHub",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- June 21, 2026 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- June 14, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- June 21, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-fiction"
     }

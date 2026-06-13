@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "Google Alerts - 中国社会科学院工业经济研究所 - Powered by RSSHub",
-      "errorAt": "2026-06-10T23:02:52.906Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153319230023687168",
       "image": null,
       "ownerUserId": null,

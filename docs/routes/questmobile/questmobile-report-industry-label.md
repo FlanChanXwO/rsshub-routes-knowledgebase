@@ -187,8 +187,8 @@ _None_
     },
     {
       "description": "QuestMobile（北京贵士信息科技有限公司）是中国专业的移动互联网商业智能服务商，提供互联网数据报告，移动大数据分析，数据运营报告等的互联网大数据平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-12T00:13:16.770Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76541012688848896",
       "image": "https://cdn.questmobile.cn/ui/logo/img/logo.png",
       "ownerUserId": null,

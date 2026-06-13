@@ -79,7 +79,7 @@ _None_
     {
       "description": "游研社-趣闻 - Powered by RSSHub",
       "errorAt": "2025-08-26T16:08:18.138Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "60263446472040463",
       "image": null,
       "ownerUserId": null,

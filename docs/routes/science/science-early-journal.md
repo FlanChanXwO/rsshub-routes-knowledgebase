@@ -78,7 +78,7 @@
     {
       "description": null,
       "errorAt": "2025-06-01T11:07:38.022Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/science/0/0\": 403 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "151955931879114756",
       "image": null,
       "ownerUserId": null,

@@ -417,8 +417,8 @@
     },
     {
       "description": "中国农业农村信息网_农业要闻 - Powered by RSSHub",
-      "errorAt": "2026-06-11T02:56:48.378Z",
-      "errorMessage": "[GET] \"http://www.scio.gov.cn/live/2026/38771/index.html\": 521 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77696987597589504",
       "image": "http://www.agri.cn/images/ny_logo.png",
       "ownerUserId": null,

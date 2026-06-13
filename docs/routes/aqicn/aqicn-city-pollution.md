@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "北京AQI-aqicn.org - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-12T03:38:57.757Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62187667735435264",
       "image": null,
       "ownerUserId": null,

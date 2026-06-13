@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/06/10/eat-your-electronics-boost-your-health\": 403 \n[GET] \"https://www.economist.com/middle-east-and-africa/2026/06/10/syria-is-an-unexpected-beneficiary-of-the-gulf-war\": 403 \n",
+      "errorMessage": "[GET] \"https://www.economist.com/economic-and-financial-indicators/2026/06/11/economic-data-commodities-and-markets\": 403 \n[GET] \"https://www.economist.com/economic-and-financial-indicators/2026/06/11/economic-data-commodities-and-markets\": 403 \n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/08/a-dropout-turned-influencer-shakes-up-chinese-science\": 403 \n502 Bad Gateway\n[GET] \"https://www.economist.com/china/2026/06/08/a-dropout-turned-influencer-shakes-up-chinese-science\": 403 \n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/11/in-china-ride-hailing-work-is-a-last-resort-for-rural-labourers\": 403 \n[GET] \"https://www.economist.com/china/2026/06/11/in-china-ride-hailing-work-is-a-last-resort-for-rural-labourers\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/04/xi-jinping-gives-chinas-crack-scientists-new-jobs-inside-government\": 403 \n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

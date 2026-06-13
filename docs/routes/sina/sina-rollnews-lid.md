@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 90,
   "location": "rollnews.ts",
   "maintainers": [
     "xyqfer"

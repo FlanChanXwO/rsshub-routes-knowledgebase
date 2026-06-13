@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "吉林大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T19:28:52.615Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75548213781861376",
       "image": null,
       "ownerUserId": null,

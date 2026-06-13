@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
     },
     {
-      "description": "New contributors for zabbix/zabbix-docker - Powered by RSSHub",
+      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "95485494519570432",
+      "id": "64129774135370752",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/zabbix/zabbix-docker/graphs/contributors",
-      "title": "zabbix/zabbix-docker Contributors",
+      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
+      "title": "KrystalCJ/Conf Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/zabbix/zabbix-docker"
+      "url": "rsshub://github/contributors/KrystalCJ/Conf"
     }
   ]
 }

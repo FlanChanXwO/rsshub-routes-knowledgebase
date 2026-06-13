@@ -88,7 +88,7 @@
     {
       "description": null,
       "errorAt": "2025-09-19T00:56:28.398Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/science/current\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.science.org/toc/science/current\": 403 \n",
       "id": "191666157347082244",
       "image": null,
       "ownerUserId": null,

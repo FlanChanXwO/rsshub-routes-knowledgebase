@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Energy & Environmental Science - Powered by RSSHub",
-      "errorAt": "2026-06-11T00:17:07.241Z",
-      "errorMessage": "[POST] \"https://pubs.rsc.org/en/journals/getrecentarticles\": <no response> fetch failed\n[POST] \"https://pubs.rsc.org/en/journals/getrecentarticles\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "159483253180956672",
       "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ee&imageInfo.ImageIdentifier.IssueId=EE019011&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,

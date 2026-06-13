@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4739,
+  "heat": 4744,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. Anthropic 推出新模型 Claude Fable 5 和 Mythos 5 2. 消息称 SpaceX 获 4 倍超额认购：认购资金超 2500 亿美元 3. 阿里合伙人委员会内网发帖：批评钉钉管理方式「不是阿里文化该有的样子」 4. 字节 AI 制药开启拆分融资，AI4S 进入产业化阶段 5. 何小鹏发内部信：亲自下场直管机器人业务，迎来量产和商业化前夜 6. SK 海力士据悉最早将于 8 月在美国上市 7. 豆包专业版开放灰度测试：最高档年费超 5000 元 8. OpenAI 据悉正在洽谈租赁俄亥俄州 10GW 数据中心 9. 谷歌推出 Gemini 3.5 实时翻译模型 10. 荣耀 YOYO 与微信 A2A 合作正式上线 11. Altman 预计 OpenAI 将于未来一年内 IPO 12. 张雪回应张雪机车是否有上市计划：顺其自然 13. 阿里千问发布国内首个全周期高考志愿填报 Agent 14. 泡泡玛特否认海外全靠 Labubu，首次披露其他产品占比 15. Meta 与安巴尼旗下的信实集团合作，在印度建设人工智能数据中心 - Powered by RSSHub",
+      "description": "1. 钉钉换帅，90 后技术极客陈宇森接任钉钉 CEO 2. OpenAI 据悉考虑大幅降低 token 价格 3. 豆包手机硬件产品负责人林夕已离职 4. Altman 预计 OpenAI 将于未来一年内 IPO 5. Anthropic CEO：政府应有权阻止高风险新模型部署 6. 微信聊天发布「合并发图」功能 7. 谷歌选定三星合作研发下一代人工智能芯片 8. 微软因担心数据泄露限制员工使用 Claude Fable 9. 小米推出 AI 编程助手 MiMo Code 并开源 10. SpaceX 上市在即 约 400 名持股员工身价预计将达 1 亿美元 11. 消息称小鹏汽车进军游艇，内部代号「飞鱼」 12. 消息称 Meta 已完成与 Manus 运营分离：停止数据共享 13. 携程、美团等 7 家涉火车票销售第三方平台被约谈 14. OpenAI 携手 Visa 推出 AI 代理支付功能，ChatGPT 可自动完成购物和付款 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

@@ -143,7 +143,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 241,
+  "heat": 242,
   "location": "index.ts",
   "maintainers": [
     "junfengP",

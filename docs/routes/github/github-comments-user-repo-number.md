@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "comfyanonymous/ComfyUI: Issue & Pull request comments - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-12T00:06:36.503Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68377703545822208",
       "image": null,
       "ownerUserId": null,

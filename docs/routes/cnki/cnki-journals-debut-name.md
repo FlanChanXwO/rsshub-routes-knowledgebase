@@ -84,7 +84,7 @@ _None_
     {
       "description": "心理学报 - 全网首发 - Powered by RSSHub",
       "errorAt": "2026-01-14T09:07:04.332Z",
-      "errorMessage": "[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n403 Forbidden\n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n",
+      "errorMessage": "[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n",
       "id": "73613364969526272",
       "image": null,
       "ownerUserId": null,

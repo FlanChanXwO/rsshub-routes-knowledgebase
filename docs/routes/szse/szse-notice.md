@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "深圳证券交易所——上市公告-可转换债券 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T19:58:13.990Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68289343779232768",
       "image": null,
       "ownerUserId": null,

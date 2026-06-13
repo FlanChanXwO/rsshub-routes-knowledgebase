@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "Последние новости из мира блокчейна и криптовалют - Powered by RSSHub",
-      "errorAt": "2026-03-24T22:21:22.261Z",
-      "errorMessage": "[POST] \"https://forklog.com/wp-content/themes/forklogv2/ajax/getPosts.php\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "118816637391308800",
       "image": null,
       "ownerUserId": null,

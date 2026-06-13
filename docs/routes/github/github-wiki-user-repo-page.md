@@ -84,7 +84,7 @@ _None_
     {
       "description": "History / ss免费账号 - Alvin9999/new-pac - Powered by RSSHub",
       "errorAt": "2025-12-19T04:11:54.884Z",
-      "errorMessage": "[GET] \"https://github.com/Alvin9999/new-pac/wiki/ss免费账号/_history\": 404 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "76074281958260736",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 淘股论坛 | 社区总版 | 精华加油 | 网友点赞 |\n| -------- | -------- | -------- | -------- |\n| bbs      | zongban  | jinghua  | dianzan  |",
   "example": "/taoguba",
-  "heat": 259,
+  "heat": 260,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

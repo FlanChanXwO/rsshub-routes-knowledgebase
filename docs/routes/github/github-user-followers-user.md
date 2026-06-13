@@ -82,16 +82,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "Zhaozixiang1228's followers - Powered by RSSHub",
+      "description": "strajk's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "161267607902632960",
+      "id": "178709617272142848",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/Zhaozixiang1228",
-      "title": "Zhaozixiang1228's followers",
+      "siteUrl": "https://github.com/strajk",
+      "title": "strajk's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/Zhaozixiang1228"
+      "url": "rsshub://github/user/followers/strajk"
     }
   ]
 }

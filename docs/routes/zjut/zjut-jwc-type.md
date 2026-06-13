@@ -89,7 +89,7 @@
     {
       "description": "实践竞赛 - 浙江工业大学教务处 - Powered by RSSHub",
       "errorAt": "2026-06-07T11:17:19.024Z",
-      "errorMessage": "[GET] \"http://www.jwc.zjut.edu.cn/_redirect?siteId=9&columnId=1850&articleId=334244\": 403 \n",
+      "errorMessage": "[GET] \"http://www.jwc.zjut.edu.cn/1850/list.htm\": 403 Forbidden\n",
       "id": "76958464712676352",
       "image": null,
       "ownerUserId": null,

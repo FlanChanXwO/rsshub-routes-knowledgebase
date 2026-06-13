@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23,
+  "heat": 20,
   "location": "kyzx.ts",
   "maintainers": [
     "yanbot-team"

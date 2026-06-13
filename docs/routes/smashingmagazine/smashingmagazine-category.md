@@ -120,8 +120,8 @@
     },
     {
       "description": "Latest Articles on Smashingmagazine.com - Powered by RSSHub",
-      "errorAt": "2026-06-10T23:57:46.982Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71797696073612288",
       "image": null,
       "ownerUserId": null,

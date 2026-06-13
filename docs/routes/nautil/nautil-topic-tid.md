@@ -72,8 +72,8 @@ This route provides a flexible plan with full text content to subscribe specific
   "topFeeds": [
     {
       "description": "Nautilus | Arts - Powered by RSSHub",
-      "errorAt": "2026-06-11T01:48:49.678Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84839684406711296",
       "image": null,
       "ownerUserId": null,

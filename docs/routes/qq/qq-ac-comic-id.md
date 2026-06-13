@@ -74,7 +74,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://ac.qq.com/Comic/comicInfo/id/531490",
-      "title": "一人之下一人之下 目录 连载中 ，已更新817话 (可试读至131话) 展开目录 异能排行榜近期热门 - 腾讯动漫",
+      "title": "一人之下一人之下 目录 连载中 ，已更新818话 (可试读至131话) 展开目录 异能排行榜近期热门 - 腾讯动漫",
       "type": "feed",
       "url": "rsshub://qq/ac/comic/531490"
     }

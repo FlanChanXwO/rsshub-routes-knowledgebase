@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "REVOMAX/锐虎 70283 【报价 价格 评测 怎么样】 -什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T15:17:50.041Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71434452393312256",
       "image": null,
       "ownerUserId": null,

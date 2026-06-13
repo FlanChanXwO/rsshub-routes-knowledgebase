@@ -52,8 +52,8 @@ _None_
   "topFeeds": [
     {
       "description": "爱思想 - 一月文章点击排行 - Powered by RSSHub",
-      "errorAt": "2026-06-11T02:21:09.799Z",
-      "errorMessage": "403 Forbidden\n[GET] \"https://www.aisixiang.com/toplist?id=1&period=30\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56768753097790464",
       "image": "https://oss.aisixiang.com/images/logo_toplist.jpg",
       "ownerUserId": null,

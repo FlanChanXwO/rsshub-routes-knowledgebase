@@ -68,6 +68,18 @@ _None_
   "path": "/people/:userid/wish/:routeParams?",
   "topFeeds": [
     {
+      "description": "豆瓣想看 - Tredici - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "242962409053608960",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://movie.douban.com/people/171811323/wish",
+      "title": "豆瓣想看 - Tredici",
+      "type": "feed",
+      "url": "rsshub://douban/people/171811323/wish"
+    },
+    {
       "description": "豆瓣想看 - kiki - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -78,18 +90,6 @@ _None_
       "title": "豆瓣想看 - kiki",
       "type": "feed",
       "url": "rsshub://douban/people/46349710/wish"
-    },
-    {
-      "description": "豆瓣想看 - 追——＆梦→~异类~ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "75887997094583296",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/people/163194102/wish",
-      "title": "豆瓣想看 - 追——＆梦→~异类~",
-      "type": "feed",
-      "url": "rsshub://douban/people/163194102/wish"
     }
   ]
 }

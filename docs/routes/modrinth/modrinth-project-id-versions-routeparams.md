@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T23:03:37.647Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88557710935450624",
       "image": null,
       "ownerUserId": null,
@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Pre-generates chunks, quickly and efficiently - Powered by RSSHub",
+      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583879834365952",
+      "id": "86130193434324992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/fALzjamp",
-      "title": "Chunky Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/epic-fight",
+      "title": "Epic Fight Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/fALzjamp/versions"
+      "url": "rsshub://modrinth/project/epic-fight/versions"
     }
   ]
 }

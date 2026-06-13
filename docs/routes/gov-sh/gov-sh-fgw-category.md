@@ -70,7 +70,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 13,
   "location": "fgw/index.tsx",
   "maintainers": [
     "nczitzk"

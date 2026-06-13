@@ -75,8 +75,8 @@
   "topFeeds": [
     {
       "description": "央视新闻 world - Powered by RSSHub",
-      "errorAt": "2026-06-11T02:13:18.508Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581988",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796581988",
       "image": null,
       "ownerUserId": null,
@@ -87,8 +87,8 @@
     },
     {
       "description": "央视新闻 china - Powered by RSSHub",
-      "errorAt": "2026-06-11T02:13:43.869Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581989",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796581989",
       "image": null,
       "ownerUserId": null,

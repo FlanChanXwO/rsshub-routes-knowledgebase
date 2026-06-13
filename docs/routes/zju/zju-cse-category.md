@@ -66,6 +66,18 @@ _None_
   "path": "/cse/:category?",
   "topFeeds": [
     {
+      "description": "浙江大学控制学院通知 - 简讯专栏 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "194422241770488832",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cse.zju.edu.cn//39283/list.htm",
+      "title": "浙江大学控制学院通知 - 简讯专栏",
+      "type": "feed",
+      "url": "rsshub://zju/cse"
+    },
+    {
       "description": "浙江大学控制学院通知 - 研究生教育 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -76,18 +88,6 @@ _None_
       "title": "浙江大学控制学院通知 - 研究生教育",
       "type": "feed",
       "url": "rsshub://zju/cse/yjsjy"
-    },
-    {
-      "description": "浙江大学控制学院通知 - 对外交流 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "194422763742295040",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.cse.zju.edu.cn//39353/list.htm",
-      "title": "浙江大学控制学院通知 - 对外交流",
-      "type": "feed",
-      "url": "rsshub://zju/cse/dwjl"
     }
   ]
 }

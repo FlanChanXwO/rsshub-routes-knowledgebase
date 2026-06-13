@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "中国科学技术大学研究生院 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-06-10T22:48:12.815Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72477116386023424",
       "image": null,
       "ownerUserId": null,

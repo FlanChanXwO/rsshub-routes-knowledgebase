@@ -51,7 +51,7 @@ MSN News
     "requirePuppeteer": false,
     "supportRadar": true
   },
-  "heat": 26,
+  "heat": 27,
   "location": "index.ts",
   "maintainers": [
     "KTachibanaM"

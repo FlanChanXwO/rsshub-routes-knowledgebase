@@ -107,8 +107,8 @@
   "topFeeds": [
     {
       "description": "线板酷-最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T21:05:08.747Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"http://new.xianbao.fun/plus/json/push.json\": <no response> fetch failed\n[GET] \"http://new.xianbao.fun/plus/json/push.json\": <no response> fetch failed\n",
       "id": "57341806801267712",
       "image": null,
       "ownerUserId": null,

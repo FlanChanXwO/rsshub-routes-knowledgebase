@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 168,
+  "heat": 167,
   "location": "author.ts",
   "maintainers": [
     "SunShinenny",
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "少数派编辑部 更新推送 - Powered by RSSHub",
-      "errorAt": "2026-06-11T01:48:42.870Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72521496466017287",
       "image": null,
       "ownerUserId": null,

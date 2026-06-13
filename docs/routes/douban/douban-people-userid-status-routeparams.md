@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "豆瓣广播 - DIYgod - Powered by RSSHub",
-      "errorAt": "2026-06-11T00:32:55.296Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65438587764467712",
       "image": null,
       "ownerUserId": null,

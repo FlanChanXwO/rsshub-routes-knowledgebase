@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "败北女角太多了！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T11:37:40.232Z",
+      "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 \n",
       "id": "57803547274585088",
       "image": null,
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 文字解读 |\n| -------- |\n| zcjd     |",
   "example": "/gov/gz/zwgk/zcjd",
-  "heat": 0,
+  "heat": 1,
   "location": "zwgk.ts",
   "maintainers": [
     "drgnchan"
@@ -60,6 +60,19 @@ _None_
       "target": "/zwgk/zcjd"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "广州市人民政府 - 文字解读 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "97137065067580580",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gz.gov.cn/zwgk/zcjd/zcjd/",
+      "title": "广州市人民政府 - 文字解读",
+      "type": "feed",
+      "url": "rsshub://gov/gz/zwgk/zcjd"
+    }
+  ]
 }
 ```

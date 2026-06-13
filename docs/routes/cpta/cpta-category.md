@@ -66,7 +66,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 26,
   "location": "handler.ts",
   "maintainers": [
     "PrinOrange"

@@ -145,8 +145,8 @@
   "topFeeds": [
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-11T10:33:06.376Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72147260240052224",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,
@@ -157,7 +157,7 @@
     },
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": "2026-06-10T19:22:02.865Z",
+      "errorAt": "2026-06-11T22:09:17.003Z",
       "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessageFilters\": <no response> fetch failed\n",
       "id": "92886505678071808",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
