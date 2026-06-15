@@ -8,7 +8,7 @@
 - Namespace Name: `ACG Vinyl - 黑胶`
 - Route Path: `/acgvinyl/news`
 - Route Name: `News`
-- Example: `/news`
+- Example: `/acgvinyl/news`
 - URL: `www.acgvinyl.com/col.jsp?id=103`
 - Language: `_None_`
 - Categories: `anime`
@@ -43,7 +43,7 @@ _None_
   "categories": [
     "anime"
   ],
-  "example": "/news",
+  "example": "/acgvinyl/news",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

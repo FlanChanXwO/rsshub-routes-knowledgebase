@@ -8,7 +8,7 @@
 - Namespace Name: `新浪`
 - Route Path: `/sina/sports/:type?`
 - Route Name: `新浪体育`
-- Example: `/sports`
+- Example: `/sina/sports`
 - URL: `finance.sina.com.cn`
 - Language: `_None_`
 - Categories: `sport`
@@ -35,7 +35,7 @@ _None_
   "categories": [
     "sport"
   ],
-  "example": "/sports",
+  "example": "/sina/sports",
   "heat": 1,
   "location": "sports.ts",
   "maintainers": [

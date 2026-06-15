@@ -51,9 +51,7 @@ _None_
   "parameters": {
     "id": "主题 id，可在对应主题页的 URL 中找到"
   },
-  "path": [
-    "/topics/:id"
-  ],
+  "path": "/topics/:id",
   "radar": [
     {
       "source": [

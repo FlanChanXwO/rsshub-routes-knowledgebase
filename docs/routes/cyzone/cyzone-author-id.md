@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25,
+  "heat": 24,
   "location": "author.ts",
   "maintainers": [
     "nczitzk"
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "《商业评论》出品，用深度案例、前沿观点，和你一起探索新零售的1001种可能。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-12T07:58:21.522Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "110577462466842624",
       "image": "https://oss.cyzone.cn/2022/0209/9a5a6a31cf83b57e6f8b9dce4f98c367.jpg",
       "ownerUserId": null,

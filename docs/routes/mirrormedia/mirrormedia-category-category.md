@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "鏡週刊 Mirror Media - political - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-13T23:13:47.400Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57027261715751936",
       "id": "57027261715751936",
       "image": null,
       "ownerUserId": null,

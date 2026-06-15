@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 56,
   "location": "models.ts",
   "maintainers": [
     "DIYgod"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Civitai latest models - Powered by RSSHub",
-      "errorAt": "2026-06-12T01:12:40.008Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57092092744427520",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57092092744427520",
       "image": null,
       "ownerUserId": null,

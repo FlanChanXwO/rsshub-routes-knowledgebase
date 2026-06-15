@@ -75,7 +75,7 @@
     {
       "description": "華視 提供最新新聞,戲劇,綜藝,卡通,教學,綜合,影音,節目表等資訊。電話：(02)2775-6789 免付費服務專線: 0800-069-789 - Powered by RSSHub",
       "errorAt": "2026-04-14T06:27:58.682Z",
-      "errorMessage": "[GET] \"https://news.cts.com.tw/real/index.html\": 410 \n[GET] \"https://news.cts.com.tw/real/index.html\": 410 \n",
+      "errorMessage": "[GET] \"https://news.cts.com.tw/real/index.html\": <no response> fetch failed\n[GET] \"https://news.cts.com.tw/real/index.html\": 410 \n",
       "id": "152042616140212224",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "Fatpandac"
@@ -62,19 +62,6 @@ _None_
     "type": "可选，默认为 academiceve "
   },
   "path": "/news/:type?",
-  "topFeeds": [
-    {
-      "description": "重文理学术活动公告 - Powered by RSSHub",
-      "errorAt": "2025-09-10T18:06:01.259Z",
-      "errorMessage": "[GET] \"https://www.cqwu.edu.cn/channel_24895.html\": 404 \n",
-      "id": "89795888453668864",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.cqwu.edu.cn/channel_24895.html",
-      "title": "重文理学术活动公告",
-      "type": "feed",
-      "url": "rsshub://cqwu/news/academiceve"
-    }
-  ]
+  "topFeeds": []
 }
 ```

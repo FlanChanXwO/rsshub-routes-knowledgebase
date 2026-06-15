@@ -46,9 +46,7 @@ _None_
     "nczitzk"
   ],
   "name": "头条资讯",
-  "path": [
-    "/"
-  ],
+  "path": "/",
   "radar": [
     {
       "source": [

@@ -62,9 +62,7 @@ _None_
     "sort": "排序，见下表，默认为 `new`",
     "tagId": "社群 ID，可在 [社群页](https://hub.baai.ac.cn/taglist) 或 URL 中找到"
   },
-  "path": [
-    "/hub/:tagId?/:sort?/:range?"
-  ],
+  "path": "/hub/:tagId?/:sort?/:range?",
   "radar": [
     {
       "source": [

@@ -8,7 +8,7 @@
 - Namespace Name: `MSN`
 - Route Path: `/msn/:market/:name/:id`
 - Route Name: `News`
-- Example: `/zh-tw/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s`
+- Example: `/msn/zh-tw/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s`
 - URL: `msn.com`
 - Language: `_None_`
 - Categories: `traditional-media`
@@ -44,7 +44,7 @@ MSN News
     "traditional-media"
   ],
   "description": "MSN News",
-  "example": "/zh-tw/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s",
+  "example": "/msn/zh-tw/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

@@ -8,7 +8,7 @@
 - Namespace Name: `Towards Data Science`
 - Route Path: `/towardsdatascience/latest`
 - Route Name: `Towards Data Science`
-- Example: `/latest`
+- Example: `/towardsdatascience/latest`
 - URL: `towardsdatascience.com/latest`
 - Language: `_None_`
 - Categories: `blog`
@@ -37,7 +37,7 @@ _None_
   "categories": [
     "blog"
   ],
-  "example": "/latest",
+  "example": "/towardsdatascience/latest",
   "heat": 14,
   "location": "latest.ts",
   "maintainers": [

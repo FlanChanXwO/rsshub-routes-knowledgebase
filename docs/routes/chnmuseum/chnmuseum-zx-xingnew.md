@@ -8,7 +8,7 @@
 - Namespace Name: `National Museum Of China`
 - Route Path: `/chnmuseum/zx/xingnew`
 - Route Name: `资讯要闻`
-- Example: `/zx/xingnew`
+- Example: `/chnmuseum/zx/xingnew`
 - URL: `www.chnmuseum.cn`
 - Language: `_None_`
 - Categories: `travel`
@@ -43,7 +43,7 @@ _None_
   "categories": [
     "travel"
   ],
-  "example": "/zx/xingnew",
+  "example": "/chnmuseum/zx/xingnew",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

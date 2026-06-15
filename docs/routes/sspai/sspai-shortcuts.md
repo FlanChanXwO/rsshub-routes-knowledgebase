@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 6,
   "location": "shortcuts-gallery.ts",
   "maintainers": [
     "Andiedie"

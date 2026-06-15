@@ -8,7 +8,7 @@
 - Namespace Name: `KISS`
 - Route Path: `/kisskiss/blog/:category?`
 - Route Name: `ブログ`
-- Example: `/blog/DLC`
+- Example: `/kisskiss/blog/DLC`
 - URL: `www.kisskiss.tv`
 - Language: `_None_`
 - Categories: `game`
@@ -44,7 +44,7 @@ _None_
   "categories": [
     "game"
   ],
-  "example": "/blog/DLC",
+  "example": "/kisskiss/blog/DLC",
   "features": {
     "antiCrawler": false,
     "nsfw": true,

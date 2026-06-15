@@ -49,9 +49,7 @@ _None_
   "parameters": {
     "user": "username"
   },
-  "path": [
-    "/likes/:user"
-  ],
+  "path": "/likes/:user",
   "radar": [
     {
       "source": [

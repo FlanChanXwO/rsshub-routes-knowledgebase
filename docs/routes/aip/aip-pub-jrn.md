@@ -57,7 +57,7 @@ More jounals can be found in [AIP Publications](https://publishing.aip.org/publi
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 4,
+  "heat": 0,
   "location": "journal.ts",
   "maintainers": [
     "Derekmini",
@@ -76,31 +76,6 @@ More jounals can be found in [AIP Publications](https://publishing.aip.org/publi
       ]
     }
   ],
-  "topFeeds": [
-    {
-      "description": null,
-      "errorAt": "2026-05-07T07:11:15.739Z",
-      "errorMessage": "[GET] \"https://pubs.aip.org/journal/jap/issue\": 403 \n",
-      "id": "1100438337916633112",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://aip/journal/jap"
-    },
-    {
-      "description": null,
-      "errorAt": "2026-05-07T16:08:31.514Z",
-      "errorMessage": "[GET] \"https://pubs.aip.org/journal/apl/issue\": 403 \n",
-      "id": "1100438337916633111",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://aip/journal/apl"
-    }
-  ]
+  "topFeeds": []
 }
 ```

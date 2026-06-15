@@ -64,9 +64,7 @@ _None_
     "sort": "排序方式，`hot`（热门），`created`（最新发布），`replied`（最新回复），默认为 `created`",
     "sub": "子频道 ID，网页端 URL `subc` 参数的值，默认为 `hot`（全部）"
   },
-  "path": [
-    "/pd/guild/:id/:sub?/:sort?"
-  ],
+  "path": "/pd/guild/:id/:sub?/:sort?",
   "radar": [
     {
       "source": [
@@ -75,18 +73,6 @@ _None_
     }
   ],
   "topFeeds": [
-    {
-      "description": "自由学习 - 腾讯频道 - Powered by RSSHub",
-      "errorAt": "2025-03-08T09:35:20.989Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "121071855026880512",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://pd.qq.com/g/785d69ddf5",
-      "title": "自由学习 - 腾讯频道",
-      "type": "feed",
-      "url": "rsshub://qq/pd/guild/785d69ddf5/hot/created"
-    },
     {
       "description": "北京邮电大学生活圈 - 腾讯频道 - Powered by RSSHub",
       "errorAt": null,
@@ -98,6 +84,18 @@ _None_
       "title": "北京邮电大学生活圈 - 腾讯频道",
       "type": "feed",
       "url": "rsshub://qq/pd/guild/mb76a3g9ey"
+    },
+    {
+      "description": "自由学习 - 腾讯频道 - Powered by RSSHub",
+      "errorAt": "2025-03-08T09:35:20.989Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "121071855026880512",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://pd.qq.com/g/785d69ddf5",
+      "title": "自由学习 - 腾讯频道",
+      "type": "feed",
+      "url": "rsshub://qq/pd/guild/785d69ddf5/hot/created"
     }
   ],
   "url": "pd.qq.com/"

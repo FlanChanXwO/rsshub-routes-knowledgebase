@@ -8,7 +8,7 @@
 - Namespace Name: `Bluesky (bsky)`
 - Route Path: `/bsky/profile/:handle/feed/:space/:routeParams?`
 - Route Name: `Feeds`
-- Example: `/bsky.app/profile/jaz.bsky.social/feed/cv:cat`
+- Example: `/bsky/profile/jaz.bsky.social/feed/cv:cat`
 - URL: `bsky.app`
 - Language: `_None_`
 - Categories: `social-media`
@@ -41,7 +41,7 @@ _None_
   "categories": [
     "social-media"
   ],
-  "example": "/bsky.app/profile/jaz.bsky.social/feed/cv:cat",
+  "example": "/bsky/profile/jaz.bsky.social/feed/cv:cat",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

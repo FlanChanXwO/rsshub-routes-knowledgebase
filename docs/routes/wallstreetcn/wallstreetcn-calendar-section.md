@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 101,
+  "heat": 102,
   "location": "calendar.ts",
   "maintainers": [
     "TonyRL"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "财经日历 - 华尔街见闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-13T19:53:27.972Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "80430906726720512",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "财经日历 - 华尔街见闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-13T18:52:32.732Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "165321950833192960",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

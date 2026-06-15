@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `141ppv`
 - Namespace Name: `141PPV`
-- Route Path: `/141ppv/:type/:keyword{.*}?`
+- Route Path: `/141ppv/:type/:keyword{.+}?`
 - Route Name: `通用`
 - Example: `_None_`
 - URL: `141ppv.com`
@@ -72,7 +72,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1035,
+  "heat": 0,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -83,32 +83,7 @@ _None_
     "keyword": "关键词，可查看下表的关键词说明",
     "type": "类型，可查看下表的类型说明"
   },
-  "path": "/:type/:keyword{.*}?",
-  "topFeeds": [
-    {
-      "description": "141PPV - Popular (30 days) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56440582049846272",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.141ppv.com/popular/30",
-      "title": "141PPV - Popular (30 days)",
-      "type": "feed",
-      "url": "rsshub://141ppv/popular/30"
-    },
-    {
-      "description": "141PPV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "53022498131722240",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.141ppv.com/new",
-      "title": "141PPV - New",
-      "type": "feed",
-      "url": "rsshub://141ppv/new"
-    }
-  ]
+  "path": "/:type/:keyword{.+}?",
+  "topFeeds": []
 }
 ```

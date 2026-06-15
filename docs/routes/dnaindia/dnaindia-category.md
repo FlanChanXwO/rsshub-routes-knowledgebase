@@ -52,9 +52,7 @@ _None_
   "parameters": {
     "category": "Find it in the URL, or tables below"
   },
-  "path": [
-    "/:category"
-  ],
+  "path": "/:category",
   "radar": [
     {
       "source": [

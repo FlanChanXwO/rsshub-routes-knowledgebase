@@ -39,7 +39,7 @@ _None_
     "travel"
   ],
   "example": "/shanghaimuseum/information/news/all",
-  "heat": 0,
+  "heat": 1,
   "location": "news.ts",
   "maintainers": [
     "magazian"

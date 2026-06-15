@@ -8,7 +8,7 @@
 - Namespace Name: `Hedwig`
 - Route Path: `/hedwig/posts/:site`
 - Route Name: `Posts`
-- Example: `/posts/walnut`
+- Example: `/hedwig/posts/walnut`
 - URL: `hedwig.pub`
 - Language: `_None_`
 - Categories: `blog`
@@ -35,7 +35,7 @@ _None_
   "categories": [
     "blog"
   ],
-  "example": "/posts/walnut",
+  "example": "/hedwig/posts/walnut",
   "features": {
     "supportRadar": false
   },

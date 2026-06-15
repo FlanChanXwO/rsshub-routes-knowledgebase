@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1255,
+  "heat": 1254,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": "2026-06-12T03:38:38.639Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

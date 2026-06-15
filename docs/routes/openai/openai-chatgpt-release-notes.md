@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "chatgpt.ts",
   "maintainers": [
     "xbot"

@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "最新动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-13T23:15:00.369Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56569874911161344",
       "id": "56569874911161344",
       "image": null,
       "ownerUserId": null,

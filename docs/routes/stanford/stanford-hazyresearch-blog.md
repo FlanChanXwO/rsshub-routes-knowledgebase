@@ -58,9 +58,7 @@ _None_
   ],
   "name": "Hazy Research Blog",
   "parameters": {},
-  "path": [
-    "/hazyresearch/blog"
-  ],
+  "path": "/hazyresearch/blog",
   "radar": [
     {
       "source": [

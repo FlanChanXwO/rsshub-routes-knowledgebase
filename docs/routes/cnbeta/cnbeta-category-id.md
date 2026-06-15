@@ -50,9 +50,7 @@ _None_
   "parameters": {
     "id": "分类 id，可在对应分类页的 URL 中找到"
   },
-  "path": [
-    "/category/:id"
-  ],
+  "path": "/category/:id",
   "radar": [
     {
       "source": [
@@ -75,8 +73,8 @@ _None_
     },
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-13T10:28:12.645Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "80486406868729856",
       "image": null,
       "ownerUserId": null,

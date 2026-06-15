@@ -11,9 +11,9 @@
 ## Routes
 
 ### Latest
-- Route ID: `bangumi.moe:/bangumi.moe/*`
-- Route Path: `/bangumi.moe/*`
-- File: `docs/routes/bangumi-moe/bangumi-moe.md`
-- File Name: `bangumi-moe.md`
+- Route ID: `bangumi.moe:/bangumi.moe/:tags{.+}?`
+- Route Path: `/bangumi.moe/:tags{.+}?`
+- File: `docs/routes/bangumi-moe/bangumi-moe-tags.md`
+- File Name: `bangumi-moe-tags.md`
 - Categories: `anime`
 - Maintainers: `nczitzk`

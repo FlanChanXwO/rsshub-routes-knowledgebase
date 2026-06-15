@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 56,
+  "heat": 55,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -89,7 +89,7 @@
     {
       "description": "深度分析 | 創新拿鐵 - Powered by RSSHub",
       "errorAt": "2026-02-21T05:43:39.672Z",
-      "errorMessage": "[GET] \"https://startuplatte.com/category/analysis\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "81622260116168704",
       "image": null,
       "ownerUserId": null,

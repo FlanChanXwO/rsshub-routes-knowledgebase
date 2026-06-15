@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "PSN数字游戏折扣 - Powered by RSSHub",
-      "errorAt": "2026-06-11T20:30:22.458Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "130453774179595264",
       "image": null,
       "ownerUserId": null,

@@ -99,28 +99,28 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://www.jiqizhixin.com/api/article_library/articles.json - Powered by RSSHub",
-      "errorAt": "2026-01-20T06:27:28.930Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "207824007092203520",
+      "description": "Proxy https://api.github.com/repos/Macmod/godap/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T01:19:14.097Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "id": "185695094733155328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.jiqizhixin.com/api/article_library/articles.json",
-      "title": "机器之心",
+      "siteUrl": "https://api.github.com/repos/Macmod/godap/releases",
+      "title": "godap releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fwww.jiqizhixin.com%2Fapi%2Farticle_library%2Farticles.json/title%3D%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83%26item%3Darticles%26itemTitle%3Dtitle%26itemLink%3Dslug%26itemLinkPrefix%3D%2Farticles%2F%26itemDesc%3Dcontent%26itemPubDate%3DpublishedAt%26itemContent%3Dcontent%26itemJSONPrefix%3D%2Fapi%2Farticle_library%2Farticles%2F"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fgodap%2Freleases/title=godap%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
-      "errorAt": "2026-01-18T23:55:51.036Z",
-      "errorMessage": "403 Forbidden\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185694005069753344",
+      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:59.470Z",
+      "errorMessage": "502 Bad Gateway\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "id": "185694935800580096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
-      "title": "zed releases",
+      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
+      "title": "ldapx releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

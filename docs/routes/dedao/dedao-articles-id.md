@@ -8,7 +8,7 @@
 - Namespace Name: `得到`
 - Route Path: `/dedao/articles/:id?`
 - Route Name: `得到文章`
-- Example: `/articles/9`
+- Example: `/dedao/articles/9`
 - URL: `www.igetget.com`
 - Language: `_None_`
 - Categories: `new-media`
@@ -43,7 +43,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "example": "/articles/9",
+  "example": "/dedao/articles/9",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

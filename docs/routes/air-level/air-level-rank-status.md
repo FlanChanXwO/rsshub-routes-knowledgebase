@@ -49,9 +49,7 @@ _None_
   "parameters": {
     "status": "地区"
   },
-  "path": [
-    "/rank/:status?"
-  ],
+  "path": "/rank/:status?",
   "radar": [
     {
       "source": [

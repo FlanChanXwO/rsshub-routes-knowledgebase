@@ -8,7 +8,7 @@
 - Namespace Name: `上海大学`
 - Route Path: `/shu/journals/society/current`
 - Route Name: `《社会》杂志当期目录`
-- Example: `/journals/society/current`
+- Example: `/shu/journals/society/current`
 - URL: `www.shu.edu.cn`
 - Language: `_None_`
 - Categories: `journal`
@@ -40,7 +40,7 @@ _None_
   "categories": [
     "journal"
   ],
-  "example": "/journals/society/current",
+  "example": "/shu/journals/society/current",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

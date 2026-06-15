@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙江大学软件学院通知 - Powered by RSSHub",
-      "errorAt": "2026-06-11T22:22:01.055Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71593681256419328",
       "image": null,
       "ownerUserId": null,

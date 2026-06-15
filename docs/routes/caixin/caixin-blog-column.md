@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 352,
+  "heat": 351,
   "location": "blog.ts",
   "maintainers": [],
   "name": "用户博客",

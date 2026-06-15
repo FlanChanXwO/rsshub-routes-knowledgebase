@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "FX-Markets Trading - Powered by RSSHub",
-      "errorAt": "2026-06-12T02:30:38.029Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59063696285536256",
       "image": null,
       "ownerUserId": null,

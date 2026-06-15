@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 120,
+  "heat": 122,
   "location": "index.ts",
   "maintainers": [],
   "name": "分类",
@@ -79,7 +79,7 @@
     {
       "description": "大眼仔旭 windows RSS - Powered by RSSHub",
       "errorAt": "2025-12-19T05:39:37.981Z",
-      "errorMessage": "Failed to fetch\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n403 Forbidden\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n[GET] \"http://www.dayanzai.me/windows\": <no response> fetch failed\n502 Bad Gateway\nFailed to fetch\n",
       "id": "64953399235565578",
       "image": null,
       "ownerUserId": null,

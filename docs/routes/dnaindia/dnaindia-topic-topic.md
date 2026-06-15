@@ -56,9 +56,7 @@ _None_
   "parameters": {
     "category": "Find it in the URL"
   },
-  "path": [
-    "/topic/:topic"
-  ],
+  "path": "/topic/:topic",
   "radar": [
     {
       "source": [

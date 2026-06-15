@@ -76,9 +76,7 @@ _None_
     "id": "专辑 id, 可在对应专辑页面的 URL 中找到",
     "type": "专辑类型, 通常可以使用 `album`，可在对应专辑页面的 URL 中找到"
   },
-  "path": [
-    "/:type/:id/:all/:shownote?"
-  ],
+  "path": "/:type/:id/:all/:shownote?",
   "topFeeds": [
     {
       "description": "梁文道播客《八分》每周三、周五晚8点更新，欢迎留言说出你的问题和建议。 - Powered by RSSHub",

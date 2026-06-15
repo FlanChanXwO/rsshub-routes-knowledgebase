@@ -202,7 +202,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 84,
+  "heat": 86,
   "location": "column.ts",
   "maintainers": [
     "nczitzk"
@@ -503,8 +503,8 @@
     },
     {
       "description": "产业互联网、产业数字化是各大传统产业借力大数据、云计算、智能终端及互联网等，提升内部效率和对外服务能力的重要路径之一。 - Powered by RSSHub",
-      "errorAt": "2026-06-11T23:11:06.306Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "120728715056393216",
       "image": "https://images.tmtpost.com/uploads/images/zhaopian/nuxtpic/change_logo3/og_image.png",
       "ownerUserId": null,

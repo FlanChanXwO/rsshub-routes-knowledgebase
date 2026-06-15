@@ -60,9 +60,7 @@ _None_
     "Loongphy"
   ],
   "name": "Blog",
-  "path": [
-    "/blog"
-  ],
+  "path": "/blog",
   "radar": [
     {
       "source": [

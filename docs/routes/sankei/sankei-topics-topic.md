@@ -48,9 +48,7 @@ _None_
   "parameters": {
     "topic": "Topic name (format included in URL). For example, for \"Expo 2025 Osaka, Kansai, Japan Special Feature\" https://www.sankei.com/tag/topic/etc_100, the value would be etc_100."
   },
-  "path": [
-    "/topics/:topic"
-  ],
+  "path": "/topics/:topic",
   "radar": [
     {
       "source": [

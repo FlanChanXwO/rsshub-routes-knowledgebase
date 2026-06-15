@@ -348,8 +348,8 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
     },
     {
       "description": "Personal messages to the AI community. - Powered by RSSHub",
-      "errorAt": "2026-06-11T21:48:42.629Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85236272491798528",
       "image": "https://www.deeplearning.ai/site-meta.png",
       "ownerUserId": null,

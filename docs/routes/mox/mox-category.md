@@ -59,7 +59,7 @@
       }
     ]
   },
-  "heat": 20,
+  "heat": 19,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

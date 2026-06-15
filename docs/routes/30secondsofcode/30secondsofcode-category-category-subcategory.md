@@ -8,7 +8,7 @@
 - Namespace Name: `30 Seconds of code`
 - Route Path: `/30secondsofcode/category/:category?/:subCategory?`
 - Route Name: `Category and Subcategory`
-- Example: `/category/css/interactivity`
+- Example: `/30secondsofcode/category/css/interactivity`
 - URL: `www.30secondsofcode.org`
 - Language: `_None_`
 - Categories: `programming`
@@ -45,7 +45,7 @@ _None_
   "categories": [
     "programming"
   ],
-  "example": "/category/css/interactivity",
+  "example": "/30secondsofcode/category/css/interactivity",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

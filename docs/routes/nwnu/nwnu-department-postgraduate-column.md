@@ -8,7 +8,7 @@
 - Namespace Name: `西北师范大学`
 - Route Path: `/nwnu/department/postgraduate/:column`
 - Route Name: `研究生院`
-- Example: `/department/postgraduate/2701`
+- Example: `/nwnu/department/postgraduate/2701`
 - URL: `www.nwnu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -52,7 +52,7 @@ _None_
     "university"
   ],
   "description": "| column | 标题                           | 描述                                               |\n| ------ | ------------------------------ | -------------------------------------------------- |\n| 2701   | 招生工作（包括硕士、博士招生） | 研究生院招生信息（包含硕士招生和博士招生两个栏目） |\n| 2712   | 博士招生                       | 研究生院博士研究生招生信息                         |\n| 2713   | 硕士招生                       | 研究生院硕士研究生招生信息                         |\n| 2702   | 培养工作                       | 培养工作栏目信息汇总                               |\n| 2703   | 学科建设                       | 研究生院学科建设信息汇总                           |\n| 2704   | 学位工作                       | 研究生院学位工作栏目信息汇总                       |",
-  "example": "/department/postgraduate/2701",
+  "example": "/nwnu/department/postgraduate/2701",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

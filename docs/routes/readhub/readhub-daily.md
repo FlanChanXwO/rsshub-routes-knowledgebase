@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4744,
+  "heat": 4746,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 钉钉换帅，90 后技术极客陈宇森接任钉钉 CEO 2. OpenAI 据悉考虑大幅降低 token 价格 3. 豆包手机硬件产品负责人林夕已离职 4. Altman 预计 OpenAI 将于未来一年内 IPO 5. Anthropic CEO：政府应有权阻止高风险新模型部署 6. 微信聊天发布「合并发图」功能 7. 谷歌选定三星合作研发下一代人工智能芯片 8. 微软因担心数据泄露限制员工使用 Claude Fable 9. 小米推出 AI 编程助手 MiMo Code 并开源 10. SpaceX 上市在即 约 400 名持股员工身价预计将达 1 亿美元 11. 消息称小鹏汽车进军游艇，内部代号「飞鱼」 12. 消息称 Meta 已完成与 Manus 运营分离：停止数据共享 13. 携程、美团等 7 家涉火车票销售第三方平台被约谈 14. OpenAI 携手 Visa 推出 AI 代理支付功能，ChatGPT 可自动完成购物和付款 - Powered by RSSHub",
+      "description": "1. 传阿里首席科学家周靖人将离职 2. 因美国政府政策限制，Anthropic 暂停供应 Mythos 5/Fable 5 模型 3. 消息称欧洲「独角兽」Mistral AI 洽谈以 200 亿欧元估值进行 D 轮融资 4. 科大讯飞发布星火多模态大模型 X2-VL 5. 摩尔线程：完成 MiniMax M3 大模型适配 6. 具身智能行业 5 月融资额环比降近六成 7. 雷军：小米汽车高度重视测试工作 目前整个测试团队有 800 多人 8. 遇见小面起诉夫妻面馆商标侵权，回应：已撤销对「渝见小面」的诉讼 9. 李书福：将有序关停并转吉利汽车集团相关冗余主体 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

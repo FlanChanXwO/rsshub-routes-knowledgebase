@@ -52,7 +52,7 @@ _None_
     "supportRadar": false,
     "supportScihub": false
   },
-  "heat": 418,
+  "heat": 417,
   "location": "bangumi.ts",
   "maintainers": [
     "DIYgod",
@@ -70,7 +70,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "61414387750364160",
-      "image": "https://i0.hdslb.com/bfs/bangumi/image/0af10a0c3258186e96fde4406b384c13dd643d8f.png",
+      "image": "https://i0.hdslb.com/bfs/bangumi/image/6db68114d6095254574fe2901b5dd703a8a42e93.png",
       "ownerUserId": null,
       "siteUrl": "https://www.bilibili.com/bangumi/media/md28223043",
       "title": "凡人修仙传",

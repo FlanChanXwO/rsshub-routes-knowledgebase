@@ -226,7 +226,7 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-06-11T21:22:58.000Z",
+      "errorAt": "2026-06-14T03:42:41.609Z",
       "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 404 \n",
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",

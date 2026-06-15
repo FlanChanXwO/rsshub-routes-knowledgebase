@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 11,
   "location": "reply.ts",
   "maintainers": [
     "Qixingchen"

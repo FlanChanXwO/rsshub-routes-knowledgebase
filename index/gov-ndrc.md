@@ -23,7 +23,7 @@
 - Route Path: `/gov/ndrc/xwdt/:category{.+}?`
 - File: `docs/routes/gov-ndrc/gov-ndrc-xwdt-category.md`
 - File Name: `gov-ndrc-xwdt-category.md`
-- Categories: `government`
+- Categories: `government, popular`
 - Maintainers: `nczitzk`
 
 ### 政府信息公开

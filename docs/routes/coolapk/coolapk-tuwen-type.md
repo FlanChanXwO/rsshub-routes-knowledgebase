@@ -67,9 +67,7 @@ _None_
   "parameters": {
     "type": "默认为hot"
   },
-  "path": [
-    "/tuwen/:type?"
-  ],
+  "path": "/tuwen/:type?",
   "topFeeds": [
     {
       "description": "酷安图文 - 编辑精选 - Powered by RSSHub",

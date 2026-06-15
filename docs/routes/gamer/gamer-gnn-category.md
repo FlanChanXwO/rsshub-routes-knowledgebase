@@ -158,8 +158,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-14T03:53:38.050Z",
+      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 \n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=306581\": 429 Too Many Requests\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 \n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\nFailed to fetch\n",
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

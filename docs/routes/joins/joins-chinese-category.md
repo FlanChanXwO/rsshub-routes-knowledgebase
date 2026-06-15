@@ -8,7 +8,7 @@
 - Namespace Name: `中央日报`
 - Route Path: `/joins/chinese/:category?`
 - Route Name: `中央日报中文版`
-- Example: `/chinese`
+- Example: `/joins/chinese`
 - URL: `chinese.joins.com`
 - Language: `_None_`
 - Categories: `traditional-media`
@@ -127,7 +127,7 @@
     "traditional-media"
   ],
   "description": "::: tip\n若订阅 [财经](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N1)，网址为 `https://chinese.joins.com/news/articleList.html?sc_section_code=S1N1`。截取 `sc_section_code` 的值作为参数填入，此时路由为 [`/joins/chinese/S1N1`](https://rsshub.app/joins/chinese/S1N1)。\n:::\n\n| 分类                                                                                        | `sc_section_code`                               |\n| ------------------------------------------------------------------------------------------- | ----------------------------------------------- |\n| [财经](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N1)                | [S1N1](https://rsshub.app/joins/chinese/S1N1)   |\n| [国际](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N2)                | [S1N2](https://rsshub.app/joins/chinese/S1N2)   |\n| [北韩](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N3)                | [S1N3](https://rsshub.app/joins/chinese/S1N3)   |\n| [政治・社会](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N4)          | [S1N4](https://rsshub.app/joins/chinese/S1N4)   |\n| [中国观察](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N5)            | [S1N5](https://rsshub.app/joins/chinese/S1N5)   |\n| [社论](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N26)               | [S1N26](https://rsshub.app/joins/chinese/S1N26) |\n| [专栏・观点](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N11)         | [S1N11](https://rsshub.app/joins/chinese/S1N11) |\n| [军事・科技](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N6)          | [S1N6](https://rsshub.app/joins/chinese/S1N6)   |\n| [娱乐体育](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N7)            | [S1N7](https://rsshub.app/joins/chinese/S1N7)   |\n| [教育](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N8)                | [S1N8](https://rsshub.app/joins/chinese/S1N8)   |\n| [旅游美食](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N9)            | [S1N9](https://rsshub.app/joins/chinese/S1N9)   |\n| [时尚](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N10)               | [S1N10](https://rsshub.app/joins/chinese/S1N10) |\n| [图集](https://chinese.joins.com/news/articleList.html?sc_section_code=S1N12\\&view_type=tm) | [S1N12](https://rsshub.app/joins/chinese/S1N12) |",
-  "example": "/chinese",
+  "example": "/joins/chinese",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -260,8 +260,8 @@
     },
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": "2026-06-11T19:59:03.916Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65469694593591296",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

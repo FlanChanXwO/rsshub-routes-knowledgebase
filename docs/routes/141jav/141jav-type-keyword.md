@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `141jav`
 - Namespace Name: `141JAV`
-- Route Path: `/141jav/:type/:keyword{.*}?`
+- Route Path: `/141jav/:type/:keyword{.+}?`
 - Route Name: `通用`
 - Example: `_None_`
 - URL: `141jav.com`
@@ -72,7 +72,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 821,
+  "heat": 0,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -83,32 +83,7 @@ _None_
     "keyword": "关键词，可查看下表的关键词说明",
     "type": "类型，可查看下表的类型说明"
   },
-  "path": "/:type/:keyword{.*}?",
-  "topFeeds": [
-    {
-      "description": "141JAV - Popular (30 days) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "54839446413188096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.141jav.com/popular/30",
-      "title": "141JAV - Popular (30 days)",
-      "type": "feed",
-      "url": "rsshub://141jav/popular/30"
-    },
-    {
-      "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "53022189134482432",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.141jav.com/new",
-      "title": "141JAV - New",
-      "type": "feed",
-      "url": "rsshub://141jav/new"
-    }
-  ]
+  "path": "/:type/:keyword{.+}?",
+  "topFeeds": []
 }
 ```

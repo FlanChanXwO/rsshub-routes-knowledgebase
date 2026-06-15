@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "index.ts",
   "maintainers": [
     "eternasuno",

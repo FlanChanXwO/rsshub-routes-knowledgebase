@@ -8,7 +8,7 @@
 - Namespace Name: `30 Seconds of code`
 - Route Path: `/30secondsofcode/latest`
 - Route Name: `New & Popular Snippets`
-- Example: `/latest`
+- Example: `/30secondsofcode/latest`
 - URL: `www.30secondsofcode.org`
 - Language: `_None_`
 - Categories: `programming`
@@ -43,7 +43,7 @@ _None_
   "categories": [
     "programming"
   ],
-  "example": "/latest",
+  "example": "/30secondsofcode/latest",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 90,
+  "heat": 91,
   "location": "new-and-popular.ts",
   "maintainers": [
     "Rjnishant530"

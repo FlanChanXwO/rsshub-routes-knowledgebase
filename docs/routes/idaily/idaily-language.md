@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 简体中文 | 繁体中文 |\n| -------- | -------- |\n| zh-hans  | zh-hant  |",
   "example": "/idaily",
-  "heat": 578,
+  "heat": 579,
   "location": "index.tsx",
   "maintainers": [
     "zphw",
@@ -51,9 +51,7 @@ _None_
   "parameters": {
     "language": "语言，见下表，默认为简体中文"
   },
-  "path": [
-    "/:language?"
-  ],
+  "path": "/:language?",
   "radar": [
     {
       "source": [

@@ -6,9 +6,9 @@
 ## Route
 - Namespace: `gisreportsonline`
 - Namespace Name: `GIS Reports`
-- Route Path: `/gisreportsonline/:path{.*}`
+- Route Path: `/gisreportsonline/:path{.+}?`
 - Route Name: `报告`
-- Example: `/gis/c/security-challenges/`
+- Example: `/gisreportsonline/gis/c/security-challenges/`
 - URL: `www.gisreportsonline.com`
 - Language: `_None_`
 - Categories: `new-media`
@@ -37,7 +37,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "example": "/gis/c/security-challenges/",
+  "example": "/gisreportsonline/gis/c/security-challenges/",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
@@ -47,7 +47,7 @@ _None_
   "parameters": {
     "path": "包含\"Reports\"页面下的路径"
   },
-  "path": "/:path{.*}",
+  "path": "/:path{.+}?",
   "radar": [
     {
       "source": [

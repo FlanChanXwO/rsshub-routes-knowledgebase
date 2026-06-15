@@ -8,7 +8,7 @@
 - Namespace Name: `虎扑`
 - Route Path: `/hupu/news/:team`
 - Route Name: `队伍新闻`
-- Example: `/news/Spurs`
+- Example: `/hupu/news/Spurs`
 - URL: `m.hupu.com`
 - Language: `_None_`
 - Categories: `bbs`
@@ -35,7 +35,7 @@ _None_
   "categories": [
     "bbs"
   ],
-  "example": "/news/Spurs",
+  "example": "/hupu/news/Spurs",
   "heat": 0,
   "location": "news.ts",
   "maintainers": [
@@ -47,9 +47,7 @@ _None_
       "description": "全小写的英文队名，例如：spurs, lakers, warriors 等等"
     }
   },
-  "path": [
-    "/news/:team"
-  ],
+  "path": "/news/:team",
   "topFeeds": [],
   "url": "m.hupu.com"
 }

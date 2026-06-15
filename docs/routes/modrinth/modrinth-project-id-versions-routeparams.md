@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
-      "errorAt": "2026-06-11T23:03:37.647Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88557710935450624",
       "image": null,
       "ownerUserId": null,
@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
+      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86130193434324992",
+      "id": "113662012738039808",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/epic-fight",
-      "title": "Epic Fight Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/86biV1Ic",
+      "title": "AuroraLevels Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/epic-fight/versions"
+      "url": "rsshub://modrinth/project/86biV1Ic/versions"
     }
   ]
 }

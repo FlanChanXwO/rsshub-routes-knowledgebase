@@ -49,9 +49,7 @@ _None_
   "parameters": {
     "user": "username"
   },
-  "path": [
-    "/portfolio/:user"
-  ],
+  "path": "/portfolio/:user",
   "radar": [
     {
       "source": [

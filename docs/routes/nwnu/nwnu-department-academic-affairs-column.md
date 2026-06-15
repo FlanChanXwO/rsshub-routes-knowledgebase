@@ -8,7 +8,7 @@
 - Namespace Name: `西北师范大学`
 - Route Path: `/nwnu/department/academic-affairs/:column`
 - Route Name: `教务处`
-- Example: `/department/academic-affairs/tzgg`
+- Example: `/nwnu/department/academic-affairs/tzgg`
 - URL: `www.nwnu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -48,7 +48,7 @@ _None_
     "university"
   ],
   "description": "| column | 标题     | 描述                     |\n| ------ | -------- | ------------------------ |\n| tzgg   | 通知公告 | 西北师范大学教务通知公告 |\n| jwkx   | 教务快讯 | 西北师范大学教务快讯     |",
-  "example": "/department/academic-affairs/tzgg",
+  "example": "/nwnu/department/academic-affairs/tzgg",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 92,
+  "heat": 99,
   "location": "site.ts",
   "maintainers": [
     "lchtao26"

@@ -59,7 +59,7 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 93,
+  "heat": 94,
   "location": "topic.ts",
   "maintainers": [
     "queensferryme"
@@ -92,8 +92,8 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
     },
     {
       "description": "The branch of computer science dealing with the reproduction, or mimicking of human-level intelligence, self-awareness, knowledge, conscience, and thought in computer programs. - Powered by RSSHub",
-      "errorAt": "2026-06-12T03:41:40.183Z",
-      "errorMessage": "[GET] \"https://github.com/topics/ai?\": 429 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73606836817679360",
       "image": null,
       "ownerUserId": null,

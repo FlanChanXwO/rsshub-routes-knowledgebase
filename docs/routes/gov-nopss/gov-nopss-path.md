@@ -47,7 +47,7 @@ _None_
   ],
   "description": "::: tip\n\n路径处填写对应页面 URL 中 `http://www.nopss.gov.cn/` 后的字段。下面是一个例子。\n\n若订阅 [年度项目、青年项目和西部项目](http://www.nopss.gov.cn/GB/219469/431027) 则将对应页面 URL <http://www.nopss.gov.cn/GB/219469/431027> 中 `http://www.nopss.gov.cn/` 后的字段 `GB/219469/431027` 作为路径填入。此时路由为 [`/gov/nopss/GB/219469/431027`](https://rsshub.app/gov/nopss/GB/219469/431027)\n\n:::",
   "example": "/gov/nopss/GB/219469",
-  "heat": 1,
+  "heat": 3,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -67,6 +67,18 @@ _None_
     }
   ],
   "topFeeds": [
+    {
+      "description": "重大项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68892056440478838",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431028",
+      "title": "重大项目- 全国哲学社会科学工作办公室",
+      "type": "feed",
+      "url": "rsshub://gov/nopss/GB/219469/431028"
+    },
     {
       "description": "年度项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
       "errorAt": null,

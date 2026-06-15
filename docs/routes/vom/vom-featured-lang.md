@@ -90,8 +90,8 @@
     },
     {
       "description": "VoM.mn - Voice of Mongolia - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-12T20:15:19.757Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64309319450846208",
       "image": "http://www.vom.mn/dist/images/vom-logo.png",
       "ownerUserId": null,

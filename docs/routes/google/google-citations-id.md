@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 768,
+  "heat": 765,
   "location": "citations.ts",
   "maintainers": [
     "KellyHwong",

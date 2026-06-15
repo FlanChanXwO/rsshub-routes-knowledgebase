@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "新闻 - 移动支付网 - Powered by RSSHub",
-      "errorAt": "2026-06-11T11:42:55.874Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70015290659752960",
       "image": null,
       "ownerUserId": null,

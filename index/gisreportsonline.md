@@ -11,8 +11,8 @@
 ## Routes
 
 ### 报告
-- Route ID: `gisreportsonline:/gisreportsonline/:path{.*}`
-- Route Path: `/gisreportsonline/:path{.*}`
+- Route ID: `gisreportsonline:/gisreportsonline/:path{.+}?`
+- Route Path: `/gisreportsonline/:path{.+}?`
 - File: `docs/routes/gisreportsonline/gisreportsonline-path.md`
 - File Name: `gisreportsonline-path.md`
 - Categories: `new-media`

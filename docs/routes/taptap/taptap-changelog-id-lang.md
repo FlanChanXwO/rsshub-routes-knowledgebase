@@ -87,16 +87,16 @@ _None_
       "url": "rsshub://taptap/changelog/221322"
     },
     {
-      "description": "火炬之光：无限 - Powered by RSSHub",
+      "description": "燕云十六声 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "171550461815962624",
-      "image": "https://img.tapimg.com/market/images/a395edeea4e8c60315097a7472c7393c.jpg",
+      "id": "203995001057763328",
+      "image": "https://img-tc.tapimg.com/market/images/515c6583cd5cb05f2f343e8b581df575.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/172664",
-      "title": "TapTap 更新记录 火炬之光：无限",
+      "siteUrl": "https://www.taptap.cn/app/239372",
+      "title": "TapTap 更新记录 燕云十六声",
       "type": "feed",
-      "url": "rsshub://taptap/changelog/172664"
+      "url": "rsshub://taptap/changelog/239372"
     }
   ]
 }

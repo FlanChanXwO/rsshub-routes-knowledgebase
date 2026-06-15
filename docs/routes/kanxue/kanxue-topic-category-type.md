@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "看雪论坛精华主题 - Android安全 - Powered by RSSHub",
-      "errorAt": "2026-06-12T01:55:16.550Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59422035037245440",
       "image": null,
       "ownerUserId": null,

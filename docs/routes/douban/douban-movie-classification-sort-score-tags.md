@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 26,
+  "heat": 27,
   "location": "other/classification.ts",
   "maintainers": [
     "zzwab"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "豆瓣电影分类影视 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-13T23:02:39.201Z",
+      "errorMessage": "[GET] \"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&start=0\": 403 \n",
       "id": "155307226993530880",
       "image": null,
       "ownerUserId": null,
