@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 249,
+  "heat": 250,
   "location": "breaking-news.tsx",
   "maintainers": [
     "miles170",
@@ -89,8 +89,8 @@
     },
     {
       "description": "udn.com 提供即時新聞以及豐富的政治、社會、地方、兩岸、國際、財經、數位、運動、NBA、娛樂、生活、健康、旅遊新聞，以最即時、多元的內容，滿足行動世代的需求 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:58:29.772Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62014591710445580",
       "image": null,
       "ownerUserId": null,

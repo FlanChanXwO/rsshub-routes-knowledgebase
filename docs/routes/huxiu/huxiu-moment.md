@@ -52,7 +52,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 1427,
+  "heat": 1426,
   "location": "moment.ts",
   "maintainers": [
     "nczitzk"
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "虎嗅 24 小时 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:51:14.443Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55607180296368128",
       "id": "55607180296368128",
       "image": null,
       "ownerUserId": null,

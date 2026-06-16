@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
-      "errorAt": "2026-06-13T10:28:12.645Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80486406868729856",
       "image": null,
       "ownerUserId": null,

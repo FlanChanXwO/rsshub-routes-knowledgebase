@@ -286,16 +286,16 @@
       "url": "rsshub://chinadaily/language/thelatest"
     },
     {
-      "description": "精彩推荐 - 中国日报网英语点津-LanguageTips - Powered by RSSHub",
-      "errorAt": "2026-06-13T20:07:45.430Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "164468082809828352",
+      "description": "双语新闻 - 中国日报网英语点津-LanguageTips - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "156244732581244928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://language.chinadaily.com.cn/thelatest",
-      "title": "精彩推荐 - 中国日报网英语点津-LanguageTips",
+      "siteUrl": "https://language.chinadaily.com.cn/news_bilingual",
+      "title": "双语新闻 - 中国日报网英语点津-LanguageTips",
       "type": "feed",
-      "url": "rsshub://chinadaily/language"
+      "url": "rsshub://chinadaily/language/news_bilingual"
     }
   ],
   "url": "language.chinadaily.com.cn",

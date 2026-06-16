@@ -73,7 +73,7 @@ _None_
     {
       "description": "𝔅𝔢𝔰𝔱𝔖𝔢𝔯𝔳𝔢𝔡𝔅𝔬𝔩𝔡 | Growing brands driven by Bold™ ideas. Design, Motion, 3D & Art Direction. | Connect with them on Dribbble; the global community for designers and creative professionals. - Powered by RSSHub",
       "errorAt": "2025-08-14T07:04:02.550Z",
-      "errorMessage": "[GET] \"https://dribbble.com/shots/5505258-Grabient-Logo\": 405 \n",
+      "errorMessage": "Cannot read properties of undefined (reading 'name')\n",
       "id": "56130033776808974",
       "image": null,
       "ownerUserId": null,
@@ -85,7 +85,7 @@ _None_
     {
       "description": "Gleb Kuznetsov ✈ | A designer transforms ideas into reality. As technology gets smarter, reality is exploding. Today, it takes an artist to make human and product interaction awe-inspiring. Connection is key. Gleb is crafting the future of digital experiences through emotional design. 🇺🇸🇨🇭 | Connect with them on Dribbble; the global community for designers and creative professionals. - Powered by RSSHub",
       "errorAt": "2025-06-03T14:17:45.714Z",
-      "errorMessage": "[GET] \"https://dribbble.com/shots/27462262-Agentic-OS-Home-Screen-design\": 405 \n",
+      "errorMessage": "Cannot read properties of undefined (reading 'name')\n",
       "id": "56130033776808982",
       "image": null,
       "ownerUserId": null,

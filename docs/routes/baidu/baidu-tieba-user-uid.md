@@ -63,6 +63,18 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
+      "description": "阳光下的咪西 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-04-05T11:51:29.923Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=阳光下的咪西\": 403 Forbidden\n",
+      "id": "69911701157875712",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%92%AA%E8%A5%BF",
+      "title": "阳光下的咪西 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%92%AA%E8%A5%BF"
+    },
+    {
       "description": "林子君 的贴吧 - Powered by RSSHub",
       "errorAt": "2026-05-22T16:26:48.243Z",
       "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=林子◎君\": 403 Forbidden\n",
@@ -73,18 +85,6 @@ _None_
       "title": "林子君 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
-    },
-    {
-      "description": "垃圾一件而已 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-06-11T18:52:12.513Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=KOKOKOKOKO巨蟹\": 403 Forbidden\n",
-      "id": "86267569293295616",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
-      "title": "垃圾一件而已 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
     }
   ]
 }

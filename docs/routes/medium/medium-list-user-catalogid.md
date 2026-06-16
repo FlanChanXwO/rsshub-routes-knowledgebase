@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "List: Favorite - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-14T14:43:52.118Z",
+      "errorMessage": "[POST] \"https://medium.com/_/graphql\": 403 \n",
       "id": "62155103767851008",
       "image": null,
       "ownerUserId": null,

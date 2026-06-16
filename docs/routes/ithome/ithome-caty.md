@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-06-13T22:38:21.977Z",
-      "errorMessage": "[GET] \"https://digi.ithome.com/\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

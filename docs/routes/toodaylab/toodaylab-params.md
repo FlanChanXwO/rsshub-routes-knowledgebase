@@ -55,8 +55,8 @@ _None_
     },
     {
       "description": "理想生活实验室是一家关注创意设计与生活消费的媒体。我们致力于：以国际的视野去关注品质生活发展的驱动力；把品牌、设计师与普通人群真正联结起来。 - Powered by RSSHub",
-      "errorAt": "2026-06-13T22:08:30.905Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63474398493291530",
       "image": "//static.toodaylab.com/static/images/logo-world-cup-2026.gif",
       "ownerUserId": null,

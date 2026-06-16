@@ -113,7 +113,7 @@ _None_
     {
       "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
       "errorAt": "2026-01-20T09:51:59.470Z",
-      "errorMessage": "502 Bad Gateway\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
       "id": "185694935800580096",
       "image": null,
       "ownerUserId": null,

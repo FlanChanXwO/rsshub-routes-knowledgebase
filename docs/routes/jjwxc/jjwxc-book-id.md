@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "晋江文学城 | 有花在野《我在废土世界扫垃圾》 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:50:04.491Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58138164860759040",
       "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
       "ownerUserId": null,

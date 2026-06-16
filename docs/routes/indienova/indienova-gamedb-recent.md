@@ -45,8 +45,8 @@ _None_
   "topFeeds": [
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
-      "errorAt": "2026-06-13T23:54:02.235Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-06-15T02:32:08.334Z",
+      "errorMessage": "[GET] \"https://indienova.com/game/gagged-love\": 404 \n",
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

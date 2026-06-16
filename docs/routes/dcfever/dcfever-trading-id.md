@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "二手電腦買賣平台 - DCFever.com - Powered by RSSHub",
-      "errorAt": "2026-06-14T01:48:03.205Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84180969212113920",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,

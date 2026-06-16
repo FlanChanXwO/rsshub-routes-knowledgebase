@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "llm formal method - Powered by RSSHub",
+      "description": "hydrology - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191738635390525440",
+      "id": "175661283850079232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=LLM%20formal%20method&sort=0",
-      "title": "llm formal method",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=hydrology&sort=0",
+      "title": "hydrology",
       "type": "feed",
-      "url": "rsshub://papers/query/LLM%20formal%20method"
+      "url": "rsshub://papers/query/hydrology"
     }
   ],
   "url": "papers.cool"

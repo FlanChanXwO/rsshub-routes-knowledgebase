@@ -87,7 +87,7 @@
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
       "errorAt": "2026-06-11T12:56:49.609Z",
-      "errorMessage": "[GET] \"http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http://xg.swjtu.edu.cn/web/Home/Detail?xvw34vmu=010j_M3=3j5d242b-2idg-e51i-bjh2-0fj2e5fi2dcb.shtml\": <no response> fetch failed\n",
       "id": "72512219481102338",
       "image": null,
       "ownerUserId": null,

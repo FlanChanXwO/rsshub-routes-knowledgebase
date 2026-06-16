@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "BangumiTV 首页 - 成员关注动画榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-14T20:01:28.485Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "74067850437124096",
       "image": null,
       "ownerUserId": null,

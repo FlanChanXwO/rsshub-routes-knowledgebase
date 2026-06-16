@@ -144,8 +144,8 @@
     },
     {
       "description": "中房网是中国房地产业协会的官方网站，致力于政府、行业、专业三大资源的整合，以权威及时的房地产行业资讯、数据与信用信息，打造房地产政策解读、市场判研、测评研究、信用管理的权威公信力平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:37:31.233Z",
+      "errorMessage": "[GET] \"http://news.fangchan.com/api/industrylist.json?pagesize=30&page=1\": 502 Bad Gateway\n[GET] \"http://news.fangchan.com/api/industrylist.json?pagesize=30&page=1\": 502 Bad Gateway\n",
       "id": "168523701006919680",
       "image": null,
       "ownerUserId": null,

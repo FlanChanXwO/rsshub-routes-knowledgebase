@@ -48,7 +48,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1183,
+  "heat": 1182,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",
@@ -103,8 +103,8 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - konachan.com - Powered by RSSHub",
-      "errorAt": "2026-06-14T01:03:06.045Z",
-      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n503 Service Unavailable\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": <no response> fetch failed\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n502 Bad Gateway\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62201931989535744",
       "image": null,
       "ownerUserId": null,
@@ -115,8 +115,8 @@
     },
     {
       "description": "Last week - konachan.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T00:42:07.807Z",
+      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 \n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 \n",
       "id": "62202498728230912",
       "image": null,
       "ownerUserId": null,

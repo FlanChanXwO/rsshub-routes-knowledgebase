@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2012,
+  "heat": 2011,
   "location": "haowen.ts",
   "maintainers": [
     "LogicJake",
@@ -98,8 +98,8 @@ _None_
     },
     {
       "description": "今日热门-什么值得买好文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T02:00:18.308Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nMISCONF Errors writing to the AOF file: No space left on device\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
       "id": "42520977153904661",
       "image": null,
       "ownerUserId": null,

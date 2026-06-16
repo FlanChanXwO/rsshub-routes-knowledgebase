@@ -44,7 +44,7 @@ _None_
   ],
   "description": "| 简体  | 繁體 | EN |\n| ----- | ---- | -- |\n| zh-cn | zh   | en |\n\n| 最多收藏        | 每周最高评分 | 最高浏览     | 最佳甜品餐厅 |\n| --------------- | ------------ | ------------ | ------------ |\n| most-bookmarked | best-rating  | most-popular | best-dessert |",
   "example": "/openrice/zh/hongkong/explore/chart/most-bookmarked",
-  "heat": 35,
+  "heat": 34,
   "location": "chart.tsx",
   "maintainers": [
     "after9"

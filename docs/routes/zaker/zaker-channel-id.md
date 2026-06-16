@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-14T13:03:03.232Z",
+      "errorMessage": "cheerio.load() expects a string\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

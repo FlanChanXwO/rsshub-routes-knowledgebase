@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 536,
+  "heat": 537,
   "location": "index.ts",
   "maintainers": [
     "WhiteWorld",
@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "每天三分钟的科技资讯聚合阅读 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:51:50.757Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55939235463397379",
       "id": "55939235463397379",
       "image": null,
       "ownerUserId": null,

@@ -97,8 +97,8 @@
     },
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": "2026-06-13T23:49:52.127Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55906664666988544",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55906664666988544",
       "image": null,
       "ownerUserId": null,

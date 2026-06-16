@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T03:53:36.620Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 96502911354921984",
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

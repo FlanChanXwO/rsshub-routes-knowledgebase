@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1202,
+  "heat": 1203,
   "location": "category.ts",
   "maintainers": [
     "DIYgod"
@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "掘金 前端 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:50:31.026Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42107264805507072",
       "id": "42107264805507072",
       "image": null,
       "ownerUserId": null,

@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of draxosdragon - Powered by RSSHub",
-      "errorAt": "2026-05-25T13:07:39.855Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/draxosdragon/gallery.json?full=1\": 500 Internal Server Error\nFailed to fetch\n",
-      "id": "79207933856438272",
+      "description": "Fur Affinity Gallery of noctibus - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:52:27.281Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/noctibus/gallery.json?full=1\": 500 Internal Server Error\nFailed to fetch\n",
+      "id": "79207138735974400",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/draxosdragon",
-      "title": "Fur Affinity | Gallery of draxosdragon",
+      "siteUrl": "https://www.furaffinity.net/gallery/noctibus",
+      "title": "Fur Affinity | Gallery of noctibus",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/draxosdragon/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/noctibus/nsfw"
     }
   ],
   "url": "furaffinity.net"

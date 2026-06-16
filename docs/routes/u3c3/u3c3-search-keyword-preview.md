@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "home - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-14T21:48:03.132Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 68549075258311680",
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,

@@ -62,18 +62,6 @@ _None_
       "description": "U9A9 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69603631408900096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://u9a9.com/",
-      "title": "U9A9",
-      "type": "feed",
-      "url": "rsshub://u9a9"
-    },
-    {
-      "description": "U9A9 - Powered by RSSHub",
-      "errorAt": "2026-06-13T21:38:04.741Z",
-      "errorMessage": "Failed to fetch\n",
       "id": "75777045788956696",
       "image": null,
       "ownerUserId": null,
@@ -81,6 +69,18 @@ _None_
       "title": "U9A9",
       "type": "feed",
       "url": "rsshub://u9a9/1"
+    },
+    {
+      "description": "U9A9 - Powered by RSSHub",
+      "errorAt": "2026-06-14T20:33:12.656Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69603631408900096",
+      "id": "69603631408900096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://u9a9.com/",
+      "title": "U9A9",
+      "type": "feed",
+      "url": "rsshub://u9a9"
     }
   ],
   "url": "u9a9.com/"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "album.tsx",
   "maintainers": [
     "TonyRL"
@@ -68,7 +68,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "62130677688848384",
-      "image": "http://pic9.iqiyipic.com/image/20251226/1c/83/a_100444857_m_601_en_m2_1013_569.webp",
+      "image": "http://pic6.iqiyipic.com/jisu/20251226/46/e4/f2646da84e162f39b4934ed71a6a4bee_1013_569.webp",
       "ownerUserId": null,
       "siteUrl": "https://www.iq.com/album/the-legend-of-sky-lord-2020-1b4lufwxd7h?lang=en_us",
       "title": "神武天尊",

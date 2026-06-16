@@ -71,7 +71,7 @@ _None_
   "topFeeds": [
     {
       "description": "广西民族大学人工智能学院 -- 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-06-13T19:17:55.211Z",
+      "errorAt": "2026-06-14T21:53:52.654Z",
       "errorMessage": "[GET] \"https://ai.gxmzu.edu.cn/index/tzgg.htm\": <no response> fetch failed\n",
       "id": "92039106959691776",
       "image": null,

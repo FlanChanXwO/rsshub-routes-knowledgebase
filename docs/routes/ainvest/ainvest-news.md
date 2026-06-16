@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1534,
+  "heat": 1533,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T03:09:00.242Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63585517712903168",
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Codeforces - Contests - Powered by RSSHub",
-      "errorAt": "2026-06-14T02:11:43.662Z",
-      "errorMessage": "[GET] \"https://codeforces.com/api/contest.list\": 404 \n[GET] \"https://codeforces.com/api/contest.list\": 404 Not Found\n[GET] \"https://codeforces.com/api/contest.list\": 404 \n[GET] \"https://codeforces.com/api/contest.list\": 404 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56948849407992838",
       "image": null,
       "ownerUserId": null,

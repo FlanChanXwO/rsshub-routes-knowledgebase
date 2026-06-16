@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2780,
+  "heat": 2782,
   "location": "user.ts",
   "maintainers": [
     "imlonghao"
@@ -80,7 +80,7 @@
     {
       "description": "大道无形我有型 的雪球全部动态 - Powered by RSSHub",
       "errorAt": "2026-06-09T07:35:01.653Z",
-      "errorMessage": "Failed to fetch\nUnexpected token '<', \"<textarea \"... is not valid JSON\n522 <none>\nNavigating frame was detached\nFailed to fetch\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nUnexpected token '<', \"<textarea \"... is not valid JSON\n502 Bad Gateway\npage.evaluate: SyntaxError: Unexpected token '<', \"<textarea \"... is not valid JSON\n",
+      "errorMessage": "Failed to fetch\nUnexpected token '<', \"<textarea \"... is not valid JSON\n522 <none>\nNavigating frame was detached\nFailed to fetch\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nFailed to fetch\n502 Bad Gateway\npage.evaluate: SyntaxError: Unexpected token '<', \"<textarea \"... is not valid JSON\n",
       "id": "54945423974379543",
       "image": "https://xavatar.imedao.com/community/20263/1777391133564-1777391133895.jpg!180x180.png",
       "ownerUserId": null,

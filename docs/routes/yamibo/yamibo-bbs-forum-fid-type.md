@@ -71,7 +71,7 @@ _None_
     {
       "description": "轻小说 - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-09T11:01:31.698Z",
-      "errorMessage": "522 <none>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "522 <none>\n[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=55&orderby=dateline&filter=typeid&typeid=295\": 503 \n",
       "id": "99375532893443072",
       "image": null,
       "ownerUserId": null,
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-14T21:58:52.389Z",
+      "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=5&orderby=dateline&filter=typeid&typeid=404\": 503 \n",
       "id": "99080947264681984",
       "image": null,
       "ownerUserId": null,

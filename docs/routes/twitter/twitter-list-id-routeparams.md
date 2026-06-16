@@ -141,8 +141,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter List - 1502570462752219136 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T01:50:41.313Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "59816386195718144",
       "image": null,
       "ownerUserId": null,

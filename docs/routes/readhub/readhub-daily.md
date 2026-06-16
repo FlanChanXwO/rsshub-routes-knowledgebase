@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4746,
+  "heat": 4745,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 传阿里首席科学家周靖人将离职 2. 因美国政府政策限制，Anthropic 暂停供应 Mythos 5/Fable 5 模型 3. 消息称欧洲「独角兽」Mistral AI 洽谈以 200 亿欧元估值进行 D 轮融资 4. 科大讯飞发布星火多模态大模型 X2-VL 5. 摩尔线程：完成 MiniMax M3 大模型适配 6. 具身智能行业 5 月融资额环比降近六成 7. 雷军：小米汽车高度重视测试工作 目前整个测试团队有 800 多人 8. 遇见小面起诉夫妻面馆商标侵权，回应：已撤销对「渝见小面」的诉讼 9. 李书福：将有序关停并转吉利汽车集团相关冗余主体 - Powered by RSSHub",
+      "description": "1. 阿里巴巴回应「周靖人离职」：谣言 2. 亚马逊 CEO 向美官员汇报后 特朗普政府收紧 Anthropic 模型使用限制 3. 蚂蚁集团正秘密测试 AI 版支付宝 4. 马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录 5. 中际旭创：受汇兑影响业绩暴雷传闻不属实 6. 苹果印度供应链又出事：塔塔 iPhone 零部件工厂被控污染农田水源 7. 新能源汽车「越造越重」引道路损耗争议，业内人士透露「养路费」等税费改革正在研究 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

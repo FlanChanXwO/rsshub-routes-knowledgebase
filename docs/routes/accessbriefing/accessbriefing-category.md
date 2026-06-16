@@ -219,7 +219,7 @@ If you subscribe to [Latest News](https://www.accessbriefing.com/latest/news)，
     {
       "description": "Dive into the pulse of the access industry on our News Page. From breaking news to in-depth analyses, stay connected with the latest trends in access solutions. - Powered by RSSHub",
       "errorAt": "2025-11-06T10:59:28.495Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.accessbriefing.com/latest/news\": <no response> fetch failed\n",
       "id": "61651923101048832",
       "image": "https://www.accessbriefing.com/images/anyx34/20240429-122716-KHLFINALlogoWHITE.png",
       "ownerUserId": null,

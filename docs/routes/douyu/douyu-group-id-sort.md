@@ -95,16 +95,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "寅子的鱼吧 - Powered by RSSHub",
+      "description": "金咕咕金咕咕doinb的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185721495210266624",
+      "id": "191989848016969728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/561",
-      "title": "斗鱼鱼吧 - 寅子",
+      "siteUrl": "https://yuba.douyu.com/group/newself/1262",
+      "title": "斗鱼鱼吧 - 金咕咕金咕咕doinb",
       "type": "feed",
-      "url": "rsshub://douyu/group/561"
+      "url": "rsshub://douyu/group/1262"
     }
   ]
 }

@@ -82,16 +82,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "cgw88's followers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "160995085476973568",
+      "description": "fanweibin2018's followers - Powered by RSSHub",
+      "errorAt": "2025-11-14T00:49:53.990Z",
+      "errorMessage": "GitHub follower RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "id": "194963482001905664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/cgw88",
-      "title": "cgw88's followers",
+      "siteUrl": "https://github.com/fanweibin2018",
+      "title": "fanweibin2018's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/cgw88"
+      "url": "rsshub://github/user/followers/fanweibin2018"
     }
   ]
 }

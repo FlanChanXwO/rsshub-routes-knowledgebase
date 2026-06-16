@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
+      "description": "A versatile, GUI-based quest plugin featuring customizable quest pools, leaderboards, leveling, and extensive plugin integrations. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "113662012738039808",
+      "id": "114582569332071424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/86biV1Ic",
-      "title": "AuroraLevels Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/NBlPi66Y",
+      "title": "AuroraQuests Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/86biV1Ic/versions"
+      "url": "rsshub://modrinth/project/NBlPi66Y/versions"
     }
   ]
 }

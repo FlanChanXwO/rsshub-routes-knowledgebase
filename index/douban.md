@@ -195,10 +195,10 @@
 - Maintainers: `alfredcai`
 
 ### 用户想看
-- Route ID: `douban:/douban/people/:userid/wish/:routeParams?`
-- Route Path: `/douban/people/:userid/wish/:routeParams?`
-- File: `docs/routes/douban/douban-people-userid-wish-routeparams.md`
-- File Name: `douban-people-userid-wish-routeparams.md`
+- Route ID: `douban:/douban/people/:userid/wish`
+- Route Path: `/douban/people/:userid/wish`
+- File: `docs/routes/douban/douban-people-userid-wish.md`
+- File Name: `douban-people-userid-wish.md`
 - Categories: `social-media`
 - Maintainers: `exherb`
 
