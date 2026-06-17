@@ -78,7 +78,7 @@
   "topFeeds": [
     {
       "description": "南开大学人工智能学院-最新动态 - Powered by RSSHub",
-      "errorAt": "2026-06-15T04:08:09.719Z",
+      "errorAt": "2026-06-15T13:03:28.461Z",
       "errorMessage": "[GET] \"https://ai.nankai.edu.cn/xwzx/zxdt.htm\": <no response> fetch failed\n",
       "id": "188273958932923392",
       "image": null,

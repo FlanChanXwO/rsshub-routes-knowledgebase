@@ -38,7 +38,7 @@ _None_
     "finance"
   ],
   "example": "/gov/pbc/zcyj",
-  "heat": 1,
+  "heat": 2,
   "location": "zcyj.ts",
   "maintainers": [
     "Fatpandac"

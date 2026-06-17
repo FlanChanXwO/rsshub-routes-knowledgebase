@@ -99,8 +99,8 @@ _None_
   "topFeeds": [
     {
       "description": "日向坂46 公式ブログ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T19:19:56.372Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64772656143885330",
       "image": null,
       "ownerUserId": null,

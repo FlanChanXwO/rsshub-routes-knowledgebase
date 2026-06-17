@@ -84,8 +84,8 @@
   "topFeeds": [
     {
       "description": "志祺七七 全部 - 簡訊設計 - Powered by RSSHub",
-      "errorAt": "2026-06-15T02:38:32.726Z",
-      "errorMessage": "[GET] \"https://blog.simpleinfo.cc/shasha77/what-is-heptabase-shasha77\": 520 \nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69343045566833666",
       "image": null,
       "ownerUserId": null,
@@ -95,16 +95,16 @@
       "url": "rsshub://simpleinfo"
     },
     {
-      "description": "志祺七七 - 簡訊設計 - Powered by RSSHub",
+      "description": "志祺七七 ACG快樂聊 - 簡訊設計 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126567950370039808",
+      "id": "55873602868576341",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://blog.simpleinfo.cc/shasha77?category=%E8%AE%BE%E8%AE%A1",
-      "title": "志祺七七 - 簡訊設計",
+      "siteUrl": "https://blog.simpleinfo.cc/shasha77?category=acg",
+      "title": "志祺七七 ACG快樂聊 - 簡訊設計",
       "type": "feed",
-      "url": "rsshub://simpleinfo/%E8%AE%BE%E8%AE%A1"
+      "url": "rsshub://simpleinfo/acg"
     }
   ]
 }

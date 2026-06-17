@@ -126,8 +126,8 @@ If you subscribe to [Updates in English](https://www.counter-strike.net/news/upd
     },
     {
       "description": "#Blog_Title - Powered by RSSHub",
-      "errorAt": "2026-06-15T02:17:54.448Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "165244885864530944",
       "image": "https://media.st.dl.eccdnx.com/apps/csgo/images/dota_react//blog/default_cover.jpg",
       "ownerUserId": null,

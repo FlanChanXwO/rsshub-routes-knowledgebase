@@ -96,7 +96,7 @@ _None_
       "url": "rsshub://x6d/34"
     },
     {
-      "description": "爱网络，爱这里。网络人的烟火，熬不尽的网络江湖。专注活动，软件，教程分享！总之就是网络那些事。 - Powered by RSSHub",
+      "description": "小刀娱乐网专注活动线报、绿色软件、源码资源与教程分享，持续更新网络实用内容，提供清晰分类导航与站内搜索。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "71601405221191684",

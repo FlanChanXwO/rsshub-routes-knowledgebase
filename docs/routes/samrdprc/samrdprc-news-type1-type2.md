@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "国内消费品召回新闻 - 国家市场监督管理总局 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T16:03:49.944Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "160626513899715584",
       "image": null,
       "ownerUserId": null,

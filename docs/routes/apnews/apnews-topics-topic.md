@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "Top News: US & International Top News Stories Today | AP News - Powered by RSSHub",
-      "errorAt": "2026-06-15T01:49:43.219Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41648644680942592",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41648644680942592",
       "image": null,
       "ownerUserId": null,

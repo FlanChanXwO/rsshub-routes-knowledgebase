@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4745,
+  "heat": 4746,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 阿里巴巴回应「周靖人离职」：谣言 2. 亚马逊 CEO 向美官员汇报后 特朗普政府收紧 Anthropic 模型使用限制 3. 蚂蚁集团正秘密测试 AI 版支付宝 4. 马斯克：特斯拉 AI6 芯片有望创下单块晶圆可用算力的纪录 5. 中际旭创：受汇兑影响业绩暴雷传闻不属实 6. 苹果印度供应链又出事：塔塔 iPhone 零部件工厂被控污染农田水源 7. 新能源汽车「越造越重」引道路损耗争议，业内人士透露「养路费」等税费改革正在研究 - Powered by RSSHub",
+      "description": "1. 小红书已准备好本月在香港提交 IPO 申请 2. 菜鸟回应解散传闻：纯属谣言 3. 李书福、张雪达成合作意向 4. 字节跳动讨论购买至少 5 万颗天数智芯的 AI 芯片 5. 英伟达计划通过发行高等级债券筹资至少 200 亿美元 6. 遇见小面创始人宋奇就商标风波致歉：决定无偿赠予已注册商标「渝见小面」 7. Anthropic 将与特朗普政府就 Mythos 模型争议举行会谈 8. SpaceX 通过 IPO 筹得约 857 亿美元 9. Anthropic 遭用户起诉涉嫌夸大订阅使用额度 10. 泡泡玛特旗下首款自研游戏《梦想家园》发布停服公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

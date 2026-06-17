@@ -77,7 +77,7 @@ _None_
   "topFeeds": [
     {
       "description": "全国通信专业技术人员职业水平考试网站最新动态和消息推送 - Powered by RSSHub",
-      "errorAt": "2026-06-14T01:47:41.454Z",
+      "errorAt": "2026-06-15T13:26:47.756Z",
       "errorMessage": "[GET] \"https://www.txks.org.cn/index/work.html\": 405 \n",
       "id": "105073231801801728",
       "image": "https://www.txks.org.cn/asset/image/logo/logo.png",

@@ -70,7 +70,7 @@ _None_
     {
       "description": "|10万＋推荐 - Powered by RSSHub",
       "errorAt": "2025-08-14T05:48:47.732Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HDFrLWqjpBhzQYuroSQp8wlLyM9McLWcFmDo4fXk&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg5Mjc3NzQzMA%3D%3D%26mid%3D2247567388%26idx%3D1%26sn%3D4f0cb572b5cd8eeeb27f36402732e873\nFailed to fetch\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJqyL2qj2cpQK2YZkUKorC4z0ROwkehK_EqwlK8a&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg5Mjc3NzQzMA%3D%3D%26mid%3D2247567388%26idx%3D1%26sn%3D4f0cb572b5cd8eeeb27f36402732e873\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJ-yL2qj5Ksl7Bkl8GRwV4qjReMPV1YFBCUvJPjQ&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg5Mjc3NzQzMA%3D%3D%26mid%3D2247567388%26idx%3D1%26sn%3D4f0cb572b5cd8eeeb27f36402732e873\n",
       "id": "87572776852626432",
       "image": null,
       "ownerUserId": null,
@@ -82,7 +82,7 @@ _None_
     {
       "description": "|李厚辰·专栏 - Powered by RSSHub",
       "errorAt": "2025-08-12T08:16:13.890Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HIdfLWqj2A8oMhS8lpN0I38OHNhxcVIO3jf0HoOS&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852786%26idx%3D1%26sn%3Dcc7fe151271e7c313d07cb9c550a8124\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: 环境异常 当前环境异常，完成验证后即可继续访问。 ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HBzIL2qjWDRV7mhkqgntzxUlzz2uckaG5rrX19l-&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852786%26idx%3D1%26sn%3Dcc7fe151271e7c313d07cb9c550a8124\n",
       "id": "58707616374334464",
       "image": null,
       "ownerUserId": null,

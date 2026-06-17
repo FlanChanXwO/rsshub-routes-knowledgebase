@@ -118,7 +118,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260614/s00001/1781424734342/%e3%80%8a%e8%8f%af%e7%9b%9b%e9%a0%93%e9%83%b5%e5%a0%b1%e3%80%8b%e6%96%87%e7%ab%a0%e8%a9%95%e5%9c%8b%e5%ae%89%e6%b3%95%e9%99%84%e4%be%8b%e5%8f%af%e3%80%8c%e8%bf%bd%e6%ba%af%e8%b5%b7%e8%a8%b4%e3%80%8d-%e6%94%bf%e5%ba%9c%e5%8f%8a%e7%ab%8b%e6%b3%95%e6%9c%83%e5%bc%b7%e7%83%88%e8%ad%b4%e8%b2%ac%e5%85%a7%e5%ae%b9%e5%a4%b1%e5%af%a6%e5%8f%8a%e6%92%92%e8%ac%8a\": 403 \nStatus code 403\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20260616/s00006/1781560663428/%e4%b8%96%e7%95%8c%e7%9b%83-%e6%b2%99%e7%89%b9%e9%81%ad%e7%83%8f%e6%8b%89%e5%9c%ad%e9%80%bc%e5%92%8c1-1-%e9%80%a3%e7%ba%8c%e5%85%a9%e5%b1%86%e9%a6%96%e6%88%b0%e9%ac%a5%e5%8d%97%e7%be%8e%e7%90%83%e9%9a%8a%e4%b8%8d%e6%95%97\": 403 \nStatus code 403\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

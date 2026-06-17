@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "跟李沐学AI 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T21:08:50.540Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75758482619226112",
       "image": "https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg",
       "ownerUserId": null,

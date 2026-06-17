@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-06-15T03:17:29.692Z",
-      "errorMessage": "Bad control character in string literal in JSON at position 1623 (line 23 column 30)\n",
+      "errorAt": "2026-06-15T20:02:51.020Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

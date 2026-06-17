@@ -67,7 +67,7 @@ _None_
     {
       "description": "48823-豆瓣话题 - Powered by RSSHub",
       "errorAt": "2026-02-27T06:36:35.221Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/gallery/topic/48823/items?sort=new&start=0&count=10&status_full_text=1\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/gallery/topic/48823/items?sort=new&start=0&count=10&status_full_text=1\": 403 \n",
       "id": "70440214385169408",
       "image": null,
       "ownerUserId": null,
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
-      "errorAt": "2026-06-14T21:52:56.361Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/gallery/topic/3379063/items?sort=new&start=0&count=10&status_full_text=1\": 403 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,

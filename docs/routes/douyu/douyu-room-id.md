@@ -86,10 +86,10 @@ _None_
     },
     {
       "description": "yyfyyf的斗鱼直播间 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T00:43:01.092Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62335921117247488",
-      "image": "https://rpic.douyucdn.cn/asrpic/260615/9999_src_0536.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/260615/9999_src_2339.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/9999",
       "title": "yyfyyf的斗鱼直播间",

@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "科学网 - 朱豫才的博文 - Powered by RSSHub",
-      "errorAt": "2026-06-15T01:58:25.599Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66637908923103232",
       "image": null,
       "ownerUserId": null,

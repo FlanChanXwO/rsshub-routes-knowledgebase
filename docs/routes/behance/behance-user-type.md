@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1730,
+  "heat": 1729,
   "location": "user.tsx",
   "maintainers": [
     "MisteryMonster"

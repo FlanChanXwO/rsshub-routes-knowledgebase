@@ -70,15 +70,15 @@ _None_
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69965125338796037",
+      "errorAt": "2025-05-20T20:52:20.637Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "69965125338796043",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.Takayanagi.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Mohammad.Mehdi.Sheikh.Jabbari.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20T.Takayanagi.1"
+      "url": "rsshub://inspirehep/literature/a%20Mohammad.Mehdi.Sheikh.Jabbari.1"
     }
   ]
 }

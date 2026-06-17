@@ -77,7 +77,7 @@
     {
       "description": "NL Times -- Top Stories - Powered by RSSHub",
       "errorAt": "2026-05-19T22:32:40.007Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://www.nltimes.nl/top-stories\": 403 \n",
       "id": "59769816692412416",
       "image": null,
       "ownerUserId": null,

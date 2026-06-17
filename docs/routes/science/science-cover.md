@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 9,
   "location": "cover.tsx",
   "maintainers": [
     "y9c",

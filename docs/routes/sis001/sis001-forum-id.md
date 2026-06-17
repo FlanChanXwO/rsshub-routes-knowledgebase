@@ -78,7 +78,7 @@ _None_
     {
       "description": "仅用于第一会所新片账号发布最新日本AV BT资源【全员可见 1级回复】 SiS001! Board - [第一会所 关闭注册] - Powered by RSSHub",
       "errorAt": "2025-08-22T19:01:45.676Z",
-      "errorMessage": "[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-561-1.html\": <no response> fetch failed\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n",
+      "errorMessage": "[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n",
       "id": "57370193871711232",
       "image": null,
       "ownerUserId": null,

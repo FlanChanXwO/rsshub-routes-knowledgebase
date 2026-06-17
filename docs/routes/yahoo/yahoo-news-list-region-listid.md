@@ -106,8 +106,8 @@
     },
     {
       "description": "Yahoo 新聞 - on.cc 東網 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T20:03:19.937Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "86337790306403328",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

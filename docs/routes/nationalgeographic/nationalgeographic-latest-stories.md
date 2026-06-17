@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Stories from National Geographic - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T01:49:32.230Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,

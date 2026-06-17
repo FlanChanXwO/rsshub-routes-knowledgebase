@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "第一财经VIP频道 - 第一财经杂志丨YiMagazine | 探索明亮的商业世界 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T02:38:20.175Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "107406669394481152",
       "image": null,
       "ownerUserId": null,

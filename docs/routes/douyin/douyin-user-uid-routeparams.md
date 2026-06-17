@@ -77,7 +77,7 @@ _None_
     {
       "description": "姜胡说 - Powered by RSSHub",
       "errorAt": "2025-11-11T16:10:38.172Z",
-      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nroute.abort: page.goto: Target page, context or browser has been closed\n",
+      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nroute.continue: page.goto: Target page, context or browser has been closed\n",
       "id": "188221989912814592",
       "image": "https://p3-pc.douyinpic.com/origin/aweme-avatar/mosaic-legacy_3149e000524a7b8745c42.jpeg",
       "ownerUserId": null,
@@ -89,7 +89,7 @@ _None_
     {
       "description": "伟布丁生活日记 - Powered by RSSHub",
       "errorAt": "2025-02-24T16:02:08.988Z",
-      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nFailed to fetch\n",
+      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\npage.goto: Target page, context or browser has been closed\n",
       "id": "116825524532749312",
       "image": "https://p3-pc.douyinpic.com/origin/aweme-avatar/mosaic-legacy_2e9e1000165a072193d95.jpeg",
       "ownerUserId": null,

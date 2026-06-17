@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 931,
+  "heat": 932,
   "location": "user-collection.ts",
   "maintainers": [
     "shininome",
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-06-15T02:33:53.763Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59567779750919168",
       "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
       "ownerUserId": null,

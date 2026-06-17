@@ -56,7 +56,7 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 43,
+  "heat": 42,
   "location": "kpics.ts",
   "maintainers": [
     "nczitzk"

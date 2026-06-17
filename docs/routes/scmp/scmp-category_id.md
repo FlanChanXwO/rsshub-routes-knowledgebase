@@ -84,8 +84,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     },
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": "2026-06-08T09:28:09.397Z",
-      "errorMessage": "404 Not Found\nCannot read properties of undefined (reading 'summary')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58381798255721483",
       "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

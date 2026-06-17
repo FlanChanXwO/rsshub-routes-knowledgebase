@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 196,
+  "heat": 197,
   "location": "st.ts",
   "maintainers": [
     "TonyRL"
@@ -88,8 +88,8 @@
     },
     {
       "description": "情趣全部文章-情趣No.1-PLAYNO.1玩樂達人 - Powered by RSSHub",
-      "errorAt": "2026-06-14T21:47:57.095Z",
-      "errorMessage": "[GET] \"http://stno1.playno1.com/stno1/all/\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69537146680018944",
       "image": null,
       "ownerUserId": null,

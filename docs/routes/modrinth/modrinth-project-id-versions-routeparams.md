@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A versatile, GUI-based quest plugin featuring customizable quest pools, leaderboards, leveling, and extensive plugin integrations. - Powered by RSSHub",
+      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582569332071424",
+      "id": "114582838985083904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/NBlPi66Y",
-      "title": "AuroraQuests Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/nZSk44a8",
+      "title": "AxTrade Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/NBlPi66Y/versions"
+      "url": "rsshub://modrinth/project/nZSk44a8/versions"
     }
   ]
 }

@@ -99,16 +99,16 @@ Note: If you want to track a specific post's content changes (e.g., first post w
       "url": "rsshub://f95zone/thread/nagoonimation-collection-2025-11-14-nagoonimation.52702"
     },
     {
-      "description": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-10] [THEOBROBINE/theobrobine/ておぶろびん] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250446303116526592",
+      "id": "250445877936302080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/",
-      "title": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-10] [THEOBROBINE/theobrobine/ておぶろびん]",
+      "siteUrl": "https://f95zone.to/threads/ubermation-collection-2025-10-06-uebermation-uebermation.231247/",
+      "title": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491"
+      "url": "rsshub://f95zone/thread/ubermation-collection-2025-10-06-uebermation-uebermation.231247"
     }
   ]
 }

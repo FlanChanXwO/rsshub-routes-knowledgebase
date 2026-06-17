@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "商品住房购买登记 - Powered by RSSHub",
-      "errorAt": "2026-06-09T01:02:04.649Z",
-      "errorMessage": "[GET] \"https://zw.cdzjryb.com/lottery/accept/projectList\": <no response> fetch failed\n",
+      "errorAt": "2026-06-15T17:42:48.112Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "92760180202994688",
       "image": null,
       "ownerUserId": null,

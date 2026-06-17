@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 32,
+  "heat": 31,
   "location": "index.ts",
   "maintainers": [],
   "name": "Unknown",

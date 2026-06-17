@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "福利吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T11:07:58.453Z",
+      "errorMessage": "[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\nFailed to fetch\n502 Bad Gateway\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n",
       "id": "55989776559142912",
       "image": null,
       "ownerUserId": null,

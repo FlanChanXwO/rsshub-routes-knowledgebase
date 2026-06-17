@@ -84,7 +84,7 @@
     {
       "description": null,
       "errorAt": "2025-06-25T00:45:21.760Z",
-      "errorMessage": "[GET] \"https://www.sobooks.net/\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "160497068790603856",
       "image": null,
       "ownerUserId": null,

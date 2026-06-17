@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "deepin论坛主页 - 最新主题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-15T16:03:47.836Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "155304200635561984",
       "image": null,
       "ownerUserId": null,

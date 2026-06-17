@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 7,
   "location": "featured.ts",
   "maintainers": [
     "nczitzk"
@@ -69,7 +69,7 @@ _None_
   "topFeeds": [
     {
       "description": "Featured articles - BioOne - Powered by RSSHub",
-      "errorAt": "2026-06-12T05:59:43.711Z",
+      "errorAt": "2026-06-15T11:22:41.450Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "56553335105003520",
       "image": null,
