@@ -344,8 +344,8 @@
   "topFeeds": [
     {
       "description": "423Down - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:35:20.158Z",
+      "errorMessage": "[GET] \"https://www.423down.com/\": <no response> fetch failed\n[GET] \"https://www.423down.com/16499.html\": <no response> fetch failed\nFailed to fetch\n",
       "id": "55913439252283392",
       "image": "https://www.423down.com/wp-content/themes/D7/img/423Down.png",
       "ownerUserId": null,

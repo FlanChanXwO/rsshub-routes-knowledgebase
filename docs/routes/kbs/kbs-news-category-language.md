@@ -77,26 +77,26 @@
   ],
   "topFeeds": [
     {
-      "description": "全部 - KBS WORLD - Powered by RSSHub",
+      "description": "全部基本 - KBS WORLD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "62963988811276288",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://world.kbs.co.kr/service/news_list.htm?lang=c",
-      "title": "全部 - KBS WORLD",
+      "title": "全部基本 - KBS WORLD",
       "type": "feed",
       "url": "rsshub://kbs/news/all/c"
     },
     {
-      "description": "All - KBS WORLD - Powered by RSSHub",
+      "description": "AllGeneral Cookies - KBS WORLD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "69944188878743552",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://world.kbs.co.kr/service/news_list.htm?lang=e",
-      "title": "All - KBS WORLD",
+      "title": "AllGeneral Cookies - KBS WORLD",
       "type": "feed",
       "url": "rsshub://kbs/news"
     }

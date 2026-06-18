@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "败北女角太多了！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:50:22.335Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "57803547274585088",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "欢迎来到实力至上主义的教室 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T22:22:18.528Z",
+      "errorMessage": "[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 \n[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 \n",
       "id": "171191130615603200",
       "image": null,
       "ownerUserId": null,

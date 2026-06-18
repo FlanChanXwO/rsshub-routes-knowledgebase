@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:29:13.424Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "242493214939536384",
       "image": null,
       "ownerUserId": null,

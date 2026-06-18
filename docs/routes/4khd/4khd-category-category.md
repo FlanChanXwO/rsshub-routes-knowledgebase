@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 410,
+  "heat": 411,
   "location": "category.ts",
   "maintainers": [
     "AiraNadih"
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "4KHD - Category: cosplay - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T23:53:36.618Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 111946001442435072",
       "id": "111946001442435072",
       "image": null,
       "ownerUserId": null,

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1400,
+  "heat": 1401,
   "location": "live.tsx",
   "maintainers": [],
   "name": "实时快讯",

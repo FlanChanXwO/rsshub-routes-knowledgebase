@@ -76,28 +76,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.792Z",
-      "errorMessage": "[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864793",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://github/pulse/tencent-ailab/cosyvoice/weekly"
-    },
-    {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215344700650354688",
+      "id": "220767323256864792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
+      "title": "2noise/ChatTTS weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
+    },
+    {
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864790",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     }
   ]
 }

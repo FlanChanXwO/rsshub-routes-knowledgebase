@@ -111,8 +111,8 @@ _None_
     },
     {
       "description": "Browse articles by collection or check out the top picks and latest content below. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:28:05.145Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "156154806161232896",
       "image": "https://www.30secondsofcode.org/assets/splash/work-sunrise-600.webp",
       "ownerUserId": null,

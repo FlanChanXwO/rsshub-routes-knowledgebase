@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 649,
+  "heat": 650,
   "location": "book.ts",
   "maintainers": [
     "melvinto",
@@ -135,8 +135,8 @@ _None_
     },
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- June 21, 2026 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:40:04.011Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,

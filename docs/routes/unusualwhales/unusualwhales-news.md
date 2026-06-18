@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Explore unusual options, options flow, dark pools, short activity, and stock activity on unusualwhales.com. Unusual whales has a full news service available! - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T23:39:26.884Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59063894273462272",
       "image": "https://unusualwhales.com/android-icon-192x192.png",
       "ownerUserId": null,

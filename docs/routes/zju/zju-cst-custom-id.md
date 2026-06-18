@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙江大学软件学院通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:44:23.265Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71593681256419328",
       "image": null,
       "ownerUserId": null,

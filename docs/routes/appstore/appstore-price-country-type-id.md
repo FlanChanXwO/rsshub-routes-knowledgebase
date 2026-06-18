@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "限免提醒: Squash — Web Image Compression for macOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:55:32.521Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61630586048599162",
       "image": null,
       "ownerUserId": null,

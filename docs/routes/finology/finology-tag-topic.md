@@ -93,7 +93,7 @@ _None_
     {
       "description": "Everything that Insider has to offer about Startups for you to read and learn. - Powered by RSSHub",
       "errorAt": "2025-11-29T03:11:25.556Z",
-      "errorMessage": "[GET] \"https://insider.finology.in/tag/startups\": 403 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "65037662763965440",
       "image": null,
       "ownerUserId": null,

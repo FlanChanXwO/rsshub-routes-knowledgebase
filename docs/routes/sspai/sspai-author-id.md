@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 167,
+  "heat": 168,
   "location": "author.ts",
   "maintainers": [
     "SunShinenny",
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "玉树芝兰 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:39:36.825Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67269330696255569",
       "image": null,
       "ownerUserId": null,

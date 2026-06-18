@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "This feed gets GreatFrontEnd's posts from LinkedIn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:53:26.044Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "173633672770214912",
       "image": null,
       "ownerUserId": null,

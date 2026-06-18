@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "文教授 的发帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:56:22.812Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "150139249615693824",
       "image": null,
       "ownerUserId": null,

@@ -98,8 +98,8 @@ _None_
     },
     {
       "description": "Huggingface Community Articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:28:43.290Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "163588196308261888",
       "image": null,
       "ownerUserId": null,

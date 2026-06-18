@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "ESPN SOCCER News - Powered by RSSHub",
-      "errorAt": "2026-06-16T03:09:14.584Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72477890360150016",
       "image": null,
       "ownerUserId": null,

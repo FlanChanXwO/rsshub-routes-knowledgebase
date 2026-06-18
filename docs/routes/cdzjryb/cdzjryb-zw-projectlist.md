@@ -72,7 +72,7 @@ _None_
     {
       "description": "商品住房购买登记 - Powered by RSSHub",
       "errorAt": "2026-06-15T17:42:48.112Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://zw.cdzjryb.com/lottery/accept/projectList\": <no response> fetch failed\n",
       "id": "92760180202994688",
       "image": null,
       "ownerUserId": null,

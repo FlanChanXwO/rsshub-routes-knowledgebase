@@ -72,7 +72,7 @@ _None_
     {
       "description": "天下雜誌每日精選財經、國際、管理、教育、經濟學人、評論、時尚，深入解讀世界脈動。 - Powered by RSSHub",
       "errorAt": "2025-05-25T17:41:59.652Z",
-      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141420\": 403 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "60230426333120512",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

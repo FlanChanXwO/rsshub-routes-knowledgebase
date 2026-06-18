@@ -71,7 +71,7 @@ _None_
     {
       "description": "值得一读技术博客 - Powered by RSSHub",
       "errorAt": "2025-11-15T17:37:54.148Z",
-      "errorMessage": "Failed to fetch\n502 Bad Gateway\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\nFailed to fetch\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\n",
       "id": "55155355881001984",
       "image": null,
       "ownerUserId": null,

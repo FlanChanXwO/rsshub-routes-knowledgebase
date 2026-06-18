@@ -70,7 +70,7 @@ _None_
     {
       "description": "\"\" - 评论 - Powered by RSSHub",
       "errorAt": "2026-05-26T14:41:40.577Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
       "id": "80941534035664896",
       "image": null,
       "ownerUserId": null,

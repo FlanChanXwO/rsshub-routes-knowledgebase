@@ -56,7 +56,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 150,
+  "heat": 151,
   "location": "subject.ts",
   "maintainers": [
     "nczitzk"
@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "汽车行业资讯一网打尽。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:32:10.445Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "102251632021746688",
       "image": "https://img.cls.cn/images/20211116/r2NZ9gCUzN.jpg",
       "ownerUserId": null,

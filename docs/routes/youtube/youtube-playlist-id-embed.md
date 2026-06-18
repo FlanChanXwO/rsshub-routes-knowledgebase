@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1558,
+  "heat": 1559,
   "location": "playlist.ts",
   "maintainers": [
     "HenryQW"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "付鹏说 by Since1982 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:23:25.128Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nfetch failed\nFailed to fetch\n",
       "id": "93660941816522752",
       "image": "https://i.ytimg.com/vi/m7tfUrsJsrw/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLAzP1etQerVVHfma9Gn-2IH3klTkA",
       "ownerUserId": null,

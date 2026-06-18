@@ -119,7 +119,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 293485,
+  "heat": 293473,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -147,7 +147,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
       "errorAt": null,
       "errorMessage": null,
       "id": "55779617166007296",
-      "image": "https://cdn4.telesco.pe/file/tgKYzG6D_6kn6yoA6zpxvVZ46fkeI47eo0sy_2Rz7EHN36ZOR0Bc5WnHtltAEW_fRNVoDgIr6Kc3Ggk5-R3pEI3LovhEk0sRWkyh-MnGsf6PVKXkwiJ-32VA9jP1L776Cvc-MEN6K7N9fPsZHM1OyDdaa8MHBVjVE8WeOvv5Ia4NdQGYoY5hfYiXa2o9_p76TJzyVpd2ZmdX2A8D5Sz0Oo6Z085tUcbEcHKBcoLEXfHby855CBZRgEUtWBdnvSnyl5vuFBvsaYETTinY4cQITJhFgn2XF832IROi5dQ732luRD6uCoFkS2sFpVhhO5b2BHDfcaxD5BRhe7RmcQpU1g.jpg",
+      "image": "https://cdn4.telesco.pe/file/MuKmZpsITuQEm937CTI2KUxV3maL8FKhzaSffwCds45jkLMMvATWOUDINLjo2Wf70BEAlUp9k8-BV3sh0GtPh7guQenenh7Y6RFnRqRZtA6LvkaUC4vwx8jAWgpdqnXg_xjlLcb-elafdXtcmAbkhyoytGIEj2oYbr8Xxjm2MfhNhSAwZAaOSy-LdaoTk9ZzuoBzTqzBK58NLFZlitRey9-mtOVFddFxHh5jQYmAyPAeNNtp9S_-BK-ZdzLk14QdFfJ8xmESrU7a4JdGcxgv3vDIa-AvBM6aozVMJBWqvmuYvXYVWs8RmxXiET5n-hA5Fx50Ue81pRnGPH4fyJjdzw.jpg",
       "ownerUserId": null,
       "siteUrl": "https://t.me/s/durov",
       "title": "Pavel Durov - Telegram Channel",

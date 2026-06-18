@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Secret San Francisco - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:48:09.556Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "206885643304709120",
       "image": null,
       "ownerUserId": null,

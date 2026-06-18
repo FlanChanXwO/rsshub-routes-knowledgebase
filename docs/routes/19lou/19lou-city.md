@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "台州19楼 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:48:56.345Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71090917239899136",
       "image": null,
       "ownerUserId": null,

@@ -80,8 +80,8 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
   "topFeeds": [
     {
       "description": "Latest high quality 0day porn available for free download. Home of scene and P2P releases - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:27:52.618Z",
+      "errorMessage": "404 Not Found\n502 Bad Gateway\n",
       "id": "197857223398767616",
       "image": "https://0xxx.ws/images/logo.png",
       "ownerUserId": null,

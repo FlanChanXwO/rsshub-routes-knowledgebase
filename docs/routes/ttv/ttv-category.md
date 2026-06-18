@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/ttv",
-  "heat": 64,
+  "heat": 65,
   "location": "index.ts",
   "maintainers": [
     "dzx-dzx"

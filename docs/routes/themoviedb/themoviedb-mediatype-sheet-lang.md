@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "TV Shows Airing Today — TMDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:24:18.190Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "80097978467319808",
       "image": null,
       "ownerUserId": null,

@@ -100,8 +100,8 @@ HRT (Hudson River Trading) Tech Blog
   "topFeeds": [
     {
       "description": "Hudson River Trading - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:28:20.920Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "181667751333892096",
       "image": null,
       "ownerUserId": null,

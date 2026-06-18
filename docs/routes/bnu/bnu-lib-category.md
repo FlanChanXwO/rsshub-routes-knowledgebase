@@ -57,7 +57,7 @@ _None_
     {
       "description": "北京师范大学图书馆 | 北京师范大学图书馆 - Powered by RSSHub",
       "errorAt": "2025-12-22T09:40:10.256Z",
-      "errorMessage": "[GET] \"http://www.lib.bnu.edu.cn/zydt/index.htm\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "63261228702728212",
       "image": null,
       "ownerUserId": null,

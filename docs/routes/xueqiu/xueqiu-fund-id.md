@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "基金代码 019305 <br> 今日净值(2026-06-12) ¥1.6439 <br> 日涨跌 0.3908% - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:54:10.560Z",
+      "errorMessage": "502 Bad Gateway\n",
       "id": "64899751385970688",
       "image": null,
       "ownerUserId": null,
@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "基金代码 017093 <br> 今日净值(2026-06-12) ¥2.7575 <br> 日涨跌 0.5506% - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:55:42.192Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64899487882088448",
       "image": null,
       "ownerUserId": null,

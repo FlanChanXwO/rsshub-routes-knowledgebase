@@ -95,8 +95,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新 - 外汇市场公告 - 市场公告 - 中国货币网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:21:28.781Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60816907090906112",
       "image": null,
       "ownerUserId": null,

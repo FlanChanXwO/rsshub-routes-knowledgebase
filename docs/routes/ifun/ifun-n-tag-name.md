@@ -79,7 +79,7 @@
     {
       "description": "zhihu - Powered by RSSHub",
       "errorAt": "2025-01-19T19:00:03.264Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'records')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "88803144626877440",
       "image": null,
       "ownerUserId": null,

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "法定主动公开内容 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:28:21.113Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "184876403387650048",
       "image": null,
       "ownerUserId": null,

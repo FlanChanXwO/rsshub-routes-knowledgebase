@@ -88,8 +88,8 @@
     },
     {
       "description": "科技 - 财富中文网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T16:44:23.321Z",
+      "errorMessage": "[GET] \"https://www.fortunechina.com/keji\": <no response> fetch failed\n[GET] \"https://www.fortunechina.com/keji\": <no response> fetch failed\n[GET] \"https://www.fortunechina.com/keji\": <no response> fetch failed\n",
       "id": "42594177477129216",
       "image": null,
       "ownerUserId": null,

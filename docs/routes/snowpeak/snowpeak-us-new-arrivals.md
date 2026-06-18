@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Snow Peak - New Arrivals - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:51:08.767Z",
+      "errorMessage": "502 Bad Gateway\n",
       "id": "165067222014181376",
       "image": null,
       "ownerUserId": null,

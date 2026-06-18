@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "people/wish.ts",
   "maintainers": [
     "exherb"
@@ -59,6 +59,19 @@ _None_
     "userid": "用户id"
   },
   "path": "/people/:userid/wish",
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "豆瓣想看 - Tredici - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "242962409053608960",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://movie.douban.com/people/171811323/wish",
+      "title": "豆瓣想看 - Tredici",
+      "type": "feed",
+      "url": "rsshub://douban/people/171811323/wish"
+    }
+  ]
 }
 ```

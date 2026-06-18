@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "哔哩哔哩入站必刷 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:35:31.181Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "57230569101370368",
       "image": null,
       "ownerUserId": null,

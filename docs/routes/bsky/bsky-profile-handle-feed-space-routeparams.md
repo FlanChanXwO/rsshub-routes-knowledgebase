@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "Are you looking for new NSFW Art/Artists? Are you a NSFW Artist looking to grow your following? If so, this is the feed for you. Discover NSFW Artists is an opt-in, curated feed of hundreds of BlueSky artists under 5000 followers. Very inclusive, DM me to be added/removed! Updates take ~ 10m - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T23:58:44.510Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 137351369333348352",
       "id": "137351369333348352",
       "image": "https://cdn.bsky.app/img/avatar/plain/did:plc:btrhhrtkx7oabgkamwgbgowt/bafkreid5jlugjhej36eotejzvdmaalsur6fr3xiwnhcmexwidnfueonezm",
       "ownerUserId": null,

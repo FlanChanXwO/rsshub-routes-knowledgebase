@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - 招聘 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T03:18:35.625Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73265535066452992",
       "image": null,
       "ownerUserId": null,

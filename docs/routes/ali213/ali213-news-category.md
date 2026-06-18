@@ -208,8 +208,8 @@
     },
     {
       "description": "最新资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:57:27.593Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "89124148162380800",
       "image": "https://www.ali213.net/news/images/ali213_app_big.png",
       "ownerUserId": null,

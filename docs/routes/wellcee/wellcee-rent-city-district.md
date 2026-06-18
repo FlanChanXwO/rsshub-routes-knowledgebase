@@ -51,18 +51,6 @@ _None_
   "path": "/rent/:city/:district?",
   "topFeeds": [
     {
-      "description": "30K+ available Total 144K+ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "104852188412374016",
-      "image": "https://qnimg1.wellcee.com/o_1ept4f34n7le86r1r0h14t8h1h1i.jpeg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.wellcee.com/rent-apartment/guangzhou/list?cityId=15903782307947352&lang=zh",
-      "title": "广州租房信息 - Wellcee",
-      "type": "feed",
-      "url": "rsshub://wellcee/rent/%E5%B9%BF%E5%B7%9E"
-    },
-    {
       "description": "116K+ available Total 653K+ - Powered by RSSHub",
       "errorAt": "2026-05-02T18:22:05.195Z",
       "errorMessage": "Failed to fetch\n",
@@ -73,6 +61,18 @@ _None_
       "title": "上海租房信息 - Wellcee",
       "type": "feed",
       "url": "rsshub://wellcee/rent/%E4%B8%8A%E6%B5%B7"
+    },
+    {
+      "description": "30K+ available Total 144K+ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "104852188412374016",
+      "image": "https://qnimg1.wellcee.com/o_1ept4f34n7le86r1r0h14t8h1h1i.jpeg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.wellcee.com/rent-apartment/guangzhou/list?cityId=15903782307947352&lang=zh",
+      "title": "广州租房信息 - Wellcee",
+      "type": "feed",
+      "url": "rsshub://wellcee/rent/%E5%B9%BF%E5%B7%9E"
     }
   ],
   "url": "www.wellcee.com"

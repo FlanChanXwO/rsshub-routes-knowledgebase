@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:39:34.800Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "41373653871256597",
       "image": null,
       "ownerUserId": null,

@@ -57,8 +57,8 @@ _None_
     },
     {
       "description": "AWS Blog 更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T18:06:06.102Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "164021701195543568",
       "image": null,
       "ownerUserId": null,

@@ -68,7 +68,7 @@ _None_
       "id": "258938409787591680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "rsshub://magazinelib/latest-magazine/%7Bhost%7D/?s=new%20yorker",
+      "siteUrl": "https://magazinelib.com/?s=new%20yorker",
       "title": "MagazineLib - Latest Magazines - NEW YORKER",
       "type": "feed",
       "url": "rsshub://magazinelib/latest-magazine/new%20yorker"

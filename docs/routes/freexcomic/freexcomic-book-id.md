@@ -66,22 +66,22 @@ _None_
       "id": "100187430380041216",
       "image": "https://www.jjmhw6.top/static/upload/book/912/cover.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.jjmhw5.top/book/912",
+      "siteUrl": "https://www.jjmhw6.top/book/912",
       "title": "漫小肆 老師的親密指導",
       "type": "feed",
       "url": "rsshub://freexcomic/book/912"
     },
     {
       "description": "漫小肆 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "100187743653041152",
-      "image": "https://www.jjmhw6.top/static/upload/book/790/cover.jpg",
+      "errorAt": "2026-06-16T11:58:48.380Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "75833338533396480",
+      "image": "https://www.jjmhw6.top/static/upload/book/418/cover.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.jjmhw5.top/book/790",
-      "title": "漫小肆 慾海交鋒",
+      "siteUrl": "https://www.jjmhw5.top/book/418",
+      "title": "漫小肆 秘密教學",
       "type": "feed",
-      "url": "rsshub://freexcomic/book/790"
+      "url": "rsshub://freexcomic/book/418"
     }
   ],
   "url": "www.jjmhw.cc"

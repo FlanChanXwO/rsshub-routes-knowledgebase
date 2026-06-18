@@ -72,7 +72,7 @@ _None_
     {
       "description": "活动 - Odaily星球日报 - Powered by RSSHub",
       "errorAt": "2025-07-24T19:01:13.578Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "59954233475243008",
       "image": null,
       "ownerUserId": null,

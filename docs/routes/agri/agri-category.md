@@ -224,7 +224,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -417,8 +417,8 @@
     },
     {
       "description": "中国农业农村信息网_农业要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:21:17.713Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "77696987597589504",
       "image": "http://www.agri.cn/images/ny_logo.png",
       "ownerUserId": null,

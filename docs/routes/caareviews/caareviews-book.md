@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Book Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:41:06.085Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "54822609193475092",
       "image": null,
       "ownerUserId": null,

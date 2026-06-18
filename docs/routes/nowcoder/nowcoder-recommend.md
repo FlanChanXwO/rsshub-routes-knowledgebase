@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 87,
+  "heat": 88,
   "location": "recommend.ts",
   "maintainers": [
     "junfengP"

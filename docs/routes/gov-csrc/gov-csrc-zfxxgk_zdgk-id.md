@@ -484,7 +484,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1189,
+  "heat": 1188,
   "location": "csrc.ts",
   "maintainers": [
     "nczitzk"
@@ -945,8 +945,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T18:58:58.717Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

@@ -70,15 +70,15 @@ _None_
       "id": "154777115123643392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=678.3229485810048#",
+      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=301.00124526680605#",
       "title": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/41073656/66025368"
     },
     {
       "description": "NGA -阿狼- 在 - 我必不是蛇年红包 - 中的回复 178 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T07:00:13.705Z",
+      "errorMessage": "[GET] \"https://nga.178.com/read.php?tid=43098323&page=1&authorid=150058&rand=241.95807483563559#\": 403 Forbidden\nFailed to fetch\n",
       "id": "179409436734540800",
       "image": null,
       "ownerUserId": null,

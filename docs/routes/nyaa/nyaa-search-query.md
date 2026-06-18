@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "RSS Feed for Home - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T09:30:22.242Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 162739855683731456",
       "id": "162739855683731456",
       "image": null,
       "ownerUserId": null,

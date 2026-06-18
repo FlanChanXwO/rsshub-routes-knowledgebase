@@ -74,7 +74,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "175094017782230016",
-      "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ta&imageInfo.ImageIdentifier.IssueId=TA014034&imageInfo.ImageIdentifier.Year=2026",
+      "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ta&imageInfo.ImageIdentifier.IssueId=TA014035&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,
       "siteUrl": "https://pubs.rsc.org/en/journals/journalissues/ta#!recentarticles",
       "title": "Journal of Materials Chemistry A",

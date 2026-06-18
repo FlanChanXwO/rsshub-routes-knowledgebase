@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "白话区块链 - 首页 最新 - Powered by RSSHub",
-      "errorAt": "2026-06-15T21:07:38.328Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56162621363945472",
       "image": null,
       "ownerUserId": null,

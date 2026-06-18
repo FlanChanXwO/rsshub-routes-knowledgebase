@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "Welcome to the Riot Games channel, home of LoL Esports and other livestreams related to our games. For LoL Esports broadcasts, schedules, standings and advanced viewing features, head to http://lolesports.com. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:27:57.727Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "43556488621069312",
       "image": "https://static-cdn.jtvnw.net/jtv_user_pictures/35b02a12-d516-499e-90f8-7899f136fa18-profile_image-300x300.png",
       "ownerUserId": null,

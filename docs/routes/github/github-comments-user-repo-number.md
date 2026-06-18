@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "comfyanonymous/ComfyUI: Issue & Pull request comments - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T23:30:02.401Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 68377703545822208",
       "id": "68377703545822208",
       "image": null,
       "ownerUserId": null,

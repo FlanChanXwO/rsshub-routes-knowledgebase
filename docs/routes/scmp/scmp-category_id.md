@@ -52,7 +52,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 168,
+  "heat": 169,
   "location": "index.ts",
   "maintainers": [
     "proletarius101"
@@ -84,8 +84,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     },
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:39:16.779Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "58381798255721483",
       "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

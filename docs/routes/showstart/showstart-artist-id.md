@@ -85,16 +85,16 @@
       "url": "rsshub://showstart/artist/969774"
     },
     {
-      "description": "内地独立流行乐团，由主唱乔西、词曲创作刘冠南组成。代表作《呼吸决定》、《忘了我》、《没有人不比我快乐》。 - Powered by RSSHub",
+      "description": "秀动网 - 周士爵 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73918360042176532",
+      "id": "59224265617690624",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/artist/992554",
-      "title": "秀动网 - Fine乐团",
+      "siteUrl": "https://www.showstart.com/artist/6810007",
+      "title": "秀动网 - 周士爵",
       "type": "feed",
-      "url": "rsshub://showstart/artist/992554"
+      "url": "rsshub://showstart/artist/6810007"
     }
   ]
 }

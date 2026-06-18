@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "智篆商业-消费报告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T18:06:19.538Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "176591270098243584",
       "image": null,
       "ownerUserId": null,

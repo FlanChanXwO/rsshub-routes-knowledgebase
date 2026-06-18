@@ -71,7 +71,7 @@ _None_
     {
       "description": "KPMG Insights - Powered by RSSHub",
       "errorAt": "2026-04-11T12:51:46.487Z",
-      "errorMessage": "[GET] \"https://kpmg.com/xx/en/home/insights/2024/08/european-commission-faqs-csrd-esrs.html\": 404 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "67011938801010691",
       "image": null,
       "ownerUserId": null,
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "KPMG Insights - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:29:49.949Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "220072422980998144",
       "image": null,
       "ownerUserId": null,

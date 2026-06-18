@@ -94,8 +94,8 @@ _None_
     },
     {
       "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T00:18:56.001Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62743886183348224",
       "image": null,
       "ownerUserId": null,

@@ -11,7 +11,7 @@
 - Example: `/bilibili/ranking/all`
 - URL: `www.bilibili.com`
 - Language: `_None_`
-- Categories: `social-media, popular`
+- Categories: `social-media`
 - Maintainers: `DIYgod, hyoban`
 - Source Location: `ranking.ts`
 - Source Module: `_None_`
@@ -39,11 +39,10 @@ _None_
 ```json
 {
   "categories": [
-    "social-media",
-    "popular"
+    "social-media"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 8390,
+  "heat": 733,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -133,20 +132,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "78806242632741888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
-      "title": "bilibili 排行榜-全站",
-      "type": "feed",
-      "url": "rsshub://bilibili/ranking/0"
-    },
-    {
-      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
       "errorAt": "2026-06-13T14:33:21.636Z",
-      "errorMessage": "-352\n-352\n",
+      "errorMessage": "Failed to fetch\n-352\n",
       "id": "79067786101345280",
       "image": null,
       "ownerUserId": null,
@@ -154,6 +141,18 @@ _None_
       "title": "bilibili 排行榜-全站",
       "type": "feed",
       "url": "rsshub://bilibili/ranking/0/1"
+    },
+    {
+      "description": "bilibili 排行榜-舞蹈 - Powered by RSSHub",
+      "errorAt": "2025-12-23T16:01:16.653Z",
+      "errorMessage": "请求错误\n",
+      "id": "78833272579505152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/v/popular/rank/dance",
+      "title": "bilibili 排行榜-舞蹈",
+      "type": "feed",
+      "url": "rsshub://bilibili/ranking/7"
     }
   ],
   "view": 3

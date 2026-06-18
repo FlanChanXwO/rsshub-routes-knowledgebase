@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "Cursed Knowledge | Immich - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:30:44.029Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "181238816402329600",
       "image": "https://immich.app./favicon.ico",
       "ownerUserId": null,

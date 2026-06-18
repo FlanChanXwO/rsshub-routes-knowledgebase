@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 532,
+  "heat": 533,
   "location": "index.ts",
   "maintainers": [
     "donghongfei"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "爱范儿首页 - Powered by RSSHub",
-      "errorAt": "2026-06-15T11:03:30.289Z",
-      "errorMessage": "[GET] \"https://sso.ifanr.com/api/v5/wp/article/?post_id=1668998\": 500 \n[GET] \"https://sso.ifanr.com/api/v5/wp/article/?post_id=1668871\": 500 Internal Server Error\n[GET] \"https://sso.ifanr.com/api/v5/wp/article/?post_id=1668998\": 500 Internal Server Error\n[GET] \"https://sso.ifanr.com/api/v5/wp/article/?post_id=1668931\": 500 Internal Server Error\n[GET] \"https://sso.ifanr.com/api/v5/wp/article/?post_id=1668845\": 500 Internal Server Error\n[GET] \"https://sso.ifanr.com/api/v5/wp/article/?post_id=1668845\": 500 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "95440076991617024",
       "image": null,
       "ownerUserId": null,

@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 117,
+  "heat": 119,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Gay Asian Cocks In Hot Free Porn Videos And Sex Clips | Pornhub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T03:36:35.767Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "184894860867500032",
       "image": null,
       "ownerUserId": null,

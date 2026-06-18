@@ -126,8 +126,8 @@ _None_
     },
     {
       "description": "ELDENRING 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:33:18.663Z",
+      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
       "id": "41147805276726316",
       "image": null,
       "ownerUserId": null,

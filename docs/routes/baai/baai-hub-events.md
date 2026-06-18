@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "活动 - 智源社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:57:05.892Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58175611132081152",
       "image": null,
       "ownerUserId": null,

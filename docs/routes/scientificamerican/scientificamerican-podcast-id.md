@@ -118,8 +118,8 @@ If you subscribe to [Science Quickly](https://www.scientificamerican.com/podcast
     },
     {
       "description": "Be informed and entertained with original podcasts by Scientific American - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:49:56.185Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "179571337818491904",
       "image": "https://www.scientificamerican.com/static/sciam-mark.jpg",
       "ownerUserId": null,

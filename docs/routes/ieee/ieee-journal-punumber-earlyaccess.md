@@ -51,8 +51,8 @@ _None_
   "topFeeds": [
     {
       "description": "IEEE Access - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T21:23:12.425Z",
+      "errorMessage": "[GET] \"https://ieeexplore.ieee.org/document/11568431/\": 502 \n[GET] \"https://ieeexplore.ieee.org/rest/publication/home/metadata?pubid=6287639\": 420 \n[GET] \"https://ieeexplore.ieee.org/document/11563468/\": 504 \n",
       "id": "66654457230659584",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,

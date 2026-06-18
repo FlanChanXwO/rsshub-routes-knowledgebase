@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "国家广播电视总局 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:29:33.303Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "198372079645781011",
       "image": null,
       "ownerUserId": null,

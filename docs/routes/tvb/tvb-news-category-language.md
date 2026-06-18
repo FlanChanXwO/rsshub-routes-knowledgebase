@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "TVB News - 要聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T22:34:06.892Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61348313469205504",
       "id": "61348313469205504",
       "image": null,
       "ownerUserId": null,
@@ -98,8 +98,8 @@
     },
     {
       "description": "TVB News - 要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T18:58:40.424Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68507536443122688",
       "image": null,
       "ownerUserId": null,

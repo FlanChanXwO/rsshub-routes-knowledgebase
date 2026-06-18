@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "杂乱无章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:28:30.557Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "214594184648932352",
       "image": null,
       "ownerUserId": null,

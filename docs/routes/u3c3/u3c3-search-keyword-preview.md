@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 47,
   "location": "index.ts",
   "maintainers": [
     "storytellerF"
@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "home - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T09:43:27.205Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
@@ -78,14 +78,14 @@ _None_
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"
     },
     {
-      "description": "home - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "search U3C3 - u3c3 - Powered by RSSHub",
+      "errorAt": "2026-06-17T02:27:39.792Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/",
-      "title": "home - u3c3",
+      "siteUrl": "https://www.u3c3.com/?search2=a9nghtuv&search=U3C3",
+      "title": "search U3C3 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/U3C3"
     }

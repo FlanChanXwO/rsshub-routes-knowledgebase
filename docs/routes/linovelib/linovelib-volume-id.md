@@ -70,8 +70,8 @@ _None_
     },
     {
       "description": "败北女角太多了！ - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:55:43.679Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58014655249591296",
       "image": null,
       "ownerUserId": null,

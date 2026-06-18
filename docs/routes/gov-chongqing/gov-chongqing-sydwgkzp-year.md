@@ -38,7 +38,7 @@ _None_
     "government"
   ],
   "example": "/gov/chongqing/sydwgkzp",
-  "heat": 8,
+  "heat": 9,
   "location": "sydwgkzp.ts",
   "maintainers": [
     "MajexH"

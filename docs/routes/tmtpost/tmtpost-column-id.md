@@ -202,7 +202,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 86,
+  "heat": 82,
   "location": "column.ts",
   "maintainers": [
     "nczitzk"
@@ -491,8 +491,8 @@
   "topFeeds": [
     {
       "description": "专注AI新浪潮，第一时间带来AI新模式、新产品、新趋势。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:28:29.552Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "120727886912835584",
       "image": "https://images.tmtpost.com/uploads/images/zhaopian/nuxtpic/change_logo3/og_image.png",
       "ownerUserId": null,

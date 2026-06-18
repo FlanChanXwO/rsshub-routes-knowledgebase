@@ -53,7 +53,7 @@ _None_
   ],
   "description": "|    快讯   |   文章  |\n| :-------: | :-----: |\n| newsflash | article |\n\n| 全部 | 深度 | 精选 | 热点追踪 |\n| :--: | :--: | :--: | :------: |\n|      |  -2  |   1  |     2    |",
   "example": "/theblockbeats/newsflash",
-  "heat": 806,
+  "heat": 807,
   "location": "index.tsx",
   "maintainers": [
     "Fatpandac",
@@ -131,8 +131,8 @@ _None_
     },
     {
       "description": "TheBlockBeats - 文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:50:05.513Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "53870861878019072",
       "image": null,
       "ownerUserId": null,

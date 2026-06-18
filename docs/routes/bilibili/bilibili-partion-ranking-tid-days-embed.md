@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "bilibili 极客DIY分区 最热视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T02:44:19.221Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "70095114504796160",
       "image": null,
       "ownerUserId": null,

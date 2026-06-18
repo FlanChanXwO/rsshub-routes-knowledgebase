@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 331068,
+  "heat": 330928,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -95,8 +95,8 @@
   "topFeeds": [
     {
       "description": "Andrej Karpathy - YouTube - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T09:29:43.058Z",
+      "errorMessage": "206 Partial Content",
       "id": "60991924147702784",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nDvyq2NoPL626bk1IbxQ94SfQsD-B0qgZchghtQNkLWoEz=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
@@ -107,8 +107,8 @@
     },
     {
       "description": "We’re an AI safety and research company. Talk to our AI assistant Claude on claude.com. Download Claude on desktop, iOS, or Android. We believe AI will have a vast impact on the world. Anthropic is dedicated to building systems that people can rely on and generating research about the opportunities and risks of AI. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T10:53:24.097Z",
+      "errorMessage": "206 Partial Content",
       "id": "57461667496141824",
       "image": "https://yt3.googleusercontent.com/ux-GXUpB4PkI-qXVOpj9gGEiCkytT0Q78ka4srlxOm_Y3m1gEh5qy8Vu6vTjGSDztMT0NybtC7I=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

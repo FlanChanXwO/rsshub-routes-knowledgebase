@@ -61,8 +61,8 @@ _None_
     },
     {
       "description": "q9adg的爱发电动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-16T17:50:18.375Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "112488963475434496",
       "image": "https://pic1.afdiancdn.com/user/3f49234e3e8f11eb8f6152540025c377/avatar/b437cc29dc0c0514b840d5aa490328e6_w1125_h2436_s586.jpeg",
       "ownerUserId": null,
