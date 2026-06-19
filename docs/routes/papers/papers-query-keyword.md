@@ -85,8 +85,8 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
   "topFeeds": [
     {
       "description": "llms for scientific discovery - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:49:42.624Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "191737387979350016",
       "image": null,
       "ownerUserId": null,
@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "llm formal method - Powered by RSSHub",
+      "description": "action recognition backdoor attack - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191738635390525440",
+      "id": "139373082832014336",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=LLM%20formal%20method&sort=0",
-      "title": "llm formal method",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=action+recognition+backdoor+attack&sort=0",
+      "title": "action recognition backdoor attack",
       "type": "feed",
-      "url": "rsshub://papers/query/LLM%20formal%20method"
+      "url": "rsshub://papers/query/action+recognition+backdoor+attack"
     }
   ],
   "url": "papers.cool"

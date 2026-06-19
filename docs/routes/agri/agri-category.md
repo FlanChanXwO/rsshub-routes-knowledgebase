@@ -224,7 +224,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 21,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -405,8 +405,8 @@
   "topFeeds": [
     {
       "description": "中国农业农村信息网_最新发布 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T02:53:07.486Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "70027894230618112",
       "image": "http://www.agri.cn/images/ny_logo.png",
       "ownerUserId": null,
@@ -417,8 +417,8 @@
     },
     {
       "description": "中国农业农村信息网_农业要闻 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:21:17.713Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77696987597589504",
       "image": "http://www.agri.cn/images/ny_logo.png",
       "ownerUserId": null,

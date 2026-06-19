@@ -74,7 +74,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-23T09:51:57.698Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 \n[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 \n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 \n",
       "id": "148631391178206293",
       "image": null,
       "ownerUserId": null,

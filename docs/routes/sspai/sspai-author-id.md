@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "玉树芝兰 更新推送 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:39:36.825Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67269330696255569",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "少数派编辑部 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T03:39:21.471Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72521496466017287",
       "image": null,
       "ownerUserId": null,

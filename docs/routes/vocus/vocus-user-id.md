@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Phd Economist, Macroeconomics analysis, Analyst of Quantitative Finance. Research on data science and game theory. FB：MimiVsJames. 美國大型資產管理公司量化金融工程師 - Powered by RSSHub",
-      "errorAt": "2026-06-16T18:36:55.335Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64117673681947649",
       "image": "https://images.vocus.cc/f2920017-99b8-4f19-b1ac-21f65ba759cd.jpg",
       "ownerUserId": null,

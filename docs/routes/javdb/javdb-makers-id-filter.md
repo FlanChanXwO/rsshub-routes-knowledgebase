@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 384,
+  "heat": 401,
   "location": "makers.ts",
   "maintainers": [
     "nczitzk"
@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T21:13:10.132Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/makers/7R\": 403 Forbidden\nFailed to fetch\n",
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "MOODYZ - JavDB - Powered by RSSHub",
-      "errorAt": "2026-06-16T18:07:21.986Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73162555663082522",
       "image": null,
       "ownerUserId": null,

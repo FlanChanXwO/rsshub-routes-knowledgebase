@@ -96,8 +96,8 @@
     },
     {
       "description": "逛步行街极易上瘾，请各位JRs注意控制时间 - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:52:33.675Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55619435859718144",
       "image": null,
       "ownerUserId": null,

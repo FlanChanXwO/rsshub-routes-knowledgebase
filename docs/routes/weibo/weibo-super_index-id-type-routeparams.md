@@ -104,8 +104,8 @@
     },
     {
       "description": "#井川里予# 的超话 - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:48:42.676Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "122613879912649728",
       "image": null,
       "ownerUserId": null,

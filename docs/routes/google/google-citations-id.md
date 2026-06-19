@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 764,
+  "heat": 727,
   "location": "citations.ts",
   "maintainers": [
     "KellyHwong",
@@ -67,7 +67,7 @@ _None_
     {
       "description": "Google Scholar Citation Monitor: Li Fei-Fei; Profile: Professor of Computer Science, Stanford University; HomePage: http://vision.stanford.edu/ - Powered by RSSHub",
       "errorAt": "2026-05-14T14:31:53.778Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://scholar.google.com/citations?user=rDfyQnIAAAAJ\": 403 \n",
       "id": "62830172236416000",
       "image": null,
       "ownerUserId": null,

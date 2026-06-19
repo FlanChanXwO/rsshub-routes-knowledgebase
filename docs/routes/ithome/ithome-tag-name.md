@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 28,
   "location": "tag.ts",
   "maintainers": [
     "Fatpandac"
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT之家 - ai标签 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:54:00.438Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "127730216447523840",
       "image": null,
       "ownerUserId": null,

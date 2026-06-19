@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6792,
+  "heat": 6793,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",
@@ -93,7 +93,7 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:28:34.080Z",
+      "errorAt": "2026-06-18T03:26:45.043Z",
       "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nFailed to fetch\n",
       "id": "57266422630121472",
       "image": null,

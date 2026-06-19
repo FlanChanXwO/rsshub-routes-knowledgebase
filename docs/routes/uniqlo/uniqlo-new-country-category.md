@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "Uniqlo men new arrivals in us - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:52:19.182Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "164380886195041280",
       "image": null,
       "ownerUserId": null,

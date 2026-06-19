@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 新闻大爆炸 | 懂球帝十佳球 | 懂球帝本周 MVP |\n| ---------- | ------------ | -------------- |\n| 41         | 52           | 53             |",
   "example": "/dongqiudi/special/41",
-  "heat": 441,
+  "heat": 439,
   "location": "special.ts",
   "maintainers": [
     "dxmpalb"
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "世界那么大，除了足球还有这些 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T20:37:48.919Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66400977219680266",
       "image": null,
       "ownerUserId": null,

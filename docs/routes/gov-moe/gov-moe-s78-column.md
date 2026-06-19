@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "社会科学司 - 司局通知 - 中华人民共和国教育部政府门户网站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T11:39:35.388Z",
+      "errorMessage": "[GET] \"https://www.moe.gov.cn/s78/A13/tongzhi/\": 420 Unknown Status\n",
       "id": "75853854808636416",
       "image": null,
       "ownerUserId": null,

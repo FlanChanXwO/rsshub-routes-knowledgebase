@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "广西民族大学图书馆 -- 最新消息 - Powered by RSSHub",
-      "errorAt": "2026-06-16T19:42:44.927Z",
-      "errorMessage": "[GET] \"https://library.gxmzu.edu.cn/news/news_list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1010\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "92039525158448128",
       "image": null,
       "ownerUserId": null,

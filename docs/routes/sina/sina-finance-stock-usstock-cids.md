@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 74,
+  "heat": 75,
   "location": "finance/stock/usstock.ts",
   "maintainers": [
     "TonyRL"
@@ -90,8 +90,8 @@
     },
     {
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:24:28.739Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149823078304929792",
       "image": null,
       "ownerUserId": null,

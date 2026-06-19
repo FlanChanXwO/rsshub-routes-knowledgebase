@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T00:04:08.079Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "78446399642487808",
       "image": null,
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Ayb爱莹宝 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:35:37.726Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,

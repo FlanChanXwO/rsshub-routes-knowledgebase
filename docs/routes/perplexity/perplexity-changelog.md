@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 5,
   "location": "changelog.ts",
   "maintainers": [
     "xbot"

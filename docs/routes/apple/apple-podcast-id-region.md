@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "一个十五分钟的晨间仪式，轻松同步日常生活与商业世界。 这是一档由声动活泼出品的清晨播客节目，在工作日的早晨，为你带来与日常生活息息相关的商业科技轻解读，开启能量满满新一天。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T06:20:21.209Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "75431705723333633",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource116/v4/ed/f3/4c/edf34c1e-6986-b477-9844-44c83ed8a43e/67f4f01b-132f-4111-8f8f-743dcbada911.png/3000x3000bb.webp",
       "ownerUserId": null,

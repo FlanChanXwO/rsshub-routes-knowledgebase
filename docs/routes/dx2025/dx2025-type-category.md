@@ -87,7 +87,7 @@ _None_
     {
       "description": "东西智库 – 专注中国制造业高质量发展 - Powered by RSSHub",
       "errorAt": "2026-01-24T01:12:42.838Z",
-      "errorMessage": "[GET] \"https://www.dx2025.com\": <no response> fetch failed\n[GET] \"https://www.dx2025.com\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.dx2025.com\": <no response> fetch failed\n[GET] \"https://www.dx2025.com\": <no response> fetch failed\n[GET] \"https://www.dx2025.com\": <no response> fetch failed\n",
       "id": "42579624844251167",
       "image": null,
       "ownerUserId": null,

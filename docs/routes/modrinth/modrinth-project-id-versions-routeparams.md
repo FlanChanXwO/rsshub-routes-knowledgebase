@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
+      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292329928510464",
+      "id": "123851322293306368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/modern-ui",
-      "title": "Modern UI Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
+      "title": "HuskHomes Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/modern-ui/versions"
+      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
     }
   ]
 }

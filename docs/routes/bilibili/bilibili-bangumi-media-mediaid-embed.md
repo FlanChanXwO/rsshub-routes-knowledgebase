@@ -70,7 +70,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "61414387750364160",
-      "image": "https://i0.hdslb.com/bfs/bangumi/image/f5290ac8de8e3dd7cfd6fa0ce0217a34ea8fa30d.png",
+      "image": "https://i0.hdslb.com/bfs/bangumi/image/19a2d01429bcba6b31791277c016e0d1aa465974.png",
       "ownerUserId": null,
       "siteUrl": "https://www.bilibili.com/bangumi/media/md28223043",
       "title": "凡人修仙传",

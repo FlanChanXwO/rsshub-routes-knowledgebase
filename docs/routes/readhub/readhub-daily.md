@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4748,
+  "heat": 4751,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. SpaceX 市值超越微软，升至美股第四位 2. DeepSeek 首轮融资或落地，梁文锋个人出资约 200 亿元 3. Anthropic 高管计划与美政府官员会面 讨论模型访问限制 4. 字节跳动的 AI 账本：豆包每天不足百万收入、Seedance 毛利 70% 5. 小红书最快或下半年赴港上市 6. lululemon 致歉：已下架长城瑜伽主题活动所有相关宣传内容 7. 腾讯出资 2000 万美元入股阿里前明星研究员林俊旸的 AI 实验室 8. SpaceX 同意与 Cursor 合并 交易价值 600 亿美元 9. 央视曝光运营商杀熟乱象，老用户无法享受便宜套餐 10. 山姆中国变更董事长 11. 消息称原快手副总裁王志强入职盒马 12. 阿里发布首个具身大模型 Qwen-Robot 系列 13. AI 版支付宝正式推出 14. 高通洽谈收购 AI 芯片初创企业 Tenstorrent 15. 硅基流动完成新一轮超 20 亿元融资 16. 马斯克财富一天增 1600 亿美元超巴菲特全部身家 - Powered by RSSHub",
+      "description": "1. 字节跳动调整 AI 资源分配 重心从消费级「豆包」转向企业服务 2. 苹果计划 2027 年将推出带摄像头 AirPods 与新一代折叠 iPhone 3. 2025 年 OpenAI 净亏损约 80 亿美元 4. Sensor Tower 报告：ChatGPT 市场份额首度跌破 50%，AI 助手竞争加剧 5. 美国据报暂缓将 DeepSeek 等公司列入贸易黑名单 6. 支付宝：从未授权任何第三方进行内测邀请码的有偿交易 7. 美团：坚决拥护国家规范外卖平台补贴行为 8. 淘宝闪购：坚决拥护国家规范外卖平台补贴行为 9. 山姆会员商店首席采购官张青已提交辞呈 10. 字节跳动加量采购国产芯片 11. 智谱：上线并开源 GLM-5.2 12. Meta 旗下 Threads 月活用户突破 5 亿 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

@@ -78,7 +78,7 @@ _None_
     {
       "description": "天下雜誌提供最新財經等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-06T12:39:31.829Z",
-      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141594\": 403 \n",
+      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141618\": 403 \n",
       "id": "66757488440144896",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

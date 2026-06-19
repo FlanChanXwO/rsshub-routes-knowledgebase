@@ -103,8 +103,8 @@
     },
     {
       "description": "河北彩花 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:42:53.231Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/actors/EvkJ\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,

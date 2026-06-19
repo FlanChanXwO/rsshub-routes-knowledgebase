@@ -292,7 +292,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 31,
   "location": "rule.ts",
   "maintainers": [
     "nczitzk"
@@ -555,8 +555,8 @@
     },
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:28:05.754Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "121206842536209408",
       "image": null,
       "ownerUserId": null,

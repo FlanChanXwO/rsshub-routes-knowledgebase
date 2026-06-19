@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 44,
+  "heat": 45,
   "location": "research.ts",
   "maintainers": [
     "yuguorui",
@@ -62,7 +62,7 @@ _None_
     {
       "description": "OpenAI Research - Powered by RSSHub",
       "errorAt": "2026-06-16T17:59:52.777Z",
-      "errorMessage": "[GET] \"https://openai.com/index/deployment-simulation/\": 403 \n",
+      "errorMessage": "[GET] \"https://openai.com/index/ai-chemist-improves-reaction/\": 403 \n",
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

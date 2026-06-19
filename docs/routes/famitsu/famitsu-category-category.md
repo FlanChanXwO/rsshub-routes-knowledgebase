@@ -62,7 +62,7 @@ _None_
     {
       "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
       "errorAt": "2026-03-26T04:42:27.495Z",
-      "errorMessage": "[GET] \"https://www.famitsu.com\": <no response> fetch failed\nUnhandle type: ARTICLE_AD\n",
+      "errorMessage": "Unhandle type: ARTICLE_AD\nUnhandle type: ARTICLE_AD\n",
       "id": "73943720962894848",
       "image": "https://www.famitsu.com/img/1812/favicons/apple-touch-icon.png",
       "ownerUserId": null,
@@ -74,7 +74,7 @@ _None_
     {
       "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
       "errorAt": "2026-03-26T05:02:18.083Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Unhandle type: ARTICLE_AD\n",
       "id": "172851805999353856",
       "image": "https://www.famitsu.com/img/1812/favicons/apple-touch-icon.png",
       "ownerUserId": null,

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Huggingface qwen Models - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:28:34.236Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "220820120722097152",
       "image": null,
       "ownerUserId": null,
@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://huggingface/models/qwen"
     },
     {
-      "description": "Huggingface zai-org Models - Powered by RSSHub",
+      "description": "Huggingface deepseek-ai Models - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "239230213876544512",
+      "id": "220819952297147392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://huggingface.co/zai-org/models?sort=created",
-      "title": "Huggingface zai-org Models",
+      "siteUrl": "https://huggingface.co/deepseek-ai/models?sort=created",
+      "title": "Huggingface deepseek-ai Models",
       "type": "feed",
-      "url": "rsshub://huggingface/models/zai-org"
+      "url": "rsshub://huggingface/models/deepseek-ai"
     }
   ],
   "url": "huggingface.co"

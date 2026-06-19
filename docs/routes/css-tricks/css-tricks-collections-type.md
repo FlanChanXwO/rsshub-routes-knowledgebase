@@ -89,8 +89,8 @@ _None_
   "topFeeds": [
     {
       "description": "Properties, selectors, rules, and functions! - Powered by RSSHub",
-      "errorAt": "2026-06-16T19:58:27.427Z",
-      "errorMessage": "l.map is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "195959369333206016",
       "image": null,
       "ownerUserId": null,

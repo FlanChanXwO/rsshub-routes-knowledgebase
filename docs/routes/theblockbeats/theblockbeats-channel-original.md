@@ -131,8 +131,8 @@ _None_
     },
     {
       "description": "TheBlockBeats - 文章 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:50:05.513Z",
-      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53870861878019072",
       "image": null,
       "ownerUserId": null,

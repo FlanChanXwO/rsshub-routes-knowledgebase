@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "hentai - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:32:55.121Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56236591640943616",
       "image": null,
       "ownerUserId": null,
@@ -87,15 +87,15 @@ _None_
     },
     {
       "description": "hentai - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:51:28.115Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "55635543915975680",
+      "errorAt": "2026-06-18T02:47:05.985Z",
+      "errorMessage": "[GET] \"https://nhentai.net/language/chinese/\": 451 \n",
+      "id": "55275502392080384",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://nhentai.net/language/chinese/",
       "title": "nhentai - language - chinese",
       "type": "feed",
-      "url": "rsshub://nhentai/index/language/chinese/detail"
+      "url": "rsshub://nhentai/index/language/chinese"
     }
   ]
 }

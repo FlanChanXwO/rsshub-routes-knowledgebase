@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "香港中文大学助理教授 - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:47:25.081Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64474251337229328",
       "image": "https://imagedelivery.net/kDRCweMmqLnTPNlbum-pYA/prod/avatar/dba91dcc-72da-4356-b221-f79ef15bfff5.png/public",
       "ownerUserId": null,

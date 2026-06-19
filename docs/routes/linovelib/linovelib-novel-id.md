@@ -61,21 +61,9 @@ _None_
   "path": "/novel/:id",
   "topFeeds": [
     {
-      "description": "败北女角太多了！ - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:50:22.335Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "57803547274585088",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.linovelib.com/novel/3095/catalog",
-      "title": "哩哔轻小说 - 败北女角太多了！",
-      "type": "feed",
-      "url": "rsshub://linovelib/novel/3095"
-    },
-    {
       "description": "欢迎来到实力至上主义的教室 - Powered by RSSHub",
-      "errorAt": "2026-06-16T22:22:18.528Z",
-      "errorMessage": "[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 \n[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "171191130615603200",
       "image": null,
       "ownerUserId": null,
@@ -83,6 +71,18 @@ _None_
       "title": "哩哔轻小说 - 欢迎来到实力至上主义的教室",
       "type": "feed",
       "url": "rsshub://linovelib/novel/8"
+    },
+    {
+      "description": "败北女角太多了！ - Powered by RSSHub",
+      "errorAt": "2026-06-17T20:24:42.515Z",
+      "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 \n",
+      "id": "57803547274585088",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.linovelib.com/novel/3095/catalog",
+      "title": "哩哔轻小说 - 败北女角太多了！",
+      "type": "feed",
+      "url": "rsshub://linovelib/novel/3095"
     }
   ]
 }

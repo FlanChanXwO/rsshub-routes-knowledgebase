@@ -127,8 +127,8 @@ _None_
   "topFeeds": [
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:54:31.553Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "192034315847622656",
       "image": null,
       "ownerUserId": null,
@@ -139,15 +139,15 @@ _None_
     },
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:49:42.520Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "192033772591022080",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "192033567747366912",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/tzgg/tz.htm",
-      "title": "广外新传学院-通知",
+      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/xyxw.htm",
+      "title": "广外新传学院-学院新闻",
       "type": "feed",
-      "url": "rsshub://gdufs/xwxy/notices"
+      "url": "rsshub://gdufs/xwxy/news"
     }
   ],
   "url": "xwxy.gdufs.edu.cn"

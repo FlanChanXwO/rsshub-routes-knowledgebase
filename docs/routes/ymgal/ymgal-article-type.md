@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "月幕 Galgame - 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T02:52:16.768Z",
+      "errorMessage": "[GET] \"https://www.ymgal.games/co/topic/list?type=NEWS&page=1\": <no response> fetch failed\n",
       "id": "63378738853540864",
       "image": null,
       "ownerUserId": null,

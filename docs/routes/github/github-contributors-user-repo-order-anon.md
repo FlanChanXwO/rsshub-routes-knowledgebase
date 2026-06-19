@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for yonggekkk/Cloudflare_vless_trojan - Powered by RSSHub",
+      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "88072707051804672",
+      "id": "64129774135370752",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yonggekkk/Cloudflare_vless_trojan/graphs/contributors",
-      "title": "yonggekkk/Cloudflare_vless_trojan Contributors",
+      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
+      "title": "KrystalCJ/Conf Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/yonggekkk/Cloudflare_vless_trojan"
+      "url": "rsshub://github/contributors/KrystalCJ/Conf"
     },
     {
-      "description": "New contributors for cgw88/cgw321.com - Powered by RSSHub",
+      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "162529901506768896",
+      "id": "80504153337164800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/cgw88/cgw321.com/graphs/contributors",
-      "title": "cgw88/cgw321.com Contributors",
+      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
+      "title": "comfyanonymous/ComfyUI Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/cgw88/cgw321.com"
+      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
     }
   ]
 }

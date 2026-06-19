@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 100,
+  "heat": 101,
   "location": "global/index.ts",
   "maintainers": [
     "nczitzk",
@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:39:34.800Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": "2026-06-18T03:12:51.881Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/index\": 403 \n",
       "id": "41373653871256597",
       "image": null,
       "ownerUserId": null,

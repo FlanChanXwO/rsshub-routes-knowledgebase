@@ -88,8 +88,8 @@
     },
     {
       "description": "Radio Canada International | Radio-Canada.ca - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:55:54.468Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73549081174574080",
       "image": null,
       "ownerUserId": null,

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Política | Público - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:28:11.857Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129920988554547200",
       "image": null,
       "ownerUserId": null,

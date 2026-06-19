@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "澎湃明查 - 有定论 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:37:47.269Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85894831444113408",
       "image": null,
       "ownerUserId": null,

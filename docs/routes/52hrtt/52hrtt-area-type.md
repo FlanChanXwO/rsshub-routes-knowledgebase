@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "全球 - 新闻 - 华人头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T23:25:23.881Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67739090904930304",
       "image": null,
       "ownerUserId": null,

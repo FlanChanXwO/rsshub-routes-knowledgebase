@@ -99,16 +99,16 @@ Note: If you want to track a specific post's content changes (e.g., first post w
       "url": "rsshub://f95zone/thread/nagoonimation-collection-2025-11-14-nagoonimation.52702"
     },
     {
-      "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "250445877936302080",
+      "description": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer] - Powered by RSSHub",
+      "errorAt": "2026-06-17T20:21:21.644Z",
+      "errorMessage": "[GET] \"https://f95zone.to/threads/rdreamer-collection-2025-07-05-rdreamer.253184/\": 451 \n",
+      "id": "250523197875333120",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/ubermation-collection-2025-10-06-uebermation-uebermation.231247/",
-      "title": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation]",
+      "siteUrl": "https://f95zone.to/threads/rdreamer-collection-2025-07-05-rdreamer.253184/",
+      "title": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/ubermation-collection-2025-10-06-uebermation-uebermation.231247"
+      "url": "rsshub://f95zone/thread/rdreamer-collection-2025-07-05-rdreamer.253184"
     }
   ]
 }

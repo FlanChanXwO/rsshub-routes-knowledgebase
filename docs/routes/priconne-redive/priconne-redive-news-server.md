@@ -98,6 +98,18 @@
   ],
   "topFeeds": [
     {
+      "description": "公主链接日服-新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "127304052495781888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://priconne-redive.jp/news/",
+      "title": "公主链接日服-新闻",
+      "type": "feed",
+      "url": "rsshub://priconne-redive/news"
+    },
+    {
       "description": "公主连结台服-最新公告 - Powered by RSSHub",
       "errorAt": "2025-11-19T09:38:12.766Z",
       "errorMessage": "MISCONF Errors writing to the AOF file: No space left on device\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -108,18 +120,6 @@
       "title": "公主连结台服-最新公告",
       "type": "feed",
       "url": "rsshub://priconne-redive/news/zh-tw"
-    },
-    {
-      "description": "公主链接日服-新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:56:00.860Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "127304052495781888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://priconne-redive.jp/news/",
-      "title": "公主链接日服-新闻",
-      "type": "feed",
-      "url": "rsshub://priconne-redive/news"
     }
   ],
   "url": "priconne-redive.jp/news"

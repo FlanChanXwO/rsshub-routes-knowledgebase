@@ -54,7 +54,7 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4834,
+  "heat": 4836,
   "location": "activity.ts",
   "maintainers": [
     "hyoban"
@@ -87,8 +87,8 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
     },
     {
       "description": "antfu's GitHub activities - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:33:17.921Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41213691921864704",
       "image": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
       "ownerUserId": null,

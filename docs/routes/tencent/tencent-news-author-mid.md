@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 755,
+  "heat": 756,
   "location": "news/author.tsx",
   "maintainers": [
     "LogicJake",

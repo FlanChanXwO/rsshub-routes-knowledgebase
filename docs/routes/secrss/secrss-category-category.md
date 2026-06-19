@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "安全内参- - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T18:43:19.714Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "56216388194039808",
       "image": null,
       "ownerUserId": null,
@@ -76,7 +76,7 @@ _None_
     {
       "description": "安全内参-产业趋势 - Powered by RSSHub",
       "errorAt": "2025-03-26T04:39:26.148Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "59424053436911616",
       "image": null,
       "ownerUserId": null,

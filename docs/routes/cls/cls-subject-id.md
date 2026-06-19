@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "汽车行业资讯一网打尽。 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:32:10.445Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "102251632021746688",
       "image": "https://img.cls.cn/images/20211116/r2NZ9gCUzN.jpg",
       "ownerUserId": null,

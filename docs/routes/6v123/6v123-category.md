@@ -629,8 +629,8 @@
     },
     {
       "description": "最新欧剧.美剧连载，好看的欧剧.美剧连载免费下载是由6v电影下载网整理和收录，欢迎欧剧.美剧连载爱好者下载观看，并推荐给你的好友一起分享吧。 - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:47:19.112Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "197350875582414848",
       "image": "https://www.hao6v.me/images/logo.gif",
       "ownerUserId": null,

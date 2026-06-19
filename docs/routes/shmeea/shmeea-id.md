@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:24:28.464Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84147473290155008",
       "image": null,
       "ownerUserId": null,
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T21:10:55.571Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "92130275905288192",
       "image": null,
       "ownerUserId": null,

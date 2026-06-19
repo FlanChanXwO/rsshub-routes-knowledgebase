@@ -58,7 +58,7 @@ _None_
   "topFeeds": [
     {
       "description": "Artificial Intelligence | Latest News, Photos & Videos | WIRED - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:40:58.352Z",
+      "errorAt": "2026-06-18T02:53:41.933Z",
       "errorMessage": "Failed to fetch\n",
       "id": "65791385545769984",
       "image": "https://www.wired.com/verso/static/wired-us/assets/logo.svg",

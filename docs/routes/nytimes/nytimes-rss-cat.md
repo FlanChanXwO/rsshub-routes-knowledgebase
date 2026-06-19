@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html\": 403 \n[GET] \"https://www.nytimes.com/2026/06/15/us/newsom-trump-doj-investigation.html\": 403 \n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/17/us/politics/georgia-republicans-redistricting.html\": 403 \n[GET] \"https://www.nytimes.com/2026/06/17/world/europe/trump-obama-iran-deal-money.html\": 403 \n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

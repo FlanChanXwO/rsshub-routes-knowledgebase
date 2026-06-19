@@ -62,7 +62,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 601,
+  "heat": 602,
   "location": "channel.ts",
   "maintainers": [
     "HenryQW",
@@ -84,14 +84,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "虎嗅资讯-全部 - Powered by RSSHub",
+      "description": " - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41423034778090498",
       "image": "https://static.huxiucdn.com/common/image/logo/logo_200.png",
       "ownerUserId": null,
       "siteUrl": "https://www.huxiu.com/article",
-      "title": "虎嗅资讯-全部",
+      "title": "RSSHub",
       "type": "feed",
       "url": "rsshub://huxiu/article"
     }

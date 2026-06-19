@@ -54,7 +54,7 @@ _None_
   ],
   "description": "::: tip\n如 [中国 经济 日经中文网](https://cn.nikkei.com/china/ceconomy.html) 的 URL 为 `https://cn.nikkei.com/china/ceconomy.html` 对应路由为 [`/nikkei/cn/cn/china/ceconomy`](https://rsshub.app/nikkei/cn/cn/china/ceconomy)\n\n如 [中國 經濟 日經中文網](https://zh.cn.nikkei.com/china/ceconomy.html) 的 URL 为 `https://zh.cn.nikkei.com/china/ceconomy.html` 对应路由为 [`/nikkei/cn/zh/china/ceconomy`](https://rsshub.app/nikkei/cn/zh/china/ceconomy)\n\n特别地，当 `path` 填入 `rss` 后（如路由为 [`/nikkei/cn/cn/rss`](https://rsshub.app/nikkei/cn/cn/rss)），此时返回的是 [官方 RSS 的内容](https://cn.nikkei.com/rss.html)\n:::",
   "example": "/nikkei/cn",
-  "heat": 352,
+  "heat": 351,
   "location": "cn/index.ts",
   "maintainers": [
     "nczitzk"
@@ -82,8 +82,8 @@ _None_
   "topFeeds": [
     {
       "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T02:12:56.066Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "57030132765825024",
       "image": null,
       "ownerUserId": null,
@@ -94,8 +94,8 @@ _None_
     },
     {
       "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",
-      "errorAt": "2026-06-17T00:18:56.001Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62743886183348224",
       "image": null,
       "ownerUserId": null,

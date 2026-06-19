@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T21:16:27.429Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "59852419254124544",
       "image": null,
       "ownerUserId": null,

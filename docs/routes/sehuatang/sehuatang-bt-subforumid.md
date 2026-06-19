@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "色花堂 - 高清中文字幕 - Powered by RSSHub",
-      "errorAt": "2026-02-13T10:55:26.330Z",
-      "errorMessage": "MISCONF Errors writing to the AOF file: No space left on device\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65327819580054528",
       "image": null,
       "ownerUserId": null,

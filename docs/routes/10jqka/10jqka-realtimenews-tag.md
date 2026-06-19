@@ -99,7 +99,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1669,
+  "heat": 1670,
   "location": "realtimenews.ts",
   "maintainers": [
     "nczitzk"

@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "调查报告 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:40:24.017Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62730408567519232",
       "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
       "ownerUserId": null,
@@ -88,8 +88,8 @@
     },
     {
       "description": "挂牌督办 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T22:12:56.632Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73327086064622592",
       "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
       "ownerUserId": null,

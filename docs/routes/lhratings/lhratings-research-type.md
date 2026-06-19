@@ -152,8 +152,8 @@
   "topFeeds": [
     {
       "description": "行业研究 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:52:12.272Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104824308798705664",
       "image": "https://www.lhratings.com/static/imgs/logo.png",
       "ownerUserId": null,

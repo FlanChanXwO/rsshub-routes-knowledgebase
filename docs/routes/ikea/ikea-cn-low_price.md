@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "低价优选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-17T23:28:05.691Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55631357149139968",
       "image": null,
       "ownerUserId": null,

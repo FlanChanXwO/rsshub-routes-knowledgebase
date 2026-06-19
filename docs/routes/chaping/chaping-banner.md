@@ -70,7 +70,7 @@ _None_
     {
       "description": "差评 - 首页图片墙 - Powered by RSSHub",
       "errorAt": "2025-05-10T23:18:22.754Z",
-      "errorMessage": "[GET] \"https://chaping.cn/\": 502 \n[GET] \"https://chaping.cn/\": 502 \n",
+      "errorMessage": "[GET] \"https://chaping.cn/\": 502 \nFailed to fetch\n",
       "id": "55178476295845997",
       "image": null,
       "ownerUserId": null,

@@ -89,8 +89,8 @@
     },
     {
       "description": "南京理工大学研究生院 -- 招生信息 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:23:46.663Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80790559068210176",
       "image": null,
       "ownerUserId": null,
