@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Cockroach Labs Blog - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T23:39:49.285Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "175519489817326592",
       "image": null,
       "ownerUserId": null,

@@ -86,7 +86,7 @@
     },
     {
       "description": "本科生院-教学动态 - Powered by RSSHub",
-      "errorAt": "2026-06-17T21:19:43.339Z",
+      "errorAt": "2026-06-19T00:13:59.411Z",
       "errorMessage": "Failed to fetch\n",
       "id": "163579923082247168",
       "image": null,

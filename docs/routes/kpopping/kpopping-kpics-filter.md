@@ -77,7 +77,7 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
     {
       "description": "Browse thousands of high quality K-pop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
       "errorAt": "2026-04-28T03:43:04.263Z",
-      "errorMessage": "[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 \n[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 \nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 \n[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 \n[GET] \"https://kpopping.com/kpics/gender-female/category-all/idol-any/group-any/order\": 410 \n",
       "id": "127912538951825408",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,
@@ -88,8 +88,8 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
     },
     {
       "description": "Browse thousands of high quality K-pop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T19:50:40.989Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "160056537743224832",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,

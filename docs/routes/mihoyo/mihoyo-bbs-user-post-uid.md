@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 初始镜像OriginMirror 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 星穹中心 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198686272342260736",
+      "id": "198688011032240128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=159117584",
-      "title": "米游社 - 初始镜像OriginMirror 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=368830308",
+      "title": "米游社 - 星穹中心 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/159117584"
+      "url": "rsshub://mihoyo/bbs/user-post/368830308"
     },
     {
-      "description": "米游社 - Asgater 的发帖 - Powered by RSSHub",
+      "description": "米游社 - HoYo青枫 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198685183799741440",
+      "id": "198686370602166272",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=79695828",
-      "title": "米游社 - Asgater 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=285802042",
+      "title": "米游社 - HoYo青枫 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/79695828"
+      "url": "rsshub://mihoyo/bbs/user-post/285802042"
     }
   ]
 }

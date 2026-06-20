@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "四川大学匹兹堡学院官网通知 - Powered by RSSHub",
-      "errorAt": "2026-06-17T22:12:48.292Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78952053268102144",
       "image": "https://upload.wikimedia.org/wikipedia/zh/4/45/Sichuan_University_logo.svg",
       "ownerUserId": null,

@@ -88,8 +88,8 @@
     },
     {
       "description": "单机电玩 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T19:48:33.927Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58369029575289856",
       "id": "58369029575289856",
       "image": null,
       "ownerUserId": null,

@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "哔哩哔哩入站必刷 - Powered by RSSHub",
-      "errorAt": "2026-06-17T20:39:06.617Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69361213069277184",
       "image": null,
       "ownerUserId": null,

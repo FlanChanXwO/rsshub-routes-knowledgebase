@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 4335,
+  "heat": 4337,
   "location": "weekly.ts",
   "maintainers": [
     "Urabartin"
@@ -62,7 +62,7 @@ _None_
     {
       "description": "极品性感美女 - 本周热门推荐 - Powered by RSSHub",
       "errorAt": "2026-01-21T21:50:16.859Z",
-      "errorMessage": "[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http://\n503 Service Unavailable\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://www.jpxgmn.com\": <no response> fetch failed\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http://\nFailed to fetch\n502 Bad Gateway\n[GET] \"http://\": <no response> Failed to parse URL from http://\n",
+      "errorMessage": "[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n503 Service Unavailable\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://www.jpxgmn.com\": <no response> fetch failed\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\nFailed to fetch\n502 Bad Gateway\n[GET] \"http://\": <no response> Failed to parse URL from http://\n",
       "id": "41858597162671104",
       "image": null,
       "ownerUserId": null,

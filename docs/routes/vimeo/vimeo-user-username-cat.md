@@ -68,7 +68,7 @@ _None_
     {
       "description": "LOOCreative는 다양한 분야의 최고의 크리에이터들이 만나 새로운 기획, 제작 능력을 기반으로 영화, 광고, 소셜, 뮤직 비디오 및 TV 산업에서 독특한 시각과 기술로 창의적인 성과를 창출합니다. 변화하는 빠른 트렌드를 반영하여 IT 기술기반의 다양한 콘텐츠 비즈니스의 범위를 넓혀가며 미래기술 기반의 콘텐츠 영역까지 확장해 나가는 창의적 문화 콘텐츠 기업입니다. - Powered by RSSHub",
       "errorAt": "2026-03-26T22:16:22.589Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://api.vimeo.com/users/loocreative?fields=name,gender,bio,uri,link,categories&fetch_user_profile=1\": 406 \n",
       "id": "79414875841087488",
       "image": null,
       "ownerUserId": null,

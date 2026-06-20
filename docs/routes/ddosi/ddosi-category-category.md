@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "雨苁-渗透测试 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T20:18:11.174Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "70735449588062208",
       "image": null,
       "ownerUserId": null,

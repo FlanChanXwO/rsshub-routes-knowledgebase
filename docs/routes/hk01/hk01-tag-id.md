@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "13102 | 香港01 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T23:30:28.052Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "92006333948699648",
       "image": null,
       "ownerUserId": null,

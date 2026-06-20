@@ -80,7 +80,7 @@ _None_
     {
       "description": "品玩 - AIGC - Powered by RSSHub",
       "errorAt": "2026-05-25T10:17:17.755Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20327&type=0\": 405 Not Allowed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "85680099374822413",
       "image": null,
       "ownerUserId": null,
@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 腾讯元宝 - Powered by RSSHub",
-      "errorAt": "2026-05-25T06:13:11.446Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22218&type=0\": 405 Not Allowed\n",
-      "id": "128314253577785344",
+      "description": "品玩 - 品玩大模型内刊 - Powered by RSSHub",
+      "errorAt": "2026-05-25T07:52:17.077Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20868&type=0\": 405 Not Allowed\n",
+      "id": "86386944820703232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/22218",
-      "title": "品玩 - 腾讯元宝",
+      "siteUrl": "https://www.pingwest.com/tag/gpt",
+      "title": "品玩 - 品玩大模型内刊",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/22218/1"
+      "url": "rsshub://pingwest/tag/gpt/1"
     }
   ]
 }

@@ -84,14 +84,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": " - Powered by RSSHub",
+      "description": "虎嗅资讯-全部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41423034778090498",
       "image": "https://static.huxiucdn.com/common/image/logo/logo_200.png",
       "ownerUserId": null,
       "siteUrl": "https://www.huxiu.com/article",
-      "title": "RSSHub",
+      "title": "虎嗅资讯-全部",
       "type": "feed",
       "url": "rsshub://huxiu/article"
     }

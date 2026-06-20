@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "hentai - Powered by RSSHub",
-      "errorAt": "2026-06-18T02:47:05.985Z",
-      "errorMessage": "[GET] \"https://nhentai.net/language/chinese/\": 451 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55275502392080384",
       "image": null,
       "ownerUserId": null,

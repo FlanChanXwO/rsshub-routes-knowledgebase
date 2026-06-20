@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "甲醇热点聚焦 - 隆众资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T23:26:49.979Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "82667463412830208",
       "image": null,
       "ownerUserId": null,

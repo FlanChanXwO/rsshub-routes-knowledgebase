@@ -111,8 +111,8 @@
   "topFeeds": [
     {
       "description": "北京德恒律师事务所 - Powered by RSSHub",
-      "errorAt": "2026-06-18T03:37:42.918Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64491755230449667",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,
@@ -123,8 +123,8 @@
     },
     {
       "description": "北京德恒律师事务所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T05:39:35.634Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "174674333066488832",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,

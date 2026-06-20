@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 401,
+  "heat": 403,
   "location": "makers.ts",
   "maintainers": [
     "nczitzk"
@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": "2026-06-17T21:13:10.132Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/makers/7R\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,

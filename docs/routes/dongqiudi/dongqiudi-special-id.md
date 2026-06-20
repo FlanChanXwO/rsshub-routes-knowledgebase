@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "世界那么大，除了足球还有这些 - Powered by RSSHub",
-      "errorAt": "2026-06-17T20:37:48.919Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66400977219680266",
       "image": null,
       "ownerUserId": null,

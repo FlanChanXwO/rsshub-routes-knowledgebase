@@ -65,7 +65,7 @@ _None_
     {
       "description": "极品性感美女 - 推荐美女 - Powered by RSSHub",
       "errorAt": "2026-01-22T07:31:26.090Z",
-      "errorMessage": "[GET] \"http:///top.html\": <no response> fetch failed\n[GET] \"http:///top.html\": <no response> fetch failed\n[GET] \"http:///top.html\": <no response> fetch failed\n[GET] \"http:///top.html\": <no response> fetch failed\nAuthentication failed. Access denied.\n/jpxgmn/tab\n[GET] \"http:///top.html\": <no response> fetch failed\n[GET] \"http:///top.html\": <no response> fetch failed\n522 <none>\n502 Bad Gateway\n[GET] \"http:///top.html\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http:///top.html\": <no response> fetch failed\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\nAuthentication failed. Access denied.\n/jpxgmn/tab\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n522 <none>\n502 Bad Gateway\n[GET] \"http:///top.html\": <no response> fetch failed\n",
       "id": "57074574176806961",
       "image": null,
       "ownerUserId": null,
@@ -77,7 +77,7 @@ _None_
     {
       "description": "极品性感美女 - 热门美女 - Powered by RSSHub",
       "errorAt": "2025-10-09T03:44:04.191Z",
-      "errorMessage": "[GET] \"http:///hot.html\": <no response> fetch failed\n[GET] \"http:///hot.html\": <no response> fetch failed\n[GET] \"http:///hot.html\": <no response> fetch failed\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///hot.html\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"http:///hot.html\": <no response> fetch failed\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\nFailed to fetch\n[GET] \"http://mei8.vip/\": 502 Bad Gateway\n[GET] \"http:///hot.html\": <no response> fetch failed\n",
       "id": "57074574176806959",
       "image": null,
       "ownerUserId": null,

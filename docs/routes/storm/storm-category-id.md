@@ -83,7 +83,7 @@
     {
       "description": "新聞總覽｜風傳媒 - Powered by RSSHub",
       "errorAt": "2025-05-13T21:15:14.517Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "67077327876919319",
       "image": null,
       "ownerUserId": null,

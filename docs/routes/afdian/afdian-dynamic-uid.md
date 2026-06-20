@@ -61,8 +61,8 @@ _None_
     },
     {
       "description": "q9adg的爱发电动态 - Powered by RSSHub",
-      "errorAt": "2026-06-17T20:39:07.760Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "112488963475434496",
       "image": "https://pic1.afdiancdn.com/user/3f49234e3e8f11eb8f6152540025c377/avatar/b437cc29dc0c0514b840d5aa490328e6_w1125_h2436_s586.jpeg",
       "ownerUserId": null,

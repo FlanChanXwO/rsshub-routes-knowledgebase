@@ -70,10 +70,10 @@ _None_
     },
     {
       "description": "有人说，官场是权力的游戏，尔虞我诈，勾心斗角，比江湖更险恶。 刘浮生觉得，官场是情与法，黑与白，真实与谎言，更是人间正道。 前世的他，唯唯诺诺，一心求稳，却遭人陷害，郁郁而终。 重活一世，他早已洞悉官场，青云之路尽在眼中，挡我者，必将万劫不复！ - Powered by RSSHub",
-      "errorAt": "2026-06-17T21:15:56.113Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "125208460025614336",
-      "image": "https://p3-novel-sign.byteimg.com/novel-pic/p2o51f9a4a8ec7d3d27446f67797c1c949c~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1781783321&x-signature=Z%2FSrvmNb2PNCinQGdgC6ofHeJzU%3D",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/p2o51f9a4a8ec7d3d27446f67797c1c949c~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1781916224&x-signature=W5Bo4bYsRnKg71uOAQNgPEd8qT4%3D",
       "ownerUserId": null,
       "siteUrl": "https://fanqienovel.com/page/7199473033239596087",
       "title": "重生：官运亨通 - 弹剑听潮",

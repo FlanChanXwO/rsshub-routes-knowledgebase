@@ -3,9 +3,9 @@
 This branch is generated automatically from RSSHub official route metadata.
 
 ## Summary
-- Generated At: `2026-06-19T08:42:02+00:00`
+- Generated At: `2026-06-20T07:12:12+00:00`
 - Source Repo: `https://github.com/DIYgod/RSSHub`
-- Source Revision: `55d6f05cbee51ac4f9ce4635152b0bafd321cb72`
+- Source Revision: `19f8fb08d88c1ae09c2f21bbe2cb521bbf0c8fb3`
 - Namespaces: `1669`
 - Route Documents: `3235`
 - Categories: `25`

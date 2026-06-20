@@ -91,8 +91,8 @@
     },
     {
       "description": "中国银行外汇牌价 - Powered by RSSHub",
-      "errorAt": "2026-06-18T00:03:28.361Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 75015471600032768",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75015471600032768",
       "image": null,
       "ownerUserId": null,

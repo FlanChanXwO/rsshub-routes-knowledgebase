@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1397913,
+  "heat": 1397914,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -98,8 +98,8 @@ _None_
   "topFeeds": [
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 2 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
-      "errorAt": "2026-06-14T05:48:42.954Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
+      "errorAt": "2026-06-18T19:48:08.976Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nFailed to fetch\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

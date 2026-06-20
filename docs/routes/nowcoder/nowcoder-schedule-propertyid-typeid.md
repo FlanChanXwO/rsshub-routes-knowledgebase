@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "名企校招日程 - Powered by RSSHub",
-      "errorAt": "2026-06-17T20:38:21.304Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65054512392167424",
       "image": null,
       "ownerUserId": null,

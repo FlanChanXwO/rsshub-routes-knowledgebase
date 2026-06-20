@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3632,
+  "heat": 3634,
   "location": "weekly-recommend.ts",
   "maintainers": [
     "ttttmr"
@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "B站每周必看 - Powered by RSSHub",
-      "errorAt": "2026-06-18T02:49:44.375Z",
-      "errorMessage": "502 Bad Gateway\nbrowserType.connect: WebSocket error: connect ECONNREFUSED 192.168.128.2:3000\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error connect ECONNREFUSED 192.168.128.2:3000\n  - <ws connect error> ws://browserless:3000/ connect ECONNREFUSED 192.168.128.2:3000\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59798160460396544",
       "image": null,
       "ownerUserId": null,

@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "过早客 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T03:31:48.898Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "74338387841685504",
       "image": null,
       "ownerUserId": null,

@@ -203,8 +203,8 @@
     },
     {
       "description": "4/pick/all/ search - Powered by RSSHub",
-      "errorAt": "2026-06-17T21:19:14.067Z",
-      "errorMessage": "Authentication failed. Access denied.\n/notefolio/search/4/pick/all\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80060928310239232",
       "image": null,
       "ownerUserId": null,

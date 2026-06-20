@@ -238,14 +238,14 @@
       "url": "rsshub://the/:filter%7B.+%7D"
     },
     {
-      "description": "Error 404 (Not Found)!!1 - 江河日下 - Powered by RSSHub",
-      "errorAt": "2026-04-18T13:03:27.049Z",
-      "errorMessage": "Failed to fetch\n",
+      "description": "江河日下，日下无有新事 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "43417089717578752",
-      "image": "",
+      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0295.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://river.to/occasus/vncwdhq2xje7wp/rawzi0ruu6p6a1",
-      "title": "Error 404 (Not Found)!!1 - 江河日下",
+      "siteUrl": "https://river.to/occasus/",
+      "title": "江河日下 – 日下无有新事 - 江河日下",
       "type": "feed",
       "url": "rsshub://the"
     }

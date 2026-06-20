@@ -94,8 +94,8 @@
     },
     {
       "description": "购物心得 ,其乐 Keylol - Powered by RSSHub",
-      "errorAt": "2026-06-17T21:17:44.955Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77664835339807744",
       "image": null,
       "ownerUserId": null,

@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "BLOG | Samsung Research - Powered by RSSHub",
-      "errorAt": "2026-06-17T20:37:00.665Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70851835716090880",
       "image": null,
       "ownerUserId": null,

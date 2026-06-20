@@ -11,7 +11,7 @@
 - Example: `_None_`
 - URL: `monitor.firefox.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `program-update`
 - Maintainers: `None`
 - Source Location: `release.ts`
 - Source Module: `_None_`
@@ -33,7 +33,7 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "program-update"
   ],
   "heat": 3,
   "location": "release.ts",

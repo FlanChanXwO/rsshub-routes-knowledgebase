@@ -154,8 +154,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub events received by azmiao - includes private events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T23:44:54.060Z",
+      "errorMessage": "[GET] \"https://api.github.com/users/azmiao/events?per_page=100\": 401 Unauthorized\nFailed to fetch\n",
       "id": "206906436885556224",
       "image": null,
       "ownerUserId": null,

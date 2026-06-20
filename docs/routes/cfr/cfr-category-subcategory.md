@@ -80,7 +80,7 @@ _None_
     {
       "description": "Latest Commentary - Powered by RSSHub",
       "errorAt": "2026-01-23T12:46:49.932Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "176857304598777856",
       "image": null,
       "ownerUserId": null,

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "原價屋 - 促銷&開箱 - Powered by RSSHub",
-      "errorAt": "2026-06-18T03:10:14.004Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "136439445421205504",
       "image": null,
       "ownerUserId": null,

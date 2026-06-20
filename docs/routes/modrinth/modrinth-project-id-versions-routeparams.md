@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
+      "description": "Auction your items off in style! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851322293306368",
+      "id": "114583999678704640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
-      "title": "HuskHomes Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/U3Q9GAst",
+      "title": "CrazyAuctions Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
+      "url": "rsshub://modrinth/project/U3Q9GAst/versions"
     }
   ]
 }

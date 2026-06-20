@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://rfi/cn"
     },
     {
-      "description": "最新中东与阿拉伯世界新闻 - Powered by RSSHub",
-      "errorAt": "2025-12-14T10:53:13.777Z",
-      "errorMessage": "[GET] \"https://www.rfi.fr/cn/中东/\": 403 Forbidden\nUnexpected non-whitespace character after JSON at position 3939 (line 4 column 13)\n",
-      "id": "84066827566712832",
+      "description": "Suivez toute l'information politique, culturelle, sportive en direct et en continu sur RFI. Les dernières informations, news et actualités en France et à l'international. - Powered by RSSHub",
+      "errorAt": "2025-08-14T11:51:28.460Z",
+      "errorMessage": "Unexpected non-whitespace character after JSON at position 4084 (line 4 column 13)\n",
+      "id": "76670519253188608",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/",
-      "title": "中东与阿拉伯世界时事 - 法广 - RFI",
+      "siteUrl": "https://www.rfi.fr/fr/",
+      "title": "RFI - Actualités, info, news en direct - Radio France Internationale",
       "type": "feed",
-      "url": "rsshub://rfi/cn/%E4%B8%AD%E4%B8%9C"
+      "url": "rsshub://rfi/fr"
     }
   ],
   "url": "rfi.fr"

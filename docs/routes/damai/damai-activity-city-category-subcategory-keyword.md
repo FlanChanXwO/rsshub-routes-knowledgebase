@@ -71,7 +71,7 @@ _None_
     {
       "description": "大麦网票务 - 上海 - 全部分类 - Powered by RSSHub",
       "errorAt": "2025-11-12T11:47:58.974Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'resultData')\n",
       "id": "41467081627747335",
       "image": null,
       "ownerUserId": null,

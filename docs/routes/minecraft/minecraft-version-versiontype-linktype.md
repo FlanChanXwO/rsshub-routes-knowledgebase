@@ -97,8 +97,8 @@
     },
     {
       "description": "Minecraft Java版游戏更新 - Powered by RSSHub",
-      "errorAt": "2026-06-18T01:28:28.564Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "154953137410003968",
       "image": null,
       "ownerUserId": null,

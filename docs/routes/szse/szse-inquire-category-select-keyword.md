@@ -102,8 +102,8 @@
     },
     {
       "description": "函件类别：全部函件类别 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T00:10:45.787Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "112163264912778240",
       "image": null,
       "ownerUserId": null,

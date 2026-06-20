@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T22:34:23.042Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/article/6a33fb86b15ec018a274e488\": 429 \nFailed to fetch\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,

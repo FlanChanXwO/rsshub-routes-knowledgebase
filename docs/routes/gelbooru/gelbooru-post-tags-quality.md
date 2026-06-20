@@ -78,7 +78,7 @@ e.g.: `/gelbooru/post?limit=20&`
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 23,
   "location": "post.ts",
   "maintainers": [
     "magicFeirl"
@@ -103,7 +103,7 @@ e.g.: `/gelbooru/post?limit=20&`
     {
       "description": "Gelbooru post list - Powered by RSSHub",
       "errorAt": "2025-06-15T17:36:00.154Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://gelbooru.com/index.php?api_key=&json=1&limit=40&page=dapi&q=index&s=post&tags=sex&user_id=\": 401 Unauthorized\n",
       "id": "127398870895944704",
       "image": null,
       "ownerUserId": null,

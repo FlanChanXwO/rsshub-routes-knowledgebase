@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 296,
+  "heat": 297,
   "location": "answers.ts",
   "maintainers": [
     "DIYgod",
@@ -79,7 +79,7 @@ _None_
     {
       "description": "q9adg的知乎回答 - Powered by RSSHub",
       "errorAt": "2025-08-16T15:03:36.399Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/members/kvxjr369f/answers?limit=7&include=data[*].is_normal,content\": 403 \n",
       "id": "60696029890536448",
       "image": null,
       "ownerUserId": null,

@@ -98,8 +98,8 @@
   "topFeeds": [
     {
       "description": "中国经济网地方经济 - 鍗虫椂鏂伴椈 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T02:02:07.787Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "105835124893595648",
       "image": null,
       "ownerUserId": null,

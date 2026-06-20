@@ -134,8 +134,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub events received by free-nodes - includes private events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-18T23:43:31.191Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "238161917546848256",
       "image": null,
       "ownerUserId": null,
