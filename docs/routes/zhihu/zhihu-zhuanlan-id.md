@@ -78,7 +78,7 @@ _None_
     {
       "description": "知乎专栏-体验碎周报 - Powered by RSSHub",
       "errorAt": "2025-12-13T01:07:26.995Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 \n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\n",
       "id": "41359836954400791",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "知乎专栏-玉树芝兰 - Powered by RSSHub",
       "errorAt": "2025-10-29T05:43:58.029Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 \n[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 \n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 Forbidden\n",
       "id": "57215618626397184",
       "image": null,
       "ownerUserId": null,

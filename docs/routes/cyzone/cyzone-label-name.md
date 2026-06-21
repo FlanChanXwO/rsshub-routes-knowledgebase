@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 161,
+  "heat": 160,
   "location": "label.ts",
   "maintainers": [
     "nczitzk"
@@ -86,7 +86,7 @@ _None_
     {
       "description": "创业邦作为国际创新生态服务平台，为高成长企业、金融机构、产业园区、地方政府提供全方位的媒体资讯、数字会展、数据研究、创新咨询、教育培训、资本对接等服务。 - Powered by RSSHub",
       "errorAt": "2026-05-22T14:11:44.128Z",
-      "errorMessage": "[GET] \"https://www.cyzone.cn/label/%E7%A7%91%E6%8A%80\": 404 \n[GET] \"https://www.cyzone.cn/label/%E7%A7%91%E6%8A%80\": 404 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "84442733117971456",
       "image": "https://static.cyzone.cn/img/logo/orange.png",
       "ownerUserId": null,

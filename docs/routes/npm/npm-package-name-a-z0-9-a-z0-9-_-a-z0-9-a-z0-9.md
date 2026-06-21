@@ -54,18 +54,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "homebridge - npm - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "92451824997987328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/homebridge",
-      "title": "homebridge - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/homebridge"
-    },
-    {
       "description": "vue - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -76,6 +64,18 @@ _None_
       "title": "vue - npm",
       "type": "feed",
       "url": "rsshub://npm/package/vue"
+    },
+    {
+      "description": "typescript - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "115376694953118720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/typescript",
+      "title": "typescript - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/typescript"
     }
   ]
 }

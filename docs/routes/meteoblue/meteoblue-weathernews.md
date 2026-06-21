@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest weather news and articles from meteoblue - Powered by RSSHub",
-      "errorAt": "2026-06-18T23:44:51.153Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "186021937364436992",
       "image": null,
       "ownerUserId": null,

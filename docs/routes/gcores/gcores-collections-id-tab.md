@@ -181,8 +181,8 @@
     },
     {
       "description": "游戏的另一种玩法，摄影的另一种玩法 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T00:50:30.100Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66028011830664262",
       "image": null,
       "ownerUserId": null,

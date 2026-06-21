@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "南京理工大学研究生院 -- 首页通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T03:21:37.331Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62889514707509248",
       "image": null,
       "ownerUserId": null,

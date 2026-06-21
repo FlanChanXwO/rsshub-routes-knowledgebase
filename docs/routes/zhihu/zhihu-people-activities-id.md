@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5493,
+  "heat": 5492,
   "location": "activities.ts",
   "maintainers": [
     "DIYgod"
@@ -79,7 +79,7 @@ _None_
     {
       "description": "个人星球:DeepVan的逃生地牢 - Powered by RSSHub",
       "errorAt": "2026-03-18T09:48:51.681Z",
-      "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n",
+      "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n[GET] \"https://www.zhihu.com/api/v3/moments/yang-lei-96-72/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n",
       "id": "55789531638486016",
       "image": "https://pic1.zhimg.com/v2-2161a03f1aac4c7b20a4edfa43318a7a_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": null,
@@ -91,7 +91,7 @@ _None_
     {
       "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
       "errorAt": "2026-02-24T12:59:34.736Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 \n[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v3/moments/L.M.Sherlock/activities?limit=5&desktop=true&ws_qiangzhisafe=0\": 403 Forbidden\n",
       "id": "42176727619514386",
       "image": "https://picx.zhimg.com/v2-7e8edb90c668cf7a7aeb0d2582a60f94_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": "75467551039318016",

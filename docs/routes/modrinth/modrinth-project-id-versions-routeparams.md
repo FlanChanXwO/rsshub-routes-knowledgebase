@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T16:11:51.311Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88557710935450624",
       "image": null,
       "ownerUserId": null,
@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Auction your items off in style! - Powered by RSSHub",
+      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583999678704640",
+      "id": "123852126561305600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/U3Q9GAst",
-      "title": "CrazyAuctions Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
+      "title": "PvPManager Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/U3Q9GAst/versions"
+      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
     }
   ]
 }

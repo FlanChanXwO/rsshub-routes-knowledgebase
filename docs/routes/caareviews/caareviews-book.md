@@ -70,7 +70,7 @@ _None_
     {
       "description": "Book Reviews - Powered by RSSHub",
       "errorAt": "2026-06-19T03:32:44.498Z",
-      "errorMessage": "[GET] \"http://www.caareviews.org/reviews/book\": 500 Internal Server Error\n",
+      "errorMessage": "[GET] \"http://www.caareviews.org/reviews/book\": 404 Not Found\n",
       "id": "54822609193475092",
       "image": null,
       "ownerUserId": null,

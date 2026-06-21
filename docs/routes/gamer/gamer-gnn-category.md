@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1322,
+  "heat": 1323,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",
@@ -146,8 +146,8 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T23:33:22.830Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61373650705521664",
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,

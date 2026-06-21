@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "上海证券交易所 - 上市公司信息 - 公牛集团最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T01:58:12.544Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64944303082021888",
       "image": null,
       "ownerUserId": null,

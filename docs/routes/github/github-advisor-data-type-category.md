@@ -101,8 +101,8 @@ _None_
     },
     {
       "description": "GitHub Advisory Database RSS - maven - reviewed - Powered by RSSHub",
-      "errorAt": "2026-06-18T14:28:24.642Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150126395942098944",
       "image": null,
       "ownerUserId": null,

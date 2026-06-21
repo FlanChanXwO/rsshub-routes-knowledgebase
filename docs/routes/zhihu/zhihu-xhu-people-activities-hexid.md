@@ -83,7 +83,7 @@
     {
       "description": "一个前端，Vue / Vite 作者。 - Powered by RSSHub",
       "errorAt": "2025-06-25T02:28:39.732Z",
-      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 \n",
+      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
       "id": "56350514062587904",
       "image": "https://picx.zhimg.com/7be980a0f_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": null,
@@ -95,7 +95,7 @@
     {
       "description": "有趣的AI&前沿科技→_→ 公众号：QbitAI - Powered by RSSHub",
       "errorAt": "2025-03-27T07:51:19.364Z",
-      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 \n",
+      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
       "id": "75439306757532679",
       "image": "https://picx.zhimg.com/v2-ca6e7ffc10a0d10edbae635cee82d007_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": null,

@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",
-      "errorAt": "2026-06-16T17:59:52.777Z",
-      "errorMessage": "[GET] \"https://openai.com/index/deployment-simulation/\": 403 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

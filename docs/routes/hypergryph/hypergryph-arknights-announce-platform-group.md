@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "《明日方舟》全部公告 - Powered by RSSHub",
-      "errorAt": "2026-06-18T14:28:23.877Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "159622024157116416",
       "image": null,
       "ownerUserId": null,

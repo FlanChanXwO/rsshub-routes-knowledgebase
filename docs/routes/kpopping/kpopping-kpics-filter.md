@@ -88,8 +88,8 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
     },
     {
       "description": "Browse thousands of high quality K-pop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
-      "errorAt": "2026-06-18T19:50:40.989Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "160056537743224832",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,

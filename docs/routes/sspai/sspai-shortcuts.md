@@ -70,7 +70,7 @@ _None_
     {
       "description": "Shortcuts Gallery - 少数派 - Powered by RSSHub",
       "errorAt": "2024-09-26T04:41:26.784Z",
-      "errorMessage": "n is not iterable\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "55873602868576299",
       "image": null,
       "ownerUserId": null,

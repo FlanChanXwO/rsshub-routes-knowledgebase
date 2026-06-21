@@ -122,7 +122,7 @@ _None_
     {
       "description": "中国智库网 —— 国外智库 - Powered by RSSHub",
       "errorAt": "2025-12-31T21:07:15.108Z",
-      "errorMessage": "[GET] \"https://www.chinathinktanks.org.cn/content/list?id=13&pt=1\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "75371518748737536",
       "image": null,
       "ownerUserId": null,

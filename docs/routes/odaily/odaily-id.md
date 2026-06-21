@@ -75,7 +75,7 @@
     {
       "description": "最新 - Odaily星球日报 - Powered by RSSHub",
       "errorAt": "2025-07-24T19:29:20.919Z",
-      "errorMessage": "[GET] \"https://www.odaily.news/api/pp/api/app-front/feed-stream?feed_id=280&b_id=&per_page=25\": 404 \n[GET] \"https://www.odaily.news/api/pp/api/app-front/feed-stream?feed_id=280&b_id=&per_page=25\": 404 \n",
+      "errorMessage": "[GET] \"https://www.odaily.news/api/pp/api/app-front/feed-stream?feed_id=280&b_id=&per_page=25\": 404 \nFailed to fetch\n",
       "id": "56204588915011597",
       "image": null,
       "ownerUserId": null,

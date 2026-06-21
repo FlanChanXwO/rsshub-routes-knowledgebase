@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Exhibition Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T12:08:38.058Z",
+      "errorMessage": "[GET] \"http://www.caareviews.org/reviews/exhibition\": 404 Not Found\n",
       "id": "56552299003210752",
       "image": null,
       "ownerUserId": null,

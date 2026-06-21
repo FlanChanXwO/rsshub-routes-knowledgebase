@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "熊猫不是猫QAQ-什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T01:24:19.479Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
       "id": "70353490015745024",
       "image": null,
       "ownerUserId": null,

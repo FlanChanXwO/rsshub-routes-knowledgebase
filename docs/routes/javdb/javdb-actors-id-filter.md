@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4921,
+  "heat": 4916,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -103,8 +103,8 @@
     },
     {
       "description": "河北彩花 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T03:21:05.761Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/actors/EvkJ\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nFailed to fetch\n",
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,

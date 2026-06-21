@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "空气质量排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T22:01:04.052Z",
+      "errorMessage": "[GET] \"https://m.air-level.com/rank\": <no response> fetch failed\n",
       "id": "84881942044598272",
       "image": null,
       "ownerUserId": null,

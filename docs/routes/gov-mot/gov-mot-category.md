@@ -130,7 +130,7 @@
     {
       "description": "中华人民共和国交通运输部,, 交通要闻栏目最新信息发布，想了解“交通要闻”相关信息，请点击访问！ - Powered by RSSHub",
       "errorAt": "2025-10-07T16:03:30.077Z",
-      "errorMessage": "[GET] \"https://www.mot.gov.cn/jiaotongyaowen/\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "145746403274138624",
       "image": "https://www.mot.gov.cn/images/h_logo0625.png",
       "ownerUserId": null,

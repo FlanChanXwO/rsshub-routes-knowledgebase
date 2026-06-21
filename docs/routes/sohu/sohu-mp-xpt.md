@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "搜狐号 - 120146415 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T01:54:26.836Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55135298544042012",
       "image": null,
       "ownerUserId": null,

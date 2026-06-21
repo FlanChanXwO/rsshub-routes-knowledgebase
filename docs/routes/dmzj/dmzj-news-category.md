@@ -77,7 +77,7 @@
     {
       "description": "动画情报-动漫之家新闻站 - Powered by RSSHub",
       "errorAt": "2025-06-07T18:19:07.444Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed\nFailed to fetch\n",
       "id": "61406402714086400",
       "image": null,
       "ownerUserId": null,

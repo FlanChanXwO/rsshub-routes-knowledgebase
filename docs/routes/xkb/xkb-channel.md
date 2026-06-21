@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "新快报新快网 - 首页 - Powered by RSSHub",
-      "errorAt": "2026-06-19T03:59:41.723Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59112290766065664",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59112290766065664",
       "image": null,
       "ownerUserId": null,

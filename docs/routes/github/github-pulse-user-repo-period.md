@@ -76,16 +76,16 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.792Z",
-      "errorMessage": "[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864793",
+      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "215344700650354688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
+      "title": "wood3n/biu weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/tencent-ailab/cosyvoice/weekly"
+      "url": "rsshub://github/pulse/wood3n/biu"
     },
     {
       "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",

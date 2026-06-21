@@ -55,15 +55,15 @@ _None_
     },
     {
       "description": "罗戈网（www.logclub.com）-物流商业伙伴, - Powered by RSSHub",
-      "errorAt": "2025-10-01T05:44:45.195Z",
+      "errorAt": "2025-10-01T06:29:33.230Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "134802206056046595",
+      "id": "134802206051852289",
       "image": "https://www.logclub.com/public/static/front/images/pc_logo.svg",
       "ownerUserId": null,
-      "siteUrl": "https://www.logclub.com/columnist/articleList/1881",
-      "title": "【罗戈网】叶剑",
+      "siteUrl": "https://www.logclub.com/columnist/articleList/9749",
+      "title": "【罗戈网】褚建新",
       "type": "feed",
-      "url": "rsshub://logclub/columnist/articleList/1881"
+      "url": "rsshub://logclub/columnist/articleList/9749"
     }
   ]
 }

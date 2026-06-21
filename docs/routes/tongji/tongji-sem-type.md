@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "活动 - Powered by RSSHub",
-      "errorAt": "2026-06-17T05:44:16.975Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79122838265601024",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

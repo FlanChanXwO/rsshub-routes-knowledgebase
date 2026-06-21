@@ -113,16 +113,16 @@ _None_
       "url": "rsshub://asus/bios/GA605WV"
     },
     {
-      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
-      "errorAt": "2025-03-18T06:05:59.524Z",
+      "description": "ROG STRIX B560-A GAMING WIFI BIOS - Powered by RSSHub",
+      "errorAt": "2025-03-18T06:24:28.802Z",
       "errorMessage": "Cannot read properties of undefined (reading 'Obj')\n",
-      "id": "73745650488758272",
-      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
+      "id": "73279691433742336",
+      "image": "https://dlcdnwebimgs.asus.com.cn/gain/2E6CCF1B-9A03-43B9-A991-CDE4A9704E00/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
-      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
+      "siteUrl": "https://rog.asus.com.cn/motherboards/rog-strix/rog-strix-b560-a-gaming-wifi-model/",
+      "title": "ROG STRIX B560-A GAMING WIFI BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
+      "url": "rsshub://asus/bios/rog-strix-b560-i-gaming-wifi-model/zh"
     }
   ],
   "url": "www.asus.com"

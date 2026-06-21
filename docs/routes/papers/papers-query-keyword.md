@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "action recognition backdoor attack - Powered by RSSHub",
+      "description": "llm formal method - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "139373082832014336",
+      "id": "191738635390525440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=action+recognition+backdoor+attack&sort=0",
-      "title": "action recognition backdoor attack",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=LLM%20formal%20method&sort=0",
+      "title": "llm formal method",
       "type": "feed",
-      "url": "rsshub://papers/query/action+recognition+backdoor+attack"
+      "url": "rsshub://papers/query/LLM%20formal%20method"
     }
   ],
   "url": "papers.cool"

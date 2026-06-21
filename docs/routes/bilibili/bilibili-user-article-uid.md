@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": "2026-06-18T23:25:23.267Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78446399642487808",
       "image": null,
       "ownerUserId": null,

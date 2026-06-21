@@ -74,7 +74,7 @@ _None_
     {
       "description": "特斯拉系统更新 - 最新发布 - Powered by RSSHub",
       "errorAt": "2026-06-17T21:14:12.107Z",
-      "errorMessage": "[GET] \"https://www.notateslaapp.com/software-updates/history/\": 404 \n",
+      "errorMessage": "[GET] \"https://www.notateslaapp.com/software-updates/history/\": 404 Not Found\n",
       "id": "66384857823758336",
       "image": null,
       "ownerUserId": null,

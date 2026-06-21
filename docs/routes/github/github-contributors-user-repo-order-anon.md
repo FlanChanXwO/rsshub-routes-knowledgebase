@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
+      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126806034891658240",
+      "id": "80504153337164800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/LOWERTOP/Shadowrocket-First/graphs/contributors",
-      "title": "LOWERTOP/Shadowrocket-First Contributors",
+      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
+      "title": "comfyanonymous/ComfyUI Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
+      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
     },
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
+      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83173808754165760",
+      "id": "183741893306669056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
+      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
+      "title": "obaby/baby-wechat Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
+      "url": "rsshub://github/contributors/obaby/baby-wechat"
     }
   ]
 }

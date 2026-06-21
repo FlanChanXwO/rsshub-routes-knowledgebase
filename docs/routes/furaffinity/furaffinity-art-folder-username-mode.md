@@ -101,7 +101,7 @@ _None_
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
       "errorAt": "2026-05-25T18:57:48.549Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\nFailed to fetch\n",
       "id": "79207337889916928",
       "image": null,
       "ownerUserId": null,
@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of Smileeeeeee - Powered by RSSHub",
-      "errorAt": "2026-05-25T14:23:20.010Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/Smileeeeeee/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "106706133600239616",
+      "description": "Fur Affinity Gallery of davcr4zy - Powered by RSSHub",
+      "errorAt": "2026-05-25T13:07:16.524Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79207785434458112",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/Smileeeeeee",
-      "title": "Fur Affinity | Gallery of Smileeeeeee",
+      "siteUrl": "https://www.furaffinity.net/gallery/davcr4zy",
+      "title": "Fur Affinity | Gallery of davcr4zy",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/Smileeeeeee/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/davcr4zy/nsfw"
     }
   ],
   "url": "furaffinity.net"

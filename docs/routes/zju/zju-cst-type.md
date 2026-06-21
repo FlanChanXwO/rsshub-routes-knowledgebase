@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙大软件学院-国际实习 - Powered by RSSHub",
-      "errorAt": "2026-06-18T23:41:51.971Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "168412983866723328",
       "image": null,
       "ownerUserId": null,
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "浙大软件学院-实习就业 - Powered by RSSHub",
-      "errorAt": "2026-06-18T05:39:29.493Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "168412841482685440",
       "image": null,
       "ownerUserId": null,

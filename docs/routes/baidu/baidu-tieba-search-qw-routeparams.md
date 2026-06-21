@@ -85,7 +85,7 @@ _None_
     {
       "description": "生存狂 - 百度贴吧搜索 - Powered by RSSHub",
       "errorAt": "2026-03-13T01:37:42.182Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%94%9F%E5%AD%98%E7%8B%82&rn=20\": 403 Forbidden\n",
       "id": "82761206638000128",
       "image": null,
       "ownerUserId": null,

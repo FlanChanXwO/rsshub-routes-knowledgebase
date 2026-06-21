@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-18T22:34:23.042Z",
-      "errorMessage": "[GET] \"https://www.myzaker.com/article/6a33fb86b15ec018a274e488\": 429 \nFailed to fetch\n",
+      "errorAt": "2026-06-20T01:54:34.017Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/13\": 429 Too Many Requests\nFailed to fetch\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T00:21:39.937Z",
+      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a35da758e9f095578606355\": <no response> fetch failed\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

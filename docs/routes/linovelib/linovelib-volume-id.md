@@ -38,7 +38,7 @@ _None_
     "reading"
   ],
   "example": "/linovelib/volume/8",
-  "heat": 40,
+  "heat": 38,
   "location": "volume.ts",
   "maintainers": [
     "rkscv"

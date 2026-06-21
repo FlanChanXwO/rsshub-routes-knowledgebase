@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Browse the latest news from the world's leading research journal. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T20:42:09.170Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79390521827702784",
       "image": null,
       "ownerUserId": null,

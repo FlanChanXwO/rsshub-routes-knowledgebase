@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "豆瓣广播 - DIYgod - Powered by RSSHub",
-      "errorAt": "2026-06-19T02:12:56.628Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/status/user_timeline/62759792\": 403 \n",
+      "errorAt": "2026-06-20T03:47:41.998Z",
+      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/status/user_timeline/62759792\": 403 Forbidden\n",
       "id": "65438587764467712",
       "image": null,
       "ownerUserId": null,

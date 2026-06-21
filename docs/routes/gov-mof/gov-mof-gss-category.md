@@ -90,8 +90,8 @@
     },
     {
       "description": "政策解读 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": "2026-06-18T23:41:56.690Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "145117484898967552",
       "image": null,
       "ownerUserId": null,

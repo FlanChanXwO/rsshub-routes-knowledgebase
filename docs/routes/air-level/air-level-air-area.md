@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "订阅每个城市的天气质量 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-19T15:32:57.245Z",
+      "errorMessage": "[GET] \"https://m.air-level.com/air/shanghai\": <no response> fetch failed\n",
       "id": "81563872281993216",
       "image": null,
       "ownerUserId": null,

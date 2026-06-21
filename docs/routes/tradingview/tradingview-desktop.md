@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "TradingView Desktop releases and release notes - Powered by RSSHub",
-      "errorAt": "2026-06-18T23:30:46.024Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "90285290783141888",
       "image": null,
       "ownerUserId": null,

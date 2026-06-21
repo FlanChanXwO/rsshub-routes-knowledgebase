@@ -118,7 +118,7 @@ _None_
     {
       "description": "7 posts - Powered by RSSHub",
       "errorAt": "2025-12-01T11:31:13.832Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nWaiting for selector `.content` failed: waitForFunction failed: frame got detached.\nFailed to fetch\npage.goto: Target page, context or browser has been closed\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n530 <none>\nFailed to fetch\nContent does not exist.\n",
       "id": "68868134910057472",
       "image": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/20f0f3b9dca2307c0d9e928f5a31e787~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=c2635a64&x-expires=1763265600&x-signature=ZbrX%2BEgQnxUC4x4myuI%2FM5Za0xg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
@@ -130,7 +130,7 @@ _None_
     {
       "description": "白银 (@baiyinn811) public posts - Picuki - Powered by RSSHub",
       "errorAt": "2024-12-09T13:19:26.547Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nContent does not exist.\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "68562239082161152",
       "image": "https://cdn1.picuki.com/hosted-by-instagram/q/yep6IPkO1EBGZyPbcMUQzeBRjaJ4Rg1ONw==.jpeg",
       "ownerUserId": null,

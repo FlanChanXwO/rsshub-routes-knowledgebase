@@ -11,7 +11,7 @@
 - Example: `_None_`
 - URL: `new.qq.com/zt2020/page/feiyan.htm`
 - Language: `_None_`
-- Categories: `game`
+- Categories: `programming`
 - Maintainers: `CaoMeiYouRen`
 - Source Location: `news/coronavirus/total.tsx`
 - Source Module: `_None_`
@@ -35,7 +35,7 @@ _None_
 ```json
 {
   "categories": [
-    "game"
+    "programming"
   ],
   "heat": 0,
   "location": "news/coronavirus/total.tsx",

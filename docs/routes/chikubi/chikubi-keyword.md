@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "殿堂 - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T02:28:44.519Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\nUnexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n",
       "id": "56155535570663424",
       "image": null,
       "ownerUserId": null,

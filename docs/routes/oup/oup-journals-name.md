@@ -74,7 +74,7 @@ _None_
     {
       "description": "OUP - qje - Powered by RSSHub",
       "errorAt": "2025-07-18T11:52:23.943Z",
-      "errorMessage": "[GET] \"https://academic.oup.com/qje/issue\": 403 \n",
+      "errorMessage": "[GET] \"https://academic.oup.com/qje/issue\": 403 Forbidden\n",
       "id": "73541899125060608",
       "image": null,
       "ownerUserId": null,

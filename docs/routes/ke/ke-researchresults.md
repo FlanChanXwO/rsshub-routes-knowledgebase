@@ -70,7 +70,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-06-19T04:04:26.773Z",
-      "errorMessage": "503 Service Unavailable\n",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "158366990849381376",
       "image": null,
       "ownerUserId": null,
