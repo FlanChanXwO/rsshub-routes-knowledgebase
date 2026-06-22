@@ -102,8 +102,8 @@
   "topFeeds": [
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
-      "errorAt": "2026-06-19T16:11:51.311Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88557710935450624",
       "image": null,
       "ownerUserId": null,
@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
+      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852126561305600",
+      "id": "123851322293306368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
-      "title": "PvPManager Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
+      "title": "HuskHomes Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
+      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
     }
   ]
 }

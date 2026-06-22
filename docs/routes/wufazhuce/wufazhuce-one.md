@@ -71,7 +71,7 @@ _None_
     {
       "description": "复杂世界里, 一个就够了. One is all. - Powered by RSSHub",
       "errorAt": "2026-06-17T17:34:45.814Z",
-      "errorMessage": "[GET] \"https://wufazhuce.com/\": <no response> fetch failed\nFailed to fetch\n[GET] \"https://wufazhuce.com/\": <no response> fetch failed\n[GET] \"https://wufazhuce.com/\": <no response> fetch failed\n[GET] \"https://wufazhuce.com/\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://wufazhuce.com/\": <no response> fetch failed\n[GET] \"https://wufazhuce.com/\": <no response> fetch failed\n[GET] \"https://wufazhuce.com/\": <no response> fetch failed\n",
       "id": "81983773377514496",
       "image": null,
       "ownerUserId": null,

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1375,
+  "heat": 1376,
   "location": "weekly.tsx",
   "maintainers": [
     "kmod-midori"

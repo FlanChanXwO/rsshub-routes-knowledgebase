@@ -74,7 +74,7 @@ _None_
     {
       "description": "Vitalik Buterin on Farcaster - Powered by RSSHub",
       "errorAt": "2026-01-29T21:57:38.280Z",
-      "errorMessage": "[GET] \"https://client.warpcast.com/v2/casts?fid=5650&limit=100\": 400 \n",
+      "errorMessage": "[GET] \"https://client.warpcast.com/v2/casts?fid=5650&limit=100\": 400 Bad Request\n",
       "id": "143719820510416896",
       "image": null,
       "ownerUserId": null,

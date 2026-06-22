@@ -150,8 +150,8 @@
   "topFeeds": [
     {
       "description": "热点图文 - 游民娱乐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T23:28:21.185Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 73637415277299712",
       "id": "73637415277299712",
       "image": null,
       "ownerUserId": null,

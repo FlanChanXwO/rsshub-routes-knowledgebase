@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub File - guanguans/favorite-link/master/README.md - Powered by RSSHub",
-      "errorAt": "2026-06-20T01:54:50.891Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55788057182175233",
       "image": null,
       "ownerUserId": null,

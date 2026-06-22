@@ -72,7 +72,7 @@ _None_
     {
       "description": "专注于大数据、人工智能技术应用的分享与交流。致力于成就百万数据科学家。定期组织技术分享直播，并整理大数据、推荐/搜索算法、广告算法、NLP 自然语言处理算法、智能风控、自动驾驶、机器学习/深度学习等技术应用文章。 - Powered by RSSHub",
       "errorAt": "2025-08-01T18:51:41.921Z",
-      "errorMessage": "[GET] \"https://posts.careerengine.us/author/5c84fb2104a9c94955fe9e73/rss\": 404 \n",
+      "errorMessage": "[GET] \"https://posts.careerengine.us/author/5c84fb2104a9c94955fe9e73/rss\": 404 Not Found\n",
       "id": "69399076414973952",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "在这里，读懂真实的市场。 - Powered by RSSHub",
       "errorAt": "2025-08-01T19:11:21.887Z",
-      "errorMessage": "[GET] \"https://posts.careerengine.us/author/5c68a639279f245e524d860f/rss\": 404 \n[GET] \"https://posts.careerengine.us/author/5c68a639279f245e524d860f/rss\": 404 \n",
+      "errorMessage": "[GET] \"https://posts.careerengine.us/author/5c68a639279f245e524d860f/rss\": 404 Not Found\n[GET] \"https://posts.careerengine.us/author/5c68a639279f245e524d860f/rss\": 404 Not Found\n",
       "id": "57479832114244608",
       "image": null,
       "ownerUserId": null,

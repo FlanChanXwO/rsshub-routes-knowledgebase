@@ -79,7 +79,7 @@
     {
       "description": "muitinⒾ | 零博客 - Powered by RSSHub",
       "errorAt": "2024-12-17T17:08:27.527Z",
-      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/initium\": 403 \n",
+      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/initium\": 403 Forbidden\n",
       "id": "52721325092269085",
       "image": null,
       "ownerUserId": null,
@@ -91,7 +91,7 @@
     {
       "description": "qⓅ | 零博客 - Powered by RSSHub",
       "errorAt": "2024-12-17T18:10:05.533Z",
-      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/pq\": 403 \n",
+      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/pq\": 403 Forbidden\n",
       "id": "69681105983370240",
       "image": null,
       "ownerUserId": null,

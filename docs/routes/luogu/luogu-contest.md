@@ -72,7 +72,7 @@ _None_
     {
       "description": "比赛列表 - 洛谷 - Powered by RSSHub",
       "errorAt": "2026-03-27T04:47:38.288Z",
-      "errorMessage": "522 <none>\nCannot read properties of null (reading '1')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of null (reading '1')\n",
       "id": "56948849407992832",
       "image": "https://www.luogu.com.cn/favicon.ico",
       "ownerUserId": null,

@@ -71,7 +71,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 34310,
+  "heat": 34292,
   "location": "research.ts",
   "maintainers": [
     "y9c",
@@ -109,7 +109,7 @@
     {
       "description": "Read the latest Research articles from Nature - Powered by RSSHub",
       "errorAt": "2026-06-20T04:13:11.899Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nFailed to fetch\nCannot read properties of null (reading '1')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of null (reading '1')\nFailed to fetch\nCannot read properties of null (reading '1')\n",
       "id": "79390237537101824",
       "image": null,
       "ownerUserId": null,

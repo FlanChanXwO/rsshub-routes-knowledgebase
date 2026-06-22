@@ -101,7 +101,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 539129,
+  "heat": 539128,
   "location": "media.ts",
   "maintainers": [
     "DIYgod",

@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "感谢大家的关注和投蕉，谢谢！！！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T20:30:06.454Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72885134656350208",
       "image": "https://imgs.aixifan.com/style/image/201907/Pt1GipJtiUHE0rnGckcm5gHzJeTRxjJh.jpg",
       "ownerUserId": null,

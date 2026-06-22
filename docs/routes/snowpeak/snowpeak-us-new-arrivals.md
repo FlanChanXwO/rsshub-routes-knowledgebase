@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Snow Peak - New Arrivals - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T20:29:11.726Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "165067222014181376",
       "image": null,
       "ownerUserId": null,

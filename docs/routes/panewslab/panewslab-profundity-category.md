@@ -69,7 +69,7 @@ _None_
     {
       "description": "PANews - 精选 - Powered by RSSHub",
       "errorAt": "2025-12-14T11:22:59.129Z",
-      "errorMessage": "[GET] \"https://panewslab.com/webapi/depth/list?LId=1&Rn=25&TagId=&tw=0\": 404 \n",
+      "errorMessage": "[GET] \"https://panewslab.com/webapi/depth/list?LId=1&Rn=25&TagId=&tw=0\": 404 Not Found\n",
       "id": "57477263957849088",
       "image": null,
       "ownerUserId": null,

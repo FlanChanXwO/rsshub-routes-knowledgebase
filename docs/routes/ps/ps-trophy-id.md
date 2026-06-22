@@ -63,7 +63,7 @@ _None_
     {
       "description": "DIYgod_ 的 PSN 奖杯 - Powered by RSSHub",
       "errorAt": "2024-10-23T01:28:06.858Z",
-      "errorMessage": "[GET] \"https://psnprofiles.com/DIYgod_?order=last-trophy\": 403 \n",
+      "errorMessage": "[GET] \"https://psnprofiles.com/DIYgod_?order=last-trophy\": 403 Forbidden\n",
       "id": "65439345539341312",
       "image": null,
       "ownerUserId": null,

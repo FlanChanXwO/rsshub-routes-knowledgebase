@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4753,
+  "heat": 4755,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 马斯克回复智谱等中国大模型何时赶上 Fable 水平：或在 2027 年一季度 2. 中国造纸学会就「纸尿裤事件」发文：相关报道在检测依据等关键环节存在明显瑕疵 3. 蔡崇信：阿里全面投入 AI，全栈布局有巨大优势 4. 自动驾驶公司 Momenta 拟在香港 IPO 筹资 10 亿美元 5. 缅甸总统敏昂莱一行到访宇树科技参观 6. Meta 据悉同数据中心公司 Crusoe 签署 AI 算力协议 7. Meta 洽谈投资印度金融科技支付初创公司 Cred 8. 阿联酋批准 15 岁以下社媒使用禁令 - Powered by RSSHub",
+      "description": "1. 腾讯：微信正在灰度测试 AI 助手「小微」 2. Manus 的早期投资者计划以 20 亿美元价格回购该公司 3. 2024 诺贝尔化学奖得主詹珀离开谷歌 DeepMind，加入 Anthropic 4. 特朗普称他不认为 Anthropic 构成国家安全威胁 5. 奖金差距逼近 100 倍：三星内部矛盾激化，部分员工身着黑衣集体抗议 6. 大学生维权促使海南航空修改运输规定：只要航司原因造成航班提前，无论提前多久都能全额退票 7. 创纪录 IPO 后，SpaceX 再发债 200 亿美元 8. 今年 7 月 1 日起 赴日签证费用涨价 5 倍 9. 英国拟强制 Meta、YouTube 等平台推送更多本地新闻内容 10. 挪威将禁止小学生使用生成式人工智能 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

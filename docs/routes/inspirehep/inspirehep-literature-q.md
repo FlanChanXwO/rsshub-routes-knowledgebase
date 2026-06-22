@@ -60,25 +60,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796033",
+      "id": "69965125338796052",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%22covariant%20phase%20space%22%20or%20%22solution%20phase%20space%22",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Strominger.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/%22covariant%20phase%20space%22%20or%20%22solution%20phase%20space%22"
+      "url": "rsshub://inspirehep/literature/a%20A.Strominger.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796056",
+      "id": "69965125338796035",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20X.Dong.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%22black%20hole%20entropy%22",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20X.Dong.1"
+      "url": "rsshub://inspirehep/literature/%22black%20hole%20entropy%22"
     }
   ]
 }

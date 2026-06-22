@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 9,
+  "heat": 8,
   "location": "cover.tsx",
   "maintainers": [
     "y9c",
@@ -74,7 +74,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-06T15:43:08.758Z",
-      "errorMessage": "[GET] \"https://www.science.org/journals\": 403 \n",
+      "errorMessage": "[GET] \"https://www.science.org/journals\": 403 Forbidden\n",
       "id": "142517145679905798",
       "image": null,
       "ownerUserId": null,

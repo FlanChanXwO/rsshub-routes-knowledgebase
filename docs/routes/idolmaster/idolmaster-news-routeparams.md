@@ -96,8 +96,8 @@
     },
     {
       "description": "NEWS | アイドルマスター - Powered by RSSHub",
-      "errorAt": "2026-06-20T02:04:06.409Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82051945166265344",
       "image": null,
       "ownerUserId": null,

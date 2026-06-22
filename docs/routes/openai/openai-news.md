@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": "2026-06-05T01:27:45.718Z",
-      "errorMessage": "[GET] \"https://openai.com/index/chatgpt-enterprise-spend-controls\": 403 Forbidden\n[GET] \"https://openai.com/index/chatgpt-enterprise-spend-controls/\": 403 \n522 <none>\n[GET] \"https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem/\": 403 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

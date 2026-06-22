@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "141PPV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T18:36:13.212Z",
+      "errorMessage": "206 Partial Content",
       "id": "53022498131722240",
       "image": null,
       "ownerUserId": null,

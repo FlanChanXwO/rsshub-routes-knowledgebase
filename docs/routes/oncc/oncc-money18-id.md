@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "東網產經 - 新聞總覽 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T21:53:52.484Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149880667170940928",
       "image": null,
       "ownerUserId": null,

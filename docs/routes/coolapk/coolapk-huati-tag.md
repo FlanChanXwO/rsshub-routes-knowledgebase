@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "酷安话题-酷安夜话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T20:29:34.541Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69604119970038786",
       "image": null,
       "ownerUserId": null,

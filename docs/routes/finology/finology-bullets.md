@@ -70,7 +70,7 @@ _None_
     {
       "description": "Your daily dose of crisp, spicy financial news in 80 words. - Powered by RSSHub",
       "errorAt": "2025-11-29T06:57:30.012Z",
-      "errorMessage": "[GET] \"https://insider.finology.in/bullets\": 403 \n",
+      "errorMessage": "[GET] \"https://insider.finology.in/bullets\": 403 Forbidden\n",
       "id": "59063078762352640",
       "image": null,
       "ownerUserId": null,

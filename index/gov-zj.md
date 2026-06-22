@@ -6,7 +6,7 @@
 - URL: `www.zj.gov.cn`
 - Language: `_None_`
 - Aliases: `gov/zj, www, www.zj.gov.cn, zj.gov.cn, 浙江省人民政府`
-- Route Count: `3`
+- Route Count: `5`
 
 ## Routes
 
@@ -33,3 +33,19 @@
 - File Name: `gov-zj-search-websiteid-word-cateid.md`
 - Categories: `government`
 - Maintainers: `HaoyuLee`
+
+### 政府采购网分类代码
+- Route ID: `gov/zj:/gov/zj/zfcg-helper`
+- Route Path: `/gov/zj/zfcg-helper`
+- File: `docs/routes/gov-zj/gov-zj-zfcg-helper.md`
+- File Name: `gov-zj-zfcg-helper.md`
+- Categories: `government`
+- Maintainers: `TonyRL`
+
+### 政府采购公告
+- Route ID: `gov/zj:/gov/zj/zfcg/:code?`
+- Route Path: `/gov/zj/zfcg/:code?`
+- File: `docs/routes/gov-zj/gov-zj-zfcg-code.md`
+- File Name: `gov-zj-zfcg-code.md`
+- Categories: `government`
+- Maintainers: `TonyRL`

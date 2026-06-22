@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "得物技术博客 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T20:29:13.703Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "259836190993734656",
       "image": null,
       "ownerUserId": null,

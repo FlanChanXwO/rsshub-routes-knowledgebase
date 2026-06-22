@@ -11,7 +11,7 @@
 - Example: `/gamer/gnn/1`
 - URL: `acg.gamer.com.tw`
 - Language: `_None_`
-- Categories: `anime, popular`
+- Categories: `anime`
 - Maintainers: `Arracc, ladeng07, pseudoyu`
 - Source Location: `gnn-index.ts`
 - Source Module: `_None_`
@@ -38,8 +38,7 @@ _None_
 ```json
 {
   "categories": [
-    "anime",
-    "popular"
+    "anime"
   ],
   "description": "缺省為首頁",
   "example": "/gamer/gnn/1",
@@ -146,8 +145,8 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": "2026-06-19T23:33:22.830Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61373650705521664",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,

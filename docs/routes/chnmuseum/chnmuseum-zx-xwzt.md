@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国国家博物馆资讯专题 - Powered by RSSHub",
-      "errorAt": "2026-06-19T22:42:16.348Z",
-      "errorMessage": "[GET] \"https://www.chnmuseum.cn/zx/xwzt/\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "145466808887686144",
       "image": null,
       "ownerUserId": null,

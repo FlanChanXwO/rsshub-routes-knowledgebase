@@ -88,8 +88,8 @@
     },
     {
       "description": "情趣全部文章-情趣No.1-PLAYNO.1玩樂達人 - Powered by RSSHub",
-      "errorAt": "2026-06-20T01:59:11.331Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69537146680018944",
       "image": null,
       "ownerUserId": null,

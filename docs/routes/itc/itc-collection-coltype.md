@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/itc/collection/1",
-  "heat": 239,
+  "heat": 238,
   "location": "collection.ts",
   "maintainers": [
     "cnkmmk"

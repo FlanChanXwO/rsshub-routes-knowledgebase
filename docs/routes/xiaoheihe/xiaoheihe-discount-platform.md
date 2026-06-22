@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "小黑盒 Switch 游戏折扣 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T17:34:34.061Z",
+      "errorMessage": "Failed to fetch\n530 <none>\nFailed to fetch\n",
       "id": "86932279954497536",
       "image": null,
       "ownerUserId": null,

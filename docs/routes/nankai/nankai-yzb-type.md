@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "南开大学研究生招生网-硕士招生 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T20:27:54.075Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://yzb.nankai.edu.cn/5509/list.htm\": <no response> fetch failed\n",
       "id": "167782987907531776",
       "image": null,
       "ownerUserId": null,

@@ -99,7 +99,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1670,
+  "heat": 1671,
   "location": "realtimenews.ts",
   "maintainers": [
     "nczitzk"
@@ -182,8 +182,8 @@
     },
     {
       "description": "同花顺财经 - Powered by RSSHub",
-      "errorAt": "2026-06-19T23:03:20.445Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72148510666881024",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72148510666881024",
       "image": "http://i.thsi.cn/images/thscj/THSLogo.png",
       "ownerUserId": null,

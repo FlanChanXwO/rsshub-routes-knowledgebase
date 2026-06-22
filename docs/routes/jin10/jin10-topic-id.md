@@ -72,7 +72,7 @@ _None_
     {
       "description": "关于美联储的那些事 - Powered by RSSHub",
       "errorAt": "2026-06-18T05:58:31.405Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'content')\n",
       "id": "88845418189377536",
       "image": null,
       "ownerUserId": null,

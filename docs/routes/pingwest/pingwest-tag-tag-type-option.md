@@ -80,7 +80,7 @@ _None_
     {
       "description": "品玩 - AIGC - Powered by RSSHub",
       "errorAt": "2026-05-25T10:17:17.755Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20327&type=0\": 405 Not Allowed\n",
       "id": "85680099374822413",
       "image": null,
       "ownerUserId": null,
@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - ChinaJoy - Powered by RSSHub",
-      "errorAt": "2026-05-25T14:13:19.003Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=7604&type=0\": 405 Not Allowed\n",
-      "id": "69704836086005760",
+      "description": "品玩 - 豆包 - Powered by RSSHub",
+      "errorAt": "2026-05-25T12:07:01.198Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22158&type=0\": 405 Not Allowed\n",
+      "id": "128313509223043072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
-      "title": "品玩 - ChinaJoy",
+      "siteUrl": "https://www.pingwest.com/tag/22158",
+      "title": "品玩 - 豆包",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/ChinaJoy/1"
+      "url": "rsshub://pingwest/tag/22158/1"
     }
   ]
 }

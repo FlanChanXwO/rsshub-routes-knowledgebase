@@ -70,7 +70,7 @@ _None_
     {
       "description": "Asianfanfics - 标签：milklove - 最近发布 - Powered by RSSHub",
       "errorAt": "2025-11-26T14:54:57.893Z",
-      "errorMessage": "[GET] \"https://www.asianfanfics.com/browse/tag/milklove/N\": 403 \n",
+      "errorMessage": "[GET] \"https://www.asianfanfics.com/browse/tag/milklove/N\": 403 Forbidden\n",
       "id": "119960006927534080",
       "image": null,
       "ownerUserId": null,

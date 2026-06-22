@@ -81,7 +81,7 @@ _None_
     {
       "description": "Bloomberg - matthew-s-levine - Powered by RSSHub",
       "errorAt": "2025-02-04T02:35:57.482Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=ARbTQlRLRjE/matthew-s-levine&authorType=default&page=1\": 403 \n",
+      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=ARbTQlRLRjE/matthew-s-levine&authorType=default&page=1\": 403 Forbidden\n",
       "id": "54713301214977024",
       "image": null,
       "ownerUserId": null,

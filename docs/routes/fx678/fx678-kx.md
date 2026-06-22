@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 898,
+  "heat": 897,
   "location": "kx.ts",
   "maintainers": [
     "occupy5",
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": "2026-06-20T03:50:55.179Z",
-      "errorMessage": "Cannot read properties of null (reading 'trim')\nCannot read properties of null (reading 'trim')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

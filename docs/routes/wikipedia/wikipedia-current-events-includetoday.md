@@ -53,7 +53,7 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 29,
+  "heat": 30,
   "location": "current-events.ts",
   "maintainers": [
     "aavanian"

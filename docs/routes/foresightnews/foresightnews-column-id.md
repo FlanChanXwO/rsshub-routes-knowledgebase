@@ -86,7 +86,7 @@ _None_
     {
       "description": "ForesightNews 独家 - Foresight News - Powered by RSSHub",
       "errorAt": "2026-03-25T07:03:01.055Z",
-      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50&column_id=1\": 403 \n",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50&column_id=1\": 403 Forbidden\n",
       "id": "49357965468513280",
       "image": "https://img.foresightnews.pro/vertical_logo.png",
       "ownerUserId": null,

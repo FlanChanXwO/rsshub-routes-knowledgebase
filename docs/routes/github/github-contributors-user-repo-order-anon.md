@@ -80,16 +80,16 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "80504153337164800",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
-      "title": "comfyanonymous/ComfyUI Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     },
     {
       "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",

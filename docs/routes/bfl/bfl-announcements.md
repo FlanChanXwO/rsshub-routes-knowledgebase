@@ -75,7 +75,7 @@ _None_
     {
       "description": "Amazing AI models from the Black Forest. - Powered by RSSHub",
       "errorAt": "2025-08-14T22:53:13.018Z",
-      "errorMessage": "522 <none>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "153814816828039168",
       "image": null,
       "ownerUserId": null,

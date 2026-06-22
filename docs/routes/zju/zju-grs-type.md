@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 5,
   "location": "grs/index.ts",
   "maintainers": [
     "Caicailiushui"

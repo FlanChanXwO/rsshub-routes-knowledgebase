@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "掘金，用户单个收藏夹 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-20T20:28:23.830Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74294662018781184",
       "image": null,
       "ownerUserId": null,

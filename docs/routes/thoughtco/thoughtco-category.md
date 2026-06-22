@@ -359,7 +359,7 @@ _None_
     {
       "description": "From chemistry to computer programming, arts to World War II, ThoughtCo.com provides guides, tips, and resources to help you understand more about the world around us. - Powered by RSSHub",
       "errorAt": "2025-10-29T11:49:13.386Z",
-      "errorMessage": "[GET] \"https://www.thoughtco.com/\": 402 \n",
+      "errorMessage": "[GET] \"https://www.thoughtco.com/\": 402 Payment Required\n",
       "id": "70153943405852687",
       "image": "https://www.thoughtco.com/thmb/WjSg5aGyHogR9T18eCi4vdFEwj0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thoughtCo_pin_img_default-58a21e1638e9b32984d5b865.png",
       "ownerUserId": null,
@@ -371,7 +371,7 @@ _None_
     {
       "description": "From physics, biology, and chemistry to astronomy and meteorology, learn how scientists gather evidence to investigate this world, and others. - Powered by RSSHub",
       "errorAt": "2025-10-29T11:49:13.481Z",
-      "errorMessage": "[GET] \"https://www.thoughtco.com/science-4132464\": 402 \n",
+      "errorMessage": "[GET] \"https://www.thoughtco.com/science-4132464\": 402 Payment Required\n",
       "id": "70153943405852686",
       "image": "https://www.thoughtco.com/thmb/hiD2o9UnJBnn90Vs-KBTRN4Vv8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tax2_image_science-58a22d1868a0972917bfb566.png",
       "ownerUserId": null,
