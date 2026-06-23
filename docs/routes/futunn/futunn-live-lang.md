@@ -50,7 +50,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 16,
+  "heat": 17,
   "location": "live.ts",
   "maintainers": [
     "kennyfong19931"

@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "Deal Street Asia - Private Equity - Powered by RSSHub",
-      "errorAt": "2026-06-21T03:29:53.931Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63785389652796416",
       "image": null,
       "ownerUserId": null,

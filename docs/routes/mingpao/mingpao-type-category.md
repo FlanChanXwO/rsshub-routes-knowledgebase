@@ -130,7 +130,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "Status code 403\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

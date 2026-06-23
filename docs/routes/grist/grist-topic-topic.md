@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Protest Articles on grist.org - Powered by RSSHub",
+      "description": "Technology Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "108633194292694016",
+      "id": "129565977721774080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/protest",
-      "title": "Protest - Gist Articles",
+      "siteUrl": "https://grist.org/Technology",
+      "title": "Technology - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/protest"
+      "url": "rsshub://grist/topic/Technology"
     }
   ],
   "url": "grist.org/articles/"

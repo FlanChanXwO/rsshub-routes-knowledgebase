@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
+      "description": "New contributors for zabbix/zabbix-docker - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78928360835988480",
+      "id": "95485494519570432",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
-      "title": "open-metadata/OpenMetadata Contributors",
+      "siteUrl": "https://github.com/zabbix/zabbix-docker/graphs/contributors",
+      "title": "zabbix/zabbix-docker Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
+      "url": "rsshub://github/contributors/zabbix/zabbix-docker"
     },
     {
-      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "183741893306669056",
+      "id": "84958270281030656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
-      "title": "obaby/baby-wechat Contributors",
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/obaby/baby-wechat"
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

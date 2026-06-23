@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 21,
   "location": "declaration.ts",
   "maintainers": [
     "blade0910"

@@ -63,28 +63,28 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "垃圾一件而已 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-06-11T18:52:12.513Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=KOKOKOKOKO巨蟹\": 403 Forbidden\n",
-      "id": "86267569293295616",
+      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-18T07:31:14.501Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
+      "id": "197374238844610560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
-      "title": "垃圾一件而已 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
+      "title": "双鱼座73 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
+      "url": "rsshub://baidu/tieba/user/18p2pmimi"
     },
     {
-      "description": "天马失望 的贴吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "200148619577121792",
+      "description": "K盘音 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-16T04:13:10.675Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
+      "id": "197372964709496832",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B",
-      "title": "天马失望 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
+      "title": "K盘音 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
+      "url": "rsshub://baidu/tieba/user/TheKickInside"
     }
   ]
 }

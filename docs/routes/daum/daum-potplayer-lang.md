@@ -202,8 +202,8 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
   "topFeeds": [
     {
       "description": "PotPlayer Update History - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T02:49:24.209Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "182729503499199488",
       "image": null,
       "ownerUserId": null,

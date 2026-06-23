@@ -92,7 +92,7 @@
     {
       "description": "三年之约后，萧炎终于在迦南学院见到了薰儿，此后他广交挚友并成立磐门；为继续提升实力以三上云岚宗为父复仇，他以身犯险深入天焚炼气塔吞噬陨落心炎…… - Powered by RSSHub",
       "errorAt": "2025-05-15T17:19:35.693Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "112346789614543872",
       "image": "https://img.xlmp4.cc/vod/d/62e5e8f6a1697.jpg",
       "ownerUserId": null,

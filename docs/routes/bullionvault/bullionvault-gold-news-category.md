@@ -100,7 +100,7 @@ If you subscribe to [Gold Price News](https://www.bullionvault.com/gold-news/gol
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "gold-news.ts",
   "maintainers": [
     "nczitzk"
@@ -201,8 +201,8 @@ If you subscribe to [Gold Price News](https://www.bullionvault.com/gold-news/gol
   "topFeeds": [
     {
       "description": "Gold News | Gold Market Analysis & Gold Investment Research - Gold Price Commentary & Forecasts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T00:18:27.880Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "129774669981528064",
       "image": "https://www.bullionvault.com/images/homepage/gold-bars-in-vault.png",
       "ownerUserId": null,

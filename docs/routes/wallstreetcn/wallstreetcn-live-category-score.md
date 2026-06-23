@@ -92,8 +92,8 @@
     },
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",
-      "errorAt": "2026-06-21T03:28:22.859Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62853146646103040",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62853146646103040",
       "image": null,
       "ownerUserId": null,

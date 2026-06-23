@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4386,
+  "heat": 5609,
   "location": "search.ts",
   "maintainers": [
     "nczitzk"
@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://pornhub/search/%E5%9B%BD%E4%BA%A7"
     },
     {
-      "description": "Pornhub - asiam - Powered by RSSHub",
+      "description": "Pornhub - girl - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59970246903171072",
+      "id": "66404948691054592",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/webmasters/search?search=asiam",
-      "title": "Pornhub - asiam",
+      "siteUrl": "https://www.pornhub.com/webmasters/search?search=girl",
+      "title": "Pornhub - girl",
       "type": "feed",
-      "url": "rsshub://pornhub/search/asiam"
+      "url": "rsshub://pornhub/search/girl"
     }
   ],
   "view": 3

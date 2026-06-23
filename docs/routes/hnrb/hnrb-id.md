@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "湖南日报 - Powered by RSSHub",
-      "errorAt": "2026-06-20T19:58:11.158Z",
-      "errorMessage": "[GET] \"https://hnrb.voc.com.cn/hnrb_epaper\": 403 Forbidden\n",
+      "errorAt": "2026-06-21T23:12:41.865Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75409322850391040",
       "image": null,
       "ownerUserId": null,

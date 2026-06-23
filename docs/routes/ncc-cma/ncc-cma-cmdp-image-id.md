@@ -550,8 +550,8 @@
   "topFeeds": [
     {
       "description": "中国气象局--国家气候中心--气候系统监测·诊断·预测·评估 - Powered by RSSHub",
-      "errorAt": "2026-06-21T03:35:32.412Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71805369887410176",
       "image": "http://www.ncc-cma.net/images/logo.png?v=2",
       "ownerUserId": null,

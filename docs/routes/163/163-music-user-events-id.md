@@ -44,18 +44,6 @@ _None_
   "path": "/music/user/events/:id",
   "topFeeds": [
     {
-      "description": "网易云音乐用户动态 - I love you three thousand times - Powered by RSSHub",
-      "errorAt": "2025-11-04T02:37:40.370Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "186422945668491340",
-      "image": "http://p1.music.126.net/QM5zjqPI2NGLGF2O-LcFvw==/109951164221621943.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/user/event?id=253142666",
-      "title": "我在那一角落患过伤风啊的云村动态",
-      "type": "feed",
-      "url": "rsshub://163/music/user/events/253142666"
-    },
-    {
       "description": "网易云音乐用户动态 - 而我不再觉得 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -66,6 +54,18 @@ _None_
       "title": "番茄鱼鱼酱日记的云村动态",
       "type": "feed",
       "url": "rsshub://163/music/user/events/398309610"
+    },
+    {
+      "description": "网易云音乐用户动态 - I love you three thousand times - Powered by RSSHub",
+      "errorAt": "2025-11-04T02:37:40.370Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "186422945668491340",
+      "image": "http://p1.music.126.net/QM5zjqPI2NGLGF2O-LcFvw==/109951164221621943.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://music.163.com/#/user/event?id=253142666",
+      "title": "我在那一角落患过伤风啊的云村动态",
+      "type": "feed",
+      "url": "rsshub://163/music/user/events/253142666"
     }
   ]
 }

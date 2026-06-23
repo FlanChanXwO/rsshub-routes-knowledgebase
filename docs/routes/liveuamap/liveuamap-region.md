@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 66,
+  "heat": 67,
   "location": "index.ts",
   "maintainers": [
     "CoderSherlock"
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Liveuamap - china - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-21T12:27:46.212Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "85175414937704448",
       "image": null,
       "ownerUserId": null,

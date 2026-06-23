@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "更多AI黑科技、场景落地、商用价值，尽在这里。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T00:11:47.590Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'data')\n",
       "id": "233311236627653632",
       "image": null,
       "ownerUserId": null,

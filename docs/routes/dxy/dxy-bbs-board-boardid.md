@@ -71,7 +71,7 @@ _None_
     {
       "description": "824472 內容 1692847 关注 - Powered by RSSHub",
       "errorAt": "2025-04-19T04:12:04.568Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "请求方法不存在\n",
       "id": "72885777699624960",
       "image": "https://img1.dxycdn.com/2022/0119/688/9942937579838937253-73.jpeg",
       "ownerUserId": null,

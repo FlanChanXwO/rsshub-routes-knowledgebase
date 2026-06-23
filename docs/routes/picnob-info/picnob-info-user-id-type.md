@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23445,
+  "heat": 23369,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"
@@ -73,18 +73,6 @@ _None_
   "path": "/user/:id/:type?",
   "topFeeds": [
     {
-      "description": "👇🏻 🔮click for more 🔮 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "67078339316597760",
-      "image": "https://media.picnob.info/get?url=https://scontent-vie1-1.cdninstagram.com/v/t51.82787-19/552007250_18061848512600173_228633516572074893_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-vie1-1.cdninstagram.com&_nc_cat=101&_nc_oc=Q6cZ2gF604gguYpz4gNeRleeZ1UH_88FgSl3wdsUCyK_kFwC9ZsPDoowwxHThtU0Oe1utwk&_nc_ohc=ihZNeFQ4qJkQ7kNvwFMvaBy&_nc_gid=ynjXYOuDT_S3zHDUx3-Q6Q&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=GFL25iBtmJTQJytAAI3jBtP4RCwDbmNDAQAB3203200j-ccb7-5&oh=00_AfzpQBK76agL4cyzTHqSgkgUvhU6OekcldMtD2B51D47Gg&oe=69CB5D75&_nc_sid=8b3546",
-      "ownerUserId": null,
-      "siteUrl": "https://www.instagram.com/auddk_77/",
-      "title": "Irene🐰✨ (@auddk_77) public posts - Picnob",
-      "type": "feed",
-      "url": "rsshub://picnob.info/user/auddk_77"
-    },
-    {
       "description": "💜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "YUQI (@yuqisong.923) public posts - Picnob",
       "type": "feed",
       "url": "rsshub://picnob.info/user/yuqisong.923"
+    },
+    {
+      "description": "Favorites @cmagezine - Powered by RSSHub",
+      "errorAt": "2026-05-18T15:43:49.318Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "56898019594118144",
+      "image": "https://media.picnob.info/get?url=https://scontent-bru2-1.cdninstagram.com/v/t51.2885-19/345493893_219514870811614_1458898845141567627_n.jpg?stp=dst-jpg_s320x320_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-bru2-1.cdninstagram.com&_nc_cat=110&_nc_oc=Q6cZ2gF1xrh9O6q5ypTf_Ys86444hnoyLaF71x2QFf01zkAguYp4HoG-2nQC54eZXN7BKao&_nc_ohc=lrsE_Q7kUoEQ7kNvwGRZrU1&_nc_gid=87sVoWutCSui7gycvbV9iQ&edm=AOQ1c0wBAAAA&ccb=7-5&ig_cache_key=GIXRlxTey_XJpccAAIsI5CPFDD8UbkULAAAB3203200j-ccb7-5&oh=00_Af0yfv2TMfhY0uY0VJbIA62iwqozqf2NCDdzUtmYpcesGw&oe=69F10038&_nc_sid=8b3546",
+      "ownerUserId": null,
+      "siteUrl": "https://www.instagram.com/lycary/",
+      "title": "Cary. 劉陽 (@lycary) public posts - Picnob",
+      "type": "feed",
+      "url": "rsshub://picnob.info/user/lycary"
     }
   ],
   "url": "picnob.info",

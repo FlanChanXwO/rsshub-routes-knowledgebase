@@ -72,7 +72,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 51751,
+  "heat": 51746,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -113,7 +113,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "55873602868576278",
-      "image": "https://tvax2.sinaimg.cn/crop.0.0.600.600.180/008tj0GNly8i4ul6s2etyj30go0goq4h.jpg?KID=imgbed,tva&Expires=1782020853&ssig=f2hSR4UnyK",
+      "image": "https://tvax2.sinaimg.cn/crop.0.0.600.600.180/008tj0GNly8i4ul6s2etyj30go0goq4h.jpg?KID=imgbed,tva&Expires=1782106539&ssig=qZek1DDJqN",
       "ownerUserId": null,
       "siteUrl": "https://weibo.com/7762107285/",
       "title": "罗永浩的十字路口的微博",
@@ -122,10 +122,10 @@
     },
     {
       "description": "数码闲聊站的微博 - Powered by RSSHub",
-      "errorAt": "2026-06-20T23:18:24.828Z",
-      "errorMessage": "Failed to fetch\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nCannot read properties of undefined (reading 'userInfo')\n530 <none>\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56574455833521152",
-      "image": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/006BlblIly8gdim8sx8poj30u00u0adb.jpg?KID=imgbed,tva&Expires=1781999225&ssig=6Ou34EfjwR",
+      "image": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.180/006BlblIly8gdim8sx8poj30u00u0adb.jpg?KID=imgbed,tva&Expires=1782104664&ssig=HEfhkSIroe",
       "ownerUserId": null,
       "siteUrl": "https://weibo.com/6048569942/",
       "title": "数码闲聊站的微博",

@@ -53,7 +53,7 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 260,
+  "heat": 261,
   "location": "blogs.ts",
   "maintainers": [
     "TomHodson"
@@ -74,8 +74,8 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
   "topFeeds": [
     {
       "description": "A Science.org blog called In the Pipeline - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T03:02:33.864Z",
+      "errorMessage": "Failed to fetch\nbrowserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.60                          ║\n║   - client version: v1.61                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.60                          ║\n║   - client version: v1.61                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
       "id": "94573901566286848",
       "image": "https://www.science.org/apple-touch-icon.png",
       "ownerUserId": null,

@@ -98,8 +98,8 @@
     },
     {
       "description": "三立新聞網 - 政治 - Powered by RSSHub",
-      "errorAt": "2026-06-20T23:28:33.377Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 88520448616402944",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88520448616402944",
       "image": null,
       "ownerUserId": null,

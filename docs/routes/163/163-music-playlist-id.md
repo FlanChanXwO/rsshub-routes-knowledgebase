@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 313,
+  "heat": 311,
   "location": "music/playlist.ts",
   "maintainers": [
     "DIYgod"
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "网易云音乐歌单 - Khat喵喜欢的音乐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T03:25:16.935Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67058999583684608",
       "image": null,
       "ownerUserId": null,

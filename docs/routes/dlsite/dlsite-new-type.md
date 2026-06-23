@@ -103,8 +103,8 @@ _None_
   "topFeeds": [
     {
       "description": "「DLsite 同人 - R18」は同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 発売カレンダー - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T00:10:10.424Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72604834390187008",
       "id": "72604834390187008",
       "image": null,
       "ownerUserId": null,
@@ -115,8 +115,8 @@ _None_
     },
     {
       "description": "「DLsite 成年コミック - R18」はエロマンガ・アダルトマンガのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 発売カレンダー - Powered by RSSHub",
-      "errorAt": "2026-06-20T22:48:39.065Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72513516125018112",
       "image": null,
       "ownerUserId": null,

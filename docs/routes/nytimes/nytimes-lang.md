@@ -54,7 +54,7 @@ By extracting the full text of articles, we provide a better reading experience 
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8218,
+  "heat": 8221,
   "location": "index.ts",
   "maintainers": [
     "HenryQW",

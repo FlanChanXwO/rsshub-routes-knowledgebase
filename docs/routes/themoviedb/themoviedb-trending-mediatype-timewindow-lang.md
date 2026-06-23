@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 95,
+  "heat": 98,
   "location": "trending.ts",
   "maintainers": [
     "x2cf"
