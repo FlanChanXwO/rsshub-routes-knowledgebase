@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "南开大学研究生院-综合信息 - Powered by RSSHub",
-      "errorAt": "2026-06-22T00:10:26.272Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "190697912128162816",
       "image": null,
       "ownerUserId": null,

@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "网易云音乐歌单 - Khat喵喜欢的音乐 - Powered by RSSHub",
-      "errorAt": "2026-06-22T03:25:16.935Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67058999583684608",
       "image": null,
       "ownerUserId": null,

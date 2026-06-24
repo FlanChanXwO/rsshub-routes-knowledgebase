@@ -61,7 +61,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 54,
+  "heat": 52,
   "location": "news.tsx",
   "maintainers": [
     "nczitzk"

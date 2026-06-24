@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://qstheory"
     },
     {
-      "description": "- 求是网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "81625152130833408",
+      "description": "党建 - 求是网 - Powered by RSSHub",
+      "errorAt": "2024-12-10T05:21:10.650Z",
+      "errorMessage": "[GET] \"../20260618/7820cec992e64b33a47f2599ed0fc52f/c.html\": <no response> Failed to parse URL from ../20260618/7820cec992e64b33a47f2599ed0fc52f/c.html\n",
+      "id": "83847865922732032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.qstheory.cn/v9zhuanqu/toutiao/index.htm",
-      "title": "- 求是网",
+      "siteUrl": "http://www.qstheory.cn/cpc/index.htm",
+      "title": "党建 - 求是网",
       "type": "feed",
-      "url": "rsshub://qstheory/toutiao"
+      "url": "rsshub://qstheory/cpc"
     }
   ]
 }

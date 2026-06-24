@@ -66,7 +66,7 @@ _None_
     {
       "description": "采购信息 - Powered by RSSHub",
       "errorAt": "2025-05-20T00:31:11.844Z",
-      "errorMessage": "[GET] \"https://zbb.nju.edu.cn/cgxxfw/index.chtml\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://zbb.nju.edu.cn/cgxxhw/index.chtml\": 403 Forbidden\n",
       "id": "62660944911329280",
       "image": null,
       "ownerUserId": null,

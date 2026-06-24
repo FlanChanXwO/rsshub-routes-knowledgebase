@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 331,
+  "heat": 327,
   "location": "branches.ts",
   "maintainers": [
     "max-arnold"

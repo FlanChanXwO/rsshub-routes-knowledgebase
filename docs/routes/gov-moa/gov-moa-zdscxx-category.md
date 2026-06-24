@@ -145,8 +145,8 @@
   "topFeeds": [
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": "2026-06-21T16:05:40.988Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72147260240052224",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

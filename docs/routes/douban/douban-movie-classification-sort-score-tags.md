@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣电影分类超过 7.5 分的影视 - Powered by RSSHub",
-      "errorAt": "2026-06-22T03:21:31.367Z",
-      "errorMessage": "[GET] \"https://movie.douban.com/j/new_search_subjects?sort=R&range=0,10&tags=%E7%A7%91%E5%B9%BB&start=0\": 403 Forbidden\n[GET] \"https://movie.douban.com/j/new_search_subjects?sort=R&range=0,10&tags=%E7%A7%91%E5%B9%BB&start=0\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64117673690336325",
       "image": null,
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "豆瓣电影分类影视 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-23T01:13:18.501Z",
+      "errorMessage": "[GET] \"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&start=0\": 403 Forbidden\n",
       "id": "155307226993530880",
       "image": null,
       "ownerUserId": null,

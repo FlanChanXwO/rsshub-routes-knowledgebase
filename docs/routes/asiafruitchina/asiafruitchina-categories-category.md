@@ -346,7 +346,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 4,
   "location": "categories.ts",
   "maintainers": [
     "nczitzk"

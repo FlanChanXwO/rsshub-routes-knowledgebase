@@ -75,14 +75,14 @@
   ],
   "topFeeds": [
     {
-      "description": "期刊动态 - Powered by RSSHub",
+      "description": "滑动拼图验证码 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "74645687509395456",
-      "image": "https://www.eshukan.com/images/head.gif",
+      "image": "https://www.eshukan.com/undefined",
       "ownerUserId": null,
       "siteUrl": "https://www.eshukan.com/academic/index.aspx?cid=1",
-      "title": "期刊动态首页_万维书刊",
+      "title": "滑动拼图验证码",
       "type": "feed",
       "url": "rsshub://eshukan/academic/1"
     }

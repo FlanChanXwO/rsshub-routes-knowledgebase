@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google Gemma - Powered by RSSHub",
+      "description": "The AI Collective - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966966744675328",
+      "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/gemma-events",
-      "title": "Google Gemma",
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
       "type": "feed",
-      "url": "rsshub://luma/gemma-events"
+      "url": "rsshub://luma/genai-collective"
     }
   ],
   "url": "lu.ma"

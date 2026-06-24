@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "DIYgod 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": "2026-06-21T21:18:16.635Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57641453192576000",
       "image": "https://i2.hdslb.com/bfs/face/9882696336717748a66cb70b0ed3f488f0cc9dad.jpg",
       "ownerUserId": null,

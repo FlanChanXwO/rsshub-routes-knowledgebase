@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A versatile, GUI-based quest plugin featuring customizable quest pools, leaderboards, leveling, and extensive plugin integrations. - Powered by RSSHub",
+      "description": "A simple teleportation plugin that supports Folia, compatible with Bukkit/Spigot/Paper/Folia. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582569332071424",
+      "id": "123852542430741504",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/NBlPi66Y",
-      "title": "AuroraQuests Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/t0Xh802L",
+      "title": "TPA Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/NBlPi66Y/versions"
+      "url": "rsshub://modrinth/project/t0Xh802L/versions"
     }
   ]
 }

@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",
-      "errorAt": "2026-06-22T00:20:09.020Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62150011386109952",
       "image": null,
       "ownerUserId": null,

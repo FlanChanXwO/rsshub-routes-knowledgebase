@@ -87,16 +87,16 @@
       "url": "rsshub://startuplatte"
     },
     {
-      "description": "深度分析 | 創新拿鐵 - Powered by RSSHub",
-      "errorAt": "2026-02-21T05:43:39.672Z",
+      "description": "大師智慧 | 創新拿鐵 - Powered by RSSHub",
+      "errorAt": "2026-02-21T06:41:32.058Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "81622260116168704",
+      "id": "81622319635482624",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://startuplatte.com/category/analysis",
-      "title": "深度分析 | 創新拿鐵",
+      "siteUrl": "https://startuplatte.com/category/quote",
+      "title": "大師智慧 | 創新拿鐵",
       "type": "feed",
-      "url": "rsshub://startuplatte/analysis"
+      "url": "rsshub://startuplatte/quote"
     }
   ]
 }

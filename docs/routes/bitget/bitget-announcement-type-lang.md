@@ -61,7 +61,7 @@ _None_
   ],
   "description": "type:\n\n| Type              | Description |\n| ----------------- | ----------- |\n| all               | 全部通知    |\n| new-listing       | 新币上线    |\n| latest-activities | 最新活动    |\n| new-announcement  | 最新公告    |\n\nlang:\n\n| Lang  | Description |\n| ----- | ----------- |\n| zh-CN | 中文        |\n| en-US | English     |\n| es-ES | Español     |\n| fr-FR | Français    |\n| de-DE | Deutsch     |\n| ja-JP | 日本語      |\n| ru-RU | Русский     |\n| ar-SA | العربية     |",
   "example": "/bitget/announcement/all/zh-CN",
-  "heat": 613,
+  "heat": 612,
   "location": "announcement.ts",
   "maintainers": [
     "YukiCoco"
@@ -153,8 +153,8 @@ _None_
     },
     {
       "description": "Bitget | New Listing - Powered by RSSHub",
-      "errorAt": "2026-04-16T22:37:04.867Z",
-      "errorMessage": "[POST] \"https://www.bitget.com/v1/msg/push/stationLetterNew\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73649080120641536",
       "image": null,
       "ownerUserId": null,

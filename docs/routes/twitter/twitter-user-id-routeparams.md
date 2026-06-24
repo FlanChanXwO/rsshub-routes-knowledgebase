@@ -114,7 +114,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 795125,
+  "heat": 794964,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -143,7 +143,7 @@ Currently supported authentication methods:
       "errorAt": null,
       "errorMessage": null,
       "id": "100411504863520768",
-      "image": "https://pbs.twimg.com/profile_images/2035314704307081216/71U1ftM3.jpg",
+      "image": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
       "ownerUserId": null,
       "siteUrl": "https://x.com/elonmusk",
       "title": "Twitter @Elon Musk",

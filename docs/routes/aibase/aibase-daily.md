@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 512,
+  "heat": 513,
   "location": "daily.ts",
   "maintainers": [
     "3tuuu"

@@ -89,7 +89,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "215327803838904320",
-      "image": "https://play-lh.googleusercontent.com/8IkkhPNnxNVYhnUxcidu0-Yp72aSb3H0gQJ1U-_ImQ7SCGLz1zgXtV7wi2Hpd6Odghg",
+      "image": "https://play-lh.googleusercontent.com/wjXpkVLT-LAzfcYOfhH0hF8ghU79nDHtqVLxBNmWOQJ2ghb4pgp_IBNfGdCTw-aQgh3WwA3Gp1k8Y4waZkGobmA",
       "ownerUserId": null,
       "siteUrl": "https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en&gl=us",
       "title": "Tasker - Google Play",

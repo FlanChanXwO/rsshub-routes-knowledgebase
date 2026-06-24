@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 92,
   "location": "new-and-popular.ts",
   "maintainers": [
     "Rjnishant530"

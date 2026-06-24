@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "Deutsche Welle - Powered by RSSHub",
-      "errorAt": "2026-06-22T00:29:56.765Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80331041578519552",
       "image": null,
       "ownerUserId": null,

@@ -102,8 +102,8 @@ _None_
     },
     {
       "description": "HoYoLAB-绝区零-资讯 - Powered by RSSHub",
-      "errorAt": "2026-06-22T00:30:43.686Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74613800923448320",
       "image": "https://hyl-static-res-prod.hoyolab.com/communityweb/business/nap.png",
       "ownerUserId": null,

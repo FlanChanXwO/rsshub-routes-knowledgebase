@@ -106,7 +106,7 @@ _None_
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",
       "errorAt": "2026-06-22T03:57:59.492Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://www.medsci.cnhttps://rare.medsci.cn/news/detail/070394085134\": <no response> fetch failed\n",
       "id": "70825962351576064",
       "image": null,
       "ownerUserId": null,

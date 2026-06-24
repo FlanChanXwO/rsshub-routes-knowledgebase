@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-06-22T00:16:04.632Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 105751285441409024",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

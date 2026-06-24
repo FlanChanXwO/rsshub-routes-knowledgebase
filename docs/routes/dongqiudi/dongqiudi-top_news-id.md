@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "懂球帝 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-06-22T02:48:29.896Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73989204856510464",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@
     },
     {
       "description": "懂球帝 - 深度 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T21:45:08.189Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67550300258611200",
       "image": null,
       "ownerUserId": null,

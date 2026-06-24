@@ -1021,8 +1021,8 @@
   "topFeeds": [
     {
       "description": "搬书匠 - Powered by RSSHub",
-      "errorAt": "2026-06-12T06:57:15.517Z",
-      "errorMessage": "[GET] \"http://banshujiang.cn/e_books/page/1\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "182026067097803776",
       "image": "http://banshujiang.cn/logo.png?imageView2/2/w/128/h/128/q/100",
       "ownerUserId": null,
@@ -1033,8 +1033,8 @@
     },
     {
       "description": "搬书匠 - Powered by RSSHub",
-      "errorAt": "2026-06-13T14:51:54.785Z",
-      "errorMessage": "[GET] \"http://banshujiang.cn/e_books/page/1\": 502 Bad Gateway\n[GET] \"http://banshujiang.cn/e_books/page/1\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "190045554505808896",
       "image": "http://banshujiang.cn/logo.png?imageView2/2/w/128/h/128/q/100",
       "ownerUserId": null,

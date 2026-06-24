@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "虎嗅 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T22:59:23.155Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84597162601054208",
       "image": null,
       "ownerUserId": null,

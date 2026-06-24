@@ -57,7 +57,7 @@ Only some journals are supported.
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 507,
+  "heat": 506,
   "location": "highlight.ts",
   "maintainers": [],
   "name": "Research Highlight",

@@ -1622,6 +1622,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/cebbank.md`
 
+## 亚布力中国企业家论坛
+- Namespace: `cefco`
+- Aliases: `cefco, cefco.cn, www, www.cefco.cn, 亚布力中国企业家论坛`
+- Route Count: `1`
+- Index File: `index/cefco.md`
+
 ## Ceph
 - Namespace: `ceph`
 - Aliases: `ceph, ceph.io`

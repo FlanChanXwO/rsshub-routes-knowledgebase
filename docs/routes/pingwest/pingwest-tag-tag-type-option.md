@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 品玩大模型内刊 - Powered by RSSHub",
-      "errorAt": "2026-05-25T07:52:17.077Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20868&type=0\": 405 Not Allowed\n",
-      "id": "86386944820703232",
+      "description": "品玩 - 豆包 - Powered by RSSHub",
+      "errorAt": "2026-05-25T12:07:01.198Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22158&type=0\": 405 Not Allowed\n",
+      "id": "128313509223043072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/gpt",
-      "title": "品玩 - 品玩大模型内刊",
+      "siteUrl": "https://www.pingwest.com/tag/22158",
+      "title": "品玩 - 豆包",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/gpt/1"
+      "url": "rsshub://pingwest/tag/22158/1"
     }
   ]
 }

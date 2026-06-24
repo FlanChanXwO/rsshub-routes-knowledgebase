@@ -177,7 +177,7 @@ _None_
     {
       "description": "财经资讯 - 金融界 - Powered by RSSHub",
       "errorAt": "2026-06-21T14:21:34.500Z",
-      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/06/21214457534794.shtml\": 514 Frequency Capped\n",
+      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/06/23064757541351.shtml\": 514 Frequency Capped\n",
       "id": "110335328538370048",
       "image": null,
       "ownerUserId": null,

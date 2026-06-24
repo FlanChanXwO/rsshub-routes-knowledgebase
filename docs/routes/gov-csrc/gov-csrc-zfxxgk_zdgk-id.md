@@ -945,8 +945,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": "2026-06-21T23:07:12.498Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'results')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,
@@ -957,8 +957,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": "2026-06-21T23:07:40.271Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'channelLevel')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

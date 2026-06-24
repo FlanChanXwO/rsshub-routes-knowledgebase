@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "西南交大-教务网通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-22T21:45:23.573Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72512219481102339",
       "image": null,
       "ownerUserId": null,

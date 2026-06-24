@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 周排行 - Powered by RSSHub",
-      "errorAt": "2026-06-21T02:18:02.926Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65666355458866176",
       "image": null,
       "ownerUserId": null,

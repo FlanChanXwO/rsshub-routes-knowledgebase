@@ -96,7 +96,7 @@
     {
       "description": "通知公告 - 工作动态 - Powered by RSSHub",
       "errorAt": "2026-02-06T08:05:22.521Z",
-      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/33\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "178439478979079168",
       "image": null,
       "ownerUserId": null,

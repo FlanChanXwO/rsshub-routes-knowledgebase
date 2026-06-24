@@ -119,8 +119,8 @@ _None_
   "topFeeds": [
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
-      "errorAt": "2026-06-22T00:10:09.961Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-06-23T03:03:06.843Z",
+      "errorMessage": "[GET] \"https://kscgc.sctv-tf.com/sctv/lookback/1/date.json\": <no response> fetch failed\n",
       "id": "178834515500019712",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,
