@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Yahoo 新聞 - 新聞來源列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-23T23:38:36.261Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84147667125450752",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

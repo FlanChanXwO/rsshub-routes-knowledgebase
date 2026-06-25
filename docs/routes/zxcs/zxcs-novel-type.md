@@ -53,7 +53,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 94,
+  "heat": 95,
   "location": "novel.ts",
   "maintainers": [
     "liaochuan"

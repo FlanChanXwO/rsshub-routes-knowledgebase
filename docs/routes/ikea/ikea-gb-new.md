@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "New products released by IKEA UK. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-23T13:38:43.000Z",
+      "errorMessage": "[GET] \"https://sik.search.blue.cdtapps.com/gb/en/special/more-products?special=new_product&start=24&end=1060\": 400 Bad Request\n",
       "id": "93829994856769536",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 334,
+  "heat": 332,
   "location": "daily-blog.ts",
   "maintainers": [
     "huyyi"
@@ -71,7 +71,7 @@ _None_
     {
       "description": "值得一读技术博客 - Powered by RSSHub",
       "errorAt": "2025-11-15T17:37:54.148Z",
-      "errorMessage": "[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n502 Bad Gateway\nFailed to fetch\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed\n",
       "id": "55155355881001984",
       "image": null,
       "ownerUserId": null,

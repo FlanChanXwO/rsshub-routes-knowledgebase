@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "色花堂 - 高清中文字幕 - Powered by RSSHub",
-      "errorAt": "2026-06-22T21:38:30.209Z",
-      "errorMessage": "530 <none>\nNavigation timeout of 30000 ms exceeded\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65327819580054528",
       "image": null,
       "ownerUserId": null,

@@ -38,7 +38,7 @@ _None_
     "popular"
   ],
   "example": "/threads/zuck",
-  "heat": 34015,
+  "heat": 33994,
   "location": "index.ts",
   "maintainers": [
     "ninboy",
@@ -58,7 +58,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "45996937449535488",
-      "image": "https://scontent-sin2-1.cdninstagram.com/v/t51.82787-19/550174606_17925811725103224_8363667901743352243_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sin2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2gH2wGn99fASVtPgLOEzzUWfn6VjXp-gCHbav-StxfJV0L8BXSgLVP8eP4mwQ2i7dG8Ik7tWl7yYeq7i6V5oadRa&_nc_ohc=tQil_z4_3FkQ7kNvwF_o2wc&_nc_gid=GNf2eBgD0ei0mryIH31zxw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af867AwOTDUmRv17D9eSMcBtO6g6xpnNQWcECuhNO4kekw&oe=6A3FCDFE&_nc_sid=10d13b",
+      "image": "https://scontent-sin11-1.cdninstagram.com/v/t51.82787-19/550174606_17925811725103224_8363667901743352243_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-sin11-1.cdninstagram.com&_nc_cat=1&_nc_oc=Q6cZ2gGH-DELGYkORSgT4GpFYXgmTV7YL8DO_IE9k5d1xJR1V8nhLUqIu4KaGr6N36s8w0Oy0cmZ3rIM5JClCm-IUuDk&_nc_ohc=tQil_z4_3FkQ7kNvwF_o2wc&_nc_gid=vOVE0QGxNn-27I15vrlrpg&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af8z1qfxDqh28JGOgBtXT2EBpXN7-GVm6uPU1O3hlxDROQ&oe=6A411F7E&_nc_sid=10d13b",
       "ownerUserId": null,
       "siteUrl": "https://www.threads.com/@zuck",
       "title": "zuck (@zuck) on Threads",
@@ -70,7 +70,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "71435314045960192",
-      "image": "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/488156102_1160633875385251_3028278818063288032_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NzkuYzIifQ&_nc_ht=scontent-atl3-3.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gG07E3UWjD9-u6zeO8yOC5idhKuLKc9RHkKABp4g3eAQRIQFJZivzao1mji8HuqUCI&_nc_ohc=cSKNnGhTKAcQ7kNvwFWC67A&_nc_gid=cXDa_xckfZJYOhjequmfzw&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af_jGCvvxBUZ7LVf_nseMlQt9L00uoXs-57FyKtcqwTLXg&oe=6A3F8984&_nc_sid=10d13b",
+      "image": "https://scontent-bom2-4.cdninstagram.com/v/t51.2885-19/488156102_1160633875385251_3028278818063288032_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44NzkuYzIifQ&_nc_ht=scontent-bom2-4.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2gFJqVF8gdE_6LxxcBxFPxYoggfPh0F0Brz59WR7ZABG5e2Vl50JOiVmaSJuAhH3RO4&_nc_ohc=YQlnwxpG0OsQ7kNvwHQ1foq&_nc_gid=BNPgTCReO0POjXTTwVtnkQ&edm=APs17CUBAAAA&ccb=7-5&oh=00_Af9K7QJcU64ooC61hsO6okwGRSjzjawYVF1BbWkJP4EIcg&oe=6A40DB04&_nc_sid=10d13b",
       "ownerUserId": null,
       "siteUrl": "https://www.threads.com/@hecaitou",
       "title": "hecaitou (@hecaitou) on Threads",

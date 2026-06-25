@@ -72,7 +72,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 800,
+  "heat": 801,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",

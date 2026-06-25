@@ -41,7 +41,7 @@ _None_
   ],
   "description": "::: tip\n若订阅 [最新 4K 电影](https://www.4ksj.com/4k-uhd-1.html)，网址为 `https://www.4ksj.com/4k-uhd-1.html`。截取 `https://www.4ksj.com/` 到末尾 `.html` 的部分 `4k-uhd-1` 作为参数，此时路由为 [`/4ksj/4k-uhd-1`](https://rsshub.app/4ksj/4k-uhd-1)。\n\n若订阅子分类 [Dolby Vision 动作 4K 电影](https://www.4ksj.com/4k-uhd-s7-display-3-dytypes-1-1.html)，网址为 `https://www.4ksj.com/4k-uhd-s7-display-3-dytypes-1-1.html`。截取 `https://www.4ksj.com/forum-` 到末尾 `.html` 的部分 `4kdianying-s7-dianyingbiaozhun-3-dytypes-9-1` 作为参数，此时路由为 [`/4ksj/4k-uhd-s7-display-3-dytypes-1-1`](https://rsshub.app/4ksj/4k-uhd-s7-display-3-dytypes-1-1)。\n:::",
   "example": "/4ksj/4k-uhd-1",
-  "heat": 336,
+  "heat": 337,
   "location": "forum.tsx",
   "maintainers": [
     "nczitzk"
@@ -55,7 +55,7 @@ _None_
     {
       "description": ",4K世界 - Powered by RSSHub",
       "errorAt": "2025-08-29T19:35:36.310Z",
-      "errorMessage": "[GET] \"https://www.4ksj.com/4k-uhd-1.html\": <no response> fetch failed\n[GET] \"https://www.4ksj.com/4k-uhd-1.html\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.4ksj.com/4k-uhd-1.html\": <no response> fetch failed\n",
       "id": "61772657634165760",
       "image": "https://cloud.tencent.com.aliyun.dalvhe.com/template/nex_film_181120/neoconex/logo.png",
       "ownerUserId": null,

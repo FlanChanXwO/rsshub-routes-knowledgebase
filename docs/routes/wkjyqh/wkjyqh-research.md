@@ -39,7 +39,7 @@ _None_
     "finance"
   ],
   "example": "/wkjyqh/research",
-  "heat": 1,
+  "heat": 0,
   "location": "research.ts",
   "maintainers": [
     "TonyRL"

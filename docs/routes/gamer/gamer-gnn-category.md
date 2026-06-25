@@ -158,8 +158,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": "2026-06-23T02:03:19.053Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 52353637010143239",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

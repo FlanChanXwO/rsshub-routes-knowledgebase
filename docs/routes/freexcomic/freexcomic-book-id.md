@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "漫小肆 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-23T23:43:20.467Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "100187743653041152",
       "image": "https://www.jjmhw6.top/static/upload/book/790/cover.jpg",
       "ownerUserId": null,

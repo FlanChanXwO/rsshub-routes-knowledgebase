@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "安全内参-黑鸟 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T03:47:27.804Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88800015885317120",
       "image": null,
       "ownerUserId": null,

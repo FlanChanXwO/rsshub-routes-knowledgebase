@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3640,
+  "heat": 3641,
   "location": "weekly-recommend.ts",
   "maintainers": [
     "ttttmr"

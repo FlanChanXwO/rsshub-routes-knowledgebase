@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "供应链贸易业务营收“注水”超20亿！湖北某国企旗下供应链上市公司用总额法冲规模翻车，被双重监管重罚 - Powered by RSSHub",
+      "description": "融资性贸易审计“失守”！致同会计师事务所及4名注会收警示函，严监管下审计底线不容试探 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 供应链贸易业务营收“注水”超20亿！湖北某国企旗下供应链上市公司用总额法冲规模翻车，被双重监管重罚",
+      "title": "10000万联网 - 融资性贸易审计“失守”！致同会计师事务所及4名注会收警示函，严监管下审计底线不容试探",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

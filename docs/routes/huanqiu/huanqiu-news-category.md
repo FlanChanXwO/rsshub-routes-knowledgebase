@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 843,
+  "heat": 845,
   "location": "index.ts",
   "maintainers": [
     "yuxinliu-alex"
@@ -86,8 +86,8 @@
     },
     {
       "description": "环球网 - Powered by RSSHub",
-      "errorAt": "2026-06-23T02:03:11.441Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67440517507274752",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67440517507274752",
       "image": null,
       "ownerUserId": null,

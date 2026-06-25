@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "169381097732121600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
+      "title": "米游社 - 初代 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/76089447"
     },
     {
-      "description": "米游社 - 甘雨真的爱吃清心吗 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 莹泠 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198685520162372608",
+      "id": "198687353464355840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=245277504",
-      "title": "米游社 - 甘雨真的爱吃清心吗 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75149887",
+      "title": "米游社 - 莹泠 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/245277504"
+      "url": "rsshub://mihoyo/bbs/user-post/75149887"
     }
   ]
 }

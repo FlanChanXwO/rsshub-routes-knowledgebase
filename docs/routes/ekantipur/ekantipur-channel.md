@@ -79,7 +79,7 @@ Channels:
     {
       "description": "Ekantipur - news - Powered by RSSHub",
       "errorAt": "2026-02-08T10:59:41.504Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "74038006711254016",
       "image": null,
       "ownerUserId": null,

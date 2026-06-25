@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "精選基地編輯每日為你帶來的電玩、動漫、娛樂遊戲最新新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-23T05:39:10.805Z",
+      "errorMessage": "[GET] \"undefined\": <no response> Failed to parse URL from undefined\n[GET] \"undefined\": <no response> Failed to parse URL from undefined\n[GET] \"undefined\": <no response> Failed to parse URL from undefined\n",
       "id": "62600104047803392",
       "image": "https://image.gamebase.com.tw/gb_tw/static/logo_01.png",
       "ownerUserId": null,
@@ -95,8 +95,8 @@
     },
     {
       "description": "精選基地編輯每日為你帶來的電玩、動漫、娛樂遊戲最新新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T01:52:21.896Z",
+      "errorMessage": "502 Bad Gateway\n[POST] \"https://api.gamebase.com.tw/api/news/getNewsList\": 500 Internal Server Error\n",
       "id": "67001925811204096",
       "image": "https://image.gamebase.com.tw/gb_tw/static/logo_01.png",
       "ownerUserId": null,

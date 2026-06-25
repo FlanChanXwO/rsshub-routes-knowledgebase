@@ -39,7 +39,7 @@ _None_
   "categories": [
     "forecast"
   ],
-  "heat": 47,
+  "heat": 46,
   "location": "yjxx.ts",
   "maintainers": [],
   "name": "Unknown",
@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T00:03:12.223Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62187667731240974",
       "id": "62187667731240974",
       "image": null,
       "ownerUserId": null,

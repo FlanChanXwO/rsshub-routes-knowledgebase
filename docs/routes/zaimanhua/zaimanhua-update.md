@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "再漫画 - 最近更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T04:02:15.941Z",
+      "errorMessage": "[GET] \"https://manhua.zaimanhua.com/api/v1/comic2/update_list?status&theme&zone&cate&firstLetter&sortType&page=1&size=20\": <no response> fetch failed\n",
       "id": "143481497751851008",
       "image": null,
       "ownerUserId": null,

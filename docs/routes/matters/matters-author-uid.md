@@ -38,7 +38,7 @@ _None_
     "new-media"
   ],
   "example": "/matters/author/robertu",
-  "heat": 173,
+  "heat": 172,
   "location": "author.ts",
   "maintainers": [
     "Cerebrater",

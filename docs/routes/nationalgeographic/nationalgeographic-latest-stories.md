@@ -68,14 +68,14 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Latest Stories from National Geographic - Powered by RSSHub",
+      "description": "Latest Stories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nationalgeographic.com/pages/topic/latest-stories",
-      "title": "Latest Stories from National Geographic",
+      "title": "Latest Stories",
       "type": "feed",
       "url": "rsshub://nationalgeographic/latest-stories"
     }

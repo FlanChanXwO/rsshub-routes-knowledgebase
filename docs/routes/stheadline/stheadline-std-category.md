@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "報導第一手要聞資訊，了解最新新聞動向，全程緊貼社會議題。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T01:38:14.687Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 151673363572299776",
       "id": "151673363572299776",
       "image": "https://www.sthlstatic.com/sthl/assets/favicon/android-icon-192x192.png",
       "ownerUserId": null,

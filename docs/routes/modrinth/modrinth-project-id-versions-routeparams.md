@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A simple teleportation plugin that supports Folia, compatible with Bukkit/Spigot/Paper/Folia. - Powered by RSSHub",
+      "description": "The kitchen sink of Chat Management - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852542430741504",
+      "id": "114583401723102208",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/t0Xh802L",
-      "title": "TPA Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/IwVOgYiT",
+      "title": "ChatManager Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/t0Xh802L/versions"
+      "url": "rsshub://modrinth/project/IwVOgYiT/versions"
     }
   ]
 }

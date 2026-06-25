@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 919,
+  "heat": 918,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/the-americas/2026/06/22/what-colombias-rightward-swing-says-about-the-country\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-this-week/2026/06/22/cover-story-newsletter-americas-ai-power-grab\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/in-brief/2026/06/23/the-us-in-brief-two-court-setbacks-for-donald-trump\": 403 Forbidden\n[GET] \"https://www.economist.com/in-brief/2026/06/23/the-us-in-brief-two-court-setbacks-for-donald-trump\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

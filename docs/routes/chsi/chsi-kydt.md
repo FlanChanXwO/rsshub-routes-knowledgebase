@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 90,
+  "heat": 91,
   "location": "kydt.ts",
   "maintainers": [
     "SunBK201"

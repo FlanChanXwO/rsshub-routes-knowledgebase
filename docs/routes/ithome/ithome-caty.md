@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-06-22T23:32:57.948Z",
-      "errorMessage": "[GET] \"https://lapin.ithome.com/html/digi/967190.htm\": <no response> fetch failed\n",
+      "errorAt": "2026-06-24T00:38:19.690Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905673",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

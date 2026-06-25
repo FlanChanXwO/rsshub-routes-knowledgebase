@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/houxu/memory",
-  "heat": 16,
+  "heat": 15,
   "location": "memory.tsx",
   "maintainers": [
     "nczitzk"

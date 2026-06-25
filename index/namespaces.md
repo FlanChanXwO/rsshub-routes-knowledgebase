@@ -3980,6 +3980,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/gov-npc.md`
 
+## 国家新闻出版署
+- Namespace: `gov/nppa`
+- Aliases: `gov/nppa, nppa.gov.cn, www, www.nppa.gov.cn, 国家新闻出版署`
+- Route Count: `1`
+- Index File: `index/gov-nppa.md`
+
 ## 国家广播电视总局
 - Namespace: `gov/nrta`
 - Aliases: `gov/nrta, nrta.gov.cn, www, www.nrta.gov.cn, 国家广播电视总局`

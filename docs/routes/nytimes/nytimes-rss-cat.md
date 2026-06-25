@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/20/us/politics/troops-border-mexico.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/live/2026/06/21/world/iran-us-trump-lebanon\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/06/22/us/politics/jd-vance-iran-negotiations.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

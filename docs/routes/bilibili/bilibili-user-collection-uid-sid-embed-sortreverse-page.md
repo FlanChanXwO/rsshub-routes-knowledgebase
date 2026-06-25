@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T03:37:45.440Z",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'archives')\n",
       "id": "59567779750919168",
       "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T01:48:35.736Z",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'archives')\n",
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",
       "ownerUserId": null,

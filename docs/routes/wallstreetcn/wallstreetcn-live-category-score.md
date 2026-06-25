@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T00:38:10.778Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 54737464287253512",
       "id": "54737464287253512",
       "image": null,
       "ownerUserId": null,

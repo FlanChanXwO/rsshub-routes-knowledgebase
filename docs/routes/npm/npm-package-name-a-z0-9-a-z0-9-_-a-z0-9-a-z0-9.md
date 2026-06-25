@@ -66,16 +66,16 @@ _None_
       "url": "rsshub://npm/package/vue"
     },
     {
-      "description": "homebridge-miot - npm - Powered by RSSHub",
+      "description": "nocodb - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "92451467824140288",
+      "id": "197390555900909568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/homebridge-miot",
-      "title": "homebridge-miot - npm",
+      "siteUrl": "https://www.npmjs.com/package/nocodb",
+      "title": "nocodb - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/homebridge-miot"
+      "url": "rsshub://npm/package/nocodb"
     }
   ]
 }

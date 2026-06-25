@@ -61,7 +61,7 @@ _None_
     {
       "description": "DuckDB News - Powered by RSSHub",
       "errorAt": "2025-10-07T17:37:20.808Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://duckdb.orghttps://ducklake.select/2026/05/04/ducklake-dataframe/\": <no response> fetch failed\n",
       "id": "69641222629419008",
       "image": null,
       "ownerUserId": null,

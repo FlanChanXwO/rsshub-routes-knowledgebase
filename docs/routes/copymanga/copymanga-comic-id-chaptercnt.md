@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 157,
+  "heat": 158,
   "location": "comic.tsx",
   "maintainers": [
     "btdwv",

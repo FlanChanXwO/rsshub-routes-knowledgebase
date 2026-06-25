@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 71,
+  "heat": 72,
   "location": "gss.ts",
   "maintainers": [
     "la3rence"
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-23T23:48:46.162Z",
+      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcefabu/\": 502 Bad Gateway\n",
       "id": "133069318957962240",
       "image": null,
       "ownerUserId": null,

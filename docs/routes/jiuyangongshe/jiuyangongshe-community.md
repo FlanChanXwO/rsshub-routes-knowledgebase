@@ -38,7 +38,7 @@ _None_
     "finance"
   ],
   "example": "/jiuyangongshe/community",
-  "heat": 1031,
+  "heat": 1032,
   "location": "community.tsx",
   "maintainers": [
     "TonyRL"

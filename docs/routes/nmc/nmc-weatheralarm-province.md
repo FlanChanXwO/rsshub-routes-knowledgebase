@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 34,
+  "heat": 33,
   "location": "weatheralarm.ts",
   "maintainers": [
     "ylc395"

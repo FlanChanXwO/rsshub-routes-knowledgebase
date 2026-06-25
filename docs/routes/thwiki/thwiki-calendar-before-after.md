@@ -78,7 +78,7 @@ _None_
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
       "errorAt": "2026-05-29T02:41:59.767Z",
-      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-05-23/2026-07-22\": <no response> fetch failed\n[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-05-23/2026-07-22\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-05-25/2026-07-24\": <no response> fetch failed\n[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-05-25/2026-07-24\": <no response> fetch failed\n",
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

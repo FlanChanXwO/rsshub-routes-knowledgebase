@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 21,
   "location": "kyzx.ts",
   "maintainers": [
     "yanbot-team"
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "中国研究生招生信息网 - 考研资讯 - Powered by RSSHub",
-      "errorAt": "2026-06-11T01:12:48.789Z",
-      "errorMessage": "403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74787247590792206",
       "image": null,
       "ownerUserId": null,
