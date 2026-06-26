@@ -90,8 +90,8 @@
     },
     {
       "description": "中国新闻周刊--国际 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T01:35:20.132Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66134229854672896",
       "image": null,
       "ownerUserId": null,

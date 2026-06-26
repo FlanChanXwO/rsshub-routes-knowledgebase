@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Find out the cover story of some Nature journals. - Powered by RSSHub",
-      "errorAt": "2026-06-24T01:23:13.703Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78348485116004352",
       "image": null,
       "ownerUserId": null,

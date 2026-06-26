@@ -88,8 +88,8 @@
     },
     {
       "description": "科技 - 财富中文网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T02:15:02.299Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "42594177477129216",
       "image": null,
       "ownerUserId": null,

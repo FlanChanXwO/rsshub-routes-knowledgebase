@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 119,
+  "heat": 124,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Anal Creampie: Free Teen Creampies Videos | Pornhub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T01:11:18.470Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58588081077915648",
       "image": null,
       "ownerUserId": null,
@@ -87,16 +87,16 @@ _None_
       "url": "rsshub://pornhub/category_url/video%3Fc%3D15%26o%3Dmv%26t%3Dw%26cc%3Djp"
     },
     {
-      "description": "Gay Asian Cocks In Hot Free Porn Videos And Sex Clips | Pornhub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "184894860867500032",
+      "description": "Watch the Hottest Pornstars And Porn Movies | PornHub - Powered by RSSHub",
+      "errorAt": "2025-10-29T13:31:12.309Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "73689953585256448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/gay/video?c=48",
-      "title": "Gay Asian Cocks In Hot Free Porn Videos And Sex Clips | Pornhub",
+      "siteUrl": "https://www.pornhub.com/video?o=ht",
+      "title": "Watch the Hottest Pornstars And Porn Movies | PornHub",
       "type": "feed",
-      "url": "rsshub://pornhub/category_url/gay%2Fvideo%3Fc%3D48"
+      "url": "rsshub://pornhub/category_url/video%3Fo%3Dht"
     }
   ]
 }

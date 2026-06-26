@@ -113,16 +113,16 @@ _None_
       "url": "rsshub://asus/bios/GA605WV"
     },
     {
-      "description": "ASUS TUF Gaming A14 (2024) BIOS - Powered by RSSHub",
+      "description": "RT-BE88U BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "190738676600295424",
-      "image": "https://dlcdnwebimgs.asus.com/gain/8ef79421-e9c6-4c8b-8529-0e0dc2a09952/w185",
+      "id": "126962011544488963",
+      "image": "https://dlcdnwebimgs.asus.com/gain/e1b78b1a-0011-4ec7-bd84-bcbaa489ecbf/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-A14-2024/",
-      "title": "ASUS TUF Gaming A14 (2024) BIOS",
+      "siteUrl": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-BE88U/",
+      "title": "RT-BE88U BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/FA401WV"
+      "url": "rsshub://asus/bios/rt-be88u"
     }
   ],
   "url": "www.asus.com"

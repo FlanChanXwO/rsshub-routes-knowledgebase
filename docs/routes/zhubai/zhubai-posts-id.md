@@ -66,7 +66,7 @@ _None_
     {
       "description": "偷懒爱好者周刊，分享产品、工具、新鲜事，每周三在微信公众号“偷懒爱好者”首发，RSS: https://echosoar.github.io/weekly/atom.xml - Powered by RSSHub",
       "errorAt": "2025-04-25T07:06:41.675Z",
-      "errorMessage": "[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": <no response> fetch failed\n[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": <no response> fetch failed\n[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": <no response> fetch failed\n[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": <no response> fetch failed\nFailed to fetch\n",
       "id": "56207859813625856",
       "image": null,
       "ownerUserId": null,

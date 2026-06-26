@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://bilibili/user/bangumi/208259"
     },
     {
-      "description": "空巷一人 的追番列表 - Powered by RSSHub",
+      "description": "萌萌哒夫斯基 的追番列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "256983820225993728",
+      "id": "83449025446419456",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/36758148/bangumi",
-      "title": "空巷一人 的追番列表",
+      "siteUrl": "https://space.bilibili.com/17964019/bangumi",
+      "title": "萌萌哒夫斯基 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/36758148"
+      "url": "rsshub://bilibili/user/bangumi/17964019"
     }
   ]
 }

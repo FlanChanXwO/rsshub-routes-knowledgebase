@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "少数派用户「少数派14596354」的全部收藏 - Powered by RSSHub",
-      "errorAt": "2026-06-23T22:33:28.118Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "110921126744929280",
       "image": null,
       "ownerUserId": null,

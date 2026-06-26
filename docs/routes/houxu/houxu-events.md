@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/houxu/events",
-  "heat": 6,
+  "heat": 5,
   "location": "events.tsx",
   "maintainers": [
     "nczitzk"

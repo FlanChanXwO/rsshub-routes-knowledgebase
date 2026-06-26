@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "herorose 的动态 - Powered by RSSHub",
-      "errorAt": "2026-06-23T22:30:36.459Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73927094898480128",
       "image": null,
       "ownerUserId": null,

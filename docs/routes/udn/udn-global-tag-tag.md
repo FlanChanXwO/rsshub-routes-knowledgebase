@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - 過去24小時 - Powered by RSSHub",
-      "errorAt": "2026-06-23T20:32:19.802Z",
-      "errorMessage": "[GET] \"https://global.udn.com/global_vision/load/article/newest/tag:過去24小時\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69916583666986003",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@
     },
     {
       "description": "轉角國際 udn Global - 深度專欄 - Powered by RSSHub",
-      "errorAt": "2026-06-23T13:50:35.913Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80781985075075072",
       "image": null,
       "ownerUserId": null,

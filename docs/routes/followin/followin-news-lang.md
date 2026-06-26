@@ -95,7 +95,7 @@ _None_
     {
       "description": "News - Followin - Powered by RSSHub",
       "errorAt": "2026-02-06T11:37:50.737Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "64124473013636098",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

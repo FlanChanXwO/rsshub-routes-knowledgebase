@@ -78,7 +78,7 @@ _None_
     {
       "description": "全国通信专业技术人员职业水平考试网站最新动态和消息推送 - Powered by RSSHub",
       "errorAt": "2026-06-20T11:04:43.672Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.txks.org.cn/index/work.html\": <no response> fetch failed\n",
       "id": "105073231801801728",
       "image": "https://www.txks.org.cn/asset/image/logo/logo.png",
       "ownerUserId": null,

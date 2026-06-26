@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "KPMG Insights - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T23:48:51.189Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "220072422980998144",
       "image": null,
       "ownerUserId": null,

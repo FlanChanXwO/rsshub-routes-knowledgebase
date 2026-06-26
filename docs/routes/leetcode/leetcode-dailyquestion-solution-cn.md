@@ -52,12 +52,12 @@ _None_
   "topFeeds": [
     {
       "description": "LeetCode 每日一题题解 - Powered by RSSHub",
-      "errorAt": "2026-06-24T04:12:02.069Z",
-      "errorMessage": "Authentication failed. Access denied.\n/leetcode/dailyquestion/solution/cn\n530 <none>\n[POST] \"https://leetcode.cn/graphql/\": 403 Forbidden\n502 Bad Gateway\n[POST] \"https://leetcode.cn/graphql/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/number-of-zigzag-arrays-ii/",
+      "siteUrl": "https://leetcode.cn/problems/count-subarrays-with-majority-element-i/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

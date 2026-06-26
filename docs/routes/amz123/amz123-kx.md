@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 49,
   "location": "kx.ts",
   "maintainers": [
     "defp"

@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T00:41:09.012Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

@@ -38,7 +38,7 @@ _None_
     "university"
   ],
   "example": "/bnu/jwb",
-  "heat": 1,
+  "heat": 2,
   "location": "jwb.ts",
   "maintainers": [
     "ladeng07"

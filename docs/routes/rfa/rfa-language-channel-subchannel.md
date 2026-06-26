@@ -86,7 +86,7 @@ _None_
     {
       "description": "RFA - Powered by RSSHub",
       "errorAt": "2024-10-07T20:30:24.636Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "60960710409964544",
       "image": null,
       "ownerUserId": null,

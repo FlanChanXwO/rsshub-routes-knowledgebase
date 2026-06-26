@@ -72,7 +72,7 @@ _None_
     {
       "description": "dsbfknbsaknld - Powered by RSSHub",
       "errorAt": "2025-03-27T08:12:29.508Z",
-      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/appcloud/v1/device\": <no response> fetch failed\n[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
       "id": "60609119526982656",
       "image": null,
       "ownerUserId": "60153739071642624",

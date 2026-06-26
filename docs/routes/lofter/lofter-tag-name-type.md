@@ -91,7 +91,7 @@ _None_
     {
       "description": "写真 - 日榜 | LOFTER - Powered by RSSHub",
       "errorAt": "2025-06-07T13:34:05.279Z",
-      "errorMessage": "Lofter 用户登录后的 Cookie 值\nLofter 用户登录后的 Cookie 值\n",
+      "errorMessage": "Lofter 用户登录后的 Cookie 值\nFailed to fetch\n",
       "id": "73656500688967680",
       "image": null,
       "ownerUserId": null,

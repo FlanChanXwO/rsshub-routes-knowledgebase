@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "电子与封装 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T06:21:45.990Z",
+      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=DYFZ&Virtual=knavi\": <no response> fetch failed\n",
       "id": "159266714924499968",
       "image": null,
       "ownerUserId": null,

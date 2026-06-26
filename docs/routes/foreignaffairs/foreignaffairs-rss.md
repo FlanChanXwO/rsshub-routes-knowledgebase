@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 192,
+  "heat": 193,
   "location": "rss.ts",
   "maintainers": [
     "dzx-dzx"
@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "Foreign Affairs - RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T00:13:29.337Z",
+      "errorMessage": "Status code 403\n",
       "id": "119928653973749760",
       "image": null,
       "ownerUserId": null,

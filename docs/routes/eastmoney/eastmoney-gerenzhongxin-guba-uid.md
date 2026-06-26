@@ -88,21 +88,9 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "ST专业户ST 的东财帖子 - Powered by RSSHub",
+      "description": "人屠将军典韦 的东财帖子 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "210572184043883520",
-      "image": "https://avator.eastmoney.com/qface/5330513681136390/360",
-      "ownerUserId": null,
-      "siteUrl": "https://i.eastmoney.com/5330513681136390#guba",
-      "title": "ST专业户ST 的东财帖子",
-      "type": "feed",
-      "url": "rsshub://eastmoney/gerenzhongxin/guba/5330513681136390"
-    },
-    {
-      "description": "人屠将军典韦 的东财帖子 - Powered by RSSHub",
-      "errorAt": "2026-06-23T20:58:03.669Z",
-      "errorMessage": "500 Internal Server Error\n",
       "id": "210561879094846464",
       "image": "https://avator.eastmoney.com/qface/4097355943952560/360",
       "ownerUserId": null,
@@ -110,6 +98,18 @@ _None_
       "title": "人屠将军典韦 的东财帖子",
       "type": "feed",
       "url": "rsshub://eastmoney/gerenzhongxin/guba/4097355943952560"
+    },
+    {
+      "description": "ST股猎手 的东财帖子 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "210564751338736640",
+      "image": "https://avator.eastmoney.com/qface/6591057157855518/360",
+      "ownerUserId": null,
+      "siteUrl": "https://i.eastmoney.com/6591057157855518#guba",
+      "title": "ST股猎手 的东财帖子",
+      "type": "feed",
+      "url": "rsshub://eastmoney/gerenzhongxin/guba/6591057157855518"
     }
   ],
   "view": 0

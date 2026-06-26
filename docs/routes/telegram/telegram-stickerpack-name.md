@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "哥哥奖励自己一下 @DoO_o - Telegram Sticker Pack - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T04:21:53.605Z",
+      "errorMessage": "Telegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n502 Bad Gateway\nFailed to fetch\n",
       "id": "62283323384780800",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "人气偶像DIYgod - Telegram Sticker Pack - Powered by RSSHub",
-      "errorAt": "2026-06-24T03:04:11.899Z",
-      "errorMessage": "Telegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nTelegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59261171820798976",
       "image": null,
       "ownerUserId": null,

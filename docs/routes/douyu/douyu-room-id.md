@@ -74,10 +74,10 @@ _None_
   "topFeeds": [
     {
       "description": "寅子的斗鱼直播间 - Powered by RSSHub",
-      "errorAt": "2026-06-23T17:10:57.529Z",
-      "errorMessage": "Empty RSSHub items from 187435950575499264\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73704015177969664",
-      "image": "https://rpic.douyucdn.cn/asrpic/260623/71415_src_1633.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/260623/71415_src_1654.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/71415",
       "title": "寅子的斗鱼直播间",
@@ -86,10 +86,10 @@ _None_
     },
     {
       "description": "yyfyyf的斗鱼直播间 - Powered by RSSHub",
-      "errorAt": "2026-06-24T03:03:21.008Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62335921117247488",
-      "image": "https://rpic.douyucdn.cn/asrpic/260624/9999_src_0203.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/260625/9999_src_0610.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/9999",
       "title": "yyfyyf的斗鱼直播间",

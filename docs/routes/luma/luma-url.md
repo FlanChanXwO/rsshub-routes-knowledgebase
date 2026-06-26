@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "vLLM Meetups and Events - Powered by RSSHub",
-      "errorAt": "2026-06-17T16:07:27.094Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265967053376549888",
+      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265966889769333760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/vLLM-Meetups",
-      "title": "vLLM Meetups and Events",
+      "siteUrl": "https://lu.ma/comunidadinnovacion",
+      "title": "Comunidad de Innovación LATAM",
       "type": "feed",
-      "url": "rsshub://luma/vLLM-Meetups"
+      "url": "rsshub://luma/comunidadinnovacion"
     }
   ],
   "url": "lu.ma"

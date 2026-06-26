@@ -75,14 +75,14 @@ _None_
   "path": "/:domain/:type?/:size?",
   "topFeeds": [
     {
-      "description": "最新日韩动漫 - moduzy.net - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "最新里番动漫 - moduzy.net - Powered by RSSHub",
+      "errorAt": "2026-06-24T13:35:25.651Z",
+      "errorMessage": "[GET] \"https://moduzy.net/api.php/provide/vod?ac=detail&t=6&pagesize=30\": <no response> fetch failed\n[GET] \"https://moduzy.net/api.php/provide/vod?ac=detail&t=6&pagesize=30\": <no response> fetch failed\n",
       "id": "142620753499722752",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://moduzy.net/",
-      "title": "最新日韩动漫 - moduzy.net",
+      "title": "最新里番动漫 - moduzy.net",
       "type": "feed",
       "url": "rsshub://maccms/moduzy.net/6"
     },

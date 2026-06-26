@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "2025年4月13日、大阪・関西万博に響き渡った1万人の歌声。ベートーヴェン交響曲第九番「歓喜の歌」の大合唱は、参加者だけでなく、世界中の人々の心を揺さぶりました。 万博という特別な空間で迎えるクライマックス。彼らの歌声は、喜び、希望、そして未来へのメッセージを力強く世界に届けます。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T15:40:24.645Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "157466645136707584",
       "image": "https://statics.tver.jp/images/content/thumbnail/series/xlarge/sr5nj30c4q.jpg",
       "ownerUserId": null,

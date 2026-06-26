@@ -118,8 +118,8 @@ Member ID
   "topFeeds": [
     {
       "description": "乃木坂46 公式ブログ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T04:07:28.704Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73061681095678976",
       "image": null,
       "ownerUserId": null,

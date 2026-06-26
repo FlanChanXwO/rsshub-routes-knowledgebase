@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "浙大软件学院-国际实习 - Powered by RSSHub",
-      "errorAt": "2026-06-23T19:44:47.498Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "168412983866723328",
       "image": null,
       "ownerUserId": null,

@@ -64,8 +64,8 @@ _None_
     },
     {
       "description": "OpenRice為你搜羅香港今期既飲食熱話，絕對值得一試。 - Powered by RSSHub",
-      "errorAt": "2026-04-22T14:01:44.846Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85408863792574464",
       "image": null,
       "ownerUserId": null,

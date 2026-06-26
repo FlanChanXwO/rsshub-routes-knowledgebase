@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The kitchen sink of Chat Management - Powered by RSSHub",
+      "description": "Store numeric values of players' stats or balance, specified by a text key. -> With Folia and Multi-Server support! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583401723102208",
+      "id": "123851540339893248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/IwVOgYiT",
-      "title": "ChatManager Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/13drT7K6",
+      "title": "JustPoints Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/IwVOgYiT/versions"
+      "url": "rsshub://modrinth/project/13drT7K6/versions"
     }
   ]
 }

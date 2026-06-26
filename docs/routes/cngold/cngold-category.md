@@ -254,7 +254,7 @@
     {
       "description": "中国黄金协会 - Powered by RSSHub",
       "errorAt": "2026-01-20T07:34:08.193Z",
-      "errorMessage": "[GET] \"https://www.cngold.org.cn/news-329.html\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "78383227152557056",
       "image": "https://www.cngold.org.cn/public/images/logo.png",
       "ownerUserId": null,

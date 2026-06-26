@@ -86,7 +86,7 @@ _None_
     {
       "description": "科普快讯 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:29:39.007Z",
-      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": <no response> fetch failed\n",
       "id": "65380269087729741",
       "image": null,
       "ownerUserId": null,

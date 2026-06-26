@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": "2026-06-21T01:38:08.116Z",
-      "errorMessage": "Cooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55288652424312832",
       "image": null,
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": "2026-06-21T00:18:48.492Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nFailed to fetch\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

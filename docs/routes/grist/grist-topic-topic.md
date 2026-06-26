@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Energy Articles on grist.org - Powered by RSSHub",
+      "description": "Migration Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84843151356735488",
+      "id": "100895480425924629",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/energy",
-      "title": "Energy - Gist Articles",
+      "siteUrl": "https://grist.org/migration",
+      "title": "Migration - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/energy"
+      "url": "rsshub://grist/topic/migration"
     }
   ],
   "url": "grist.org/articles/"

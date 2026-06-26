@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "action recognition backdoor attack - Powered by RSSHub",
+      "description": "hybrid automata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "139373082832014336",
+      "id": "189147357198696448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=action+recognition+backdoor+attack&sort=0",
-      "title": "action recognition backdoor attack",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Hybrid%20automata&sort=0",
+      "title": "hybrid automata",
       "type": "feed",
-      "url": "rsshub://papers/query/action+recognition+backdoor+attack"
+      "url": "rsshub://papers/query/Hybrid%20automata"
     }
   ],
   "url": "papers.cool"

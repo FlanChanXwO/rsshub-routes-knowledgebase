@@ -90,8 +90,8 @@
     },
     {
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-24T23:07:46.562Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149823078304929792",
       "image": null,
       "ownerUserId": null,
