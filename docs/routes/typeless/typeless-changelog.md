@@ -40,7 +40,7 @@ _None_
     "program-update"
   ],
   "example": "/typeless/changelog",
-  "heat": 2,
+  "heat": 3,
   "location": "changelog.ts",
   "maintainers": [
     "TonyRL"

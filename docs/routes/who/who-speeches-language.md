@@ -79,7 +79,7 @@ Language
     {
       "description": "Speeches - WHO - Powered by RSSHub",
       "errorAt": "2025-11-18T18:06:11.847Z",
-      "errorMessage": "[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-remarks-at-the-virtual-roundtable-on-the-ebola-outbreak---12-june-2026\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "65765818076625920",
       "image": null,
       "ownerUserId": null,

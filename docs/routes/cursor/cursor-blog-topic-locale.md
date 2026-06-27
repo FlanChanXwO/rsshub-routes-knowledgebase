@@ -67,7 +67,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 40,
   "location": "blog.ts",
   "maintainers": [
     "johan456789"
@@ -107,8 +107,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates and insights from the Cursor team. Learn about AI-powered coding, product updates, and development tips. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T03:33:50.186Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "194403390016990208",
       "image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/blog/og/opengraph-blog.png",
       "ownerUserId": null,

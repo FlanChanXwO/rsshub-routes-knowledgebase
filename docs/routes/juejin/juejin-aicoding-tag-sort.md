@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 285,
+  "heat": 288,
   "location": "aicoding.ts",
   "maintainers": [
     "TonyRL"

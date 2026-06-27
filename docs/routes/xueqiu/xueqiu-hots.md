@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3629,
+  "heat": 3628,
   "location": "hots.ts",
   "maintainers": [
     "hillerliao"
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "雪球热门帖子 - Powered by RSSHub",
-      "errorAt": "2026-06-25T03:00:40.996Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 53033422584152064",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53033422584152064",
       "image": null,
       "ownerUserId": null,

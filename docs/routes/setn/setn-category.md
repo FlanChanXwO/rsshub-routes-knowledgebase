@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "三立新聞網 - 即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T23:38:23.737Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55863308067829760",
       "id": "55863308067829760",
       "image": null,
       "ownerUserId": null,
@@ -98,8 +98,8 @@
     },
     {
       "description": "三立新聞網 - 政治 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T01:03:06.318Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 88520448616402944",
       "id": "88520448616402944",
       "image": null,
       "ownerUserId": null,

@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "每天11:00更新，为你推送最新音乐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T04:19:33.517Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61348084539081728",
       "image": null,
       "ownerUserId": null,

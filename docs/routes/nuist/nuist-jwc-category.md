@@ -65,20 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72519556500486144",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.nuist.edu.cn/xxtz/kszx.htm",
-      "title": "南京信息工程大学-教务处：信息通知",
-      "type": "feed",
-      "url": "rsshub://nuist/jwc/kszx"
-    },
-    {
-      "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T22:54:23.776Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72519284425781248",
       "image": null,
       "ownerUserId": null,
@@ -86,6 +74,18 @@ _None_
       "title": "南京信息工程大学-教务处：信息通知",
       "type": "feed",
       "url": "rsshub://nuist/jwc/jwgl"
+    },
+    {
+      "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",
+      "errorAt": "2026-06-25T22:55:34.482Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "72519556500486144",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.nuist.edu.cn/xxtz/kszx.htm",
+      "title": "南京信息工程大学-教务处：信息通知",
+      "type": "feed",
+      "url": "rsshub://nuist/jwc/kszx"
     }
   ]
 }

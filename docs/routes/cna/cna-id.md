@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "想掌握中國大陸、香港、澳門即時消息，兩岸交流現況與習近平政府最新動態，反壟斷與港區國安法等重要議題，鎖定中央社兩岸新聞，掌握兩岸新趨勢。 - Powered by RSSHub",
-      "errorAt": "2026-06-25T04:21:16.080Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59799220289372160",
       "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
       "ownerUserId": null,

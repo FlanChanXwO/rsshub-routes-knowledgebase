@@ -131,8 +131,8 @@ _None_
     },
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T03:35:39.046Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "56573138387473408",
       "image": null,
       "ownerUserId": null,

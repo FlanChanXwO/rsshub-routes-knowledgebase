@@ -59,7 +59,7 @@ _None_
     {
       "description": "Voronoi Posts for \"china\" - Powered by RSSHub",
       "errorAt": "2024-10-25T10:39:27.750Z",
-      "errorMessage": "[GET] \"https://9oyi4rk426.execute-api.ca-central-1.amazonaws.com/production/post?limit=20&offset=0&search=china\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "70012973610700800",
       "image": "https://about.voronoiapp.com/wp-content/uploads/2023/07/voronoi-icon.png",
       "ownerUserId": null,

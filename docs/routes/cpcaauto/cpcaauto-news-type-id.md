@@ -376,8 +376,8 @@
   "topFeeds": [
     {
       "description": "乘用车市场信息联席会（以下简称全国乘联会，英文简称CPCA）成立于1994年，原名全国轿车市场信息联谊会。全国乘联会也是中国流通协会下属的汽车市场研究分会。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T21:37:55.340Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71481310023733248",
       "image": "http://cpcaauto.com/undefined",
       "ownerUserId": null,

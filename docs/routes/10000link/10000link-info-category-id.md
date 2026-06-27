@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "涉16.3亿元的判决落地！浙商中拓一审胜诉：赢了官司，但“德龙系”的账真能算清吗？ - Powered by RSSHub",
+      "description": "2026监管合规风暴下，供应链业务的下一个路口在哪里？企业如何跨越融资性贸易的“生死线”？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 涉16.3亿元的判决落地！浙商中拓一审胜诉：赢了官司，但“德龙系”的账真能算清吗？",
+      "title": "10000万联网 - 2026监管合规风暴下，供应链业务的下一个路口在哪里？企业如何跨越融资性贸易的“生死线”？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

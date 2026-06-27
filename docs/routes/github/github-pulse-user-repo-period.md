@@ -76,28 +76,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864790",
+      "id": "215344700650354688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
-      "title": "facebookresearch/audiocraft weekly Pulse",
+      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
+      "title": "wood3n/biu weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
+      "url": "rsshub://github/pulse/wood3n/biu"
     },
     {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.373Z",
-      "errorMessage": "[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864794",
+      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "137417584044606464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
+      "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/fun-asr/funasr/weekly"
+      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
     }
   ]
 }

@@ -38,7 +38,7 @@ _None_
     "reading"
   ],
   "description": "| 文章点击排行 | 最近更新文章 | 文章推荐排行 |\n| ------------ | ------------ | ------------ |\n| 1            | 10           | 11           |",
-  "heat": 70,
+  "heat": 69,
   "location": "toplist.ts",
   "maintainers": [
     "HenryQW",

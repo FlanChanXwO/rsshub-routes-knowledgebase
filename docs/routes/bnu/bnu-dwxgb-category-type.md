@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "新闻中心 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T03:33:50.223Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "188383956694418432",
       "image": null,
       "ownerUserId": null,

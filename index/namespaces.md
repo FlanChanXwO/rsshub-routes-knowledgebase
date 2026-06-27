@@ -7004,6 +7004,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/paulgraham.md`
 
+## Pawchive
+- Namespace: `pawchive`
+- Aliases: `pawchive, pawchive.st`
+- Route Count: `1`
+- Index File: `index/pawchive.md`
+
 ## 太平洋科技
 - Namespace: `pconline`
 - Aliases: `pconline, pconline.com.cn, 太平洋科技`

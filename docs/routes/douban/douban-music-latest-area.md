@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 3,
   "location": "other/latest-music.ts",
   "maintainers": [
     "fengkx",
@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣最新增加的音乐 - Powered by RSSHub",
-      "errorAt": "2026-06-24T20:41:50.213Z",
-      "errorMessage": "[GET] \"https://music.douban.com/latest\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "155012285947975680",
       "image": null,
       "ownerUserId": null,

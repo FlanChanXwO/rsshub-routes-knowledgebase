@@ -43,8 +43,8 @@ _None_
   "topFeeds": [
     {
       "description": "Apple News & Mac Rumors Breaking All Day - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T01:27:05.141Z",
+      "errorMessage": "[GET] \"https://9to5mac.com/2026/06/25/watchos-27-beta-2-available-now-for-apple-watch/\": <no response> fetch failed\n",
       "id": "63183844748751872",
       "image": null,
       "ownerUserId": null,

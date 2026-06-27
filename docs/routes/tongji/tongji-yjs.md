@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "同济大学研究生招生网通知公告 - Powered by RSSHub",
-      "errorAt": "2026-06-24T09:39:47.355Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68526859637876736",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

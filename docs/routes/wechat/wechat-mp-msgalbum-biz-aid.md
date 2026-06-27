@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 857,
+  "heat": 856,
   "location": "msgalbum.ts",
   "maintainers": [
     "MisteryMonster"
@@ -66,7 +66,7 @@ _None_
     {
       "description": "PaperAgent|LLM热点Paper - Powered by RSSHub",
       "errorAt": "2025-07-23T12:13:10.406Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HMZxO2qj1PgmHJ2YiR7wylooB9lvxlRYqUEp98Pg&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508552%26idx%3D2%26sn%3Dcadfdb8faa04da63abeedcc3b0e441ab\nFailed to fetch\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCRyO2qjYc0UvYyUR8D013uOwapN6_Zmf94RxBri&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508522%26idx%3D2%26sn%3D1006c54281d91da58a9b78f9b3fd7ae0\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCpyO2qj81LmNfC1VKQNLoTo7X4u_w5pVnFL3I6f&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508552%26idx%3D2%26sn%3Dcadfdb8faa04da63abeedcc3b0e441ab\n",
+      "errorMessage": "Failed to fetch\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEHEPWqjb5uGgJeysxe0AzLLMKLacwQBcUiEIT-m&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508558%26idx%3D1%26sn%3Dca73789f5252b089358aa746daa7019f\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEzEPWqjq3eeI90hW4I-o7Q-3qzRmNSjFbx5CK2L&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508558%26idx%3D1%26sn%3Dca73789f5252b089358aa746daa7019f\n",
       "id": "55818057211386897",
       "image": null,
       "ownerUserId": null,

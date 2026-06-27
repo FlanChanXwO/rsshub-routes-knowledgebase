@@ -75,16 +75,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival. - Powered by RSSHub",
+      "description": "The story centers on a little girl called Sana, who is one of the children that holds the power of \"Alice's Dream,\" an ability that enables her to materialize anything she imagines. After escaping a lab where she was a test subject, Sana ends up in a normal world where she encounters an old man named Zouroku, but will he help her? - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83016713777551360",
-      "image": "https://image.tmdb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "id": "97909208124315648",
+      "image": "https://image.tmdb.org/t/p/original/aHYmjLTc5niV7uuTBmIz4oTrSx6.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/100088/seasons",
-      "title": "The Last of Us - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70594/seasons",
+      "title": "Alice & Zoroku - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/100088/seasons"
+      "url": "rsshub://themoviedb/tv/70594/seasons"
     }
   ],
   "view": 5

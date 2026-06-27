@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
+      "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "183741893306669056",
+      "id": "119580771404221440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
-      "title": "obaby/baby-wechat Contributors",
+      "siteUrl": "https://github.com/piderking/vgmt-data/graphs/contributors",
+      "title": "piderking/vgmt-data Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/obaby/baby-wechat"
+      "url": "rsshub://github/contributors/piderking/vgmt-data"
     },
     {
-      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84430164607162368",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
-      "title": "infiniflow/ragflow Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/infiniflow/ragflow"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     }
   ]
 }

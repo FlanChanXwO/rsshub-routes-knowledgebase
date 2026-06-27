@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "hybrid automata - Powered by RSSHub",
+      "description": "trajectory prediction - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "189147357198696448",
+      "id": "191738863954954240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Hybrid%20automata&sort=0",
-      "title": "hybrid automata",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=trajectory%20prediction&sort=0",
+      "title": "trajectory prediction",
       "type": "feed",
-      "url": "rsshub://papers/query/Hybrid%20automata"
+      "url": "rsshub://papers/query/trajectory%20prediction"
     }
   ],
   "url": "papers.cool"

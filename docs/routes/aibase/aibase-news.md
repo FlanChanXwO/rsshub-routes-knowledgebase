@@ -56,7 +56,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1936,
+  "heat": 1938,
   "location": "news.ts",
   "maintainers": [
     "zreo0"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI新闻资讯 - 不错过全球AI革新的每一个时刻 - Powered by RSSHub",
-      "errorAt": "2026-06-25T03:01:24.214Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69533603812632576",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69533603812632576",
       "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
       "ownerUserId": null,

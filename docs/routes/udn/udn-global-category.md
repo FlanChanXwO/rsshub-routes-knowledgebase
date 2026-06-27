@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 101,
+  "heat": 102,
   "location": "global/index.ts",
   "maintainers": [
     "nczitzk",
@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T04:21:30.422Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/index\": 403 Forbidden\n",
       "id": "41373653871256597",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@
     },
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T17:24:24.032Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/index\": 403 Forbidden\n",
       "id": "157947335946852352",
       "image": null,
       "ownerUserId": null,

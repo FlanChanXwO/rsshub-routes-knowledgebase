@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "朝鲜中央通讯 | 新闻 | 最新新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-25T21:09:21.729Z",
+      "errorMessage": "Failed to fetch\n[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": <no response> fetch failed\n[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": <no response> fetch failed\n",
       "id": "213406943351213061",
       "image": null,
       "ownerUserId": null,

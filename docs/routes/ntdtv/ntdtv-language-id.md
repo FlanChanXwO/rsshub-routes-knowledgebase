@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "新唐人电视台 - 时政 - Powered by RSSHub",
-      "errorAt": "2026-06-25T03:01:09.060Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69975679174674432",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69975679174674432",
       "image": null,
       "ownerUserId": null,

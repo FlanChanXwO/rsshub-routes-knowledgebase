@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "停水通知 - 广州市自来水96968 - Powered by RSSHub",
-      "errorAt": "2026-06-24T12:33:48.733Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61813613930035200",
       "image": null,
       "ownerUserId": null,

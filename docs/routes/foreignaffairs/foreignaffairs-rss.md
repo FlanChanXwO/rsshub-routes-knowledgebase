@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "Foreign Affairs - RSS - Powered by RSSHub",
-      "errorAt": "2026-06-25T00:13:29.337Z",
-      "errorMessage": "Status code 403\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "119928653973749760",
       "image": null,
       "ownerUserId": null,

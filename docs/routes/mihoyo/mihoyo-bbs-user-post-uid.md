@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 星穹中心 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 狒狒哦耶 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688011032240128",
+      "id": "137393297111843840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=368830308",
-      "title": "米游社 - 星穹中心 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=11316600",
+      "title": "米游社 - 狒狒哦耶 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/368830308"
+      "url": "rsshub://mihoyo/bbs/user-post/11316600"
     },
     {
-      "description": "米游社 - 円学 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688151528841216",
+      "id": "169381097732121600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158501436",
-      "title": "米游社 - 円学 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
+      "title": "米游社 - 初代 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/158501436"
+      "url": "rsshub://mihoyo/bbs/user-post/76089447"
     }
   ]
 }

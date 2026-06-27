@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "得到 - 知识城邦 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T04:02:39.394Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "102156742857121792",
       "image": null,
       "ownerUserId": null,

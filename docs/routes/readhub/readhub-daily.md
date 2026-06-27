@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4757,
+  "heat": 4760,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 豆包正式上线三档付费订阅服务：最高 500 元 / 月，接入 2.1 系列大模型 2. OpenAI 和博通发布 AI 芯片，旨在更快、更经济地运行模型 3. 阿里巴巴起诉美国国防部 要求移出「军事企业清单」 4. 消息称苹果将于 7 月下旬量产首款可折叠 iPhone 5. 俞浩：追觅核心管理团队非常稳定，希望把员工都培养成乔布斯 6. 谷歌另外两名主要的 AI 员工恐将跳槽至 Anthropic 7. 谷歌将 Gemini 3.5 Pro 发布日期推后至 7 月份 8. SK 海力士已提交美国 IPO 申请 9. 三星或将宣布回购 90 万亿韩元股票 10. SpaceX 拟通过债市募资 250 亿美元 认购需求显示市场心态谨慎 - Powered by RSSHub",
+      "description": "1. 苹果提高 Mac、iPad 等产品价格，以应对内存短缺 2. Anthropic 指控阿里巴巴实施大规模 AI 模型蒸馏攻击 3. 阿里巴巴证实：已起诉美国防部 4. Claude Code 升级为 Claude Tag，定位为更主动、擅长团队协作的企业协作工具 5. 谷歌将 Gemini 3.5 Pro 发布日期推后至 7 月份 6. 谷歌再失 AI 人才，两名 Gemini 核心骨干转投 Anthropic 7. IBM 发布全球首款亚纳米芯片技术 8. 陈航卸任钉钉相关职务 9. 黄仁勋股东大会放言：本轮 AI 基建周期长达数十年 10. OpenAI 再次升级 GPT-5.5 Instant AI：更具洞察力，购物推荐更实用 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

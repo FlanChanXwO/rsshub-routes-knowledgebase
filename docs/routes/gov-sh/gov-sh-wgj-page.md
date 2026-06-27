@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海市文化和旅游局 - Powered by RSSHub",
-      "errorAt": "2026-06-24T19:19:03.848Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71029156450169856",
       "image": null,
       "ownerUserId": null,
