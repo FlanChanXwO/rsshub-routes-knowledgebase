@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "$老高與小茉 Mr & Mrs Gao's live streaming status - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:31:22.613Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69051964046186496",
       "image": null,
       "ownerUserId": null,

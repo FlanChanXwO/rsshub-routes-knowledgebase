@@ -85,7 +85,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://readhub.cn/hot",
-      "title": "24 小时热榜 - Readhub - 排行榜",
+      "title": "Readhub 24 小时热榜 - 排行榜",
       "type": "feed",
       "url": "rsshub://readhub/hot"
     }

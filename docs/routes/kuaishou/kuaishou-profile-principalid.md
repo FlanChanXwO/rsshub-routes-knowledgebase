@@ -74,16 +74,16 @@ _None_
       "url": "rsshub://kuaishou/profile/youbao5266"
     },
     {
-      "description": "3xw463s7rmss5j4的作品 - 快手 - Powered by RSSHub",
-      "errorAt": "2025-05-27T16:33:05.256Z",
+      "description": "再无晚安了8 - Powered by RSSHub",
+      "errorAt": "2025-03-17T13:35:14.200Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "93150499282584576",
+      "id": "124386287235780608",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "3xw463s7rmss5j4的作品 - 快手",
+      "title": "再无晚安了8",
       "type": "feed",
-      "url": "rsshub://kuaishou/profile/3xw463s7rmss5j4"
+      "url": "rsshub://kuaishou/profile/hmy2053629"
     }
   ],
   "url": "kuaishou.com/profile/:principalId"

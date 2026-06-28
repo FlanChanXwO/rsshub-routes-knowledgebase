@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 全部 | 最新   | 公告         | 活动     | 新闻 |\n| ---- | ------ | ------------ | -------- | ---- |\n| ALL  | LATEST | ANNOUNCEMENT | ACTIVITY | NEWS |",
   "example": "/hypergryph/arknights/news",
-  "heat": 19,
+  "heat": 20,
   "location": "arknights/news.ts",
   "maintainers": [
     "Astrian"
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "《明日方舟》游戏公告与新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:31:57.949Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56948849407992834",
       "image": null,
       "ownerUserId": null,

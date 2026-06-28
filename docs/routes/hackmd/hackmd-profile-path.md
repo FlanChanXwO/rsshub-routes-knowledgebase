@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "sysprog's profile on HackMD - Powered by RSSHub",
-      "errorAt": "2026-06-26T04:08:56.636Z",
-      "errorMessage": "[GET] \"https://hackmd.io/api/@sysprog/overview\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "120745707634072576",
       "image": null,
       "ownerUserId": null,

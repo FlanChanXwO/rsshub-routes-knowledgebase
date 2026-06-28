@@ -84,7 +84,7 @@
     {
       "description": "通知公告 - 事业单位考试 - Powered by RSSHub",
       "errorAt": "2026-02-06T05:27:14.779Z",
-      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/67\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "178439059880655872",
       "image": null,
       "ownerUserId": null,
@@ -94,16 +94,16 @@
       "url": "rsshub://scpta/news/67"
     },
     {
-      "description": "通知公告 - 公务员考试 - Powered by RSSHub",
-      "errorAt": "2026-02-01T16:35:50.258Z",
-      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/56\": <no response> fetch failed\n",
-      "id": "178439737513011200",
+      "description": "通知公告 - 工作动态 - Powered by RSSHub",
+      "errorAt": "2026-02-06T08:05:22.521Z",
+      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/33\": <no response> fetch failed\n",
+      "id": "178439478979079168",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.scpta.com.cn/front/News/List/56",
-      "title": "通知公告 - 公务员考试",
+      "siteUrl": "https://www.scpta.com.cn/front/News/List/33",
+      "title": "通知公告 - 工作动态",
       "type": "feed",
-      "url": "rsshub://scpta/news/56"
+      "url": "rsshub://scpta/news/33"
     }
   ]
 }

@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "中国科学技术大学教务处 - 信息类通知 - Powered by RSSHub",
-      "errorAt": "2026-06-24T18:52:06.392Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "90608551157130240",
       "image": null,
       "ownerUserId": null,

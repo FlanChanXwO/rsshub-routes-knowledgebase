@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "性趣贴图 cool18 酷18 - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:30:39.363Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 154611732391264308",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "154611732391264308",
       "image": null,
       "ownerUserId": null,

@@ -123,7 +123,7 @@ _None_
   "topFeeds": [
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- July 05, 2026 - Powered by RSSHub",
-      "errorAt": "2026-06-26T02:36:46.568Z",
+      "errorAt": "2026-06-27T01:17:06.053Z",
       "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
       "id": "56271356825466880",
       "image": null,
@@ -135,8 +135,8 @@ _None_
     },
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 05, 2026 - Powered by RSSHub",
-      "errorAt": "2026-06-25T12:49:43.400Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,

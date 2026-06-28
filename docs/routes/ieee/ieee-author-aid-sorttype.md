@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "Boyu Teng received the B.S. degree in communication engineering from the University of Electronic Science and Technology of China, Chengdu, China, in 2021, where he is currently pursuing the Ph.D. degree in information and communication engineering with the National Key Laboratory of Wireless Communications. His research interests include statistical signal processing, wireless communications, and integrated sensing and communication. - Powered by RSSHub",
-      "errorAt": "2026-06-25T22:57:11.137Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "124835318842234880",
       "image": "https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/7693/11298242/11466437/teng-3677561-small.gif",
       "ownerUserId": null,

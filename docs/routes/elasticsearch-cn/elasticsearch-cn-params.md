@@ -90,8 +90,8 @@
     },
     {
       "description": "Elasticsearch - 搜索客，搜索人自己的社区 - Powered by RSSHub",
-      "errorAt": "2026-06-25T22:56:05.578Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75540489377172480",
       "image": null,
       "ownerUserId": null,

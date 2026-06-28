@@ -39,7 +39,7 @@
 - Route Path: `/pornhub/pornstar/:username/:language?/:sort?/:img?`
 - File: `docs/routes/pornhub/pornhub-pornstar-username-language-sort-img.md`
 - File Name: `pornhub-pornstar-username-language-sort-img.md`
-- Categories: `multimedia, popular`
+- Categories: `multimedia`
 - Maintainers: `I2IMk, queensferryme`
 
 ### Keyword Search

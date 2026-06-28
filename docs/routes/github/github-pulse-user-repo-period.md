@@ -76,16 +76,16 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215344700650354688",
+      "id": "215345311459391488",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": "https://github.com/massCodeIO/massCode/pulse/weekly",
+      "title": "massCodeIO/massCode weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/massCodeIO/massCode"
     },
     {
       "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",

@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "Deutsche Welle: DW-WORLD.DE - Powered by RSSHub",
-      "errorAt": "2026-06-25T22:55:08.435Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80330476301410304",
       "image": null,
       "ownerUserId": null,

@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "News Archive | Vertikal.net - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T21:53:17.352Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "79356801955422208",
       "image": "https://vertikal.net/apple-touch-icon-152x152.png",
       "ownerUserId": null,

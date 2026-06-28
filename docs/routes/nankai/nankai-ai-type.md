@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "南开大学人工智能学院-最新动态 - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:32:39.107Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "188273958932923392",
       "image": null,
       "ownerUserId": null,

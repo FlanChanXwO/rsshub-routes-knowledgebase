@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Announcement list from Binance message center with language and type selection.",
   "example": "/binance/announcement/new-cryptocurrency-listing",
-  "heat": 1721,
+  "heat": 1722,
   "location": "announcement.ts",
   "maintainers": [
     "enpitsulin",
@@ -131,8 +131,8 @@ _None_
     },
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:35:39.046Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56573138387473408",
       "image": null,
       "ownerUserId": null,

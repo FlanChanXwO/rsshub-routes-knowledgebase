@@ -36,7 +36,7 @@ _None_
     "other"
   ],
   "example": "/afdian/dynamic/@afdian",
-  "heat": 38,
+  "heat": 39,
   "location": "dynamic.ts",
   "maintainers": [
     "sanmmm"

@@ -137,8 +137,8 @@ Support for announcements and fancards:
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T10:52:01.254Z",
+      "errorMessage": "Failed to fetch data from Kemono: [GET] \"https://kemono.cr/api/v1/posts\": <no response> fetch failed\n",
       "id": "59871541870611456",
       "image": "https://kemono.cr/favicon.ico",
       "ownerUserId": null,
@@ -149,8 +149,8 @@ Support for announcements and fancards:
     },
     {
       "description": "Posts of DaB_neko from patreon | Kemono - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-26T12:47:35.837Z",
+      "errorMessage": "Failed to fetch data from Kemono: [GET] \"https://kemono.cr/api/v1/patreon/user/73991224/posts\": <no response> fetch failed\nFailed to fetch data from Kemono: [GET] \"https://kemono.cr/api/v1/patreon/user/73991224/posts\": <no response> fetch failed\n",
       "id": "72301922403997696",
       "image": "https://img.kemono.cr/icons/patreon/73991224",
       "ownerUserId": null,

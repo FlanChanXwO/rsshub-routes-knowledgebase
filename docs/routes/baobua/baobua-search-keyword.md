@@ -74,7 +74,7 @@ _None_
     {
       "description": "BaoBua - Search: cos - Powered by RSSHub",
       "errorAt": "2025-09-16T08:49:09.640Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Unexpected end of JSON input\n",
       "id": "131498387978345472",
       "image": null,
       "ownerUserId": null,

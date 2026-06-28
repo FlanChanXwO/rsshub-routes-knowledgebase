@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-| 公告         | 新闻 | 研报     |
-| ------------ | ---- | -------- |
-| announcement | news | research |
+| 全部 | 讨论    | 交易  | 资讯 | 公告         |
+| ---- | ------- | ----- | ---- | ------------ |
+| all  | discuss | trans | news | announcement |
 
 ## Parameters
 - `id`: 股票代码（需要带上交易所）
@@ -29,7 +29,7 @@
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -47,10 +47,10 @@
   "categories": [
     "finance"
   ],
-  "description": "| 公告         | 新闻 | 研报     |\n| ------------ | ---- | -------- |\n| announcement | news | research |",
+  "description": "| 全部 | 讨论    | 交易  | 资讯 | 公告         |\n| ---- | ------- | ----- | ---- | ------------ |\n| all  | discuss | trans | news | announcement |",
   "example": "/xueqiu/stock_info/SZ000002",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,

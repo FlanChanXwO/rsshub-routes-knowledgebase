@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": "2026-06-26T02:16:04.817Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/makers/7R\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,

@@ -47,7 +47,7 @@ _None_
       }
     ]
   },
-  "heat": 38,
+  "heat": 37,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin",

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 512,
+  "heat": 510,
   "location": "latest.ts",
   "maintainers": [
     "shinemoon"

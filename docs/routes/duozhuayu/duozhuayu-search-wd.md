@@ -72,7 +72,7 @@ _None_
     {
       "description": "多抓鱼搜索-e.g.JavaScript - Powered by RSSHub",
       "errorAt": "2026-04-10T11:02:40.690Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://www.duozhuayu.com/api/search/book?type=normal&q=e.g.JavaScript\": 401 Unauthorized\n",
       "id": "169279781328462848",
       "image": null,
       "ownerUserId": null,

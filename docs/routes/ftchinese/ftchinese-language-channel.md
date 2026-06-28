@@ -62,7 +62,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 977,
+  "heat": 978,
   "location": "channel.ts",
   "maintainers": [
     "HenryQW",
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
-      "errorAt": "2026-06-21T04:14:59.924Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'title')\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nCannot read properties of undefined (reading 'title')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41377818806739968",
       "image": null,
       "ownerUserId": null,

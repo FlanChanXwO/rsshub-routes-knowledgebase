@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:34:29.435Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "242891845605645312",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
-      "errorAt": "2026-06-26T03:33:19.521Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "242895914631755776",
       "image": null,
       "ownerUserId": null,

@@ -65,7 +65,7 @@ _None_
     {
       "description": "1kx is a crypto investment firm that specializes in ecosystem growth. - Powered by RSSHub",
       "errorAt": "2025-07-20T17:41:15.723Z",
-      "errorMessage": "[GET] \"https://mirror.xyz/1kx.eth\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41477723842378786",
       "image": "https://images.mirror-media.xyz/publication-images/1FwtVSORzEXfclP8xyoED.png?height=400&width=400",
       "ownerUserId": null,

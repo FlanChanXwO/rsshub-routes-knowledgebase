@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "zzz/news.ts",
   "maintainers": [
     "Yeye-0426"

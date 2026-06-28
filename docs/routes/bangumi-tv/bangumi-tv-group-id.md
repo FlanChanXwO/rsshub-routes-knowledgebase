@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Bangumi - 靠谱人生茶话会 - Powered by RSSHub",
-      "errorAt": "2026-06-26T04:15:53.614Z",
-      "errorMessage": "[GET] \"https://bgm.tv/group/topic/464803\": 502 Bad Gateway\n[GET] \"https://bgm.tv/group/boring/forum\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72563300550000640",
       "image": null,
       "ownerUserId": null,

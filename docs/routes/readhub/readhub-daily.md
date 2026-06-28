@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4760,
+  "heat": 4762,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 苹果提高 Mac、iPad 等产品价格，以应对内存短缺 2. Anthropic 指控阿里巴巴实施大规模 AI 模型蒸馏攻击 3. 阿里巴巴证实：已起诉美国防部 4. Claude Code 升级为 Claude Tag，定位为更主动、擅长团队协作的企业协作工具 5. 谷歌将 Gemini 3.5 Pro 发布日期推后至 7 月份 6. 谷歌再失 AI 人才，两名 Gemini 核心骨干转投 Anthropic 7. IBM 发布全球首款亚纳米芯片技术 8. 陈航卸任钉钉相关职务 9. 黄仁勋股东大会放言：本轮 AI 基建周期长达数十年 10. OpenAI 再次升级 GPT-5.5 Instant AI：更具洞察力，购物推荐更实用 - Powered by RSSHub",
+      "description": "1. OpenAI 开始对 GPT-5.6 系列进行限量预览 2. 美国政府要求 OpenAI 分阶段发布最新模型 GPT-5.6 3. DeepSeek 发布招聘公告：正努力将所有部门规模扩大至少一倍 4. 美光暗指苹果对内存供应短缺局面负有责任：此前以极低价囤积内存导致行业惨淡 5. 苹果 Vision Pro 和智能眼镜部门主管将转投 OpenAI 6. OpenAI 倾向于等到明年再进行 IPO 7. 美团 CEO 王兴：美团成立至今，个人一股没卖 8. 大搜车正式登陆纳斯达克：中国企业今年首个美股 IPO 9. 小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人 10. 乐奇 Rokid 推出首款智能眼镜操作系统 YodaOS 11. 欧盟就 Anthropic 的 AI 模型访问权限与白宫进行讨论 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

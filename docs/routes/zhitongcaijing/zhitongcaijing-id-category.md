@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
-      "errorAt": "2026-03-19T02:57:38.489Z",
-      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,

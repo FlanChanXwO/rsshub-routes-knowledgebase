@@ -39,7 +39,7 @@ _None_
     "programming"
   ],
   "example": "/baai/hub/events",
-  "heat": 25,
+  "heat": 26,
   "location": "events.ts",
   "maintainers": [
     "TonyRL"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 9,
   "location": "jwc.ts",
   "maintainers": [
     "ShadowySpirits"

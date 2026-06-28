@@ -56,7 +56,7 @@ _None_
     {
       "description": "Leading 3D printing model community for designers and makers. Download thousands of 3D models and stl models for free, and your No.1 option for multicolor 3D models - Powered by RSSHub",
       "errorAt": "2025-11-26T09:55:42.967Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://makerworld.com/en\": 403 Forbidden\n",
       "id": "159773156338176000",
       "image": "https://makerworld.com/favicon_new.png",
       "ownerUserId": null,

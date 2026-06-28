@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "2026监管合规风暴下，供应链业务的下一个路口在哪里？企业如何跨越融资性贸易的“生死线”？ - Powered by RSSHub",
+      "description": "融资平台假退出、债务穿马甲，金融内卷、国资沉睡……2025审计报告刺破经济“虚火”！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 2026监管合规风暴下，供应链业务的下一个路口在哪里？企业如何跨越融资性贸易的“生死线”？",
+      "title": "10000万联网 - 融资平台假退出、债务穿马甲，金融内卷、国资沉睡……2025审计报告刺破经济“虚火”！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

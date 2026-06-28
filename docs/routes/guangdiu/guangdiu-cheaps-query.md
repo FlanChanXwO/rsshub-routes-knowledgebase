@@ -63,7 +63,7 @@ _None_
     {
       "description": "逛丢 - 九块九 - Powered by RSSHub",
       "errorAt": "2026-01-14T18:34:19.387Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "65670452855599112",
       "image": null,
       "ownerUserId": null,

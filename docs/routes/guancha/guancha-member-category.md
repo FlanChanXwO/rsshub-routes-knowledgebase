@@ -88,8 +88,8 @@
     },
     {
       "description": "观学院 - 精选 - Powered by RSSHub",
-      "errorAt": "2026-06-25T22:56:40.651Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153011740197426176",
       "image": null,
       "ownerUserId": null,
