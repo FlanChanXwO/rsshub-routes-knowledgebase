@@ -92,7 +92,7 @@ _None_
     {
       "description": "品玩 - 电子书 - Powered by RSSHub",
       "errorAt": "2026-05-25T11:32:16.079Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=1326&type=0\": 405 Not Allowed\n",
       "id": "121129408988533760",
       "image": null,
       "ownerUserId": null,

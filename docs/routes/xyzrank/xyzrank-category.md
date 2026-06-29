@@ -38,7 +38,7 @@ _None_
   "categories": [
     "other"
   ],
-  "heat": 735,
+  "heat": 734,
   "location": "index.tsx",
   "maintainers": [],
   "name": "Unknown",

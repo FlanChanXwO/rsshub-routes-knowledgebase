@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 141,
+  "heat": 140,
   "location": "article.ts",
   "maintainers": [
     "xfangbao"

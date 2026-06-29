@@ -181,8 +181,8 @@
     },
     {
       "description": "哲学·文明-萃嶺网 - Powered by RSSHub",
-      "errorAt": "2026-06-26T21:52:46.912Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84053236632059904",
       "image": "https://www.cuilingmag.com/cuiling/icon/latest-logo.svg",
       "ownerUserId": null,

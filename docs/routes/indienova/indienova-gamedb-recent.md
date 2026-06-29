@@ -46,7 +46,7 @@ _None_
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
       "errorAt": "2026-06-26T07:59:11.288Z",
-      "errorMessage": "[GET] \"https://indienova.com/game/toshiue-kanojo-2\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

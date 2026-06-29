@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "招聘信息 - 中南大学就业信息网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-27T19:38:19.710Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "115331624252645376",
       "image": null,
       "ownerUserId": null,

@@ -38,7 +38,7 @@ _None_
     "bbs"
   ],
   "example": "/loongarch/post/newest",
-  "heat": 19,
+  "heat": 20,
   "location": "post.ts",
   "maintainers": [
     "ladeng07",

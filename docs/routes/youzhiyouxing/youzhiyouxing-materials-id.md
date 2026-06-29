@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3000,
+  "heat": 2999,
   "location": "materials.ts",
   "maintainers": [
     "broven",

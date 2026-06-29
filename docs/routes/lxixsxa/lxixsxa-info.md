@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Let's see what is new about LiSA. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-27T22:17:14.964Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59094487430451200",
       "image": null,
       "ownerUserId": null,

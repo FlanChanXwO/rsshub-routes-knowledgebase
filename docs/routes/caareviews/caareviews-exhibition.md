@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Exhibition Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-28T03:40:25.092Z",
+      "errorMessage": "[GET] \"http://www.caareviews.org/reviews/exhibition\": 500 Internal Server Error\n",
       "id": "56552299003210752",
       "image": null,
       "ownerUserId": null,

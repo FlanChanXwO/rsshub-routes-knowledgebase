@@ -70,14 +70,14 @@ _None_
   "path": "/:channel",
   "topFeeds": [
     {
-      "description": "新快报新快网 - - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "新快报新快网 - 首页 - Powered by RSSHub",
+      "errorAt": "2026-06-27T21:37:32.632Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59112290766065664",
       "id": "59112290766065664",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.xkb.com.cn/home?id=350",
-      "title": "新快报新快网 -",
+      "title": "新快报新快网 - 首页",
       "type": "feed",
       "url": "rsshub://xkb/350"
     },

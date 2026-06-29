@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/06/26/is-too-much-sleep-as-bad-as-too-little\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/06/27/europe-cant-stand-the-heat\": 403 Forbidden\n[GET] \"https://www.economist.com/culture/2026/06/26/five-of-the-best-summer-songs\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

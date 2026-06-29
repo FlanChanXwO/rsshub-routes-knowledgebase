@@ -11,7 +11,7 @@
 - Example: `/pornhub/pornstar/june-liu/www/mr`
 - URL: `pornhub.com`
 - Language: `_None_`
-- Categories: `multimedia`
+- Categories: `multimedia, popular`
 - Maintainers: `I2IMk, queensferryme`
 - Source Location: `pornstar.ts`
 - Source Module: `_None_`
@@ -101,7 +101,8 @@ _None_
 ```json
 {
   "categories": [
-    "multimedia"
+    "multimedia",
+    "popular"
   ],
   "example": "/pornhub/pornstar/june-liu/www/mr",
   "features": {
@@ -113,7 +114,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 883,
+  "heat": 2680,
   "location": "pornstar.ts",
   "maintainers": [
     "I2IMk",
@@ -290,28 +291,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "About Hi, I'm a Korean girl! 23 years old - Powered by RSSHub",
+      "description": "About Get all my videos on https://onlyfans.com/juneliu ❤️ or on Spicy-Gum.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "62534515745689600",
-      "image": "https://ei.phprcdn.com/(m=bLWsSeKlbyaT)(mh=URsNE9MitabJ-6Qp)aa0291a2-3441-4a60-8cb0-029dd2f53c6c.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/pornstar/elle-lee/videos?o=mr",
-      "title": "Elle Lee",
-      "type": "feed",
-      "url": "rsshub://pornhub/pornstar/elle-lee"
-    },
-    {
-      "description": "About Get all my videos on https://onlyfans.com/juneliu ❤️ or on Spicy-Gum.com - Powered by RSSHub",
-      "errorAt": "2026-06-27T04:16:28.952Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "62519441963971584",
+      "id": "60754322953807872",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=pKI7W133KHu0uEPf)5dbc36b7-71ee-42c2-b5bb-1a51c7e2f8cc.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.pornhub.com/pornstar/june-liu/videos?o=mr",
       "title": "June Liu",
       "type": "feed",
-      "url": "rsshub://pornhub/pornstar/june-liu/www/mr"
+      "url": "rsshub://pornhub/pornstar/june-liu"
+    },
+    {
+      "description": "About Hi, I'm a Korean girl! 23 years old - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62534515745689600",
+      "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=URsNE9MitabJ-6Qp)aa0291a2-3441-4a60-8cb0-029dd2f53c6c.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.pornhub.com/pornstar/elle-lee/videos?o=mr",
+      "title": "Elle Lee",
+      "type": "feed",
+      "url": "rsshub://pornhub/pornstar/elle-lee"
     }
   ],
   "view": 3

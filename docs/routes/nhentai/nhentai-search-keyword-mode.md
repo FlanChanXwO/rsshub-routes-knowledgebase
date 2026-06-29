@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "nhentai - search - chinese+stockings - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-27T20:27:27.044Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://nhentai.net/search/?q=chinese+stockings\": 451 Unavailable For Legal Reasons\n",
       "id": "54875188593719296",
       "image": null,
       "ownerUserId": null,

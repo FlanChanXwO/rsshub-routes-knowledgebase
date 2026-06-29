@@ -73,13 +73,13 @@ _None_
   "topFeeds": [
     {
       "description": "Lead Editor: Esteban Rossi-Hansberg Editors: John Asker, Andrew Atkeson, Leonardo Bursztyn, Gabriel Carroll, Melissa Dell, David Lagakos, Guido Lorenzoni, Francesca Molinari, Luigi Pistaferri, Bruno Strulovici, Christopher Taber, Christopher Walters - Powered by RSSHub",
-      "errorAt": "2026-06-25T12:52:43.417Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74375516441159680",
-      "image": "https://www.journals.uchicago.edu/cms/asset/531cc51e-483c-44ea-b14d-23dcdcec4b52/jpe.2026.134.issue-6.cover.png",
+      "image": "https://www.journals.uchicago.edu/cms/asset/cbf24731-85ef-41cf-8559-e373014c64bf/jpe.2026.134.issue-7.cover.png",
       "ownerUserId": null,
       "siteUrl": "https://www.journals.uchicago.edu/toc/jpe/current",
-      "title": "Journal of Political Economy | Vol 134, No 6",
+      "title": "Journal of Political Economy | Vol 134, No 7",
       "type": "feed",
       "url": "rsshub://uchicago/journals/current/jpe"
     },

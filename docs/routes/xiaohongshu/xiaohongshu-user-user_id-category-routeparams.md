@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1397903,
+  "heat": 1397901,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -98,8 +98,8 @@ _None_
   "topFeeds": [
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 3 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
-      "errorAt": "2026-06-26T18:49:51.335Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot destructure property 'userPageData' of 'a.user' as it is undefined.\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
+      "errorAt": "2026-06-27T21:45:33.993Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot read properties of undefined (reading 'user')\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,
@@ -111,7 +111,7 @@ _None_
     {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\nCannot read properties of undefined (reading 'nickname')\n",
       "id": "68661468126774272",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q8atfr8n6005p9bl8hqmi9p1q1h18o?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

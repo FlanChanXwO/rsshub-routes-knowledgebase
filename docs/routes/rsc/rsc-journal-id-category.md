@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Energy & Environmental Science - Powered by RSSHub",
-      "errorAt": "2026-06-27T04:03:38.694Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "159483253180956672",
       "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ee&imageInfo.ImageIdentifier.IssueId=EE019012&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,

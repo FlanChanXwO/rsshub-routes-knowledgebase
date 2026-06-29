@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "王海的知乎想法 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-27T10:29:22.098Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'target')\n",
       "id": "108005640078193664",
       "image": null,
       "ownerUserId": null,

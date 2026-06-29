@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
-      "errorAt": "2026-05-26T22:11:47.160Z",
+      "description": "YieldNest - Powered by RSSHub",
+      "errorAt": "2024-09-19T13:27:52.604Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265966867461735424",
+      "id": "59033014318436352",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/sgbogota",
-      "title": "Bogota Events powered by Startup Grind",
+      "siteUrl": "https://lu.ma/yieldnest",
+      "title": "YieldNest",
       "type": "feed",
-      "url": "rsshub://luma/sgbogota"
+      "url": "rsshub://luma/yieldnest"
     }
   ],
   "url": "lu.ma"

@@ -99,28 +99,28 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:56.791Z",
+      "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T01:18:15.664Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185695342945072128",
+      "id": "185693700405294080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
-      "title": "goexec releases",
+      "siteUrl": "https://api.github.com/repos/chainreactors/malice-network/releases",
+      "title": "IOM releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fmalice-network%2Freleases/title=IOM%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:59.470Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185694935800580096",
+      "description": "Proxy https://www.jiqizhixin.com/api/article_library/articles.json - Powered by RSSHub",
+      "errorAt": "2026-01-20T06:27:28.930Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "id": "207824007092203520",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
-      "title": "ldapx releases",
+      "siteUrl": "https://www.jiqizhixin.com/api/article_library/articles.json",
+      "title": "机器之心",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fwww.jiqizhixin.com%2Fapi%2Farticle_library%2Farticles.json/title%3D%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83%26item%3Darticles%26itemTitle%3Dtitle%26itemLink%3Dslug%26itemLinkPrefix%3D%2Farticles%2F%26itemDesc%3Dcontent%26itemPubDate%3DpublishedAt%26itemContent%3Dcontent%26itemJSONPrefix%3D%2Fapi%2Farticle_library%2Farticles%2F"
     }
   ]
 }

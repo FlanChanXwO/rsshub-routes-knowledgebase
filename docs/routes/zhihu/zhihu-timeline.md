@@ -69,7 +69,7 @@ _None_
     {
       "description": "知乎关注动态 - Powered by RSSHub",
       "errorAt": "2025-03-15T20:29:03.878Z",
-      "errorMessage": "缺少知乎用户登录后的 Cookie 值\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "122563562492618752",
       "image": null,
       "ownerUserId": null,

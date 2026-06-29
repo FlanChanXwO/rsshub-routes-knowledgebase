@@ -58,7 +58,6 @@ _None_
     "mobyw"
   ],
   "name": "自动化工程学院",
-  "parameters": {},
   "path": "/auto",
   "radar": [
     {

@@ -70,7 +70,7 @@ _None_
     {
       "description": "搜你所想 - Powered by RSSHub",
       "errorAt": "2025-03-16T17:13:31.266Z",
-      "errorMessage": "[POST] \"https://open.zhubai.wiki/a/zb/s/ht/pl/wk\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "41711137201820672",
       "image": "https://www.zhubai.wiki/public/logo512.png",
       "ownerUserId": null,

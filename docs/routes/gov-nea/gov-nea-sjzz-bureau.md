@@ -132,7 +132,7 @@ _None_
     {
       "description": "国家能源局 - 发展规划司工作进展 - Powered by RSSHub",
       "errorAt": "2025-09-12T15:00:21.335Z",
-      "errorMessage": "200 OK",
+      "errorMessage": "Failed to fetch\n",
       "id": "61217794276645888",
       "image": null,
       "ownerUserId": null,

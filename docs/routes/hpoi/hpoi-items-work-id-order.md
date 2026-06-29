@@ -106,7 +106,7 @@ _None_
     {
       "description": "Hpoi 手办维基 - 作品周边 11 - Powered by RSSHub",
       "errorAt": "2024-11-25T08:28:05.557Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "75791441767584768",
       "image": null,
       "ownerUserId": null,
