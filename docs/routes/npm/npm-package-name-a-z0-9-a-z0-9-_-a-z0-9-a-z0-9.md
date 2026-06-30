@@ -54,18 +54,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "typescript - npm - Powered by RSSHub",
-      "errorAt": "2026-06-27T19:36:43.162Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "115376694953118720",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/typescript",
-      "title": "typescript - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/typescript"
-    },
-    {
       "description": "nocodb - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -76,6 +64,18 @@ _None_
       "title": "nocodb - npm",
       "type": "feed",
       "url": "rsshub://npm/package/nocodb"
+    },
+    {
+      "description": "vite - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "175925939002251264",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/vite",
+      "title": "vite - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/vite"
     }
   ]
 }

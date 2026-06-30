@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 数码分区 最热视频 - Powered by RSSHub",
-      "errorAt": "2026-06-28T03:44:04.987Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63858618178298888",
       "image": null,
       "ownerUserId": null,
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "bilibili 极客DIY分区 最热视频 - Powered by RSSHub",
-      "errorAt": "2026-06-28T03:06:21.424Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70095114504796160",
       "image": null,
       "ownerUserId": null,

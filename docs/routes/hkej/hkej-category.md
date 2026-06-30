@@ -86,7 +86,7 @@
     },
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": "2026-06-27T19:39:17.233Z",
+      "errorAt": "2026-06-28T13:33:38.565Z",
       "errorMessage": "Failed to fetch\n",
       "id": "155622231834300416",
       "image": null,

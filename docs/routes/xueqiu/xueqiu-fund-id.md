@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "基金代码 019305 <br> 今日净值(2026-06-25) ¥1.6314 <br> 日跌跌 -0.01225791% - Powered by RSSHub",
-      "errorAt": "2026-06-28T00:10:19.037Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64899751385970688",
       "image": null,
       "ownerUserId": null,

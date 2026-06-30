@@ -61,28 +61,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
-      "errorAt": "2025-11-26T14:00:44.455Z",
+      "description": "Timeline - Emilia Cantor - Powered by RSSHub",
+      "errorAt": "2025-11-26T13:56:52.009Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384139525444608",
-      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
+      "id": "127386620806396928",
+      "image": "https://cdn.cara.app/production/profiles/1b141d8a-1c2d-46d7-8f24-ce74f14907be/B5C13DC8-F4EF-434D-8228-168A280EF68F.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/rodrigogsousa/all",
-      "title": "Timeline - Rodrigo Goulao de Sousa",
+      "siteUrl": "https://cara.app/emiliacantor/all",
+      "title": "Timeline - Emilia Cantor",
       "type": "feed",
-      "url": "rsshub://cara/timeline/rodrigogsousa"
+      "url": "rsshub://cara/timeline/emiliacantor"
     },
     {
-      "description": "Timeline - StainedRaven - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:48:02.059Z",
+      "description": "Timeline - Britney Thoreson - Powered by RSSHub",
+      "errorAt": "2025-11-26T13:58:42.378Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127389161552182272",
-      "image": "https://cdn.cara.app/production/profiles/cde28ab4-5d8c-4605-bfda-a77a75547977/303e63fc-08c1-4889-a9ac-785a604dc2a2.jpg",
+      "id": "127384563223460864",
+      "image": "https://cdn.cara.app/production/profiles/1b09ec83-f0f8-4d52-ac03-99610774aefc/0000471C-4233-4967-A20B-6ACE30C7A8B3.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/stainedraven/all",
-      "title": "Timeline - StainedRaven",
+      "siteUrl": "https://cara.app/britneythoresonart/all",
+      "title": "Timeline - Britney Thoreson",
       "type": "feed",
-      "url": "rsshub://cara/timeline/stainedraven"
+      "url": "rsshub://cara/timeline/britneythoresonart"
     }
   ]
 }

@@ -63,18 +63,6 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-24T05:52:29.901Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=ryan_knight_12\": 403 Forbidden\n",
-      "id": "86949667680527360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=ryan_knight_12",
-      "title": "ryan_knight_12 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/ryan_knight_12"
-    },
-    {
       "description": "狼獾赝月 的贴吧 - Powered by RSSHub",
       "errorAt": "2025-11-02T19:26:02.118Z",
       "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=狼獾赝月\": 403 Forbidden\n",
@@ -85,6 +73,18 @@ _None_
       "title": "狼獾赝月 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88"
+    },
+    {
+      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-06-28T17:36:38.883Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
+      "id": "104695101579488257",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
+      "title": "dengchunlai 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/dengchunlai"
     }
   ]
 }

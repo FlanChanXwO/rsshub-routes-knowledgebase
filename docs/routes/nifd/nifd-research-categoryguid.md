@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "国家金融与发展实验室 - 研究评价 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T01:52:31.788Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59463782891658240",
       "image": null,
       "ownerUserId": null,

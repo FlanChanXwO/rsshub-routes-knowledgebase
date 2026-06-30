@@ -40,7 +40,7 @@ _None_
     "anime"
   ],
   "example": "/acfun/user/video/6102",
-  "heat": 39,
+  "heat": 40,
   "location": "video.ts",
   "maintainers": [
     "wdssmq"

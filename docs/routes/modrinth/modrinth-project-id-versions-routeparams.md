@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
+      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851322293306368",
+      "id": "114584532715532288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
-      "title": "HuskHomes Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
+      "title": "CrazyCrates Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
+      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
     }
   ]
 }

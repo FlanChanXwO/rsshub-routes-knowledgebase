@@ -130,7 +130,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260626/s00001/1782410039788/%e5%a0%85%e5%9f%8e%e6%b5%b7%e5%a0%a4%e5%a4%96%e6%93%ac%e5%bb%ba%e6%9d%bf%e9%81%93-2031%e7%ab%a3-%e6%b5%b7%e6%bf%b1%e5%a7%94%e5%93%a1%e6%9c%89%e6%8c%87%e6%a0%bc%e6%a0%bc%e4%b8%8d%e5%85%a5-%e6%9c%89%e6%86%82%e6%90%8d%e3%80%8c%e6%89%93%e5%8d%a1%e3%80%8d%e7%95%ab%e9%9d%a2\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260628/s00001/1782583902359/833%e9%a3%9f%e8%82%86%e5%87%86%e7%8b%97%e5%85%a5-%e9%85%92%e5%90%a7%e8%bb%8a%e4%bb%94%e9%ba%b5%e5%9c%a8%e5%88%97-%e6%9c%80%e5%a4%9a%e5%ba%97%e7%8d%b2%e6%89%b9bar-pacific-%e7%9b%bc%e8%81%9a%e6%84%9b%e7%8a%ac%e8%80%85-%e6%96%99%e7%94%9f%e6%84%8f%e5%a4%9a%e5%85%a9%e6%88%90\": 403 Forbidden\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

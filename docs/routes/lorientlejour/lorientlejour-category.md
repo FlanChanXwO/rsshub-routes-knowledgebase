@@ -135,7 +135,7 @@ Multiple categories seperated by '|' is also supported, e.g. /lorientlejour/977-
     },
     {
       "description": "L'Orient Today - Lebanon - Powered by RSSHub",
-      "errorAt": "2026-06-27T22:22:03.151Z",
+      "errorAt": "2026-06-29T01:13:36.156Z",
       "errorMessage": "Failed to fetch\n",
       "id": "68949378330868736",
       "image": null,

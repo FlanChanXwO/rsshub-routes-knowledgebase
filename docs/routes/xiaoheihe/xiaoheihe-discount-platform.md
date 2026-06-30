@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 406,
+  "heat": 409,
   "location": "discount.ts",
   "maintainers": [
     "tssujt"

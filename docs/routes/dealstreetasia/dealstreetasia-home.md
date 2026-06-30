@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/dealstreetasia/home",
-  "heat": 25,
+  "heat": 26,
   "location": "home.ts",
   "maintainers": [
     "jack2game"

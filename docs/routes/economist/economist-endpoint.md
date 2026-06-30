@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/06/27/europe-cant-stand-the-heat\": 403 Forbidden\n[GET] \"https://www.economist.com/culture/2026/06/26/five-of-the-best-summer-songs\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/by-invitation/2026/06/28/if-you-thought-the-global-financial-crisis-was-bad\": 403 Forbidden\n[GET] \"https://www.economist.com/the-americas/2026/06/28/how-will-america-respond-to-venezuelas-deadly-quakes\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/14/the-californication-of-middle-class-chinese-diets\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

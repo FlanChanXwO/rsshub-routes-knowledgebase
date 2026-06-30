@@ -70,16 +70,16 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "silencedream - 公开动态 - Powered by RSSHub",
+      "description": "NanGePlus - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "140336243023671296",
+      "id": "163616006553730048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://gitee.com/silencedream",
-      "title": "silencedream - 公开动态",
+      "siteUrl": "https://gitee.com/NanGePlus",
+      "title": "NanGePlus - 公开动态",
       "type": "feed",
-      "url": "rsshub://gitee/events/silencedream"
+      "url": "rsshub://gitee/events/NanGePlus"
     },
     {
       "description": "maymory - 公开动态 - Powered by RSSHub",

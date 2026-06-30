@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "trajectory prediction - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "191738863954954240",
+      "description": "ai scientists - Powered by RSSHub",
+      "errorAt": "2026-05-02T21:34:09.913Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "189500904623576064",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=trajectory%20prediction&sort=0",
-      "title": "trajectory prediction",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=AI%20scientists%20&sort=0",
+      "title": "ai scientists",
       "type": "feed",
-      "url": "rsshub://papers/query/trajectory%20prediction"
+      "url": "rsshub://papers/query/AI%20scientists%20"
     }
   ],
   "url": "papers.cool"

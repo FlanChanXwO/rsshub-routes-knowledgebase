@@ -87,8 +87,8 @@
   "topFeeds": [
     {
       "description": "用户脚本 - Powered by RSSHub",
-      "errorAt": "2026-06-28T00:09:29.461Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 70371597455258625",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70371597455258625",
       "image": null,
       "ownerUserId": null,

@@ -79,21 +79,21 @@
   ],
   "topFeeds": [
     {
-      "description": "兆易创新 - 自选股新闻 - Powered by RSSHub",
-      "errorAt": "2024-11-22T14:04:03.723Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "description": "兆易创新 - 资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64923928046286858",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://xueqiu.com/S/SH603986",
-      "title": "SH603986 兆易创新 - 自选股新闻",
+      "title": "SH603986 兆易创新 - 资讯",
       "type": "feed",
       "url": "rsshub://xueqiu/stock_info/SH603986/news"
     },
     {
       "description": "豪威集团 - 公告 - Powered by RSSHub",
-      "errorAt": "2026-05-22T21:11:53.408Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64923928046286863",
       "image": null,
       "ownerUserId": null,

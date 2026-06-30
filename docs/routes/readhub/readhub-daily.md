@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4761,
+  "heat": 4762,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 苹果正游说特朗普政府，希望获批采购中国长鑫存储 DRAM 芯片 2. 美国政府或最早于下周解除对 Anthropic Fable 5 模型的限制 3. 美光 CEO 吐槽苹果定价模式：芯片采购价涨 45 美元，向消费者加价 250 美元 4. DeepSeek 与北大联合开源 DSpark：高并发推理速度提升 60% 至 85% 5. Anthropic：Mythos 5 获准向美国机构重新部署 6. 传腾讯拟退出对多家日本游戏工作室投资，腾讯：保持对日本游戏市场的长期关注 7. 郭明錤：苹果 AI 战略升级，2027 年基础款 iPhone 内存提升至 9GB 8. 微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹 9. 苹果涨价后有商家拒绝发货 - Powered by RSSHub",
+      "description": "1. 网传大疆全系涨价 3%-8% ，官方回应：消息不实，无调价计划 2. 张雪公布「东鹏特饮事件」原视频 3. 叠纸游戏回应《恋与深空》新男主敖尹争议 4. 腾讯小范围内测 TenPay Go，面向境外人士来华支付 5. 智元第 15000 台通用具身机器人正式量产下线 6. 电影《给阿嬷的情书》总票房已突破 19 亿元 7. 暑期机票预订量环比增长 65% 航司优化航线提前布局 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

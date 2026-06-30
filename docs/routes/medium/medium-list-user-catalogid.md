@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "List: Apple ML Frameworks & Technologies - Powered by RSSHub",
-      "errorAt": "2026-06-27T19:39:06.926Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126876190043098120",
       "image": null,
       "ownerUserId": null,

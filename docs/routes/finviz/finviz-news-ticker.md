@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-28T19:41:07.728Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 99092999437425664",
       "id": "99092999437425664",
       "image": null,
       "ownerUserId": null,

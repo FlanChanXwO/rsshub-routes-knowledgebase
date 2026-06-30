@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "blog.ts",
   "maintainers": [],
   "name": "Hinatazaka46 Blog 日向坂 46 博客",

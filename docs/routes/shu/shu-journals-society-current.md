@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-28T21:55:52.334Z",
+      "errorMessage": "[GET] \"https://www.society.shu.edu.cn/CN/1004-8804/current.shtml\": <no response> fetch failed\n",
       "id": "149985207254076416",
       "image": null,
       "ownerUserId": null,
