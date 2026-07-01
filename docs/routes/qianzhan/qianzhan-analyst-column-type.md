@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T15:58:27.933Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149540527549611008",
       "image": null,
       "ownerUserId": null,

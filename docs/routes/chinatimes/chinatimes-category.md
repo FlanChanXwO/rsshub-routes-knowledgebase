@@ -88,8 +88,8 @@
     },
     {
       "description": "《中時新聞網》 即時新聞最新列表 - Powered by RSSHub",
-      "errorAt": "2026-06-29T04:03:33.399Z",
-      "errorMessage": "[GET] \"https://www.chinatimes.com/realtimenews/?chdtv\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "223581630864617472",
       "image": "https://www.chinatimes.com/images/2020/apple-touch-icon.png",
       "ownerUserId": null,

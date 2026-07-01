@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "全球游戏交流中心-所有 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T02:46:42.107Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "153752488543499264",
       "image": null,
       "ownerUserId": null,

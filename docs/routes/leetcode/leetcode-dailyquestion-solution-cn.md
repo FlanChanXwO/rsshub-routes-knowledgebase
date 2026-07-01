@@ -57,7 +57,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/",
+      "siteUrl": "https://leetcode.cn/problems/number-of-substrings-containing-all-three-characters/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

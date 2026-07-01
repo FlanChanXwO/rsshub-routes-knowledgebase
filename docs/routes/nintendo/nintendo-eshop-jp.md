@@ -54,8 +54,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nintendo eShop（日服）新上架的游戏 - Powered by RSSHub",
-      "errorAt": "2026-06-28T22:52:46.368Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70170230128689156",
       "image": null,
       "ownerUserId": null,

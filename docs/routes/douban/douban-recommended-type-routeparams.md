@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "豆瓣 - 2026年06月定档热门电影推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T09:31:03.950Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n",
       "id": "62747954002857984",
       "image": null,
       "ownerUserId": null,

@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
+      "description": "A simple teleportation plugin that supports Folia, compatible with Bukkit/Spigot/Paper/Folia. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114584532715532288",
+      "id": "123852542430741504",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
-      "title": "CrazyCrates Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/t0Xh802L",
+      "title": "TPA Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
+      "url": "rsshub://modrinth/project/t0Xh802L/versions"
     }
   ]
 }

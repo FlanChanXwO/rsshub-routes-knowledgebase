@@ -100,8 +100,8 @@
     },
     {
       "description": "MOODYZ - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T17:21:19.737Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "73162555663082522",
       "image": null,
       "ownerUserId": null,

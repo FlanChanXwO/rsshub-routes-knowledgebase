@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/bbc/sport/formula1",
-  "heat": 0,
+  "heat": 1,
   "location": "sport.ts",
   "maintainers": [
     "TonyRL"

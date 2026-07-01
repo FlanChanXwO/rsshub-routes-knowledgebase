@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国国家博物馆资讯专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T06:50:46.857Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "145466808887686144",
       "image": null,
       "ownerUserId": null,

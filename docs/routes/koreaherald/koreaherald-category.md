@@ -76,8 +76,8 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
   "topFeeds": [
     {
       "description": "The Korea Herald - National - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T02:03:10.859Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "97091227879318528",
       "image": null,
       "ownerUserId": null,

@@ -56,7 +56,7 @@ To subscribe to [Apple security releases](https://support.apple.com/en-us/100100
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 43,
+  "heat": 45,
   "location": "security-releases.ts",
   "maintainers": [
     "nczitzk"

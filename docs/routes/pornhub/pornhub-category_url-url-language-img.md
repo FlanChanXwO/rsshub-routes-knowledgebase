@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 127,
+  "heat": 128,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Watch the Hottest Pornstars And Porn Movies | PornHub - Powered by RSSHub",
-      "errorAt": "2026-06-28T07:21:44.659Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73689953585256448",
       "image": null,
       "ownerUserId": null,

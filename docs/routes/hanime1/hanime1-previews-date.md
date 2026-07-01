@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 439,
+  "heat": 440,
   "location": "previews.ts",
   "maintainers": [
     "kjasn"
@@ -92,7 +92,7 @@ _None_
     {
       "description": "Hanime1 202504 新番 - Powered by RSSHub",
       "errorAt": "2026-02-25T23:45:57.858Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://hanime1.me/previews/202504\": 403 Forbidden\n",
       "id": "133901229760109568",
       "image": null,
       "ownerUserId": null,

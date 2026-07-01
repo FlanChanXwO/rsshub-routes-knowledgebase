@@ -89,7 +89,7 @@
     {
       "description": null,
       "errorAt": "2025-08-21T07:38:04.685Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'startsWith')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "181211868868349952",
       "image": null,
       "ownerUserId": null,

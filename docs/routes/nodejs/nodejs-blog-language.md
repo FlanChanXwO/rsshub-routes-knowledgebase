@@ -102,8 +102,8 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
     },
     {
       "description": "News - Node.js - Powered by RSSHub",
-      "errorAt": "2026-06-29T04:23:51.882Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72473659742656512",
       "image": null,
       "ownerUserId": null,

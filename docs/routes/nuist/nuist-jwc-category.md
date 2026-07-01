@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",
-      "errorAt": "2026-06-28T22:52:45.628Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72519284425781248",
       "image": null,
       "ownerUserId": null,

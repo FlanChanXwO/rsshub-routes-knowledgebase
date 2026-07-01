@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2017,
+  "heat": 2018,
   "location": "haowen.ts",
   "maintainers": [
     "LogicJake",
@@ -86,8 +86,8 @@ _None_
   "topFeeds": [
     {
       "description": "周热门-什么值得买好文 - Powered by RSSHub",
-      "errorAt": "2026-06-29T03:48:15.379Z",
-      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41423034778090522",
       "image": null,
       "ownerUserId": null,
@@ -98,8 +98,8 @@ _None_
     },
     {
       "description": "今日热门-什么值得买好文 - Powered by RSSHub",
-      "errorAt": "2026-06-29T04:23:28.092Z",
-      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n530 <none>\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42520977153904661",
       "image": null,
       "ownerUserId": null,

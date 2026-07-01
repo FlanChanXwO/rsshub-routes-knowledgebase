@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1533,
+  "heat": 1534,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T08:56:39.451Z",
+      "errorMessage": "Cache key must be a string\nCache key must be a string\nCache key must be a string\nCache key must be a string\n",
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

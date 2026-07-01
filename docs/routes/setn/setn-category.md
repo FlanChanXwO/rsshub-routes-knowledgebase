@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "三立新聞網 - 即時 - Powered by RSSHub",
-      "errorAt": "2026-06-28T17:58:33.596Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55863308067829760",
+      "errorAt": "2026-06-30T00:38:28.252Z",
+      "errorMessage": "[GET] \"https://star.setn.com/news/1864458\": 500 Internal Server Error\nFailed to fetch\n",
       "id": "55863308067829760",
       "image": null,
       "ownerUserId": null,
@@ -98,8 +98,8 @@
     },
     {
       "description": "三立新聞網 - 政治 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T00:47:15.424Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88520448616402944",
       "image": null,
       "ownerUserId": null,

@@ -89,8 +89,8 @@
     },
     {
       "description": "轉角國際 udn Global - 深度專欄 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T22:57:54.913Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/load/article/newest/tag:深度專欄\": 403 Forbidden\n",
       "id": "80781985075075072",
       "image": null,
       "ownerUserId": null,

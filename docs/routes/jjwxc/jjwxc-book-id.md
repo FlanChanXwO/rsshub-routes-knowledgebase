@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "晋江文学城 | 别去春风《普通人就不能成为御兽大师吗》 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T21:37:07.668Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55162948793694208",
       "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
       "ownerUserId": null,

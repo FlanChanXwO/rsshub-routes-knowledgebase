@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1720,
+  "heat": 1721,
   "location": "tab.ts",
   "maintainers": [
     "Urabartin"
@@ -77,7 +77,7 @@ _None_
     {
       "description": "极品性感美女 - 热门美女 - Powered by RSSHub",
       "errorAt": "2025-10-09T03:44:04.191Z",
-      "errorMessage": "[GET] \"http:///hot.html\": <no response> fetch failed\n[GET] \"http:///hot.html\": <no response> fetch failed\n[GET] \"http:///hot.html\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\n[GET] \"http:///hot.html\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"http:///hot.html\": <no response> fetch failed\n[GET] \"http:///hot.html\": <no response> fetch failed\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///hot.html\": <no response> fetch failed\n",
       "id": "57074574176806959",
       "image": null,
       "ownerUserId": null,

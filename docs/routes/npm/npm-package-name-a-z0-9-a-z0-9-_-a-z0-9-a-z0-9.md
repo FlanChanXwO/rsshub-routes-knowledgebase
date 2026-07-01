@@ -66,16 +66,16 @@ _None_
       "url": "rsshub://npm/package/nocodb"
     },
     {
-      "description": "vite - npm - Powered by RSSHub",
+      "description": "@vue/language-server - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175925939002251264",
+      "id": "175923362558744576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/vite",
-      "title": "vite - npm",
+      "siteUrl": "https://www.npmjs.com/package/@vue/language-server",
+      "title": "@vue/language-server - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/vite"
+      "url": "rsshub://npm/package/@vue/language-server"
     }
   ]
 }

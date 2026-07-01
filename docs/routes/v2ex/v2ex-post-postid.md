@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "推特福利： https://app.follow.is/list/62404975162634240 幸福生活： https://app.follow.is/list/67388733134883840 新闻资讯： https://app.follow.is/list/67389023042166784 > 后面会持续更新维护 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T03:42:41.294Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69578109893869568",
       "image": null,
       "ownerUserId": null,

@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 255,
+  "heat": 254,
   "location": "index.tsx",
   "maintainers": [
     "cubroe"

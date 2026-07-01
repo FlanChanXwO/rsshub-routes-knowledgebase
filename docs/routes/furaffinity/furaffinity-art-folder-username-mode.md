@@ -101,7 +101,7 @@ _None_
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
       "errorAt": "2026-05-25T18:57:48.549Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
       "id": "79207337889916928",
       "image": null,
       "ownerUserId": null,
@@ -111,16 +111,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of solutionwcs - Powered by RSSHub",
-      "errorAt": "2026-05-25T18:22:14.373Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/solutionwcs/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/solutionwcs/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "78980802901721088",
+      "description": "Fur Affinity Gallery of riggsfur - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:57:14.933Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/riggsfur/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "106708554094888960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/solutionwcs",
-      "title": "Fur Affinity | Gallery of solutionwcs",
+      "siteUrl": "https://www.furaffinity.net/gallery/riggsfur",
+      "title": "Fur Affinity | Gallery of riggsfur",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/solutionwcs/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/riggsfur/nsfw"
     }
   ],
   "url": "furaffinity.net"

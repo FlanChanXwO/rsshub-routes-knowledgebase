@@ -157,8 +157,8 @@
     },
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T17:28:45.450Z",
+      "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessageFilters\": <no response> fetch failed\n",
       "id": "92886505678071808",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

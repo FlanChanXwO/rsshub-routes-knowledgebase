@@ -45,8 +45,8 @@ _None_
   "topFeeds": [
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T03:39:00.385Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

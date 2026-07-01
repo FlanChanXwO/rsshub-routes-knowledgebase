@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/26/drum-tower-newsletter-who-is-behind-chinas-latest-ai-breakthrough\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/14/the-californication-of-middle-class-chinese-diets\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/29/hong-kong-once-a-great-place-to-raise-and-spend-money-is-halfway-back\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/29/hong-kong-once-a-great-place-to-raise-and-spend-money-is-halfway-back\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/29/hong-kong-once-a-great-place-to-raise-and-spend-money-is-halfway-back\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

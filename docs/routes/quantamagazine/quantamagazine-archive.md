@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 4,
   "location": "archive.ts",
   "maintainers": [
     "emdoe"

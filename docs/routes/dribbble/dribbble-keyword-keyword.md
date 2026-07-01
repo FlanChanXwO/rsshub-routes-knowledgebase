@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 28,
+  "heat": 27,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -64,7 +64,7 @@ _None_
     {
       "description": "Explore thousands of high-quality player images on Dribbble. Your resource to get inspired, discover and connect with designers worldwide. - Powered by RSSHub",
       "errorAt": "2025-05-30T16:24:34.174Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "71093465085819904",
       "image": null,
       "ownerUserId": null,

@@ -104,8 +104,8 @@
     },
     {
       "description": "#井川里予# 的超话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-29T23:42:11.024Z",
+      "errorMessage": "Cookies expired. Msg:  https://m.weibo.cn/captcha/show?backUrl=https%3A%2F%2Fm.weibo.cn%2Fp%2Findex%3Fcontainerid%3D100808962d1e482e947f1e20fd0981358db42f_-_soul%26luicode%3D10000011%26lfid%3D100808962d1e482e947f1e20fd0981358db42f_-_main\n",
       "id": "122613879912649728",
       "image": null,
       "ownerUserId": null,

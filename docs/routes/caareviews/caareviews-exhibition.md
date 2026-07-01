@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Exhibition Reviews - Powered by RSSHub",
-      "errorAt": "2026-06-28T21:33:21.844Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56552299003210752",
       "image": null,
       "ownerUserId": null,

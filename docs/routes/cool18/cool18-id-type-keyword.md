@@ -44,7 +44,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1155,
+  "heat": 1157,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
