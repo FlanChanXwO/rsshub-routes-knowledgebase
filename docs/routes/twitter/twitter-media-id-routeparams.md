@@ -101,7 +101,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 539141,
+  "heat": 539144,
   "location": "media.ts",
   "maintainers": [
     "DIYgod",
@@ -137,8 +137,8 @@ Currently supported authentication methods:
     },
     {
       "description": "another acc：@yummyforw ig：yummychiyow ⛔️订阅只有fantia与Patreon ⛔️其余账号、其余平台都是盗图仿冒⛔️ Cosplay Subscribe :https://t.co/GE0vafd6NH🍒 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:44:56.266Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/media/yummychiyo\nTwitter API is not configured\nTwitter API is not configured\nFailed to fetch\nTwitter API is not configured\n",
       "id": "61071487909769216",
       "image": "https://pbs.twimg.com/profile_images/1408707778030366724/avbdODw3.jpg",
       "ownerUserId": null,

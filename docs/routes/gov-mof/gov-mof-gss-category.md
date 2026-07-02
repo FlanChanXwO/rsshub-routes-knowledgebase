@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:31:35.632Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "133069318957962240",
       "image": null,
       "ownerUserId": null,

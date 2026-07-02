@@ -107,8 +107,8 @@ _None_
     },
     {
       "description": "Philosophy Essays from Aeon. World-leading thinkers explore life’s big questions and the history of ideas from Socrates to Simone de Beauvoir, political philosophy to philosophy of mind, the Western canon and the non-Western world. - Powered by RSSHub",
-      "errorAt": "2026-06-29T23:33:03.356Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71782163523746816",
       "image": null,
       "ownerUserId": null,

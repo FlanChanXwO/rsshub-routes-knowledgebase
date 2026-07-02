@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣想看 - Tredici - Powered by RSSHub",
-      "errorAt": "2026-06-29T21:46:33.107Z",
-      "errorMessage": "[GET] \"https://movie.douban.com/people/171811323/wish\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "242962409053608960",
       "image": null,
       "ownerUserId": null,

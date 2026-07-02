@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "果壳网 物种日历 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:47:45.636Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "42595855568252928",
       "image": null,
       "ownerUserId": null,

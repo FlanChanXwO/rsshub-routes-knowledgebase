@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "酷安话题-薅羊毛小分队 - Powered by RSSHub",
-      "errorAt": "2026-06-30T04:12:15.434Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59083231915003967",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59083231915003967",
       "image": null,
       "ownerUserId": null,

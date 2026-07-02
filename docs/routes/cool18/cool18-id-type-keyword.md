@@ -44,7 +44,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1157,
+  "heat": 1159,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "禁忌书屋 cool18 酷18 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:35:45.856Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 149578173744708608",
       "id": "149578173744708608",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "性趣贴图 cool18 酷18 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:46:29.097Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 154611732391264308",
       "id": "154611732391264308",
       "image": null,
       "ownerUserId": null,

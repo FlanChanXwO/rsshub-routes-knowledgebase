@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "掘金，指定用户整个收藏集 - Powered by RSSHub",
-      "errorAt": "2026-06-30T03:47:29.547Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99763916916569088",
       "image": null,
       "ownerUserId": null,

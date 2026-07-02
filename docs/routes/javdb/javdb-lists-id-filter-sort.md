@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 37,
+  "heat": 38,
   "location": "lists.ts",
   "maintainers": [
     "dddepg"

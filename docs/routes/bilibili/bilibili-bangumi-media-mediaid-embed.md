@@ -52,7 +52,7 @@ _None_
     "supportRadar": false,
     "supportScihub": false
   },
-  "heat": 416,
+  "heat": 417,
   "location": "bangumi.ts",
   "maintainers": [
     "DIYgod",

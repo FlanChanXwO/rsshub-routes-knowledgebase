@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 头条    | 网评 | 视频 | 原创   | 经济    | 政治     | 文化    | 社会    | 党建 | 科教    | 生态    | 国防    | 国际          | 图书  | 学习笔记 | 理论文选 |\n| ------- | ---- | ---- | ------ | ------- | -------- | ------- | ------- | ---- | ------- | ------- | ------- | ------------- | ----- | -------- | -------- |\n| toutiao | qswp | qssp | qslgxd | economy | politics | culture | society | cpc  | science | zoology | defense | international | books | xxbj     | llwx     |",
   "example": "/qstheory",
-  "heat": 61,
+  "heat": 62,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "- 求是网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T21:54:25.612Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "80832914000440320",
       "image": null,
       "ownerUserId": null,

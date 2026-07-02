@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4763,
+  "heat": 4762,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. DeepSeek V4 正式版 7 月上线，引入峰谷定价机制 2. 百度旗下昆仑芯计划赴港 IPO，目标估值 500 亿美元 3. 豆包回应「内测社交功能」传闻：没有该计划 4. 马斯克宣布 Grok 4.5 开启 SpaceX 与特斯拉内部私测，性能或超越 Opus 5. 微软市值蒸发 5300 亿美元 股价恐创 2008 年以来最差月度表现 6. Meta 因担心模型蒸馏风险 对 Claude 和 Codex 使用施加限制 7. 曝贾扬清已从英伟达离职 8. 花旗：苹果对长鑫存储的认可将提升其全球地位 9. 同程旅行拟全面要约收购嘀嗒出行 10. 三星和 SK 海力士将在 800 万亿韩元项目中各自建设 2 座芯片工厂 11. 大众汽车计划终止与博世的自动驾驶合作 12. 中国移动设立 Token 办公室，集团领导挂帅督战 - Powered by RSSHub",
+      "description": "1. 苹果大量机密文件遭泄露，iPhone 18 Pro 实拍图流入暗网 2. Anthropic：推出 Claude Sonnet 5 3. 郭明錤：苹果寻求采购长鑫存储内存因内存供需缺口持续扩大至明年 4. 字节梁汝波全员信：要求管理者主动突破，下沉业务一线 5. Claude Mythos 让梁文锋决定融资 6. 豆包：近百个相同 IP 属地账号批量发布不实内容进行虚假拉踩营销 7. 《恋与深空》敖尹取消上线，承诺不再推出新男主 8. 月之暗面估值增至 315 亿美元 9. 小鹏机器人业务负责人米良川已于近期离职 10. 寒武纪市值突破 1 万亿元 11. Anthropic 商业化加速：Claude 全面上线微软 Azure 平台，英伟达 Blackwell 提供底层算力 12. Meta 因担心模型蒸馏风险 对 Claude 和 Codex 使用施加限制 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

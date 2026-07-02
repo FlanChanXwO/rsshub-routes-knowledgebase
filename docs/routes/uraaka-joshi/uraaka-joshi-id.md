@@ -87,7 +87,7 @@ _None_
     {
       "description": "🦭飢えてる上に肥えてるね(FEVER) - Powered by RSSHub",
       "errorAt": "2025-05-15T02:27:40.817Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Access denied (403)\n",
       "id": "72930351635651584",
       "image": null,
       "ownerUserId": null,

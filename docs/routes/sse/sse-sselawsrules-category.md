@@ -652,7 +652,7 @@
     },
     {
       "description": "最新规则 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": "2026-06-29T17:25:14.485Z",
+      "errorAt": "2026-07-01T02:45:59.083Z",
       "errorMessage": "Failed to fetch\n",
       "id": "60582720391817216",
       "image": "https://www.sse.com.cn/undefined",

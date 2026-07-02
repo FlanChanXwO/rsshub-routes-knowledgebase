@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/by-invitation/2026/06/28/if-you-thought-the-global-financial-crisis-was-bad\": 403 Forbidden\n[GET] \"https://www.economist.com/the-americas/2026/06/28/how-will-america-respond-to-venezuelas-deadly-quakes\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/britain/2026/06/30/britain-hopes-drones-will-help-it-escape-its-defence-budget-bind\": 403 Forbidden\n[GET] \"https://www.economist.com/finance-and-economics/2026/06/30/a-new-plaza-accord-for-global-currencies-wouldnt-work\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

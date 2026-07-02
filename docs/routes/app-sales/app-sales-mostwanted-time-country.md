@@ -219,8 +219,8 @@
   "topFeeds": [
     {
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:45:42.679Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "272254035724080128",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

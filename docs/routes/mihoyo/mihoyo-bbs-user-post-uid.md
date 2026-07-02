@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - 小新sama 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 甘雨真的爱吃清心吗 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688595211734016",
+      "id": "198685520162372608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76062032",
-      "title": "米游社 - 小新sama 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=245277504",
+      "title": "米游社 - 甘雨真的爱吃清心吗 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76062032"
+      "url": "rsshub://mihoyo/bbs/user-post/245277504"
     },
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 雷肾老司机 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "198686660668527616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=81879993",
+      "title": "米游社 - 雷肾老司机 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/81879993"
     }
   ]
 }

@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2402,
+  "heat": 2405,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -107,8 +107,8 @@
     },
     {
       "description": "有碼排行 - 月排行 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-06-30T00:43:44.415Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": 403 Forbidden\nFailed to fetch\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": <no response> fetch failed\nFailed to fetch\nbrowserType.connect: WebSocket error: getaddrinfo ENOTFOUND browserless\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error getaddrinfo ENOTFOUND browserless\n  - <ws connect error> ws://browserless:3000/ getaddrinfo ENOTFOUND browserless\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57074574176806917",
       "image": null,
       "ownerUserId": null,

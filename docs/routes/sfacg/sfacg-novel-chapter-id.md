@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 17,
+  "heat": 16,
   "location": "novel-chapter.ts",
   "maintainers": [
     "keocheung"

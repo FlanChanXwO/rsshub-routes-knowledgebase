@@ -48,7 +48,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1181,
+  "heat": 1182,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",
@@ -103,8 +103,8 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - konachan.com - Powered by RSSHub",
-      "errorAt": "2026-06-29T23:26:43.531Z",
-      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n503 Service Unavailable\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\nFailed to fetch\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n",
+      "errorAt": "2026-07-01T02:46:12.489Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62201931989535744",
       "id": "62201931989535744",
       "image": null,
       "ownerUserId": null,

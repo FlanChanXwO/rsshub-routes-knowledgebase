@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "看板列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:47:04.766Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "86117617623281664",
       "image": null,
       "ownerUserId": null,

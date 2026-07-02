@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 481,
+  "heat": 483,
   "location": "search/index.ts",
   "maintainers": [
     "drgnchan"
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "东方财富网 - 搜索'web3' - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:43:49.235Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65980643863635968",
       "image": null,
       "ownerUserId": null,

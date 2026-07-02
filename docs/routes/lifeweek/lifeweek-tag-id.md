@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "文学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:43:31.989Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "152614384793012224",
       "image": null,
       "ownerUserId": null,

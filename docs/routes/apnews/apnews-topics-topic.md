@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 741,
+  "heat": 742,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",
@@ -92,14 +92,14 @@ _None_
       "url": "rsshub://apnews/topics/trending-news"
     },
     {
-      "description": "Top News: US & International Top News Stories Today | AP News - Powered by RSSHub",
+      "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41648644680942592",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://apnews.com/hub/apf-topnews",
-      "title": "Top News: US & International Top News Stories Today | AP News",
+      "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News",
       "type": "feed",
       "url": "rsshub://apnews/topics/apf-topnews"
     }

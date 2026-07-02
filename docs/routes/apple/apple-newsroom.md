@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Apple 新闻中心是 Apple 新闻的来源。阅读新闻稿、获取最新消息、观看视频和下载图片。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:45:41.841Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "264963271334883328",
       "image": null,
       "ownerUserId": null,

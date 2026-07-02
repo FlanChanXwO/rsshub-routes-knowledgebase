@@ -54,8 +54,8 @@ _None_
   "topFeeds": [
     {
       "description": "即時國際 | 香港01 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:44:04.422Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69916583666986024",
       "id": "69916583666986024",
       "image": "https://cdn.hk01.com/di/media/images/dw/20201125/408227683839774720096251.png/ScxTeV2WCrObm45OUvrYMlnYDo46wQlqpPf-bKT3_mw",
       "ownerUserId": null,
@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "中國觀察 | 香港01 - Powered by RSSHub",
-      "errorAt": "2026-06-30T02:03:08.568Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "89497724836871168",
       "image": "https://cdn.hk01.com/di/media/images/dw/20201125/408227633252274176150476.png/UybVDNwHnFf4UdCJXjKTL2mGyQ6f5SUU2cyM39nMjN8",
       "ownerUserId": null,

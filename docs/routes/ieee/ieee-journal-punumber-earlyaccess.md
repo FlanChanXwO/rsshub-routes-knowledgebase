@@ -37,7 +37,7 @@ _None_
     "journal"
   ],
   "example": "/ieee/journal/6287639/preprint",
-  "heat": 248,
+  "heat": 258,
   "location": "journal.ts",
   "maintainers": [
     "HenryQW"
@@ -63,8 +63,8 @@ _None_
     },
     {
       "description": "IEEE Transactions on Geoscience and Remote Sensing - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:47:40.448Z",
+      "errorMessage": "[GET] \"https://ieeexplore.ieee.org/document/11574717/\": 420 \nFailed to fetch\n",
       "id": "61591456839305216",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,

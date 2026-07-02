@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 407,
+  "heat": 409,
   "location": "makers.ts",
   "maintainers": [
     "nczitzk"
@@ -100,8 +100,8 @@
     },
     {
       "description": "MOODYZ - JavDB - Powered by RSSHub",
-      "errorAt": "2026-06-29T17:21:19.737Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73162555663082522",
       "image": null,
       "ownerUserId": null,

@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Journal of Materials Chemistry A - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T15:27:29.359Z",
+      "errorMessage": "[POST] \"https://pubs.rsc.org/en/journals/getrecentarticles\": 403 Forbidden\n[POST] \"https://pubs.rsc.org/en/journals/getrecentarticles\": 403 Forbidden\n",
       "id": "175094017782230016",
       "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ta&imageInfo.ImageIdentifier.IssueId=TA014037&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Energy & Environmental Science - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T13:22:56.537Z",
+      "errorMessage": "[POST] \"https://pubs.rsc.org/en/journals/getrecentarticles\": 403 Forbidden\nFailed to fetch\n",
       "id": "159483253180956672",
       "image": "https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=CoverIssue&imageInfo.ImageIdentifier.SerCode=ee&imageInfo.ImageIdentifier.IssueId=EE019012&imageInfo.ImageIdentifier.Year=2026",
       "ownerUserId": null,

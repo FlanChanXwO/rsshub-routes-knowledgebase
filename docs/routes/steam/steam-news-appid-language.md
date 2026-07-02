@@ -132,8 +132,8 @@
     },
     {
       "description": "App 774171 News - Powered by RSSHub",
-      "errorAt": "2026-06-30T03:24:34.138Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149545975496265728",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/774171/hero_capsule.jpg",
       "ownerUserId": null,

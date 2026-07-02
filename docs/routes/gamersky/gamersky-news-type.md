@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 444,
+  "heat": 445,
   "location": "news.ts",
   "maintainers": [
     "yy4382"
@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "今日推荐 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:35:02.864Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57683409701121024",
       "id": "57683409701121024",
       "image": null,
       "ownerUserId": null,

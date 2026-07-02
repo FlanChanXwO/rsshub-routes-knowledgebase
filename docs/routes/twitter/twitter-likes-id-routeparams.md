@@ -112,7 +112,7 @@ _None_
     {
       "description": "Twitter Likes - DIYgod - Powered by RSSHub",
       "errorAt": "2026-06-29T07:00:55.116Z",
-      "errorMessage": "No valid Twitter token found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "54122407526122496",
       "image": null,
       "ownerUserId": null,

@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "朝鲜中央通讯 | 新闻 | 最新新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T20:24:55.503Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "213406943351213061",
       "image": null,
       "ownerUserId": null,

@@ -73,26 +73,26 @@ _None_
   "path": "/recommended/:type?/:routeParams?",
   "topFeeds": [
     {
-      "description": "豆瓣 - 2026年06月定档热门新剧推荐 - Powered by RSSHub",
+      "description": "豆瓣 - 2026年07月定档热门新剧推荐 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "55307751412641792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/ECIM75QBA",
-      "title": "豆瓣 - 2026年06月定档热门新剧推荐",
+      "siteUrl": "https://m.douban.com/subject_collection/ECGY77A6I",
+      "title": "豆瓣 - 2026年07月定档热门新剧推荐",
       "type": "feed",
       "url": "rsshub://douban/recommended/tv"
     },
     {
-      "description": "豆瓣 - 2026年06月定档热门电影推荐 - Powered by RSSHub",
-      "errorAt": "2026-06-29T09:31:03.950Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n",
+      "description": "豆瓣 - 2026年07月定档热门电影推荐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62747954002857984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/ECIM75OGI",
-      "title": "豆瓣 - 2026年06月定档热门电影推荐",
+      "siteUrl": "https://m.douban.com/subject_collection/ECZRAHXEA",
+      "title": "豆瓣 - 2026年07月定档热门电影推荐",
       "type": "feed",
       "url": "rsshub://douban/recommended/movie"
     }

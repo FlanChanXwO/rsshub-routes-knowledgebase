@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 31,
+  "heat": 32,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "全部看板 | Meteor 學生社群 - Powered by RSSHub",
-      "errorAt": "2026-06-30T03:48:43.873Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "81180270991733760",
       "image": null,
       "ownerUserId": null,

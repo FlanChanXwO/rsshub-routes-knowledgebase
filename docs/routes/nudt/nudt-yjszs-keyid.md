@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "国防科技大学研究生院 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:53:18.083Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72564096646971392",
       "image": null,
       "ownerUserId": null,

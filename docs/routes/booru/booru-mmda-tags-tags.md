@@ -81,7 +81,7 @@ For example:
   "topFeeds": [
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-06-29T22:16:00.621Z",
+      "errorAt": "2026-06-30T23:31:01.032Z",
       "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list\": 403 Forbidden\n",
       "id": "63500086553914368",
       "image": null,

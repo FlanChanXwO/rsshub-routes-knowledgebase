@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "罚款额提高到10倍！注册会计师法大修：审计“看门人”的紧箍咒有多紧？ - Powered by RSSHub",
+      "description": "千亿国企上海电气接入票交所供票平台，首笔供应链商票贴现业务已落地！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 罚款额提高到10倍！注册会计师法大修：审计“看门人”的紧箍咒有多紧？",
+      "title": "10000万联网 - 千亿国企上海电气接入票交所供票平台，首笔供应链商票贴现业务已落地！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

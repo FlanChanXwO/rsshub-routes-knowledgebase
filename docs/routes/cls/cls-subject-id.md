@@ -56,7 +56,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 151,
+  "heat": 150,
   "location": "subject.ts",
   "maintainers": [
     "nczitzk"

@@ -78,7 +78,7 @@ _None_
     {
       "description": "天下雜誌提供最新財經等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-06T12:39:31.829Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5140922\": 403 Forbidden\n",
       "id": "66757488440144896",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-15T10:10:26.628Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141806\": 403 Forbidden\n",
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

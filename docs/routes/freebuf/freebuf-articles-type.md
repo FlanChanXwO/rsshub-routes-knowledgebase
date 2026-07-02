@@ -76,7 +76,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
   "topFeeds": [
     {
       "description": "Freebuf web - Powered by RSSHub",
-      "errorAt": "2026-06-29T16:04:54.669Z",
+      "errorAt": "2026-07-01T01:46:56.934Z",
       "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
       "id": "52357479513292810",
       "image": null,

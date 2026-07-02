@@ -44,7 +44,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1163,
+  "heat": 1164,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",
@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - yande.re - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T02:43:21.085Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62219645395102720",
       "id": "62219645395102720",
       "image": null,
       "ownerUserId": null,

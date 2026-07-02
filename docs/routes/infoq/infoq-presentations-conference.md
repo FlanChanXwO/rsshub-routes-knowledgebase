@@ -78,10 +78,10 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
   "topFeeds": [
     {
       "description": "Presentations from QCon London 2018, QCon New York 2018, SpringOne Platform 2018, and more - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-06-30T22:28:02.175Z",
+      "errorMessage": "[GET] \"https://www.infoq.com/presentations/\": 405 Not Allowed\nFailed to fetch\n[GET] \"https://www.infoq.com/presentations/\": 405 Not Allowed\n",
       "id": "70149738744378368",
-      "image": "https://cdn.infoq.com/statics_s2_20260623103810/styles/static/images/logo/logo-big.jpg",
+      "image": "https://cdn.infoq.com/statics_s2_20260630130257/styles/static/images/logo/logo-big.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.infoq.com/presentations/",
       "title": "Presentations > Page #1 - InfoQ",
