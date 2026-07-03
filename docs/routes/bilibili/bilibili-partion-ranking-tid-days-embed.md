@@ -65,26 +65,26 @@ _None_
   "path": "/partion/ranking/:tid/:days?/:embed?",
   "topFeeds": [
     {
-      "description": "bilibili 数码分区 最热视频 - Powered by RSSHub",
+      "description": "bilibili 未知分区 最热视频 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "63858618178298888",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.bilibili.com/",
-      "title": "bilibili 数码 最热视频",
+      "title": "bilibili 未知 最热视频",
       "type": "feed",
       "url": "rsshub://bilibili/partion/ranking/95/3"
     },
     {
-      "description": "bilibili 极客DIY分区 最热视频 - Powered by RSSHub",
-      "errorAt": "2026-07-01T01:58:00.435Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "bilibili 未知分区 最热视频 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70095114504796160",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.bilibili.com/",
-      "title": "bilibili 极客DIY 最热视频",
+      "title": "bilibili 未知 最热视频",
       "type": "feed",
       "url": "rsshub://bilibili/partion/ranking/233/30"
     }

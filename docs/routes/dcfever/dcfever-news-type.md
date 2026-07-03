@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新消息 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T03:33:43.670Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67022535379083293",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,

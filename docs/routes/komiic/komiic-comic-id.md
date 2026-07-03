@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 93,
+  "heat": 46,
   "location": "comic.ts",
   "maintainers": [
     "NekoAria"

@@ -57,7 +57,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/find-the-safest-path-in-a-grid/",
+      "siteUrl": "https://leetcode.cn/problems/find-a-safe-walk-through-a-grid/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

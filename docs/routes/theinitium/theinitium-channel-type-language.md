@@ -102,8 +102,8 @@ Type 栏目（对应 Ghost 标签）：
   "topFeeds": [
     {
       "description": "端傳媒 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T03:33:29.045Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41443203209057310",
       "image": null,
       "ownerUserId": null,

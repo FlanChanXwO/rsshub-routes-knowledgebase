@@ -72,7 +72,7 @@ _None_
   "topFeeds": [
     {
       "description": "TrendForce offers hi-tech industry research reports, including market bulletins, industry analysis and price trends, helping businesses tackle global challenges - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:47:31.861Z",
+      "errorAt": "2026-07-02T03:22:13.363Z",
       "errorMessage": "Failed to fetch\n",
       "id": "186158955335655424",
       "image": "https://www.trendforce.com/images/trendforce_og_04.jpg",

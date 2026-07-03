@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 9,
+  "heat": 10,
   "location": "security-bulletin.ts",
   "maintainers": [
     "TonyRL"
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Android Security Bulletins | Android Open Source Project - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T05:04:01.428Z",
+      "errorMessage": "[GET] \"https://source.android.com/docs/security/bulletin/asb-overview\": 429 Too Many Requests\n",
       "id": "156000891791099904",
       "image": "https://www.gstatic.com/devrel-devsite/prod/v11431966d26d9f049ef61662c2b798f1cdee8af320f1ba0f77a43eee64301d60/androidsource/images/touchicon-180.png",
       "ownerUserId": null,

@@ -127,16 +127,16 @@ Topics
       "url": "rsshub://grist/topic/extreme-heat"
     },
     {
-      "description": "Science Articles on grist.org - Powered by RSSHub",
+      "description": "Energy Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "100895480425924627",
+      "id": "84843151356735488",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://grist.org/science",
-      "title": "Science - Gist Articles",
+      "siteUrl": "https://grist.org/energy",
+      "title": "Energy - Gist Articles",
       "type": "feed",
-      "url": "rsshub://grist/topic/science"
+      "url": "rsshub://grist/topic/energy"
     }
   ],
   "url": "grist.org/articles/"

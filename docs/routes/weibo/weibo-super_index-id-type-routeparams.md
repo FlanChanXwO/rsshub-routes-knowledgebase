@@ -104,8 +104,8 @@
     },
     {
       "description": "#elizabetholsen# 的超话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T22:57:18.183Z",
+      "errorMessage": "Cooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\n",
       "id": "96189998246796288",
       "image": null,
       "ownerUserId": null,

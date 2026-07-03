@@ -130,8 +130,8 @@ Member ID
     },
     {
       "description": "乃木坂46 公式ブログ - Powered by RSSHub",
-      "errorAt": "2026-06-30T13:27:51.344Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70371597455258640",
       "image": null,
       "ownerUserId": null,

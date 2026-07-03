@@ -62,7 +62,7 @@ _None_
     {
       "description": "academia.edu | Artificial_Intelligence documents - Powered by RSSHub",
       "errorAt": "2025-05-28T17:44:40.339Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.academia.edu/Documents/in/Artificial_Intelligence\": 403 Forbidden\n",
       "id": "69620974134739968",
       "image": null,
       "ownerUserId": null,

@@ -150,7 +150,7 @@ _None_
     {
       "description": "Followin - Powered by RSSHub",
       "errorAt": "2026-02-06T12:13:09.455Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "62849148807841792",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

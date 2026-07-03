@@ -54,9 +54,9 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "provided by the Hong Kong Observatory: Tue, 30 Jun 2026 23:02:00 GMT - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "provided by the Hong Kong Observatory: Wed, 01 Jul 2026 18:02:00 GMT - Powered by RSSHub",
+      "errorAt": "2026-07-02T03:02:52.373Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69176555091531776",
       "id": "69176555091531776",
       "image": null,
       "ownerUserId": null,

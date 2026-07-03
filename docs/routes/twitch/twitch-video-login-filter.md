@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "Twitch - 陈一发儿放映室 - All videos - Powered by RSSHub",
-      "errorAt": "2026-06-08T20:46:33.516Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-01T22:10:55.330Z",
+      "errorMessage": "No video under filter type \"all\"\n",
       "id": "68185461739717632",
       "image": null,
       "ownerUserId": null,

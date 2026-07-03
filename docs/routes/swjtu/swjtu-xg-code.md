@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
-      "errorAt": "2026-06-30T21:12:17.914Z",
-      "errorMessage": "[GET] \"http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72512219481102338",
       "image": null,
       "ownerUserId": null,

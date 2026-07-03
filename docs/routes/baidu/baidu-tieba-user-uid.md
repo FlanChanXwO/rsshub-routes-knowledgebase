@@ -63,28 +63,28 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-24T05:52:29.901Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=ryan_knight_12\": 403 Forbidden\n",
-      "id": "86949667680527360",
+      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-18T07:31:14.501Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
+      "id": "197374238844610560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=ryan_knight_12",
-      "title": "ryan_knight_12 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
+      "title": "双鱼座73 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/ryan_knight_12"
+      "url": "rsshub://baidu/tieba/user/18p2pmimi"
     },
     {
-      "description": "林子君 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-05-22T16:26:48.243Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=林子◎君\": 403 Forbidden\n",
-      "id": "86267276958861312",
+      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:17:33.906Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=米利阿鲁德\": 403 Forbidden\n",
+      "id": "86266828598569984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
-      "title": "林子君 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
+      "title": "米利阿鲁德 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
+      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
     }
   ]
 }

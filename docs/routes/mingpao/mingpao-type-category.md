@@ -130,7 +130,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260630/s00001/1782755218314/%e7%be%8e%e5%ae%b9%e5%81%a5%e8%ba%ab%e9%a0%90%e7%b9%b3%e7%b4%84%e5%80%a17%e6%97%a5%e6%b3%95%e5%ae%9a%e5%86%b7%e9%9d%9c%e6%9c%9f-%e6%9c%80%e9%95%b7%e5%85%a9%e5%b9%b4%e7%b4%84-%e9%80%80%e6%ac%be%e6%9c%9f%e9%99%9014%e6%97%a5-%e8%ab%ae%e8%a9%a2%e5%85%a9%e6%9c%88%e6%9c%aa%e6%9c%89%e7%ab%8b%e6%b3%95%e6%99%82%e9%96%93\": 403 Forbidden\n",
+      "errorMessage": "Status code 403\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

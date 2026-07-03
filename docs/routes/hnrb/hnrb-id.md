@@ -85,7 +85,7 @@
   "topFeeds": [
     {
       "description": "湖南日报 - Powered by RSSHub",
-      "errorAt": "2026-06-30T16:27:07.455Z",
+      "errorAt": "2026-07-02T04:17:11.658Z",
       "errorMessage": "Failed to fetch\n",
       "id": "75409322850391040",
       "image": null,

@@ -61,6 +61,18 @@ _None_
   "path": "/:id",
   "topFeeds": [
     {
+      "description": "ORCID Works List0000-0002-5496-0328 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59740467968260096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://orcid.org/0000-0002-5496-0328/worksPage.json?offset=0&sort=date&sortAsc=false&pageSize=20",
+      "title": "ORCID Works List0000-0002-5496-0328",
+      "type": "feed",
+      "url": "rsshub://orcid/0000-0002-5496-0328"
+    },
+    {
       "description": "ORCID Works List0000-0002-4731-9700 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -71,18 +83,6 @@ _None_
       "title": "ORCID Works List0000-0002-4731-9700",
       "type": "feed",
       "url": "rsshub://orcid/0000-0002-4731-9700"
-    },
-    {
-      "description": "ORCID Works List0000-0003-2220-1738 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59740663556702208",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://orcid.org/0000-0003-2220-1738/worksPage.json?offset=0&sort=date&sortAsc=false&pageSize=20",
-      "title": "ORCID Works List0000-0003-2220-1738",
-      "type": "feed",
-      "url": "rsshub://orcid/0000-0003-2220-1738"
     }
   ]
 }

@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://github/contributors/cgw88/cgw321.com"
     },
     {
-      "description": "New contributors for yonggekkk/Cloudflare_vless_trojan - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "88072707051804672",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yonggekkk/Cloudflare_vless_trojan/graphs/contributors",
-      "title": "yonggekkk/Cloudflare_vless_trojan Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/yonggekkk/Cloudflare_vless_trojan"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     }
   ]
 }

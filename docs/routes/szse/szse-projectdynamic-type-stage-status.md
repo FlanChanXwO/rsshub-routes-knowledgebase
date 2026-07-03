@@ -114,8 +114,8 @@
   "topFeeds": [
     {
       "description": "IPO项目动态 - 创业板发行上市审核信息公开网站 - 深圳证券交易所 - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:44:29.475Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64720907966178304",
       "image": null,
       "ownerUserId": null,

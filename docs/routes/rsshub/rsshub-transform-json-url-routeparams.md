@@ -99,16 +99,16 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/ginuerzh/gost/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:36.929Z",
+      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
+      "errorAt": "2026-01-18T23:55:51.036Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185687225196835840",
+      "id": "185694005069753344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/ginuerzh/gost/releases",
-      "title": "Gost releases",
+      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
+      "title": "zed releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fginuerzh%2Fgost%2Freleases/title=Gost%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
       "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",

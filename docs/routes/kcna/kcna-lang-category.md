@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "朝鲜中央通讯 | 新闻 | 最新新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-30T20:24:55.503Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-07-01T13:42:05.311Z",
+      "errorMessage": "[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": 404 Not Found\n[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": 404 Not Found\n[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": 404 Not Found\n",
       "id": "213406943351213061",
       "image": null,
       "ownerUserId": null,

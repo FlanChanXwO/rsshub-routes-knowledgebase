@@ -92,8 +92,8 @@
     },
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T03:18:26.507Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Top dev.to posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T04:30:35.421Z",
+      "errorMessage": "[GET] \"https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5\": <no response> fetch failed\n[GET] \"https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5\": <no response> fetch failed\n",
       "id": "151151136731356160",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "Top dev.to posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T02:43:16.754Z",
+      "errorMessage": "Authentication failed. Access denied.\n/dev.to/top/month\nFailed to fetch\n",
       "id": "145315249048801291",
       "image": null,
       "ownerUserId": null,

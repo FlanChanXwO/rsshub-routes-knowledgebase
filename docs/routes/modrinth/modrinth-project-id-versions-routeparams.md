@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "squaremap is a minimalistic & lightweight world map viewer for Minecraft servers, using the vanilla map rendering style - Powered by RSSHub",
+      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852344176515072",
+      "id": "86130193434324992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/PFb7ZqK6",
-      "title": "squaremap Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/epic-fight",
+      "title": "Epic Fight Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/PFb7ZqK6/versions"
+      "url": "rsshub://modrinth/project/epic-fight/versions"
     }
   ]
 }

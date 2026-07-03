@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 542,
+  "heat": 541,
   "location": "index.ts",
   "maintainers": [
     "WhiteWorld",
@@ -79,7 +79,7 @@ _None_
     },
     {
       "description": "24 小时热榜 - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:35:19.740Z",
+      "errorAt": "2026-07-02T02:32:43.621Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 77974917410779136",
       "id": "77974917410779136",
       "image": null,

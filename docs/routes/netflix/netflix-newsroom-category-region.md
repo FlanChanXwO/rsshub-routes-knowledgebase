@@ -42,7 +42,7 @@ _None_
     "new-media"
   ],
   "example": "/netflix/newsroom",
-  "heat": 6,
+  "heat": 7,
   "location": "newsroom.ts",
   "maintainers": [
     "nczitzk"
@@ -194,8 +194,8 @@ _None_
     },
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T03:19:59.333Z",
+      "errorMessage": "Unhandled node type: heading-1\n",
       "id": "238930364614695936",
       "image": "https://about.netflix.com/favicon.ico",
       "ownerUserId": null,

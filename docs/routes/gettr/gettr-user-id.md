@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Forrest 青藤 on Gettr - Powered by RSSHub",
-      "errorAt": "2026-06-05T02:27:23.381Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'txt')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "83546711432904704",
       "image": "https://media.gettr.com/group7/getter/2024/06/01/12/6a75b1ee-bba6-3df4-fcc7-6a86ed5bdda8/093c9ea14ee8bb88651978f753eaa3e8.jpg",
       "ownerUserId": null,

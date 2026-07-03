@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4762,
+  "heat": 4764,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. 苹果大量机密文件遭泄露，iPhone 18 Pro 实拍图流入暗网 2. Anthropic：推出 Claude Sonnet 5 3. 郭明錤：苹果寻求采购长鑫存储内存因内存供需缺口持续扩大至明年 4. 字节梁汝波全员信：要求管理者主动突破，下沉业务一线 5. Claude Mythos 让梁文锋决定融资 6. 豆包：近百个相同 IP 属地账号批量发布不实内容进行虚假拉踩营销 7. 《恋与深空》敖尹取消上线，承诺不再推出新男主 8. 月之暗面估值增至 315 亿美元 9. 小鹏机器人业务负责人米良川已于近期离职 10. 寒武纪市值突破 1 万亿元 11. Anthropic 商业化加速：Claude 全面上线微软 Azure 平台，英伟达 Blackwell 提供底层算力 12. Meta 因担心模型蒸馏风险 对 Claude 和 Codex 使用施加限制 - Powered by RSSHub",
+      "description": "1. Anthropic Fable 5 和 Mythos 5 解禁，将于明天在 Claude 平台全球上线 2. Claude Code 被曝检测中国用户时区与身份归属，回应称将删除相关代码 3. 苹果 CEO 与欧盟技术主管就「Siri AI」举行建设性会谈 4. 孙天祥入职百度，担任基础模型研发部负责人 5. 软银：对 Open AI 进行 100 亿美元后续投资 6. 微软计划进行新一轮裁员，将影响到数千个岗位 7. Anthropic 推出 Claude Sonnet 5 8. Anthropic 推出 Claude Science AI 科研工作台 9. 无方向盘、无踏板，特斯拉 Cybercab 量产版启动公开道路工程测试 10. 反垄断案败诉，谷歌被勒令向瑞典支付巨头 Klarna 子公司支付 143 亿瑞典克朗 11. 优必选发布超仿生机器人：U1 Ultra 男版 99 万，女版 88 万 订单破万 12. 老凤祥终止入股迈巴赫奢侈品亚太，改签中国区品牌代理协议 13. Getty Images 宣布取消与 Shutterstock 合并计划 14. 小红书内部启动秘密项目，再造一款热门新品 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

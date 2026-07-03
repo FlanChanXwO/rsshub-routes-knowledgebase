@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 9,
   "location": "stock-comments.tsx",
   "maintainers": [],
   "name": "股票评论",

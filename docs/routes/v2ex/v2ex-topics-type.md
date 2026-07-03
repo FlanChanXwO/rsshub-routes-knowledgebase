@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23448,
+  "heat": 23450,
   "location": "topics.ts",
   "maintainers": [
     "WhiteWorld"
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "V2EX-最新主题 - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:40:48.830Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41374278075966464",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41374278075966464",
       "image": null,
       "ownerUserId": null,

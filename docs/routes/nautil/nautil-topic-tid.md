@@ -84,8 +84,8 @@ This route provides a flexible plan with full text content to subscribe specific
     },
     {
       "description": "Nautilus | Health - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:47:39.009Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85929973486211072",
       "image": null,
       "ownerUserId": null,

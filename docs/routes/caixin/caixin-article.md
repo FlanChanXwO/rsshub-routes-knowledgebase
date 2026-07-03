@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新网 - 首页 - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:46:25.242Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238278099969",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238278099969",
       "image": null,
       "ownerUserId": null,

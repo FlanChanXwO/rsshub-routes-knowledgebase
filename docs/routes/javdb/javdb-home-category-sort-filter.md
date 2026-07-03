@@ -63,7 +63,7 @@
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 1331,
+  "heat": 1332,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -97,8 +97,8 @@
     },
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T04:08:12.562Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/javdb/home\nFailed to fetch\n",
       "id": "55906664666988544",
       "image": null,
       "ownerUserId": null,

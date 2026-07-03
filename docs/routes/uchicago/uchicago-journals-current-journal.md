@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Lead Editor: Esteban Rossi-Hansberg Editors: John Asker, Andrew Atkeson, Leonardo Bursztyn, Gabriel Carroll, Melissa Dell, David Lagakos, Guido Lorenzoni, Francesca Molinari, Luigi Pistaferri, Bruno Strulovici, Christopher Taber, Christopher Walters - Powered by RSSHub",
-      "errorAt": "2026-06-30T23:01:27.440Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74375516441159680",
       "image": "https://www.journals.uchicago.edu/cms/asset/cbf24731-85ef-41cf-8559-e373014c64bf/jpe.2026.134.issue-7.cover.png",
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Editors: Mary Evans, Teevrat Garg, Arik Levinson, and Andrew Plantinga Published for the Association of Environmental and Resource Economists - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T05:24:50.119Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "75184870917658624",
       "image": "https://www.journals.uchicago.edu/cms/asset/5a38d4f1-b01f-4f38-830f-3718a574ab3d/default_cover.gif",
       "ownerUserId": null,

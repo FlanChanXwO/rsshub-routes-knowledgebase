@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 360,
+  "heat": 361,
   "location": "stickerpack.ts",
   "maintainers": [
     "DIYgod"
@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "哥哥奖励自己一下 @DoO_o - Telegram Sticker Pack - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T03:34:39.524Z",
+      "errorMessage": "Telegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n502 Bad Gateway\nFailed to fetch\n",
       "id": "62283323384780800",
       "image": null,
       "ownerUserId": null,

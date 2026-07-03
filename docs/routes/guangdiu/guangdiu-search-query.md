@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "逛丢 - 今日必买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T02:40:54.511Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "141468238742304768",
       "image": null,
       "ownerUserId": null,

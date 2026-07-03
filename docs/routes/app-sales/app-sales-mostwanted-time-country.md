@@ -220,7 +220,7 @@
     {
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
       "errorAt": "2026-07-01T02:45:42.679Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.app-sales.net/mostwanted/\": <no response> fetch failed\n",
       "id": "272254035724080128",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,
@@ -231,8 +231,8 @@
     },
     {
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T14:15:44.320Z",
+      "errorMessage": "[GET] \"https://www.app-sales.net/mostwanted/\": <no response> fetch failed\n",
       "id": "198041481153666048",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

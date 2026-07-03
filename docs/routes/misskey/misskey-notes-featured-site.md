@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Featured Notes on misskey.io - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T22:42:32.094Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61382857498390528",
       "id": "61382857498390528",
       "image": null,
       "ownerUserId": null,

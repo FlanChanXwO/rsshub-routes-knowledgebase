@@ -177,8 +177,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 电脑装机分区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T13:10:55.368Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "61803024269907968",
       "image": null,
       "ownerUserId": null,
@@ -189,8 +189,8 @@ _None_
     },
     {
       "description": "bilibili 军事分区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-01T15:57:20.918Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "69643053279241216",
       "image": null,
       "ownerUserId": null,

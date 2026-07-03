@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 835,
+  "heat": 834,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -107,7 +107,7 @@ _None_
     {
       "description": "快讯 - Followin - Powered by RSSHub",
       "errorAt": "2026-02-06T08:52:00.748Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41419133062574080",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

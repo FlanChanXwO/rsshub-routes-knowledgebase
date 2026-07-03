@@ -63,8 +63,8 @@ _None_
     },
     {
       "description": "IEEE Transactions on Geoscience and Remote Sensing - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:47:40.448Z",
-      "errorMessage": "[GET] \"https://ieeexplore.ieee.org/document/11574717/\": 420 \nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61591456839305216",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,

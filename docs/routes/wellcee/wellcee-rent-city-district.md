@@ -63,9 +63,9 @@ _None_
       "url": "rsshub://wellcee/rent/%E5%B9%BF%E5%B7%9E"
     },
     {
-      "description": "62K+ available Total 305K+ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "62K+ available Total 306K+ - Powered by RSSHub",
+      "errorAt": "2026-07-01T20:41:15.297Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 145865475543337984",
       "id": "145865475543337984",
       "image": "https://qnimg1.wellcee.com/o_1ept4fjt6ho61844qd0102d132o1n.jpeg",
       "ownerUserId": null,

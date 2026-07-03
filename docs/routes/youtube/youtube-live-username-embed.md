@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 159,
+  "heat": 160,
   "location": "live.ts",
   "maintainers": [
     "sussurr127"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "$老高與小茉 Mr & Mrs Gao's live streaming status - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:45:42.814Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69051964046186496",
       "image": null,
       "ownerUserId": null,

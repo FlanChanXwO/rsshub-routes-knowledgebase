@@ -88,8 +88,8 @@
     },
     {
       "description": "World - TASS - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:34:55.162Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64311310991740928",
+      "errorAt": "2026-07-02T03:32:19.812Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64311310991740928",
       "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
       "ownerUserId": null,

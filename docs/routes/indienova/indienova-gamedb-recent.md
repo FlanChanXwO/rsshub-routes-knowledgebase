@@ -45,8 +45,8 @@ _None_
   "topFeeds": [
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
-      "errorAt": "2026-06-30T03:39:00.385Z",
-      "errorMessage": "[GET] \"https://indienova.com/game/brothel-virgin-the-crimson-reverie\": 404 Not Found\n",
+      "errorAt": "2026-07-02T00:33:42.407Z",
+      "errorMessage": "[GET] \"https://indienova.com/game/monster-ops-20\": 404 Not Found\n",
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

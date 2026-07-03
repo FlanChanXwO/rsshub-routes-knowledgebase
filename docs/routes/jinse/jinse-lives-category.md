@@ -107,8 +107,8 @@ _None_
     },
     {
       "description": "区块链新闻频道为您24小时提供最新区块链新闻信息，汇集全球各个区域最新消息，并为您提供最及时全面的区块链资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T02:30:42.739Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72606914246960128",
       "id": "72606914246960128",
       "image": "https://staticn.jinse.com.cn/w/img/b6900fe.png",
       "ownerUserId": null,

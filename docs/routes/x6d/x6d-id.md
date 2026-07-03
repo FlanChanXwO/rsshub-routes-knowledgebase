@@ -72,7 +72,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 66,
+  "heat": 67,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -85,8 +85,8 @@ _None_
   "topFeeds": [
     {
       "description": "全网收集整理最新的线报活动、网络资讯、免费实物、游戏资讯。 - Powered by RSSHub",
-      "errorAt": "2026-07-01T01:42:52.241Z",
-      "errorMessage": "[GET] \"https://xd.x6d.com/html/34.html\": 403 Forbidden\n[GET] \"https://xd.x6d.com/html/34.html\": 444 status code 444\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60894853812495360",
       "image": "https://xd.x6d.com/static/images/logo.png",
       "ownerUserId": null,

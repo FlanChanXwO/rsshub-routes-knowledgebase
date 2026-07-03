@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "中指云基于中指研究院多年研究积累，提供最全房地产行业报告，可免费阅读房地产政策解读、市场趋势、房企研究及物业行业分析报告，可下载PDF格式报告，深度洞察房地产行业动向。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T02:43:57.464Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 149713189464210432",
       "id": "149713189464210432",
       "image": "https://www.cih-index.com/favicon.ico",
       "ownerUserId": null,

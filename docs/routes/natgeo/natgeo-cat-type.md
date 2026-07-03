@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 304,
+  "heat": 303,
   "location": "natgeo.ts",
   "maintainers": [
     "fengkx"

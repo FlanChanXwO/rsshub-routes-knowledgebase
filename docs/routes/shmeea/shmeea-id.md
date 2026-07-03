@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 4,
   "location": "index.ts",
   "maintainers": [
     "jialinghui",

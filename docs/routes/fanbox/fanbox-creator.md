@@ -47,7 +47,7 @@ _None_
       }
     ]
   },
-  "heat": 37,
+  "heat": 38,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin",
@@ -74,7 +74,7 @@ _None_
     {
       "description": "Fanbox - Feather - Powered by RSSHub",
       "errorAt": "2025-11-26T11:26:59.575Z",
-      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=11980757\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.fanbox.cc/post.info?postId=12079443\": 403 Forbidden\n",
       "id": "82082879942475776",
       "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/24059807/icon/aeWv4PxOsfgxu9I1n6OenEl5.jpeg",
       "ownerUserId": null,

@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 23,
   "location": "main.tsx",
   "maintainers": [
     "xueli_sherryli"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Mister Pinkの3Dエロ動画・エロMMD・エロアニメ一覧｜俺の3Dエロ動画 - 新着(Page 1-1) - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:48:44.941Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61611245193032704",
       "image": null,
       "ownerUserId": null,
