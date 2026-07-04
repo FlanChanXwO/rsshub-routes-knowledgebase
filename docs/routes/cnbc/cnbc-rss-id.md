@@ -88,8 +88,8 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
     },
     {
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
-      "errorAt": "2026-07-02T03:02:21.902Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 77157605247889408",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77157605247889408",
       "image": null,
       "ownerUserId": null,

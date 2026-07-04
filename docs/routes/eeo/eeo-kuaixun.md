@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯_经济观察网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T21:52:54.776Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "194919237802284032",
       "image": "https://img.eeo.com.cn/2024/images/logo.jpg",
       "ownerUserId": null,

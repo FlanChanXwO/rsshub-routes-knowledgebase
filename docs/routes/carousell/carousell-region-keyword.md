@@ -72,7 +72,7 @@ _None_
     "shopping"
   ],
   "example": "/carousell/sg/iphone",
-  "heat": 1,
+  "heat": 3,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"

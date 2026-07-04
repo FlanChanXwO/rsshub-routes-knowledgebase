@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "首页 - 隆众资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T23:48:20.831Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "245770043138465792",
       "image": null,
       "ownerUserId": null,

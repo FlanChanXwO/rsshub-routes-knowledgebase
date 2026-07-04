@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "正面连接 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T07:35:35.558Z",
+      "errorMessage": "[GET] \"https://t.me/s/SubWechat?q=正面连接\": <no response> fetch failed\nFailed to fetch\n",
       "id": "41473172365329515",
       "image": null,
       "ownerUserId": null,

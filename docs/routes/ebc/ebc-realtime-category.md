@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:05:54.346Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

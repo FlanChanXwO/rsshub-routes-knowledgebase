@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "case-library.ts",
   "maintainers": [
     "nczitzk"

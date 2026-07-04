@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "在我們的生活裡面，處處受到日本文化的影響。現在去日本旅遊的人眾多，也有許多漫畫及日劇受到大家的喜愛。 本專欄作者是日語老師，也是文化研究者。從輕鬆有趣的角度，解析日本文化及日語，並且教大家一些日語中的文化內涵。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T07:29:43.720Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69582989510702087",
       "image": null,
       "ownerUserId": null,

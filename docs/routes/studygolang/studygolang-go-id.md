@@ -86,7 +86,7 @@ _None_
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
       "errorAt": "2026-07-01T16:28:09.786Z",
-      "errorMessage": "[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\nFailed to fetch\n",
       "id": "54846819419389955",
       "image": null,
       "ownerUserId": null,

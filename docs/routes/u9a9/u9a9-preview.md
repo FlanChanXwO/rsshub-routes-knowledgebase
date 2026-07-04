@@ -72,7 +72,7 @@ _None_
     },
     {
       "description": "U9A9 - Powered by RSSHub",
-      "errorAt": "2026-07-02T03:03:04.854Z",
+      "errorAt": "2026-07-02T22:48:46.381Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 75777045788956696",
       "id": "75777045788956696",
       "image": null,

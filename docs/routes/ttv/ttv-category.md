@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "台視新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T13:31:57.883Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72920871518882818",
       "image": null,
       "ownerUserId": null,
@@ -70,8 +70,8 @@ _None_
     },
     {
       "description": "台視新聞網 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T21:57:02.129Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "131972776479638528",
       "image": null,
       "ownerUserId": null,

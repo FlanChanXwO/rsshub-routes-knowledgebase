@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "看客 - 网易专栏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T22:01:39.644Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84454282633157637",
       "image": null,
       "ownerUserId": null,

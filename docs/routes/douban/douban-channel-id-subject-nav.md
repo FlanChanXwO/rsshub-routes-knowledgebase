@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "豆瓣历史频道书影音下的电影推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T21:50:06.753Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61440669496322048",
       "image": null,
       "ownerUserId": null,

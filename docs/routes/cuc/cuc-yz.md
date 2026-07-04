@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国传媒大学研究生招生网 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T16:28:30.954Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "82622855066892288",
       "image": null,
       "ownerUserId": null,

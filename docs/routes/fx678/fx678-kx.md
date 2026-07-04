@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": "2026-07-02T00:32:31.885Z",
-      "errorMessage": "Cannot read properties of null (reading 'trim')\nFailed to fetch\n",
+      "errorAt": "2026-07-03T00:23:28.192Z",
+      "errorMessage": "Cannot read properties of null (reading 'trim')\nCannot read properties of null (reading 'trim')\n",
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

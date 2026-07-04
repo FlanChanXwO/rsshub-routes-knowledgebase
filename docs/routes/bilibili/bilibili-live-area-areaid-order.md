@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "哔哩哔哩直播-娱乐·舞见分区-人气直播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T20:05:27.959Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "56218629867262976",
       "image": null,
       "ownerUserId": null,

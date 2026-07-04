@@ -170,8 +170,8 @@
   "topFeeds": [
     {
       "description": "同花顺财经 - Powered by RSSHub",
-      "errorAt": "2026-07-02T03:02:52.133Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72098833744560128",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72098833744560128",
       "image": "http://i.thsi.cn/images/thscj/THSLogo.png",
       "ownerUserId": null,

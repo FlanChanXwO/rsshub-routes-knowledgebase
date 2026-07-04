@@ -52,7 +52,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 121,
+  "heat": 122,
   "location": "category.ts",
   "maintainers": [
     "donghongfei"

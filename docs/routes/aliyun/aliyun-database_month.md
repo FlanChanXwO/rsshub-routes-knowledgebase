@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "数据库内核月报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T22:01:45.248Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41464776326468621",
       "image": null,
       "ownerUserId": null,

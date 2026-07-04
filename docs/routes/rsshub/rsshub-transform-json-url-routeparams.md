@@ -99,28 +99,28 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
-      "errorAt": "2026-01-18T23:55:51.036Z",
+      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:56.791Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185694005069753344",
+      "id": "185695342945072128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
-      "title": "zed releases",
+      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
+      "title": "goexec releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T01:18:15.664Z",
+      "description": "Proxy https://api.github.com/repos/chainreactors/gogo/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T09:51:43.687Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185693700405294080",
+      "id": "185695668595820544",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/chainreactors/malice-network/releases",
-      "title": "IOM releases",
+      "siteUrl": "https://api.github.com/repos/chainreactors/gogo/releases",
+      "title": "gogo releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fmalice-network%2Freleases/title=IOM%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fgogo%2Freleases/title=gogo%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

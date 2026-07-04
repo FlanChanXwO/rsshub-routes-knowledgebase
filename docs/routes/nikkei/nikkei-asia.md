@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/nikkei/asia",
-  "heat": 147,
+  "heat": 148,
   "location": "asia/index.ts",
   "maintainers": [
     "rainrdx"

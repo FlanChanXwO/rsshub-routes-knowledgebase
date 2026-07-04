@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "hotukdeals hottest - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T22:01:05.041Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60584426685234176",
       "image": null,
       "ownerUserId": null,

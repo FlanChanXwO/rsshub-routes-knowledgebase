@@ -90,8 +90,8 @@ _None_
   "topFeeds": [
     {
       "description": "虎扑 - NBA - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T16:28:44.734Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "77971487620786176",
       "image": null,
       "ownerUserId": null,

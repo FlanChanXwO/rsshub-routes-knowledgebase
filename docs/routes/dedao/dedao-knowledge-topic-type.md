@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "得到 - 知识城邦 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T01:20:33.551Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "102156742857121792",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "来分享你和万维钢一起学习的收获吧！课程、书籍都可以。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:02:57.612Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "85673494190769152",
       "image": null,
       "ownerUserId": null,

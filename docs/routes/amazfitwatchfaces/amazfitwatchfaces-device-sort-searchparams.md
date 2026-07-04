@@ -456,8 +456,8 @@ If you subscribe to [TOP for the last 6 months (Only new) - Xiaomi Smart Band 9]
   "topFeeds": [
     {
       "description": "Here you can download and share watch face for Xiaomi Smart Band 7 (Mi Band 7) • watch faces & apps - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:02:39.336Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "156051053062277122",
       "image": "https://amazfitwatchfaces.com/assets/images/logo-ua-1.svg",
       "ownerUserId": null,

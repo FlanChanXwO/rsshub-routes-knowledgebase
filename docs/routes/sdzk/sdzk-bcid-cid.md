@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "工作动态_山东省教育招生考试院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:05:31.298Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66769930499978240",
       "image": null,
       "ownerUserId": null,

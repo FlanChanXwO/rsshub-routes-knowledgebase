@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "北京师范大学教务部最新通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T22:42:10.267Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72454907684832256",
       "image": null,
       "ownerUserId": null,

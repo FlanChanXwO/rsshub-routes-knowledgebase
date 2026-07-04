@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
+      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86130193434324992",
+      "id": "120292329928510464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/epic-fight",
-      "title": "Epic Fight Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/modern-ui",
+      "title": "Modern UI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/epic-fight/versions"
+      "url": "rsshub://modrinth/project/modern-ui/versions"
     }
   ]
 }

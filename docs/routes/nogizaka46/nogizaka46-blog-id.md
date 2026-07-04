@@ -118,8 +118,8 @@ Member ID
   "topFeeds": [
     {
       "description": "乃木坂46 公式ブログ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T21:10:11.005Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "73061681095678976",
       "image": null,
       "ownerUserId": null,

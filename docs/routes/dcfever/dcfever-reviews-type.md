@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "相機及鏡頭測試報告 Camera and Lens Reviews - DCFever.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:03:35.709Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84292992343678976",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,
@@ -74,16 +74,16 @@ _None_
       "url": "rsshub://dcfever/reviews"
     },
     {
-      "description": "汽車電動車最新行情 Cars & Electric Cars Testing - DCFever.com - Powered by RSSHub",
+      "description": "手機平板電腦測試報告 - DCFever.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "63944676322037761",
+      "id": "63944676322037760",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dcfever.com/cars/reviews.php",
-      "title": "汽車電動車最新行情 Cars & Electric Cars Testing - DCFever.com",
+      "siteUrl": "https://www.dcfever.com/phones/reviews.php",
+      "title": "手機平板電腦測試報告 - DCFever.com",
       "type": "feed",
-      "url": "rsshub://dcfever/reviews/cars"
+      "url": "rsshub://dcfever/reviews/phones"
     }
   ]
 }

@@ -58,7 +58,7 @@ _None_
     {
       "description": "Pixel Update Bulletins | Android Open Source Project - Powered by RSSHub",
       "errorAt": "2026-07-01T14:57:51.398Z",
-      "errorMessage": "[GET] \"https://source.android.com/docs/security/bulletin/pixel\": 429 Too Many Requests\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "267496788860551168",
       "image": "https://www.gstatic.com/devrel-devsite/prod/v11431966d26d9f049ef61662c2b798f1cdee8af320f1ba0f77a43eee64301d60/androidsource/images/touchicon-180.png",
       "ownerUserId": null,

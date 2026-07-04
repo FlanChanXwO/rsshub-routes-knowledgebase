@@ -105,7 +105,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5639,
+  "heat": 5638,
   "location": "list.ts",
   "maintainers": [
     "DIYgod",
@@ -129,8 +129,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter List - 1842817257933844798 - Powered by RSSHub",
-      "errorAt": "2026-07-02T03:34:06.805Z",
-      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65802121820371968",
       "image": null,
       "ownerUserId": null,

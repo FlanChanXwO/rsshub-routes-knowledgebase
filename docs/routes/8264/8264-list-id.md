@@ -120,8 +120,8 @@ _None_
   "topFeeds": [
     {
       "description": "户外圈热点信息阅读，内容包含户外徒步、露营、登山、攀岩、绳降、骑行、摩旅等信息,8264户外 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T07:34:25.900Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62962524793659392",
       "image": null,
       "ownerUserId": null,

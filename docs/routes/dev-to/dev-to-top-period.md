@@ -85,7 +85,7 @@ _None_
     {
       "description": "Top dev.to posts - Powered by RSSHub",
       "errorAt": "2026-07-02T02:43:16.754Z",
-      "errorMessage": "Authentication failed. Access denied.\n/dev.to/top/month\nFailed to fetch\n",
+      "errorMessage": "Authentication failed. Access denied.\n/dev.to/top/month\n[GET] \"https://dev.to/nazar_boyko/how-to-learn-go-fast-a-practical-roadmap-for-senior-backend-developers-18l5\": <no response> fetch failed\n",
       "id": "145315249048801291",
       "image": null,
       "ownerUserId": null,

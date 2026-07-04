@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "<p>We are one of the largest online libraries in the world. We aim to make literature and knowledge accessible to everyone 🕊️📚</p><p>📧 support@z-lib.fm</p> - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T02:03:33.701Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72480233900826624",
       "image": null,
       "ownerUserId": null,

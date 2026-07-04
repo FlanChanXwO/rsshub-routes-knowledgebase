@@ -55,8 +55,8 @@ _None_
     },
     {
       "description": "Apple News & Mac Rumors Breaking All Day - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:03:20.898Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62307152241755136",
       "image": null,
       "ownerUserId": null,

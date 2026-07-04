@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4764,
+  "heat": 4767,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. Anthropic Fable 5 和 Mythos 5 解禁，将于明天在 Claude 平台全球上线 2. Claude Code 被曝检测中国用户时区与身份归属，回应称将删除相关代码 3. 苹果 CEO 与欧盟技术主管就「Siri AI」举行建设性会谈 4. 孙天祥入职百度，担任基础模型研发部负责人 5. 软银：对 Open AI 进行 100 亿美元后续投资 6. 微软计划进行新一轮裁员，将影响到数千个岗位 7. Anthropic 推出 Claude Sonnet 5 8. Anthropic 推出 Claude Science AI 科研工作台 9. 无方向盘、无踏板，特斯拉 Cybercab 量产版启动公开道路工程测试 10. 反垄断案败诉，谷歌被勒令向瑞典支付巨头 Klarna 子公司支付 143 亿瑞典克朗 11. 优必选发布超仿生机器人：U1 Ultra 男版 99 万，女版 88 万 订单破万 12. 老凤祥终止入股迈巴赫奢侈品亚太，改签中国区品牌代理协议 13. Getty Images 宣布取消与 Shutterstock 合并计划 14. 小红书内部启动秘密项目，再造一款热门新品 - Powered by RSSHub",
+      "description": "1. 宇树科技科创板 IPO 注册获批 2. 传美团限制业务团队使用豆包 3. 阿里整合 QoderWork、悟空、MuleRun，将推出新的生产力 AI 产品 4. 茉莉奶白侵害 LV 商标权一审败诉：被判赔 1030 万元全网致歉 5. 可灵 AI 将完成 30 亿美元融资腾讯参投，计划 12 个月内启动赴港 IPO 6. OpenAI 据悉提议向美国政府提供 5% 股权 以争取政策支持 7. Anthropic 据悉正与三星洽谈定制人工智能芯片 8. 近年来最密集发布节奏：消息称苹果今明两年拟推出至少 5 款 iPhone 新机 9. 马斯克：Optimus 机器人量产初期进展将十分缓慢 因所有技术均为全新开发 10. 美国政府正与人工智能公司商讨新模型发布的自愿性标准 11. 软银就以 OpenAI 股权为抵押的贷款谈判重启，并作出更多让步 12. 苹果首款折叠屏 iPhone 启动量产，消费电子产业链获提振 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

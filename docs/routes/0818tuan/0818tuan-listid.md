@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": "2026-07-02T02:30:45.106Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 65670452855599106",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65670452855599106",
       "image": "http://www.0818tuan.com/favicon.ico",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T12:57:29.112Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61413843131719680",
       "image": "http://www.0818tuan.com/favicon.ico",
       "ownerUserId": null,

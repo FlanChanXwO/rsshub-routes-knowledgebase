@@ -63,21 +63,21 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-18T07:31:14.501Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
-      "id": "197374238844610560",
+      "description": "K盘音 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-16T04:13:10.675Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
+      "id": "197372964709496832",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
-      "title": "双鱼座73 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
+      "title": "K盘音 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/18p2pmimi"
+      "url": "rsshub://baidu/tieba/user/TheKickInside"
     },
     {
       "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
       "errorAt": "2026-05-26T01:17:33.906Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=米利阿鲁德\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "86266828598569984",
       "image": null,
       "ownerUserId": null,

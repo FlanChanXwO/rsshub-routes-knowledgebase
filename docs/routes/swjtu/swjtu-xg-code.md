@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T10:20:51.876Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72512219481102338",
       "image": null,
       "ownerUserId": null,

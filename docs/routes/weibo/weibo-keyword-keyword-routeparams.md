@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": "2026-07-02T00:27:10.237Z",
-      "errorMessage": "Cookies expired. Msg:  https://m.weibo.cn/captcha/show?backUrl=https%3A%2F%2Fm.weibo.cn%2Fp%2Fsearchall%3Fcontainerid%3D100103type%253D1%2526q%253Dobsidian\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55288652424312832",
       "image": null,
       "ownerUserId": null,

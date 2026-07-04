@@ -392,8 +392,8 @@
     },
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:02:44.909Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "185163495992601600",
       "image": null,
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 919,
+  "heat": 920,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/business/2026/07/01/show-a-liberal-a-lime-bike-and-he-will-show-you-his-soul\": 403 Forbidden\n[GET] \"https://www.economist.com/business/2026/07/01/show-a-liberal-a-lime-bike-and-he-will-show-you-his-soul\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/02/will-the-data-centre-backlash-derail-the-ai-boom\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/07/02/will-the-data-centre-backlash-derail-the-ai-boom\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

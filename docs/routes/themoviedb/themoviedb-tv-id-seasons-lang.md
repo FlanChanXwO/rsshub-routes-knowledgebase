@@ -75,16 +75,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or so, that leaves no party, personality or action unscathed in pursuit of laughs. - Powered by RSSHub",
+      "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83787519319912448",
-      "image": "https://image.tmdb.org/t/p/original/917ZwaLnDX5A5iVotS8NGObNtgO.jpg",
+      "id": "83787115042820096",
+      "image": "https://image.tmdb.org/t/p/original/z885tJn5kkUHppjIK1g2Q54iTff.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/797/seasons",
-      "title": "Have I Got News for You - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/2288/seasons",
+      "title": "Prison Break - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/797-persona/seasons"
+      "url": "rsshub://themoviedb/tv/2288-prison-break/seasons"
     }
   ],
   "view": 5

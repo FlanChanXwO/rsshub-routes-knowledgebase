@@ -89,7 +89,7 @@
     {
       "description": "教务公告 - 哈尔滨理工大学教务处 - Powered by RSSHub",
       "errorAt": "2026-04-03T10:52:35.839Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"http://jwzx.hrbust.edu.cn/homepage/infoArticleList.do?columnId=354&pagingNumberPer=12\": <no response> fetch failed\n",
       "id": "71898308097212416",
       "image": null,
       "ownerUserId": null,

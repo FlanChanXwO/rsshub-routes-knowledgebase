@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "$Gawr Gura Ch. hololive-EN's live streaming status - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T21:54:41.696Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "42001666786766848",
       "image": null,
       "ownerUserId": null,

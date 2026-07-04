@@ -434,8 +434,8 @@
   "topFeeds": [
     {
       "description": "新闻动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T23:59:01.766Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73885560348288000",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,

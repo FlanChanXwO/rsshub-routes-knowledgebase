@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "偶像荣耀-新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T00:05:26.619Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72489210828646400",
       "image": null,
       "ownerUserId": null,

@@ -68,8 +68,8 @@ _None_
     },
     {
       "description": "游戏王 - 旅法师营地 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-02T22:01:42.734Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60263446472040460",
       "image": null,
       "ownerUserId": null,
