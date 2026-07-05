@@ -90,7 +90,7 @@
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://tv.cctv.com/lm/xwzk/videoset",
-      "title": "新闻周刊视频_央视网(cctv.com)504 Gateway Time-out",
+      "title": "新闻周刊视频_央视网(cctv.com)",
       "type": "feed",
       "url": "rsshub://cctv/lm/xwzk"
     },

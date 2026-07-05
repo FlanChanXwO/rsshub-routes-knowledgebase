@@ -56,7 +56,7 @@ _None_
       }
     ]
   },
-  "heat": 65,
+  "heat": 66,
   "location": "bbs/forum.ts",
   "maintainers": [
     "KarasuShin"
@@ -82,7 +82,7 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:37:54.105Z",
+      "errorAt": "2026-07-03T21:34:37.420Z",
       "errorMessage": "[GET] \"https://bbs.yamibo.com/forum.php?mod=forumdisplay&fid=5&orderby=dateline&filter=typeid&typeid=404\": 503 Service Unavailable\n",
       "id": "99080947264681984",
       "image": null,

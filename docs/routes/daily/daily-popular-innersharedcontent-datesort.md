@@ -39,7 +39,7 @@ _None_
     "social-media"
   ],
   "example": "/daily/popular",
-  "heat": 9,
+  "heat": 10,
   "location": "popular.ts",
   "maintainers": [
     "Rjnishant530"

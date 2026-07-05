@@ -88,8 +88,8 @@
     },
     {
       "description": "World - TASS - Powered by RSSHub",
-      "errorAt": "2026-07-03T03:41:39.385Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64311310991740928",
       "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
       "ownerUserId": null,

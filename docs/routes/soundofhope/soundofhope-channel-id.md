@@ -77,7 +77,7 @@
     {
       "description": "希望之声 - - Powered by RSSHub",
       "errorAt": "2026-03-15T21:47:18.337Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.soundofhope.org/term/1\": 403 Forbidden\n",
       "id": "236706823065107456",
       "image": null,
       "ownerUserId": null,

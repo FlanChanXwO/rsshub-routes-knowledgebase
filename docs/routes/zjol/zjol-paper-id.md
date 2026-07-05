@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "浙江日报 - Powered by RSSHub",
-      "errorAt": "2026-07-03T00:04:15.176Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150224065197180928",
       "image": null,
       "ownerUserId": null,

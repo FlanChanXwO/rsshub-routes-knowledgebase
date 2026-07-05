@@ -206,8 +206,8 @@
   "topFeeds": [
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T00:43:03.284Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 155176910431096832",
       "id": "155176910431096832",
       "image": null,
       "ownerUserId": null,
@@ -218,8 +218,8 @@
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T00:43:27.448Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 137587102477911040",
       "id": "137587102477911040",
       "image": null,
       "ownerUserId": null,

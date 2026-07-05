@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 100,
+  "heat": 102,
   "location": "category.ts",
   "maintainers": [
     "qwertyuiop6"

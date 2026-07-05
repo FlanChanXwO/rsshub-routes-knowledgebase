@@ -89,8 +89,8 @@
     },
     {
       "description": "电子科技大学教务处通知（重要公告） - Powered by RSSHub",
-      "errorAt": "2026-07-03T01:23:28.413Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "113188362354655232",
       "image": null,
       "ownerUserId": null,

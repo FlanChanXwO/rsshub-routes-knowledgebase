@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "LangChain Events - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:57:52.897Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62716706890373120",
       "image": null,
       "ownerUserId": null,

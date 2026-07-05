@@ -37,7 +37,7 @@ _None_
     "journal"
   ],
   "example": "/ieee/journal/6287639/preprint",
-  "heat": 258,
+  "heat": 257,
   "location": "journal.ts",
   "maintainers": [
     "HenryQW"

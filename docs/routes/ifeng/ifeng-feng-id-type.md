@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "优质房产领域创作者 宏观经济、商业财经与楼市逻辑 - Powered by RSSHub",
-      "errorAt": "2026-07-02T23:32:26.497Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 89202893918778368",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "89202893918778368",
       "image": "https://d.ifengimg.com/w90_h90_q90/img1.ugc.ifeng.com/newugc/20180918/13/wemedia/3deae080086a56ef24ea109930b7cfda8db6b67b_size20_w200_h200.png",
       "ownerUserId": null,

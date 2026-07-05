@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:46:35.649Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667731240962",
       "image": null,
       "ownerUserId": null,

@@ -356,8 +356,8 @@
     },
     {
       "description": "安卓软件下载_Android应用APK下载 (破解版/去广告/纯净版) - 423Down - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T00:28:31.411Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68887846273620992",
       "image": "https://www.423down.com/wp-content/themes/D7/img/423Down.png",
       "ownerUserId": null,

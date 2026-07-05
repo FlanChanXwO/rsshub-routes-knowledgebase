@@ -65,7 +65,7 @@ _None_
   "topFeeds": [
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-03T01:19:38.631Z",
+      "errorAt": "2026-07-04T02:12:37.977Z",
       "errorMessage": "Failed to fetch\n",
       "id": "67473482043971584",
       "image": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-03T01:18:20.496Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86770785762500608",
       "image": null,
       "ownerUserId": null,

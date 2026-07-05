@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Ottawa - CBC News - Powered by RSSHub",
-      "errorAt": "2026-07-02T22:02:43.912Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60766614420573184",
       "image": null,
       "ownerUserId": null,

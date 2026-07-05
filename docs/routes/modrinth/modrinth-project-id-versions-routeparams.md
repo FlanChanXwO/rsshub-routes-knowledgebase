@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
+      "description": "Store numeric values of players' stats or balance, specified by a text key. -> With Folia and Multi-Server support! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292329928510464",
+      "id": "123851540339893248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/modern-ui",
-      "title": "Modern UI Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/13drT7K6",
+      "title": "JustPoints Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/modern-ui/versions"
+      "url": "rsshub://modrinth/project/13drT7K6/versions"
     }
   ]
 }

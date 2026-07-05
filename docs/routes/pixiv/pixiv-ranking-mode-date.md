@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7694,
+  "heat": 7695,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -127,7 +127,7 @@ _None_
   "path": "/ranking/:mode/:date?",
   "topFeeds": [
     {
-      "description": "2026年7月3日 pixiv 日排行 - Powered by RSSHub",
+      "description": "2026年7月4日 pixiv 日排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41427688948323328",
@@ -139,7 +139,7 @@ _None_
       "url": "rsshub://pixiv/ranking/day"
     },
     {
-      "description": "2026年7月3日 pixiv 周排行 - Powered by RSSHub",
+      "description": "2026年7月4日 pixiv 周排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41147805276726317",

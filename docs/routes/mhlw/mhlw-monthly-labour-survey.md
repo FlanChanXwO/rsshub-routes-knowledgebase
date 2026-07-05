@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "毎月勤労統計調査（全国調査・地方調査） 結果の概要について紹介しています。 - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:57:38.562Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "269340703253877760",
       "image": "https://www.mhlw.go.jp/favicon.ico",
       "ownerUserId": null,

@@ -8360,6 +8360,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `6`
 - Index File: `index/swpu.md`
 
+## Shaanxi History Museum
+- Namespace: `sxhm`
+- Aliases: `shaanxi history museum, sxhm, sxhm.com/, www, www.sxhm.com/`
+- Route Count: `2`
+- Index File: `index/sxhm.md`
+
 ## SYCL
 - Namespace: `sycl`
 - Aliases: `sycl, sycl.tech`

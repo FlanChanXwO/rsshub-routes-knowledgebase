@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "学好方法论，换遍工作都不怕，这里是邢小作的《产品方法论集散地》，一个专注于分享产品方法论的空间，却不仅仅是产品方法论 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T02:13:46.786Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "66008375993664512",
       "image": null,
       "ownerUserId": null,

@@ -70,8 +70,8 @@ _None_
     },
     {
       "description": "最佳甜品餐廳 – 香港餐廳排行榜 – 搵食 | OpenRice 香港開飯喇 - Powered by RSSHub",
-      "errorAt": "2026-07-03T00:01:45.785Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76442757221974016",
       "image": null,
       "ownerUserId": null,

@@ -73,16 +73,16 @@ _None_
       "url": "rsshub://mihoyo/bbs/user-post/288909600"
     },
     {
-      "description": "米游社 - 小新sama 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 一卷心菜一一 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688595211734016",
+      "id": "120386587430633472",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76062032",
-      "title": "米游社 - 小新sama 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158107848",
+      "title": "米游社 - 一卷心菜一一 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76062032"
+      "url": "rsshub://mihoyo/bbs/user-post/158107848"
     }
   ]
 }

@@ -79,7 +79,7 @@ Language
     {
       "description": "Speeches - WHO - Powered by RSSHub",
       "errorAt": "2025-11-18T18:06:11.847Z",
-      "errorMessage": "[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-launch-of-joint-bundibugyo-ebola-virus-continental-strategic-preparedness-and-response-plan-5-june-2026\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.who.int/director-general/speeches/detail//who-director-general-s-opening-remarks-at-the-media-briefing---2-july-2026\": 404 Not Found\n",
       "id": "65765818076625920",
       "image": null,
       "ownerUserId": null,

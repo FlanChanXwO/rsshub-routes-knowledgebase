@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 17,
   "location": "index.ts",
   "maintainers": [
     "zphw"
@@ -80,7 +80,7 @@ _None_
     {
       "description": "品葱 - 发现 - Powered by RSSHub",
       "errorAt": "2026-05-11T12:02:55.853Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "250904001312360448",
       "image": null,
       "ownerUserId": null,

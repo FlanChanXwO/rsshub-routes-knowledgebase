@@ -96,15 +96,15 @@
     },
     {
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:55:58.247Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "148336659220684800",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "162818105768870912",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.jisilu.cn/people/%E5%AD%94%E6%9B%BC%E5%AD%90",
-      "title": "孔曼子 的个人主页 - 集思录 - 主题",
+      "siteUrl": "https://www.jisilu.cn/people/gaigai777",
+      "title": "gaigai777 的个人主页 - 集思录 - 主题",
       "type": "feed",
-      "url": "rsshub://jisilu/people/%E5%AD%94%E6%9B%BC%E5%AD%90"
+      "url": "rsshub://jisilu/people/gaigai777"
     }
   ],
   "url": "www.jisilu.cn",

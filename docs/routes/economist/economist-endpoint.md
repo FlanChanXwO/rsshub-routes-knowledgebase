@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 920,
+  "heat": 921,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/02/will-the-data-centre-backlash-derail-the-ai-boom\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/07/02/will-the-data-centre-backlash-derail-the-ai-boom\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/obituary/2026/07/02/a23a-had-more-adventures-than-most\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/07/02/will-the-data-centre-backlash-derail-the-ai-boom\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/01/china-covers-up-a-plane-crash-in-the-heart-of-its-capital\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/06/29/hong-kong-once-a-great-place-to-raise-and-spend-money-is-halfway-back\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/01/china-covers-up-a-plane-crash-in-the-heart-of-its-capital\": 403 Forbidden\n",
+      "errorMessage": "getaddrinfo ENOTFOUND www.economist.com\n[GET] \"https://www.economist.com/china/2026/07/01/china-hushes-up-a-plane-crash-in-the-heart-of-its-capital\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/01/china-hushes-up-a-plane-crash-in-the-heart-of-its-capital\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

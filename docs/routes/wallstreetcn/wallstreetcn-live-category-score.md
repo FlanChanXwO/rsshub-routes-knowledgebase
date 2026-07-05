@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 558,
+  "heat": 559,
   "location": "live.tsx",
   "maintainers": [
     "nczitzk"
@@ -92,8 +92,8 @@
     },
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T02:13:47.101Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "62853146646103040",
       "image": null,
       "ownerUserId": null,

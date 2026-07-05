@@ -115,7 +115,7 @@ e.g.: `/gelbooru/post?limit=20&`
     {
       "description": "Gelbooru post list - Powered by RSSHub",
       "errorAt": "2025-06-15T15:32:07.406Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://gelbooru.com/index.php?api_key=&json=1&limit=40&page=dapi&q=index&s=post&tags=1girl+rating%3Ageneral&user_id=\": 401 Unauthorized\n",
       "id": "132064394430128128",
       "image": null,
       "ownerUserId": null,

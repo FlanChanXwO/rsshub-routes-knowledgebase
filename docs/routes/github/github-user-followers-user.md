@@ -82,16 +82,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "FerrisChi's followers - Powered by RSSHub",
+      "description": "haoqiGood's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126208930954814464",
+      "id": "79418868985327616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/FerrisChi",
-      "title": "FerrisChi's followers",
+      "siteUrl": "https://github.com/haoqiGood",
+      "title": "haoqiGood's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/FerrisChi"
+      "url": "rsshub://github/user/followers/haoqiGood"
     }
   ]
 }

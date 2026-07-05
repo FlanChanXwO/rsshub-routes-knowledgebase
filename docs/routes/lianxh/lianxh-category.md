@@ -101,8 +101,8 @@ _None_
   "topFeeds": [
     {
       "description": "连享会 - 全部专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T04:02:58.613Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71511658456989696",
       "image": null,
       "ownerUserId": null,

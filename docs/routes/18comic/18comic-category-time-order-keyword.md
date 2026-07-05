@@ -78,7 +78,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 470,
+  "heat": 471,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -114,8 +114,8 @@
     },
     {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-06-29T17:03:42.760Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://jmcomic1.me/albums\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "181646966076518400",
       "image": null,
       "ownerUserId": null,

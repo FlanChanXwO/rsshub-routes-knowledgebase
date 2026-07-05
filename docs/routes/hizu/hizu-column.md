@@ -97,8 +97,8 @@
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-07-02T18:46:55.674Z",
-      "errorMessage": "[GET] \"https://pub-zhtb.hizh.cn/a/202607/02/AP6a467257e4b082bf2148abeb.json\": <no response> fetch failed\n",
+      "errorAt": "2026-07-03T22:43:21.966Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,
@@ -108,16 +108,16 @@
       "url": "rsshub://hizu"
     },
     {
-      "description": "香洲 - 珠海网 - Powered by RSSHub",
+      "description": "教育 - 珠海网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114507281667054592",
+      "id": "177651896288583694",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.hizh.cn/",
-      "title": "香洲 - 珠海网",
+      "title": "教育 - 珠海网",
       "type": "feed",
-      "url": "rsshub://hizu/5f86a3f5e4b09d75f99dde7d"
+      "url": "rsshub://hizu/5ff7c0fde4b0e2f210d05e20"
     }
   ],
   "url": "hizh.cn/"

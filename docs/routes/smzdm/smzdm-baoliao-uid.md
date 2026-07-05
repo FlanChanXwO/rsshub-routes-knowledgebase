@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "AWW-CH的爆料 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T00:29:14.006Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nFailed to fetch\n",
       "id": "78644582017168384",
       "image": null,
       "ownerUserId": null,

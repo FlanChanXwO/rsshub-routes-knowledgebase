@@ -164,8 +164,8 @@
     },
     {
       "description": "宏观经济 - Powered by RSSHub",
-      "errorAt": "2026-07-02T22:02:18.946Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101364983690255360",
       "image": "https://www.lhratings.com/static/imgs/logo.png",
       "ownerUserId": null,

@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5504,
+  "heat": 5507,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -129,8 +129,8 @@ _None_
   "topFeeds": [
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-07-03T04:00:56.399Z",
-      "errorMessage": "200 OK",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72541421314282496",
       "image": null,
       "ownerUserId": null,

@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "新闻中心 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-02T13:13:50.594Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "188383956694418432",
       "image": null,
       "ownerUserId": null,

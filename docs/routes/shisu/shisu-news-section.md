@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "上外新闻|SISU TODAY - Notice - Powered by RSSHub",
-      "errorAt": "2026-05-03T00:07:46.079Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "83443825223243776",
       "image": "https://upload.wikimedia.org/wikipedia/zh/thumb/0/06/Shanghai_International_Studies_University_logo.svg/300px-Shanghai_International_Studies_University_logo.svg.png",
       "ownerUserId": null,

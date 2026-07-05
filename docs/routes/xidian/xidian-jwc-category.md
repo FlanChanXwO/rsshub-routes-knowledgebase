@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:59:09.384Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69997970126835712",
       "image": null,
       "ownerUserId": null,

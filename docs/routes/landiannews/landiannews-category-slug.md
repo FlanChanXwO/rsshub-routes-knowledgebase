@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "category.ts",
   "maintainers": [
     "cscnk52"

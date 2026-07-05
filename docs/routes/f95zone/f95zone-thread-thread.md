@@ -88,8 +88,8 @@ Note: If you want to track a specific post's content changes (e.g., first post w
   "topFeeds": [
     {
       "description": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation] - Powered by RSSHub",
-      "errorAt": "2026-07-03T03:25:05.410Z",
-      "errorMessage": "[GET] \"https://f95zone.to/threads/nagoonimation-collection-2025-11-14-nagoonimation.52702/\": 503 Service Unavailable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "250522648576132096",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@ Note: If you want to track a specific post's content changes (e.g., first post w
     },
     {
       "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:52:40.951Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "250445877936302080",
       "image": null,
       "ownerUserId": null,

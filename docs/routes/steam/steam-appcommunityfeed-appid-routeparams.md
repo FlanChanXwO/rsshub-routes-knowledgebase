@@ -95,8 +95,8 @@ _None_
   "topFeeds": [
     {
       "description": "2358720 Steam Community Hub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T02:10:42.182Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58956346985948160",
       "image": null,
       "ownerUserId": null,

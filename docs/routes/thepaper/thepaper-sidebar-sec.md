@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": "2026-07-02T21:52:22.457Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,

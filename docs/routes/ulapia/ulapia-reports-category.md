@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-03T22:40:03.999Z",
+      "errorMessage": "[GET] \"http://www.ulapia.com/reports/strategy_research\": <no response> fetch failed\n",
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84958270281030656",
+      "id": "126806034891658240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
-      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "siteUrl": "https://github.com/LOWERTOP/Shadowrocket-First/graphs/contributors",
+      "title": "LOWERTOP/Shadowrocket-First Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
+      "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
     },
     {
-      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
+      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84430164607162368",
+      "id": "183741893306669056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
-      "title": "infiniflow/ragflow Contributors",
+      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
+      "title": "obaby/baby-wechat Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/infiniflow/ragflow"
+      "url": "rsshub://github/contributors/obaby/baby-wechat"
     }
   ]
 }

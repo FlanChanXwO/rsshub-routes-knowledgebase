@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3360,
+  "heat": 3366,
   "location": "category.ts",
   "maintainers": [
     "OdinZhang"
