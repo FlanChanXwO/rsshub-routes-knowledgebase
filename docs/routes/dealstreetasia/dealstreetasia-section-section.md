@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/dealstreetasia/section/private-equity",
-  "heat": 2,
+  "heat": 3,
   "location": "section.ts",
   "maintainers": [
     "jack2game"

@@ -92,8 +92,8 @@
     },
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",
-      "errorAt": "2026-07-04T02:13:47.101Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62853146646103040",
       "image": null,
       "ownerUserId": null,

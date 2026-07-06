@@ -40,7 +40,7 @@ _None_
   "categories": [
     "journal"
   ],
-  "heat": 49,
+  "heat": 50,
   "location": "news-and-comment.ts",
   "maintainers": [
     "y9c",
@@ -60,18 +60,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Read the latest News & Comment articles from Nature Energy - Powered by RSSHub",
-      "errorAt": "2026-06-27T11:13:28.185Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "160596099235667968",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nature.com/nenergy/news-and-comment",
-      "title": "News & Comment | Nature Energy",
-      "type": "feed",
-      "url": "rsshub://nature/news-and-comment/nenergy"
-    },
-    {
       "description": "Read the latest News & Comment articles from Nature Microbiology - Powered by RSSHub",
       "errorAt": "2026-06-23T01:58:30.112Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -82,6 +70,18 @@ _None_
       "title": "News & Comment | Nature Microbiology",
       "type": "feed",
       "url": "rsshub://nature/news-and-comment/nmicrobiol"
+    },
+    {
+      "description": "Read the latest News & Comment articles from Nature Energy - Powered by RSSHub",
+      "errorAt": "2026-06-27T11:13:28.185Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "160596099235667968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nature.com/nenergy/news-and-comment",
+      "title": "News & Comment | Nature Energy",
+      "type": "feed",
+      "url": "rsshub://nature/news-and-comment/nenergy"
     }
   ],
   "url": "nature.com/latest-news"

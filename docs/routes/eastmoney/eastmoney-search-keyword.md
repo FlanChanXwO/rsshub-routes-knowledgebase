@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 484,
+  "heat": 486,
   "location": "search/index.ts",
   "maintainers": [
     "drgnchan"
@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "东方财富网 - 搜索'期货' - Powered by RSSHub",
-      "errorAt": "2026-07-04T02:18:00.396Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73528214634595328",
       "image": null,
       "ownerUserId": null,

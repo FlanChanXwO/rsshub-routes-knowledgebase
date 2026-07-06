@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events. - Powered by RSSHub",
-      "errorAt": "2026-07-04T02:13:47.251Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66080131439415296",
       "image": null,
       "ownerUserId": null,

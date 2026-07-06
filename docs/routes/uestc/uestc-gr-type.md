@@ -75,8 +75,8 @@
   "topFeeds": [
     {
       "description": "电子科技大学研究生院通知（学生管理） - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T12:22:59.647Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68471708052412416",
       "image": null,
       "ownerUserId": null,

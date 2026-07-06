@@ -104,8 +104,8 @@
     },
     {
       "description": "#elizabetholsen# 的超话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T21:18:33.787Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "96189998246796288",
       "image": null,
       "ownerUserId": null,

@@ -100,8 +100,8 @@
     },
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": "2026-07-03T22:41:50.053Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72857212239056896",
       "image": null,
       "ownerUserId": null,

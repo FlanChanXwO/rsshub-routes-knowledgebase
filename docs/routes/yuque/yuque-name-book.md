@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 367,
+  "heat": 366,
   "location": "book.ts",
   "maintainers": [
     "aha2mao",
@@ -77,7 +77,7 @@
   "topFeeds": [
     {
       "description": "👩‍💻🥷渗透 / 安全攻防🥷👩‍💻 - Powered by RSSHub",
-      "errorAt": "2026-07-04T04:01:01.377Z",
+      "errorAt": "2026-07-05T04:53:47.274Z",
       "errorMessage": "Failed to fetch\n",
       "id": "57371095438208000",
       "image": "https://cdn.nlark.com/yuque/0/2020/jpeg/anonymous/1592796105285-8085e728-e5fc-4669-9b4e-deb5c0b07f77.jpeg",

@@ -39,7 +39,7 @@ _None_
   ],
   "description": "The Gradient Blog Posts",
   "example": "/thegradient/posts",
-  "heat": 16,
+  "heat": 17,
   "location": "index.ts",
   "maintainers": [
     "liyaozhong"

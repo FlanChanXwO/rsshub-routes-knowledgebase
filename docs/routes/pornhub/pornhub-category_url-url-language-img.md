@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 131,
+  "heat": 132,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Anal Creampie: Free Teen Creampies Videos | Pornhub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T04:52:19.048Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58588081077915648",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Watch the Hottest Pornstars And Porn Movies | PornHub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T05:51:15.266Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "73689953585256448",
       "image": null,
       "ownerUserId": null,

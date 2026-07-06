@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 97,
+  "heat": 96,
   "location": "room.ts",
   "maintainers": [
     "DIYgod",
@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "73704015177969664",
-      "image": "https://rpic.douyucdn.cn/asrpic/260704/71415_src_0525.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/260705/71415_src_0059.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/71415",
       "title": "寅子的斗鱼直播间",
@@ -89,7 +89,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "62335921117247488",
-      "image": "https://rpic.douyucdn.cn/asrpic/260704/9999_src_0821.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/260705/9999_src_1214.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/9999",
       "title": "yyfyyf的斗鱼直播间",

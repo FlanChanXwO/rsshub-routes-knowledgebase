@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Publications - EU DisinfoLab - Powered by RSSHub",
-      "errorAt": "2026-07-03T20:17:07.295Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73308935271149568",
       "image": null,
       "ownerUserId": null,

@@ -69,7 +69,7 @@ _None_
   "topFeeds": [
     {
       "description": "ModelScope——汇聚各领域先进的机器学习模型，提供模型探索体验、推理、训练、部署和应用的一站式服务。在这里，共建模型开源社区，发现、学习、定制和分享心仪的模型。 - Powered by RSSHub",
-      "errorAt": "2026-04-23T16:27:10.833Z",
+      "errorAt": "2026-07-05T04:26:52.092Z",
       "errorMessage": "Failed to fetch\nCannot read properties of null (reading 'map')\n",
       "id": "88126223574098944",
       "image": "https://g.alicdn.com/sail-web/maas/0.8.10/favicon/128.ico",

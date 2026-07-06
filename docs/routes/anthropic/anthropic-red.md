@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "Anthropic Frontier Red Team - Powered by RSSHub",
-      "errorAt": "2026-07-04T02:37:31.167Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "230531103133701120",
       "image": "https://red.anthropic.com/anthropic-serve/favicon.ico",
       "ownerUserId": null,

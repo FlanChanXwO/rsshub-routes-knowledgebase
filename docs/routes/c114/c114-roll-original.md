@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 55,
+  "heat": 54,
   "location": "roll.ts",
   "maintainers": [
     "nczitzk"

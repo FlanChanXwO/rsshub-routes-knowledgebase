@@ -88,8 +88,8 @@
     },
     {
       "description": "走进日本 - Society - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T04:28:40.654Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "82398566855976960",
       "image": null,
       "ownerUserId": null,

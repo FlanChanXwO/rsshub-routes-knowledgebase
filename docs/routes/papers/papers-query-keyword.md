@@ -96,16 +96,16 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
     },
     {
-      "description": "backdoor - Powered by RSSHub",
+      "description": "contagion - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "139675539524500480",
+      "id": "161628577004631040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=backdoor&sort=0",
-      "title": "backdoor",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=Contagion&sort=0",
+      "title": "contagion",
       "type": "feed",
-      "url": "rsshub://papers/query/backdoor"
+      "url": "rsshub://papers/query/Contagion"
     }
   ],
   "url": "papers.cool"

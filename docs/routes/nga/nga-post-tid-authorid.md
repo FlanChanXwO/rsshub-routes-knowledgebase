@@ -65,12 +65,12 @@ _None_
   "topFeeds": [
     {
       "description": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T22:01:05.489Z",
+      "errorMessage": "Cannot read properties of null (reading 'match')\n",
       "id": "154777115123643392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=910.3226966351833#",
+      "siteUrl": "https://nga.178.com/read.php?tid=41073656&page=120&authorid=66025368&rand=730.7355147650693#",
       "title": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/41073656/66025368"
@@ -82,7 +82,7 @@ _None_
       "id": "179409436734540800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://nga.178.com/read.php?tid=43098323&page=292&authorid=150058&rand=577.326539950067#",
+      "siteUrl": "https://nga.178.com/read.php?tid=43098323&page=292&authorid=150058&rand=559.3998748616337#",
       "title": "NGA -阿狼- 在 - 我必不是蛇年红包 - 中的回复 178",
       "type": "feed",
       "url": "rsshub://nga/post/43098323/150058"

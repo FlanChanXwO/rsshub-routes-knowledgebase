@@ -543,8 +543,8 @@
   "topFeeds": [
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T12:31:29.301Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60583368044158976",
       "image": null,
       "ownerUserId": null,

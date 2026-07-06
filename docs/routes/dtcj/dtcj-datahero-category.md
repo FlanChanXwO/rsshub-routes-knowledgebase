@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "datahero.ts",
   "maintainers": [
     "nczitzk"
@@ -66,7 +66,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-07-08T17:59:19.428Z",
-      "errorMessage": "[GET] \"https://dtcj.com/api/v1/data_hero_informations?per=15&page=1&topic_id=\": 503 Service Temporarily Unavailable\n",
+      "errorMessage": "[GET] \"https://dtcj.com/api/v1/data_hero_informations?per=15&page=1&topic_id=\": 503 Service Temporarily Unavailable\n[GET] \"https://dtcj.com/api/v1/data_hero_informations?per=15&page=1&topic_id=\": 503 Service Temporarily Unavailable\n",
       "id": "165445337069434884",
       "image": null,
       "ownerUserId": null,

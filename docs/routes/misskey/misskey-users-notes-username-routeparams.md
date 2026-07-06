@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "User timeline for ixy@misskey.io on misskey.io - Powered by RSSHub",
-      "errorAt": "2026-07-03T20:12:58.949Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64831126205828096",
       "image": "https://proxy.misskeyusercontent.jp/avatar.webp?url=https%3A%2F%2Fmedia.misskeyusercontent.jp%2Fio%2F4d3bc962-189d-4ea5-8417-f622daa6d5d1.png&avatar=1",
       "ownerUserId": null,

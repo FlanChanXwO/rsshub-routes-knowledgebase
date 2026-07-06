@@ -89,7 +89,7 @@
     {
       "description": "动漫之家新闻站首页 - Powered by RSSHub",
       "errorAt": "2025-06-07T19:44:41.308Z",
-      "errorMessage": "[GET] \"https://news.dmzj.com/\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41467081623553024",
       "image": null,
       "ownerUserId": null,

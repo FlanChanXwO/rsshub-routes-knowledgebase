@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1029,
+  "heat": 1028,
   "location": "huati.ts",
   "maintainers": [
     "xizeyoupan"
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "酷安话题-酷安夜话 - Powered by RSSHub",
-      "errorAt": "2026-07-03T22:41:07.069Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69604119970038786",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69604119970038786",
       "image": null,
       "ownerUserId": null,

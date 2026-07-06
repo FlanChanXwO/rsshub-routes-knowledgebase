@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2061,
+  "heat": 2060,
   "location": "cn/index.ts",
   "maintainers": [
     "laampui"

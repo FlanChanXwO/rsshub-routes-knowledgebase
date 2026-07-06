@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": "2026-07-01T12:38:21.398Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60670746377865216",
       "image": null,
       "ownerUserId": null,

@@ -72,7 +72,7 @@ _None_
     {
       "description": "滚动新闻-财经网 - Powered by RSSHub",
       "errorAt": "2025-05-12T11:21:50.287Z",
-      "errorMessage": "[GET] \"https://roll.caijing.com.cn/ajax_lists.php?modelid=0&time=0.3462262784193888\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://roll.caijing.com.cn/ajax_lists.php?modelid=0&time=0.8233493087964536\": 403 Forbidden\n",
       "id": "59951906827705344",
       "image": "https://www.caijing.com.cn/favicon.ico",
       "ownerUserId": null,

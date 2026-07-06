@@ -59,7 +59,7 @@ _None_
     {
       "description": "logrocket-Dev - Powered by RSSHub",
       "errorAt": "2026-07-04T04:08:16.860Z",
-      "errorMessage": "[GET] \"https://blog.logrocket.com/debugging-session-with-claude/\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "80088309178667008",
       "image": null,
       "ownerUserId": null,

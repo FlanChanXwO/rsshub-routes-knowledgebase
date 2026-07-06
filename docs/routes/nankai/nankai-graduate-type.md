@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "南开大学研究生院-综合信息 - Powered by RSSHub",
-      "errorAt": "2026-07-03T16:37:43.276Z",
-      "errorMessage": "[GET] \"https://graduate.nankai.edu.cn/82/list.htm\": <no response> fetch failed\n",
+      "errorAt": "2026-07-05T04:44:28.528Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "190697912128162816",
       "image": null,
       "ownerUserId": null,

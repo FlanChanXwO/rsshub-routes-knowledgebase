@@ -56,7 +56,7 @@ _None_
   ],
   "description": "\nLanguage codes for the `language` parameter:\n\n| Language | Code         |\n|----------|--------------|\n| English  | en           |\n| 日本語    | jp           |\n| 한국어     | kr           |\n| 简体中文   | zh (default) |\n| 繁體中文   | zh-tw        |\n| Español  | es           |\n| Français | fr           |\n| Deutsch  | de           |\n    ",
   "example": "/kurogames/wutheringwaves/news",
-  "heat": 40,
+  "heat": 39,
   "location": "wutheringwaves/news.ts",
   "maintainers": [
     "goestav",

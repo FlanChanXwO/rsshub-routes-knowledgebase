@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 757,
+  "heat": 758,
   "location": "all.tsx",
   "maintainers": [
     "nczitzk"
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "虎扑社区 - #步行街主干道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T02:14:42.760Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "53366652701156359",
       "image": null,
       "ownerUserId": null,

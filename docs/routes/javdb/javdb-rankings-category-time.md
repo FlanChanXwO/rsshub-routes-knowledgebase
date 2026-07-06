@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2409,
+  "heat": 2408,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -95,8 +95,8 @@
   "topFeeds": [
     {
       "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-07-04T02:11:53.082Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nFailed to fetch\nAuthentication failed. Access denied.\n/javdb/rankings\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": <no response> fetch failed\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41696949079348224",
       "image": null,
       "ownerUserId": null,

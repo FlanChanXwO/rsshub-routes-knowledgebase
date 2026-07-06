@@ -64,7 +64,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 17,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "湖南日报 - Powered by RSSHub",
-      "errorAt": "2026-07-04T01:42:30.319Z",
-      "errorMessage": "[GET] \"https://hnrb.voc.com.cn/hnrb_epaper\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75409322850391040",
       "image": null,
       "ownerUserId": null,

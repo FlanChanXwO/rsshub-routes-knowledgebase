@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "新着 - ドラえもんチャンネル - Powered by RSSHub",
-      "errorAt": "2026-07-04T04:05:00.926Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70014144165769216",
       "image": "https://dora-world.com/assets/images/DORAch_web-touch-icon.png",
       "ownerUserId": null,

@@ -6560,6 +6560,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/njit.md`
 
+## Nanjing Museum
+- Namespace: `njmuseum`
+- Aliases: `nanjing museum, njmuseum, njmuseum.com/zh, www, www.njmuseum.com/zh`
+- Route Count: `1`
+- Index File: `index/njmuseum.md`
+
 ## 南京师范大学
 - Namespace: `njnu`
 - Aliases: `ceai, ceai.njnu.edu.cn, njnu, 南京师范大学`
@@ -9949,6 +9955,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `zjgtjy, zjgtjy.cn, 浙江省土地使用权网上交易系统`
 - Route Count: `1`
 - Index File: `index/zjgtjy.md`
+
+## Zhejiang Provincial Museum
+- Namespace: `zjmuseum`
+- Aliases: `www, www.zjmuseum.com.cn/cn/, zhejiang provincial museum, zjmuseum, zjmuseum.com.cn/cn/`
+- Route Count: `1`
+- Index File: `index/zjmuseum.md`
 
 ## 浙江在线
 - Namespace: `zjol`

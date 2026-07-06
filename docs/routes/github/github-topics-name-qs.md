@@ -59,7 +59,7 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 90,
+  "heat": 91,
   "location": "topic.ts",
   "maintainers": [
     "queensferryme"

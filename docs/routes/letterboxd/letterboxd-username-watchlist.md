@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "Emre Kayık’s Watchlist • Letterboxd - Powered by RSSHub",
-      "errorAt": "2026-07-04T02:38:43.108Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "196345919019816960",
       "image": null,
       "ownerUserId": null,

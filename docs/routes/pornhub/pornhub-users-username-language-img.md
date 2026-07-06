@@ -226,8 +226,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-07-04T00:44:30.279Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",
       "ownerUserId": null,

@@ -77,7 +77,7 @@
     {
       "description": "undefined - Powered by RSSHub",
       "errorAt": "2024-11-12T16:29:48.931Z",
-      "errorMessage": "503 Service Unavailable\nFailed to fetch\n",
+      "errorMessage": "503 Service Unavailable\n503 Service Unavailable\n",
       "id": "69296270546855936",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@
     {
       "description": null,
       "errorAt": "2025-08-21T07:38:04.685Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'startsWith')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "181211868868349952",
       "image": null,
       "ownerUserId": null,

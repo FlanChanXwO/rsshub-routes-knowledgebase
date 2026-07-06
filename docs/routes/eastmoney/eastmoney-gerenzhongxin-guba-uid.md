@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "gerenzhongxin/guba.ts",
   "maintainers": [
     "AwesomeDog"
@@ -88,28 +88,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "ST天下 的东财帖子 - Powered by RSSHub",
+      "description": "人屠将军典韦 的东财帖子 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "210664983337964544",
-      "image": "https://avator.eastmoney.com/qface/4756094309151726/360",
+      "id": "210561879094846464",
+      "image": "https://avator.eastmoney.com/qface/4097355943952560/360",
       "ownerUserId": null,
-      "siteUrl": "https://i.eastmoney.com/4756094309151726#guba",
-      "title": "ST天下 的东财帖子",
+      "siteUrl": "https://i.eastmoney.com/4097355943952560#guba",
+      "title": "人屠将军典韦 的东财帖子",
       "type": "feed",
-      "url": "rsshub://eastmoney/gerenzhongxin/guba/4756094309151726"
+      "url": "rsshub://eastmoney/gerenzhongxin/guba/4097355943952560"
     },
     {
-      "description": "ST小师妹 的东财帖子 - Powered by RSSHub",
+      "description": "ST股猎手 的东财帖子 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "210564241281737728",
-      "image": "https://avator.eastmoney.com/qface/9032346035320658/360",
+      "id": "210564751338736640",
+      "image": "https://avator.eastmoney.com/qface/6591057157855518/360",
       "ownerUserId": null,
-      "siteUrl": "https://i.eastmoney.com/9032346035320658#guba",
-      "title": "ST小师妹 的东财帖子",
+      "siteUrl": "https://i.eastmoney.com/6591057157855518#guba",
+      "title": "ST股猎手 的东财帖子",
       "type": "feed",
-      "url": "rsshub://eastmoney/gerenzhongxin/guba/9032346035320658"
+      "url": "rsshub://eastmoney/gerenzhongxin/guba/6591057157855518"
     }
   ],
   "view": 0

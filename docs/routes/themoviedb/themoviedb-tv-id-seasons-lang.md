@@ -75,16 +75,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues. - Powered by RSSHub",
+      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "128751367083982848",
-      "image": "https://image.tmdb.org/t/p/original/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg",
+      "id": "85974796356276224",
+      "image": "https://image.tmdb.org/t/p/original/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/1434/seasons",
-      "title": "Family Guy - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/243875/seasons",
+      "title": "Georgie & Mandy's First Marriage - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/1434-family-guy/seasons"
+      "url": "rsshub://themoviedb/tv/243875/seasons"
     }
   ],
   "view": 5

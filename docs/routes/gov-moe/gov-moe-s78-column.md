@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "社会科学司 - 司局通知 - 中华人民共和国教育部政府门户网站 - Powered by RSSHub",
-      "errorAt": "2026-07-04T00:28:01.213Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75853854808636416",
       "image": null,
       "ownerUserId": null,

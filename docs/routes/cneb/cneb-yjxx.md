@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",
-      "errorAt": "2026-07-03T22:41:18.980Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62187667731240974",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667731240974",
       "image": null,
       "ownerUserId": null,

@@ -63,6 +63,18 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
+      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-06-28T17:36:38.883Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
+      "id": "104695101579488257",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
+      "title": "dengchunlai 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/dengchunlai"
+    },
+    {
       "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
       "errorAt": "2026-04-24T05:52:29.901Z",
       "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=ryan_knight_12\": 403 Forbidden\n",
@@ -73,18 +85,6 @@ _None_
       "title": "ryan_knight_12 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/ryan_knight_12"
-    },
-    {
-      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-18T07:31:14.501Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
-      "id": "197374238844610560",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
-      "title": "双鱼座73 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/18p2pmimi"
     }
   ]
 }

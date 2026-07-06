@@ -72,7 +72,7 @@ _None_
     {
       "description": "SDK Platform Tools release notes | Android Studio | Android Developers - Powered by RSSHub",
       "errorAt": "2026-01-08T01:19:39.707Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "55939235459203072",
       "image": null,
       "ownerUserId": null,
