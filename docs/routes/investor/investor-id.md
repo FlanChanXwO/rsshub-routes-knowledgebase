@@ -568,7 +568,7 @@
     {
       "description": "中国投资者网 - Powered by RSSHub",
       "errorAt": "2025-06-20T09:53:58.359Z",
-      "errorMessage": "[GET] \"https://www.investor.org.cn/information_release/policy_interpretation/\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "91876224483261440",
       "image": "https://www.investor.org.cn/home/images/P020200513545250611270.jpg",
       "ownerUserId": null,

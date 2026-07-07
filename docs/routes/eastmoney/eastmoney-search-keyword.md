@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "东方财富网 - 搜索'期货' - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:17:12.252Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73528214634595328",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "东方财富网 - 搜索'web3' - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:04:38.693Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65980643863635968",
       "image": null,
       "ownerUserId": null,

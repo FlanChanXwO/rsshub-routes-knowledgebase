@@ -73,16 +73,16 @@ _None_
       "url": "rsshub://cara/timeline/fengz"
     },
     {
-      "description": "Timeline - Emilia Cantor - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:56:52.009Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127386620806396928",
-      "image": "https://cdn.cara.app/production/profiles/1b141d8a-1c2d-46d7-8f24-ce74f14907be/B5C13DC8-F4EF-434D-8228-168A280EF68F.jpg",
+      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
+      "errorAt": "2025-11-26T14:00:44.455Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "127384139525444608",
+      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/emiliacantor/all",
-      "title": "Timeline - Emilia Cantor",
+      "siteUrl": "https://cara.app/rodrigogsousa/all",
+      "title": "Timeline - Rodrigo Goulao de Sousa",
       "type": "feed",
-      "url": "rsshub://cara/timeline/emiliacantor"
+      "url": "rsshub://cara/timeline/rodrigogsousa"
     }
   ]
 }

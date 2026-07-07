@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 13,
   "location": "news/rank.ts",
   "maintainers": [
     "nczitzk"
@@ -80,7 +80,7 @@ _None_
     {
       "description": "网易新闻24小时点击榜 - 全站 - Powered by RSSHub",
       "errorAt": "2026-05-08T11:48:10.437Z",
-      "errorMessage": "Cannot create property 'link' on string '\"\"'\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "155624244600445952",
       "image": null,
       "ownerUserId": null,

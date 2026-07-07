@@ -43,7 +43,7 @@ _None_
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 55,
+  "heat": 56,
   "location": "categories.ts",
   "maintainers": [
     "TonyRL"
@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "Watch Humiliation Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:11:24.926Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "89582686639029248",
       "image": null,
       "ownerUserId": null,

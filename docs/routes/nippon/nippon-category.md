@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "走进日本 - Politics - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:08:54.223Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56644563871459336",
       "image": null,
       "ownerUserId": null,
@@ -88,7 +88,7 @@
     },
     {
       "description": "走进日本 - Society - Powered by RSSHub",
-      "errorAt": "2026-07-05T04:28:40.654Z",
+      "errorAt": "2026-07-06T03:04:20.523Z",
       "errorMessage": "Failed to fetch\n",
       "id": "82398566855976960",
       "image": null,

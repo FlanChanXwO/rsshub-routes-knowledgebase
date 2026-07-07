@@ -57,7 +57,7 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 183,
+  "heat": 184,
   "location": "presentations.ts",
   "maintainers": [
     "nczitzk"
@@ -78,8 +78,8 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
   "topFeeds": [
     {
       "description": "Presentations from QCon London 2018, QCon New York 2018, SpringOne Platform 2018, and more - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T09:17:37.826Z",
+      "errorMessage": "[GET] \"https://www.infoq.com/presentations/\": 405 Not Allowed\nFailed to fetch\nFailed to fetch\n",
       "id": "70149738744378368",
       "image": "https://cdn.infoq.com/statics_s1_20260630130228/styles/static/images/logo/logo-big.jpg",
       "ownerUserId": null,

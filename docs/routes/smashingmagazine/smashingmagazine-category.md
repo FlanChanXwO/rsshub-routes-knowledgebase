@@ -108,8 +108,8 @@
   "topFeeds": [
     {
       "description": "Latest Articles on Smashingmagazine.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:09:59.677Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "102715689541183507",
       "image": null,
       "ownerUserId": null,
@@ -120,7 +120,7 @@
     },
     {
       "description": "Latest Articles on Smashingmagazine.com - Powered by RSSHub",
-      "errorAt": "2026-07-04T21:11:56.657Z",
+      "errorAt": "2026-07-06T00:30:10.223Z",
       "errorMessage": "Failed to fetch\n",
       "id": "71797696073612288",
       "image": null,

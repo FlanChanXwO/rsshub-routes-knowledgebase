@@ -61,8 +61,8 @@ _None_
     },
     {
       "description": "Released - Powered by RSSHub",
-      "errorAt": "2026-07-05T04:06:21.006Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "168663519061177344",
       "image": null,
       "ownerUserId": null,

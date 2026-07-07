@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 38,
+  "heat": 39,
   "location": "navigation.ts",
   "maintainers": [
     "SnowAgar25"
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "漫畫 - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:06:15.522Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72575658360313856",
       "image": null,
       "ownerUserId": null,

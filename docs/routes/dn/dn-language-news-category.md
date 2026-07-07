@@ -91,7 +91,7 @@ _None_
     {
       "description": "Dn domain name information channel brings together the latest domain name news and information platform to provide users with domain name industry-related knowledge points, the current popularity of domain name information, popularise a variety of domain name knowledge, to understand the domain name industry's most comprehensive and most professional information, the world's high-quality domain names for sale to buy management on Dn.com. - Powered by RSSHub",
       "errorAt": "2025-07-22T03:03:10.997Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "84170929169044480",
       "image": "https://dn.com/assets/images/logo.png",
       "ownerUserId": null,

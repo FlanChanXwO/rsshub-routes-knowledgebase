@@ -121,8 +121,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
     },
     {
       "description": "Yahoo 新聞 TW - 所有類別 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:05:21.311Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "58739494825370651",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

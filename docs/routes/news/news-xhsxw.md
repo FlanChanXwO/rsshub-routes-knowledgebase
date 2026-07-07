@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "新华社新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-05T01:59:25.025Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 68124618879637504",
+      "errorAt": "2026-07-06T03:03:43.798Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "68124618879637504",
       "image": "http://www.news.cn/20141223_xhsxw_logo_v1.png",
       "ownerUserId": null,

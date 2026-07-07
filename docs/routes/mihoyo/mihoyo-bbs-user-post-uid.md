@@ -61,28 +61,28 @@ _None_
   "path": "/bbs/user-post/:uid",
   "topFeeds": [
     {
-      "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 狒狒哦耶 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164612226252672000",
+      "id": "137393297111843840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=82959572",
-      "title": "米游社 - MRYU 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=11316600",
+      "title": "米游社 - 狒狒哦耶 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/82959572"
+      "url": "rsshub://mihoyo/bbs/user-post/11316600"
     },
     {
-      "description": "米游社 - 墨色长安 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 莹泠 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688672265496576",
+      "id": "198687353464355840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=5756223",
-      "title": "米游社 - 墨色长安 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75149887",
+      "title": "米游社 - 莹泠 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/5756223"
+      "url": "rsshub://mihoyo/bbs/user-post/75149887"
     }
   ]
 }

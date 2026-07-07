@@ -91,7 +91,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/07/03/business/strait-malacca-hormuz.html\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

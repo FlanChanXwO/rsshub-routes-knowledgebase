@@ -68,7 +68,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 93,
+  "heat": 94,
   "location": "super-index.ts",
   "maintainers": [
     "zengxs",
@@ -91,21 +91,9 @@
   ],
   "topFeeds": [
     {
-      "description": "#井川里予# 的超话 - Powered by RSSHub",
+      "description": "#elizabetholsen# 的超话 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "122613879912649728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://weibo.com/p/100808962d1e482e947f1e20fd0981358db42f/super_index",
-      "title": "微博超话 - 井川里予",
-      "type": "feed",
-      "url": "rsshub://weibo/super_index/100808962d1e482e947f1e20fd0981358db42f/sort_time"
-    },
-    {
-      "description": "#elizabetholsen# 的超话 - Powered by RSSHub",
-      "errorAt": "2026-07-04T21:18:33.787Z",
-      "errorMessage": "Failed to fetch\n",
       "id": "96189998246796288",
       "image": null,
       "ownerUserId": null,
@@ -113,6 +101,18 @@
       "title": "微博超话 - elizabetholsen",
       "type": "feed",
       "url": "rsshub://weibo/super_index/1008080894c105ac1b0e2f37cf6ed086d5dbb3"
+    },
+    {
+      "description": "#井川里予# 的超话 - Powered by RSSHub",
+      "errorAt": "2026-07-06T03:10:40.826Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "122613879912649728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weibo.com/p/100808962d1e482e947f1e20fd0981358db42f/super_index",
+      "title": "微博超话 - 井川里予",
+      "type": "feed",
+      "url": "rsshub://weibo/super_index/100808962d1e482e947f1e20fd0981358db42f/sort_time"
     }
   ]
 }

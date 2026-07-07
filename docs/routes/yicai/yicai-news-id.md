@@ -115,7 +115,7 @@
     {
       "description": "第一财经 - 科技 - Powered by RSSHub",
       "errorAt": "2025-11-04T08:38:03.960Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'slug')\n",
       "id": "69953039798669312",
       "image": null,
       "ownerUserId": null,

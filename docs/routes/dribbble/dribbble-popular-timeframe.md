@@ -87,7 +87,7 @@ _None_
     {
       "description": "Find Top Designers & Creative Professionals on Dribbble. We are where designers gain inspiration, feedback, community, and jobs. Your best resource to discover and connect with designers worldwide. - Powered by RSSHub",
       "errorAt": "2025-06-03T15:21:08.389Z",
-      "errorMessage": "[GET] \"https://dribbble.com/shots/popular?timeframe=week\": 405 Not Allowed\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "56130033776808986",
       "image": null,
       "ownerUserId": null,

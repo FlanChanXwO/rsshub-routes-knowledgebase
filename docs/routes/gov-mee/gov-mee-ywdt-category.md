@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 24,
+  "heat": 23,
   "location": "ywdt.ts",
   "maintainers": [
     "liuxsdev"

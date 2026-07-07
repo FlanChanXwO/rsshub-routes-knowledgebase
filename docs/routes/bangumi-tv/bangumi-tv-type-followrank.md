@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "BangumiTV 首页 - 成员关注动画榜 - Powered by RSSHub",
-      "errorAt": "2026-07-05T01:22:07.273Z",
-      "errorMessage": "[GET] \"https://bgm.tv/anime\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74067850437124096",
       "image": null,
       "ownerUserId": null,

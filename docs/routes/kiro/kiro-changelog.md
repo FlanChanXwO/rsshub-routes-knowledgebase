@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Stay up to date with the latest updates and improvements to Kiro. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:13:33.921Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "177627797902005248",
       "image": "https://kiro.dev/images/opengraph/changelog.png",
       "ownerUserId": null,

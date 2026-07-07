@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Price watcher: Procreate Dreams for iOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:03:39.768Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "120423661323680768",
       "image": null,
       "ownerUserId": null,

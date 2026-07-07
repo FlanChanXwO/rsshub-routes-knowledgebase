@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "更多AI黑科技、场景落地、商用价值，尽在这里。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T02:48:15.467Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "233311236627653632",
       "image": null,
       "ownerUserId": null,

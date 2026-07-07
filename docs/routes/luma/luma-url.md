@@ -84,16 +84,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Eventos Ignia - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "265966934845992960",
+      "description": "vLLM Meetups and Events - Powered by RSSHub",
+      "errorAt": "2026-07-06T02:46:14.193Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "265967053376549888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/ignia",
-      "title": "Eventos Ignia",
+      "siteUrl": "https://lu.ma/vLLM-Meetups",
+      "title": "vLLM Meetups and Events",
       "type": "feed",
-      "url": "rsshub://luma/ignia"
+      "url": "rsshub://luma/vLLM-Meetups"
     }
   ],
   "url": "lu.ma"

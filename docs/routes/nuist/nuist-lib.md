@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "南京信息工程大学图书馆通知 - Powered by RSSHub",
-      "errorAt": "2026-07-04T12:25:15.169Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72519003413343232",
       "image": null,
       "ownerUserId": null,

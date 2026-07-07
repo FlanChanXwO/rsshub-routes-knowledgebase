@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新数据通 - 专享资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:02:07.927Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59040048063587328",
       "id": "59040048063587328",
       "image": null,
       "ownerUserId": null,

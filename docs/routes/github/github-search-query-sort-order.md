@@ -71,18 +71,6 @@ _None_
   "path": "/search/:query/:sort?/:order?",
   "topFeeds": [
     {
-      "description": "backdoorattack的搜索结果 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "139683019365314560",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/search?o=desc&q=backdoorattack&s=updated&type=Repositories",
-      "title": "backdoorattack的搜索结果",
-      "type": "feed",
-      "url": "rsshub://github/search/backdoorattack/updated/desc"
-    },
-    {
       "description": "ComfyUI的搜索结果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -93,6 +81,18 @@ _None_
       "title": "ComfyUI的搜索结果",
       "type": "feed",
       "url": "rsshub://github/search/ComfyUI/updated/desc"
+    },
+    {
+      "description": "backdoorattack的搜索结果 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "139683019365314560",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/search?o=desc&q=backdoorattack&s=updated&type=Repositories",
+      "title": "backdoorattack的搜索结果",
+      "type": "feed",
+      "url": "rsshub://github/search/backdoorattack/updated/desc"
     }
   ]
 }

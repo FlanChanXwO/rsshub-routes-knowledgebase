@@ -61,7 +61,7 @@ _None_
   "path": "/keyword/:keyword",
   "topFeeds": [
     {
-      "description": "找到关于 “ 跨境电商 ”的文章，共9871个结果 - Powered by RSSHub",
+      "description": "找到关于 “ 跨境电商 ”的文章，共9879个结果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "69583577413871616",
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "找到关于 “ 早报 ”的文章，共3436个结果 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:12:10.850Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74277698927007744",
       "image": null,
       "ownerUserId": null,

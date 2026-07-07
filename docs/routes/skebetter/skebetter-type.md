@@ -128,8 +128,8 @@
     },
     {
       "description": "Skebetter - 新着 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:08:17.486Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76931600411487232",
       "image": null,
       "ownerUserId": null,

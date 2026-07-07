@@ -110,8 +110,8 @@ _None_
   "topFeeds": [
     {
       "description": "news - Sputnik News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:01:13.689Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60322104504418309",
       "id": "60322104504418309",
       "image": null,
       "ownerUserId": null,

@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "分享租房的避坑经历和装修灵感。 - 少数派 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T23:16:21.532Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66512179166858240",
       "image": null,
       "ownerUserId": null,

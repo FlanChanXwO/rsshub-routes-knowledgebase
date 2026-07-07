@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 507,
+  "heat": 506,
   "location": "hot.ts",
   "maintainers": [
     "5upernova-heng",
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "财联社 - 热门文章排行榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:09:55.700Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 53366652701156362",
       "id": "53366652701156362",
       "image": null,
       "ownerUserId": null,

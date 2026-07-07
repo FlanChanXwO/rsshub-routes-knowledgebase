@@ -166,8 +166,8 @@
     },
     {
       "description": "股票 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:12:40.043Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "115953821908145152",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,

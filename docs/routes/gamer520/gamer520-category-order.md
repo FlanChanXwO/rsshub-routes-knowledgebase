@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "全球游戏交流中心-所有 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:18:27.752Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "153752488543499264",
       "image": null,
       "ownerUserId": null,

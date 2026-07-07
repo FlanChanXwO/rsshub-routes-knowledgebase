@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "连载中 - Powered by RSSHub",
-      "errorAt": "2026-07-04T12:32:24.184Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82662234603799552",
       "image": null,
       "ownerUserId": null,

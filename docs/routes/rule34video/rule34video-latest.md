@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates from Rule34 Video - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:11:50.556Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "1094754492298952704",
       "image": null,
       "ownerUserId": null,

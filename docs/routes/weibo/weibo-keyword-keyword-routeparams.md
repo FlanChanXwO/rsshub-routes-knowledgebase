@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T22:32:26.580Z",
+      "errorMessage": "Cookies expired. Msg:  https://m.weibo.cn/captcha/show?backUrl=https%3A%2F%2Fm.weibo.cn%2Fp%2Fsearchall%3Fcontainerid%3D100103type%253D1%2526q%253Dobsidian\n",
       "id": "55288652424312832",
       "image": null,
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": "2026-07-05T03:01:50.855Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCookies expired. Msg:  https://m.weibo.cn/captcha/show?backUrl=https%3A%2F%2Fm.weibo.cn%2Fp%2Fsearchall%3Fcontainerid%3D100103type%253D1%2526q%253DRSSHub\n",
+      "errorAt": "2026-07-06T03:42:38.942Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nFailed to fetch\n",
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

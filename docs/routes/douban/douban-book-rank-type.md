@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "每周一更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:14:32.740Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59787999536110592",
       "image": null,
       "ownerUserId": null,

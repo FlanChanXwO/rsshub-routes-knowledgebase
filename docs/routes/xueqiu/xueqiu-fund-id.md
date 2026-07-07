@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 30,
   "location": "fund.ts",
   "maintainers": [
     "HenryQW",

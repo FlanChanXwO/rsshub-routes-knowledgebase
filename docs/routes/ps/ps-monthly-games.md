@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 30470,
+  "heat": 30453,
   "location": "monthly-games.tsx",
   "maintainers": [
     "justjustCC"

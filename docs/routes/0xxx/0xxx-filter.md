@@ -58,7 +58,7 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 20,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -80,8 +80,8 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
   "topFeeds": [
     {
       "description": "Latest high quality 0day porn available for free download. Home of scene and P2P releases - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T22:57:39.074Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://0xxx.ws/?catalogue=Blacked\": <no response> fetch failed\n",
       "id": "197857223398767616",
       "image": "https://0xxx.ws/images/logo.png",
       "ownerUserId": null,

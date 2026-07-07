@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 最新   | 热门 | 精华    |\n| ------ | ---- | ------- |\n| latest | heat | essence |",
   "example": "/matters/latest/heat",
-  "heat": 142,
+  "heat": 143,
   "location": "latest.ts",
   "maintainers": [
     "xyqfer",
@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "Matters | 熱議 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:09:56.002Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905692",
       "id": "41572238273905692",
       "image": null,
       "ownerUserId": null,

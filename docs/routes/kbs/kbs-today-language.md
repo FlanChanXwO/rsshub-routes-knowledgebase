@@ -88,8 +88,8 @@
     },
     {
       "description": "Latest News | KBS WORLD - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:08:57.681Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69944407484189696",
       "image": null,
       "ownerUserId": null,

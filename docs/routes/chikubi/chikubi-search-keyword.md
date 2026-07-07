@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 34,
   "location": "search.ts",
   "maintainers": [
     "SnowAgar25"
@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "Search: ギャップ - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T19:48:48.991Z",
+      "errorMessage": "[GET] \"https://chikubi.jp/wp-json/wp/v2/search?search=ギャップ\": 403 Forbidden\n",
       "id": "67007423998717952",
       "image": null,
       "ownerUserId": null,

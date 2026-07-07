@@ -84,7 +84,7 @@
     {
       "description": "精選基地編輯每日為你帶來的電玩、動漫、娛樂遊戲最新新聞 - Powered by RSSHub",
       "errorAt": "2026-06-23T05:39:10.805Z",
-      "errorMessage": "[GET] \"undefined\": <no response> Failed to parse URL from undefined\n[GET] \"undefined\": <no response> Failed to parse URL from undefined\n500 Internal Server Error\n",
+      "errorMessage": "[GET] \"undefined\": <no response> Failed to parse URL from undefined\n[GET] \"undefined\": <no response> Failed to parse URL from undefined\n[GET] \"undefined\": <no response> Failed to parse URL from undefined\n",
       "id": "62600104047803392",
       "image": "https://image.gamebase.com.tw/gb_tw/static/logo_01.png",
       "ownerUserId": null,

@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "羽毛Dub 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "109225476581666828",
+      "description": "打工仔小张耶 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": "2025-07-30T15:54:16.640Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "169613238591751168",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/12140997",
-      "title": "羽毛Dub 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/7242908",
+      "title": "打工仔小张耶 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/12140997"
+      "url": "rsshub://bilibili/user/coin/7242908"
     }
   ]
 }

@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:10:28.988Z",
+      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\n",
       "id": "59567779750919168",
       "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
       "ownerUserId": null,
@@ -83,7 +83,7 @@ _None_
     },
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-07-05T04:20:40.712Z",
+      "errorAt": "2026-07-06T03:04:27.869Z",
       "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",

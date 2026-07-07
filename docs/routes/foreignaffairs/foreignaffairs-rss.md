@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "Foreign Affairs - RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:02:07.838Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "119928653973749760",
       "image": null,
       "ownerUserId": null,

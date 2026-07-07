@@ -113,7 +113,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 66,
+  "heat": 67,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -208,8 +208,8 @@
     },
     {
       "description": "最新资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:11:11.655Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "89124148162380800",
       "image": "https://www.ali213.net/news/images/ali213_app_big.png",
       "ownerUserId": null,

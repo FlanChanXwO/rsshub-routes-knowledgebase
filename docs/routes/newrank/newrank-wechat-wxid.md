@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 28,
+  "heat": 30,
   "location": "wechat.ts",
   "maintainers": [
     "lessmoe",
@@ -69,7 +69,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-09-04T16:16:53.871Z",
-      "errorMessage": "newrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nnewrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "errorMessage": "newrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n502 Bad Gateway\n",
       "id": "186422945668491336",
       "image": null,
       "ownerUserId": null,

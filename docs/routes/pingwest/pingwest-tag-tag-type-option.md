@@ -90,16 +90,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 腾讯元宝 - Powered by RSSHub",
-      "errorAt": "2026-05-25T06:13:11.446Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22218&type=0\": 405 Not Allowed\n",
-      "id": "128314253577785344",
+      "description": "品玩 - ChinaJoy - Powered by RSSHub",
+      "errorAt": "2026-06-24T11:21:51.460Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=7604&type=0\": 405 Not Allowed\n",
+      "id": "69704836086005760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/22218",
-      "title": "品玩 - 腾讯元宝",
+      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
+      "title": "品玩 - ChinaJoy",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/22218/1"
+      "url": "rsshub://pingwest/tag/ChinaJoy/1"
     }
   ]
 }

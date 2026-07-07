@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:12:53.276Z",
+      "errorMessage": "Empty RSSHub items from 147936360793227264\nFailed to fetch\nFailed to fetch\n",
       "id": "63624830978450432",
       "image": "https://javtiful.com/media/categories/collection/44.jpg?width=140",
       "ownerUserId": null,

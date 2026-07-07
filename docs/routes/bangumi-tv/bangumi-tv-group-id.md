@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Bangumi - 靠谱人生茶话会 - Powered by RSSHub",
-      "errorAt": "2026-07-04T23:53:28.560Z",
-      "errorMessage": "[GET] \"https://bgm.tv/group/boring/forum\": 502 Bad Gateway\n[GET] \"https://bgm.tv/group/topic/465538\": 502 Bad Gateway\n",
+      "errorAt": "2026-07-06T03:01:45.014Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72563300550000640",
       "id": "72563300550000640",
       "image": null,
       "ownerUserId": null,

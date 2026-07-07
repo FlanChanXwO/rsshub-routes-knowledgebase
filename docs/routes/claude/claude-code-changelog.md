@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 11,
   "location": "code-changelog.ts",
   "maintainers": [
     "rmaced0"
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Changelog for Claude Code CLI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:02:54.358Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "259003498298762240",
       "image": null,
       "ownerUserId": null,

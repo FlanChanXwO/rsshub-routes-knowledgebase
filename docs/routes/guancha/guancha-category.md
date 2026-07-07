@@ -83,8 +83,8 @@ others = 热点新闻 + 滚动新闻
   "topFeeds": [
     {
       "description": "观察者网 - 全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:10:39.148Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56875843110895617",
       "id": "56875843110895617",
       "image": null,
       "ownerUserId": null,

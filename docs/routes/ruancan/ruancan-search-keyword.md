@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 搜索结果 - 软餐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T17:17:49.352Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88750451518989312",
       "image": null,
       "ownerUserId": null,

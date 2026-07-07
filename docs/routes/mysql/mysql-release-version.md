@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:13:36.991Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68567265391075328",
       "image": null,
       "ownerUserId": null,

@@ -78,7 +78,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-30T05:50:59.428Z",
-      "errorMessage": "[GET] \"https://cn.wsj.com/zh-hans\": 401 \n[GET] \"https://cn.wsj.com/zh-hans\": 401 HTTP Forbidden\n",
+      "errorMessage": "[GET] \"https://cn.wsj.com/zh-hans\": 401 \nCannot read properties of null (reading '0')\n",
       "id": "151150448547738625",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-29T11:39:04.736Z",
-      "errorMessage": "[GET] \"https://cn.wsj.com/zh-hans/news/opinion\": 401 HTTP Forbidden\n",
+      "errorMessage": "Cannot read properties of null (reading '0')\n",
       "id": "150876888307287071",
       "image": null,
       "ownerUserId": null,

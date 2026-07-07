@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "白话区块链 - 科普 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:10:01.234Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "52357479509098526",
       "image": null,
       "ownerUserId": null,

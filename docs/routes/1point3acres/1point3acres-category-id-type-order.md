@@ -104,8 +104,8 @@
     },
     {
       "description": "一亩三分地 - h1b热门帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:15:23.118Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55159696591377408",
       "image": null,
       "ownerUserId": null,

@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "看雪论坛最新主题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T23:43:00.727Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56202182890270720",
       "image": null,
       "ownerUserId": null,

@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "Editors: Mary Evans, Teevrat Garg, Arik Levinson, and Andrew Plantinga Published for the Association of Environmental and Resource Economists - Powered by RSSHub",
-      "errorAt": "2026-07-04T12:06:46.070Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75184870917658624",
       "image": "https://www.journals.uchicago.edu/cms/asset/5a38d4f1-b01f-4f38-830f-3718a574ab3d/default_cover.gif",
       "ownerUserId": null,

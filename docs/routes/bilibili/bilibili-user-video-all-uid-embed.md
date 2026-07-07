@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1268,
+  "heat": 1269,
   "location": "video-all.ts",
   "maintainers": [],
   "name": "用户所有视频",
@@ -61,8 +61,8 @@ _None_
     },
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T10:33:31.275Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

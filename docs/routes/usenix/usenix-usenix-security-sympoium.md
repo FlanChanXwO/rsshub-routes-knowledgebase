@@ -41,7 +41,7 @@ _None_
   ],
   "description": "Return results from 2020",
   "example": "/usenix/usenix-security-sympoium",
-  "heat": 43,
+  "heat": 44,
   "location": "usenix.ts",
   "maintainers": [
     "ZeddYu"
@@ -60,7 +60,7 @@ _None_
   "topFeeds": [
     {
       "description": "USENIX Security Symposium Accpeted Papers - Powered by RSSHub",
-      "errorAt": "2026-07-04T19:59:28.624Z",
+      "errorAt": "2026-07-05T09:47:22.230Z",
       "errorMessage": "Failed to fetch\n",
       "id": "41467327574791203",
       "image": null,

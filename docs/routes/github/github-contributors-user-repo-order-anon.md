@@ -80,28 +80,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "New contributors for limbopro/Adblock4limbo - Powered by RSSHub",
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126804218589762560",
+      "id": "84958270281030656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/limbopro/Adblock4limbo/graphs/contributors",
-      "title": "limbopro/Adblock4limbo Contributors",
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/limbopro/Adblock4limbo"
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     },
     {
-      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84430164607162368",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
-      "title": "infiniflow/ragflow Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/infiniflow/ragflow"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     }
   ]
 }

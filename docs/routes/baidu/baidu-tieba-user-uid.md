@@ -63,16 +63,16 @@ _None_
   "path": "/tieba/user/:uid",
   "topFeeds": [
     {
-      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-06-28T17:36:38.883Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
-      "id": "104695101579488257",
+      "description": "狼獾赝月 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-02T19:26:02.118Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "102690853823372288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
-      "title": "dengchunlai 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88",
+      "title": "狼獾赝月 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/dengchunlai"
+      "url": "rsshub://baidu/tieba/user/%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88"
     },
     {
       "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",

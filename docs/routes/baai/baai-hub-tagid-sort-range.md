@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "智源社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:00:12.738Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60522682885703680",
       "id": "60522682885703680",
       "image": null,
       "ownerUserId": null,

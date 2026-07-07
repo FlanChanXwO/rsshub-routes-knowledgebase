@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "阅读机核关于游戏、影视、科技与流行文化的最新资讯。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:01:17.338Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 106670430920170496",
       "id": "106670430920170496",
       "image": null,
       "ownerUserId": null,

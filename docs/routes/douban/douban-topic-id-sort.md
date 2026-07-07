@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
-      "errorAt": "2026-07-04T21:47:55.336Z",
-      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/gallery/topic/3379063/items?sort=new&start=0&count=10&status_full_text=1\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,

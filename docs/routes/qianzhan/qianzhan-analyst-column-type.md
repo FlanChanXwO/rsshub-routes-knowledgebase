@@ -65,7 +65,7 @@ _None_
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",
-      "errorAt": "2026-07-05T04:23:28.912Z",
+      "errorAt": "2026-07-06T03:04:28.034Z",
       "errorMessage": "Failed to fetch\n",
       "id": "66758050974691328",
       "image": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:03:41.558Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149540527549611008",
       "image": null,
       "ownerUserId": null,

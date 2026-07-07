@@ -945,8 +945,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": "2026-07-04T21:43:18.668Z",
-      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101971\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,
@@ -957,8 +957,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T19:39:30.785Z",
+      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101794\": <no response> fetch failed\n",
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

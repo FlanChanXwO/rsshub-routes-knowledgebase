@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "电玩巴士综合游戏门户站，一直致力于发展电玩产业和游戏事业，为全球用户24小时提供全面的游戏和主机资讯，游戏评测，游戏攻略，游戏视频，游戏资料库，以及打造拥有数千万会员的社交新媒体平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-05T23:17:51.960Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72602387683715072",
       "image": null,
       "ownerUserId": null,

@@ -79,8 +79,8 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
   "topFeeds": [
     {
       "description": "德国之声中文频道通过文字、音频、视频相结合的多媒体方式提供以德国和欧洲为主同时包括世界政经资讯。我们的报道重点也包括中国政治、经济、社会的发展以及我们的中国受众群最关心感兴趣的各类话题。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:02:18.965Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 82823881871653888",
       "id": "82823881871653888",
       "image": null,
       "ownerUserId": null,
@@ -91,8 +91,8 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     },
     {
       "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream. - Powered by RSSHub",
-      "errorAt": "2026-07-05T04:27:57.122Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80448685677001728",
       "image": null,
       "ownerUserId": null,

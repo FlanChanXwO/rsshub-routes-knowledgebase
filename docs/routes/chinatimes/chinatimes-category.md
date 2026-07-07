@@ -76,7 +76,7 @@
   "topFeeds": [
     {
       "description": "《中時新聞網》 即時新聞最新列表 - Powered by RSSHub",
-      "errorAt": "2026-07-04T22:06:14.697Z",
+      "errorAt": "2026-07-05T14:57:28.305Z",
       "errorMessage": "[GET] \"https://www.chinatimes.com/realtimenews/?chdtv\": 403 Forbidden\n",
       "id": "197798198610638848",
       "image": "https://www.chinatimes.com/images/2020/apple-touch-icon.png",

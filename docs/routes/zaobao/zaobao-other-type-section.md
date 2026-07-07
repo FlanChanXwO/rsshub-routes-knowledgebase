@@ -52,8 +52,8 @@ _None_
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:18:37.369Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149086131447585792",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
@@ -64,8 +64,8 @@ _None_
     },
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:09:49.718Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "114855620432737280",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

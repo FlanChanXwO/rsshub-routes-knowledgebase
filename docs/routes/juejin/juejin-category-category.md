@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "掘金 前端 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:01:11.433Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42107264805507072",
       "id": "42107264805507072",
       "image": null,
       "ownerUserId": null,

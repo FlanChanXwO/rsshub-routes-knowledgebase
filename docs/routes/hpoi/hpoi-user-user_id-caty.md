@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "DIYgod的手办 - 想买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:02:10.753Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65439580772686848",
       "image": null,
       "ownerUserId": null,

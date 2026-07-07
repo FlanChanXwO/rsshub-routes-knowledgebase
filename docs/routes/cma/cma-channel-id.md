@@ -88,8 +88,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:17:16.399Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\nFailed to fetch\n",
       "id": "57657957614035968",
       "image": "https://weather.cma.cn/assets/cmalogo.png",
       "ownerUserId": null,

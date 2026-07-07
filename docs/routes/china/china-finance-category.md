@@ -90,8 +90,8 @@
     },
     {
       "description": "推荐_财经频道_中华网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:11:54.533Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75469232628708352",
       "image": null,
       "ownerUserId": null,

@@ -50,7 +50,7 @@ _None_
     {
       "description": "Daily Torrents Statistics in CN - iknownwhatyoudownload - Powered by RSSHub",
       "errorAt": "2025-01-15T08:28:21.628Z",
-      "errorMessage": "[GET] \"https://iknowwhatyoudownload.com/en/stat/CN/daily/q?statDate=2026-07-04\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://iknowwhatyoudownload.com/en/stat/CN/daily/q?statDate=2026-07-06\": 403 Forbidden\n",
       "id": "100710727828610048",
       "image": null,
       "ownerUserId": null,

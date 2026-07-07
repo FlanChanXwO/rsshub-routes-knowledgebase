@@ -38,7 +38,7 @@ _None_
   "categories": [
     "game"
   ],
-  "heat": 89,
+  "heat": 90,
   "location": "tag.ts",
   "maintainers": [
     "auto-bot-ty"

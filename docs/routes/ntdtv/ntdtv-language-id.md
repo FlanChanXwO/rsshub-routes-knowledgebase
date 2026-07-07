@@ -88,8 +88,8 @@
     },
     {
       "description": "新唐人电视台 - 大陆 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:03:42.833Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "148402521198272512",
       "image": null,
       "ownerUserId": null,

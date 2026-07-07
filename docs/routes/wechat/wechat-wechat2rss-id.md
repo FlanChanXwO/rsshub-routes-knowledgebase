@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:03:38.896Z",
+      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
       "id": "56559522756173824",
       "image": "https://wx.qlogo.cn/mmhead/Iic9WLWEQMg2jTKicld7jhiagcz7jJxuYcpjicxAAiaVaNpdIiabCLIxOHIZFVsWH3cRNQjLF1TBznTJc/0",
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "提供B站相关技术的介绍和讲解 (wechat feed made by @ttttmr https://wechat2rss.xlab.app) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:01:31.148Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "44004534411339776",
       "image": "https://wx.qlogo.cn/mmhead/VHU8bI7BOJAmaJ0o4FjqrnRrcK84tvX1kNLl9NibQnTdzvIicOAAicZrqXxKzAkPuxcUibe6PEVCmzg/0",
       "ownerUserId": null,

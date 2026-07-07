@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T02:48:45.317Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/makers/7R\": 403 Forbidden\nFailed to fetch\n",
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "MOODYZ - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T03:16:00.920Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "73162555663082522",
       "image": null,
       "ownerUserId": null,

@@ -113,16 +113,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Store numeric values of players' stats or balance, specified by a text key. -> With Folia and Multi-Server support! - Powered by RSSHub",
+      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851540339893248",
+      "id": "114584532715532288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/13drT7K6",
-      "title": "JustPoints Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
+      "title": "CrazyCrates Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/13drT7K6/versions"
+      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
     }
   ]
 }

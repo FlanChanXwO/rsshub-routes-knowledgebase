@@ -64,18 +64,6 @@ _None_
   "path": "/search/:keyword",
   "topFeeds": [
     {
-      "description": "EVERIA.CLUB - Search: けんけん - Powered by RSSHub",
-      "errorAt": "2026-07-05T04:07:53.990Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "171529012250512384",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://everia.club/?s=%E3%81%91%E3%82%93%E3%81%91%E3%82%93",
-      "title": "EVERIA.CLUB - Search: けんけん",
-      "type": "feed",
-      "url": "rsshub://everia/search/%E3%81%91%E3%82%93%E3%81%91%E3%82%93"
-    },
-    {
       "description": "EVERIA.CLUB - Search: 柒柒 - Powered by RSSHub",
       "errorAt": "2026-07-04T19:48:47.542Z",
       "errorMessage": "Failed to fetch\n",
@@ -86,6 +74,18 @@ _None_
       "title": "EVERIA.CLUB - Search: 柒柒",
       "type": "feed",
       "url": "rsshub://everia/search/%E6%9F%92%E6%9F%92"
+    },
+    {
+      "description": "EVERIA.CLUB - Search: けんけん - Powered by RSSHub",
+      "errorAt": "2026-07-05T04:07:53.990Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "171529012250512384",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://everia.club/?s=%E3%81%91%E3%82%93%E3%81%91%E3%82%93",
+      "title": "EVERIA.CLUB - Search: けんけん",
+      "type": "feed",
+      "url": "rsshub://everia/search/%E3%81%91%E3%82%93%E3%81%91%E3%82%93"
     }
   ]
 }

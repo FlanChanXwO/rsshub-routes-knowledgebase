@@ -55,7 +55,7 @@ _None_
     {
       "description": "user1263963's iwara - Videos - Powered by RSSHub",
       "errorAt": "2026-06-25T12:50:28.155Z",
-      "errorMessage": "[GET] \"https://api.iwara.tv/profile/user1263963\": 403 Forbidden\n[GET] \"https://api.iwara.tv/videos?user=ed38dabd-4652-46e3-afc3-9010794342df\": 403 Forbidden\n",
+      "errorMessage": "502 Bad Gateway\n[GET] \"https://api.iwara.tv/videos?user=ed38dabd-4652-46e3-afc3-9010794342df\": 403 Forbidden\n",
       "id": "60202923086415884",
       "image": null,
       "ownerUserId": null,
