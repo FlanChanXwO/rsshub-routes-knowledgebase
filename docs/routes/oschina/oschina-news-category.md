@@ -163,8 +163,8 @@ _None_
   "topFeeds": [
     {
       "description": "开源中国-软件资讯 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:00.438Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41511702474276894",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41511702474276894",
       "image": null,
       "ownerUserId": null,
@@ -175,8 +175,8 @@ _None_
     },
     {
       "description": "开源中国-全部 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:00:31.756Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56178044197240832",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56178044197240832",
       "image": null,
       "ownerUserId": null,

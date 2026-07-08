@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 126,
+  "heat": 127,
   "location": "channel.ts",
   "maintainers": [
     "Fatpandac"
@@ -88,8 +88,8 @@
     },
     {
       "description": "新唐人电视台 - 大陆 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:03:42.833Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "148402521198272512",
       "image": null,
       "ownerUserId": null,

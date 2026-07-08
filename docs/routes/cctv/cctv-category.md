@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 837,
+  "heat": 838,
   "location": "category.ts",
   "maintainers": [
     "idealclover",
@@ -75,8 +75,8 @@
   "topFeeds": [
     {
       "description": "央视新闻 world - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:01:12.217Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581988",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796581988",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@
     },
     {
       "description": "央视新闻 china - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:01:12.573Z",
+      "errorAt": "2026-07-07T03:36:35.004Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581989",
       "id": "41965184796581989",
       "image": null,

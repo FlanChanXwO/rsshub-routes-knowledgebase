@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 449,
+  "heat": 450,
   "location": "channel.ts",
   "maintainers": [
     "xyqfer",
@@ -80,7 +80,7 @@ _None_
     {
       "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
       "errorAt": "2026-03-08T00:02:40.912Z",
-      "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "errorMessage": "cheerio.load() expects a string\nFailed to fetch\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
       "id": "42176727615320069",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

@@ -87,14 +87,14 @@ _None_
   "path": "/channel/:id?",
   "topFeeds": [
     {
-      "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:17:16.399Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\nFailed to fetch\n",
+      "description": "中国气象局·天气预报 - - Powered by RSSHub",
+      "errorAt": "2026-07-07T00:00:06.462Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\n",
       "id": "57657957614035968",
-      "image": "https://weather.cma.cn/assets/cmalogo.png",
+      "image": "https://weather.cma.cn/undefined",
       "ownerUserId": null,
       "siteUrl": "https://weather.cma.cn/web/channel-380.html",
-      "title": "中国气象局·天气预报 - 气象公报 > 每日天气提示",
+      "title": "中国气象局·天气预报 -",
       "type": "feed",
       "url": "rsshub://cma/channel/380"
     },

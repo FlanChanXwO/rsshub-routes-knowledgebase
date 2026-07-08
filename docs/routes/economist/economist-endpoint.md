@@ -72,7 +72,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling\": 403 Forbidden\n[GET] \"https://www.economist.com/europe/2026/07/05/europe-promised-cash-for-defence-its-failing-to-cough-up\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/asia/2026/07/05/what-indians-are-reading-and-what-that-reveals-about-the-self\": 403 Forbidden\n[GET] \"https://www.economist.com/finance-and-economics/2026/07/05/womens-progress-at-work-appears-to-be-stalling\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

@@ -85,7 +85,7 @@ More could be found in the URL of the category/topic page.
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5932,
+  "heat": 5938,
   "location": "common.tsx",
   "maintainers": [
     "LyleLee",
@@ -161,8 +161,8 @@ More could be found in the URL of the category/topic page.
     },
     {
       "description": "Reuters.com is your online source for the latest China news stories and current events, ensuring our readers up to date with any breaking news developments - Powered by RSSHub",
-      "errorAt": "2026-07-06T00:19:11.239Z",
-      "errorMessage": "[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/china/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/china/?outputType=json\": 404 Not Found\nFailed to fetch\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/china/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/china/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/china/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/china/?outputType=json\": 404 Not Found\nFailed to fetch\n",
+      "errorAt": "2026-07-07T03:36:27.597Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41479290346361856",
       "id": "41479290346361856",
       "image": "https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default-512x512.png?d=116",
       "ownerUserId": null,

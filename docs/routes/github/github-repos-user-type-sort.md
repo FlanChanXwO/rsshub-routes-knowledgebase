@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Quorafind's GitHub repositories - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:14.026Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59462968084103174",
       "image": null,
       "ownerUserId": null,

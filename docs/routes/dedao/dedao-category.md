@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 新闻 | 人物故事 | 视频  |\n| ---- | -------- | ----- |\n| news | figure   | video |",
   "example": "/dedao",
-  "heat": 612,
+  "heat": 613,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -65,8 +65,8 @@ _None_
     },
     {
       "description": "得到App、得到高研院、知识春晚、How Talk、罗振宇“时间的朋友”跨年演讲的最新动态，以及刘润、梁宁、吴军、香帅、薛兆丰等得到系老师的人物故事。2020年除夕夜,知识春晚登陆深圳卫视。 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:12:04.902Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54179880911627267",
       "image": null,
       "ownerUserId": null,

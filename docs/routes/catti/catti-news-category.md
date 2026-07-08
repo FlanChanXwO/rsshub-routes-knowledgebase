@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "CATTI 考试通知和公告 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:12:56.050Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101927725498470400",
       "image": "https://www.catticenter.com/img/applogo.png",
       "ownerUserId": null,

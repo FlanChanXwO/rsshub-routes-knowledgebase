@@ -74,8 +74,8 @@
   "topFeeds": [
     {
       "description": "美国留学就业生活攻略 - Powered by RSSHub",
-      "errorAt": "2026-07-05T23:17:30.579Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82671443591248896",
       "image": null,
       "ownerUserId": null,

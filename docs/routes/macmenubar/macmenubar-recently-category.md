@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T03:37:08.602Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56446382044379136",
       "image": null,
       "ownerUserId": null,

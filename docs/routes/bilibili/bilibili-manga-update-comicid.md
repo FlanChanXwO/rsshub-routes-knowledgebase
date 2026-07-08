@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "《罗小黑战记》君清篇~~讲述战争年代的老君、玄离和清凝的故事。为你展现不一样的妖神世界~ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T00:33:53.727Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60836830967846935",
       "image": "http://i0.hdslb.com/bfs/manga-static/e79378436e02fd7f227b901efb9fe79c2df9499c.jpg",
       "ownerUserId": null,

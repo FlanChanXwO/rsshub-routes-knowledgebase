@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "PSN数字游戏折扣 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:03:08.289Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "130453774179595264",
       "image": null,
       "ownerUserId": null,

@@ -239,10 +239,10 @@
     },
     {
       "description": "江河日下，日下无有新事 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:11:29.854Z",
+      "errorAt": "2026-07-07T03:37:18.838Z",
       "errorMessage": "Failed to fetch\n",
       "id": "43417089717578752",
-      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0217.jpg",
+      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0116.jpg",
       "ownerUserId": null,
       "siteUrl": "https://river.to/occasus/",
       "title": "江河日下 – 日下无有新事 - 江河日下",

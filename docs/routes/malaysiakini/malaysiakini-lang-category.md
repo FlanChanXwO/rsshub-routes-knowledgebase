@@ -132,8 +132,8 @@
     },
     {
       "description": "News & Views That Matter - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:13:56.573Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

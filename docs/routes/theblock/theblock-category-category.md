@@ -74,8 +74,8 @@ Get latest news from TheBlock by category. Note that due to website limitations,
   "topFeeds": [
     {
       "description": "Latest articles from TheBlock in the crypto-ecosystems category - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:05:54.238Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "124086111503666176",
       "image": null,
       "ownerUserId": null,

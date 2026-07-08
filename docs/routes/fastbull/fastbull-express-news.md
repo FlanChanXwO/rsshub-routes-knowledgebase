@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 550,
+  "heat": 549,
   "location": "express-news.ts",
   "maintainers": [
     "nczitzk"

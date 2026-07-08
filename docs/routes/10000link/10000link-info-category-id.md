@@ -155,14 +155,14 @@
   ],
   "topFeeds": [
     {
-      "description": "央地合力围剿财务造假！证监会：累计查办造假案247起，罚没超90亿，21家公司被强制退市！ - Powered by RSSHub",
+      "description": "重磅！穿透式监管“施工图”出炉：四大部署+十大重点领域，国企怎么干？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 央地合力围剿财务造假！证监会：累计查办造假案247起，罚没超90亿，21家公司被强制退市！",
+      "title": "10000万联网 - 重磅！穿透式监管“施工图”出炉：四大部署+十大重点领域，国企怎么干？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

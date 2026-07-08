@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 130,
+  "heat": 131,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Anal Creampie: Free Teen Creampies Videos | Pornhub - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:06:16.926Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-07-07T02:56:39.353Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58588081077915648",
       "image": null,
       "ownerUserId": null,

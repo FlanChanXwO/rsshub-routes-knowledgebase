@@ -89,7 +89,7 @@
     {
       "description": null,
       "errorAt": "2025-08-21T07:38:04.685Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.nbd.com.cn/columns/3/\": <no response> fetch failed\n",
       "id": "181211868868349952",
       "image": null,
       "ownerUserId": null,

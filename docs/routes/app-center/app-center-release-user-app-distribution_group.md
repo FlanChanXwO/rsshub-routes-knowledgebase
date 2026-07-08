@@ -81,7 +81,7 @@ The parameters can be extracted from the Release page URL: `https://install.appc
     {
       "description": "Cloudflare WARP Windows Beta (Beta) for Windows by Cloudflare - App Center Releases - Powered by RSSHub",
       "errorAt": "2025-08-12T15:37:01.285Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://install.appcenter.ms/api/v0.1/apps/cloudflare/1.1.1.1-windows/distribution_groups/beta/releases/3920?is_install_page=true\": 410 Gone\n",
       "id": "83739691836196864",
       "image": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/ccc0b4bf-bc67-4fb7-bf82-f9f6d26e0cee?sv=2024-11-04&spr=https&st=2025-01-24T04%3A14%3A08Z&se=2025-01-31T04%3A19%3A08Z&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-01-24T04%3A14%3A08Z&ske=2025-01-31T04%3A19%3A08Z&sks=b&skv=2024-11-04&sr=b&sp=r&sig=gD2n2uv4Deh%2BJp91w4kZL8hel9cw37cq27pr0ZIPHUU%3D",
       "ownerUserId": null,

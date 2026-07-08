@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 110,
+  "heat": 109,
   "location": "top.tsx",
   "maintainers": [
     "xyqfer"
@@ -65,7 +65,7 @@ _None_
   "topFeeds": [
     {
       "description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:02.415Z",
+      "errorAt": "2026-07-07T03:36:10.502Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55614129025417216",
       "id": "55614129025417216",
       "image": null,

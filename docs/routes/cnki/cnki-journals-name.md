@@ -74,7 +74,7 @@ _None_
     {
       "description": "微纳电子技术 - Powered by RSSHub",
       "errorAt": "2026-07-05T17:30:53.794Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": <no response> fetch failed\n",
       "id": "159265390001661952",
       "image": null,
       "ownerUserId": null,

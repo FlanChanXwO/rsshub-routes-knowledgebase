@@ -306,8 +306,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fantia - Search posts - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:00:29.863Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74696531705607168",
       "image": null,
       "ownerUserId": null,

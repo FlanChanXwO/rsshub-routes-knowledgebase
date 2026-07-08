@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "JavDB top 250 movies list. [Updated on 2026/01] - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:07:51.418Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70188043280184320",
       "image": "https://avatars.githubusercontent.com/u/101241777?v=4",
       "ownerUserId": null,

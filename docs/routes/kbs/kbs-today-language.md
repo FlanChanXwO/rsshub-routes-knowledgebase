@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 7,
   "location": "today.ts",
   "maintainers": [
     "nczitzk"
@@ -88,8 +88,8 @@
     },
     {
       "description": "Latest News | KBS WORLD - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:08:57.681Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69944407484189696",
       "image": null,
       "ownerUserId": null,

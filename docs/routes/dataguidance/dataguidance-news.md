@@ -38,7 +38,7 @@ _None_
     "other"
   ],
   "example": "/dataguidance/news",
-  "heat": 17,
+  "heat": 18,
   "location": "index.ts",
   "maintainers": [
     "harveyqiu"

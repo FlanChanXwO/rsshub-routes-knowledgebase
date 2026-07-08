@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Komiic - 電鋸人 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:33.685Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "124657497854501888",
       "image": null,
       "ownerUserId": null,

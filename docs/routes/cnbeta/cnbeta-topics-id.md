@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:27.738Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69244938999805952",
       "image": null,
       "ownerUserId": null,

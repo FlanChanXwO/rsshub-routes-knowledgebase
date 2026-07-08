@@ -184,8 +184,8 @@
   "topFeeds": [
     {
       "description": "北京价格网是北京市价格监测中心门户网站 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:13:54.589Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-06T21:16:49.054Z",
+      "errorMessage": "[GET] \"https://www.beijingprice.cn/jgzx/xwzx/\": <no response> fetch failed\n",
       "id": "65788338627183616",
       "image": "https://www.beijingprice.cn/images/common/common-header-logo.png",
       "ownerUserId": null,

@@ -89,7 +89,7 @@
     {
       "description": "每天更新15条简语早报和一条微语，国际早报，财经早报，早报软件，每天60秒足不出户了解天下事！ - Powered by RSSHub",
       "errorAt": "2025-11-02T13:44:08.846Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://qqorw.cn/zbzzd\": 403 Forbidden\n",
       "id": "69621932570571776",
       "image": "https://qqorw.cn/static/upload/2022/07/22/202207227737.png",
       "ownerUserId": null,

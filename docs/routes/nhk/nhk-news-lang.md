@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1117,
+  "heat": 1116,
   "location": "news.tsx",
   "maintainers": [
     "TonyRL",
@@ -162,8 +162,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:12:12.196Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61596371943710720",
+      "errorAt": "2026-07-07T03:01:36.984Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,

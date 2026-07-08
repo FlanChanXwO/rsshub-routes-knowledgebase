@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "寻仙山脚下的莲子镇民都知道，寻仙山里根本没有神仙，这世上也从未有过神仙。对杜玉来说，倘若把骑着白鹿，身着白衣的女子叫做仙人的话，他估计不会反对。虽然他觉得没有哪个仙人还需要弟子给她洗贴身衣物，也没有哪个仙人一天天懒到躺在藤椅上一动不动。在他心中，师尊就是仙人。 - Powered by RSSHub",
-      "errorAt": "2026-07-05T22:34:14.601Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59070877359809536",
       "image": "https://rs.sfacg.com/web/novel/images/NovelCover/Big/2025/01/aca22e84-e5e8-445c-9d1e-7a0d72f091fd.jpg",
       "ownerUserId": null,

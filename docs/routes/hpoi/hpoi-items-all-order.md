@@ -102,8 +102,8 @@ _None_
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 全部周边 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:05:19.529Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-07-07T03:35:47.559Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58853176014049280",
       "id": "58853176014049280",
       "image": null,
       "ownerUserId": null,

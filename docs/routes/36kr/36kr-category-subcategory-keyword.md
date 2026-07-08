@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "36氪 - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T03:35:39.621Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905665",
       "id": "41572238273905665",
       "image": null,
       "ownerUserId": null,
@@ -70,8 +70,8 @@ _None_
     },
     {
       "description": "36氪 - 最新资讯频道 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:12:41.377Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 66129443815812096",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66129443815812096",
       "image": null,
       "ownerUserId": null,

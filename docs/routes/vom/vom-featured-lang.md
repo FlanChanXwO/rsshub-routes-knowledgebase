@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "VoM.mn - Voice of Mongolia - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:08.131Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "116831194976780288",
       "image": "http://www.vom.mn/dist/images/vom-logo.png",
       "ownerUserId": null,
@@ -90,8 +90,8 @@
     },
     {
       "description": "VoM.mn - Voice of Mongolia - Powered by RSSHub",
-      "errorAt": "2026-07-05T17:07:30.040Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64309319450846208",
       "image": "http://www.vom.mn/dist/images/vom-logo.png",
       "ownerUserId": null,

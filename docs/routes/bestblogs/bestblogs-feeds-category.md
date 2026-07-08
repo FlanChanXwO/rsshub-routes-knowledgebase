@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 97,
+  "heat": 96,
   "location": "feeds.ts",
   "maintainers": [
     "zhenlohuang"

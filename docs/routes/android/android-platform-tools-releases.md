@@ -72,7 +72,7 @@ _None_
     {
       "description": "SDK Platform Tools release notes | Android Studio | Android Developers - Powered by RSSHub",
       "errorAt": "2026-01-08T01:19:39.707Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://developer.android.com/studio/releases/platform-tools\": 429 Too Many Requests\n",
       "id": "55939235459203072",
       "image": null,
       "ownerUserId": null,

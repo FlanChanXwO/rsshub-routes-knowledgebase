@@ -73,14 +73,14 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://readhub.cn/",
-      "title": "Readhub - 无码科技 - 热门话题",
+      "title": "Readhub - AI 与科技资讯热点追踪 - 热门话题",
       "type": "feed",
       "url": "rsshub://readhub"
     },
     {
       "description": "24 小时热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T03:07:43.919Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 77974917410779136",
       "id": "77974917410779136",
       "image": null,
       "ownerUserId": null,

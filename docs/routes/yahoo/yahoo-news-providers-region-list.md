@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "Yahoo 新聞 - 新聞來源列表 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:07:04.488Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84147601480398848",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

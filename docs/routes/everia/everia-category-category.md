@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "EVERIA.CLUB - Category: korea - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T01:34:07.498Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "160206686101994524",
       "image": null,
       "ownerUserId": null,

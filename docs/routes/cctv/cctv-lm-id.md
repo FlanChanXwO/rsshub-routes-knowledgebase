@@ -96,8 +96,8 @@
     },
     {
       "description": "《焦点访谈》于1994年由中央电视台新闻评论部创办,节目定位是:时事追踪报道,新闻背景分析,社会热点透视,大众话题评说。它以深度报道为主,以舆论监督见长,是中央电视台收视率最高的栏目之一,多次获中国新闻界最高奖项。 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:13:57.799Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59774961107766272",
       "image": null,
       "ownerUserId": null,

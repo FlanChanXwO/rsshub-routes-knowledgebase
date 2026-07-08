@@ -96,7 +96,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 243,
+  "heat": 242,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -110,8 +110,8 @@ _None_
   "topFeeds": [
     {
       "description": "news - Sputnik News - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:01:13.689Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60322104504418309",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60322104504418309",
       "image": null,
       "ownerUserId": null,

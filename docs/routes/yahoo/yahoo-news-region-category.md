@@ -109,8 +109,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
   "topFeeds": [
     {
       "description": "Yahoo 新聞 HK - 所有類別 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T00:49:51.145Z",
+      "errorMessage": "[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-HK&namespace=news&region=HK&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=&spaceId=2143854493\": 404 Not Found\n[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-HK&namespace=news&region=HK&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=&spaceId=2143854493\": 404 Not Found\n",
       "id": "58739494825370652",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,
@@ -121,8 +121,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
     },
     {
       "description": "Yahoo 新聞 TW - 所有類別 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:05:21.311Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-07-07T00:50:57.009Z",
+      "errorMessage": "[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-TW&namespace=news&region=TW&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=&spaceId=2144446726\": 404 Not Found\n[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-TW&namespace=news&region=TW&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=&spaceId=2144446726\": 404 Not Found\n",
       "id": "58739494825370651",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

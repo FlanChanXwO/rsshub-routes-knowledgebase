@@ -53,7 +53,7 @@ Enhance the official EN RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 298,
+  "heat": 299,
   "location": "rss.ts",
   "maintainers": [
     "HenryQW",

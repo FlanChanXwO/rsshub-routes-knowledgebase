@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3737,
+  "heat": 3738,
   "location": "featured.ts",
   "maintainers": [
     "HenryQW",
@@ -72,7 +72,7 @@ _None_
   "topFeeds": [
     {
       "description": "澎湃新闻 - 首页头条 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:09.274Z",
+      "errorAt": "2026-07-07T04:13:11.592Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905689",
       "id": "41572238273905689",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",

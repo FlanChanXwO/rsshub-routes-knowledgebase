@@ -78,8 +78,8 @@ More categories (except photo) can be found within the navigation bar at <https:
   "topFeeds": [
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:31.098Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61228164717836288",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61228164717836288",
       "image": null,
       "ownerUserId": null,

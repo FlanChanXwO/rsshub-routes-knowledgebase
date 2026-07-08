@@ -152,8 +152,8 @@
   "topFeeds": [
     {
       "description": "行业研究 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T13:36:00.029Z",
+      "errorMessage": "[GET] \"https://www.lhratings.com/research.html?type=3\": 404 Not Found\n",
       "id": "104824308798705664",
       "image": "https://www.lhratings.com/static/imgs/logo.png",
       "ownerUserId": null,
@@ -164,8 +164,8 @@
     },
     {
       "description": "宏观经济 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T08:12:08.247Z",
+      "errorMessage": "[GET] \"https://www.lhratings.com/research.html?type=1\": 404 Not Found\n",
       "id": "101364983690255360",
       "image": "https://www.lhratings.com/static/imgs/logo.png",
       "ownerUserId": null,

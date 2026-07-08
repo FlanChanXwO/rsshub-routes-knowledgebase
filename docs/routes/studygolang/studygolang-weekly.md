@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": "2026-07-05T21:57:36.051Z",
-      "errorMessage": "[GET] \"https://studygolang.com/go/weekly\": <no response> fetch failed\n[GET] \"https://studygolang.com/go/weekly\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60670746377865216",
       "image": null,
       "ownerUserId": null,

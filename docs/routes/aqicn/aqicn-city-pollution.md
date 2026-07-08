@@ -72,8 +72,8 @@ _None_
     },
     {
       "description": "北京AQI-aqicn.org - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:06.038Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667735435264",
       "image": null,
       "ownerUserId": null,

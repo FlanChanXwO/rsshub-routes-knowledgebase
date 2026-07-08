@@ -64,7 +64,7 @@ _None_
     {
       "description": "Patagonia - New Arrivals - MENS - Powered by RSSHub",
       "errorAt": "2025-06-25T20:58:11.937Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'product_name')\n",
       "id": "82011783614632960",
       "image": null,
       "ownerUserId": null,

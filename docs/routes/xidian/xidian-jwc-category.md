@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:53.488Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80953491612598272",
       "image": null,
       "ownerUserId": null,

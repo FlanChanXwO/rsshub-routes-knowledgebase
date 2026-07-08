@@ -72,7 +72,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 805,
+  "heat": 804,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T03:35:53.150Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 53022189134482432",
       "id": "53022189134482432",
       "image": null,
       "ownerUserId": null,

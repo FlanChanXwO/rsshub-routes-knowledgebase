@@ -136,8 +136,8 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
   "topFeeds": [
     {
       "description": "Repositories Ranking - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:53.290Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "183008047351892992",
       "image": null,
       "ownerUserId": null,

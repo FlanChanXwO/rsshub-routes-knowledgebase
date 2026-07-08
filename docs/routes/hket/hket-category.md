@@ -128,7 +128,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 49,
   "location": "index.tsx",
   "maintainers": [
     "TonyRL"
@@ -185,8 +185,8 @@
     },
     {
       "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T02:33:29.538Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "94630255063479296",
       "image": null,
       "ownerUserId": null,

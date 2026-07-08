@@ -90,7 +90,7 @@ _None_
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-15T10:10:26.628Z",
-      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141853\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141907\": 403 Forbidden\n",
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

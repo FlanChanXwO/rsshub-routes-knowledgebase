@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "校园招聘 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:02:12.608Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74406514359214080",
       "image": null,
       "ownerUserId": null,

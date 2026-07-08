@@ -86,7 +86,7 @@
     },
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:03:03.099Z",
+      "errorAt": "2026-07-07T03:44:41.959Z",
       "errorMessage": "Failed to fetch\n",
       "id": "62717033472135175",
       "image": null,

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2727,
+  "heat": 2726,
   "location": "index.tsx",
   "maintainers": [
     "HenryQW"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "GoFans：最新限免 / 促销应用 - Powered by RSSHub",
       "errorAt": "2026-07-03T22:07:40.250Z",
-      "errorMessage": "[GET] \"https://api.gofans.cn/v1/web/app_records?limit=20&kind=2&page=1\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://api.gofans.cn/v1/web/app_records?limit=20&kind=2&page=1\": <no response> fetch failed\n[GET] \"https://api.gofans.cn/v1/web/app_records?limit=20&kind=2&page=1\": <no response> fetch failed\n",
       "id": "82638766362757120",
       "image": null,
       "ownerUserId": null,

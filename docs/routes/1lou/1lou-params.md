@@ -95,8 +95,8 @@
     },
     {
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:11:23.308Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64249408253921283",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64249408253921283",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,

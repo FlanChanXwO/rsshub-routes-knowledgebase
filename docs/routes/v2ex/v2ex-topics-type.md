@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23466,
+  "heat": 23463,
   "location": "topics.ts",
   "maintainers": [
     "WhiteWorld"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-最热主题 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:28.186Z",
-      "errorMessage": "Failed query: select \"subscriptions\".\"user_id\", \"rsshub_usage\".\"rsshub_id\", \"rsshub\".\"base_url\", \"rsshub\".\"access_key\", \"rsshub\".\"error_message\" from \"subscriptions\" left join \"rsshub_usage\" on \"subscriptions\".\"user_id\" = \"rsshub_usage\".\"user_id\" left join \"rsshub\" on \"rsshub\".\"id\" = \"rsshub_usage\".\"rsshub_id\" where \"subscriptions\".\"feed_id\" = $1\nparams: 41147805268337669",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805268337669",
       "image": null,
       "ownerUserId": null,

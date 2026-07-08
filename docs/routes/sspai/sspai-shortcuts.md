@@ -70,7 +70,7 @@ _None_
     {
       "description": "Shortcuts Gallery - 少数派 - Powered by RSSHub",
       "errorAt": "2024-09-26T04:41:26.784Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'flatMap')\n",
       "id": "55873602868576299",
       "image": null,
       "ownerUserId": null,

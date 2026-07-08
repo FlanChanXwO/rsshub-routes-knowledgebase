@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Tag: ドリームチケット - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-07-05T16:33:27.852Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67431890670912512",
       "image": null,
       "ownerUserId": null,

@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 38,
+  "heat": 37,
   "location": "lists.ts",
   "maintainers": [
     "dddepg"
@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "神片列表 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:19:31.774Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/lists/gVQq?lst=0\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129737927519721472",
       "image": null,
       "ownerUserId": null,

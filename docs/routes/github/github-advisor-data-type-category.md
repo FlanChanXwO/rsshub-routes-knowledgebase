@@ -71,7 +71,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 11,
   "location": "advisor.ts",
   "maintainers": [
     "sd0ric4"
@@ -89,8 +89,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub Advisory Database RSS - composer - reviewed - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:15:56.172Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "95003691455117312",
       "image": null,
       "ownerUserId": null,
@@ -101,8 +101,8 @@ _None_
     },
     {
       "description": "GitHub Advisory Database RSS - maven - reviewed - Powered by RSSHub",
-      "errorAt": "2026-07-06T00:44:53.564Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150126395942098944",
       "image": null,
       "ownerUserId": null,

@@ -113,18 +113,6 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
   ],
   "topFeeds": [
     {
-      "description": "Проверка браузера… - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "165777653595388928",
-      "image": "https://s.musify.club/images/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://musify.club/",
-      "title": "Проверка браузера…",
-      "type": "feed",
-      "url": "rsshub://musify"
-    },
-    {
       "description": "Download music for free in mp3 format — high quality and no registration required. Listen online and download new releases, hits, and classics on Musify. - Powered by RSSHub",
       "errorAt": "2026-05-08T04:09:01.847Z",
       "errorMessage": "Failed to fetch\n",
@@ -135,6 +123,18 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
       "title": "Download music for free in high-quality mp3 without registration | Musify",
       "type": "feed",
       "url": "rsshub://musify/en"
+    },
+    {
+      "description": "Проверка браузера… - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "165777653595388928",
+      "image": "https://s.musify.club/images/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://musify.club/",
+      "title": "Проверка браузера…",
+      "type": "feed",
+      "url": "rsshub://musify"
     }
   ],
   "url": "musify.club",

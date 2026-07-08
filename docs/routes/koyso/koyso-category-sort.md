@@ -392,15 +392,15 @@
     },
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
-      "errorAt": "2026-07-04T12:21:05.610Z",
+      "errorAt": "2026-07-04T19:57:59.291Z",
       "errorMessage": "[GET] \"https://koyso.to/game/2591\": 404 Not Found\n",
-      "id": "196554485255595008",
+      "id": "185221927541489664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://koyso.to/?category=7&sort=latest",
-      "title": "PlayZip - PC Games Free Download - R18+ - Latest",
+      "siteUrl": "https://koyso.to/?sort=latest",
+      "title": "PlayZip - PC Games Free Download - All - Latest",
       "type": "feed",
-      "url": "rsshub://koyso/7/latest"
+      "url": "rsshub://koyso/0/latest"
     }
   ],
   "url": "koyso.to",

@@ -86,8 +86,8 @@
     },
     {
       "description": "知轩藏书 - 仙侠 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-06T23:09:26.259Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "156621875112397824",
       "image": null,
       "ownerUserId": null,

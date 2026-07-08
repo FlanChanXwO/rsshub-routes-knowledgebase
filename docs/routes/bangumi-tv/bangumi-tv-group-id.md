@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Bangumi - 靠谱人生茶话会 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:01:45.014Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72563300550000640",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72563300550000640",
       "image": null,
       "ownerUserId": null,

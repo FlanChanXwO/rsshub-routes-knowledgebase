@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "首页 - 隆众资讯 - Powered by RSSHub",
-      "errorAt": "2026-07-06T02:57:49.226Z",
-      "errorMessage": "[GET] \"https://www.oilchem.net/26-0706-10-9375406e34ed425b.html\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "245770043138465792",
       "image": null,
       "ownerUserId": null,

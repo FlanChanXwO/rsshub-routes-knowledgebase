@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:04:02.282Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-07T04:24:08.510Z",
+      "errorMessage": "[GET] \"https://e-hentai.org/tag/language:chinese?next=0\": 451 Unavailable For Legal Reasons\n",
       "id": "76924878996884480",
       "image": null,
       "ownerUserId": null,

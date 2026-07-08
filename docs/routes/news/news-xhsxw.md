@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 54,
+  "heat": 55,
   "location": "xhsxw.ts",
   "maintainers": [
     "nczitzk"
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "新华社新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:03:43.798Z",
-      "errorMessage": "502 Bad Gateway\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68124618879637504",
       "image": "http://www.news.cn/20141223_xhsxw_logo_v1.png",
       "ownerUserId": null,

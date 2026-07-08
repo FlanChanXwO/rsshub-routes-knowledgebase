@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 16,
   "location": "index.ts",
   "maintainers": [
     "hellodword ",
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Hex-Rays Blog - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:31.557Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68824134025845760",
       "image": "https://hex-rays.com/hubfs/Ico-logo.png",
       "ownerUserId": null,

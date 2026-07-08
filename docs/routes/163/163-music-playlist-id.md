@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "网易云音乐歌单 - Khat喵喜欢的音乐 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:53.772Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-07T03:44:06.202Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'trackIds')\n",
       "id": "67058999583684608",
       "image": null,
       "ownerUserId": null,

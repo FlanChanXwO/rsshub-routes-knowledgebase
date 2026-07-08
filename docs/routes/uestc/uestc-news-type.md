@@ -90,7 +90,7 @@
     {
       "description": "电子科技大学新闻网信息公告 - Powered by RSSHub",
       "errorAt": "2026-01-31T12:54:31.957Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "162691575957116928",
       "image": null,
       "ownerUserId": null,

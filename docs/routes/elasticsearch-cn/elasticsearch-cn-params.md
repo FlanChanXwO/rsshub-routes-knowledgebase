@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "搜索客，搜索人自己的社区 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:10:09.627Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64113341498592256",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@
     },
     {
       "description": "Elasticsearch - 搜索客，搜索人自己的社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-07T02:28:00.177Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75540489377172480",
       "image": null,
       "ownerUserId": null,
