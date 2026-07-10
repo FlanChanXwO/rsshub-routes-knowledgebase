@@ -1,0 +1,110 @@
+# 四川省人力资源和社会保障厅人事考试专栏 - 通知公告
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `scpta`
+- Namespace Name: `四川省人力资源和社会保障厅人事考试专栏`
+- Route Path: `/scpta/news/:category`
+- Route Name: `通知公告`
+- Example: `/scpta/news/33`
+- URL: `www.scpta.com.cn`
+- Language: `_None_`
+- Categories: `government`
+- Maintainers: `Yeye-0426`
+- Source Location: `news.ts`
+- Source Module: `_None_`
+
+## Description
+| 分类                 | category\_id |
+| -------------------- | ------------ |
+| 工作动态             | 33           |
+| 公务员考试           | 56           |
+| 专业技术人员资格考试 | 57           |
+| 事业单位考试         | 67           |
+| 其它                 | 72           |
+
+## Parameters
+- `category`: {"default": "33", "description": "分类ID，默认为`33`(工作动态)"}
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.scpta.com.cn/front/News/List`
+- `target`: `/news`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "government"
+  ],
+  "description": "| 分类                 | category\\_id |\n| -------------------- | ------------ |\n| 工作动态             | 33           |\n| 公务员考试           | 56           |\n| 专业技术人员资格考试 | 57           |\n| 事业单位考试         | 67           |\n| 其它                 | 72           |",
+  "example": "/scpta/news/33",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 5,
+  "location": "news.ts",
+  "maintainers": [
+    "Yeye-0426"
+  ],
+  "name": "通知公告",
+  "parameters": {
+    "category": {
+      "default": "33",
+      "description": "分类ID，默认为`33`(工作动态)"
+    }
+  },
+  "path": "/news/:category",
+  "radar": [
+    {
+      "source": [
+        "www.scpta.com.cn/front/News/List"
+      ],
+      "target": "/news"
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "通知公告 - 事业单位考试 - Powered by RSSHub",
+      "errorAt": "2026-02-06T05:27:14.779Z",
+      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/67\": <no response> fetch failed\n",
+      "id": "178439059880655872",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.scpta.com.cn/front/News/List/67",
+      "title": "通知公告 - 事业单位考试",
+      "type": "feed",
+      "url": "rsshub://scpta/news/67"
+    },
+    {
+      "description": "通知公告 - 公务员考试 - Powered by RSSHub",
+      "errorAt": "2026-02-01T16:35:50.258Z",
+      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/56\": <no response> fetch failed\n",
+      "id": "178439737513011200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.scpta.com.cn/front/News/List/56",
+      "title": "通知公告 - 公务员考试",
+      "type": "feed",
+      "url": "rsshub://scpta/news/56"
+    }
+  ]
+}
+```

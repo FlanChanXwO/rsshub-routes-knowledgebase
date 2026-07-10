@@ -1,0 +1,87 @@
+# qBittorrent - News
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `qbittorrent`
+- Namespace Name: `qBittorrent`
+- Route Path: `/qbittorrent/news`
+- Route Name: `News`
+- Example: `/qbittorrent/news`
+- URL: `qbittorrent.org/news.php`
+- Language: `_None_`
+- Categories: `program-update`
+- Maintainers: `TonyRL`
+- Source Location: `news.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `qbittorrent.org/news.php`
+  - `qbittorrent.org/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "program-update"
+  ],
+  "example": "/qbittorrent/news",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 15,
+  "location": "news.ts",
+  "maintainers": [
+    "TonyRL"
+  ],
+  "name": "News",
+  "parameters": {},
+  "path": "/news",
+  "radar": [
+    {
+      "source": [
+        "qbittorrent.org/news.php",
+        "qbittorrent.org/"
+      ]
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "qBittorrent News - Powered by RSSHub",
+      "errorAt": "2025-07-01T19:06:28.681Z",
+      "errorMessage": "[GET] \"https://www.qbittorrent.org/news.php\": <no response> fetch failed\n[GET] \"https://www.qbittorrent.org/news.php\": 403 Forbidden\n",
+      "id": "43121778624967680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.qbittorrent.org/news.php",
+      "title": "qBittorrent News",
+      "type": "feed",
+      "url": "rsshub://qbittorrent/news"
+    }
+  ],
+  "url": "qbittorrent.org/news.php"
+}
+```

@@ -1,0 +1,99 @@
+# 鸟哥笔记 - 分类目录
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `niaogebiji`
+- Namespace Name: `鸟哥笔记`
+- Route Path: `/niaogebiji/cat/:cat`
+- Route Name: `分类目录`
+- Example: `/niaogebiji/cat/103`
+- URL: `niaogebiji.com/`
+- Language: `_None_`
+- Categories: `new-media`
+- Maintainers: `cKotoriKat`
+- Source Location: `cat.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+- `cat`: 如 https://www.niaogebiji.com/cat/103，最后的数字就是id
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `niaogebiji.com/cat/:cat`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "example": "/niaogebiji/cat/103",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 104,
+  "location": "cat.ts",
+  "maintainers": [
+    "cKotoriKat"
+  ],
+  "name": "分类目录",
+  "parameters": {
+    "cat": "如 https://www.niaogebiji.com/cat/103，最后的数字就是id"
+  },
+  "path": "/cat/:cat",
+  "radar": [
+    {
+      "source": [
+        "niaogebiji.com/cat/:cat"
+      ]
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "私域社群聚合私域流量、私域运营、私域营销、社群运营、社群管理干货知识，一站式解决私域社群运营管理问题。 - Powered by RSSHub",
+      "errorAt": "2026-04-21T10:06:57.108Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.niaogebiji.com/cat/101\": <no response> fetch failed\n",
+      "id": "78297780823985152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.niaogebiji.com/cat/101",
+      "title": "私域流量_社群运营-鸟哥笔记",
+      "type": "feed",
+      "url": "rsshub://niaogebiji/cat/101"
+    },
+    {
+      "description": "内容运营聚合内容运营知识、内容运营能力、内容运营主要工作等干货知识，一站式解决内容运营管理、内容运营主要工作问题。 - Powered by RSSHub",
+      "errorAt": "2026-04-21T15:32:07.708Z",
+      "errorMessage": "[GET] \"https://www.niaogebiji.com/cat/136\": <no response> fetch failed\n",
+      "id": "71110389108097024",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.niaogebiji.com/cat/136",
+      "title": "内容运营_内容运营知识-鸟哥笔记",
+      "type": "feed",
+      "url": "rsshub://niaogebiji/cat/136"
+    }
+  ],
+  "url": "niaogebiji.com/"
+}
+```

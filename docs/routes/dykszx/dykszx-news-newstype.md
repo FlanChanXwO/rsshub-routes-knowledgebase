@@ -1,0 +1,104 @@
+# 德阳人事考试网 - 考试新闻发布
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `dykszx`
+- Namespace Name: `德阳人事考试网`
+- Route Path: `/dykszx/news/:newsType?`
+- Route Name: `考试新闻发布`
+- Example: `/dykszx/news`
+- URL: `www.dykszx.com`
+- Language: `_None_`
+- Categories: `government`
+- Maintainers: `zytomorrow`
+- Source Location: `news.ts`
+- Source Module: `_None_`
+
+## Description
+| 新闻中心 | 公务员考试 | 事业单位 | （职）业资格、职称考试 |  其他 |
+| :------: | :--------: | :------: | :--------------------: | :---: |
+|    all   |     gwy    |   sydw   |          zyzc          | other |
+
+## Parameters
+- `newsType`: 考试类型。默认新闻中心(all)
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `www.dykszx.com/`
+- `target`: `/news/all`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "government"
+  ],
+  "description": "| 新闻中心 | 公务员考试 | 事业单位 | （职）业资格、职称考试 |  其他 |\n| :------: | :--------: | :------: | :--------------------: | :---: |\n|    all   |     gwy    |   sydw   |          zyzc          | other |",
+  "example": "/dykszx/news",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 6,
+  "location": "news.ts",
+  "maintainers": [
+    "zytomorrow"
+  ],
+  "name": "考试新闻发布",
+  "parameters": {
+    "newsType": "考试类型。默认新闻中心(all)"
+  },
+  "path": "/news/:newsType?",
+  "radar": [
+    {
+      "source": [
+        "www.dykszx.com/"
+      ],
+      "target": "/news/all"
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
+      "errorAt": "2025-10-09T02:43:18.643Z",
+      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
+      "id": "61102289930311680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dykszx.com/",
+      "title": "考试新闻发布(新闻中心)",
+      "type": "feed",
+      "url": "rsshub://dykszx/news"
+    },
+    {
+      "description": "德阳人事考试网 考试新闻发布 (公务员考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T00:25:38.064Z",
+      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
+      "id": "161654225832322048",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dykszx.com/",
+      "title": "考试新闻发布(公务员考试)",
+      "type": "feed",
+      "url": "rsshub://dykszx/news/gwy"
+    }
+  ],
+  "url": "www.dykszx.com"
+}
+```

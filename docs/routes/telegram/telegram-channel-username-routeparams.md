@@ -1,0 +1,172 @@
+# Telegram - Channel
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `telegram`
+- Namespace Name: `Telegram`
+- Route Path: `/telegram/channel/:username/:routeParams?`
+- Route Name: `Channel`
+- Example: `/telegram/channel/awesomeRSSHub`
+- URL: `t.me`
+- Language: `_None_`
+- Categories: `social-media, popular`
+- Maintainers: `DIYgod, Rongronggg9, synchrone, pseudoyu`
+- Source Location: `channel.ts`
+- Source Module: `_None_`
+
+## Description
+::: tip
+Due to Telegram restrictions, some channels involving pornography, copyright, and politics cannot be subscribed. You can confirm by visiting `https://t.me/s/:username`, it's recommended to deploy your own instance with telegram api configs (create your telegram application via `https://core.telegram.org/api/obtaining_api_id`, run this command `node ./lib/routes/telegram/scripts/get-telegram-session.mjs` to get `TELEGRAM_SESSION` and set it as Environment Variable).
+:::
+
+## Parameters
+- `username`: channel username
+- `routeParams`: extra parameters, see the table below
+| Key                    | Description                                                           | Accepts                                            | Defaults to  |
+| :--------------------: | :-------------------------------------------------------------------: | :------------------------------------------------: | :----------: |
+| showLinkPreview        | Show the link preview from Telegram                                   | 0/1/true/false                                     | true         |
+| showViaBot             | For messages sent via bot, show the bot                               | 0/1/true/false                                     | true         |
+| showReplyTo            | For reply messages, show the target of the reply                      | 0/1/true/false                                     | true         |
+| showFwdFrom            | For forwarded messages, show the forwarding source                    | 0/1/true/false                                     | true         |
+| showFwdFromAuthor      | For forwarded messages, show the author of the forwarding source      | 0/1/true/false                                     | true         |
+| showInlineButtons      | Show inline buttons                                                   | 0/1/true/false                                     | false        |
+| showMediaTagInTitle    | Show media tags in the title                                          | 0/1/true/false                                     | true         |
+| showMediaTagAsEmoji    | Show media tags as emoji                                              | 0/1/true/false                                     | true         |
+| showHashtagAsHyperlink | Show hashtags as hyperlinks (`https://t.me/s/channel?q=%23hashtag`) | 0/1/true/false                                     | true         |
+| includeFwd             | Include forwarded messages                                            | 0/1/true/false                                     | true         |
+| includeReply           | Include reply messages                                                | 0/1/true/false                                     | true         |
+| includeServiceMsg      | Include service messages (e.g. message pinned, channel photo updated) | 0/1/true/false                                     | true         |
+| includeUnsupportedMsg  | Include messages unsupported by t.me                                  | 0/1/true/false                                     | false        |
+| searchQuery            | search query                                                          | keywords; replace `#hashtag` with `%23hashtag` | (no keyword) |
+
+Specify different option values than default values can meet different needs, URL
+
+```
+https://rsshub.app/telegram/channel/NewlearnerChannel/showLinkPreview=0&showViaBot=0&showReplyTo=0&showFwdFrom=0&showFwdFromAuthor=0&showInlineButtons=0&showMediaTagInTitle=1&showMediaTagAsEmoji=1&includeFwd=0&includeReply=1&includeServiceMsg=0&includeUnsupportedMsg=0
+```
+
+generates an RSS without any link previews and annoying metadata, with emoji media tags in the title, without forwarded messages (but with reply messages), and without messages you don't care about (service messages and unsupported messages), for people who prefer pure subscriptions.
+
+For backward compatibility reasons, invalid `routeParams` will be treated as `searchQuery` .
+
+
+## Features
+- `requireConfig`: [{"description": "Telegram API Authentication", "name": "TELEGRAM_SESSION", "optional": true}, {"description": "Telegram API ID", "name": "TELEGRAM_API_ID", "optional": true}, {"description": "Telegram API Hash", "name": "TELEGRAM_API_HASH", "optional": true}, {"description": "Telegram Max Concurrent Downloads", "name": "TELEGRAM_MAX_CONCURRENT_DOWNLOADS", "optional": true}, {"description": "Telegram Proxy Host", "name": "TELEGRAM_PROXY_HOST", "optional": true}, {"description": "Telegram Proxy Port", "name": "TELEGRAM_PROXY_PORT", "optional": true}, {"description": "Telegram Proxy Secret", "name": "TELEGRAM_PROXY_SECRET", "optional": true}]
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `t.me/s/:username`
+- `target`: `/channel/:username`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "social-media",
+    "popular"
+  ],
+  "description": "::: tip\nDue to Telegram restrictions, some channels involving pornography, copyright, and politics cannot be subscribed. You can confirm by visiting `https://t.me/s/:username`, it's recommended to deploy your own instance with telegram api configs (create your telegram application via `https://core.telegram.org/api/obtaining_api_id`, run this command `node ./lib/routes/telegram/scripts/get-telegram-session.mjs` to get `TELEGRAM_SESSION` and set it as Environment Variable).\n:::",
+  "example": "/telegram/channel/awesomeRSSHub",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": [
+      {
+        "description": "Telegram API Authentication",
+        "name": "TELEGRAM_SESSION",
+        "optional": true
+      },
+      {
+        "description": "Telegram API ID",
+        "name": "TELEGRAM_API_ID",
+        "optional": true
+      },
+      {
+        "description": "Telegram API Hash",
+        "name": "TELEGRAM_API_HASH",
+        "optional": true
+      },
+      {
+        "description": "Telegram Max Concurrent Downloads",
+        "name": "TELEGRAM_MAX_CONCURRENT_DOWNLOADS",
+        "optional": true
+      },
+      {
+        "description": "Telegram Proxy Host",
+        "name": "TELEGRAM_PROXY_HOST",
+        "optional": true
+      },
+      {
+        "description": "Telegram Proxy Port",
+        "name": "TELEGRAM_PROXY_PORT",
+        "optional": true
+      },
+      {
+        "description": "Telegram Proxy Secret",
+        "name": "TELEGRAM_PROXY_SECRET",
+        "optional": true
+      }
+    ],
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 303469,
+  "location": "channel.ts",
+  "maintainers": [
+    "DIYgod",
+    "Rongronggg9",
+    "synchrone",
+    "pseudoyu"
+  ],
+  "name": "Channel",
+  "parameters": {
+    "routeParams": "extra parameters, see the table below\n| Key                    | Description                                                           | Accepts                                            | Defaults to  |\n| :--------------------: | :-------------------------------------------------------------------: | :------------------------------------------------: | :----------: |\n| showLinkPreview        | Show the link preview from Telegram                                   | 0/1/true/false                                     | true         |\n| showViaBot             | For messages sent via bot, show the bot                               | 0/1/true/false                                     | true         |\n| showReplyTo            | For reply messages, show the target of the reply                      | 0/1/true/false                                     | true         |\n| showFwdFrom            | For forwarded messages, show the forwarding source                    | 0/1/true/false                                     | true         |\n| showFwdFromAuthor      | For forwarded messages, show the author of the forwarding source      | 0/1/true/false                                     | true         |\n| showInlineButtons      | Show inline buttons                                                   | 0/1/true/false                                     | false        |\n| showMediaTagInTitle    | Show media tags in the title                                          | 0/1/true/false                                     | true         |\n| showMediaTagAsEmoji    | Show media tags as emoji                                              | 0/1/true/false                                     | true         |\n| showHashtagAsHyperlink | Show hashtags as hyperlinks (`https://t.me/s/channel?q=%23hashtag`) | 0/1/true/false                                     | true         |\n| includeFwd             | Include forwarded messages                                            | 0/1/true/false                                     | true         |\n| includeReply           | Include reply messages                                                | 0/1/true/false                                     | true         |\n| includeServiceMsg      | Include service messages (e.g. message pinned, channel photo updated) | 0/1/true/false                                     | true         |\n| includeUnsupportedMsg  | Include messages unsupported by t.me                                  | 0/1/true/false                                     | false        |\n| searchQuery            | search query                                                          | keywords; replace `#hashtag` with `%23hashtag` | (no keyword) |\n\nSpecify different option values than default values can meet different needs, URL\n\n```\nhttps://rsshub.app/telegram/channel/NewlearnerChannel/showLinkPreview=0&showViaBot=0&showReplyTo=0&showFwdFrom=0&showFwdFromAuthor=0&showInlineButtons=0&showMediaTagInTitle=1&showMediaTagAsEmoji=1&includeFwd=0&includeReply=1&includeServiceMsg=0&includeUnsupportedMsg=0\n```\n\ngenerates an RSS without any link previews and annoying metadata, with emoji media tags in the title, without forwarded messages (but with reply messages), and without messages you don't care about (service messages and unsupported messages), for people who prefer pure subscriptions.\n\nFor backward compatibility reasons, invalid `routeParams` will be treated as `searchQuery` .\n",
+    "username": "channel username"
+  },
+  "path": "/channel/:username/:routeParams?",
+  "radar": [
+    {
+      "source": [
+        "t.me/s/:username"
+      ],
+      "target": "/channel/:username"
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "Founder of Telegram. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55779617166007296",
+      "image": "https://cdn4.telesco.pe/file/tmjA9y8phMRC_FqpZC4lmuft68SuUd1tswgg5BZoJVsy0rzdbE786rcsi4s62jrkIpzENVwDVeBPfp7mFfTgWScfikYDJ_ZACWy9ayv6KZUIGTpE9QGbrUOIioLfuY6h-33MRShzngn3BqDINXxrhhznzJnDLaYZH6uRl9osr_lu9L27KOd16-WO6obdmJSs0HYLPT_FFhKOwnfsGqnQTz0D4vqNnhD38L5-rWnN8TZOs31dD5MMO4quxKdSGIT5uYPrZcl-P2n3AYlbYPVaXQxiH_KLm5LdLnSG0Prit2jKKBKcRUfERlTCyLvQNiX-gT6p9gk3v6y0JlyaXT3eqQ.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://t.me/s/durov",
+      "title": "Pavel Durov - Telegram Channel",
+      "type": "feed",
+      "url": "rsshub://telegram/channel/durov"
+    },
+    {
+      "description": "本群组主要分享白嫖机场、白嫖资源、白嫖线报、以及存放一些信息，嫖友聚居地哦频道的灌水群https://t.me/anranbpbbs需要真实邮箱怎么办对于需要真实邮箱验证的，大家可以下载手机版的网易邮箱大师，可以不限量注册163的邮箱各种超低价会员：Anran杂货铺， 优酷月仅需3元，百度网盘svip 1元起，52bp.icu阿里网盘资源搜索：公众号：彳亍说，发送 阿里 资源名称 即可百度网盘、迅雷、优酷会员分享：小程序：彳亍说小屋测试 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65367894677815296",
+      "image": "https://cdn5.telesco.pe/file/eNuMTWxt98qyA5tP290FUZq10qFtAuw7p8j6CeRt3-h4S1kla5y6FAFL1GSNqXiI3bzvrDRTqZMACvQn4U4PiLHQrvQz6E5ebe9en_BvoBuvkzvlo_KJZiCh-ZmgSXx_MkDcd442gFwckhRE19W0D_YskQWPd_5c7oU5EniHhxPdFrMZG_096iO6hZAXuGC8axNEqxCIAePLdk0claOv0LlxdpY9QplCnulfDLYmj-eiixkPtWk-D0yYATxfe-eF_bj6O_bwhxpEvPZdxUKwO3p1ge3j3pT2ggJ1vf2gGjp-xHevqGlaPZBl1cOS504a5xcK1HB59D-8MyMqRFZVDg.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://t.me/s/anranbp",
+      "title": "我爱白嫖 - Telegram Channel",
+      "type": "feed",
+      "url": "rsshub://telegram/channel/anranbp"
+    }
+  ],
+  "view": 1
+}
+```

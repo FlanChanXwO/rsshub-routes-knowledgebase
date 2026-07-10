@@ -1,0 +1,73 @@
+# Forklog - Новости
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `forklog`
+- Namespace Name: `Forklog`
+- Route Path: `/forklog/news`
+- Route Name: `Новости`
+- Example: `/forklog/news`
+- URL: `forklog.com/news`
+- Language: `_None_`
+- Categories: `finance`
+- Maintainers: `raven428`
+- Source Location: `index.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+_None_
+
+## Radar
+### Rule 1
+- `source`:
+  - `forklog.com/news`
+- `target`: `/news`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "finance"
+  ],
+  "example": "/forklog/news",
+  "heat": 4,
+  "location": "index.ts",
+  "maintainers": [
+    "raven428"
+  ],
+  "name": "Новости",
+  "path": "/news",
+  "radar": [
+    {
+      "source": [
+        "forklog.com/news"
+      ],
+      "target": "/news"
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "Последние новости из мира блокчейна и криптовалют - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "118816637391308800",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://forklog.com/news",
+      "title": "Forklog – Новости",
+      "type": "feed",
+      "url": "rsshub://forklog/news"
+    }
+  ],
+  "url": "forklog.com/news"
+}
+```

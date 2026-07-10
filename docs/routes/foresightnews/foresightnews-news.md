@@ -1,0 +1,87 @@
+# Foresight News - 快讯
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `foresightnews`
+- Namespace Name: `Foresight News`
+- Route Path: `/foresightnews/news`
+- Route Name: `快讯`
+- Example: `/foresightnews/news`
+- URL: `foresightnews.pro/news`
+- Language: `_None_`
+- Categories: `new-media`
+- Maintainers: `nczitzk`
+- Source Location: `news.ts`
+- Source Module: `_None_`
+
+## Description
+_None_
+
+## Parameters
+_None_
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
+
+## Radar
+### Rule 1
+- `source`:
+  - `foresightnews.pro/news`
+  - `foresightnews.pro/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "new-media"
+  ],
+  "example": "/foresightnews/news",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
+  "heat": 247,
+  "location": "news.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "快讯",
+  "parameters": {},
+  "path": "/news",
+  "radar": [
+    {
+      "source": [
+        "foresightnews.pro/news",
+        "foresightnews.pro/"
+      ]
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": "快讯 - Foresight News - Powered by RSSHub",
+      "errorAt": "2026-03-25T12:04:05.238Z",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/news?size=50\": 403 \n[GET] \"https://api.foresightnews.pro/v1/news?size=50\": 403 Forbidden\n[GET] \"https://api.foresightnews.pro/v1/news?size=50\": 403 Forbidden\n[GET] \"https://api.foresightnews.pro/v1/news?size=50\": 403 Forbidden\n",
+      "id": "41756176414118912",
+      "image": "https://img.foresightnews.pro/vertical_logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://foresightnews.pro/news",
+      "title": "Foresight News - 快讯",
+      "type": "feed",
+      "url": "rsshub://foresightnews/news"
+    }
+  ],
+  "url": "foresightnews.pro/news"
+}
+```

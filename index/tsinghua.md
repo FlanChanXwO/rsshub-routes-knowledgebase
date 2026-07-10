@@ -1,0 +1,35 @@
+# 清华大学 Route Index
+
+## Namespace
+- Namespace: `tsinghua`
+- Display Name: `清华大学`
+- URL: `tsinghua.edu.cn`
+- Language: `_None_`
+- Aliases: `tsinghua, tsinghua.edu.cn, 清华大学`
+- Route Count: `3`
+
+## Routes
+
+### 图书馆通知公告
+- Route ID: `tsinghua:/tsinghua/lib/tzgg/:category`
+- Route Path: `/tsinghua/lib/tzgg/:category`
+- File: `docs/routes/tsinghua/tsinghua-lib-tzgg-category.md`
+- File Name: `tsinghua-lib-tzgg-category.md`
+- Categories: `university`
+- Maintainers: `linsenwang`
+
+### 图书馆资源动态
+- Route ID: `tsinghua:/tsinghua/lib/zydt/:category?`
+- Route Path: `/tsinghua/lib/zydt/:category?`
+- File: `docs/routes/tsinghua/tsinghua-lib-zydt-category.md`
+- File Name: `tsinghua-lib-zydt-category.md`
+- Categories: `university`
+- Maintainers: `nczitzk`
+
+### 清华新闻
+- Route ID: `tsinghua:/tsinghua/news/:category?`
+- Route Path: `/tsinghua/news/:category?`
+- File: `docs/routes/tsinghua/tsinghua-news-category.md`
+- File Name: `tsinghua-news-category.md`
+- Categories: `university`
+- Maintainers: `TonyRL`

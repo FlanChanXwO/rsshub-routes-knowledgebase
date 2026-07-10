@@ -1,0 +1,105 @@
+# Annual Reviews - Journal
+
+## Coverage
+`index-only`
+
+## Route
+- Namespace: `annualreviews`
+- Namespace Name: `Annual Reviews`
+- Route Path: `/annualreviews/:id`
+- Route Name: `Journal`
+- Example: `/annualreviews/anchem`
+- URL: `annualreviews.org`
+- Language: `_None_`
+- Categories: `journal`
+- Maintainers: `nczitzk`
+- Source Location: `index.ts`
+- Source Module: `_None_`
+
+## Description
+The URL of the journal [Annual Review of Analytical Chemistry](https://www.annualreviews.org/journal/anchem) is `https://www.annualreviews.org/journal/anchem`, where `anchem` is the id of the journal, so the route for this journal is `/annualreviews/anchem`.
+
+::: tip
+More jounals can be found in [Browse Journals](https://www.annualreviews.org/action/showPublications).
+:::
+
+## Parameters
+- `id`: Journal id, can be found in URL
+
+
+## Features
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: true
+
+## Radar
+### Rule 1
+- `source`:
+  - `annualreviews.org/journal/:id`
+  - `annualreviews.org/`
+
+## Raw JSON
+```json
+{
+  "categories": [
+    "journal"
+  ],
+  "description": "The URL of the journal [Annual Review of Analytical Chemistry](https://www.annualreviews.org/journal/anchem) is `https://www.annualreviews.org/journal/anchem`, where `anchem` is the id of the journal, so the route for this journal is `/annualreviews/anchem`.\n\n::: tip\nMore jounals can be found in [Browse Journals](https://www.annualreviews.org/action/showPublications).\n:::",
+  "example": "/annualreviews/anchem",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": true
+  },
+  "heat": 5,
+  "location": "index.ts",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "Journal",
+  "parameters": {
+    "id": "Journal id, can be found in URL"
+  },
+  "path": "/:id",
+  "radar": [
+    {
+      "source": [
+        "annualreviews.org/journal/:id",
+        "annualreviews.org/"
+      ]
+    }
+  ],
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2026-06-30T06:04:20.800Z",
+      "errorMessage": "[GET] \"https://www.annualreviews.org/r/matsci_rss\": 403 Forbidden\n",
+      "id": "1178645011650969608",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://annualreviews/matsci"
+    },
+    {
+      "description": null,
+      "errorAt": "2026-06-30T06:04:21.536Z",
+      "errorMessage": "[GET] \"https://www.annualreviews.org/r/fluid_rss\": 403 Forbidden\n",
+      "id": "1178645011650969604",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://annualreviews/fluid"
+    }
+  ]
+}
+```
