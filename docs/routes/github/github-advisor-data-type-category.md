@@ -89,8 +89,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub Advisory Database RSS - composer - reviewed - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:49:55.134Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "95003691455117312",
       "image": null,
       "ownerUserId": null,

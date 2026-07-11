@@ -93,7 +93,7 @@ _None_
     },
     {
       "description": "财新网 - 提供财经新闻及资讯服务 - Powered by RSSHub",
-      "errorAt": "2026-07-09T01:27:28.656Z",
+      "errorAt": "2026-07-10T03:39:59.558Z",
       "errorMessage": "Failed to fetch\n",
       "id": "60143536924270599",
       "image": null,

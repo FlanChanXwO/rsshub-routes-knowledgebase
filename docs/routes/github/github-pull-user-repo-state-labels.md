@@ -101,8 +101,8 @@ _None_
   "topFeeds": [
     {
       "description": "RSSNext/Follow Open Pull Requests - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:45:16.356Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "77720830590388224",
       "image": null,
       "ownerUserId": null,

@@ -88,18 +88,6 @@
   ],
   "topFeeds": [
     {
-      "description": "EVE - 官方 - TapTap 论坛 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "256765756479228928",
-      "image": "https://img-tc.tapimg.com/market/images/e0e57fdd638a65dd945d795b0f333b47.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/788667/topic?type=official&sort=created",
-      "title": "EVE - 官方 - TapTap 论坛",
-      "type": "feed",
-      "url": "rsshub://taptap/topic/788667/official"
-    },
-    {
       "description": "梦想协奏曲！少女乐团派对！ - undefined - TapTap 论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -110,6 +98,18 @@
       "title": "梦想协奏曲！少女乐团派对！ - undefined - TapTap 论坛",
       "type": "feed",
       "url": "rsshub://taptap/topic/67848/feed/commented/zh-CN"
+    },
+    {
+      "description": "EVE - 官方 - TapTap 论坛 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "256765756479228928",
+      "image": "https://img-tc.tapimg.com/market/images/e0e57fdd638a65dd945d795b0f333b47.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.taptap.cn/app/788667/topic?type=official&sort=created",
+      "title": "EVE - 官方 - TapTap 论坛",
+      "type": "feed",
+      "url": "rsshub://taptap/topic/788667/official"
     }
   ]
 }

@@ -62,7 +62,7 @@ _None_
     {
       "description": "Nature siteindex - Powered by RSSHub",
       "errorAt": "2026-06-19T09:34:55.123Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "137598992929939456",
       "image": null,
       "ownerUserId": null,

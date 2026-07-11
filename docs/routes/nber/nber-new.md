@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "National Bureau of Economic Research Working Papers articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:42:15.069Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56551993684661248",
       "image": null,
       "ownerUserId": null,

@@ -63,7 +63,7 @@
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 1330,
+  "heat": 1331,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

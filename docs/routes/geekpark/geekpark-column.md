@@ -112,7 +112,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1699,
+  "heat": 1696,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -195,7 +195,7 @@
     {
       "description": "极客公园-Geek Things Up! - Powered by RSSHub",
       "errorAt": "2026-05-21T02:24:28.716Z",
-      "errorMessage": "[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\nFailed to fetch\n[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\n[GET] \"https://geekpark.net/\": 403 Forbidden\nAuthentication failed. Access denied.\n/geekpark\n[GET] \"https://geekpark.net/\": 403 Forbidden\nFailed to fetch\n",
       "id": "57009158758355968",
       "image": "https://imgslim.geekpark.net/geekpark-icon-196-black.png",
       "ownerUserId": null,

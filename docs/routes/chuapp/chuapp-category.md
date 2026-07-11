@@ -101,8 +101,8 @@
     },
     {
       "description": "触乐 - 触乐夜话 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:23.600Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "144651366868700160",
       "image": null,
       "ownerUserId": null,

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest | Focus Taiwan - CNA English News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-09T23:30:03.273Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73313031910916096",
       "image": "https://imgcdn.cna.com.tw/Eng/website/img/default.png",
       "ownerUserId": null,

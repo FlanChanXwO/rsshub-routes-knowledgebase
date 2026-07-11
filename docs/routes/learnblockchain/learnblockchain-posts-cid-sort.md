@@ -84,7 +84,7 @@ _None_
     {
       "description": "登链社区 - Powered by RSSHub",
       "errorAt": "2026-06-11T03:26:27.499Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "62048478212359168",
       "image": null,
       "ownerUserId": null,
@@ -96,7 +96,7 @@ _None_
     {
       "description": "登链社区 - Powered by RSSHub",
       "errorAt": "2026-05-30T06:55:21.917Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "61645117732882432",
       "image": null,
       "ownerUserId": null,

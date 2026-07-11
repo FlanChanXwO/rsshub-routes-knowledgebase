@@ -88,8 +88,8 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
     },
     {
       "description": "The Korea Herald - National - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-09T19:01:50.989Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "97651779609807872",
       "image": null,
       "ownerUserId": null,

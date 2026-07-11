@@ -136,8 +136,8 @@
   "topFeeds": [
     {
       "description": "上海交通大学计算机学院（网络空间安全学院、密码学院）通知公告 - 研究生培养 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:58.223Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "1143706728773058560",
       "image": null,
       "ownerUserId": null,

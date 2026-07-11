@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Cryptocurrency News - Powered by RSSHub",
-      "errorAt": "2026-06-01T03:33:35.966Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69315953676176384",
       "image": "https://static.fwimg.io/img/user/7024bd1650e88fecd407590437ebc50dae75497d",
       "ownerUserId": null,

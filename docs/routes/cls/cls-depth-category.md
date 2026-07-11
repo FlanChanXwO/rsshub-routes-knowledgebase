@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3623,
+  "heat": 3624,
   "location": "depth.ts",
   "maintainers": [
     "nczitzk"
@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-07-09T05:03:46.477Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55126637721518105",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55126637721518105",
       "image": null,
       "ownerUserId": null,
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:36:35.317Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 84970828729518080",
       "id": "84970828729518080",
       "image": null,
       "ownerUserId": null,

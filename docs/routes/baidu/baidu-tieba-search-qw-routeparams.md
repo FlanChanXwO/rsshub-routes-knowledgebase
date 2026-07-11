@@ -73,7 +73,7 @@ _None_
     {
       "description": "孙笑川吧 - 百度贴吧搜索 - Powered by RSSHub",
       "errorAt": "2025-11-28T22:53:21.188Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%AD%99%E7%AC%91%E5%B7%9D%E5%90%A7&rn=20\": 403 Forbidden\n",
       "id": "86933542129623040",
       "image": null,
       "ownerUserId": null,

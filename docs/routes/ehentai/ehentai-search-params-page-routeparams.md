@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 281,
+  "heat": 280,
   "location": "search.ts",
   "maintainers": [
     "yindaheng98",
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:42:15.543Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

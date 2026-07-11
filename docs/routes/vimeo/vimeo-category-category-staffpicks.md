@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 37,
+  "heat": 38,
   "location": "category.ts",
   "maintainers": [
     "MisteryMonster"

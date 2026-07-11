@@ -76,6 +76,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864792",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
+      "title": "2noise/ChatTTS weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
+    },
+    {
       "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,18 +98,6 @@ _None_
       "title": "haoheliu/AudioLDM weekly Pulse",
       "type": "feed",
       "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
-    },
-    {
-      "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "215345311459391488",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/massCodeIO/massCode/pulse/weekly",
-      "title": "massCodeIO/massCode weekly Pulse",
-      "type": "feed",
-      "url": "rsshub://github/pulse/massCodeIO/massCode"
     }
   ]
 }

@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "Steam Curator 34646096-80-Days Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:11.405Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "99268471009976320",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "Steam Curator 32686107-Ѕtеам-250 Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:14.088Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "99407355545093120",
       "image": null,
       "ownerUserId": null,

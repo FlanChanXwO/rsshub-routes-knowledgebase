@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:45.521Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "1143779419517485056",
       "image": null,
       "ownerUserId": null,

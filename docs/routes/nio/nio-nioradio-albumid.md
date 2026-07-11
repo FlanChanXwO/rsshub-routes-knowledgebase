@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "NIO Radio - 塞萌不塞车·精选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:27.979Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "178094914038467584",
       "image": "https://cdn-udp-public.nio.com/nio-muses-admin/bMGHa8RRbtqGGqfo8tmOn/5wm5HPc5scQ3dyGzkXiRu",
       "ownerUserId": null,

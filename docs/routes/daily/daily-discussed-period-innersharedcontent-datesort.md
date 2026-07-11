@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "Stay on top of real-time developer discussions on daily.dev. Join conversations happening now and engage with the most active community members. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:49:56.977Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "83025199966683136",
       "image": null,
       "ownerUserId": null,

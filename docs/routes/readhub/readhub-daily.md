@@ -70,7 +70,7 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "1. OpenAI 前研究员田永龙加入腾讯混元多模态团队 2. OpenAI 将于 9 日正式发布 GPT-5.6 系列 3. 小红书 IPO 遭前员工实名举报 4. 消息称苹果启动长鑫存储 DRAM 芯片测试 拟用于中国市场销售设备 5. 蚂蚁集团入股薄荷健康，持股超 28% 成最大外部股东 6. 小米汽车宣布新品牌 SkyNomad，即将发布首款增程 SUV 7. OpenAI 推出 GPT-Live 语音模型 8. 前华为天才少年李博杰回应发帖吐槽 DeepSeek 面试 9. 字节跳动调整绩效方案：加大激励力度，引入期权发放 10. 张小龙辞任粉笔首席执行官、董事会主席 11. 微软开始在部分软件中改用自研 AI 模型 减少对 OpenAI 和 Anthropic 依赖 12. 知情人士：SK 海力士美国 IPO 获得数倍超额认购 13. SpaceX AI 将于明日向公众开放 Grok4.5 14. SpaceX 申请部署 10 万颗卫星 建立面向 AI 时代的空基通信底座 15. OpenAI 首席未来学家宣布离职 - Powered by RSSHub",
+      "description": "1. 长鑫科技 7 月 16 日开启新股申购 拟公开发行近 67 亿股 2. 前美联储主席伯南克加入 Anthropic，负责监督信托机构 3. 苹果洽谈 AI 公司 PrismML 拟将 270 亿参数大模型部署至 iPhone 4. 奥尔特曼：OpenAI 全新大模型智能自主编码的 Token 效率提升 54% 5. 支付宝客服就花呗服务问题致歉：系统升级已完成，还款有三天宽限期 6. Meta 计划于 9 月开始生产 AI 芯片，并计划将计算能力翻倍 7. 燧原科技科创板 IPO 申请获证监会同意注册批复 8. 美银向 OpenAI 提供 5.2 亿美元授信额度 希望在 IPO 中争取一席之地 9. 英伟达将与 Hugging Face 合作开发机器人开源模型 10. MiniMax 解禁首日大跌 20%，市值跌破千亿港元 11. SK 海力士美国 IPO 获得逾七倍的超额认购 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

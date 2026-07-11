@@ -173,7 +173,7 @@
   "topFeeds": [
     {
       "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
-      "errorAt": "2026-07-08T20:17:09.886Z",
+      "errorAt": "2026-07-10T05:17:55.834Z",
       "errorMessage": "[GET] \"https://inews.hket.com/sran001\": 405 Not Allowed\n",
       "id": "70034910422682624",
       "image": null,

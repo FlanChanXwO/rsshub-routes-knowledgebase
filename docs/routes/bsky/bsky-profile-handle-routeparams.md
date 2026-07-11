@@ -65,7 +65,7 @@ Example:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 44521,
+  "heat": 44495,
   "location": "posts.ts",
   "maintainers": [
     "TonyRL"

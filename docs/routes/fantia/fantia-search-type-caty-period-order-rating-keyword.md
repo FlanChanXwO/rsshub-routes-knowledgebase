@@ -306,8 +306,8 @@ _None_
   "topFeeds": [
     {
       "description": "Fantia - Search posts - Powered by RSSHub",
-      "errorAt": "2026-07-08T23:13:20.306Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74696531705607168",
       "image": null,
       "ownerUserId": null,
@@ -318,8 +318,8 @@ _None_
     },
     {
       "description": "Fantia - Search posts - Powered by RSSHub",
-      "errorAt": "2026-07-09T01:01:54.560Z",
-      "errorMessage": "500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73225112084486144",
       "image": null,
       "ownerUserId": null,

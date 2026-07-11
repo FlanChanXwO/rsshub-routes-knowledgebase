@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "广告门案例库专注于展示广告营销领域和泛营销行业的优秀案例，和行业奖项如：金瞳奖、戛纳等的获奖案例。案例多配有解读和分析，帮您更好的理解市场动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:38:06.651Z",
+      "errorMessage": "[GET] \"https://www.adquan.com/case_library/index\": <no response> fetch failed\nFailed to fetch\n",
       "id": "136638184266081280",
       "image": "https://oss.adquan.com/img_pc/navigation/hongbai.svg",
       "ownerUserId": null,

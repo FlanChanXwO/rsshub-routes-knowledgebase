@@ -75,16 +75,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues. - Powered by RSSHub",
+      "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "128751367083982848",
-      "image": "https://image.tmdb.org/t/p/original/8o8kiBkWFK3gVytHdyzEWUBXVfK.jpg",
+      "id": "72474878233372672",
+      "image": "https://image.tmdb.org/t/p/original/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/1434/seasons",
-      "title": "Family Guy - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70593/seasons",
+      "title": "Kingdom - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/1434-family-guy/seasons"
+      "url": "rsshub://themoviedb/tv/70593/seasons/en-US"
     }
   ],
   "view": 5

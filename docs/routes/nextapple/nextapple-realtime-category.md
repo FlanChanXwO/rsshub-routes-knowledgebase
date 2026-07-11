@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "最新新聞即時報：24小時不間斷直擊真相｜壹蘋新聞網 - Powered by RSSHub",
-      "errorAt": "2026-07-08T23:08:36.259Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-10T00:58:47.813Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60959342537594880",
       "id": "60959342537594880",
       "image": null,
       "ownerUserId": null,

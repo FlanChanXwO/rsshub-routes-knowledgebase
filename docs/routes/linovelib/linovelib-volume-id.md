@@ -38,7 +38,7 @@ _None_
     "reading"
   ],
   "example": "/linovelib/volume/8",
-  "heat": 38,
+  "heat": 39,
   "location": "volume.ts",
   "maintainers": [
     "rkscv"
@@ -70,7 +70,7 @@ _None_
     },
     {
       "description": "败北女角太多了！ - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": "2026-07-08T22:33:40.709Z",
+      "errorAt": "2026-07-09T23:30:15.072Z",
       "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 Forbidden\n",
       "id": "58014655249591296",
       "image": null,

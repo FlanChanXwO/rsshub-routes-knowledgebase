@@ -107,8 +107,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     },
     {
       "description": "YouTube channel 小钟Johnny - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:39:16.158Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "62110731608091648",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nLxOCT7qrhIe50CgsatjLIkcALBlBA5b6phRdsYEH9MA=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

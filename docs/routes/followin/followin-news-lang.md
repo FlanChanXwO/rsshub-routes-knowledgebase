@@ -94,8 +94,8 @@ _None_
   "topFeeds": [
     {
       "description": "News - Followin - Powered by RSSHub",
-      "errorAt": "2026-02-06T11:37:50.737Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorAt": "2026-07-10T05:17:53.813Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64124473013636098",
       "id": "64124473013636098",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

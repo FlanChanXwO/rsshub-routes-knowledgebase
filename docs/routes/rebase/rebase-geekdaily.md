@@ -58,7 +58,7 @@ _None_
     {
       "description": "Web3 Geek Daily - Powered by RSSHub",
       "errorAt": "2025-01-14T15:37:22.554Z",
-      "errorMessage": "[GET] \"https://db.rebase.network/api/v1/geekdailies?sort=id:desc\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "66817557552243712",
       "image": null,
       "ownerUserId": null,

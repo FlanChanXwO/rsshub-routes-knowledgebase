@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 9,
   "location": "global-business-review.ts",
   "maintainers": [
     "prnake"

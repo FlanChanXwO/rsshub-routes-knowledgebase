@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "文件公示 - 中华人民共和国工业和信息化部 - Powered by RSSHub",
-      "errorAt": "2026-07-09T03:33:30.610Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.miit.gov.cn/zwgk/wjgs/index.html\": 503 Service Temporarily Unavailable\n[GET] \"https://www.miit.gov.cn/zwgk/wjgs/index.html\": 503 Service Temporarily Unavailable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61219763349776384",
       "image": null,
       "ownerUserId": null,

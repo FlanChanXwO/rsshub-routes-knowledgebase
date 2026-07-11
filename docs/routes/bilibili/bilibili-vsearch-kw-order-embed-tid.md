@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 218,
+  "heat": 217,
   "location": "vsearch.ts",
   "maintainers": [
     "pcrtool",
@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Result from 沙雕动画 bilibili search, ordered by totalrank. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-09T21:28:29.033Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84117288401258496",
       "image": null,
       "ownerUserId": null,

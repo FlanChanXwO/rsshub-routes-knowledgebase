@@ -76,7 +76,7 @@ _None_
     {
       "description": "LanceDB Blog - Powered by RSSHub",
       "errorAt": "2026-04-03T00:52:14.984Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "234676351318909952",
       "image": null,
       "ownerUserId": null,

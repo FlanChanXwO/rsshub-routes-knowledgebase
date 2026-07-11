@@ -65,7 +65,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1582,
+  "heat": 1583,
   "location": "videocodes.ts",
   "maintainers": [
     "sgpublic"
@@ -99,8 +99,8 @@
     },
     {
       "description": "MIDV - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:49:22.956Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/video_codes/MIDV?f=download\": <no response> fetch failed\nFailed to fetch\n",
       "id": "96109559941147651",
       "image": null,
       "ownerUserId": null,

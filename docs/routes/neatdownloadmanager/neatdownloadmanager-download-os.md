@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Neat Download Manager - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-09T19:03:27.650Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "79871530629426176",
       "image": null,
       "ownerUserId": null,

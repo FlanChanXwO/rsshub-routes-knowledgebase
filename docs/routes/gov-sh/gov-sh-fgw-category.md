@@ -104,8 +104,8 @@
   "topFeeds": [
     {
       "description": "最新政策 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T00:01:47.613Z",
+      "errorMessage": "[GET] \"https://fgw.sh.gov.cn/fgw_zxxxgk/index.html\": <no response> fetch failed\n",
       "id": "66776163809391616",
       "image": null,
       "ownerUserId": null,

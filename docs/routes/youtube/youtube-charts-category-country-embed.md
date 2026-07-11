@@ -96,8 +96,8 @@ _None_
   "topFeeds": [
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
-      "errorAt": "2026-06-23T18:13:24.524Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57506261522656256",
       "image": null,
       "ownerUserId": null,

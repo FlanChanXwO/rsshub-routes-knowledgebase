@@ -118,8 +118,8 @@ _None_
   "topFeeds": [
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": "2026-07-09T02:41:51.404Z",
-      "errorMessage": "m.map is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1142847584033701888",
       "image": null,
       "ownerUserId": null,
@@ -130,8 +130,8 @@ _None_
     },
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": "2026-07-09T01:01:30.518Z",
-      "errorMessage": "m.map is not a function\n",
+      "errorAt": "2026-07-09T19:02:44.222Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "82624813968150528",
       "image": null,
       "ownerUserId": null,

@@ -70,7 +70,7 @@ _None_
     {
       "description": "今日话题 - 雪球 - Powered by RSSHub",
       "errorAt": "2026-05-22T21:41:29.009Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'map')\n",
       "id": "61288440756878338",
       "image": null,
       "ownerUserId": null,

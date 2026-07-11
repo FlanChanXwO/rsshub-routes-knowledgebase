@@ -221,8 +221,8 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
   "topFeeds": [
     {
       "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",
-      "errorAt": "2026-07-01T05:07:49.054Z",
-      "errorMessage": "[GET] \"https://www.app-sales.net/nowfree/\": <no response> fetch failed\n",
+      "errorAt": "2026-07-10T03:39:39.324Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "198041350264348672",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

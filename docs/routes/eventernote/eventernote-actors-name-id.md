@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Liyuu(黎獄)のイベント・ライブ情報一覧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:44:04.144Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "73398154092254208",
       "image": null,
       "ownerUserId": null,

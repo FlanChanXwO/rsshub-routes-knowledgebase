@@ -62,7 +62,7 @@ _None_
     {
       "description": "四川大学匹兹堡学院官网通知 - Powered by RSSHub",
       "errorAt": "2026-07-06T10:18:01.330Z",
-      "errorMessage": "Cache key must be a string\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "78952053268102144",
       "image": "https://upload.wikimedia.org/wikipedia/zh/4/45/Sichuan_University_logo.svg",
       "ownerUserId": null,

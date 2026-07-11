@@ -76,8 +76,8 @@
   "topFeeds": [
     {
       "description": "Latest News | KBS WORLD - Powered by RSSHub",
-      "errorAt": "2026-07-08T23:12:09.563Z",
-      "errorMessage": "[GET] \"http://world.kbs.co.kr/service/news_today.htm?lang=e\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69944115971721216",
       "image": null,
       "ownerUserId": null,

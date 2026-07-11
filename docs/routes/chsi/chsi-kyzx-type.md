@@ -90,8 +90,8 @@
     },
     {
       "description": "中国研究生招生信息网 - 考研资讯 - Powered by RSSHub",
-      "errorAt": "2026-06-11T01:08:33.612Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65029213581827072",
       "image": null,
       "ownerUserId": null,

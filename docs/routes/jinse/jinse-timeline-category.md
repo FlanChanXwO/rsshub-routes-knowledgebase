@@ -141,7 +141,7 @@ _None_
     {
       "description": "undefined - Web 3.0 - Powered by RSSHub",
       "errorAt": "2026-06-04T14:02:13.571Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'jump_url')\n",
       "id": "73179190070635520",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 154,
+  "heat": 155,
   "location": "personal.ts",
   "maintainers": [
     "Fatpandac"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "老虎社区 - 价值星球Planet 个人社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T03:41:53.732Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69287393134791684",
       "image": null,
       "ownerUserId": null,
