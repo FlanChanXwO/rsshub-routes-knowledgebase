@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5487,
+  "heat": 5486,
   "location": "activities.ts",
   "maintainers": [
     "DIYgod"
@@ -75,6 +75,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "个人星球:DeepVan的逃生地牢 - Powered by RSSHub",

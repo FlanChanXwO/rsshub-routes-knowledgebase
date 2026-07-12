@@ -223,6 +223,9 @@ To subscribe to [Cybersecurity](https://surfshark.com/blog/cybersecurity), where
       "title": "News"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "surfshark.com",
   "view": 0

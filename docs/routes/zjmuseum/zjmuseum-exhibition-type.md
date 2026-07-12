@@ -57,6 +57,9 @@ _None_
       "target": "/exhibition/:type?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "第一财经 - 头条 - Powered by RSSHub",

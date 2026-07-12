@@ -59,6 +59,9 @@ _None_
     "uid": "用户uid"
   },
   "path": "/bbs/follow-list/:uid",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "米游社 - 崩坏星穹铁道 的关注 - Powered by RSSHub",

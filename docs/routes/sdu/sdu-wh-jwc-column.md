@@ -62,6 +62,9 @@ _None_
     "column": "专栏名称，默认为工作通知（`gztz`）"
   },
   "path": "/wh/jwc/:column?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

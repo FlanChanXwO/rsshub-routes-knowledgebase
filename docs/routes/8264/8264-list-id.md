@@ -117,6 +117,10 @@ _None_
     "id": "列表 id，见下表，默认为 751，即热门推荐"
   },
   "path": "/list/:id?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "户外圈热点信息阅读，内容包含户外徒步、露营、登山、攀岩、绳降、骑行、摩旅等信息,8264户外 - Powered by RSSHub",
@@ -132,8 +136,8 @@ _None_
     },
     {
       "description": "权威徒步知识传播,帮助户外爱好者尽快掌握徒步技术,8264户外 - Powered by RSSHub",
-      "errorAt": "2026-07-10T05:18:58.205Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'trim')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74023089976071168",
       "image": null,
       "ownerUserId": null,

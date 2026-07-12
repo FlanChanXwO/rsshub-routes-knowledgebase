@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Bangumi - Bangumi半月刊 - Powered by RSSHub",

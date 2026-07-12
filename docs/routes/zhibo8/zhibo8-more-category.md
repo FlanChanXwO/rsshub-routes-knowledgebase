@@ -73,11 +73,14 @@
       "target": "/more/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "足球 - 直播吧 - Powered by RSSHub",
-      "errorAt": "2026-07-09T22:22:45.827Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61588318218478611",
       "image": null,
       "ownerUserId": null,

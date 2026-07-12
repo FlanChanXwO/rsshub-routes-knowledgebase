@@ -96,19 +96,10 @@ _None_
       "target": "/category/:category/:subCategory"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
-    {
-      "description": "Browse articles by collection or check out the top picks and latest content below. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "156154806161232896",
-      "image": "https://www.30secondsofcode.org/assets/splash/work-sunrise-600.webp",
-      "ownerUserId": null,
-      "siteUrl": "https://www.30secondsofcode.org/",
-      "title": "RSSHub",
-      "type": "feed",
-      "url": "rsshub://30secondsofcode/category"
-    },
     {
       "description": "The JavaScript article collection contains a wide variety of ES6 helper functions. It includes helpers for dealing with primitives, arrays and objects, as well as algorithms, DOM manipulation functions and Node.js utilities. - Powered by RSSHub",
       "errorAt": null,
@@ -120,6 +111,18 @@ _None_
       "title": "JavaScript Articles",
       "type": "feed",
       "url": "rsshub://30secondsofcode/category/js"
+    },
+    {
+      "description": "Browse articles by collection or check out the top picks and latest content below. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "156154806161232896",
+      "image": "https://www.30secondsofcode.org/assets/splash/work-sunrise-600.webp",
+      "ownerUserId": null,
+      "siteUrl": "https://www.30secondsofcode.org/",
+      "title": "RSSHub",
+      "type": "feed",
+      "url": "rsshub://30secondsofcode/category"
     }
   ]
 }

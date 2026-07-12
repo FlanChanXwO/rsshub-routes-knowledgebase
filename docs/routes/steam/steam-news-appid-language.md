@@ -117,6 +117,9 @@
       "title": "News"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "App 960170 News - Powered by RSSHub",

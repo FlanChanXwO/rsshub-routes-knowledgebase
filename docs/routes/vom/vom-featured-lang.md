@@ -75,6 +75,9 @@
       "target": "/featured/:lang"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "VoM.mn - Voice of Mongolia - Powered by RSSHub",

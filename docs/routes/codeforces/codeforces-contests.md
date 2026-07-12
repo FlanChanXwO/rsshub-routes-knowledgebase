@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Codeforces - Contests - Powered by RSSHub",

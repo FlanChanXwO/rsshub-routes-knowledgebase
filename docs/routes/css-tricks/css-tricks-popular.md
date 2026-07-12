@@ -67,6 +67,9 @@ _None_
       "target": "/popular"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Popular CSS articles this month - Powered by RSSHub",

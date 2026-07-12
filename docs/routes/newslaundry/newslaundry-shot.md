@@ -67,6 +67,9 @@ _None_
       "target": "/shot"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Shot articles from Newslaundry - Powered by RSSHub",

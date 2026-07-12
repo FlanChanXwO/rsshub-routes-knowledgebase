@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "NOSEC 安全讯息平台 - 漏洞预警 - Powered by RSSHub",

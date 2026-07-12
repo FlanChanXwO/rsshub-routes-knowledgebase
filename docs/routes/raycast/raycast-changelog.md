@@ -56,6 +56,9 @@ _None_
   ],
   "name": "Changelog",
   "path": "/changelog",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Raycast Changelog - Powered by RSSHub",

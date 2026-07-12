@@ -65,6 +65,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.xyc.edu.cn/index/tzgg.htm"
 }

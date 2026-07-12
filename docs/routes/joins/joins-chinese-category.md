@@ -137,7 +137,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 74,
   "location": "chinese.tsx",
   "maintainers": [
     "nczitzk"
@@ -245,6 +245,9 @@
       "title": "图集"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "인터넷 신문 - Powered by RSSHub",

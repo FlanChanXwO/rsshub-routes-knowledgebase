@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18109,
+  "heat": 18118,
   "location": "hot-list.ts",
   "maintainers": [
     "nczitzk"
@@ -76,6 +76,9 @@
       "target": "/hot-list/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "36氪 - 24小时热榜 - Powered by RSSHub",

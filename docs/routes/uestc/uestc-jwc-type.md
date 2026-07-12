@@ -74,6 +74,9 @@
       "target": "/jwc"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "电子科技大学教务处通知（学生事务公告） - Powered by RSSHub",

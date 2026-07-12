@@ -71,11 +71,14 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "国防科技大学研究生院 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:42:54.005Z",
-      "errorMessage": "Authentication failed. Access denied.\n/nudt/yjszs/2\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72564096646971392",
       "image": null,
       "ownerUserId": null,

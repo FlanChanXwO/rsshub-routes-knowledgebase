@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "通知公告-中国无线电协会业余无线电分会 - Powered by RSSHub",

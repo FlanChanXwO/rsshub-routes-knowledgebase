@@ -63,6 +63,9 @@ _None_
     "type": "默认为 recommend，见下表"
   },
   "path": "/pins/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "沸点 - 推荐 - Powered by RSSHub",

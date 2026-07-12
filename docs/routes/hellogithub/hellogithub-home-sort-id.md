@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7466,
+  "heat": 7465,
   "location": "index.ts",
   "maintainers": [
     "moke8",
@@ -67,6 +67,9 @@ _None_
     "sort": "排序方式，见下表，默认为 `featured`，即精选"
   },
   "path": "/home/:sort?/:id?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "HelloGithub - 精选开源项目 - Powered by RSSHub",

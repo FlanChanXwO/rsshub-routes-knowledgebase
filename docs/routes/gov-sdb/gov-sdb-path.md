@@ -53,6 +53,9 @@ _None_
     "path": "路径，只填写 `www` 默认为 政务公开 > 政策解读"
   },
   "path": "/:path{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

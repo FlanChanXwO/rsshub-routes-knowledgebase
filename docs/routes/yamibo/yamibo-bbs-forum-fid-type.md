@@ -67,6 +67,9 @@ _None_
     "type": "板块子分类，网页中选中板块分类后URL中的typeid值"
   },
   "path": "/bbs/forum/:fid/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "轻小说 - 轻小说/译文区 - Powered by RSSHub",

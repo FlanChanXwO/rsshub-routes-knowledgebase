@@ -63,6 +63,9 @@ _None_
     "tid": "分区 id, 见上方表格"
   },
   "path": "/partion/ranking/:tid/:days?/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "bilibili 未知分区 最热视频 - Powered by RSSHub",

@@ -69,6 +69,9 @@ _None_
       "target": "/gcores/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "阅读机核关于游戏、影视、科技与流行文化的最新资讯。 - Powered by RSSHub",

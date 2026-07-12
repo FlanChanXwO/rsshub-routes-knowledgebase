@@ -163,6 +163,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "国家市场监督管理总局公众留言 - Powered by RSSHub",

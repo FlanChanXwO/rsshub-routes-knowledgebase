@@ -81,7 +81,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 596,
+  "heat": 598,
   "location": "weread/category.ts",
   "maintainers": [
     "gogo-100"
@@ -91,6 +91,9 @@ _None_
     "category": "榜单名，见下表"
   },
   "path": "/weread/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "微信读书 - Top50新书榜 - Powered by RSSHub",

@@ -83,6 +83,9 @@ _None_
       "target": "/newsToday"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

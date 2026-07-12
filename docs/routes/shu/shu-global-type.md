@@ -75,6 +75,9 @@
       "target": "/global"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "上海大学国际部港澳台-通知公告 - Powered by RSSHub",

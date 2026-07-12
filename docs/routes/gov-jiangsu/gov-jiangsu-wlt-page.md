@@ -70,6 +70,9 @@ _None_
       "target": "/wlt"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "wlt.jiangsu.gov.cn/"
 }

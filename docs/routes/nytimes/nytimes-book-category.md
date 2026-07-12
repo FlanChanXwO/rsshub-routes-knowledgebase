@@ -120,10 +120,14 @@ _None_
       "target": ""
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- July 19, 2026 - Powered by RSSHub",
-      "errorAt": "2026-07-10T00:30:18.870Z",
+      "errorAt": "2026-07-10T19:58:01.970Z",
       "errorMessage": "Authentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-nonfiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
       "id": "56271356825466880",
       "image": null,
@@ -134,14 +138,14 @@ _None_
       "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     },
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 12, 2026 - Powered by RSSHub",
-      "errorAt": "2026-07-07T09:43:01.441Z",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 19, 2026 - Powered by RSSHub",
+      "errorAt": "2026-07-11T02:17:38.166Z",
       "errorMessage": "Authentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-fiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 12, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 19, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-fiction"
     }

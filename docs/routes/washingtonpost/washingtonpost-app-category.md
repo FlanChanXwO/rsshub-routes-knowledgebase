@@ -71,6 +71,9 @@ For example, the category for <https://www.washingtonpost.com/national/investiga
       "target": "/app/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "The Washington Post - World - Powered by RSSHub",

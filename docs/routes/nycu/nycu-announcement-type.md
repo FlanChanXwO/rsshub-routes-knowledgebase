@@ -55,6 +55,9 @@ _None_
     "type": "類型，見下表"
   },
   "path": "/announcement/:type",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

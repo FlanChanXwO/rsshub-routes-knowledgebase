@@ -101,6 +101,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "zs.xjtu.edu.cn",
   "view": 0

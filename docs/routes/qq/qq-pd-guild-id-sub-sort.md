@@ -72,6 +72,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "北京邮电大学生活圈 - 腾讯频道 - Powered by RSSHub",

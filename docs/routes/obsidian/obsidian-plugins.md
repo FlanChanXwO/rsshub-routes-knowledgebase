@@ -37,13 +37,16 @@ _None_
     "popular"
   ],
   "example": "/obsidian/plugins",
-  "heat": 1604,
+  "heat": 1603,
   "location": "plugins.ts",
   "maintainers": [
     "DIYgod"
   ],
   "name": "Plugins",
   "path": "/plugins",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Obsidian Plugins - Powered by RSSHub",

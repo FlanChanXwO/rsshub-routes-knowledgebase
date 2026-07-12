@@ -57,6 +57,9 @@ _None_
   "name": "最新信息公开",
   "parameters": {},
   "path": "/xxgk/news",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

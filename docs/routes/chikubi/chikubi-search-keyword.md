@@ -61,6 +61,9 @@ _None_
     "keyword": "Keyword"
   },
   "path": "/search/:keyword",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Search: 流出 - chikubi.jp - Powered by RSSHub",

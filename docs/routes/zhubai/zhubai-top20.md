@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "搜你所想 - Powered by RSSHub",

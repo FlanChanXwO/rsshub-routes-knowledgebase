@@ -69,6 +69,9 @@ _None_
     "query": "Search parameters in URL query string format."
   },
   "path": "/search/:query",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "jp.mercari.com"
 }

@@ -59,6 +59,9 @@ _None_
     "tag": "Tag, refer to the original website (開催地域別)"
   },
   "path": "/tag/:tag",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -62,6 +62,9 @@ _None_
     "id": "客户端 id，见下表，默认为安卓版"
   },
   "path": "/app/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "哔哩哔哩更新情报 - 安卓版 - Powered by RSSHub",

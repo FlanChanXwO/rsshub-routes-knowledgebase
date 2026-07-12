@@ -52,7 +52,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 1432,
+  "heat": 1433,
   "location": "moment.ts",
   "maintainers": [
     "nczitzk"
@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "虎嗅 24 小时 - Powered by RSSHub",

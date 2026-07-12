@@ -352,6 +352,9 @@
       "title": "书画等级考试（CCPT）动态"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "全国四六级考试（CET）动态 - Powered by RSSHub",

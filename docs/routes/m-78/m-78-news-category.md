@@ -115,6 +115,9 @@ _None_
       "target": "/news/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
@@ -130,8 +133,8 @@ _None_
     },
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": "2026-07-09T19:02:44.222Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82624813968150528",
       "image": null,
       "ownerUserId": null,

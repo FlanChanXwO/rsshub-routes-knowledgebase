@@ -46,6 +46,9 @@ _None_
     "path": "路径，留空默认 `xxfb/ywxx`"
   },
   "path": "/:path{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

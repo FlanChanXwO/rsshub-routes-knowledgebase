@@ -61,6 +61,9 @@ _None_
     "channel": "频道 ID"
   },
   "path": "/web/:channel",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "南方都市报奥一网 - Powered by RSSHub",

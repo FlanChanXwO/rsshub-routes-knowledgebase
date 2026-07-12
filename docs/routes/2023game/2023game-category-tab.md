@@ -66,6 +66,9 @@ _None_
     "tab": "标签, 所有:all;最新:topicList;热门:jhcpb"
   },
   "path": "/:category?/:tab?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "switch游戏下载-免费switch游戏下载-ns游戏资源下载 - 游戏星辰 - Powered by RSSHub",

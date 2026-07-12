@@ -54,6 +54,9 @@ _None_
       "target": "/"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.yilinzazhi.com",
   "view": 0

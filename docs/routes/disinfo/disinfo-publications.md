@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Publications - EU DisinfoLab - Powered by RSSHub",

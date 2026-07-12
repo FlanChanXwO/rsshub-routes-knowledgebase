@@ -57,6 +57,9 @@ _None_
   "name": "博客",
   "parameters": {},
   "path": "/blog",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "浙江大学可视分析小组博客 - Powered by RSSHub",

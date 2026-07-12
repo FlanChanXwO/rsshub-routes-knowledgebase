@@ -76,6 +76,9 @@ _None_
     "id": "频道 id，可在频道页 URL 中找到"
   },
   "path": "/channel/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",

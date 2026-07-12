@@ -85,6 +85,9 @@
       "target": "/nic/"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "nic.hrbust.edu.cn",
   "view": 5

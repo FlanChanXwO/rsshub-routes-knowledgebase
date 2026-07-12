@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "科研成果 - 中国科学院电工研究所 - Powered by RSSHub",

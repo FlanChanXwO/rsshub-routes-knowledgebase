@@ -69,6 +69,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Huggingface 英文博客 - Powered by RSSHub",

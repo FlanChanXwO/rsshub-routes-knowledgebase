@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 243,
+  "heat": 245,
   "location": "pin/daily.ts",
   "maintainers": [
     "xyqfer"
@@ -68,6 +68,9 @@ _None_
       "target": "/daily"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "汇集每天的社会大事、行业资讯，让你用最简单的方式获得想法里的新闻 - Powered by RSSHub",

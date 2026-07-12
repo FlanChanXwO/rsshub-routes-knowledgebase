@@ -72,11 +72,15 @@ _None_
       "target": "/politica"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected { '$': { isPermaLink: 'false' } } to deeply equal Any<String>\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:84:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "Política | Público - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:38:11.604Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129920988554547200",
       "image": null,
       "ownerUserId": null,

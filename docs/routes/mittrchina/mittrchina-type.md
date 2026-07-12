@@ -64,6 +64,9 @@ _None_
     "type": "类型，见下表，默认为首页资讯"
   },
   "path": "/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "MIT 科技评论 - 首页资讯 - Powered by RSSHub",

@@ -57,6 +57,9 @@ _None_
       "target": "/information/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "上海博物馆 - 新闻与公告 - Powered by RSSHub",

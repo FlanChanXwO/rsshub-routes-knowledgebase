@@ -64,6 +64,10 @@ _None_
     "region": "地区，预设为 tw"
   },
   "path": "/:region?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "ePrice.HK 提供您最新的手機新聞，包括最新上市的手機、最詳細的手機評測、或是手機促銷，讓您輕鬆掌握手機的最新資訊。 - Powered by RSSHub",

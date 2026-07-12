@@ -61,6 +61,10 @@ _None_
     "tag": "课程标签 `tag`，可在该页面找到：https://www.lanqiao.cn/courses/"
   },
   "path": "/courses/:sort/:tag",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "蓝桥云课【all】标签下最新课程列表 - Powered by RSSHub",

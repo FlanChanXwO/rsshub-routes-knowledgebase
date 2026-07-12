@@ -73,6 +73,9 @@
       "target": "/rank"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "手机驱动之家是驱动之家的手机门户网站，为亿万用户打造一个手机联通世界的超级平台，提供24小时全面及时的中文IT资讯。手机驱动之家触屏版 - Powered by RSSHub",

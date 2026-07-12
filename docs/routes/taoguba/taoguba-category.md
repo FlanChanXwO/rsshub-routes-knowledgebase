@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 淘股论坛 | 社区总版 | 精华加油 | 网友点赞 |\n| -------- | -------- | -------- | -------- |\n| bbs      | zongban  | jinghua  | dianzan  |",
   "example": "/taoguba",
-  "heat": 260,
+  "heat": 261,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -49,11 +49,15 @@ _None_
     "id": "分类，见下表，默认为社区总版"
   },
   "path": "/:category?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
       "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn/zongban/\": 405 Not Allowed\n[GET] \"https://www.tgb.cn//a/2rzex8gESyU\": 404 \n[GET] \"https://www.tgb.cn//a/2tb1EQ6H1lM\": 404 \nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2teZ1LZq4tG\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2ol4f51fMAN\": 404 \n[GET] \"https://www.tgb.cn//a/2ti9p8jehTV\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2teZ1LZq4tG\": 404 Not Found\n",
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,

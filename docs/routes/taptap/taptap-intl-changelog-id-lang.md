@@ -78,6 +78,9 @@ Language Code
       "target": "/intl/changelog/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

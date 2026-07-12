@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 759,
+  "heat": 760,
   "location": "all.tsx",
   "maintainers": [
     "nczitzk"
@@ -75,6 +75,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "虎扑社区 - #步行街主干道 - Powered by RSSHub",

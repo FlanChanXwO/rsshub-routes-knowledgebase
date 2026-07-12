@@ -69,6 +69,9 @@ _None_
     "catid": "分类，见下表，默认为全部文章"
   },
   "path": "/av/:catid?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "全部文章-AVNo.1-PLAYNO.1玩樂達人 - Powered by RSSHub",

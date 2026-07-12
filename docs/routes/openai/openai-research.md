@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 45,
+  "heat": 46,
   "location": "research.ts",
   "maintainers": [
     "yuguorui",
@@ -58,6 +58,9 @@ _None_
   "name": "Research",
   "parameters": {},
   "path": "/research",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",

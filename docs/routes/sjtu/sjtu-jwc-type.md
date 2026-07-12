@@ -62,6 +62,9 @@ _None_
     "type": "默认为 notice"
   },
   "path": "/jwc/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
@@ -77,8 +80,8 @@ _None_
     },
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:39:45.521Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1143779419517485056",
       "image": null,
       "ownerUserId": null,

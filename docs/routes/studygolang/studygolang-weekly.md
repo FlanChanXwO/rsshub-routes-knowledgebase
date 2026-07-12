@@ -58,6 +58,9 @@ _None_
   "name": "周刊",
   "parameters": {},
   "path": "/weekly",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",

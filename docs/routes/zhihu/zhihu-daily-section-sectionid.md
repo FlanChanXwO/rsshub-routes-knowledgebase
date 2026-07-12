@@ -70,6 +70,9 @@ _None_
       "target": "/daily"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "每天3次，每次7分钟 - Powered by RSSHub",

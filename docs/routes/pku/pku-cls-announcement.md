@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "bio.pku.edu.cn/homes/Index/news/21/21.html"
 }

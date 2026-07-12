@@ -68,6 +68,9 @@ _None_
       "target": "/zx/xwzt"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中国国家博物馆资讯专题 - Powered by RSSHub",

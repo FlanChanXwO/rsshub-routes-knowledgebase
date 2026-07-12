@@ -62,6 +62,9 @@ _None_
     "type": "文章类型"
   },
   "path": "/article/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "月幕 Galgame - 全部文章 - Powered by RSSHub",

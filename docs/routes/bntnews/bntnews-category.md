@@ -62,6 +62,9 @@ _None_
     "category": "Category ID, see table below, default to Now (bnt008000000)"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

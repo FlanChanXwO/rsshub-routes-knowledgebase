@@ -77,6 +77,9 @@ _None_
     "routeParams": "额外参数；请参阅上面的说明和表格"
   },
   "path": "/group/:gid/:gname?/:routeParams?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

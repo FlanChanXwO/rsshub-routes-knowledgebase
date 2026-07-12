@@ -72,6 +72,9 @@ _None_
       "target": "/tag/:tag"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "4KUP - Tag: adult - Powered by RSSHub",

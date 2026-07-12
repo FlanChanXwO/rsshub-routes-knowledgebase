@@ -74,11 +74,14 @@ _None_
     "channel": "主頻道 ID，可在 URL 中找到"
   },
   "path": "/master/:channel",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "天下雜誌提供最新財經等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2025-05-06T12:39:31.829Z",
-      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141953\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.cw.com.tw/article/5141813\": 403 Forbidden\n",
       "id": "66757488440144896",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

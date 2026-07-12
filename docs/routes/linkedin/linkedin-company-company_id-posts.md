@@ -62,19 +62,10 @@ _None_
     "company_id": "Company's LinkedIn profile ID"
   },
   "path": "/company/:company_id/posts",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
-    {
-      "description": "This feed gets CellMark's posts from LinkedIn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "155076041493307392",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.linkedin.com/company/cellmark",
-      "title": "LinkedIn - CellMark's Posts",
-      "type": "feed",
-      "url": "rsshub://linkedin/company/cellmark/posts"
-    },
     {
       "description": "This feed gets GreatFrontEnd's posts from LinkedIn - Powered by RSSHub",
       "errorAt": null,
@@ -86,6 +77,18 @@ _None_
       "title": "LinkedIn - GreatFrontEnd's Posts",
       "type": "feed",
       "url": "rsshub://linkedin/company/greatfrontend/posts"
+    },
+    {
+      "description": "This feed gets CellMark's posts from LinkedIn - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "155076041493307392",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.linkedin.com/company/cellmark",
+      "title": "LinkedIn - CellMark's Posts",
+      "type": "feed",
+      "url": "rsshub://linkedin/company/cellmark/posts"
     }
   ]
 }

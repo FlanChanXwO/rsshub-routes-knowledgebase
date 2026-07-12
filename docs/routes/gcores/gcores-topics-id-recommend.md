@@ -90,6 +90,9 @@
       "target": "/gcores/topics/:id/recommend"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.gcores.com",
   "view": 1

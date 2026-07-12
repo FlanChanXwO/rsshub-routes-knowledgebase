@@ -46,6 +46,9 @@ _None_
     "code": "分类代码，默认为 110-600268（采购意向公开）"
   },
   "path": "/zfcg/:code?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "zfcg.czt.zj.gov.cn"
 }

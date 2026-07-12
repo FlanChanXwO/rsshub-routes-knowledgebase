@@ -62,6 +62,9 @@ _None_
     "type": "分区，见下表，默认请求 `zpxx`"
   },
   "path": "/scc/recruit/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Shanghai Weather Alert",
   "path": "/warn",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "wx.soweather.com/wxapp/warn.jsp",
   "zh": {

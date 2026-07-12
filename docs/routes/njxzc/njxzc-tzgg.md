@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.njxzc.edu.cn/89/list.htm"
 }

@@ -74,6 +74,9 @@
       "target": "/cqe"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "cqe.uestc.edu.cn/"
 }

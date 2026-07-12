@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "我们密切关注A股的市场动态，为你搜集最及时的A股资讯和分析解读。 - Powered by RSSHub",

@@ -66,6 +66,9 @@ _None_
     "owner": "Image owner"
   },
   "path": "/tag/:owner/:image/:limits?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "envyafish/byte-muse tags - Powered by RSSHub",

@@ -61,6 +61,9 @@ _None_
     "id": "源流 id，可在对应源流页 URL 中找到"
   },
   "path": "/club/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "获取最新行业资讯，十五分钟尽知天下事。本栏目由虎嗅内容运营团队出品。 - Powered by RSSHub",

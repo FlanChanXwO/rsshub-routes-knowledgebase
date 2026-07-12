@@ -55,6 +55,9 @@ _None_
       "target": "/"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "意林 - 近期文章汇总 - Powered by RSSHub",

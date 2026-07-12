@@ -69,6 +69,9 @@ _None_
       "target": "/gcores/videos"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "观看机核出品的视频节目、评测、访谈与社区投稿内容。 - Powered by RSSHub",

@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8869,
+  "heat": 8868,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -82,6 +82,9 @@ _None_
       "target": "/user/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "读书人 - Powered by RSSHub",

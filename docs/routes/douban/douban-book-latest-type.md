@@ -63,6 +63,9 @@ _None_
     "type": "专题分类，可选，默认为 `all`"
   },
   "path": "/book/latest/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "豆瓣新书速递 - Powered by RSSHub",
@@ -78,8 +81,8 @@ _None_
     },
     {
       "description": "豆瓣新书速递-小说 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:42:54.340Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72931562996240384",
       "image": null,
       "ownerUserId": null,

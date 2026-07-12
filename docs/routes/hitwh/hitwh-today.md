@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "哈尔滨工业大学（威海）通知公告 - Powered by RSSHub",

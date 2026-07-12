@@ -73,6 +73,9 @@
       "target": "/sist"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中国科学技术大学信息科学技术学院 - 通知公告 - Powered by RSSHub",

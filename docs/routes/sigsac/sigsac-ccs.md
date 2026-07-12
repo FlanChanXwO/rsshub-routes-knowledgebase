@@ -40,7 +40,7 @@ _None_
   ],
   "description": "Return results from 2020",
   "example": "/sigsac/ccs",
-  "heat": 95,
+  "heat": 94,
   "location": "ccs.ts",
   "maintainers": [
     "ZeddYu"
@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "The ACM Conference on Computer and Communications Security (CCS) Accepted Papers - Powered by RSSHub",

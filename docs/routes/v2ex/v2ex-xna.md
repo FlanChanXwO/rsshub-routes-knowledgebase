@@ -58,6 +58,9 @@ _None_
   "name": "XNA",
   "parameters": {},
   "path": "/xna",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "V2EX-xna - Powered by RSSHub",

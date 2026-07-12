@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 871,
+  "heat": 873,
   "location": "popular.ts",
   "maintainers": [
     "ziminliu"
@@ -59,6 +59,9 @@ _None_
     "embed": "默认为开启内嵌视频, 任意值为关闭"
   },
   "path": "/popular/all/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",

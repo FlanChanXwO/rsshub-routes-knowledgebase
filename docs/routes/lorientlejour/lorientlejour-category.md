@@ -120,6 +120,9 @@ Multiple categories seperated by '|' is also supported, e.g. /lorientlejour/977-
       "target": "/977-Lebanon"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "L'Orient Today - Lebanon - Powered by RSSHub",

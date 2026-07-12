@@ -59,6 +59,9 @@ _None_
     "site": "instance address, domain only, without `http://` or `https://` protocol header"
   },
   "path": "/notes/featured/:site",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Featured Notes on misskey.io - Powered by RSSHub",

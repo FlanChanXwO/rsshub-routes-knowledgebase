@@ -227,6 +227,9 @@
       "title": "FUN"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "热点 - Wainao - Powered by RSSHub",

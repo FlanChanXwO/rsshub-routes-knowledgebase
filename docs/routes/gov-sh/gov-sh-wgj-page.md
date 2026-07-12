@@ -70,6 +70,9 @@ _None_
       "target": "/wgj"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "上海市文化和旅游局 - Powered by RSSHub",

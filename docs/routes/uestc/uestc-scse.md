@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "scse.uestc.edu.cn/"
 }

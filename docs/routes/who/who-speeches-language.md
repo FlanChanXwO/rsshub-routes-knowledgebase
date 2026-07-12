@@ -75,6 +75,9 @@ Language
       "target": "/speeches"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Speeches - WHO - Powered by RSSHub",

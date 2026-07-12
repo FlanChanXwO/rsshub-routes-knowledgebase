@@ -58,6 +58,9 @@ _None_
       "target": "/digitalpaper"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中国科技网 - 科技日报 - Powered by RSSHub",

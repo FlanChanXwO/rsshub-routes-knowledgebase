@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 37804,
+  "heat": 37805,
   "location": "user.ts",
   "maintainers": [
     "DIYgod"
@@ -73,11 +73,14 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "藤ちょこ（藤原） 的 pixiv 最新动态 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:40:34.695Z",
-      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41679126529608704",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2022/02/03/15/54/20/22159592_fce9f5c7a908c9b601dc7e9da7a412a3_170.jpg",
       "ownerUserId": null,

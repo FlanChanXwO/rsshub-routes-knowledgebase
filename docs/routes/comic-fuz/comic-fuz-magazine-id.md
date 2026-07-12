@@ -70,6 +70,9 @@ _None_
       "target": "/magazine/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

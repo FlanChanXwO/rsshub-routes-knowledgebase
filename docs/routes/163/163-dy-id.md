@@ -62,6 +62,9 @@ _None_
     "id": "网易号 ID"
   },
   "path": "/dy/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中国主流财经全媒体平台。 - Powered by RSSHub",

@@ -70,6 +70,9 @@ _None_
       "target": "/models/:group"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Huggingface zai-org Models - Powered by RSSHub",

@@ -71,6 +71,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

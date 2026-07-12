@@ -68,6 +68,9 @@ _None_
       "target": "/zx/xingnew"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中国国家博物馆资讯要闻 - Powered by RSSHub",

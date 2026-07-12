@@ -77,6 +77,9 @@
       "target": "/bjedu/gh/:urlPath"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

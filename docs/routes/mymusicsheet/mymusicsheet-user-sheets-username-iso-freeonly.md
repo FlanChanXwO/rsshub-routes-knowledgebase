@@ -77,6 +77,9 @@ Please refer to [Wikipedia](https://en.wikipedia.org/wiki/ISO_4217#Active_codes)
       "target": "/user/sheets/:username"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

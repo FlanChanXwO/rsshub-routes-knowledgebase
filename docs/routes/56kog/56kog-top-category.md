@@ -62,6 +62,9 @@ _None_
     "category": "分类，见下表，默认为周点击榜"
   },
   "path": "/top/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

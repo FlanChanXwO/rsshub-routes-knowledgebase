@@ -93,6 +93,9 @@ _None_
     "embed": "Default to embed the video, set to any value to disable embedding"
   },
   "path": "/charts/:category?/:country?/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",

@@ -64,6 +64,9 @@ _None_
     "lang": "Language, see the table below, empty means `中文`"
   },
   "path": "/apps/:lang?/comment/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

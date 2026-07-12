@@ -70,6 +70,9 @@ _None_
       "target": "/global-business-review"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

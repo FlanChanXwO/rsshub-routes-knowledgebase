@@ -64,6 +64,9 @@ _None_
     "category": "专题，见下表，默认为国债管理工作动态"
   },
   "path": "/bond/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "国债管理工作动态 - 中华人民共和国财政部 - Powered by RSSHub",

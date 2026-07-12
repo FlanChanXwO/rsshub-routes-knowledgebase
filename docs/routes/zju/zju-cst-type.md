@@ -63,19 +63,10 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/cst/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
-    {
-      "description": "浙大软件学院-实习就业 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "168412841482685440",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.cst.zju.edu.cn/36233/list.htm",
-      "title": "浙大软件学院-实习就业",
-      "type": "feed",
-      "url": "rsshub://zju/cst/6"
-    },
     {
       "description": "浙大软件学院-国际实习 - Powered by RSSHub",
       "errorAt": null,
@@ -87,6 +78,18 @@ _None_
       "title": "浙大软件学院-国际实习",
       "type": "feed",
       "url": "rsshub://zju/cst/7"
+    },
+    {
+      "description": "浙大软件学院-实习就业 - Powered by RSSHub",
+      "errorAt": "2026-07-11T04:11:50.839Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "168412841482685440",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cst.zju.edu.cn/36233/list.htm",
+      "title": "浙大软件学院-实习就业",
+      "type": "feed",
+      "url": "rsshub://zju/cst/6"
     }
   ]
 }

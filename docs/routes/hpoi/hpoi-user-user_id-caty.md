@@ -89,6 +89,9 @@ _None_
     }
   },
   "path": "/user/:user_id/:caty",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "DIYgod的手办 - 已入 - Powered by RSSHub",

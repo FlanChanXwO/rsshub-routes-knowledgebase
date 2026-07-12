@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1252,
+  "heat": 1251,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -68,11 +68,14 @@ _None_
     "routeParams": "额外参数；请参阅上面的说明和表格"
   },
   "path": "/keyword/:keyword/:routeParams?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T04:13:55.101Z",
+      "errorMessage": "Authentication failed. Access denied.\n/weibo/keyword/obsidian\nFailed to fetch\n",
       "id": "55288652424312832",
       "image": null,
       "ownerUserId": null,
@@ -83,8 +86,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T02:08:27.999Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nAuthentication failed. Access denied.\n/weibo/keyword/RSSHub\nFailed to fetch\n",
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

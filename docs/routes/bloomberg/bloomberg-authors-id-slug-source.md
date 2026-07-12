@@ -77,6 +77,9 @@ _None_
       "target": "/authors/:id/:slug"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Bloomberg - matthew-s-levine - Powered by RSSHub",

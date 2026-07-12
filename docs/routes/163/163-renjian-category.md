@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "人间 - 特写 - 网易新闻 - Powered by RSSHub",

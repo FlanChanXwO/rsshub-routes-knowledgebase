@@ -72,6 +72,9 @@ _None_
       "target": "/user/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "꒰•̫͡•ོ꒱海岛吃货小海薇∅ - Powered by RSSHub",

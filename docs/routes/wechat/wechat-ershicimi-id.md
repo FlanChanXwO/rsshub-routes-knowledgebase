@@ -59,6 +59,9 @@ _None_
     "id": "公众号id，打开公众号页，在 URL 中找到 id"
   },
   "path": "/ershicimi/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "微信公众号 - 很帅的投资客 - Powered by RSSHub",

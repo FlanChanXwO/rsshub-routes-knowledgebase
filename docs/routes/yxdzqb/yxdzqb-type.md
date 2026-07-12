@@ -72,6 +72,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Steam 热门游戏历史低价-游戏打折情报 - Powered by RSSHub",

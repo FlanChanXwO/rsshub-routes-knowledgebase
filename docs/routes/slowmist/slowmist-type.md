@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "慢雾科技 - 技术研究 - Powered by RSSHub",

@@ -73,6 +73,9 @@
       "target": "/deyang/mztoday"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.mztoday.gov.cn/*"
 }

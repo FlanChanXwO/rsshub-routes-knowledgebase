@@ -85,6 +85,9 @@
       "target": "/gzc"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "gzc.hrbust.edu.cn",
   "view": 5

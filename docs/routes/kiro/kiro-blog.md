@@ -71,6 +71,9 @@ _None_
       "target": "/blog"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "News, tutorials, updates from the Kiro team - find it all here. - Powered by RSSHub",

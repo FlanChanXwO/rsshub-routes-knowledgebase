@@ -62,6 +62,9 @@ _None_
     "type": "資料大類，留空為全部"
   },
   "path": "/aac/news/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

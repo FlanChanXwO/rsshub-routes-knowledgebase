@@ -60,6 +60,9 @@ _None_
     "reporter": "作者 UUID"
   },
   "path": "/nfapp/reporter/:reporter",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

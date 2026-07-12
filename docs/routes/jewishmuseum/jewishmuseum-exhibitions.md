@@ -57,6 +57,9 @@ _None_
   "name": "Exhibitions",
   "parameters": {},
   "path": "/exhibitions",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

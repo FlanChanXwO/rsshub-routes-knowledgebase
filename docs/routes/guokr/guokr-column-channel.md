@@ -59,6 +59,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "果壳网 物种日历 - Powered by RSSHub",

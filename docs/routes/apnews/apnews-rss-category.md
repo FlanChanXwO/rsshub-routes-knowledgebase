@@ -75,6 +75,9 @@ _None_
       "target": "/rss/:rss"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "view": 0
 }

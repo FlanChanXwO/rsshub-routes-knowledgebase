@@ -68,6 +68,9 @@ _None_
       "target": "/hot"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "猫眼电影正在热映列表 - Powered by RSSHub",

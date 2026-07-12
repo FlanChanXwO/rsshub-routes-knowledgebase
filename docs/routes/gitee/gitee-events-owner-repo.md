@@ -70,6 +70,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "yhArcadia/Yunzai-Bot-plugins-index - 仓库动态 - Powered by RSSHub",

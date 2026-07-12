@@ -67,6 +67,9 @@ _None_
       "target": "/zwgk"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "信息公开_政务公开-上海市浦东新区门户网站 - Powered by RSSHub",

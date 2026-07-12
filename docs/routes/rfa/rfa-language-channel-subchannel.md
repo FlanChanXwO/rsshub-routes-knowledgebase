@@ -70,6 +70,9 @@ _None_
     "subChannel": "subchannel, where applicable"
   },
   "path": "/:language?/:channel?/:subChannel?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "普通话主页 - Powered by RSSHub",

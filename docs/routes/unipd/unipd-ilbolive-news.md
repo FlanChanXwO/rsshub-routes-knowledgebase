@@ -71,6 +71,9 @@ _None_
       "target": "/ilbolive/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "ilbolive.unipd.it/it/news"
 }

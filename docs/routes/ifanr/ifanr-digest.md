@@ -69,6 +69,9 @@ _None_
       "target": "/digest"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "快讯 | 爱范儿 - Powered by RSSHub",

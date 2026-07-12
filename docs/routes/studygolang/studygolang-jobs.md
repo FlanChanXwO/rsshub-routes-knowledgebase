@@ -58,6 +58,9 @@ _None_
   "name": "招聘",
   "parameters": {},
   "path": "/jobs",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Go语言中文网 - 招聘 - Powered by RSSHub",

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 141,
+  "heat": 142,
   "location": "news/index.ts",
   "maintainers": [
     "EsuRt",
@@ -63,6 +63,9 @@ _None_
     "uid": "分类名"
   },
   "path": "/news/:uid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中国政府网 - 国务院信息 - Powered by RSSHub",

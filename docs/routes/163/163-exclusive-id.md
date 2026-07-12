@@ -86,6 +86,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "网易独家 - 数读 - Powered by RSSHub",

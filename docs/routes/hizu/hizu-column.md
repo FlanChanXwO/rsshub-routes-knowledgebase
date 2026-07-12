@@ -94,6 +94,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",

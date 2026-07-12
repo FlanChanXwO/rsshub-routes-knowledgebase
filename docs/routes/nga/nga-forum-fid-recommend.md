@@ -62,6 +62,9 @@ _None_
     "recommend": "是否只显示精华主题, 留空为否, 任意值为是"
   },
   "path": "/forum/:fid/:recommend?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "NGA是国内专业的游戏玩家社区,魔兽世界,英雄联盟,炉石传说,风暴英雄,暗黑破坏神3(D3)游戏攻略讨论,以及其他热门游戏玩家社区 - Powered by RSSHub",

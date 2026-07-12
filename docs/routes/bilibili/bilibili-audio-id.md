@@ -59,6 +59,9 @@ _None_
     "id": "歌单 id, 可在歌单页 URL 中找到"
   },
   "path": "/audio/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "每天11:00更新，为你推送最新音乐 - Powered by RSSHub",

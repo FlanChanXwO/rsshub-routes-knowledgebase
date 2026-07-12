@@ -70,6 +70,10 @@ _None_
       "title": "Workshop Search Results"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "有兴趣为《反恐精英》创作内容吗？ 那就来展示一下您的能耐吧。 探索我们的武器、印花、地图制作指南，并开始提交作品吧。 了解更多 - Powered by RSSHub",

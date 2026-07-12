@@ -64,6 +64,9 @@ _None_
       "target": "/:path"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

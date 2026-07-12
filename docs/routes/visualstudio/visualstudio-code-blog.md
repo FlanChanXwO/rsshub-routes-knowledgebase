@@ -69,6 +69,9 @@ _None_
       "target": "/code/blog"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Visual Studio Code - Code Editing. Redefined. - Powered by RSSHub",

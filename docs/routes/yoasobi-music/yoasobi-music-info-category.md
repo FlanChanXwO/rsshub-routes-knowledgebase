@@ -70,6 +70,9 @@ _None_
       "target": "/info/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Yoasobi's latest biography - Powered by RSSHub",

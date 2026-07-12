@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 180055,
+  "heat": 180065,
   "location": "video.ts",
   "maintainers": [
     "DIYgod",
@@ -75,6 +75,9 @@ _None_
       "target": "/user/video/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "影视飓风 的 bilibili 空间 - Powered by RSSHub",

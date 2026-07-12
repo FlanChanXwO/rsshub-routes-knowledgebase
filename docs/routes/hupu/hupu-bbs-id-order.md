@@ -81,6 +81,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "投资有风险，入市需谨慎 - Powered by RSSHub",

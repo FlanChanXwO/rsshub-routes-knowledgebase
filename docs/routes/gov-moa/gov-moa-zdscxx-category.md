@@ -142,11 +142,14 @@
       "title": "蔬菜生产"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": "2026-07-09T19:01:41.191Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-10T19:29:27.318Z",
+      "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessages\": <no response> fetch failed\n",
       "id": "72147260240052224",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

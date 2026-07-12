@@ -85,6 +85,9 @@
       "target": "/cs"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "cs.hrbust.edu.cn",
   "view": 5

@@ -60,6 +60,9 @@ _None_
       "target": "/zwgk/zcjd"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "广州市人民政府 - 文字解读 - Powered by RSSHub",

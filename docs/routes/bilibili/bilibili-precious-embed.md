@@ -59,6 +59,9 @@ _None_
     "embed": "默认为开启内嵌视频, 任意值为关闭"
   },
   "path": "/precious/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "哔哩哔哩入站必刷 - Powered by RSSHub",

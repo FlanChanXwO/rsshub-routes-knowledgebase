@@ -62,6 +62,9 @@ _None_
     "category": "频道类型，默认为券商晨报（今日晨报）"
   },
   "path": "/reports/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",
@@ -77,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": "2026-07-09T22:22:19.438Z",
-      "errorMessage": "[GET] \"http://www.ulapia.com/reports/strategy_research\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

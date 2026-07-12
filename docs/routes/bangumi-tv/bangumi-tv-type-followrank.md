@@ -72,6 +72,9 @@ _None_
       "target": "/:type/followrank"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "BangumiTV 首页 - 成员关注动画榜 - Powered by RSSHub",

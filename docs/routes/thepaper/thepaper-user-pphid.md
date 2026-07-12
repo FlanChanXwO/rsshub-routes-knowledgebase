@@ -46,6 +46,9 @@ _None_
     "pphId": "澎湃号 id，可在澎湃号页 URL 中找到"
   },
   "path": "/user/:pphId",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "博士一分钟，姿势涨不停！ - Powered by RSSHub",

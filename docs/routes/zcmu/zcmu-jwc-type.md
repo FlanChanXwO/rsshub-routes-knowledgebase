@@ -62,19 +62,10 @@ _None_
     "type": "通知模块id"
   },
   "path": "/jwc/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
-    {
-      "description": "教务处 -- 考试管理 - Powered by RSSHub",
-      "errorAt": "2025-09-02T11:04:40.706Z",
-      "errorMessage": "[GET] \"https://jwc.zcmu.edu.cn//jwgl/ksgl.htm\": 404 Not Found\n",
-      "id": "84227265299092495",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/ksgl",
-      "title": "教务处 -- 考试管理",
-      "type": "feed",
-      "url": "rsshub://zcmu/jwc/3"
-    },
     {
       "description": "教务处 -- 选课管理 - Powered by RSSHub",
       "errorAt": null,
@@ -86,6 +77,18 @@ _None_
       "title": "教务处 -- 选课管理",
       "type": "feed",
       "url": "rsshub://zcmu/jwc/4"
+    },
+    {
+      "description": "教务处 -- 教务管理 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65682896413916160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl",
+      "title": "教务处 -- 教务管理",
+      "type": "feed",
+      "url": "rsshub://zcmu/jwc/0"
     }
   ]
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3638,
+  "heat": 3642,
   "location": "hots.ts",
   "maintainers": [
     "hillerliao"
@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "雪球热门帖子 - Powered by RSSHub",

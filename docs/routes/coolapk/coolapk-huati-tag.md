@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1028,
+  "heat": 1030,
   "location": "huati.ts",
   "maintainers": [
     "xizeyoupan"
@@ -65,11 +65,14 @@ _None_
     "tag": "话题名称"
   },
   "path": "/huati/:tag",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "酷安话题-薅羊毛小分队 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T02:48:46.212Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59083231915003967",
       "id": "59083231915003967",
       "image": null,
       "ownerUserId": null,

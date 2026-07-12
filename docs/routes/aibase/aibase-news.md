@@ -71,6 +71,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "AI新闻资讯 - 不错过全球AI革新的每一个时刻 - Powered by RSSHub",

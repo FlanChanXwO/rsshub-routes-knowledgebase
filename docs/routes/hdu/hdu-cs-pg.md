@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "杭州电子科技大学计算机学院-研究生教学通知 - Powered by RSSHub",

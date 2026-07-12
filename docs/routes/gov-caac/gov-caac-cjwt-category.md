@@ -72,6 +72,9 @@
       "target": "/cjwt"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "caac.gov.cn/HDJL/"
 }

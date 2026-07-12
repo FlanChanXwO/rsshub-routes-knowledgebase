@@ -77,6 +77,9 @@ _None_
     "searchQueryType": "搜索查询类型，见下表"
   },
   "path": "/tgchannel/:id/:mpName?/:searchQueryType?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "三联生活周刊 - Powered by RSSHub",

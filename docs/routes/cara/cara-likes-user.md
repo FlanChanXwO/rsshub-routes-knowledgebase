@@ -59,6 +59,9 @@ _None_
       "target": "/likes/:user"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Likes - Feng Zhu - Powered by RSSHub",

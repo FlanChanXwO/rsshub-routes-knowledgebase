@@ -161,6 +161,9 @@
       "title": "實況直播"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "app.mycard520.com.tw",
   "view": 0,

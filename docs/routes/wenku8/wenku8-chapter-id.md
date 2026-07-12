@@ -59,6 +59,9 @@ _None_
     "id": "小说 id, 可在对应小说页 URL 中找到"
   },
   "path": "/chapter/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "轻小说文库 声音x魔法 - Powered by RSSHub",

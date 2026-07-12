@@ -74,6 +74,9 @@ _None_
       "target": "/:creators"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Latest videos from Xxx on xHamster - Powered by RSSHub",

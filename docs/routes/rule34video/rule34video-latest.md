@@ -70,6 +70,9 @@ _None_
       "target": "/latest"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Latest updates from Rule34 Video - Powered by RSSHub",

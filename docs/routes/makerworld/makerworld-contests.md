@@ -52,6 +52,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Join the contest to showcase your creativity and win substantial rewards - Powered by RSSHub",

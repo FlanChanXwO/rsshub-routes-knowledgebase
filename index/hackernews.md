@@ -10,10 +10,10 @@
 
 ## Routes
 
-### User
-- Route ID: `hackernews:/hackernews/:section?/:type?/:user?`
-- Route Path: `/hackernews/:section?/:type?/:user?`
-- File: `docs/routes/hackernews/hackernews-section-type-user.md`
-- File Name: `hackernews-section-type-user.md`
-- Categories: `programming, popular`
+### Stories
+- Route ID: `hackernews:/hackernews/:section?/:type?/:value?`
+- Route Path: `/hackernews/:section?/:type?/:value?`
+- File: `docs/routes/hackernews/hackernews-section-type-value.md`
+- File Name: `hackernews-section-type-value.md`
+- Categories: `programming`
 - Maintainers: `nczitzk, xie-dongping`

@@ -60,6 +60,9 @@ _None_
       "target": "/ningbogzw-notice/:colId?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "宁波市国资委 - Powered by RSSHub",

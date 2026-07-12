@@ -74,6 +74,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "南京艺术学院 图书馆 新闻动态 - Powered by RSSHub",

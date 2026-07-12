@@ -59,16 +59,19 @@ _None_
     "query": "筛选条件，见示例"
   },
   "path": "/disclosure/:query?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
-      "description": "上海证券交易所 - 上市公司信息 - 浦发银行最新公告 - Powered by RSSHub",
+      "description": "上海证券交易所 - 上市公司信息 - 华能国际最新公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=undefined",
-      "title": "上海证券交易所 - 上市公司信息 - 浦发银行最新公告",
+      "title": "上海证券交易所 - 上市公司信息 - 华能国际最新公告",
       "type": "feed",
       "url": "rsshub://sse/disclosure"
     },

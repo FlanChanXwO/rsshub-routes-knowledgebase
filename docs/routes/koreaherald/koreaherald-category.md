@@ -73,6 +73,9 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "The Korea Herald - National - Powered by RSSHub",
@@ -88,8 +91,8 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
     },
     {
       "description": "The Korea Herald - National - Powered by RSSHub",
-      "errorAt": "2026-07-09T19:01:50.989Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "97651779609807872",
       "image": null,
       "ownerUserId": null,

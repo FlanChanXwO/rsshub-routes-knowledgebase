@@ -43,6 +43,9 @@ _None_
   ],
   "name": "政府采购网分类代码",
   "path": "/zfcg-helper",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "zfcg.czt.zj.gov.cn"
 }

@@ -72,6 +72,9 @@ _None_
       "target": "/weatheralarm"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中央气象台全国气象预警 - Powered by RSSHub",

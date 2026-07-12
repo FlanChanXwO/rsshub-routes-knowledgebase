@@ -72,6 +72,9 @@ _None_
       "target": "/posts"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "MissKON - Posts - Powered by RSSHub",

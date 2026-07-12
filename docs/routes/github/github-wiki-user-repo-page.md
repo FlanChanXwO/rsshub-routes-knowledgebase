@@ -80,6 +80,9 @@ _None_
       "target": "/wiki/:user/:repo/:page"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "History / ss免费账号 - Alvin9999/new-pac - Powered by RSSHub",

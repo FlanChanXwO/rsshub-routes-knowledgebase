@@ -70,6 +70,9 @@ _None_
       "target": "/news/:lang"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "ISCT News - ja - Powered by RSSHub",

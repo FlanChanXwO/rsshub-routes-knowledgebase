@@ -57,6 +57,9 @@ _None_
       "target": "/topics/:topic"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

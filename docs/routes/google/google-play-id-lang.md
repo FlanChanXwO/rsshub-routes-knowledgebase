@@ -83,6 +83,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Tasker - Google Play - Powered by RSSHub",

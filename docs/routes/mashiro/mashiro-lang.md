@@ -57,6 +57,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Mashiro's Baumkuchen - Powered by RSSHub",

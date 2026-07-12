@@ -70,6 +70,9 @@ _None_
       "target": "/articles/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "得到文章 - 精选 - Powered by RSSHub",

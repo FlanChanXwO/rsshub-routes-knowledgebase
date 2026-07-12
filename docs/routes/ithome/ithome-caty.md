@@ -62,11 +62,14 @@ _None_
     "caty": "类别"
   },
   "path": "/:caty",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T00:32:20.748Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905677",
       "id": "41572238273905677",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,
@@ -77,8 +80,8 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-07-10T00:53:01.372Z",
-      "errorMessage": "[GET] \"https://digi.ithome.com/\": <no response> fetch failed\n",
+      "errorAt": "2026-07-11T01:37:44.935Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

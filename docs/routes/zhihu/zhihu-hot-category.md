@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15637,
+  "heat": 15636,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk",
@@ -65,6 +65,9 @@ _None_
   ],
   "name": "知乎热榜",
   "path": "/hot/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "知乎热榜 - Powered by RSSHub",

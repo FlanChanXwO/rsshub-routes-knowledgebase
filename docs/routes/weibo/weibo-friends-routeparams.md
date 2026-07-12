@@ -83,6 +83,9 @@
       "target": "/friends"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "weibo.com/"
 }

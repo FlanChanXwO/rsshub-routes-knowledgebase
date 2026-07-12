@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 217,
+  "heat": 223,
   "location": "vsearch.ts",
   "maintainers": [
     "pcrtool",
@@ -77,6 +77,9 @@ _None_
     "tid": "分区 id"
   },
   "path": "/vsearch/:kw/:order?/:embed?/:tid?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Result from 思源笔记 bilibili search, ordered by pubdate. - Powered by RSSHub",
@@ -92,8 +95,8 @@ _None_
     },
     {
       "description": "Result from 沙雕动画 bilibili search, ordered by totalrank. - Powered by RSSHub",
-      "errorAt": "2026-07-09T21:28:29.033Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84117288401258496",
       "image": null,
       "ownerUserId": null,

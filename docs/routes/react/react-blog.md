@@ -56,6 +56,9 @@ _None_
   ],
   "name": "Blog",
   "path": "/blog",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "React Blog - Powered by RSSHub",

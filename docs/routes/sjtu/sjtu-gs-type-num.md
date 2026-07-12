@@ -87,6 +87,9 @@
       "target": "/gs/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "培养信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",

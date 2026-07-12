@@ -218,11 +218,14 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
       "title": "Now Free"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:39:39.324Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "198041350264348672",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

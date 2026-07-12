@@ -74,6 +74,9 @@ _None_
       "title": "全国通信专业技术人员职业水平考试动态"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "全国通信专业技术人员职业水平考试网站最新动态和消息推送 - Powered by RSSHub",

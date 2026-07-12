@@ -46,6 +46,9 @@ _None_
   ],
   "name": "Characters",
   "path": "/characters",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Chub - Powered by RSSHub",

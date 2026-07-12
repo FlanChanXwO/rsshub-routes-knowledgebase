@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1380,
+  "heat": 1381,
   "location": "weekly.tsx",
   "maintainers": [
     "kmod-midori"
@@ -69,6 +69,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "CnGal - 每周速报 - Powered by RSSHub",

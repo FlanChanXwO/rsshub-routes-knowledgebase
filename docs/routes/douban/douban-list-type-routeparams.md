@@ -108,6 +108,9 @@
       "target": "/list/:type"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "豆瓣热门电影作品，根据电影实时热度与关注度得出的综合排名，每小时更新。 - Powered by RSSHub",

@@ -61,6 +61,9 @@ _None_
     "lang": "Language"
   },
   "path": "/tv/:id/seasons/:lang?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
@@ -75,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
+      "description": "The Message was a surreal comedy series which spoofs current practices in the television industry. It originally aired in 2006 on BBC Three. It consisted of six episodes, and was not renewed after the first season. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72474878233372672",
-      "image": "https://image.tmdb.org/t/p/original/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+      "id": "90020177225086976",
+      "image": "https://image.tmdb.org/t/p/original/wK9h8FwbmOWlMyW6fT2C6yFPvSu.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70593/seasons",
-      "title": "Kingdom - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/3/seasons",
+      "title": "The Message - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70593/seasons/en-US"
+      "url": "rsshub://themoviedb/tv/3/seasons"
     }
   ],
   "view": 5

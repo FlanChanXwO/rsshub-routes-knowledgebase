@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 121,
+  "heat": 123,
   "location": "fornumtopic.tsx",
   "maintainers": [
     "Fatpandac"
@@ -62,6 +62,9 @@ _None_
     "channel": "频道的 id，见下表，默认为最新500个主题帖"
   },
   "path": "/fornumtopic/:channel?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",

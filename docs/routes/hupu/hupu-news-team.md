@@ -48,6 +48,9 @@ _None_
     }
   },
   "path": "/news/:team",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "m.hupu.com"
 }

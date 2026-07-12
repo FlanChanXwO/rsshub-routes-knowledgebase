@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "分析师园地 - 中国期货业协会 - Powered by RSSHub",

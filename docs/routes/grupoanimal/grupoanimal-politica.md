@@ -54,6 +54,9 @@ _None_
       "target": "/grupoanimal/politica"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

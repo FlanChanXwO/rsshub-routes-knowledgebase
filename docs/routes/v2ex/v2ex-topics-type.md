@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23482,
+  "heat": 23486,
   "location": "topics.ts",
   "maintainers": [
     "WhiteWorld"
@@ -73,6 +73,9 @@ _None_
     }
   },
   "path": "/topics/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "V2EX-最热主题 - Powered by RSSHub",

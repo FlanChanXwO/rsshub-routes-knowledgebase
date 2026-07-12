@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 329,
+  "heat": 331,
   "location": "list.tsx",
   "maintainers": [
     "akynazh"
@@ -77,6 +77,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "订阅数：38万+ - Powered by RSSHub",

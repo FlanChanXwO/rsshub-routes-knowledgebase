@@ -70,6 +70,9 @@ _None_
       "target": "/activity/:user/likes"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "huggingface.co"
 }

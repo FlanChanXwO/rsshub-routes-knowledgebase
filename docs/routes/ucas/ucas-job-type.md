@@ -62,6 +62,9 @@ _None_
     "type": "招聘类型，默认为博士后"
   },
   "path": "/job/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

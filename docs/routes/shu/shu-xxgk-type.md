@@ -73,6 +73,9 @@
       "target": "/xxgk"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "xxgk.shu.edu.cn/"
 }

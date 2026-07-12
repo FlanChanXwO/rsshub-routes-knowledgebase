@@ -81,6 +81,9 @@ _None_
   },
   "path": "/:url?/:filter{.+}?",
   "radar": [],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "switch游戏下载-PC游戏下载-switch破解游戏下载-PC破解游戏下载-Switch520-gamer520 - Powered by RSSHub",

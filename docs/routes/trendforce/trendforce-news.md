@@ -69,6 +69,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "TrendForce offers hi-tech industry research reports, including market bulletins, industry analysis and price trends, helping businesses tackle global challenges - Powered by RSSHub",

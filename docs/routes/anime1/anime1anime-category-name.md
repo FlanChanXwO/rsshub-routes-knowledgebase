@@ -72,6 +72,9 @@ _None_
       "target": "/anime/:category/:name"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "anime1.me"
 }

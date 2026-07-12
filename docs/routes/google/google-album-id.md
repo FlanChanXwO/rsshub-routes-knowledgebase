@@ -59,6 +59,9 @@ _None_
     "id": "album ID, can be found in URL, for example, `https://photos.app.goo.gl/msFFnAzKmQmWj76EA` to `msFFnAzKmQmWj76EA`"
   },
   "path": "/album/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

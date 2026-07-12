@@ -69,6 +69,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "x410.dev",
   "view": 0

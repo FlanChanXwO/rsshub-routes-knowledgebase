@@ -75,6 +75,9 @@
       "target": "/list"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.customs.gov.cn/"
 }

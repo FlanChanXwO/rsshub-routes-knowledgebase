@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 19,
   "location": "tag.ts",
   "maintainers": [
     "sanmmm"
@@ -76,6 +76,10 @@ _None_
     "type": "内容类型"
   },
   "path": "/tag/:tag/:type/:option?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "品玩 - AIGC - Powered by RSSHub",
@@ -90,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 豆包 - Powered by RSSHub",
-      "errorAt": "2026-05-25T12:07:01.198Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22158&type=0\": 405 Not Allowed\n",
-      "id": "128313509223043072",
+      "description": "品玩 - 腾讯元宝 - Powered by RSSHub",
+      "errorAt": "2026-05-25T06:13:11.446Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22218&type=0\": 405 Not Allowed\n",
+      "id": "128314253577785344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/22158",
-      "title": "品玩 - 豆包",
+      "siteUrl": "https://www.pingwest.com/tag/22218",
+      "title": "品玩 - 腾讯元宝",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/22158/1"
+      "url": "rsshub://pingwest/tag/22218/1"
     }
   ]
 }

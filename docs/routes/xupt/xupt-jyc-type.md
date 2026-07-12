@@ -73,6 +73,9 @@
       "target": "/jyc/tzgg"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

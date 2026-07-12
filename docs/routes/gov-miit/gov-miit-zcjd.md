@@ -58,6 +58,9 @@ _None_
   "name": "政策解读",
   "parameters": {},
   "path": "/zcjd",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "政策解读 - 中华人民共和国工业和信息化部 - Powered by RSSHub",

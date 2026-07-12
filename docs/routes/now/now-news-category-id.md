@@ -91,6 +91,9 @@
       "target": "/news/:category?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "首頁 | Now 新聞 - Powered by RSSHub",

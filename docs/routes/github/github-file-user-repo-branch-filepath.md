@@ -63,6 +63,9 @@ _None_
       "target": "/file/:user/:repo/:branch/:filepath"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "GitHub File - guanguans/favorite-link/master/README.md - Powered by RSSHub",

@@ -61,6 +61,9 @@ _None_
     "language": "Accept-Language. Example: `zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7`"
   },
   "path": "/search/:keyword/:language?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "AI赚钱 - Google Search - Powered by RSSHub",

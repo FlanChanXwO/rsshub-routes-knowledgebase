@@ -59,6 +59,9 @@ _None_
     "login": "Twitch username"
   },
   "path": "/live/:login",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "neuro-sama the ai vtuber - Powered by RSSHub",

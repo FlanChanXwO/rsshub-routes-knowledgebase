@@ -59,6 +59,9 @@ _None_
     "id": "公众号 id，打开 `https://wechat2rss.xlab.app/posts/list/`，在 URL 中找到 id；注意不是公众号页的 id，而是订阅的 id"
   },
   "path": "/wechat2rss/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "腾讯技术官方号。腾讯技术创新、前沿领域发布解读平台。 (wechat feed made by @ttttmr https://wechat2rss.xlab.app) - Powered by RSSHub",

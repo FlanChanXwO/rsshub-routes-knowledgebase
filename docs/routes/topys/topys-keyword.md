@@ -72,6 +72,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "TOPYS - Powered by RSSHub",

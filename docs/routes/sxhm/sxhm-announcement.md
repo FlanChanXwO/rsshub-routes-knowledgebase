@@ -55,6 +55,9 @@ _None_
       "target": "/announcement"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

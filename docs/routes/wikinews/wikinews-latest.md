@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "最新新闻 - 维基新闻 - Powered by RSSHub",

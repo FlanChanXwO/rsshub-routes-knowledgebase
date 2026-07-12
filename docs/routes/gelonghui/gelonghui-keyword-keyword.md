@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 111,
+  "heat": 112,
   "location": "keyword.ts",
   "maintainers": [
     "nczitzk"
@@ -59,6 +59,9 @@ _None_
     "keyword": "搜索关键字"
   },
   "path": "/keyword/:keyword",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "找到关于 “ 跨境电商 ”的文章，共10000个结果 - Powered by RSSHub",
@@ -73,7 +76,7 @@ _None_
       "url": "rsshub://gelonghui/keyword/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86"
     },
     {
-      "description": "找到关于 “ 早报 ”的文章，共3441个结果 - Powered by RSSHub",
+      "description": "找到关于 “ 早报 ”的文章，共3442个结果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "74277698927007744",

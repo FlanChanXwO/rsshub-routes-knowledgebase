@@ -62,6 +62,9 @@ _None_
     "type": "默认为 `xwg`"
   },
   "path": "/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 801,
+  "heat": 803,
   "location": "daily.ts",
   "maintainers": [
     "DHPO",
@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "每天3次，每次7分钟 - Powered by RSSHub",

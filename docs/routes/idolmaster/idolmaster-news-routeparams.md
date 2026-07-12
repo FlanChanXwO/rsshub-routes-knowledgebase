@@ -81,6 +81,9 @@
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "NEWS | アイドルマスター - Powered by RSSHub",
@@ -96,8 +99,8 @@
     },
     {
       "description": "NEWS | アイドルマスター - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:48:48.949Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82051945166265344",
       "image": null,
       "ownerUserId": null,

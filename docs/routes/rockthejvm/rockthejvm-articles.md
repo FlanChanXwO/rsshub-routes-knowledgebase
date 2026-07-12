@@ -69,6 +69,9 @@ _None_
       "target": "/articles"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Article Index - Powered by RSSHub",

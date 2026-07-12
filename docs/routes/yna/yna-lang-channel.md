@@ -80,6 +80,9 @@ _None_
     "lang": "Language, see below, `ko` by default"
   },
   "path": "/:lang?/:channel?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "韩国联合通讯社 | 滚动 - Powered by RSSHub",

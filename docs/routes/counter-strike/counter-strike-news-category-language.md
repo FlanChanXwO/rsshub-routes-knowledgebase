@@ -111,6 +111,9 @@ If you subscribe to [Updates in English](https://www.counter-strike.net/news/upd
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "#Blog_Title - Powered by RSSHub",

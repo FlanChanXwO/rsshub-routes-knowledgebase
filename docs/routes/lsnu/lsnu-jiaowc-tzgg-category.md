@@ -73,6 +73,9 @@
       "target": "/jiaowc/tzgg"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "lsnu.edu.cn/"
 }

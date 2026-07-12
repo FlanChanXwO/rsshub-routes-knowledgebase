@@ -71,6 +71,9 @@ _None_
       "target": "/daily-ai-news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "每日AI资讯 | AI工具集 - Powered by RSSHub",

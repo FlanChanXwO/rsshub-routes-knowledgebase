@@ -70,6 +70,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "招聘信息 - 中南大学就业信息网 - Powered by RSSHub",

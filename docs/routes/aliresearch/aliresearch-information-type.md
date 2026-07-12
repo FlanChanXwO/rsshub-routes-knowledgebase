@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1138,
+  "heat": 1139,
   "location": "information.ts",
   "maintainers": [
     "nczitzk"
@@ -74,6 +74,9 @@
       "target": "/information"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "阿里研究院 - 新闻 - Powered by RSSHub",

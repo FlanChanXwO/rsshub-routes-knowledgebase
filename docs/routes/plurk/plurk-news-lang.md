@@ -70,6 +70,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Plurk News - Plurk - Powered by RSSHub",

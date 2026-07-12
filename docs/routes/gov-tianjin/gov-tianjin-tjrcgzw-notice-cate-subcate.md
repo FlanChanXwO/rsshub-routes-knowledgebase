@@ -57,6 +57,9 @@ _None_
       "target": "/tjrcgzw-notice/:cate/:subCate"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/"
 }

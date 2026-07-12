@@ -73,6 +73,9 @@ Category of news
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中华网-国内新闻 - Powered by RSSHub",

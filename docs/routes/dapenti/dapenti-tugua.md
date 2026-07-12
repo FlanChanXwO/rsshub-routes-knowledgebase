@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5549,
+  "heat": 5550,
   "location": "tugua.ts",
   "maintainers": [
     "tgly307"
@@ -58,6 +58,9 @@ _None_
   "name": "图卦",
   "parameters": {},
   "path": "/tugua",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "喷嚏-70 - Powered by RSSHub",

@@ -465,6 +465,9 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
       "title": "ムーンライト BL 年間ランキング BEST5"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "小説家になろう (noc) - 日間総合ランキング BEST300 - Powered by RSSHub",
@@ -480,8 +483,8 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
     },
     {
       "description": "小説家になろう (noc) - 日間完結済ランキング BEST300 - Powered by RSSHub",
-      "errorAt": "2026-07-10T00:43:04.148Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 146209536416978944",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "146209536416978944",
       "image": null,
       "ownerUserId": null,

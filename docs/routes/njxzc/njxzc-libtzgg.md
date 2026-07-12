@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "lib.njxzc.edu.cn/pxyhd/list.htm"
 }

@@ -63,6 +63,9 @@ _None_
     "category": "分类，见下表，默认为全部"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "全部 - 加美财经 - Powered by RSSHub",

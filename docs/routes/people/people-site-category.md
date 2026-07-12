@@ -44,6 +44,9 @@ _None_
   ],
   "name": "首页头条",
   "path": "/:site?/:category{.+}?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "人民日报重要言论库--观点--人民网 - Powered by RSSHub",

@@ -69,6 +69,9 @@ _None_
       "title": "なろう小説 API の更新履歴"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "dev.syosetu.com"
 }

@@ -77,6 +77,9 @@
       "target": "/sr"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "最新-崩坏：星穹铁道 - Powered by RSSHub",

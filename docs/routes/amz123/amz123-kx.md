@@ -68,11 +68,14 @@ _None_
       "target": "/kx"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "AMZ123 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T21:37:03.451Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "89539003493689344",
       "image": null,
       "ownerUserId": null,

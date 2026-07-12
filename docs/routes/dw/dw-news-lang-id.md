@@ -76,6 +76,9 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
       "target": "/news/:lang/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "德国之声中文频道通过文字、音频、视频相结合的多媒体方式提供以德国和欧洲为主同时包括世界政经资讯。我们的报道重点也包括中国政治、经济、社会的发展以及我们的中国受众群最关心感兴趣的各类话题。 - Powered by RSSHub",

@@ -90,6 +90,9 @@ _None_
     }
   },
   "path": "/items/character/:id/:order?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 角色周边 1035374 - Powered by RSSHub",
@@ -104,16 +107,16 @@ _None_
       "url": "rsshub://hpoi/items/character/1035374"
     },
     {
-      "description": "Hpoi 手办维基 - 角色周边 25034873 - Powered by RSSHub",
+      "description": "Hpoi 手办维基 - 角色周边 7454522 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "128372806762542080",
+      "id": "137689291345094656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.hpoi.net/hobby/all?order=add&r18=-1&charactar=25034873",
-      "title": "Hpoi 手办维基 - 角色周边 25034873",
+      "siteUrl": "https://www.hpoi.net/hobby/all?order=add&r18=-1&charactar=7454522",
+      "title": "Hpoi 手办维基 - 角色周边 7454522",
       "type": "feed",
-      "url": "rsshub://hpoi/items/character/25034873"
+      "url": "rsshub://hpoi/items/character/7454522"
     }
   ],
   "view": 2

@@ -80,6 +80,9 @@
       "target": "/govall"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.gov.cn/"
 }

@@ -66,6 +66,9 @@ _None_
       "target": "/yjj/:path"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

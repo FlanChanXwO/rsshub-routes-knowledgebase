@@ -123,6 +123,9 @@ _None_
       "target": "/:section"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "最新公告 - Powered by RSSHub",

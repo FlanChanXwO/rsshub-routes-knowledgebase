@@ -77,6 +77,9 @@
       "target": "/zzz"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "最新-绝区零 - Powered by RSSHub",

@@ -68,11 +68,14 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "同济大学研究生院通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-09T22:31:54.485Z",
-      "errorMessage": "[GET] \"https://gs.tongji.edu.cn/tzgg.htm\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104772158131144704",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

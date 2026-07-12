@@ -62,6 +62,9 @@ _None_
     "caty": "信息类别"
   },
   "path": "/xxgk/zfxxgj/:caty",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

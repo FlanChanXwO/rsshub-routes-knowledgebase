@@ -79,6 +79,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "ynet.com",
   "view": 0

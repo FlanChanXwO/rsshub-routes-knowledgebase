@@ -69,11 +69,14 @@ _None_
       "target": "/news/:sport"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "ESPN NBA News - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:40:28.969Z",
-      "errorMessage": "Authentication failed. Access denied.\n/espn/news/nba\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,

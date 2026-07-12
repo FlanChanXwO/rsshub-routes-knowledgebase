@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 918,
+  "heat": 919,
   "location": "user-collection.ts",
   "maintainers": [
     "shininome",
@@ -68,6 +68,9 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/collection/:uid/:sid/:embed?/:sortReverse?/:page?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",

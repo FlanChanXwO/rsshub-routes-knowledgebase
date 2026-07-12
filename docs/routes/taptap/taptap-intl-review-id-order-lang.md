@@ -89,6 +89,9 @@ Language Code
       "target": "/intl/review/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

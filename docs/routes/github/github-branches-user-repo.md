@@ -72,6 +72,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "ruanyf/weekly Branches - Powered by RSSHub",

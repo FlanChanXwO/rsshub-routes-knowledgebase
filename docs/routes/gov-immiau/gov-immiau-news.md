@@ -57,6 +57,9 @@ _None_
   "name": "Immigration and Citizenship - News",
   "parameters": {},
   "path": "/news",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Australia Government, Department of Home Affairs - Powered by RSSHub",

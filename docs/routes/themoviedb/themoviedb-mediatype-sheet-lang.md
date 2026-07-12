@@ -74,11 +74,15 @@ _None_
     "sheet": "Sheet, see below"
   },
   "path": "/:mediaType/:sheet/:lang?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 337050222207 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "Now Playing Movies — TMDB - Powered by RSSHub",
-      "errorAt": "2026-07-09T19:02:02.642Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80092327093291008",
       "image": null,
       "ownerUserId": null,

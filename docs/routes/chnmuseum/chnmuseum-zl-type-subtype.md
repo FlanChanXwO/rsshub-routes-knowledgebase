@@ -8,7 +8,7 @@
 - Namespace Name: `National Museum Of China`
 - Route Path: `/chnmuseum/zl/:type?/:subType?`
 - Route Name: `Exhibitions`
-- Example: `/chnmuseum/zl/lszl/zdztzl`
+- Example: `/chnmuseum/zl/lszl/zdzt`
 - URL: `www.chnmuseum.cn`
 - Language: `_None_`
 - Categories: `travel`
@@ -20,8 +20,8 @@
 _None_
 
 ## Parameters
-- `type`: Exhibition type, supported values: zhanlanyugao（正在展出）、ztzl（主题展览）、jbcl（基本陈列）、ztcl（专题展览）、lszl（临时展览）、gbxz（国博巡展）. Default: All exhibitions.
-- `subType`: subtype only works under type lszl（临时展览）, supported values: zdztzl（主题展览）、dfjpwwxl（精品文物展）、lswhxl（历史文化展）、kgfjxl（考古发现展）、kjcxz（科技创新展）、dywhxl（地域文化展）、jdmszpxl（经典美术展）、gjjlxl（国际交流展）
+- `type`: Exhibition type, supported values: zhanlanyugao（正在展出）、jbcl（基本陈列）、ztcl（专题展览）、lszl（临时展览）、gjzl（国家展览）、gbxz（国博巡展）. Default: All exhibitions.
+- `subType`: subtype only works under type lszl（临时展览）, supported values: zdzt（重大主题）、lswh（历史文化）、yscx（艺术创新）、gjjl（国际交流）
 
 
 ## Features
@@ -39,7 +39,7 @@ _None_
   "categories": [
     "travel"
   ],
-  "example": "/chnmuseum/zl/lszl/zdztzl",
+  "example": "/chnmuseum/zl/lszl/zdzt",
   "heat": 0,
   "location": "zl.tsx",
   "maintainers": [
@@ -47,8 +47,8 @@ _None_
   ],
   "name": "Exhibitions",
   "parameters": {
-    "subType": "subtype only works under type lszl（临时展览）, supported values: zdztzl（主题展览）、dfjpwwxl（精品文物展）、lswhxl（历史文化展）、kgfjxl（考古发现展）、kjcxz（科技创新展）、dywhxl（地域文化展）、jdmszpxl（经典美术展）、gjjlxl（国际交流展）",
-    "type": "Exhibition type, supported values: zhanlanyugao（正在展出）、ztzl（主题展览）、jbcl（基本陈列）、ztcl（专题展览）、lszl（临时展览）、gbxz（国博巡展）. Default: All exhibitions."
+    "subType": "subtype only works under type lszl（临时展览）, supported values: zdzt（重大主题）、lswh（历史文化）、yscx（艺术创新）、gjjl（国际交流）",
+    "type": "Exhibition type, supported values: zhanlanyugao（正在展出）、jbcl（基本陈列）、ztcl（专题展览）、lszl（临时展览）、gjzl（国家展览）、gbxz（国博巡展）. Default: All exhibitions."
   },
   "path": "/zl/:type?/:subType?",
   "radar": [
@@ -59,6 +59,9 @@ _None_
       "target": "/zl"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

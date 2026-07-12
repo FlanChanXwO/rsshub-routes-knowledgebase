@@ -66,6 +66,9 @@ _None_
     "user": "User id, can be found in URL"
   },
   "path": "/devlog/:user/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Devlog - Eternum by Caribdis - Powered by RSSHub",

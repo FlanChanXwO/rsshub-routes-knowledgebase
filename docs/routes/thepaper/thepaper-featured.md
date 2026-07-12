@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3725,
+  "heat": 3727,
   "location": "featured.ts",
   "maintainers": [
     "HenryQW",
@@ -69,6 +69,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "澎湃新闻 - 首页头条 - Powered by RSSHub",

@@ -74,6 +74,9 @@
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "上海大学 - 通知公告 - Powered by RSSHub",

@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2859,
+  "heat": 2863,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"
@@ -81,6 +81,9 @@ _None_
     "type": "类型，见下表，默认为推荐"
   },
   "path": "/blog/:type?/:time?/:sort?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "科学网 - 精选博文 - Powered by RSSHub",

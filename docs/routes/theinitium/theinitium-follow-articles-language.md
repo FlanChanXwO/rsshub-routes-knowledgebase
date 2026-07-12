@@ -51,6 +51,9 @@ _None_
   },
   "path": "/follow/articles/:language?",
   "radar": [],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

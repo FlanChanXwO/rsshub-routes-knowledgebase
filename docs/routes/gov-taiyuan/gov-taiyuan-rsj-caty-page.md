@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "rsj.taiyuan.gov.cn/*"
 }

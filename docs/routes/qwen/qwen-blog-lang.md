@@ -59,6 +59,9 @@ _None_
     "lang": "语言，`zh-CN`, `en-US`"
   },
   "path": "/blog/:lang?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Qwen Blog - Powered by RSSHub",

@@ -95,6 +95,9 @@ Category 栏目：
       "target": "/app/latest_sc"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "端传媒 - 最新 - Powered by RSSHub",

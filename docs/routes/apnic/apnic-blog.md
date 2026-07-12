@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Blog",
   "path": "/blog",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "APNIC Blog - Powered by RSSHub",

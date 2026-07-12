@@ -65,6 +65,9 @@ _None_
     "tid": "讨论串 id，可从URL中提取。https://bbs.yamibo.com/forum.php?mod=viewthread&tid=xxxx中的xxx或https://bbs.yamibo.com/thread-aaa-b-c.html中的aaa部分即为tid值"
   },
   "path": "/bbs/thread/:tid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.6.7更新至第419话） - 轻小说/译文区 - Powered by RSSHub",
@@ -81,7 +84,7 @@ _None_
     {
       "description": "百合小说生肉安利专楼 - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-08T21:31:45.653Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "97881720287716352",
       "image": null,
       "ownerUserId": null,

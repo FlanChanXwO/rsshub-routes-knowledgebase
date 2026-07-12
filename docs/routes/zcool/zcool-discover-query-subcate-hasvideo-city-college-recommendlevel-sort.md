@@ -186,6 +186,9 @@ _None_
     "subCate": "子分类，见下表，默认为 `0` 即该父分类下全部"
   },
   "path": "/discover/:query?/:subCate?/:hasVideo?/:city?/:college?/:recommendLevel?/:sort?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

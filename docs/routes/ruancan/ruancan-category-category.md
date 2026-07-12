@@ -70,6 +70,9 @@ _None_
       "target": "/category/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "ruancan.com/"
 }

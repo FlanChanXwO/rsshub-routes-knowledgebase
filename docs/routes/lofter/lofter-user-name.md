@@ -61,6 +61,9 @@ _None_
     "name": "Lofter user name, can be found in the URL"
   },
   "path": "/user/:name?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "LOFTER官方博客 | LOFTER - Powered by RSSHub",

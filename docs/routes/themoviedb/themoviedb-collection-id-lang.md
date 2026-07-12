@@ -61,11 +61,15 @@ _None_
     "lang": "Language"
   },
   "path": "/collection/:id/:lang?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 417575021319 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "A superhero film series based on the Marvel Comics character of the same name and part of the Marvel Cinematic Universe (MCU) series. Tony Stark AKA Iron Man, an industrialist and master engineer uses a powered exoskeleton to fight foes, with the aid of his personal assistant and love interest Pepper Potts. - Powered by RSSHub",
-      "errorAt": "2026-07-09T19:03:30.476Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88876445004923911",
       "image": "https://image.tmdb.org/t/p/original/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg",
       "ownerUserId": null,

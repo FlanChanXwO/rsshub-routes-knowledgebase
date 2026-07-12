@@ -92,6 +92,9 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
       "target": "/wikipedia/current-events"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",

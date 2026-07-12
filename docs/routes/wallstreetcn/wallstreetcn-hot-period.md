@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1139,
+  "heat": 1140,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk"
@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "华尔街见闻 - 最热文章 - Powered by RSSHub",

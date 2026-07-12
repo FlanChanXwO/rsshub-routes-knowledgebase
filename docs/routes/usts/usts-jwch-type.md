@@ -60,6 +60,9 @@ _None_
     "type": "类型，默认为教务动态"
   },
   "path": "/jwch/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

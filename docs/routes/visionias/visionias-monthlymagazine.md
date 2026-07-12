@@ -67,6 +67,9 @@ _None_
       "target": "/monthlyMagazine"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

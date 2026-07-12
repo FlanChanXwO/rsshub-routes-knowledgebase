@@ -54,6 +54,9 @@ _None_
       "target": "/universe"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Typst Universe - Powered by RSSHub",

@@ -73,6 +73,9 @@
       "target": "/eeis"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "eeis.ustc.edu.cn/"
 }

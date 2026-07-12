@@ -73,6 +73,9 @@
       "target": "/news/:section"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "上外新闻|SISU TODAY - Notice - Powered by RSSHub",

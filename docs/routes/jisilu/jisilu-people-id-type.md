@@ -81,6 +81,9 @@
       "target": "/people/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",

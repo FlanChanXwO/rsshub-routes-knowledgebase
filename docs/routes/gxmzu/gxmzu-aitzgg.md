@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "广西民族大学人工智能学院 -- 通知公告 - Powered by RSSHub",

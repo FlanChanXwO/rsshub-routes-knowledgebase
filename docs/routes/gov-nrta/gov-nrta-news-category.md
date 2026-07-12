@@ -62,6 +62,9 @@ _None_
     "category": "资讯类别，可从地址中获取，默认为总局要闻"
   },
   "path": "/news/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "国家广播电视总局 - Powered by RSSHub",

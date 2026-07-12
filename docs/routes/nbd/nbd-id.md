@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 12,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -73,11 +73,15 @@
       ]
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "undefined - Powered by RSSHub",
       "errorAt": "2024-11-12T16:29:48.931Z",
-      "errorMessage": "503 Service Unavailable\n500 Internal Server Error\n",
+      "errorMessage": "503 Service Unavailable\n503 Service Unavailable\n",
       "id": "69296270546855936",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +93,7 @@
     {
       "description": null,
       "errorAt": "2025-08-21T07:38:04.685Z",
-      "errorMessage": "[GET] \"https://www.nbd.com.cn/columns/3/\": <no response> fetch failed\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'startsWith')\n",
       "id": "181211868868349952",
       "image": null,
       "ownerUserId": null,

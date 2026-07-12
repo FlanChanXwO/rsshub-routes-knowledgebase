@@ -43,6 +43,9 @@ _None_
   ],
   "name": "互动新闻",
   "path": "/interactive-graphics",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",

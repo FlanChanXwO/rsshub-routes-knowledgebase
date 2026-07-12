@@ -68,6 +68,9 @@ _None_
       "target": "/cs/xshd"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "上海交通大学计算机学院（网络空间安全学院、密码学院）学术活动 - Powered by RSSHub",

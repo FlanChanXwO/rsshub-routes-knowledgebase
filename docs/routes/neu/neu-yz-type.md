@@ -77,6 +77,9 @@
       "target": "/yz/:type"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "博士公告 - Powered by RSSHub",

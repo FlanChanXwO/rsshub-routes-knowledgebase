@@ -45,6 +45,9 @@ _None_
   ],
   "name": "月刊",
   "path": "/volume",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "HelloGithub - 月刊 - Powered by RSSHub",

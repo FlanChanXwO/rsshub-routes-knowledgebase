@@ -116,6 +116,9 @@
       "target": "/cs/index/postgraduate"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

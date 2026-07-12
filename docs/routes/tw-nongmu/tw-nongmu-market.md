@@ -54,6 +54,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.tw-nongmu.com/market.html"
 }

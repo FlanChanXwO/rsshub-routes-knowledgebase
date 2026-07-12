@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 412,
+  "heat": 413,
   "location": "makers.ts",
   "maintainers": [
     "nczitzk"
@@ -85,6 +85,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",

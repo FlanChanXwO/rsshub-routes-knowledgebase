@@ -72,6 +72,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "电子科技大学研究生院通知（学生管理） - Powered by RSSHub",

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "热门推荐",
   "path": "/hot-recommend",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "挖贝网 - 热门推荐 - Powered by RSSHub",

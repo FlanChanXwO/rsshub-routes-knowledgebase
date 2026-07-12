@@ -61,6 +61,10 @@ _None_
     "uid": "用户 ID"
   },
   "path": "/tieba/user/:uid",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "dengchunlai 的贴吧 - Powered by RSSHub",
@@ -75,16 +79,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "阳光下的咪西 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-05T11:51:29.923Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=阳光下的咪西\": 403 Forbidden\n",
-      "id": "69911701157875712",
+      "description": "林子君 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-05-22T16:26:48.243Z",
+      "errorMessage": "Authentication failed. Access denied.\n/baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B\n[GET] \"https://tieba.baidu.com/home/main?un=林子◎君\": 403 Forbidden\n",
+      "id": "86267276958861312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%92%AA%E8%A5%BF",
-      "title": "阳光下的咪西 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
+      "title": "林子君 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%92%AA%E8%A5%BF"
+      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
     }
   ]
 }

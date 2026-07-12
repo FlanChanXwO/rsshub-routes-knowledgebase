@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "滑动拼图验证码 - Powered by RSSHub",

@@ -77,6 +77,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "xky.hunau.edu.cn/"
 }

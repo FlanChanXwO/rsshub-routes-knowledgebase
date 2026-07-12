@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 602,
+  "heat": 604,
   "location": "category.ts",
   "maintainers": [
     "Gandum2077"
@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "漢化 < 雜誌&短篇 < 紳士漫畫-專註分享漢化本子|邪惡漫畫 - Powered by RSSHub",

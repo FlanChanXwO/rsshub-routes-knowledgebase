@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18,
+  "heat": 20,
   "location": "tab.ts",
   "maintainers": [
     "nczitzk"
@@ -72,6 +72,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,
@@ -88,7 +91,7 @@
     {
       "description": null,
       "errorAt": "2025-07-14T11:50:59.607Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.95mm.vip/home-ajax/index.html?tabcid=最新&page=1\": 404 Not Found\n",
       "id": "167549568401875968",
       "image": null,
       "ownerUserId": null,

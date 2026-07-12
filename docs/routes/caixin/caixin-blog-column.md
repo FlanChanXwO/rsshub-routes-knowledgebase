@@ -58,6 +58,9 @@ _None_
     "column": "博客名称，可在博客主页的 URL 找到"
   },
   "path": "/blog/:column?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "财新博客 - 全部 - Powered by RSSHub",

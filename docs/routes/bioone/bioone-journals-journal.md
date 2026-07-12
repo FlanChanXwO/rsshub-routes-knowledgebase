@@ -72,6 +72,9 @@ _None_
       "target": "/journals/:journal"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "VOL. 45 · NO. 1 | April 2026 - Powered by RSSHub",

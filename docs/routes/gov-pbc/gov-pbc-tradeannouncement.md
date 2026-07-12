@@ -57,6 +57,9 @@ _None_
   "name": "货币政策司公开市场交易公告",
   "parameters": {},
   "path": "/tradeAnnouncement",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

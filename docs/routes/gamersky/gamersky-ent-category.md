@@ -147,6 +147,9 @@
       "title": "游民福利"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "热点图文 - 游民娱乐 - Powered by RSSHub",

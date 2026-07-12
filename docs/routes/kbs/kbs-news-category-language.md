@@ -75,6 +75,9 @@
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "全部 - KBS WORLD - Powered by RSSHub",

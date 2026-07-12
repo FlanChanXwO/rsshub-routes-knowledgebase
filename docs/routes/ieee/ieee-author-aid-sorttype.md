@@ -61,6 +61,9 @@ _None_
     "sortType": "Sort Type of papers"
   },
   "path": "/author/:aid/:sortType",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Simon J. Julier (Member, IEEE) received the Ph.D. degree in computer science from the University of Oxford, Oxford, U.K., in 1997. Between 1997 and 2006, he worked with the Naval Research Laboratory, Washington DC, where he worked on tracking and estimation in nonlinear systems and in mobile augmented reality systems. Since 2006, he has been a Member of the Computer Science Department, University College London. His research interests include user interfaces, distributed data fusion, nonlinear estimation, and simultaneous localization and mapping. - Powered by RSSHub",

@@ -63,6 +63,9 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/fav/:uid/:fid/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

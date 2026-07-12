@@ -70,6 +70,9 @@ _None_
       "target": "/people/answers/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "于咬敢的知乎回答 - Powered by RSSHub",

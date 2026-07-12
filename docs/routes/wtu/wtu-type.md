@@ -62,6 +62,9 @@ _None_
     "type": "公告类型，详见表格"
   },
   "path": "/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

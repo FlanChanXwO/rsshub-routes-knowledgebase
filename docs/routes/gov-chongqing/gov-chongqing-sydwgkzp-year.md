@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "重庆市事业单位2026年公开招聘 - Powered by RSSHub",

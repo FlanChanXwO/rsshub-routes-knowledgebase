@@ -85,6 +85,10 @@ _None_
     "id": "分类，见下表，可在对应频道页 URL 中找到，默认为 380，即每日天气提示"
   },
   "path": "/channel/:id?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",
@@ -100,8 +104,8 @@ _None_
     },
     {
       "description": "中国气象局提供权威的天气预报、气象预警、卫星云图、雷达图等专业服务产品 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:41:43.434Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\nFailed to fetch\n",
+      "errorAt": "2026-07-11T01:41:32.614Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\n",
       "id": "62458101978222592",
       "image": "https://weather.cma.cn/assets/cmalogo.png",
       "ownerUserId": null,

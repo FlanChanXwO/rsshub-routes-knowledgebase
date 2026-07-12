@@ -79,6 +79,9 @@
       "target": "/symposium/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

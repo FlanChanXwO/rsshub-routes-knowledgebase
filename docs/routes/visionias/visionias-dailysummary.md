@@ -67,6 +67,9 @@ _None_
       "target": "/dailySummary"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Get concise and efficient summaries of key articles from prominent newspapers. Our daily news digest ensures quick reading and easy understanding, helping you stay informed about important events and developments without spending hours going through full articles. Perfect for focused and timely updates. - Powered by RSSHub",

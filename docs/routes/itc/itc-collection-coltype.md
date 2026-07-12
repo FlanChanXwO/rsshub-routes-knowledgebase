@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/itc/collection/1",
-  "heat": 233,
+  "heat": 234,
   "location": "collection.ts",
   "maintainers": [
     "cnkmmk"
@@ -52,6 +52,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "OpenGithub - Github开源项目精选 - 专栏 - Powered by RSSHub",

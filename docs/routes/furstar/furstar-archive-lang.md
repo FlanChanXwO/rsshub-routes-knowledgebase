@@ -72,6 +72,9 @@ _None_
       "target": "/archive/:lang"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

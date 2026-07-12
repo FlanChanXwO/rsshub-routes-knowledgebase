@@ -62,6 +62,9 @@ _None_
     "category": "Category, see below, Today's Featured Trope by default"
   },
   "path": "/featured/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

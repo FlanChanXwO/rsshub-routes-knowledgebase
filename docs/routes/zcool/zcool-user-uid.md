@@ -76,6 +76,9 @@
       "target": "/user/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "北京设计爱好者,抖音设计中心的创作者主页,共上传26组创作,热招 投递简历ued-recruit@bytedance.com,想找北京设计爱好者,就来站酷ZCOOL. - Powered by RSSHub",

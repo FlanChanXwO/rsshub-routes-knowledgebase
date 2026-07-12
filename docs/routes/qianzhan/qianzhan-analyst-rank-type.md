@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 109,
+  "heat": 110,
   "location": "rank.ts",
   "maintainers": [
     "moke8"
@@ -75,6 +75,9 @@
       "target": "/analyst/rank"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 周排行 - Powered by RSSHub",

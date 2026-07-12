@@ -91,19 +91,11 @@ _None_
     }
   },
   "path": "/apex-news/:lang?/:type?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
-    {
-      "description": "Apex Legends 官网资讯（最新消息） - Powered by RSSHub",
-      "errorAt": "2025-10-02T17:55:45.883Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'featured')\n",
-      "id": "143374026862942208",
-      "image": "https://drop-assets.ea.com/images/F1GeiHWipvvKj7GtUVP3U/31bb122451e2dea6d14c9b497f8e09d4/apex-white-nav-logo.svg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.ea.com/zh-hant/games/apex-legends/apex-legends/news?type=news-article",
-      "title": "Apex Legends 官网资讯（最新消息）",
-      "type": "feed",
-      "url": "rsshub://ea/apex-news/zh-hant/news-article"
-    },
     {
       "description": "Apex Legends 官网资讯（游戏更新） - Powered by RSSHub",
       "errorAt": "2025-10-02T19:48:59.917Z",
@@ -115,6 +107,18 @@ _None_
       "title": "Apex Legends 官网资讯（游戏更新）",
       "type": "feed",
       "url": "rsshub://ea/apex-news/zh-hant/game-updates"
+    },
+    {
+      "description": "Apex Legends 官网资讯（最新消息） - Powered by RSSHub",
+      "errorAt": "2025-10-02T17:55:45.883Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'featured')\n",
+      "id": "143374026862942208",
+      "image": "https://drop-assets.ea.com/images/F1GeiHWipvvKj7GtUVP3U/31bb122451e2dea6d14c9b497f8e09d4/apex-white-nav-logo.svg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.ea.com/zh-hant/games/apex-legends/apex-legends/news?type=news-article",
+      "title": "Apex Legends 官网资讯（最新消息）",
+      "type": "feed",
+      "url": "rsshub://ea/apex-news/zh-hant/news-article"
     }
   ],
   "view": 0

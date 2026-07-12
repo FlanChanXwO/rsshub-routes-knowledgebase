@@ -62,6 +62,9 @@ _None_
     "category": "分类，见下表，默认为信息快递"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

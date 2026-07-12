@@ -59,6 +59,9 @@ _None_
     "listid": "文集 id, 可在专栏文集 URL 中找到"
   },
   "path": "/readlist/:listid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "bilibili 专栏文集 - Galgame - Powered by RSSHub",

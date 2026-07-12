@@ -59,6 +59,9 @@ _None_
     "user": "User ID, can be found in URL"
   },
   "path": "/user/:user",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "本業是臥底在象牙塔裡的業餘哲學人，兼人類行為觀察學家。 河道主要是哲學與科幻噗，不介意噗串被打斷，歡... - Powered by RSSHub",

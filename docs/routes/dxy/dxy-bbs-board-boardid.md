@@ -67,6 +67,9 @@ _None_
       "target": "/bbs/board/:boardIdId"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "824472 內容 1692847 关注 - Powered by RSSHub",

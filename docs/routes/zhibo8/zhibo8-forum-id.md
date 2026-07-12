@@ -59,6 +59,9 @@ _None_
     "id": "子论坛 id，可在子论坛 URL 找到"
   },
   "path": "/forum/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

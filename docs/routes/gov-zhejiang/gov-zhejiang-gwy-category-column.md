@@ -99,6 +99,9 @@
       "target": "/gwy"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "zjks.gov.cn/zjgwy/website/init.htm"
 }

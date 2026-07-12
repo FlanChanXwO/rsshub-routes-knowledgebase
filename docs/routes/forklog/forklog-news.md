@@ -54,6 +54,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Последние новости из мира блокчейна и криптовалют - Powered by RSSHub",

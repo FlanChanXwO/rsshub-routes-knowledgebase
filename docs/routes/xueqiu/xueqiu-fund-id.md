@@ -60,9 +60,12 @@ _None_
     "id": "基金代码, 可在基金主页 URL 中找到. 此路由的数据为场外基金 (`F`开头)"
   },
   "path": "/fund/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
-      "description": "基金代码 019305 <br> 今日净值(2026-07-08) ¥1.6546 <br> 日跌跌 -0.199% - Powered by RSSHub",
+      "description": "基金代码 019305 <br> 今日净值(2026-07-09) ¥1.6665 <br> 日涨跌 0.7192% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899751385970688",
@@ -74,7 +77,7 @@ _None_
       "url": "rsshub://xueqiu/fund/019305"
     },
     {
-      "description": "基金代码 017093 <br> 今日净值(2026-07-08) ¥2.7714 <br> 日涨跌 0.7342% - Powered by RSSHub",
+      "description": "基金代码 017093 <br> 今日净值(2026-07-09) ¥2.8140 <br> 日涨跌 1.5371% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899487882088448",

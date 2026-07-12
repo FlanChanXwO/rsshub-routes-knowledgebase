@@ -161,6 +161,9 @@ _None_
       "target": "/bangumi.tv/user/collections/:id/2/1"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Sai🖖想读的书籍列表 - Powered by RSSHub",

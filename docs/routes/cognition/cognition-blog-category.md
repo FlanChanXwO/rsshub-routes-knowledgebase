@@ -75,6 +75,9 @@ _None_
       "target": "/blog/:category?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Cognition builds autonomous software engineering agents - Powered by RSSHub",

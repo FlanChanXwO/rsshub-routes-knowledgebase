@@ -80,6 +80,9 @@ others = 热点新闻 + 滚动新闻
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "观察者网 - 全部 - Powered by RSSHub",

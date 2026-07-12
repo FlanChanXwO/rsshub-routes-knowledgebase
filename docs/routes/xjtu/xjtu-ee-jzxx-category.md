@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "西安交通大学电气学院通知 - 研究生 - Powered by RSSHub",

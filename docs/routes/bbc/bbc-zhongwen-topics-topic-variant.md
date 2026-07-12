@@ -70,11 +70,14 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中国 - BBC News 中文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T20:17:06.340Z",
+      "errorMessage": "[GET] \"https://www.bbc.com/zhongwen/live/czj8zrvmy4lt\": 404 Not Found\n",
       "id": "247863825203096576",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,

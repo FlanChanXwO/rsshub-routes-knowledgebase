@@ -52,6 +52,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "获取Rust语言中文社区的新闻/聚合 - Powered by RSSHub",

@@ -74,6 +74,9 @@ _None_
     "lang": "Language, `en-us`, `zh-cn`, `zh-tw`"
   },
   "path": "/:lang/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

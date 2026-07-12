@@ -66,6 +66,9 @@ _None_
     "hid": "分页id"
   },
   "path": "/mp/homepage/:biz/:hid/:cid?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "|10万＋推荐 - Powered by RSSHub",

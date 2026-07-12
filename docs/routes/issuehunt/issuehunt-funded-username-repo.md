@@ -61,6 +61,9 @@ _None_
     "username": "Github user/org"
   },
   "path": "/funded/:username/:repo",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

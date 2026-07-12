@@ -1012,6 +1012,9 @@
       "title": "校友专栏 - 常用下载"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",

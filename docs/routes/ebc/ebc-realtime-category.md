@@ -71,6 +71,9 @@ _None_
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",

@@ -62,6 +62,9 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/sis/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.sis.zju.edu.cn"
 }

@@ -77,6 +77,9 @@ _None_
     }
   },
   "path": "/acct/:acct/statuses/:only_media?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "与我周旋一二 (@normanzxy) - Powered by RSSHub",

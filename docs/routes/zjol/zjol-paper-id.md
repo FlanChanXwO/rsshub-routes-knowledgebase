@@ -62,6 +62,9 @@ _None_
     "id": "报纸 id，见下表，默认为 `zjrb`，即浙江日报"
   },
   "path": "/paper/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "浙江日报 - Powered by RSSHub",

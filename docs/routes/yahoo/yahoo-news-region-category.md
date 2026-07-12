@@ -106,6 +106,9 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Yahoo 新聞 HK - 所有類別 - Powered by RSSHub",

@@ -69,6 +69,9 @@ _None_
       "target": "/new_anime"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "動畫瘋最後更新 - Powered by RSSHub",

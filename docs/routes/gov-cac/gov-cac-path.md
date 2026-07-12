@@ -54,6 +54,9 @@ _None_
     "path": "路径，比如xxh表示信息化"
   },
   "path": "/:path{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -76,6 +76,9 @@ _None_
       "target": "/question/:questionId"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "知乎-你读过最冷门，但「含金量极高」的书是什么？ - Powered by RSSHub",

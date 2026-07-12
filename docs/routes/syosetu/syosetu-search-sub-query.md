@@ -81,6 +81,9 @@ _None_
     }
   },
   "path": "/search/:sub/:query",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Syosetu Search: ハーレム - Powered by RSSHub",

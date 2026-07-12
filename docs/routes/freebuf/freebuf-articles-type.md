@@ -73,10 +73,14 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
       ]
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "Freebuf web - Powered by RSSHub",
-      "errorAt": "2026-07-10T02:32:43.669Z",
+      "errorAt": "2026-07-10T19:55:28.034Z",
       "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
       "id": "52357479513292810",
       "image": null,

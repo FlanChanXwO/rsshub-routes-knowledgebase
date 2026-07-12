@@ -59,6 +59,9 @@ _None_
     "userid": "用户id"
   },
   "path": "/people/:userid/wish",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "豆瓣想看 - Tredici - Powered by RSSHub",

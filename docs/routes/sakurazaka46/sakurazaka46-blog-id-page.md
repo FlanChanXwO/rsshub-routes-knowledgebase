@@ -101,6 +101,9 @@ _None_
     "page": "Page, `0` by default"
   },
   "path": "/blog/:id?/:page?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "櫻坂46公式サイト - 山下 瞳月 - Powered by RSSHub",

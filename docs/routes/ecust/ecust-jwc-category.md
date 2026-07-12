@@ -62,6 +62,9 @@ _None_
     "category": "订阅板块，默认为全部订阅"
   },
   "path": "/jwc/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

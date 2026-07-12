@@ -62,11 +62,14 @@ _None_
     "type": "通知类型，默认为 `notice`"
   },
   "path": "/sem/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "学术观点 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:45:20.809Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79124130475658240",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
@@ -76,16 +79,16 @@ _None_
       "url": "rsshub://tongji/sem/academic-paper"
     },
     {
-      "description": "活动 - Powered by RSSHub",
-      "errorAt": "2026-07-09T10:20:57.288Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "79122838265601024",
+      "description": "新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79122535436852224",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
       "siteUrl": "https://sem.tongji.edu.cn/semch",
       "title": "同济大学经济与管理学院",
       "type": "feed",
-      "url": "rsshub://tongji/sem/events"
+      "url": "rsshub://tongji/sem/news"
     }
   ],
   "url": "sem.tongji.edu.cn/semch"

@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "app.daily.dev/squads/discover",
   "view": 0

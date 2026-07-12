@@ -160,6 +160,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "开源中国-软件资讯 - Powered by RSSHub",

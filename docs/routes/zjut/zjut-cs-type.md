@@ -73,6 +73,9 @@
       "target": "/cs/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "学院新闻 - 浙江工业大学计算机科学与技术学院、软件学院 - Powered by RSSHub",

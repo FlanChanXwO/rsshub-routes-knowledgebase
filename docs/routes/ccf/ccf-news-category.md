@@ -75,6 +75,9 @@
       "target": "/news/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "CCF新闻 - Powered by RSSHub",

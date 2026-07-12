@@ -73,6 +73,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Russian Politics & Diplomacy - TASS - Powered by RSSHub",

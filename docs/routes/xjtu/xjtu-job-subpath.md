@@ -64,6 +64,9 @@ _None_
     "subpath": "栏目类型，默认请求`zxgg`，详见下方表格"
   },
   "path": "/job/:subpath?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "西安交通大学学生就业创业信息网 - 中心公告 - Powered by RSSHub",

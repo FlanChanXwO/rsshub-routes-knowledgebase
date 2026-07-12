@@ -67,6 +67,9 @@ _None_
       "target": "/rankings/monthly"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Monthly rankings of the most popular JavaScript projects on Best of JS - Powered by RSSHub",

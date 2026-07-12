@@ -72,6 +72,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "央视新闻 world - Powered by RSSHub",

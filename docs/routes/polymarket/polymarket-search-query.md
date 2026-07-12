@@ -59,6 +59,9 @@ _None_
     "query": "Search query"
   },
   "path": "/search/:query",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "polymarket.com"
 }

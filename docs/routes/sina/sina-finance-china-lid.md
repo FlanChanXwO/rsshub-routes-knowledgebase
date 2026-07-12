@@ -75,6 +75,9 @@
       "target": "/finance/china"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "新浪财经－国内滚动 - Powered by RSSHub",

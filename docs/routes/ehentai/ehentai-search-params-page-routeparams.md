@@ -66,6 +66,9 @@ _None_
     "routeParams": "Additional parameters, see the table above"
   },
   "path": "/search/:params?/:page?/:routeParams?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
@@ -81,8 +84,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:42:15.543Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

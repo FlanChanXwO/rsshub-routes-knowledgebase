@@ -96,6 +96,9 @@ _None_
     "type": "multiple, `residence` | `project`"
   },
   "path": "*",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

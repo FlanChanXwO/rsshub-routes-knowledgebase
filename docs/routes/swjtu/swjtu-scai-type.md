@@ -74,6 +74,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "西南交大计院-本科生教育 - Powered by RSSHub",

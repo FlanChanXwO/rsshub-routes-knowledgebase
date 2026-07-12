@@ -73,6 +73,9 @@
       "target": "/jwc"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中国科学技术大学教务处 - 信息类通知 - Powered by RSSHub",

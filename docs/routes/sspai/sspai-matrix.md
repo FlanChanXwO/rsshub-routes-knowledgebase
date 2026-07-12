@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1352,
+  "heat": 1351,
   "location": "matrix.ts",
   "maintainers": [
     "feigaoxyz"
@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "少数派 -- Matrix - Powered by RSSHub",

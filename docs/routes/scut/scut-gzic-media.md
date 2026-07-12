@@ -59,6 +59,9 @@ _None_
   ],
   "name": "广州国际校区 - 媒体报道",
   "path": "/gzic/media",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

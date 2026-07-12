@@ -72,6 +72,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",

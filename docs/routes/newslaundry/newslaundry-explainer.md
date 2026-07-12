@@ -67,6 +67,9 @@ _None_
       "target": "/explainer"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Cheatsheet articles from Newslaundry - Powered by RSSHub",

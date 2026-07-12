@@ -69,6 +69,9 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",

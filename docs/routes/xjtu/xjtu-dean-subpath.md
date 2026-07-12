@@ -44,6 +44,9 @@ _None_
   ],
   "name": "教务处",
   "path": "/dean/:subpath{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "西安交大教务处 - 教学通知 - Powered by RSSHub",

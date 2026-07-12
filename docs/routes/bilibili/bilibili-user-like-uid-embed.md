@@ -72,6 +72,9 @@ _None_
       "target": "/user/like/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "bili_1287649879 的 bilibili 点赞视频 - Powered by RSSHub",

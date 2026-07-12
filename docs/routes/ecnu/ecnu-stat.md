@@ -56,6 +56,9 @@ _None_
       "target": "/stat"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

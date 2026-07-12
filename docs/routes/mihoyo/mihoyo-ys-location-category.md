@@ -77,6 +77,9 @@
       "target": "/ys/:location"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "原神 - 最新 - Powered by RSSHub",

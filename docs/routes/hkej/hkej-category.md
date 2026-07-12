@@ -71,11 +71,15 @@
       ]
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
       "errorAt": "2026-07-08T10:57:11.137Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/international/article/4454423\": 429 Too Many Requests\n[GET] \"https://www2.hkej.com/instantnews/international/article/4454415\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/international/article/4455479\": 429 Too Many Requests\nFailed to fetch\n",
       "id": "69975396806332416",
       "image": null,
       "ownerUserId": null,

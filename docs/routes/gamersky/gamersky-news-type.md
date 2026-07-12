@@ -73,6 +73,9 @@
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "今日推荐 - 游民星空 - Powered by RSSHub",

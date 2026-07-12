@@ -71,6 +71,9 @@
       "target": "/novel/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "知轩藏书 - 近期更新 - Powered by RSSHub",

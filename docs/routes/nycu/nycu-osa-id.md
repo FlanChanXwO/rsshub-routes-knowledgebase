@@ -58,6 +58,9 @@ _None_
     "id": "id, see below"
   },
   "path": "/osa/:id?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

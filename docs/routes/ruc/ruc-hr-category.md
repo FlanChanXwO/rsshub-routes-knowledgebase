@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "hr.ruc.edu.cn/"
 }

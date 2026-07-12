@@ -69,6 +69,9 @@ _None_
       "target": "/blog"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Zed Industries - Blog - Powered by RSSHub",

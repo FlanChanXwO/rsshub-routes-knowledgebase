@@ -76,6 +76,9 @@ _None_
     "type": "分类 id 见下表"
   },
   "path": "/bmie/:type",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

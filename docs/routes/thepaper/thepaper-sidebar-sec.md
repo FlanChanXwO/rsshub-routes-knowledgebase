@@ -77,6 +77,9 @@ _None_
       "target": "/sidebar"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",

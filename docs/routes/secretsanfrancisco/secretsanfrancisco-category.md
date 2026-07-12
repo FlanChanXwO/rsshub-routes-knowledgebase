@@ -70,6 +70,9 @@ _None_
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Secret San Francisco - Powered by RSSHub",

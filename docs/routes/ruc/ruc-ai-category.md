@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "学院公告_中国人民大学高瓴人工智能学院 - Powered by RSSHub",

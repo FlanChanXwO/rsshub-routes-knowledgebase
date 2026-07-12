@@ -85,6 +85,9 @@
       "target": "/user_bookmarks/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "weibo.com/"
 }

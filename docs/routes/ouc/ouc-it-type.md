@@ -74,6 +74,9 @@
       "target": "/it"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "it.ouc.edu.cn/"
 }

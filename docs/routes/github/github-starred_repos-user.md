@@ -64,6 +64,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "rcy1314's starred repositories - Powered by RSSHub",

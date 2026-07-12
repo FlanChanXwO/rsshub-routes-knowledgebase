@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 93,
   "location": "subject.ts",
   "maintainers": [
     "xyqfer"
@@ -59,6 +59,9 @@ _None_
     "id": "主题 id"
   },
   "path": "/subject/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "喷嚏-184 - Powered by RSSHub",

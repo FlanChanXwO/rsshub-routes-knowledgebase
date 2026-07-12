@@ -63,6 +63,9 @@ _None_
     "seasonNumber": "Season number"
   },
   "path": "/tv/:id/seasons/:seasonNumber/episodes/:lang?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

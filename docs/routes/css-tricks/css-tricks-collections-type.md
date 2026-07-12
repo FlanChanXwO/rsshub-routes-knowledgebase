@@ -86,6 +86,9 @@ _None_
       "target": "/collections/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Properties, selectors, rules, and functions! - Powered by RSSHub",

@@ -66,6 +66,9 @@ _None_
     "tag": "Tag"
   },
   "path": "/tag/:tag/:page?/:routeParams?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",

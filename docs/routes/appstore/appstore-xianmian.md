@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "鲜面连线 by AppSo：每日精品限免 / 促销应用 - Powered by RSSHub",

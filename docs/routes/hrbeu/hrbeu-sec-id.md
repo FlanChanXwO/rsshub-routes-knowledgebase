@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "船舶工程学院 - 通知公告 - Powered by RSSHub",

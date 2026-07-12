@@ -59,6 +59,9 @@ _None_
     "channel": "子頻道 ID，可在 URL 中找到"
   },
   "path": "/sub/:channel",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

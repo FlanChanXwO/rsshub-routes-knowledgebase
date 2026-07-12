@@ -59,11 +59,14 @@ _None_
     "query": "链接参数，对应网址问号后的内容"
   },
   "path": "/search/:query?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "逛丢 - 今日必买 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:52:41.477Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "141468238742304768",
       "image": null,
       "ownerUserId": null,

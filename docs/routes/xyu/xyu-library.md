@@ -67,6 +67,9 @@ _None_
       "target": "/library"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "lib.xyc.edu.cn/index/tzgg.htm"
 }

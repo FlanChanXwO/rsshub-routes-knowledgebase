@@ -57,6 +57,9 @@ _None_
   "name": "博客",
   "parameters": {},
   "path": "/blog",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "博客 | 支流科技 - Powered by RSSHub",

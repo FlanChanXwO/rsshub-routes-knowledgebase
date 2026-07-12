@@ -71,6 +71,9 @@ _None_
       "target": "/archive"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Quanta Magazine - Powered by RSSHub",

@@ -56,6 +56,9 @@ _None_
       "target": "/chinese"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

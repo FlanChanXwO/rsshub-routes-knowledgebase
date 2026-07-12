@@ -62,6 +62,9 @@ _None_
     "type": "类型"
   },
   "path": "/cse/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

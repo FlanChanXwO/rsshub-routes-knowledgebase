@@ -65,6 +65,9 @@ _None_
     "uid": "在个人界面右上分享-复制链接获取"
   },
   "path": "/user/:uid/dynamic",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "酷安个人动态-那片梧桐那场雨 - Powered by RSSHub",

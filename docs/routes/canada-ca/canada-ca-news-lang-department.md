@@ -115,6 +115,9 @@ News from specific Canadian government departments
       "target": "/news/:lang"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

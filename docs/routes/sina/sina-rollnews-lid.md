@@ -62,11 +62,14 @@ _None_
     "lid": "分区 id，可在 URL 中找到，默认为 `2509`"
   },
   "path": "/rollnews/:lid?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-09T20:18:29.620Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67473482043971584",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +80,8 @@ _None_
     },
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:37:23.103Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 86770785762500608",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86770785762500608",
       "image": null,
       "ownerUserId": null,

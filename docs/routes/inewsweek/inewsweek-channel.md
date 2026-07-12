@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 402,
+  "heat": 403,
   "location": "index.ts",
   "maintainers": [
     "changren-wcr"
@@ -75,6 +75,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中国新闻周刊--调查 - Powered by RSSHub",

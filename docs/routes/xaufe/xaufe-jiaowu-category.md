@@ -62,6 +62,9 @@ _None_
     "category": "分类，默认为通知公告"
   },
   "path": "/jiaowu/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "通知公告-西安财经大学 教务处（招生办公室） - Powered by RSSHub",

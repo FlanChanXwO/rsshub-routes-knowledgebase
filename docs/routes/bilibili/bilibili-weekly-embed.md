@@ -60,6 +60,9 @@ _None_
     "embed": "默认为开启内嵌视频, 任意值为关闭"
   },
   "path": "/weekly/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "B站每周必看 - Powered by RSSHub",

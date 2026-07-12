@@ -56,6 +56,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "游戏情报|Gamekee - Powered by RSSHub",

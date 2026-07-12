@@ -69,11 +69,15 @@ _None_
       "target": "/case_library"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected -171905640769902 to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "广告门案例库专注于展示广告营销领域和泛营销行业的优秀案例，和行业奖项如：金瞳奖、戛纳等的获奖案例。案例多配有解读和分析，帮您更好的理解市场动态 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:38:06.651Z",
-      "errorMessage": "[GET] \"https://www.adquan.com/case_library/index\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "136638184266081280",
       "image": "https://oss.adquan.com/img_pc/navigation/hongbai.svg",
       "ownerUserId": null,

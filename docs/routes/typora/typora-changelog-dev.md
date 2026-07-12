@@ -68,6 +68,9 @@ _None_
       "target": "/changelog"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "support.typora.io/"
 }

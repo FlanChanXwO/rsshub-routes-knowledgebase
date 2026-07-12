@@ -86,6 +86,9 @@
       "target": "/topic/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "梦想协奏曲！少女乐团派对！ - undefined - TapTap 论坛 - Powered by RSSHub",

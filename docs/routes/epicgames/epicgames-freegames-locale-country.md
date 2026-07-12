@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 45333,
+  "heat": 45312,
   "location": "index.tsx",
   "maintainers": [
     "DIYgod",
@@ -84,6 +84,9 @@ _None_
       "target": "/freegames/:locale"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Epic Games Store - Free Games - Powered by RSSHub",

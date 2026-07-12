@@ -60,6 +60,9 @@ _None_
     "kind": "Platform, either `macos` or `ios`, empty means both (default)"
   },
   "path": "/:kind?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "GoFans：最新限免 / 促销应用 - Powered by RSSHub",

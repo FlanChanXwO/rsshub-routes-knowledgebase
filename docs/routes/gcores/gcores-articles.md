@@ -69,6 +69,9 @@ _None_
       "target": "/gcores/articles"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "阅读机核作者与社区创作者关于游戏、文化、科技与生活方式的深度文章。 - Powered by RSSHub",

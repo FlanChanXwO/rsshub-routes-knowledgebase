@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 391139,
+  "heat": 391083,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -92,6 +92,9 @@
       "target": "/user/:username"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Andrej Karpathy - YouTube - Powered by RSSHub",

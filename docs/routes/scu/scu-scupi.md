@@ -58,11 +58,14 @@ _None_
   "name": "匹兹堡学院通知",
   "parameters": {},
   "path": "/scupi",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "四川大学匹兹堡学院官网通知 - Powered by RSSHub",
       "errorAt": "2026-07-06T10:18:01.330Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cache key must be a string\n",
       "id": "78952053268102144",
       "image": "https://upload.wikimedia.org/wikipedia/zh/4/45/Sichuan_University_logo.svg",
       "ownerUserId": null,

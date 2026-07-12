@@ -73,6 +73,9 @@ _None_
     "username": "Misskey username in the format of username@instance.domain"
   },
   "path": "/users/notes/:username/:routeParams?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "User timeline for umebachi@misskey.io on misskey.io - Powered by RSSHub",

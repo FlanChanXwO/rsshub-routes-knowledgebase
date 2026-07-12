@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 热门推荐 - Powered by RSSHub",

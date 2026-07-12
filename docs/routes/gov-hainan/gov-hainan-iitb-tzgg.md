@@ -43,6 +43,9 @@ _None_
   ],
   "name": "通知公告",
   "path": "/iitb/tzgg",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "iitb.hainan.gov.cn/iitb/tzgg/list2.shtml"
 }

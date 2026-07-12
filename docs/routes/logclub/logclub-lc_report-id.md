@@ -65,6 +65,9 @@ _None_
     "/lc_report/:id?",
     "/report/:id?"
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "罗戈网（www.logclub.com）-物流商业伙伴, - Powered by RSSHub",

@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2056,
+  "heat": 2057,
   "location": "cn/index.ts",
   "maintainers": [
     "laampui"
@@ -152,6 +152,9 @@ _None_
     }
   },
   "path": "/cn/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Insights – McKinsey Greater China - Powered by RSSHub",

@@ -73,6 +73,9 @@
       "target": "/gk/sgcc/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "调查报告 - Powered by RSSHub",

@@ -62,6 +62,9 @@ _None_
     "id": "分类，见下表，默认为通知公告"
   },
   "path": "/kjt/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

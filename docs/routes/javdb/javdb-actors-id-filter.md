@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4886,
+  "heat": 4887,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -88,6 +88,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "桃乃木香奈 - JavDB - Powered by RSSHub",

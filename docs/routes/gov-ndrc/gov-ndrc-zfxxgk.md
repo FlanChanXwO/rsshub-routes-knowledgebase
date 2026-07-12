@@ -71,6 +71,9 @@ _None_
       "target": "/zfxxgk"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "国家发展改革委按目录发布本机关或相关的政府信息公开事项 - Powered by RSSHub",

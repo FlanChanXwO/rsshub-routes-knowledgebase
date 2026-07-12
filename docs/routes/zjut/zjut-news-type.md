@@ -72,6 +72,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.news.zjut.edu.cn"
 }

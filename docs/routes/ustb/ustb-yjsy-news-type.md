@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "北京科技大学研究生院 - Powered by RSSHub",

@@ -211,22 +211,26 @@ _None_
       "target": "/users/:username/cn"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected [ …(8) ] to not include 'https://www.pornhub.com/view_video.ph…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:91:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
-      "description": "The Pornhub Model Program has over 165,000 models currently! We're highlighting some of the best, most interesting and newsworthy of the community. This channel will feature the marketing campaigns featuring our models, the top videos, fan clubs and creators of the month and other news and development from Pornhub. Managed by @aurora-watson @pornhubnat Follow us on Twitter: @pornhubhelp @pornhubmodels @modelhub @phmodelsgay Follow us on Instagram: @modelprogram - Powered by RSSHub",
+      "description": " - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "60209777936441344",
       "image": "https://ei.phncdn.com/pics/users/u/001/753/486/121/avatar1591208557/(m=ewILGCjadOf)(mh=gqWx0YkWIk1VyZK8)200x200.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.pornhub.com/users/pornhubmodels/videos",
-      "title": "PornhubModels",
+      "title": "RSSHub",
       "type": "feed",
       "url": "rsshub://pornhub/users/pornhubmodels"
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-07-10T02:17:19.349Z",
+      "errorAt": "2026-07-11T02:49:29.268Z",
       "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 404 Not Found\n",
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",

@@ -108,6 +108,9 @@ _None_
       "target": "/latest/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Friendly tutorials for developers. Focus on React, CSS, Animation, and more! - Powered by RSSHub",

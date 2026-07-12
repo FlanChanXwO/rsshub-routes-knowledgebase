@@ -84,6 +84,9 @@
       "target": "/offer"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "录取结果 - 一亩三分地 - Powered by RSSHub",

@@ -70,6 +70,9 @@ _None_
       "target": "/jwc/:channel"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

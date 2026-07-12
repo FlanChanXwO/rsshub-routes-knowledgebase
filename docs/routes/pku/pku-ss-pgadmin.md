@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "北京大学软件与微电子学院 - 硕士统考招生通知 - Powered by RSSHub",

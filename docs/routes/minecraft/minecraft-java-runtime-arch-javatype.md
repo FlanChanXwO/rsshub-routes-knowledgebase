@@ -90,6 +90,9 @@ javaType:
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Minecraft Java运行时 - Powered by RSSHub",

@@ -62,6 +62,9 @@ _None_
     "category": "分类，见下表，默认为资讯首页"
   },
   "path": "/news/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

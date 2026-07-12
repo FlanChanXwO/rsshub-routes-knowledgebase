@@ -61,6 +61,9 @@ _None_
     "staffpicks": "type `staffpicks` to sort with staffpicks"
   },
   "path": "/category/:category/:staffpicks?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Watch documentaries online, including films and videos featuring true stories, character and artist profiles, and more. - Powered by RSSHub",

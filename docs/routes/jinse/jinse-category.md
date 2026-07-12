@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 214,
+  "heat": 212,
   "location": "catalogue.ts",
   "maintainers": [
     "nczitzk",
@@ -67,11 +67,15 @@ _None_
     "category": "分类，见下表，默认为政策"
   },
   "path": "/:category?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "undefined - 研报 - Powered by RSSHub",
       "errorAt": "2026-05-12T16:51:00.404Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3735423.html\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3735515.html\": <no response> fetch failed\n",
       "id": "67468126492383233",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

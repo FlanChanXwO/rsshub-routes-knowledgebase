@@ -69,6 +69,9 @@ _None_
       "target": "/jwc"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "南开大学教务处-通知公告 - Powered by RSSHub",

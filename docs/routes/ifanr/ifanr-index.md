@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 538,
+  "heat": 539,
   "location": "index.ts",
   "maintainers": [
     "donghongfei"
@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "爱范儿首页 - Powered by RSSHub",

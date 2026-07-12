@@ -93,6 +93,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "關鍵字 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",

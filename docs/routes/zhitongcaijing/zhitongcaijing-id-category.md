@@ -77,11 +77,14 @@ _None_
     "id": "栏目 id，可在对应栏目页 URL 中找到，默认为 recommend，即推荐"
   },
   "path": "/:id?/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-06-28T03:42:52.637Z",
-      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\nFailed to fetch\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\nAuthentication failed. Access denied.\n/zhitongcaijing\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,

@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5511,
+  "heat": 5514,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -126,6 +126,9 @@ _None_
     }
   },
   "path": "/:site?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Bloomberg - News - Powered by RSSHub",

@@ -59,6 +59,9 @@ _None_
       "target": "/topic/:topic/:language"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "vice.com/"
 }

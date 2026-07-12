@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5456,
+  "heat": 5458,
   "location": "trending.ts",
   "maintainers": [
     "moaix"
@@ -128,6 +128,9 @@ _None_
     }
   },
   "path": "/trending/:category/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "掘金本周最热 - Powered by RSSHub",

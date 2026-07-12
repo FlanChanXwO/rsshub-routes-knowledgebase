@@ -75,6 +75,9 @@
       "target": "/finance/stock/usstock"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",

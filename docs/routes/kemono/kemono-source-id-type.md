@@ -134,11 +134,14 @@ Support for announcements and fancards:
       "target": "/discord/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T02:47:01.520Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59871541870611456",
       "id": "59871541870611456",
       "image": "https://kemono.cr/favicon.ico",
       "ownerUserId": null,

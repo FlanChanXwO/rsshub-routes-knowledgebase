@@ -117,6 +117,9 @@ You have the option to utilize the main heading or use individual categories as 
       "target": "/:topic"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Application-development Articles on aListApart.com - Powered by RSSHub",

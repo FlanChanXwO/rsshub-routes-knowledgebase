@@ -87,6 +87,9 @@ Categories:
       "target": "/news/:lang"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.xjtlu.edu.cn/en/news"
 }

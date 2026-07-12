@@ -104,6 +104,9 @@
       "target": "/"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "线板酷-最新 - Powered by RSSHub",

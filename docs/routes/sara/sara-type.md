@@ -62,6 +62,9 @@ _None_
     "type": "dynamic | announcement | industry"
   },
   "path": "/:type",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",

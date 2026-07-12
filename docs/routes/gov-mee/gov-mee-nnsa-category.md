@@ -422,6 +422,9 @@
       "title": "业务工作 - 国际合作"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "nnsa.mee.gov.cn",
   "view": 0

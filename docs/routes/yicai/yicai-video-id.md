@@ -109,6 +109,9 @@
       "target": "/video/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "第一财经 - 谈股论金 - Powered by RSSHub",

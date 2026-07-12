@@ -84,6 +84,10 @@
       "target": "/current/:journal"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": null,
@@ -99,15 +103,15 @@
     },
     {
       "description": null,
-      "errorAt": "2026-06-30T06:04:23.334Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/sciadv/current\": 403 Forbidden\n",
-      "id": "1178645011650969612",
+      "errorAt": "2026-06-30T06:04:27.355Z",
+      "errorMessage": "[GET] \"https://www.science.org/toc/scirobotics/current\": 403 Forbidden\n",
+      "id": "1178645011650969614",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://science/current/sciadv"
+      "url": "rsshub://science/current/scirobotics"
     }
   ]
 }

@@ -71,6 +71,9 @@ MSN News
       "target": "/:market/:name/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Bloomberg - Powered by RSSHub",

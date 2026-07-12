@@ -73,6 +73,9 @@
       "target": "/epaper/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "厦门日报电子版_厦门网 - Powered by RSSHub",

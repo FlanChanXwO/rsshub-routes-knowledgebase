@@ -132,6 +132,9 @@ _None_
       "target": "/blog/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "BaseLang Blog - Powered by RSSHub",

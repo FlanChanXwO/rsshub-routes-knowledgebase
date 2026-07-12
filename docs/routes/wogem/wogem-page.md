@@ -47,6 +47,9 @@ _None_
     "page": "Page name, e.g. `angebote` for `angebote.php. Defaults to `angebote`"
   },
   "path": "/:page?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

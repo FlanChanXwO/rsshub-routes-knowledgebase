@@ -62,6 +62,9 @@ _None_
     "type": "默认为 `0`"
   },
   "path": "/epe/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

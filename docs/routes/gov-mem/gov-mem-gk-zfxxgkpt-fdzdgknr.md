@@ -69,6 +69,9 @@ _None_
       "target": "/gk/zfxxgkpt/fdzdgknr"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "法定主动公开内容 - Powered by RSSHub",

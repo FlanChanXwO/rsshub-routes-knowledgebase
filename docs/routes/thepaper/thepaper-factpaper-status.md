@@ -70,6 +70,9 @@ _None_
       "target": "/factpaper/:status"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "澎湃明查 - 有定论 - Powered by RSSHub",

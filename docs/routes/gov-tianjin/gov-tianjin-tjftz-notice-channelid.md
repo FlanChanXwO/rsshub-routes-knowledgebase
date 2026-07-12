@@ -60,6 +60,9 @@ _None_
       "target": "/tjftz-notice/:channelId"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "tjftz.gov.cn"
 }

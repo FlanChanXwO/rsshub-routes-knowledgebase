@@ -75,6 +75,9 @@
       "target": "/cc/:type?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "南开大学计算机学院-科研信息 - Powered by RSSHub",

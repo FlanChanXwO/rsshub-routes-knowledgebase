@@ -341,6 +341,10 @@
       "title": "操作系统 - WinPE"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "423Down - Powered by RSSHub",
@@ -356,8 +360,8 @@
     },
     {
       "description": "安卓软件下载_Android应用APK下载 (破解版/去广告/纯净版) - 423Down - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-10T23:02:07.654Z",
+      "errorMessage": "[GET] \"https://www.423down.com/apk\": <no response> fetch failed\n",
       "id": "68887846273620992",
       "image": "https://www.423down.com/wp-content/themes/D7/img/423Down.png",
       "ownerUserId": null,

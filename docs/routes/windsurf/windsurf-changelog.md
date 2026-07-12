@@ -69,6 +69,9 @@ _None_
       "target": "/changelog"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Release notes for Devin Desktop (Windsurf). - Powered by RSSHub",

@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 31,
+  "heat": 30,
   "location": "stock-info.ts",
   "maintainers": [
     "YuYang"
@@ -77,6 +77,9 @@
       "target": "/stock_info/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "兆易创新 - 资讯 - Powered by RSSHub",

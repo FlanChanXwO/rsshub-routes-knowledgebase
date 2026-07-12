@@ -44,7 +44,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1169,
+  "heat": 1167,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -65,6 +65,9 @@ _None_
       "target": "/:id/:type?/:keyword?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "禁忌书屋 cool18 酷18 - Powered by RSSHub",

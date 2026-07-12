@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "旅法师营地 - 首页资讯（旧版） - Powered by RSSHub",

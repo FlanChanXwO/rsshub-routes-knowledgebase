@@ -71,6 +71,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "bbs.pku.edu.cn/v2/hot-topic.php"
 }

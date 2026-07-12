@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "勉強中なので色々教えてくださいっ！🐥 - Powered by RSSHub",

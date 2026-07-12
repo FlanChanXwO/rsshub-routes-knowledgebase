@@ -62,6 +62,9 @@ _None_
     "cate": "blog by default"
   },
   "path": "/:cate?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "CNCF - Blog - Powered by RSSHub",

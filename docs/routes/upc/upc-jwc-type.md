@@ -75,6 +75,9 @@
       "target": "/jwc/:type?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "通知公告-教务处通知-中国石油大学（华东） - Powered by RSSHub",

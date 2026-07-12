@@ -64,6 +64,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",

@@ -67,7 +67,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 414,
+  "heat": 413,
   "location": "hot.ts",
   "maintainers": [
     "xizeyoupan"
@@ -78,6 +78,9 @@ _None_
     "type": "默认为`jrrm`"
   },
   "path": "/hot/:type?/:period?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "热榜-今日热门 - Powered by RSSHub",

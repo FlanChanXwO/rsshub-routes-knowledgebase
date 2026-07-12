@@ -104,7 +104,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5093,
+  "heat": 5092,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -128,8 +128,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter Keyword - AI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T02:46:48.544Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 53226580778291200",
       "id": "53226580778291200",
       "image": null,
       "ownerUserId": null,

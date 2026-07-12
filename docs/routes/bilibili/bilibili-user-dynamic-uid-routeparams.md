@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22022,
+  "heat": 22018,
   "location": "dynamic.ts",
   "maintainers": [
     "DIYgod",
@@ -91,6 +91,9 @@ _None_
       "target": "/user/dynamic/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "影视飓风 的 bilibili 动态 - Powered by RSSHub",

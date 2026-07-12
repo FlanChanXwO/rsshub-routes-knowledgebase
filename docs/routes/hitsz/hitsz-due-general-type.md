@@ -123,6 +123,9 @@
       "target": "/hitsz/due/general"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "due.hitsz.edu.cn"
 }

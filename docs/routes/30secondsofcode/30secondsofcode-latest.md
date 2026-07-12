@@ -67,6 +67,9 @@ _None_
       "target": "/latest"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Discover short code snippets for all your development needs. - Powered by RSSHub",

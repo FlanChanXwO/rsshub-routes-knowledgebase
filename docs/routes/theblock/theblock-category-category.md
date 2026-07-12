@@ -71,6 +71,9 @@ Get latest news from TheBlock by category. Note that due to website limitations,
       "target": "/category/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Latest articles from TheBlock in the crypto-ecosystems category - Powered by RSSHub",

@@ -71,6 +71,9 @@ _None_
     "id": "编号，见下表，默认为通知公告"
   },
   "path": "/2yuan/news/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1815,
+  "heat": 1817,
   "location": "blog.ts",
   "maintainers": [
     "Lyunvy"
@@ -62,6 +62,9 @@ _None_
     "label": "按名称分类，详见https://blog.xbookcn.net/p/all.html"
   },
   "path": "/:label?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "xbookcn - Powered by RSSHub",

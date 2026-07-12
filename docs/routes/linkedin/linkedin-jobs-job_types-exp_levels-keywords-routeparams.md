@@ -117,6 +117,9 @@ For example:
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "This feed gets LinkedIn job posts - Powered by RSSHub",

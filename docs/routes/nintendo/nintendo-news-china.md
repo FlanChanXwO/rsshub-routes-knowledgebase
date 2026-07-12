@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Nintendo 中国大陆官网刊登的资讯 - Powered by RSSHub",

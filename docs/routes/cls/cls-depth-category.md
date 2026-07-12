@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3624,
+  "heat": 3628,
   "location": "depth.ts",
   "maintainers": [
     "nczitzk"
@@ -63,6 +63,9 @@ _None_
     "category": "分类代码，可在首页导航栏的目标网址 URL 中找到"
   },
   "path": "/depth/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
@@ -78,8 +81,8 @@ _None_
     },
     {
       "description": "财联社 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:36:35.317Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 84970828729518080",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84970828729518080",
       "image": null,
       "ownerUserId": null,

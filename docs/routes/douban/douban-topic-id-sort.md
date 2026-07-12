@@ -63,6 +63,10 @@ _None_
     "sort": "排序方式，hot或new，默认为new"
   },
   "path": "/topic/:id/:sort?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "48823-豆瓣话题 - Powered by RSSHub",
@@ -77,14 +81,14 @@ _None_
       "url": "rsshub://douban/topic/48823"
     },
     {
-      "description": "3379063-豆瓣话题 - Powered by RSSHub",
+      "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.douban.com/gallery/topic/3379063/?sort=new",
-      "title": "3379063-豆瓣话题",
+      "title": "收集一切触动过你的评论-豆瓣话题",
       "type": "feed",
       "url": "rsshub://douban/topic/3379063"
     }

@@ -81,6 +81,9 @@
       "target": "/home/:column?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "聚美丽 - 首页资讯 - Powered by RSSHub",

@@ -54,6 +54,9 @@ _None_
       "target": "/most-viewed"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Check out the most talked-about articles among our readers! Most Viewed - Powered by RSSHub",

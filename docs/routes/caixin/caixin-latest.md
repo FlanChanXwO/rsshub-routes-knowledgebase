@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13945,
+  "heat": 13946,
   "location": "latest.ts",
   "maintainers": [
     "tpnonthealps"
@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "财新网 - 最新文章 - Powered by RSSHub",

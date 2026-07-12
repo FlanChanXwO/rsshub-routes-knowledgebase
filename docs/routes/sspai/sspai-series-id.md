@@ -72,6 +72,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "给知识工作者的 Notion 终极指南 - 少数派 - Powered by RSSHub",

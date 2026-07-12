@@ -59,6 +59,9 @@ _None_
     "specialId": "专题 ID，可在对应专题页 URL 中找到"
   },
   "path": "/bbs/special/:specialId",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "汇集用药争议及药物不良反应讨论 11 內容 13297 关注 - Powered by RSSHub",

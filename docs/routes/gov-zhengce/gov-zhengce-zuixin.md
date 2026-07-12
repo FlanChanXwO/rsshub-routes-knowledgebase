@@ -56,6 +56,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中共中央和国务院最近发布的政策 - Powered by RSSHub",

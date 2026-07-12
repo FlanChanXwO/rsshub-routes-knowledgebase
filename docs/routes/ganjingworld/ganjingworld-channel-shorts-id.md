@@ -70,6 +70,9 @@ _None_
       "target": "/channel/shorts/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.ganjingworld.com"
 }

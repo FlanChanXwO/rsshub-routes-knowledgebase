@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中华人民共和国司法部 - 立法意见征集 - Powered by RSSHub",

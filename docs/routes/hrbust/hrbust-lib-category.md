@@ -85,6 +85,9 @@
       "target": "/lib"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "公告消息 - 哈尔滨理工大学图书馆 - Powered by RSSHub",

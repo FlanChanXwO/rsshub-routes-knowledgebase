@@ -56,6 +56,9 @@ _None_
   ],
   "name": "通知公告",
   "path": "/announcement",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

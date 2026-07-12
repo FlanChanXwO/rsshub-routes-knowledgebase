@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 5,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -62,6 +62,9 @@ _None_
     "category": "N"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "交易通知_华商储备商品管理中心有限公司 - Powered by RSSHub",

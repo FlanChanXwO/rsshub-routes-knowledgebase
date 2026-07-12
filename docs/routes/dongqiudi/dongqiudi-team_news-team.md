@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "曼联 - 相关新闻 - Powered by RSSHub",

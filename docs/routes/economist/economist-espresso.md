@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2165,
+  "heat": 2166,
   "location": "espresso.ts",
   "maintainers": [
     "TonyRL"
@@ -69,6 +69,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Catch up quickly on the global stories that matter - Powered by RSSHub",

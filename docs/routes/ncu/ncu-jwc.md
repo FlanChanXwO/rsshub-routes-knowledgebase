@@ -69,6 +69,9 @@ _None_
       "target": "/jwc"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "南昌大学教务处通知公告 - Powered by RSSHub",

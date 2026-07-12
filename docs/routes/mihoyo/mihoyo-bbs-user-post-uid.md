@@ -59,30 +59,33 @@ _None_
     "uid": "用户uid"
   },
   "path": "/bbs/user-post/:uid",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "164612226252672000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=82959572",
+      "title": "米游社 - MRYU 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/82959572"
     },
     {
-      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 林之猫 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "169381097732121600",
+      "id": "198687585944910848",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
-      "title": "米游社 - 初代 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=13278059",
+      "title": "米游社 - 林之猫 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76089447"
+      "url": "rsshub://mihoyo/bbs/user-post/13278059"
     }
   ]
 }

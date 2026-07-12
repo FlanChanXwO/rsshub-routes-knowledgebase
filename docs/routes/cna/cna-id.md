@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 453,
+  "heat": 454,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -62,11 +62,14 @@ _None_
     "id": "分类 id 或新闻专题 id。分类 id 见下表，新闻专题 id 為 https://www.cna.com.tw/list/newstopic.aspx 中，連結的數字部份。此參數默认为 aall"
   },
   "path": "/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中央社即時報導國際、財經、科技、醫藥、生活、運動、教育、政治、影劇、社會、地方即時新聞，提供Facebook、Google+社群討論、分享功能。 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:38:19.400Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61601757267858432",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61601757267858432",
       "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
       "ownerUserId": null,

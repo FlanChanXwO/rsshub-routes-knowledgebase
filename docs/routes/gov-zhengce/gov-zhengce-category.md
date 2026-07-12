@@ -73,6 +73,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中国政府网政策与法主栏目下解读国务院法规,政策,部门规章等有关文件的栏目页 - Powered by RSSHub",

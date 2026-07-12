@@ -71,6 +71,9 @@ _None_
       "target": "/jyt/tzgg"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "贵州省教育厅门户网站通知公告 - Powered by RSSHub",

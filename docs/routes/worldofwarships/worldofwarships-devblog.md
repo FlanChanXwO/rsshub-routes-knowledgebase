@@ -67,6 +67,9 @@ _None_
       "target": "/devblog"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "World of Warships - Development Blog - Powered by RSSHub",

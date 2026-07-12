@@ -64,6 +64,9 @@ _None_
     "period": "Time frame"
   },
   "path": "/seminars/:period",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

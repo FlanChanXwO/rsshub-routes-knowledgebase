@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 882,
+  "heat": 883,
   "location": "article.ts",
   "maintainers": [
     "lengthmin",
@@ -70,6 +70,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 图文 - Powered by RSSHub",

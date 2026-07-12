@@ -66,6 +66,9 @@ _None_
     "category": "分类，见下表，默认为玄幻魔法"
   },
   "path": "/class/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "DropCatch.com - Powered by RSSHub",

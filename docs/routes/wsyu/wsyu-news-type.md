@@ -62,6 +62,9 @@ _None_
     "type": "分类，默认为 `xxyw`"
   },
   "path": "/news/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

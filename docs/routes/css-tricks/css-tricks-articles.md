@@ -67,6 +67,9 @@ _None_
       "target": "/articles"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Latest Articles - CSS-Tricks - Powered by RSSHub",

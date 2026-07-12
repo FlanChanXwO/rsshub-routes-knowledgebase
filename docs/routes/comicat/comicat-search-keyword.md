@@ -59,6 +59,9 @@ _None_
     "keyword": "关键词，请用`+`号连接"
   },
   "path": "/search/:keyword",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": null,

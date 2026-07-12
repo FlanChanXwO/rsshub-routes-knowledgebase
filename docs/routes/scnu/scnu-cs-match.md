@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "华南师范大学计算机学院 学科竞赛 - Powered by RSSHub",

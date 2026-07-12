@@ -66,6 +66,9 @@ _None_
     "id": "直播 id，可在对应点播页面的 URL 中找到"
   },
   "path": "/zhibo/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "云听 - 新闻和报纸摘要 - Powered by RSSHub",

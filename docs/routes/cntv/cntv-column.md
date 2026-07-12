@@ -79,6 +79,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "新闻联播 栏目的视频更新 - Powered by RSSHub",

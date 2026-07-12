@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Announcement list from Binance message center with language and type selection.",
   "example": "/binance/announcement/new-cryptocurrency-listing",
-  "heat": 1726,
+  "heat": 1727,
   "location": "announcement.ts",
   "maintainers": [
     "enpitsulin",
@@ -116,6 +116,9 @@ _None_
       "target": "/binance/announcement/all/:lang"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
@@ -131,8 +134,8 @@ _None_
     },
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:42:18.003Z",
-      "errorMessage": "Unexpected end of JSON input\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56573138387473408",
       "image": null,
       "ownerUserId": null,

@@ -77,6 +77,9 @@ To subscribe to [Apps](https://scoop.sh/#/apps?s=2\&d=1\&n=true\&dm=true\&o=true
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Scoop - Apps - Powered by RSSHub",

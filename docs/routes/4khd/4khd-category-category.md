@@ -72,6 +72,9 @@ _None_
       "target": "/category/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "4KHD - Category: popular - Powered by RSSHub",

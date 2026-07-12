@@ -57,6 +57,9 @@ _None_
   "name": "文件公示",
   "parameters": {},
   "path": "/wjgs",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "文件公示 - 中华人民共和国工业和信息化部 - Powered by RSSHub",

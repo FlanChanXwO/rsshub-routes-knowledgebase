@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "hrss.sz.gov.cn/*"
 }

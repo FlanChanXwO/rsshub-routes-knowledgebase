@@ -63,6 +63,9 @@ _None_
     "category": "专栏类型"
   },
   "path": "/category/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "游研社-推游 - Powered by RSSHub",

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5634,
+  "heat": 5636,
   "location": "search.ts",
   "maintainers": [
     "nczitzk"
@@ -64,6 +64,9 @@ _None_
     "keyword": "keyword"
   },
   "path": "/search/:keyword/:img?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Pornhub - 国产 - Powered by RSSHub",

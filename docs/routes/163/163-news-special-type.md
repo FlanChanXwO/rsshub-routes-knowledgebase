@@ -62,6 +62,9 @@ _None_
     "type": "栏目"
   },
   "path": "/news/special/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "数读 - 网易专栏 - Powered by RSSHub",

@@ -68,6 +68,9 @@ _None_
       "target": "/blog"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "The technology behind Uber Engineering - Powered by RSSHub",

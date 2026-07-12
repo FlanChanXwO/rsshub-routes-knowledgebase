@@ -62,6 +62,9 @@ _None_
     "info": "默认在正文尾部显示节目相关信息，任意值为不显示"
   },
   "path": "/music/djradio/:id/:info?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "华尔街日报、纽约时报、经济学人、卫报、华盛顿邮报...每日精选外刊新闻，有趣、有料的双语新闻等你来听哦！ - Powered by RSSHub",
@@ -80,7 +83,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "86348092512122880",
-      "image": "https://p1.music.126.net/pDwIwKwFhduBjkYEfRnFVg==/109951164453536558.jpg",
+      "image": "https://p2.music.126.net/pDwIwKwFhduBjkYEfRnFVg==/109951164453536558.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/djradio?id=794193438",
       "title": "无时差研究所",

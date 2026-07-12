@@ -77,6 +77,9 @@
       "target": "/tag/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.dgtle.com",
   "view": 0

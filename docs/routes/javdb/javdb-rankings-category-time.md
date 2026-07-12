@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2415,
+  "heat": 2416,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -92,6 +92,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",

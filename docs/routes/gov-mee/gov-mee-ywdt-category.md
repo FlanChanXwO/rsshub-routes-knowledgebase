@@ -73,6 +73,9 @@
       "target": "/ywdt/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "环境要闻 - 要闻动态 - 中华人民共和国生态环境部 - Powered by RSSHub",

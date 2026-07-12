@@ -49,6 +49,9 @@ _None_
     "lang": "语言，缺省为 zh"
   },
   "path": "/:lang/hongkong/offers",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "在 OpenRice 香港搜尋的優惠券。 - Powered by RSSHub",

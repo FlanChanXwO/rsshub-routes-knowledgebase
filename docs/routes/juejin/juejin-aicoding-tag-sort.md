@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 289,
+  "heat": 290,
   "location": "aicoding.ts",
   "maintainers": [
     "TonyRL"
@@ -183,6 +183,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "AI 编程 - Powered by RSSHub",

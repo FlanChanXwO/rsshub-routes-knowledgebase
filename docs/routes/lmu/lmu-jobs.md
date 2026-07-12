@@ -56,6 +56,9 @@ _None_
       "target": "/lmu/jobs"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "lmu.de"
 }

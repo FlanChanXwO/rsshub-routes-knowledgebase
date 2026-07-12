@@ -4472,6 +4472,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/hljucm.md`
 
+## Hunan Museum
+- Namespace: `hnmuseum`
+- Aliases: `hnmuseum, hnmuseum.com/zh-hans, hunan museum, www, www.hnmuseum.com/zh-hans`
+- Route Count: `2`
+- Index File: `index/hnmuseum.md`
+
 ## 湖南日报
 - Namespace: `hnrb`
 - Aliases: `hnrb, voc, voc.com.cn, 湖南日报`

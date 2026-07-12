@@ -74,6 +74,9 @@ _None_
       "target": "/seiee/:path"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "团学工作-上海交通大学电子信息与电气工程学院（学部） - Powered by RSSHub",

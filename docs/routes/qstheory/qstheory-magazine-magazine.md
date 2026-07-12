@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/qstheory/magazine/qs",
-  "heat": 476,
+  "heat": 477,
   "location": "magazine.ts",
   "maintainers": [
     "TonyRL",
@@ -56,6 +56,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "《求是》 - 求是网 - Powered by RSSHub",

@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2858,
+  "heat": 2877,
   "location": "index.ts",
   "maintainers": [
     "LogicJake"
@@ -75,6 +75,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "订阅数：33万+ - Powered by RSSHub",

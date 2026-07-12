@@ -71,11 +71,14 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "新闻中心 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:42:09.972Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "188383956694418432",
       "image": null,
       "ownerUserId": null,

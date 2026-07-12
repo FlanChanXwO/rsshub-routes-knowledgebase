@@ -74,11 +74,15 @@ _None_
       "title": "计算机职业技术资格考试（软考）动态"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
-      "errorAt": "2026-07-09T20:26:40.164Z",
-      "errorMessage": "404 Not Found\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
+      "errorAt": "2026-07-10T20:07:38.260Z",
+      "errorMessage": "404 Not Found\n[GET] \"https://www.ruankao.org.cn/article/content/2605090907287520210690036.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

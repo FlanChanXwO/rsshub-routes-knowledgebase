@@ -62,6 +62,9 @@ _None_
     "type": "默认为`tzgg`"
   },
   "path": "/yz/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

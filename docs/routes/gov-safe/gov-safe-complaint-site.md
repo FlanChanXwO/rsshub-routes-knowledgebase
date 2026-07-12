@@ -59,6 +59,9 @@ _None_
     "site": "站点，见上表，默认为 beijing"
   },
   "path": "/complaint/:site?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

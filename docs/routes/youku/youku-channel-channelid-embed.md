@@ -73,6 +73,9 @@ _None_
       "target": "/channel/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "free.ts",
   "maintainers": [
     "LogicJake",
@@ -71,6 +71,9 @@ _None_
       "target": "/free"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "限时免费-起点中文网 - Powered by RSSHub",

@@ -74,6 +74,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "3DM新闻中心为广大互联网用户提供前沿的新闻资讯，让玩家及时了解到最新的游戏新闻、动漫影视、智能数码、游戏硬件和时事焦点等相关资讯。 - Powered by RSSHub",
@@ -89,8 +92,8 @@
     },
     {
       "description": "3DM新闻中心为广大互联网用户提供前沿的游戏新闻资讯，让玩家及时了解到最新的单机资讯、游戏杂谈、游戏周边和厂商动态等相关资讯。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T01:07:44.193Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60199571398524974",
       "id": "60199571398524974",
       "image": null,
       "ownerUserId": null,

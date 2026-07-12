@@ -82,6 +82,9 @@ _None_
     "path": "路径，默认为基金要闻"
   },
   "path": "/:path{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "科普快讯 - Powered by RSSHub",

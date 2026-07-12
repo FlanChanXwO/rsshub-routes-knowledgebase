@@ -69,6 +69,9 @@ _None_
       "target": "/threads/latest"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "deepin论坛主页 - 最新主题 - Powered by RSSHub",

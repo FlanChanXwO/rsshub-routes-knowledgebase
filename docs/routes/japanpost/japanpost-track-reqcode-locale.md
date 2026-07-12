@@ -66,6 +66,9 @@ _None_
     "reqCode": "Package Number"
   },
   "path": "/track/:reqCode/:locale?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "trackings.post.japanpost.jp/services/srv/search/",
   "zh": {

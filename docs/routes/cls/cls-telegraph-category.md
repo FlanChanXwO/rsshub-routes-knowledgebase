@@ -76,11 +76,14 @@
       "target": "/telegraph"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "财联社 - 电报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T02:48:03.204Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 53366652701156363",
       "id": "53366652701156363",
       "image": null,
       "ownerUserId": null,
@@ -91,8 +94,8 @@
     },
     {
       "description": "财联社 - 电报 - 加红 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T02:47:57.242Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59187056197799936",
       "id": "59187056197799936",
       "image": null,
       "ownerUserId": null,

@@ -77,6 +77,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "学院新闻-西安电子科技大学计算机科学与技术学院 - Powered by RSSHub",

@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",

@@ -73,6 +73,9 @@
       "target": "/scms"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "scms.ustc.edu.cn/"
 }

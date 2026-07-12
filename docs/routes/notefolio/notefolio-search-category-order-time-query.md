@@ -188,6 +188,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "all/pick/all/ search - Powered by RSSHub",

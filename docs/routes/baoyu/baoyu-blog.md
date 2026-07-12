@@ -40,7 +40,7 @@ _None_
   ],
   "description": "宝玉 - 博客文章",
   "example": "/baoyu/blog",
-  "heat": 5397,
+  "heat": 5400,
   "location": "index.ts",
   "maintainers": [
     "liyaozhong",
@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "宝玉的博客 - Powered by RSSHub",

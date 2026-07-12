@@ -64,6 +64,9 @@ _None_
     "type": "通知类型，默认为 `xytz`"
   },
   "path": "/sse/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

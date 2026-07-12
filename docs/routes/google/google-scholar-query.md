@@ -66,6 +66,9 @@ _None_
     "query": "query statement which supports「Basic」and「Advanced」modes"
   },
   "path": "/scholar/:query",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",

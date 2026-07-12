@@ -75,6 +75,10 @@ Enhance the official EN RSS feed
       "target": ""
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "纽约时报中文网 - Powered by RSSHub",
@@ -91,7 +95,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/07/08/us/politics/trump-iran-war.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

@@ -76,6 +76,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "shiraki的日志 - Powered by RSSHub",

@@ -60,6 +60,9 @@ _None_
     "query": "query, search page querystring"
   },
   "path": "/new-arrivals/:query?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

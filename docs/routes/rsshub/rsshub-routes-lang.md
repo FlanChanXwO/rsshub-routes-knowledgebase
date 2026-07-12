@@ -71,6 +71,9 @@ _None_
       "target": "/routes"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Everything is RSSible - Powered by RSSHub",

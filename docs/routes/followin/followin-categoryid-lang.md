@@ -134,11 +134,14 @@ _None_
     }
   },
   "path": "/:categoryId?/:lang?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": "2026-02-06T08:26:51.210Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72596134870584320",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

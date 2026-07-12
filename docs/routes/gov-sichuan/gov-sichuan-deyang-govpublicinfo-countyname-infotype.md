@@ -64,6 +64,9 @@ _None_
     "infoType": "信息类型。默认值:fdzdnr-“法定主动内容”"
   },
   "path": "/deyang/govpublicinfo/:countyName/:infoType?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1267,
+  "heat": 1268,
   "location": "video-all.ts",
   "maintainers": [],
   "name": "用户所有视频",
@@ -46,10 +46,13 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/video-all/:uid/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
-      "errorAt": "2026-07-08T05:56:08.280Z",
+      "errorAt": "2026-07-11T02:54:26.220Z",
       "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "82801159002601472",
       "image": null,
@@ -62,7 +65,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-07-08T13:33:11.591Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://api.bilibili.com/x/space/wbi/arc/search?mid=520819684&ps=30&tid=0&pn=5&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&dm_img_list=[{\\\"x\\\":6320,\\\"y\\\":-1471,\\\"z\\\":0,\\\"timestamp\\\":27,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2&w_rid=e4f84245c75e7cfc334350aa10d06d97&wts=1783647980\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n[GET] \"https://api.bilibili.com/x/space/wbi/arc/search?mid=520819684&ps=30&tid=0&pn=5&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&dm_img_list=[{\\\"x\\\":6294,\\\"y\\\":-1452,\\\"z\\\":0,\\\"timestamp\\\":25,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2&w_rid=ecb44fbc4c26c71ea13da266e4adeb6d&wts=1783726642\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

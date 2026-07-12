@@ -69,6 +69,9 @@ _None_
       "target": "/artistBrandlist/:grpNo/:grpNo2"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "ktown4u TAEYEON - Powered by RSSHub",

@@ -73,6 +73,9 @@ _None_
       "target": "/series/:slug"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "polymarket.com"
 }

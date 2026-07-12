@@ -72,6 +72,9 @@ _None_
       "target": "/popular/:period"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "CosplayTele - Top views in 30 days - Powered by RSSHub",

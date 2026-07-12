@@ -54,6 +54,9 @@ _None_
       "target": "/grupoanimal/estados"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

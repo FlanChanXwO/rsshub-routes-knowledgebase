@@ -64,6 +64,9 @@ _None_
     "id": "提取出通知页面中的 `ID`，如 `http://www.cst.zju.edu.cn/36246/list.htm` 中的 `36246`，可将你想获取通知的多个页面，通过 `+` 符号来聚合。"
   },
   "path": "/cst/custom/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "浙江大学软件学院通知 - Powered by RSSHub",

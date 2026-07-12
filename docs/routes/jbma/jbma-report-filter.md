@@ -430,6 +430,9 @@ To subscribe to [Metals Forcus](https://jbma.net/cat_report/metals-forcus/), whe
       "title": "レポート"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "jbma.net",
   "view": 0,

@@ -64,6 +64,9 @@ _None_
     "type": "news type, see the table below, `0` by default"
   },
   "path": "/news/:server/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

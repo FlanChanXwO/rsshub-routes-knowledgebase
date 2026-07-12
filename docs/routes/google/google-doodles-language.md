@@ -59,6 +59,9 @@ _None_
     "language": "Language, default to `zh-CN`, for other language values, you can get it from [Google Doodles official website](https://www.google.com/doodles)"
   },
   "path": "/doodles/:language?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Google Doodles - Powered by RSSHub",

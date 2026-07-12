@@ -64,6 +64,9 @@ _None_
     "type": "类型，见下表"
   },
   "path": "/feng/:id/:type",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "凤凰网《在人间》官方大风号 用冷静的叙述抵抗冰冷。 - Powered by RSSHub",
@@ -79,8 +82,8 @@ _None_
     },
     {
       "description": "优质房产领域创作者 宏观经济、商业财经与楼市逻辑 - Powered by RSSHub",
-      "errorAt": "2026-07-09T19:03:57.645Z",
-      "errorMessage": "[GET] \"https://ishare.ifeng.com/mediaShare/home/310463/media\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "89202893918778368",
       "image": "https://d.ifengimg.com/w90_h90_q90/img1.ugc.ifeng.com/newugc/20180918/13/wemedia/3deae080086a56ef24ea109930b7cfda8db6b67b_size20_w200_h200.png",
       "ownerUserId": null,

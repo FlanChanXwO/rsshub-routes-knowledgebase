@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 408,
+  "heat": 409,
   "location": "discount.ts",
   "maintainers": [
     "tssujt"
@@ -62,6 +62,9 @@ _None_
     "platform": "平台分类，见下表"
   },
   "path": "/discount/:platform",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "小黑盒 PC 游戏折扣 - Powered by RSSHub",

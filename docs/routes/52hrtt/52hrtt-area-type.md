@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 129,
+  "heat": 128,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -64,6 +64,9 @@ _None_
     "type": "分类，默认为新闻"
   },
   "path": "/:area?/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "全球 - 新闻 - 华人头条 - Powered by RSSHub",

@@ -84,19 +84,11 @@
       "target": "/comic/:id"
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:98:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
+  },
   "topFeeds": [
-    {
-      "description": "再漫画 - 一击男ONE原作版 - Powered by RSSHub",
-      "errorAt": "2025-07-31T02:30:45.447Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'title')\n",
-      "id": "144946872242255872",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://manhua.zaimanhua.com/details/48194",
-      "title": "再漫画 - 一击男ONE原作版",
-      "type": "feed",
-      "url": "rsshub://zaimanhua/comic/48194"
-    },
     {
       "description": "再漫画 - 艾尔登法环剧情解析漫画 - Powered by RSSHub",
       "errorAt": "2026-01-20T08:30:58.306Z",
@@ -108,6 +100,18 @@
       "title": "再漫画 - 艾尔登法环剧情解析漫画",
       "type": "feed",
       "url": "rsshub://zaimanhua/comic/73129"
+    },
+    {
+      "description": "再漫画 - 一击男ONE原作版 - Powered by RSSHub",
+      "errorAt": "2025-07-31T02:30:45.447Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'title')\n",
+      "id": "144946872242255872",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://manhua.zaimanhua.com/details/48194",
+      "title": "再漫画 - 一击男ONE原作版",
+      "type": "feed",
+      "url": "rsshub://zaimanhua/comic/48194"
     }
   ]
 }

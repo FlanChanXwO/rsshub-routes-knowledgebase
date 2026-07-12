@@ -76,6 +76,9 @@
       "target": "/news/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "News – The White House - Powered by RSSHub",

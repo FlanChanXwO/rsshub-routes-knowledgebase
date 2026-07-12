@@ -57,6 +57,9 @@ _None_
       "target": "/series/:name"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

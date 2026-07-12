@@ -63,6 +63,9 @@ _None_
       "target": "/news/:suffix"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

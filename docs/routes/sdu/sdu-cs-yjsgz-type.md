@@ -63,6 +63,9 @@ _None_
     "type": "默认为`zytz`"
   },
   "path": "/cs/yjsgz/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

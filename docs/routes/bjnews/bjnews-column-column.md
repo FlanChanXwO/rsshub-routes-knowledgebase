@@ -56,6 +56,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "新京报 - 栏目 - 剥洋葱 - Powered by RSSHub",

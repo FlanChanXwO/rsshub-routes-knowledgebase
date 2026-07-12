@@ -78,6 +78,9 @@
       "target": "/24"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",

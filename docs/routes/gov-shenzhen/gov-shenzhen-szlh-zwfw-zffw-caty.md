@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "深圳市罗湖区人民政府 - 通知公告 - Powered by RSSHub",

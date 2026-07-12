@@ -57,6 +57,9 @@ _None_
   "name": "过早客",
   "parameters": {},
   "path": "/default",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "过早客 - Powered by RSSHub",

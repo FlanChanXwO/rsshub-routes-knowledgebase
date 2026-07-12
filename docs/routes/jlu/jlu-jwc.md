@@ -54,6 +54,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "吉林大学教务处通知公告 - Powered by RSSHub",

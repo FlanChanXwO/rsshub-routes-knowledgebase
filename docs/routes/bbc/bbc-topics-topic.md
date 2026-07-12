@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "All the latest content about Sweden from the BBC. - Powered by RSSHub",

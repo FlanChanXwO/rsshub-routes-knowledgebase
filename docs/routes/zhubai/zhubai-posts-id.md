@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 952,
+  "heat": 953,
   "location": "index.ts",
   "maintainers": [
     "naixy28"
@@ -62,6 +62,9 @@ _None_
     "id": "`id` 为竹白主页 url 中的三级域名，如 via.zhubai.love 的 `id` 为 `via`"
   },
   "path": "/posts/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "偷懒爱好者周刊，分享产品、工具、新鲜事，每周三在微信公众号“偷懒爱好者”首发，RSS: https://echosoar.github.io/weekly/atom.xml - Powered by RSSHub",

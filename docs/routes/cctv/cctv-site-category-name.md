@@ -84,6 +84,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "CCTV 新闻联播 - Powered by RSSHub",

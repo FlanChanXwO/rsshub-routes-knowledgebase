@@ -79,6 +79,9 @@
       "target": "/people/activities/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "一个前端，Vue / Vite 作者。 - Powered by RSSHub",

@@ -59,6 +59,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "为坚持严肃阅读的人群提供选项。 - Powered by RSSHub",

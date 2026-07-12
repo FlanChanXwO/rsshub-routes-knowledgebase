@@ -69,6 +69,9 @@ _None_
       "target": "/yjs"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "newyjs.snnu.edu.cn"
 }

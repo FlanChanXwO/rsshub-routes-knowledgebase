@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 21,
   "location": "announcement.ts",
   "maintainers": [
     "ChenXiangcheng1"
@@ -69,6 +69,9 @@ _None_
       "target": "/announcement"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "中国金融期货交易所 - 交易所公告 - Powered by RSSHub",

@@ -60,6 +60,9 @@ _None_
     "id": "公众号 id, 打开 weixin.sogou.com 并搜索相应公众号， 在 URL 中找到 id"
   },
   "path": "/sogou/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "运维网工 的微信公众号 - Powered by RSSHub",

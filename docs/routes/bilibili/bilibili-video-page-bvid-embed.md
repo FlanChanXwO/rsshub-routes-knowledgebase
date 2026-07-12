@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 70,
+  "heat": 72,
   "location": "page.ts",
   "maintainers": [
     "sxzz"
@@ -61,6 +61,9 @@ _None_
     "embed": "默认为开启内嵌视频, 任意值为关闭"
   },
   "path": "/video/page/:bvid/:embed?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "视频 美女热舞合集 的视频选集列表 - Powered by RSSHub",

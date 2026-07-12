@@ -80,6 +80,9 @@ _None_
       "target": "/topic/text/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "我劝天公降人才。 - Powered by RSSHub",

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 208,
+  "heat": 207,
   "location": "today.ts",
   "maintainers": [
     "nczitzk"
@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "今日话题 - 雪球 - Powered by RSSHub",

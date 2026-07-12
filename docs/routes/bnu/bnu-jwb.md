@@ -53,6 +53,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "北京师范大学教务部最新通知 - Powered by RSSHub",

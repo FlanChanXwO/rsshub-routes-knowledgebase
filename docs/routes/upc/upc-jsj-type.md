@@ -62,6 +62,9 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/jsj/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

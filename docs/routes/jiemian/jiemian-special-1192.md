@@ -47,11 +47,14 @@ _None_
     "id": "分类 id，见下表，可在对应分类页 URL 中找到"
   },
   "path": "/special/1192",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "界面新闻是中国具有影响力的原创财经新媒体，以财经、商业新闻为核心，布局近40个内容频道，旗下同时拥有正午故事、箭厂视频、歪楼等数个知名新媒体品牌。 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:38:55.140Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "159222015361512458",
       "image": "https://www.jiemian.com/favicon.ico",
       "ownerUserId": null,

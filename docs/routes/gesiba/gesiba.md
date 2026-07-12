@@ -46,6 +46,9 @@ _None_
   ],
   "name": "Angebote",
   "path": "*",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

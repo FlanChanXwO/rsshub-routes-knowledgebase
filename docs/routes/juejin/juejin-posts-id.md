@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2166,
+  "heat": 2168,
   "location": "posts.ts",
   "maintainers": [
     "Maecenas"
@@ -71,6 +71,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "字节跳动的技术实践分享 - Powered by RSSHub",

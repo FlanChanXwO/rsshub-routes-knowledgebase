@@ -73,6 +73,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "新闻 - 少女前线 - 情报局 - Powered by RSSHub",

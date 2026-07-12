@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1390,
+  "heat": 1391,
   "location": "tab.ts",
   "maintainers": [
     "liyefox"
@@ -60,6 +60,9 @@ _None_
     "tabid": "tab标签ID,在 URL 可以找到"
   },
   "path": "/tab/:tabid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "V2EX-tab-hot - Powered by RSSHub",

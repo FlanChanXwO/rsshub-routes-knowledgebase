@@ -60,6 +60,9 @@ _None_
     "department": "库名"
   },
   "path": "/zhengceku/:department",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "政府文件库, 当页的所有列表 - Powered by RSSHub",

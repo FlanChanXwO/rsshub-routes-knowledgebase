@@ -79,6 +79,9 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Latest Wallpapers - wallhaven.cc - Powered by RSSHub",

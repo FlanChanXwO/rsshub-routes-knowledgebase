@@ -59,6 +59,9 @@ _None_
       "target": "/std/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "全方位多角度的香港新聞、即時新聞、城中熱話、網上熱話、專題報道、中國及國際新聞。 - Powered by RSSHub",

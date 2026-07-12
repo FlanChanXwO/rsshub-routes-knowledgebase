@@ -62,6 +62,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "焦點 - Line Today - Powered by RSSHub",

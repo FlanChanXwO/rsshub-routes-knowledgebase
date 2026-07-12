@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4767,
+  "heat": 4769,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -68,9 +68,12 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
-      "description": "1. 长鑫科技 7 月 16 日开启新股申购 拟公开发行近 67 亿股 2. 前美联储主席伯南克加入 Anthropic，负责监督信托机构 3. 苹果洽谈 AI 公司 PrismML 拟将 270 亿参数大模型部署至 iPhone 4. 奥尔特曼：OpenAI 全新大模型智能自主编码的 Token 效率提升 54% 5. 支付宝客服就花呗服务问题致歉：系统升级已完成，还款有三天宽限期 6. Meta 计划于 9 月开始生产 AI 芯片，并计划将计算能力翻倍 7. 燧原科技科创板 IPO 申请获证监会同意注册批复 8. 美银向 OpenAI 提供 5.2 亿美元授信额度 希望在 IPO 中争取一席之地 9. 英伟达将与 Hugging Face 合作开发机器人开源模型 10. MiniMax 解禁首日大跌 20%，市值跌破千亿港元 11. SK 海力士美国 IPO 获得逾七倍的超额认购 - Powered by RSSHub",
+      "description": "1. OpenAI 发布 GPT-5.6 系列模型，Codex 与 ChatGPT 合二为一 2. 我国首次实现大型火箭一级回收 3. 消息称腾讯考虑入股 Manus，或成为其第一大股东 4. SK 海力士美股正式上市 总市值超出美光近 2000 亿美元 5. SK 海力士 CEO：内存芯片短缺可能持续到 2030 年以后 6. 美团回应多业务线集中裁员：实际离职员工不到 2000 人，占整体员工比例不高 7. MiniMax 闫俊杰：不再领取薪酬，个人拿出 5% 公司股份用于团队激励和开源支持 8. 全球首次用宇树机器人做手术，中国 00 后博士登 Nature 9. 三星会长李在镕将于与黄仁勋会面 洽谈人工智能领域深化合作 10. 苹果起诉 OpenAI，指控其盗用商业机密 11. 段永平再增持泡泡玛特 持股比例升至 7.65% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

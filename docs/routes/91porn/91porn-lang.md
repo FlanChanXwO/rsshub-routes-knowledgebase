@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 541,
+  "heat": 542,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -75,6 +75,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "hot video today - 91porn - Powered by RSSHub",

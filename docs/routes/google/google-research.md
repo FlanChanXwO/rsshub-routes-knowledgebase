@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/google/research",
-  "heat": 902,
+  "heat": 901,
   "location": "research.ts",
   "maintainers": [
     "Levix",
@@ -53,6 +53,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Google Research Blog - Powered by RSSHub",

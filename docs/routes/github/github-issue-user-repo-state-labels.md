@@ -85,6 +85,9 @@ _None_
       "target": "/issue/:user/:repo"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "ruanyf/weekly Issues - Powered by RSSHub",

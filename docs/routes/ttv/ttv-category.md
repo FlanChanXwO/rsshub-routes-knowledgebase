@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/ttv",
-  "heat": 64,
+  "heat": 65,
   "location": "index.ts",
   "maintainers": [
     "dzx-dzx"
@@ -55,6 +55,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "台視新聞 - Powered by RSSHub",

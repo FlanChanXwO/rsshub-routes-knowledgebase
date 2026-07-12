@@ -57,6 +57,9 @@ _None_
     "id": "Software id, can be found in URL, 279 as Western Digital Dashboard by default"
   },
   "path": "/download/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

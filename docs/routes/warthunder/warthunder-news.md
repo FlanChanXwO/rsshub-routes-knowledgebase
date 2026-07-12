@@ -70,6 +70,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "War Thunder News - Powered by RSSHub",

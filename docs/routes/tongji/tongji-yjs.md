@@ -69,6 +69,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "同济大学研究生招生网通知公告 - Powered by RSSHub",

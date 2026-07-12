@@ -69,6 +69,9 @@ _None_
       "target": "/gcores/radios/preview"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.gcores.com",
   "view": 5

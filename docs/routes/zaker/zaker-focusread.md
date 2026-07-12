@@ -55,6 +55,9 @@ _None_
       "target": "/focusread"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "ZAKER 精读新闻 - Powered by RSSHub",

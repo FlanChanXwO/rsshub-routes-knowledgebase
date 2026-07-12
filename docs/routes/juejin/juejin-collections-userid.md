@@ -72,6 +72,9 @@ _None_
       "target": "/collections/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "掘金，指定用户整个收藏集 - Powered by RSSHub",

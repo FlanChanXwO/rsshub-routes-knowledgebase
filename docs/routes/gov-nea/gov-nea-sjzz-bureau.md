@@ -128,6 +128,9 @@ _None_
       "target": "/sjzz/:bureau"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "国家能源局 - 发展规划司工作进展 - Powered by RSSHub",

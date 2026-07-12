@@ -59,6 +59,9 @@ _None_
     "uid": "用户id， 可在URL中找到"
   },
   "path": "/personalpage/:uid",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "持续低熵 的个人主页 - Powered by RSSHub",

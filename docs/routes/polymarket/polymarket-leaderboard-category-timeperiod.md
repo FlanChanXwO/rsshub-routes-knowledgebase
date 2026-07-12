@@ -67,6 +67,9 @@ _None_
     }
   },
   "path": "/leaderboard/:category?/:timePeriod?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "polymarket.com"
 }

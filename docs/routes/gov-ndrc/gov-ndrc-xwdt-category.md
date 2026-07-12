@@ -60,6 +60,9 @@ _None_
       "title": "中华人民共和国国家发展和改革委员会 - 新闻动态"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "新闻发布-国家发展和改革委员会 - Powered by RSSHub",

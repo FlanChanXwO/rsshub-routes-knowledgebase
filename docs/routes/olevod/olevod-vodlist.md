@@ -57,6 +57,9 @@ _None_
       "target": "/vodlist"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "欧乐影院 最新视频 - Powered by RSSHub",

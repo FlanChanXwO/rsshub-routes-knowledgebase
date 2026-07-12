@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6055,
+  "heat": 6054,
   "location": "other/group.ts",
   "maintainers": [
     "DIYgod"
@@ -90,11 +90,14 @@ _None_
       "target": "/group/:groupid"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "豆瓣小组-无用美学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T05:16:47.058Z",
+      "errorMessage": "[GET] \"https://www.douban.com/group/699356/?type=essence\": 403 Forbidden\n[GET] \"https://www.douban.com/group/699356/?type=essence\": 403 Forbidden\nAuthentication failed. Access denied.\n/douban/group/699356/essence\n[GET] \"https://www.douban.com/group/699356/?type=essence\": 403 Forbidden\n[GET] \"https://www.douban.com/group/699356/?type=essence\": 403 Forbidden\nFailed to fetch\n[GET] \"https://www.douban.com/group/699356/?type=essence\": 403 Forbidden\nAuthentication failed. Access denied.\n/douban/group/699356/essence\nFailed to fetch\n",
       "id": "41147805268337664",
       "image": null,
       "ownerUserId": null,

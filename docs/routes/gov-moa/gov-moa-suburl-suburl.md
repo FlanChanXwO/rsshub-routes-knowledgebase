@@ -64,6 +64,9 @@ _None_
       "target": "/suburl/:suburl"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中华人民共和国农业农村部 - 政策解读 - Powered by RSSHub",

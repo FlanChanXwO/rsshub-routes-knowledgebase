@@ -98,6 +98,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "一亩三分地 - 投资理财热门帖子 - Powered by RSSHub",

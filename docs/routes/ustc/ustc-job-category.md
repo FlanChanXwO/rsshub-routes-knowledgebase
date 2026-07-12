@@ -73,6 +73,9 @@
       "target": "/job"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "job.ustc.edu.cn/"
 }

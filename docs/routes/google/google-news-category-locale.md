@@ -62,6 +62,9 @@ _None_
     "locale": "locales, could be found behind `?`, including `hl`, `gl`, and `ceid` as parameters"
   },
   "path": "/news/:category/:locale",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Google News - Headlines - Powered by RSSHub",

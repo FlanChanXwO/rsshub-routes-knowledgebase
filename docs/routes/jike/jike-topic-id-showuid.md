@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21844,
+  "heat": 21845,
   "location": "topic.ts",
   "maintainers": [
     "DIYgod",
@@ -92,6 +92,9 @@ _None_
       "target": "/topic/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "笔记交流站 - 即刻圈子 - Powered by RSSHub",

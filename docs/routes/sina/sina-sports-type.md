@@ -46,6 +46,9 @@ _None_
     "type": "类别"
   },
   "path": "/sports/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "关注排坛大事 - Powered by RSSHub",

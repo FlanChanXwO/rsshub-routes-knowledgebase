@@ -62,6 +62,9 @@ _None_
     "category": "分类，见下表，默认为财政动态"
   },
   "path": "/czt/xwdt/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

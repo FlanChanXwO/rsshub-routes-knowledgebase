@@ -75,6 +75,9 @@
       "target": "/today"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "今日关注 - 网易新闻 - Powered by RSSHub",

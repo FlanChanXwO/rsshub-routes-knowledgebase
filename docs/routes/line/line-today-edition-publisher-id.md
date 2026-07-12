@@ -57,6 +57,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "科技紫微網每日星座 - Line Today - Powered by RSSHub",

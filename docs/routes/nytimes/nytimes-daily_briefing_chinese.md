@@ -70,16 +70,20 @@ _None_
       "target": ""
     }
   ],
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-05-23T09:51:57.698Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n[GET] \"https://www.nytimes.com/zh-hans/2023/06/15/world/asia/affirmative-action.html\": 403 Forbidden\n",
+      "description": "Daily Briefing - The New York Times - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "148631391178206293",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://www.nytimes.com/zh-hans/series/daily-briefing-chinese",
+      "title": "Daily Briefing - The New York Times",
       "type": "feed",
       "url": "rsshub://nytimes/daily_briefing_chinese"
     }

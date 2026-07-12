@@ -74,6 +74,9 @@
       "target": "/sise"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "sise.uestc.edu.cn/"
 }

@@ -51,6 +51,9 @@ _None_
     "id": "分類 ID，見下表"
   },
   "path": "/trading/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "二手攝影產品買賣平台 - DCFever.com - Powered by RSSHub",

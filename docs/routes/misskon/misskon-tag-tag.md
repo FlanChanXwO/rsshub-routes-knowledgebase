@@ -72,6 +72,9 @@ _None_
       "target": "/tag/:tag"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Collection of hot photos and videos of Asian cosplayers. - Powered by RSSHub",

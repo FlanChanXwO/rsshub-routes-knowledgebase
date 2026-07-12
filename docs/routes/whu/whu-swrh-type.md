@@ -73,6 +73,9 @@
       "target": "/swrh/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

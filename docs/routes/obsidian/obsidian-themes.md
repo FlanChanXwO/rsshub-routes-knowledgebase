@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Themes",
   "path": "/themes",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Obsidian Themes - Powered by RSSHub",

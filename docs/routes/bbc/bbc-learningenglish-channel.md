@@ -91,6 +91,9 @@ _None_
     }
   },
   "path": "/learningenglish/:channel?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Learningenglish-take-away-english-BBC - Powered by RSSHub",

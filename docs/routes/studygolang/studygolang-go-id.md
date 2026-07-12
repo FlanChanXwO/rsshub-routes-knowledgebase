@@ -70,6 +70,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",

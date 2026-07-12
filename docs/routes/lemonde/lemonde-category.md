@@ -90,6 +90,9 @@
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "view": 0
 }

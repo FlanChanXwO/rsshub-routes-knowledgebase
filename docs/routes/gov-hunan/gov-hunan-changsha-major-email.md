@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "wlwz.changsha.gov.cn/webapp/cs2020/email/*"
 }

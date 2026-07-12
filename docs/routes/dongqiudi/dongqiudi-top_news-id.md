@@ -73,6 +73,9 @@
       "target": "/top_news/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "懂球帝 - 头条 - Powered by RSSHub",

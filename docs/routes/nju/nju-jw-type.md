@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "本科生院-公告通知 - Powered by RSSHub",

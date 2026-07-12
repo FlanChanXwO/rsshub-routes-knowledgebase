@@ -62,6 +62,9 @@ _None_
     "target": "Quote currency abbreviation"
   },
   "path": "/pair/:source/:target",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Exchange Rate from Wise - Powered by RSSHub",

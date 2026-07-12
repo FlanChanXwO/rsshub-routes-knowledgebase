@@ -62,6 +62,9 @@ _None_
     "category": "分类，见下表，默认为 ALL"
   },
   "path": "/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "ALL - FIX字幕侠 - Powered by RSSHub",

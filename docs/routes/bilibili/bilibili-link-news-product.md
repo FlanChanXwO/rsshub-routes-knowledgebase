@@ -59,6 +59,9 @@ _None_
     "product": "公告分类, 包括 直播:live 小视频:vc 相簿:wh"
   },
   "path": "/link/news/:product",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "bilibili 直播公告 - Powered by RSSHub",

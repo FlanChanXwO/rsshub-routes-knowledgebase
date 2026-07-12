@@ -62,6 +62,9 @@ _None_
     "type": "类型，默认为全部"
   },
   "path": "/tongqu/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

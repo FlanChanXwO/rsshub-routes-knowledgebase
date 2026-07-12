@@ -65,6 +65,9 @@ _None_
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "【日経】ニュース速報、企業・経済の最新情報をお届けします。 - Powered by RSSHub",

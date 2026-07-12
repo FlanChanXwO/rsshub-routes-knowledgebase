@@ -68,6 +68,9 @@ _None_
     "routeParams": "Additional parameters, see the table above"
   },
   "path": "/favorites/:favcat?/:order?/:page?/:routeParams?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

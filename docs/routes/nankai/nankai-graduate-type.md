@@ -75,6 +75,9 @@
       "target": "/graduate/:type?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "南开大学研究生院-综合信息 - Powered by RSSHub",

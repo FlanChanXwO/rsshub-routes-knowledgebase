@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 538,
+  "heat": 536,
   "location": "index.ts",
   "maintainers": [
     "WhiteWorld",
@@ -64,6 +64,9 @@ _None_
     "category": "分类，见下表，默认为热门话题"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "每天三分钟的科技资讯聚合阅读 - Powered by RSSHub",

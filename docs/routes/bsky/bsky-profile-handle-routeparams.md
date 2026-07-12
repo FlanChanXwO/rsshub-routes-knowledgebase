@@ -65,7 +65,7 @@ Example:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 44495,
+  "heat": 44483,
   "location": "posts.ts",
   "maintainers": [
     "TonyRL"
@@ -83,6 +83,9 @@ Example:
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "official Bluesky account (check username👆) Bugs, feature requests, feedback: support@bsky.app - Powered by RSSHub",

@@ -58,6 +58,9 @@ _None_
   ],
   "name": "News",
   "path": "/news",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "News - Powered by RSSHub",

@@ -54,6 +54,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "《财新周刊》-财新网 - Powered by RSSHub",

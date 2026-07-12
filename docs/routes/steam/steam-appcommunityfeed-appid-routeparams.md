@@ -92,19 +92,10 @@ _None_
       "title": "Community Hub"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
-    {
-      "description": "730 Steam Community Hub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "58748050964336640",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://steamcommunity.com/app/730",
-      "title": "730 Steam Community Hub",
-      "type": "feed",
-      "url": "rsshub://steam/appcommunityfeed/730"
-    },
     {
       "description": "2358720 Steam Community Hub - Powered by RSSHub",
       "errorAt": null,
@@ -116,6 +107,18 @@ _None_
       "title": "2358720 Steam Community Hub",
       "type": "feed",
       "url": "rsshub://steam/appcommunityfeed/2358720"
+    },
+    {
+      "description": "730 Steam Community Hub - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58748050964336640",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://steamcommunity.com/app/730",
+      "title": "730 Steam Community Hub",
+      "type": "feed",
+      "url": "rsshub://steam/appcommunityfeed/730"
     }
   ]
 }

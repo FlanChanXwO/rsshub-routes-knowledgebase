@@ -61,6 +61,9 @@ _None_
     "version": "Version, see below, 8.0 by default"
   },
   "path": "/release/:version?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",

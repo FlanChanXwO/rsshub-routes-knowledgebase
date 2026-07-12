@@ -73,6 +73,9 @@
       "target": "/review"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "单机 - 游民星空评测 - Powered by RSSHub",

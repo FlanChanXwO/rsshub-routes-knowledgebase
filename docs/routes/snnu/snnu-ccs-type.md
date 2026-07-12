@@ -92,6 +92,9 @@ _None_
       "target": "/ccs/xshd"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "ccs.snnu.edu.cn"
 }

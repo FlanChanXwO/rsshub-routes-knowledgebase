@@ -62,6 +62,9 @@ _None_
     "type": "无默认选项"
   },
   "path": "/yzb/zkxx/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

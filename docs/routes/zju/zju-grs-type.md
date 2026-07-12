@@ -62,6 +62,9 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/grs/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "浙大研究生院 -- 全部公告 - Powered by RSSHub",

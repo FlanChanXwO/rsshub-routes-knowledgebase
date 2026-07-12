@@ -85,6 +85,9 @@
       "target": "/jwzx"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "教务公告 - 哈尔滨理工大学教务处 - Powered by RSSHub",

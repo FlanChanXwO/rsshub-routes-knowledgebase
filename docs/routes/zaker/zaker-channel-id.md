@@ -59,11 +59,14 @@ _None_
       "target": "/channel/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T00:32:54.050Z",
+      "errorMessage": "Authentication failed. Access denied.\n/zaker/channel/13\nFailed to fetch\nFailed to fetch\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-09T23:36:31.211Z",
-      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a501bd68e9f09655f144151\": <no response> fetch failed\n",
+      "errorAt": "2026-07-10T16:57:57.261Z",
+      "errorMessage": "500 Internal Server Error\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

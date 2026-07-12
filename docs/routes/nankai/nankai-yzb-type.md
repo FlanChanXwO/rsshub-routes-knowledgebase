@@ -75,6 +75,9 @@
       "target": "/yzb/:type?"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "南开大学研究生招生网-硕士招生 - Powered by RSSHub",

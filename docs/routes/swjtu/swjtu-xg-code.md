@@ -83,6 +83,9 @@
       "target": "/xg"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",

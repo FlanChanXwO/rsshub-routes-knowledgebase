@@ -95,6 +95,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "通知公告-研究生院-西安电子科技大学 - Powered by RSSHub",

@@ -46,6 +46,9 @@ _None_
     "suffix": "支持形如 `http://www.mofcom.gov.cn/article/*` 的网站，传入 article 之后的后缀"
   },
   "path": "/article/:suffix{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

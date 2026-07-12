@@ -56,6 +56,9 @@ _None_
   ],
   "name": "ChatGPT Atlas - Release Notes",
   "path": "/chatgpt-atlas/release-notes",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

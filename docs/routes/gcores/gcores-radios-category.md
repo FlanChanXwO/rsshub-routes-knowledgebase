@@ -70,6 +70,9 @@ _None_
       "target": "/radios/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "收听机核播客节目，覆盖游戏文化、影视、科技、生活与创作者故事。 - Powered by RSSHub",

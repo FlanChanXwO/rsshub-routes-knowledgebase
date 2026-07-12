@@ -93,6 +93,9 @@
       "target": "/news-cn/"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "守望先锋新闻 - Powered by RSSHub",

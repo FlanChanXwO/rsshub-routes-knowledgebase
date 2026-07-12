@@ -59,11 +59,14 @@ _None_
     "keyword": "搜索关键词"
   },
   "path": "/search/:keyword",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "人才引进 - 百度搜索 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:38:52.442Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "177651896288583684",
       "image": null,
       "ownerUserId": null,

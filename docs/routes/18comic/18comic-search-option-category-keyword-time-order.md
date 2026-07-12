@@ -84,6 +84,9 @@
       "target": "/:category?/:time?/:order?/:keyword?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Search Results For '' - 禁漫天堂 - Powered by RSSHub",

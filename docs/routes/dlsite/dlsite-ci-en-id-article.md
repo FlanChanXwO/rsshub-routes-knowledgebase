@@ -72,6 +72,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "BBQ大好きの記事一覧 - Ci-en（シエン） - Powered by RSSHub",

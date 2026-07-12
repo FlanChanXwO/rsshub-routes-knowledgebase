@@ -63,7 +63,7 @@
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 1331,
+  "heat": 1332,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -82,6 +82,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",

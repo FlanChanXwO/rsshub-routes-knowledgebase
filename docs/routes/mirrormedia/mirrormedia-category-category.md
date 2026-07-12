@@ -62,6 +62,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "鏡週刊 Mirror Media - political - Powered by RSSHub",

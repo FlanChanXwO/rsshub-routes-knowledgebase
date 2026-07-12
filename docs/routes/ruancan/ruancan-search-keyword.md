@@ -68,6 +68,9 @@ _None_
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "undefined - 搜索结果 - 软餐 - Powered by RSSHub",

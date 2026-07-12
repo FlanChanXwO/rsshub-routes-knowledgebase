@@ -77,6 +77,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "中华人民共和国国家发展和改革委员会 价格监测中心 - Powered by RSSHub",

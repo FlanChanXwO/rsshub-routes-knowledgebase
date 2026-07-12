@@ -89,6 +89,9 @@
       "title": "Manga - Hot"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Skebetter Manga - 人気 - Powered by RSSHub",

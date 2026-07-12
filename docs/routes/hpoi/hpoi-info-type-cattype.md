@@ -112,6 +112,9 @@ _None_
     }
   },
   "path": "/info/:type?/:catType?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "手办维基 - 情报 - 全部 - Powered by RSSHub",

@@ -66,6 +66,9 @@ _None_
     "mode": "Mode, see below, Last Month by default, as `1`"
   },
   "path": "/bestreviews/:language?/:mode?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

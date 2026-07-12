@@ -56,6 +56,9 @@ _None_
   ],
   "name": "学术信息",
   "path": "/academic",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "西安交通大学研究生院 - 通知公告 - Powered by RSSHub",

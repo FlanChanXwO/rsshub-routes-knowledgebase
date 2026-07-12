@@ -73,6 +73,9 @@
       "target": "/today"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Latest News | KBS WORLD - Powered by RSSHub",

@@ -72,6 +72,9 @@ _None_
       "target": "/xhu/question/:questionId"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "知乎-哪一刻让你觉得世人皆苦? - Powered by RSSHub",

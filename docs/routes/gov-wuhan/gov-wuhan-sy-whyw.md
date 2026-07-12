@@ -70,6 +70,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "武汉动态 - 武汉市人民政府 - Powered by RSSHub",

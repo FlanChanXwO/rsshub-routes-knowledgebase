@@ -62,11 +62,14 @@ _None_
     "type": "公告类型，详见表格"
   },
   "path": "/cs/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "通知公告-武汉大学计算机学院 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:41:15.566Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60249215166679040",
       "image": null,
       "ownerUserId": null,

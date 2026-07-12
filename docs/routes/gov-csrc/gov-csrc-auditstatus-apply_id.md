@@ -59,6 +59,9 @@ _None_
     "apply_id": "事项类别id，`https://neris.csrc.gov.cn/alappl/home/xkDetail` 列表中各地址的 appMatrCde 参数"
   },
   "path": "/auditstatus/:apply_id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

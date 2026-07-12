@@ -73,6 +73,9 @@ _None_
     "keywords": "搜索关键字"
   },
   "path": "/cn/jobs/:keywords?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

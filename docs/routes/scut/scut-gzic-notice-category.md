@@ -67,19 +67,10 @@ _None_
     "category": "通知分类，默认为 `swtz`"
   },
   "path": "/gzic/notice/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
-    {
-      "description": "华南理工大学广州国际校区 - 事务通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72989533354679296",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www2.scut.edu.cn/gzic/30283/list.htm",
-      "title": "华南理工大学广州国际校区 - 事务通知",
-      "type": "feed",
-      "url": "rsshub://scut/gzic/notice/swtz"
-    },
     {
       "description": "华南理工大学广州国际校区 - 海外学习 - Powered by RSSHub",
       "errorAt": null,
@@ -91,6 +82,18 @@ _None_
       "title": "华南理工大学广州国际校区 - 海外学习",
       "type": "feed",
       "url": "rsshub://scut/gzic/notice/hwxx"
+    },
+    {
+      "description": "华南理工大学广州国际校区 - 事务通知 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72989533354679296",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www2.scut.edu.cn/gzic/30283/list.htm",
+      "title": "华南理工大学广州国际校区 - 事务通知",
+      "type": "feed",
+      "url": "rsshub://scut/gzic/notice/swtz"
     }
   ]
 }

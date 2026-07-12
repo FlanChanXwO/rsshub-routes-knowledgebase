@@ -159,6 +159,9 @@ _None_
     "id": "栏目 id，可在栏目页 URL 中找到"
   },
   "path": "/list/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "澎湃新闻栏目 - 思想市场 - Powered by RSSHub",

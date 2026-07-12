@@ -60,6 +60,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "吉林大学计算机科学与技术学院 - 新闻中心公示栏 - Powered by RSSHub",

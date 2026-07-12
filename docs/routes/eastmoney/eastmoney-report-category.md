@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7056,
+  "heat": 7059,
   "location": "report/index.tsx",
   "maintainers": [
     "syzq"
@@ -96,11 +96,14 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "东方财富网-行业研报 - Powered by RSSHub",
-      "errorAt": "2026-07-10T05:17:59.251Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62144468362632192",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62144468362632192",
       "image": null,
       "ownerUserId": null,

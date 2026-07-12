@@ -63,9 +63,12 @@ _None_
     "id": "标签 id，可在对应标签页 URL 中找到"
   },
   "path": "/tag/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
-      "description": "虎嗅标签-AI - Powered by RSSHub",
+      "description": "人工智能的英文简称 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "111032291110780928",

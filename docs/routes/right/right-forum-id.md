@@ -59,6 +59,9 @@ _None_
     "id": "板块 id，可在板块页 URL 中找到，默认为新手入门及其它(硬件)"
   },
   "path": "/forum/:id?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "国内iptv、软件、代码、源 - 恩山无线论坛 - Powered by RSSHub",

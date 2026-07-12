@@ -74,6 +74,9 @@ _None_
       "target": "/user/fav/:uid"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "undefined 的 bilibili 收藏夹 - Powered by RSSHub",

@@ -67,6 +67,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "The latest news, events, analysis and opinion from The Australian Financial Review - Powered by RSSHub",

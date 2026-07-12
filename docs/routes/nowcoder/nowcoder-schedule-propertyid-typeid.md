@@ -72,6 +72,9 @@ _None_
       "target": "/schedule"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "名企校招日程 - Powered by RSSHub",

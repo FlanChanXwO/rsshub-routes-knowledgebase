@@ -102,6 +102,9 @@ _None_
     "tid": "亚专业，可在对应科室页 URL 中找到，默认为该科室的全部"
   },
   "path": "/:sid?/:tid?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",

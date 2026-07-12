@@ -62,6 +62,9 @@ _None_
     "type": "模块id"
   },
   "path": "/yxy/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

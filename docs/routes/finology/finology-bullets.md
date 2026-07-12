@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Your daily dose of crisp, spicy financial news in 80 words. - Powered by RSSHub",

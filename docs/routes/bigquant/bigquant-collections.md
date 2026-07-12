@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 860,
+  "heat": 859,
   "location": "collections.ts",
   "maintainers": [
     "nczitzk"
@@ -66,6 +66,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "专题报告 - AI量化知识库 - BigQuant - Powered by RSSHub",

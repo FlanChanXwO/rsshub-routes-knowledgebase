@@ -68,6 +68,9 @@ _None_
       "target": "/blog"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Flashcat 快猫星云博客 - Powered by RSSHub",

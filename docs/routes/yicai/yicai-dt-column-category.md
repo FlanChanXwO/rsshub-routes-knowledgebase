@@ -102,6 +102,9 @@ _None_
     "column": "栏目，见下表，默认为文章"
   },
   "path": "/dt/:column?/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "用数据度量商业 让数据自由跨界 - Powered by RSSHub",

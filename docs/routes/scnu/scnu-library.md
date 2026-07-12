@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "华南师范大学图书馆 - 通知公告 - Powered by RSSHub",

@@ -61,6 +61,9 @@ _None_
     "type": "帖子分类, 见下表，默认为 hot，即热门帖子"
   },
   "path": "/thread/:type?/:order?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "一亩三分地 - 热门帖子 - Powered by RSSHub",

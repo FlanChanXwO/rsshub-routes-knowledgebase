@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "广西民族大学图书馆 -- 最新消息 - Powered by RSSHub",

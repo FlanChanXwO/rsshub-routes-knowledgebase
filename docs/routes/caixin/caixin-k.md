@@ -57,6 +57,9 @@ _None_
   "name": "财新一线",
   "parameters": {},
   "path": "/k",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "财新网 - 财新一线新闻 - Powered by RSSHub",

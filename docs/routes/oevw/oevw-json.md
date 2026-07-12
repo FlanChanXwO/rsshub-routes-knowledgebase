@@ -50,6 +50,9 @@ _None_
     "json": "JSON request body, as sent to oevw.at/suche"
   },
   "path": "/:json?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

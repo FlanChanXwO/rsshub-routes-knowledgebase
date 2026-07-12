@@ -111,6 +111,9 @@ _None_
     }
   },
   "path": "/search/:keyword/:order?/:mode?/:include_ai?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Palworld 的 pixiv 热门内容 - Powered by RSSHub",

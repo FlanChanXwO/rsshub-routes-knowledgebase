@@ -101,7 +101,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 537767,
+  "heat": 537770,
   "location": "media.ts",
   "maintainers": [
     "DIYgod",
@@ -125,8 +125,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "原创女摄，坐标杭州。可带拍、代拍模特。不卖图和视频。未经允许禁止搬运到墙内，推止于推。有收费粉丝群/模特群，粉丝和模特都可以私信我进群。防丢小号@Aka_1127QQ。 - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:40:30.544Z",
-      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/media/IES_anh\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API error: 401\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nFailed to fetch\nTwitter API is not configured\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57247782311076864",
       "image": "https://pbs.twimg.com/profile_images/1451868077818146817/uuTu8dWW.jpg",
       "ownerUserId": null,

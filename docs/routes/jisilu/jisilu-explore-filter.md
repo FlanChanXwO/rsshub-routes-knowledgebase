@@ -58,7 +58,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 295,
+  "heat": 296,
   "location": "explore.ts",
   "maintainers": [
     "nczitzk"
@@ -77,6 +77,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",

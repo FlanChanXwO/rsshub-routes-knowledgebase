@@ -66,6 +66,9 @@ _None_
     "mode": "Mode, see below, videos with comments (by date) by default, as `1`"
   },
   "path": "/videos/maker/:maker?/:language?/:mode?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

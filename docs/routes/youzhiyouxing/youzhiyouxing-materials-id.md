@@ -109,6 +109,9 @@
       "target": "/materials"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "有知有行 - 全部 - Powered by RSSHub",

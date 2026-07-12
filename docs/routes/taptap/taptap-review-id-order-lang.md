@@ -80,6 +80,9 @@
       "target": "/review/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

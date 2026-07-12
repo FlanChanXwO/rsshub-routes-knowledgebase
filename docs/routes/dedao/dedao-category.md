@@ -50,6 +50,9 @@ _None_
     "category": "分类，见下表，默认为`news`"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "得到App、得到高研院、知识春晚、How Talk、罗振宇“时间的朋友”跨年演讲的最新动态，以及刘润、梁宁、吴军、香帅、薛兆丰等得到系老师的人物故事。2020年除夕夜,知识春晚登陆深圳卫视。 - Powered by RSSHub",

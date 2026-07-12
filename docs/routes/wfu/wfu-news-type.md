@@ -75,6 +75,9 @@
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "news.wfu.edu.cn/"
 }

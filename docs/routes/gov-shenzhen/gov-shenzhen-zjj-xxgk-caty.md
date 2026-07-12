@@ -71,6 +71,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "深圳市住房和建设局 - 通知公告 - Powered by RSSHub",

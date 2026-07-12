@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 164,
+  "heat": 165,
   "location": "nipple-video-category.ts",
   "maintainers": [
     "SnowAgar25"
@@ -74,6 +74,9 @@ _None_
       "title": "動画カテゴリー"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "動画カテゴリー: 神エロ乳首系のAV - chikubi.jp - Powered by RSSHub",

@@ -69,6 +69,9 @@ _None_
       "target": "/szcpxx"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "农业农村部生猪专题 - 重要政策 - Powered by RSSHub",

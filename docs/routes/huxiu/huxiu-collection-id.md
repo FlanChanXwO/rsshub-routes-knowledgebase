@@ -61,11 +61,14 @@ _None_
     "id": "文集 id，可在对应文集页 URL 中找到"
   },
   "path": "/collection/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "人们总担心AI会夺走人类的工作，又或是调侃“人工智障”，鼓吹AI无用论。但无法否认的是，AI所带来的改变，是效率的提升，是对于每个人时间的解放。当前，拥抱AI是少数人的智慧还是多数人的认知？关注此文集，了解AI的底层逻辑、发展现状、瓶颈、机遇、应用和挑战，AI时代，普通人改如何拥抱趋势？ - Powered by RSSHub",
-      "errorAt": "2026-07-10T03:47:34.062Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84588405644249088",
       "image": "https://img.huxiucdn.com/collection/201908/21/115053210567.jpg",
       "ownerUserId": null,
