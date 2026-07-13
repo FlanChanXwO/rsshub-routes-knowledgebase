@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海博物馆 - 新闻与公告 - Powered by RSSHub",
-      "errorAt": "2026-07-09T21:32:18.026Z",
-      "errorMessage": "[POST] \"https://www.shanghaimuseum.net/mu/frontend/pg/infomation/search-info\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1153239806356881408",
       "image": null,
       "ownerUserId": null,

@@ -88,7 +88,7 @@ _None_
     {
       "description": "内容运营聚合内容运营知识、内容运营能力、内容运营主要工作等干货知识，一站式解决内容运营管理、内容运营主要工作问题。 - Powered by RSSHub",
       "errorAt": "2026-04-21T15:32:07.708Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.niaogebiji.com/cat/136\": <no response> fetch failed\n",
       "id": "71110389108097024",
       "image": null,
       "ownerUserId": null,

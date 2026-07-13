@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "同济大学研究生院通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-12T02:37:45.781Z",
+      "errorMessage": "[GET] \"https://gs.tongji.edu.cn/tzgg.htm\": <no response> fetch failed\n",
       "id": "104772158131144704",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

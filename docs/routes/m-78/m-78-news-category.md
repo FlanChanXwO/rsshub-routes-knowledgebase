@@ -121,6 +121,18 @@ _None_
   "topFeeds": [
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
+      "errorAt": "2026-07-11T23:56:46.683Z",
+      "errorMessage": "m.map is not a function\n",
+      "id": "82624813968150528",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://m-78.jp/news/category/news/",
+      "title": "ニュース | ニュース",
+      "type": "feed",
+      "url": "rsshub://m-78/news"
+    },
+    {
+      "description": "ニュース | ニュース - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "1142847584033701888",
@@ -130,18 +142,6 @@ _None_
       "title": "ニュース | ニュース",
       "type": "feed",
       "url": "rsshub://m-78/news/news"
-    },
-    {
-      "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "82624813968150528",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://m-78.jp/news/category/news/",
-      "title": "ニュース | ニュース",
-      "type": "feed",
-      "url": "rsshub://m-78/news"
     }
   ],
   "view": 0

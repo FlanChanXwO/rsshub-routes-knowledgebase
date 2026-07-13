@@ -28,8 +28,8 @@
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
-- `antiCrawler`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -50,14 +50,14 @@
   "description": "| 原发布 | 长文 | 问答 | 热门 | 交易 |\n| ------ | ---- | ---- | ---- | ---- |\n| 0      | 2    | 4    | 9    | 11   |",
   "example": "/xueqiu/user/8152922548",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2776,
+  "heat": 2777,
   "location": "user.ts",
   "maintainers": [
     "imlonghao"

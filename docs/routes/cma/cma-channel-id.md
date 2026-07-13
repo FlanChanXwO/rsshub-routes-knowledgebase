@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "中国气象局提供权威的天气预报、气象预警、卫星云图、雷达图等专业服务产品 - Powered by RSSHub",
-      "errorAt": "2026-07-11T01:41:32.614Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\nCannot read properties of undefined (reading 'replaceAll')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62458101978222592",
       "image": "https://weather.cma.cn/assets/cmalogo.png",
       "ownerUserId": null,

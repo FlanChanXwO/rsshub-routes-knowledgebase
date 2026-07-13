@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2499,
+  "heat": 2501,
   "location": "index.ts",
   "maintainers": [
     "laampui"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-07-11T02:47:24.942Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 44366244616936448",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "44366244616936448",
       "image": null,
       "ownerUserId": null,

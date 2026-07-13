@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 17,
+  "heat": 18,
   "location": "illustfollow.ts",
   "maintainers": [
     "ClarkeCheng"
@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "Pixiv关注的画师们的最新作品 - Powered by RSSHub",
-      "errorAt": "2026-07-11T02:47:27.744Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60197119360862208",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60197119360862208",
       "image": null,
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 921,
+  "heat": 922,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/culture/2026/07/10/the-wild-gripping-story-of-the-nord-stream-pipeline-bombing\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/07/10/how-to-train-for-a-heatwave\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/science-and-technology/2026/07/10/how-to-train-for-a-heatwave\": 403 Forbidden\nFailed to fetch\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/29/hong-kong-once-a-great-place-to-raise-and-spend-money-is-halfway-back\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "🌈资深程序猿一名 🏠分享AI知识，以及好用的软件推荐 🙊一个说真话的培训师 软件都在 抖音粉丝群 承接各类培训服务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T09:24:05.477Z",
+      "errorMessage": "Invalid code point 0.00390625\n无法获取用户信息\n",
       "id": "84064321853358080",
       "image": "https://sf6-cdn-tos.bdxiguastatic.com/img/user-avatar/b8b6c80c419c2743cabb64c20b65271b~300x300.image",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "科普号@听风的蚕讲科普 关注不迷路🤙🏻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-11T20:16:04.841Z",
+      "errorMessage": "无法获取用户信息\n",
       "id": "84412058211393536",
       "image": "https://p3-sign.toutiaoimg.com/user-avatar/574d56bc5fcc3e3dd56bf1d0989e7c2e~300x300.image?_iz=112761&from=tt_user.profile_all_shortvideo&lk3s=06827d14&x-expires=1784419200&x-signature=%2B8S%2FztgVXrUm8x3wHKbNElrtWpk%3D",
       "ownerUserId": null,

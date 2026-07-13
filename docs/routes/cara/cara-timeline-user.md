@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - StainedRaven - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:48:02.059Z",
+      "description": "Timeline - Britney Thoreson - Powered by RSSHub",
+      "errorAt": "2025-11-26T13:58:42.378Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127389161552182272",
-      "image": "https://cdn.cara.app/production/profiles/cde28ab4-5d8c-4605-bfda-a77a75547977/303e63fc-08c1-4889-a9ac-785a604dc2a2.jpg",
+      "id": "127384563223460864",
+      "image": "https://cdn.cara.app/production/profiles/1b09ec83-f0f8-4d52-ac03-99610774aefc/0000471C-4233-4967-A20B-6ACE30C7A8B3.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/stainedraven/all",
-      "title": "Timeline - StainedRaven",
+      "siteUrl": "https://cara.app/britneythoresonart/all",
+      "title": "Timeline - Britney Thoreson",
       "type": "feed",
-      "url": "rsshub://cara/timeline/stainedraven"
+      "url": "rsshub://cara/timeline/britneythoresonart"
     }
   ]
 }

@@ -46,7 +46,7 @@ _None_
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 838,
+  "heat": 840,
   "location": "new-videos.tsx",
   "maintainers": [
     "TonyRL"

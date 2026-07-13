@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 263,
+  "heat": 264,
   "location": "daily-news.ts",
   "maintainers": [
     "Rjnishant530"

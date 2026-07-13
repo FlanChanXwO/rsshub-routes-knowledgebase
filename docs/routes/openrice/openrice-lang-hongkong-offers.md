@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "在 OpenRice 香港搜尋的優惠券。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-12T03:02:58.941Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72523066247936000",
       "image": null,
       "ownerUserId": null,

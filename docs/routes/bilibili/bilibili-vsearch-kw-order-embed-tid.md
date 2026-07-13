@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 223,
+  "heat": 224,
   "location": "vsearch.ts",
   "maintainers": [
     "pcrtool",

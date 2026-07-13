@@ -47,7 +47,7 @@ _None_
     "requireConfig": false,
     "requirePuppeteer": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "news.ts",
   "maintainers": [
     "w3nhao"

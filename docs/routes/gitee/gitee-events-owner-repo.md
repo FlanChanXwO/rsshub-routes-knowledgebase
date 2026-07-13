@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 15,
   "location": "repos/events.ts",
   "maintainers": [
     "TonyRL"
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "labuladong/fucking-algorithm - 仓库动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-12T02:04:12.308Z",
+      "errorMessage": "Cannot read properties of null (reading 'login')\n",
       "id": "165023100116440064",
       "image": null,
       "ownerUserId": null,

@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/qstheory/magazine/qs",
-  "heat": 477,
+  "heat": 479,
   "location": "magazine.ts",
   "maintainers": [
     "TonyRL",
@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "80489063705907200",
-      "image": "http://www.qstheory.cn/20260627/18bb4ac2324f433ab779524e7fb3f527/7aae83f30fe343dfb05776ecc77ee434.jpg",
+      "image": "http://www.qstheory.cn/20260711/e98e5e1b57cb42d096331e5d782402af/8026abf350c54490822116d90520346b.jpg",
       "ownerUserId": null,
       "siteUrl": "http://www.qstheory.cn/hqwglist/mulu.htm",
       "title": "《红旗文稿》 - 求是网",

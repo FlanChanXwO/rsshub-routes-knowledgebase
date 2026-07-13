@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 406,
+  "heat": 405,
   "location": "wechat2rss.ts",
   "maintainers": [
     "TonyRL"

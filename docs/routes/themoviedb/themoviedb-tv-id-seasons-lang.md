@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The Message was a surreal comedy series which spoofs current practices in the television industry. It originally aired in 2006 on BBC Three. It consisted of six episodes, and was not renewed after the first season. - Powered by RSSHub",
+      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "90020177225086976",
-      "image": "https://image.tmdb.org/t/p/original/wK9h8FwbmOWlMyW6fT2C6yFPvSu.jpg",
+      "id": "83016713777551360",
+      "image": "https://image.tmdb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/3/seasons",
-      "title": "The Message - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/100088/seasons",
+      "title": "The Last of Us - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/3/seasons"
+      "url": "rsshub://themoviedb/tv/100088/seasons"
     }
   ],
   "view": 5

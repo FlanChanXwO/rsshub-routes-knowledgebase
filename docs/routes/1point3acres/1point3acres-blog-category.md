@@ -89,8 +89,8 @@
     },
     {
       "description": "留学申请 | 美国留学就业生活攻略 - Powered by RSSHub",
-      "errorAt": "2026-07-11T02:08:36.973Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55160374844817408",
       "image": null,
       "ownerUserId": null,

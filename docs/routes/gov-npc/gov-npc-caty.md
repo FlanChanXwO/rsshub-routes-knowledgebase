@@ -78,7 +78,7 @@
     {
       "description": "权威发布_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-03-13T13:27:53.178Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "76238928708564992",
       "image": null,
       "ownerUserId": null,

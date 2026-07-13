@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 15,
   "location": "audio.ts",
   "maintainers": [
     "LogicJake"

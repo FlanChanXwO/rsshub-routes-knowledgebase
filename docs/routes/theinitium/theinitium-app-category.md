@@ -76,7 +76,7 @@ Category 栏目：
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1547,
+  "heat": 1548,
   "location": "app.ts",
   "maintainers": [
     "quiniapiezoelectricity",

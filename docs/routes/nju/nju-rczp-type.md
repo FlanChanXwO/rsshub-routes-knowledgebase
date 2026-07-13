@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "人才招聘-信息发布 - Powered by RSSHub",
-      "errorAt": "2026-07-10T21:58:00.070Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62660840174386176",
       "image": null,
       "ownerUserId": null,

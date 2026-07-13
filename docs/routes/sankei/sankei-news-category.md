@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/sankei/news/flash",
-  "heat": 27,
+  "heat": 28,
   "location": "news.ts",
   "maintainers": [
     "yuikisaito"

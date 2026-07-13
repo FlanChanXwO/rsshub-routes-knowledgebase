@@ -72,7 +72,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-26T04:23:58.101Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "149642094386478112",
       "image": null,
       "ownerUserId": null,
@@ -83,15 +83,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2025-06-01T04:10:13.443Z",
+      "errorAt": "2025-06-01T04:10:13.653Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "151850021267056692",
+      "id": "151850021267056697",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://nowcoder/discuss/9/4"
+      "url": "rsshub://nowcoder/discuss/3/4"
     }
   ]
 }

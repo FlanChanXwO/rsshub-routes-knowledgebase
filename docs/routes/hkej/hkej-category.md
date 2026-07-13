@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 92,
+  "heat": 93,
   "location": "index.tsx",
   "maintainers": [
     "TonyRL"
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": "2026-07-08T10:57:11.137Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/international/article/4455479\": 429 Too Many Requests\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69975396806332416",
       "image": null,
       "ownerUserId": null,

@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for zabbix/zabbix-docker - Powered by RSSHub",
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "95485494519570432",
+      "id": "84958270281030656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/zabbix/zabbix-docker/graphs/contributors",
-      "title": "zabbix/zabbix-docker Contributors",
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/zabbix/zabbix-docker"
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     },
     {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "145641760615368704",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     }
   ]
 }

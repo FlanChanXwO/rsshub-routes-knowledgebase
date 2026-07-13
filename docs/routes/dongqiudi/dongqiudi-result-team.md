@@ -62,7 +62,7 @@ _None_
     {
       "description": "皇家马德里 比赛结果 - Powered by RSSHub",
       "errorAt": "2026-04-30T13:38:24.780Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'filter')\n",
       "id": "63132054928183296",
       "image": null,
       "ownerUserId": null,

@@ -81,7 +81,7 @@
     {
       "description": "undefined - Powered by RSSHub",
       "errorAt": "2024-11-12T16:29:48.931Z",
-      "errorMessage": "503 Service Unavailable\n503 Service Unavailable\n",
+      "errorMessage": "503 Service Unavailable\nFailed to fetch\n",
       "id": "69296270546855936",
       "image": null,
       "ownerUserId": null,

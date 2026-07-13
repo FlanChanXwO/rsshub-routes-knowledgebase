@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "ChatGPT Release Notes - Powered by RSSHub",
-      "errorAt": "2026-07-10T22:23:44.001Z",
-      "errorMessage": "[GET] \"https://help.openai.com/en/articles/6825453-chatgpt-release-notes\": 504 Gateway Timeout\n[GET] \"https://help.openai.com/en/articles/6825453-chatgpt-release-notes\": 504 Gateway Timeout\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "241365607440964608",
       "image": null,
       "ownerUserId": null,

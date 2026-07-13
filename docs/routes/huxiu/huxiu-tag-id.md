@@ -50,7 +50,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 19,
   "location": "tag.ts",
   "maintainers": [
     "xyqfer",

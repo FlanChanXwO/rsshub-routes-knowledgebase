@@ -39,7 +39,7 @@ _None_
   ],
   "description": "Retrieve the activities associated with a specified account in the decentralized system.",
   "example": "/rss3/vitalik.eth",
-  "heat": 134,
+  "heat": 133,
   "location": "index.ts",
   "maintainers": [
     "DIYgod",

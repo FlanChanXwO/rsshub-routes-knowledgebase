@@ -26,7 +26,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -44,14 +44,14 @@ _None_
   ],
   "example": "/xueqiu/today",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 207,
+  "heat": 208,
   "location": "today.ts",
   "maintainers": [
     "nczitzk"

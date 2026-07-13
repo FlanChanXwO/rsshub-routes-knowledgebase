@@ -96,8 +96,8 @@
     },
     {
       "description": "新知 | 上下游新聞 - Powered by RSSHub",
-      "errorAt": "2026-07-10T22:13:24.554Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "111389962417871873",
       "image": null,
       "ownerUserId": null,
