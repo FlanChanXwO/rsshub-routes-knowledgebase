@@ -78,7 +78,7 @@ _None_
     {
       "description": "鸟哥笔记-今日事 - Powered by RSSHub",
       "errorAt": "2026-04-21T12:00:34.532Z",
-      "errorMessage": "[POST] \"https://www.niaogebiji.com/pc/bulletin/index\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "[POST] \"https://www.niaogebiji.com/pc/bulletin/index\": <no response> fetch failed\n[POST] \"https://www.niaogebiji.com/pc/bulletin/index\": <no response> fetch failed\n",
       "id": "63474398493291526",
       "image": null,
       "ownerUserId": null,

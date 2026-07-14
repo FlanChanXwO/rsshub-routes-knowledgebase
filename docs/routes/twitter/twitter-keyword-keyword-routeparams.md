@@ -104,7 +104,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5094,
+  "heat": 5092,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -140,8 +140,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter Keyword - RSSHub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T02:52:52.183Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/keyword/RSSHub\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "41150240545595393",
       "image": null,
       "ownerUserId": null,

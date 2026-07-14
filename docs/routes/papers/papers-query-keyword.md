@@ -89,8 +89,8 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
   "topFeeds": [
     {
       "description": "llms for scientific discovery - Powered by RSSHub",
-      "errorAt": "2026-07-12T03:18:00.349Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "191737387979350016",
       "image": null,
       "ownerUserId": null,

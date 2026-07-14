@@ -109,8 +109,8 @@ _None_
     },
     {
       "description": "快讯 - Followin - Powered by RSSHub",
-      "errorAt": "2026-02-06T08:52:00.748Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41419133062574080",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41419133062574080",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

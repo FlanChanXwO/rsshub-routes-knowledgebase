@@ -79,7 +79,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "242665903234866176",
-      "image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/08987e23b94057953fd4f1738694bf5f~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=6c0d47a8&x-expires=1783976400&x-signature=DoBmGnHWjTAOyn7dved00po4hZc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
+      "image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/08987e23b94057953fd4f1738694bf5f~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=f9236691&x-expires=1784077200&x-signature=9RU34eKtyb9i7YMhiEu9SPfedZU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=fdd36af4&idc=useast5",
       "ownerUserId": null,
       "siteUrl": "https://www.tiktok.com/@khaby.lame/live",
       "title": "Khabane lame (@khaby.lame)'s Live Stream - TikTok",

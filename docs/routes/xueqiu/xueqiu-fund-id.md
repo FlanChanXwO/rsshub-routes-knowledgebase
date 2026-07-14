@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "基金代码 017093 <br> 今日净值(2026-07-09) ¥2.8140 <br> 日涨跌 1.5371% - Powered by RSSHub",
-      "errorAt": "2026-07-12T00:52:10.799Z",
-      "errorMessage": "[GET] \"https://danjuanapp.com/djapi/fund/017093\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64899487882088448",
       "image": null,
       "ownerUserId": null,

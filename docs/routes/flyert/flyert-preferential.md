@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "飞客茶馆优惠 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T02:32:32.646Z",
+      "errorMessage": "[GET] \"https://www.flyert.com/portal.php?mod=view&aid=527800\": 503 Service Temporarily Unavailable\nFailed to fetch\n",
       "id": "56540861752061952",
       "image": null,
       "ownerUserId": null,

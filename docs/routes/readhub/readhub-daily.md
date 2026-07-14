@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4773,
+  "heat": 4775,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 苹果起诉 OpenAI，指控其盗用商业机密 2. 知情人士回应腾讯考虑入股 Manus：不会控股 3. OpenAI 安全负责人海德克离职，团队转归研发线 4. 遭连日舆论抨击后，Meta 暂停 AI 图像生成功能 5. 马斯克称 SpaceX 价值将有望超过地球上所有其他资产总和 6. 日本将测试发射可重复使用火箭以追赶 SpaceX 7. 智谱创始人唐杰发布内部信：将开启 Touch High（摸高）计划，「不登顶，就是失败」 8. 《功夫女足》上映首日总票房破 1 亿 - Powered by RSSHub",
+      "description": "1. SpaceX 星舰定于当地时间 7 月 16 日第 13 次试飞 2. 金山办公：WPS 已完成初步存储管理能力优化，开放体验版试用 3. 长江存储公布 IPO 辅导团队 中信与中信建投合计 31 人组成 4. 赛力斯：预计上半年净亏损 15 亿元到 18 亿元，同比转亏 5. 三星计划将龙仁首座晶圆工厂投产时间提前至 2029 年 6. 1000℃烧透不变形徒手可拿 中国隔热材料跻身世界第一梯队 7. 中国卫星：预计上半年业绩扭亏为盈 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

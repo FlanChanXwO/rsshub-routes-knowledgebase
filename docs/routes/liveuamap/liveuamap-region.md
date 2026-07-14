@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "Liveuamap - china - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T05:10:33.694Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "85175414937704448",
       "image": null,
       "ownerUserId": null,

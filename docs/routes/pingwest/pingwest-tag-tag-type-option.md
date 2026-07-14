@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 新零售 - Powered by RSSHub",
-      "errorAt": "2026-05-25T09:02:12.074Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=12279&type=0\": 405 Not Allowed\n",
-      "id": "86387422106570752",
+      "description": "品玩 - 电子书 - Powered by RSSHub",
+      "errorAt": "2026-05-25T11:32:16.079Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=1326&type=0\": 405 Not Allowed\n",
+      "id": "121129408988533760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/12279",
-      "title": "品玩 - 新零售",
+      "siteUrl": "https://www.pingwest.com/tag/1326",
+      "title": "品玩 - 电子书",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/12279/1"
+      "url": "rsshub://pingwest/tag/1326/1"
     }
   ]
 }

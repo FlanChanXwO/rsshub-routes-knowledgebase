@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-12T20:13:25.666Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.leiphone.com/site/YejieKuaixun\": 502 Bad Gateway\n",
       "id": "96796985521440776",
       "image": null,
       "ownerUserId": null,

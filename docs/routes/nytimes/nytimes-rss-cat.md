@@ -95,7 +95,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/video/us/politics/100000011019171/the-us-and-iran-are-fighting-again-is-the-cease-fire-over.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

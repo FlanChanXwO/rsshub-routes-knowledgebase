@@ -38,7 +38,7 @@ _None_
   "categories": [
     "other"
   ],
-  "heat": 732,
+  "heat": 731,
   "location": "index.tsx",
   "maintainers": [],
   "name": "Unknown",
@@ -67,7 +67,7 @@ _None_
     {
       "description": "榜单只是一种维度，愿你找到喜欢的节目 - Powered by RSSHub",
       "errorAt": "2026-01-25T09:47:40.828Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n",
       "id": "68855551484634217",
       "image": null,
       "ownerUserId": null,

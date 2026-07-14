@@ -126,8 +126,8 @@ _None_
     },
     {
       "description": "Friendly tutorials for developers. Focus on General | - Powered by RSSHub",
-      "errorAt": "2026-07-12T02:01:00.507Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "173783026750924800",
       "image": null,
       "ownerUserId": null,

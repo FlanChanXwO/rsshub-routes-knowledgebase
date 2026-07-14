@@ -67,8 +67,8 @@ _None_
     },
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T03:14:29.875Z",
+      "errorMessage": "Authentication failed. Access denied.\n/zaobao/other/forum/views\nUnexpected end of JSON input\n[GET] \"https://www.zaobao.com/forum/views\": 403 Forbidden\n",
       "id": "114855620432737280",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

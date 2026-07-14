@@ -108,8 +108,8 @@ _None_
   "topFeeds": [
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T02:57:25.914Z",
+      "errorMessage": "[GET] \"https://www.medsci.cn/article/show_article.do?id=edfc942989f7\": 403 Forbidden\n[GET] \"https://www.medsci.cn/article/show_article.do?id=edfc942989f7\": 403 Forbidden\n[GET] \"https://www.medsci.cn/article/show_article.do?id=edfc942989f7\": 403 Forbidden\n",
       "id": "70825962351576064",
       "image": null,
       "ownerUserId": null,

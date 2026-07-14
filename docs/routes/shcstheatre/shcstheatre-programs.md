@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海文化广场 - 节目列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T01:17:01.168Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "57678974871415814",
       "image": "https://static-pc.shcstheatre.com/images/logo1.png",
       "ownerUserId": null,

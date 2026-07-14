@@ -76,7 +76,7 @@ _None_
   "topFeeds": [
     {
       "description": "网贴翻译包括趣闻轶事,英语翻译,日语翻译,韩语翻译,德语翻译,西语翻译,法语翻译,翻译网 - Powered by RSSHub",
-      "errorAt": "2026-04-23T18:57:12.705Z",
+      "errorAt": "2026-07-13T02:10:47.311Z",
       "errorMessage": "[GET] \"https://www.ltaaa.cn/article\": <no response> fetch failed\n",
       "id": "124430765697571840",
       "image": "https://www.ltaaa.cn/static/home/images/logo.png",

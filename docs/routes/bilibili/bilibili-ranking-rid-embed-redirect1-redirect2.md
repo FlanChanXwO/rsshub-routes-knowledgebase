@@ -11,7 +11,7 @@
 - Example: `/bilibili/ranking/all`
 - URL: `www.bilibili.com`
 - Language: `_None_`
-- Categories: `social-media, popular`
+- Categories: `social-media`
 - Maintainers: `DIYgod, hyoban`
 - Source Location: `ranking.ts`
 - Source Module: `_None_`
@@ -39,11 +39,10 @@ _None_
 ```json
 {
   "categories": [
-    "social-media",
-    "popular"
+    "social-media"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 8401,
+  "heat": 730,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -136,20 +135,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "78806242632741888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
-      "title": "bilibili 排行榜-全站",
-      "type": "feed",
-      "url": "rsshub://bilibili/ranking/0"
-    },
-    {
-      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": "2026-07-11T18:11:16.506Z",
-      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n-352\n",
+      "errorAt": "2026-07-12T08:12:44.486Z",
+      "errorMessage": "-352\n-352\n",
       "id": "79067786101345280",
       "image": null,
       "ownerUserId": null,
@@ -157,6 +144,18 @@ _None_
       "title": "bilibili 排行榜-全站",
       "type": "feed",
       "url": "rsshub://bilibili/ranking/0/1"
+    },
+    {
+      "description": "bilibili 排行榜-舞蹈 - Powered by RSSHub",
+      "errorAt": "2025-12-23T16:01:16.653Z",
+      "errorMessage": "-352\n",
+      "id": "78833272579505152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/v/popular/rank/dance",
+      "title": "bilibili 排行榜-舞蹈",
+      "type": "feed",
+      "url": "rsshub://bilibili/ranking/7"
     }
   ],
   "view": 3

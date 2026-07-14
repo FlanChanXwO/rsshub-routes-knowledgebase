@@ -134,7 +134,7 @@ _None_
     {
       "description": "白银 (@baiyinn811) public posts - Picuki - Powered by RSSHub",
       "errorAt": "2024-12-09T13:19:26.547Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/picuki/profile/baiyinn811\nFailed to fetch\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/picuki/profile/baiyinn811\nFailed to fetch\nContent does not exist.\n",
       "id": "68562239082161152",
       "image": "https://cdn1.picuki.com/hosted-by-instagram/q/yep6IPkO1EBGZyPbcMUQzeBRjaJ4Rg1ONw==.jpeg",
       "ownerUserId": null,

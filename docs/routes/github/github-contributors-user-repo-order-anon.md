@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "description": "New contributors for aigem/videos - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84958270281030656",
+      "id": "145641760615368704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
-      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
+      "title": "aigem/videos Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
+      "url": "rsshub://github/contributors/aigem/videos"
     },
     {
-      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
+      "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78928360835988480",
+      "id": "126806034891658240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
-      "title": "open-metadata/OpenMetadata Contributors",
+      "siteUrl": "https://github.com/LOWERTOP/Shadowrocket-First/graphs/contributors",
+      "title": "LOWERTOP/Shadowrocket-First Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
+      "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
     }
   ]
 }

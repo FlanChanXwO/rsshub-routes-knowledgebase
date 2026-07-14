@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "热点聚焦 ,其乐 Keylol - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-12T22:13:07.578Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58758095877738496",
       "id": "58758095877738496",
       "image": null,
       "ownerUserId": null,

@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 390989,
+  "heat": 390878,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",

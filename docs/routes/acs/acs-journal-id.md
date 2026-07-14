@@ -67,16 +67,16 @@ _None_
       "url": "rsshub://acs/journal/esthag"
     },
     {
-      "description": "Chemical Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1164621930578182144",
+      "description": null,
+      "errorAt": "2025-09-19T00:56:58.043Z",
+      "errorMessage": "Waiting for selector `.toc` failed: waitForFunction failed: frame got detached.\n",
+      "id": "191666157347082242",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://pubs.acs.org/toc/chreay/0/0",
-      "title": "Chemical Reviews",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://acs/journal/chreay"
+      "url": "rsshub://acs/journal/jacsat"
     }
   ]
 }

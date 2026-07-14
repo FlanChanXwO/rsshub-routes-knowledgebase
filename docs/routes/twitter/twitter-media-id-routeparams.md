@@ -101,7 +101,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 537773,
+  "heat": 537781,
   "location": "media.ts",
   "maintainers": [
     "DIYgod",
@@ -125,8 +125,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "原创女摄，坐标杭州。可带拍、代拍模特。不卖图和视频。未经允许禁止搬运到墙内，推止于推。有收费粉丝群/模特群，粉丝和模特都可以私信我进群。防丢小号@Aka_1127QQ。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T02:31:55.915Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/media/IES_anh\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API error: 401\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "57247782311076864",
       "image": "https://pbs.twimg.com/profile_images/1451868077818146817/uuTu8dWW.jpg",
       "ownerUserId": null,
@@ -137,8 +137,8 @@ Currently supported authentication methods:
     },
     {
       "description": "another acc：@yummyforw ig：yummychiyow ⛔️订阅只有fantia与Patreon ⛔️其余账号、其余平台都是盗图仿冒⛔️ Cosplay Subscribe :https://t.co/GE0vafd6NH🍒 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T02:13:42.644Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/media/yummychiyo\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/media/yummychiyo\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "61071487909769216",
       "image": "https://pbs.twimg.com/profile_images/1408707778030366724/avbdODw3.jpg",
       "ownerUserId": null,

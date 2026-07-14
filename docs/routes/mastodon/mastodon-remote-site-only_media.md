@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://mastodon/remote/pawoo.net/true"
     },
     {
-      "description": "Federated Public Timeline on baraag.net - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "111448345272221696",
+      "description": "Federated Public Timeline on klog.tw - Powered by RSSHub",
+      "errorAt": "2026-01-20T10:48:32.731Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "id": "77712542683452416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://baraag.net/",
-      "title": "Federated Public Timeline on baraag.net",
+      "siteUrl": "https://klog.tw/",
+      "title": "Federated Public Timeline on klog.tw",
       "type": "feed",
-      "url": "rsshub://mastodon/remote/baraag.net/false"
+      "url": "rsshub://mastodon/remote/klog.tw/false"
     }
   ],
   "view": 1

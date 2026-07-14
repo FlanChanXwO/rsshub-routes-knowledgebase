@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 27,
   "location": "user.tsx",
   "maintainers": [
     "Dectinc",

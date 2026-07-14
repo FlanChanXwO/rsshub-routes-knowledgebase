@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 445,
+  "heat": 447,
   "location": "news.ts",
   "maintainers": [
     "yy4382"

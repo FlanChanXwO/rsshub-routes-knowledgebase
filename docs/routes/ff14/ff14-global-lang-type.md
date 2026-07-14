@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "FFXIV Lodestone updates (all) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T02:32:50.571Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81190222645790720",
       "image": null,
       "ownerUserId": null,

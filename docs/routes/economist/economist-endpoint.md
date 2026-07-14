@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/science-and-technology/2026/07/10/how-to-train-for-a-heatwave\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.economist.com/middle-east-and-africa/2026/07/12/the-ebola-epidemic-is-getting-out-of-control\": 403 Forbidden\n[GET] \"https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

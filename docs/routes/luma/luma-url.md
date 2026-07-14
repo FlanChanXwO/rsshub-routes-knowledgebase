@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
+      "description": "Reading Rhythms Global - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966889769333760",
+      "id": "265967037132484608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/comunidadinnovacion",
-      "title": "Comunidad de Innovación LATAM",
+      "siteUrl": "https://lu.ma/readingrhythms-global",
+      "title": "Reading Rhythms Global",
       "type": "feed",
-      "url": "rsshub://luma/comunidadinnovacion"
+      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "lu.ma"
