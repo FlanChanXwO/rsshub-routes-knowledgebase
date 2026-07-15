@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "145641760615368704",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
-    },
-    {
       "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "LOWERTOP/Shadowrocket-First Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
+    },
+    {
+      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "183741893306669056",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
+      "title": "obaby/baby-wechat Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/obaby/baby-wechat"
     }
   ]
 }

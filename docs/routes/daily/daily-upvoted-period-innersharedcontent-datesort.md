@@ -40,7 +40,7 @@ _None_
     "social-media"
   ],
   "example": "/daily/upvoted/7",
-  "heat": 22,
+  "heat": 21,
   "location": "upvoted.ts",
   "maintainers": [
     "Rjnishant530"

@@ -69,21 +69,10 @@ _None_
   },
   "path": "/event/:cityCode/:showStyle?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
-    {
-      "description": "秀动网 - 杭州 - 摇滚 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "68586319985771520",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 杭州 - 摇滚",
-      "type": "feed",
-      "url": "rsshub://showstart/event/571/2"
-    },
     {
       "description": "秀动网 - 上海 - 摇滚 - Powered by RSSHub",
       "errorAt": null,
@@ -95,6 +84,18 @@ _None_
       "title": "秀动网 - 上海 - 摇滚",
       "type": "feed",
       "url": "rsshub://showstart/event/21/2"
+    },
+    {
+      "description": "秀动网 - 杭州 - 摇滚 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68586319985771520",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.showstart.com/",
+      "title": "秀动网 - 杭州 - 摇滚",
+      "type": "feed",
+      "url": "rsshub://showstart/event/571/2"
     }
   ]
 }

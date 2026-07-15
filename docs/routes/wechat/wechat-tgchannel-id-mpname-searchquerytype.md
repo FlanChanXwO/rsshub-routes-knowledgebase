@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "三联生活周刊 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T20:55:57.904Z",
+      "errorMessage": "[GET] \"https://t.me/s/lifeweek\": <no response> fetch failed\n[GET] \"https://t.me/s/lifeweek\": <no response> fetch failed\n[GET] \"https://t.me/s/lifeweek\": <no response> fetch failed\n[GET] \"https://t.me/s/lifeweek\": <no response> fetch failed\n[GET] \"https://t.me/s/lifeweek\": <no response> fetch failed\n[GET] \"https://t.me/s/lifeweek\": <no response> fetch failed\n",
       "id": "41372078898845696",
       "image": null,
       "ownerUserId": null,

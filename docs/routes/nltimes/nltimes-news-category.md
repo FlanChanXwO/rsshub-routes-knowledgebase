@@ -92,8 +92,8 @@
     },
     {
       "description": "NL Times -- Politics - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T18:32:13.095Z",
+      "errorMessage": "[GET] \"https://www.nltimes.nl/categories/politics\": 403 Forbidden\n",
       "id": "180670433614968832",
       "image": null,
       "ownerUserId": null,

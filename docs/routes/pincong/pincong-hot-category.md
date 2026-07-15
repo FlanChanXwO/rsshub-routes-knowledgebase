@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 100,
+  "heat": 101,
   "location": "hot.ts",
   "maintainers": [
     "zphw"
@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "品葱 - 精选 - Powered by RSSHub",
-      "errorAt": "2026-07-13T02:29:36.767Z",
-      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53908061985105940",
       "image": null,
       "ownerUserId": null,

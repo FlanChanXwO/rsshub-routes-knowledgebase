@@ -111,8 +111,8 @@
   "topFeeds": [
     {
       "description": "Latest Articles on Smashingmagazine.com - Powered by RSSHub",
-      "errorAt": "2026-07-13T05:13:38.777Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "102715689541183507",
       "image": null,
       "ownerUserId": null,

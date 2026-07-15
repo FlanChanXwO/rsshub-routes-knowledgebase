@@ -90,32 +90,33 @@ _None_
   },
   "path": "/search/:type/:keyword?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "秀动网 - 搜演出 - Fine乐团 - Powered by RSSHub",
+      "description": "秀动网 - 搜艺人 - 声音玩具 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73918360042176533",
+      "id": "220803179682283520",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜演出 - Fine乐团",
+      "title": "秀动网 - 搜艺人 - 声音玩具",
       "type": "feed",
-      "url": "rsshub://showstart/search/Fine%E4%B9%90%E5%9B%A2"
+      "url": "rsshub://showstart/search/artist/%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7"
     },
     {
-      "description": "秀动网 - 搜城市 - 苏州 - Powered by RSSHub",
+      "description": "秀动网 - 搜城市 - 成都 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "175967172586634240",
+      "id": "138149010608228352",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜城市 - 苏州",
+      "title": "秀动网 - 搜城市 - 成都",
       "type": "feed",
-      "url": "rsshub://showstart/search/city/%E8%8B%8F%E5%B7%9E"
+      "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
     }
   ]
 }

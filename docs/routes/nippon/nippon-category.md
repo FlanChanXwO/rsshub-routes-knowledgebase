@@ -91,8 +91,8 @@
     },
     {
       "description": "走进日本 - Society - Powered by RSSHub",
-      "errorAt": "2026-07-13T01:43:56.569Z",
-      "errorMessage": "[GET] \"https://www.nippon.com/api/search/cn/category_code/20/1/Society?t=1783907034738\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82398566855976960",
       "image": null,
       "ownerUserId": null,

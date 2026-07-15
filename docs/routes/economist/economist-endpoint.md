@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/09/chinas-media-gloat-at-britains-chaotic-democracy\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-but-keeping-their-tech\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/12/china-is-dealing-with-its-own-manosphere\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/06/a-rare-chinese-missile-test-unnerves-asian-neighbours\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

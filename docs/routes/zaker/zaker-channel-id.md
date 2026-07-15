@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/channel/13",
-  "heat": 48,
+  "heat": 49,
   "location": "channel.ts",
   "maintainers": [
     "LogicJake",
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-14T00:07:13.270Z",
+      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a556d688e9f0979547965dc\": <no response> fetch failed\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

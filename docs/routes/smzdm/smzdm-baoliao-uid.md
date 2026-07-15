@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 60,
+  "heat": 58,
   "location": "baoliao.ts",
   "maintainers": [
     "nczitzk"

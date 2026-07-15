@@ -85,7 +85,7 @@ _None_
     },
     {
       "description": "情报 - 動漫區 - Powered by RSSHub",
-      "errorAt": "2026-07-13T02:32:53.832Z",
+      "errorAt": "2026-07-13T19:23:00.505Z",
       "errorMessage": "Authentication failed. Access denied.\n/yamibo/bbs/forum/5/404\nFailed to fetch\n",
       "id": "99080947264681984",
       "image": null,

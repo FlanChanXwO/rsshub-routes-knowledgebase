@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
+      "description": "Auction your items off in style! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86130193434324992",
+      "id": "114583999678704640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/epic-fight",
-      "title": "Epic Fight Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/U3Q9GAst",
+      "title": "CrazyAuctions Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/epic-fight/versions"
+      "url": "rsshub://modrinth/project/U3Q9GAst/versions"
     }
   ]
 }

@@ -68,14 +68,13 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected [ …(35) ] to not include 'https://www.ainvest.com/news/ai-earni…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:91:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-14T00:06:12.665Z",
+      "errorMessage": "[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \nUnexpected token '<', \"<OvseRespo\"... is not valid JSON\n[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \n",
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

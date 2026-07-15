@@ -131,8 +131,8 @@ Topics
     },
     {
       "description": "Culture Articles on grist.org - Powered by RSSHub",
-      "errorAt": "2026-07-13T05:13:31.183Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "108633066455945216",
       "image": null,
       "ownerUserId": null,

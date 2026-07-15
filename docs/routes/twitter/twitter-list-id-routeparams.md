@@ -105,7 +105,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5643,
+  "heat": 5646,
   "location": "list.ts",
   "maintainers": [
     "DIYgod",
@@ -129,8 +129,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter List - 1842817257933844798 - Powered by RSSHub",
-      "errorAt": "2026-07-12T12:13:49.526Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 65802121820371968",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65802121820371968",
       "image": null,
       "ownerUserId": null,
@@ -141,8 +141,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter List - 1502570462752219136 - Powered by RSSHub",
-      "errorAt": "2026-07-13T03:58:36.423Z",
-      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59816386195718144",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
     "game"
   ],
   "example": "/steam/search/sort_by=Released_DESC&tags=492&category1=10&os=linux",
-  "heat": 4,
+  "heat": 5,
   "location": "search.ts",
   "maintainers": [
     "moppman"

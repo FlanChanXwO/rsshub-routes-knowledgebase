@@ -56,7 +56,7 @@ Please refer to [Wikipedia](https://en.wikipedia.org/wiki/ISO_4217#Active_codes)
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "usersheets.tsx",
   "maintainers": [
     "Freddd13"
