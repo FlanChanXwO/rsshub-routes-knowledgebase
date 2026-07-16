@@ -90,7 +90,7 @@
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
       "errorAt": "2026-07-10T17:55:56.588Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Failed to parse URL from https:\n",
+      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n",
       "id": "84175249418008576",
       "image": null,
       "ownerUserId": null,
@@ -102,7 +102,7 @@
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
       "errorAt": "2026-07-10T21:26:18.457Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Failed to parse URL from https:\n",
+      "errorMessage": "[GET] \"https://www.pconline.com.cn/3g/other/focus/index.html\": <no response> Number of requests reached it's maximum 4800\nFailed to fetch\n",
       "id": "59139256789618688",
       "image": null,
       "ownerUserId": null,

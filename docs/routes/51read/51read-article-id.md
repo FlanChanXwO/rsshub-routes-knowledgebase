@@ -100,7 +100,7 @@ _None_
     {
       "description": "冒姓琅琊小说阅读冒姓琅琊由作家东周公子南创作小兵提供冒姓琅琊免费最新章节冒姓琅琊最新更新章节0- - Powered by RSSHub",
       "errorAt": "2026-06-23T13:31:03.182Z",
-      "errorMessage": "[GET] \"https://m.51read.org/zhangjiemulu/411029\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "202284532302966784",
       "image": "https://cdn.tongjiba.top/public/image/nocover.jpg",
       "ownerUserId": null,

@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "订阅每个城市的天气质量 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:04:19.605Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81563872281993216",
       "image": null,
       "ownerUserId": null,

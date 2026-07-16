@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "新浪财经－财经滚动新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:42.415Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "245850080340167680",
       "image": null,
       "ownerUserId": null,

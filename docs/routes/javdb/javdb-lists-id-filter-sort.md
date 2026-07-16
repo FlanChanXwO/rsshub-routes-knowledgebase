@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 37,
+  "heat": 38,
   "location": "lists.ts",
   "maintainers": [
     "dddepg"
@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "神片列表 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:02:08.934Z",
+      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n[GET] \"https://javdb.com/lists/gVQq?lst=0\": 403 Forbidden\nFailed to fetch\n",
       "id": "129737927519721472",
       "image": null,
       "ownerUserId": null,
@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "幼嫩白涩 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:30:42.006Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "129738038308376576",
       "image": null,
       "ownerUserId": null,

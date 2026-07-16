@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "本周看什么 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:43:28.154Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/sspai/tag/%E6%9C%AC%E5%91%A8%E7%9C%8B%E4%BB%80%E4%B9%88\nFailed to fetch\n",
       "id": "56232529208193024",
       "image": null,
       "ownerUserId": null,

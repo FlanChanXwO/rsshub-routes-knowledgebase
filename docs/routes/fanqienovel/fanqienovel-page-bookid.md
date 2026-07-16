@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "【争霸+种田+大唐30k+群像】 原名《爱你老妈，玄武门见》 李唯穿越到了女频世界的大唐，成了李世民嫡孙，却被女帝送去草原做和亲驸马。 武氏将军卖国求荣，朝中栋梁与门阀世家蒙蔽在女频天道的厌胜之术中乐不思蜀。 他们高呼‘是武周终结了贞观乱世，是女帝拯救了天下苍生’！ 穆穆大唐，邦之神器，岂容女频天道如此亵渎？ 我从未想过要同室操戈， 太宗皇帝曾驱逐蒙昧的混乱时代， 带领我们走向了贞观盛世。 但你，武曌，你背叛了李唐皇室，背叛了我们所有人。 你窃取了皇帝的龙椅，对你的臣子们撒了谎。 大唐只有一次复兴的机会， 如果你没有能力抓住它，那就让我来完成。 ——让战争开启吧 从草原的边际，到中原的腹地。 让黄河燃烧！ 让长安陨落！ 如果我不能从你的失败中拯救它，那就让中原燃烧吧。 女频？武周？女帝？ 厌胜？伪周？妖妇？ 我将率领三军，兵临城下，玄武门见，妖妇别跑。 - Powered by RSSHub",
+      "description": "有人说，官场是权力的游戏，尔虞我诈，勾心斗角，比江湖更险恶。 刘浮生觉得，官场是情与法，黑与白，真实与谎言，更是人间正道。 前世的他，唯唯诺诺，一心求稳，却遭人陷害，郁郁而终。 重活一世，他早已洞悉官场，青云之路尽在眼中，挡我者，必将万劫不复！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "132362353112244224",
-      "image": "https://p3-novel-sign.byteimg.com/novel-pic/p2o35efb89f35a48a0878f40016dd90c4cb~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1777853504&x-signature=1QhJ27sg%2B%2BAHw4hz67r7Vu%2B8kDs%3D",
+      "id": "125208460025614336",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/p2o51f9a4a8ec7d3d27446f67797c1c949c~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1784177659&x-signature=rx9q9duqboxJWErdZXLzlb132f8%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7471572297443200025",
-      "title": "爱你老妈，玄武门见 - 墨色染秋",
+      "siteUrl": "https://fanqienovel.com/page/7199473033239596087",
+      "title": "重生：官运亨通 - 弹剑听潮",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7471572297443200025"
+      "url": "rsshub://fanqienovel/page/7199473033239596087"
     }
   ]
 }

@@ -105,7 +105,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5646,
+  "heat": 5647,
   "location": "list.ts",
   "maintainers": [
     "DIYgod",
@@ -129,8 +129,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter List - 1842817257933844798 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:54:18.476Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nAuthentication failed. Access denied.\n/twitter/list/1842817257933844798\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "65802121820371968",
       "image": null,
       "ownerUserId": null,
@@ -141,8 +141,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter List - 1502570462752219136 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:01.132Z",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "59816386195718144",
       "image": null,
       "ownerUserId": null,

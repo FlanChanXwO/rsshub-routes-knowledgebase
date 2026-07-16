@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "紳士漫畫-專註分享漢化本子|邪惡漫畫 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:34.521Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "61633751842982920",
       "image": null,
       "ownerUserId": null,

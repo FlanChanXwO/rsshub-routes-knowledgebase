@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": "2026-07-14T00:22:47.154Z",
-      "errorMessage": "Cannot read properties of null (reading 'trim')\nAuthentication failed. Access denied.\n/fx678/kx\nCannot read properties of null (reading 'trim')\n",
+      "errorAt": "2026-07-15T05:31:42.164Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/fx678/kx\nFailed to fetch\n",
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "Cryptocurrency News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:18:49.999Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69315953676176384",
       "image": "https://static.fwimg.io/img/user/7024bd1650e88fecd407590437ebc50dae75497d",
       "ownerUserId": null,

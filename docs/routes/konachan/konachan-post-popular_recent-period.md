@@ -120,7 +120,7 @@
     {
       "description": "Last week - konachan.com - Powered by RSSHub",
       "errorAt": "2026-07-13T19:02:34.057Z",
-      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\nFailed to fetch\n",
       "id": "62202498728230912",
       "image": null,
       "ownerUserId": null,

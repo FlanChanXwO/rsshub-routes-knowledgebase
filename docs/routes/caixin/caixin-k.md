@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新网 - 财新一线新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:47.428Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41835391477202944",
       "image": null,
       "ownerUserId": null,

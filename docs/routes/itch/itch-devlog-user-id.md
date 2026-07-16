@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "Devlog - Agent17 (18+ Adult Game) by HEXATAIL - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:56:37.162Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81600518557769728",
       "image": null,
       "ownerUserId": null,

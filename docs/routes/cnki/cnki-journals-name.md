@@ -78,7 +78,7 @@ _None_
     {
       "description": "微纳电子技术 - Powered by RSSHub",
       "errorAt": "2026-07-08T05:55:18.033Z",
-      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": <no response> fetch failed\n",
+      "errorMessage": "500 \n",
       "id": "159265390001661952",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "电子与封装 - Powered by RSSHub",
       "errorAt": "2026-06-24T06:21:45.990Z",
-      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=DYFZ&Virtual=knavi\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "159266714924499968",
       "image": null,
       "ownerUserId": null,

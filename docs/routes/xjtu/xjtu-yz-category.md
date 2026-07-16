@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "西安交通大学研究生招生信息网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:56:07.331Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "134832567118453760",
       "image": null,
       "ownerUserId": null,

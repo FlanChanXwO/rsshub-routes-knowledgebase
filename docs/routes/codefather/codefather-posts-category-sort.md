@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "编程导航社区最新帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:38:13.540Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "238290887490977792",
       "image": null,
       "ownerUserId": null,

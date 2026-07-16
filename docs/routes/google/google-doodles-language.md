@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 369,
+  "heat": 370,
   "location": "doodles.ts",
   "maintainers": [
     "xyqfer"
@@ -66,7 +66,7 @@ _None_
     {
       "description": "Google Doodles - Powered by RSSHub",
       "errorAt": "2025-05-02T15:53:49.300Z",
-      "errorMessage": "[GET] \"https://www.google.com/doodles/json/2026/7?hl=zh-CN\": 404 Not Found\n[GET] \"https://www.google.com/doodles/json/2026/7?hl=zh-CN\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "64590393280128000",
       "image": null,
       "ownerUserId": null,

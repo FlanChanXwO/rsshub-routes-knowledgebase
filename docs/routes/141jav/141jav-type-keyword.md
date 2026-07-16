@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:34:06.188Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "53022189134482432",
       "image": null,
       "ownerUserId": null,

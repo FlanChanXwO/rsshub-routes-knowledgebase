@@ -95,8 +95,8 @@ _None_
   "topFeeds": [
     {
       "description": "DIYgod的手办 - 已入 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:52:31.817Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65439658397984768",
       "image": null,
       "ownerUserId": null,
@@ -107,8 +107,8 @@ _None_
     },
     {
       "description": "DIYgod的手办 - 想买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:52:10.825Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65439580772686848",
       "image": null,
       "ownerUserId": null,

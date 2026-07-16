@@ -99,8 +99,8 @@
   "topFeeds": [
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:34.881Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "101228634856437760",
       "image": null,
       "ownerUserId": null,
@@ -111,8 +111,8 @@
     },
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:16.265Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "102293253660793856",
       "image": null,
       "ownerUserId": null,

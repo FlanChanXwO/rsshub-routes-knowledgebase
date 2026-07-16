@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "CBC News - Latest Canada, World, Entertainment and Business News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:42:08.848Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "165818925513194496",
       "image": null,
       "ownerUserId": null,

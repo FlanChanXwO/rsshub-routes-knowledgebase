@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "電腦應用綜合討論 哈啦板 - 巴哈姆特 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:42:50.854Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81271469008480256",
       "image": null,
       "ownerUserId": null,

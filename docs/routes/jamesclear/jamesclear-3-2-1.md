@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "3 ideas, 2 quotes, and 1 question to consider each week - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:03.250Z",
+      "errorMessage": "Authentication failed. Access denied.\n/jamesclear/3-2-1\nFailed to fetch\n",
       "id": "170844573241254912",
       "image": "https://jamesclear.com/wp-content/uploads/2021/04/3-2-1-Featured-Image.png",
       "ownerUserId": null,

@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "通知公告-中国无线电协会业余无线电分会 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:41:28.506Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "83759460466149376",
       "image": null,
       "ownerUserId": null,

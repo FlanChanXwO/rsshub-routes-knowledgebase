@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "流媒体与创作者经济的深度观察 - Powered by RSSHub",
-      "errorAt": "2026-07-13T13:33:06.946Z",
-      "errorMessage": "[GET] \"https://zhiy.cc/api/app/share/garden/users/upstream\": <no response> fetch failed\n[GET] \"https://zhiy.cc/api/app/share/garden/users/upstream\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56252214742450176",
       "image": "https://qiniu.zhiy.cc/1ed6deaaa522dee8f8487f1aa9acefec/1ed6deaaa522dee8f8487f1aa9acefec",
       "ownerUserId": null,

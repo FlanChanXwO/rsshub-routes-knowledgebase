@@ -73,7 +73,7 @@ _None_
     {
       "description": "DropCatch.com - Powered by RSSHub",
       "errorAt": "2026-01-29T01:16:30.459Z",
-      "errorMessage": "[GET] \"https://www.56kog.com/class/7_1.html\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "164538769126922240",
       "image": null,
       "ownerUserId": null,

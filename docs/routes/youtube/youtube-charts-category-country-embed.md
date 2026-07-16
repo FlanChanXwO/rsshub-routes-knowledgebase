@@ -111,8 +111,8 @@ _None_
     },
     {
       "description": "YouTube Music Charts - Top songs - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:55:14.723Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "57503645768295424",
       "image": null,
       "ownerUserId": null,

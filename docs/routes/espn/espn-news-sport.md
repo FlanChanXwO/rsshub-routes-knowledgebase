@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "ESPN NBA News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:42:14.225Z",
+      "errorMessage": "Authentication failed. Access denied.\n/espn/news/nba\nFailed to fetch\n",
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "ESPN SOCCER News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:39:31.683Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72477890360150016",
       "image": null,
       "ownerUserId": null,

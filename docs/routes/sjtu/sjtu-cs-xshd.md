@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海交通大学计算机学院（网络空间安全学院、密码学院）学术活动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:45:04.958Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "1137029489448845312",
       "image": null,
       "ownerUserId": null,

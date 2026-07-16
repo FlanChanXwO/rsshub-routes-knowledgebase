@@ -70,7 +70,7 @@ _None_
     {
       "description": "#长毛象安利大会 Media Timeline on gochisou.photo - Powered by RSSHub",
       "errorAt": "2026-01-20T11:43:43.693Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "173588946787373056",
       "image": null,
       "ownerUserId": null,

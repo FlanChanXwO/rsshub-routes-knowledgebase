@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "Yifan's favorite articles on Inoreader - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:03:29.566Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60319382185805824",
       "image": "https://www.inoreader.com/brand/img/ino_app_icon.png",
       "ownerUserId": null,

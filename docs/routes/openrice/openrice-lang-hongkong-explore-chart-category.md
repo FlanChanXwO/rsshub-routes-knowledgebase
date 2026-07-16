@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "最多收藏 – 香港餐廳排行榜 – 搵食 | OpenRice 香港開飯喇 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:43:48.585Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76433972999429120",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "最佳甜品餐廳 – 香港餐廳排行榜 – 搵食 | OpenRice 香港開飯喇 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:41:40.940Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76442757221974016",
       "image": null,
       "ownerUserId": null,

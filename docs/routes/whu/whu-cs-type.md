@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "通知公告-武汉大学计算机学院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:43:19.084Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60249215166679040",
       "image": null,
       "ownerUserId": null,

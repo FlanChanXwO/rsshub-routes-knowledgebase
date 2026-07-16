@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 916,
+  "heat": 917,
   "location": "tag.ts",
   "maintainers": [
     "Urabartin"
@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Collection of hot photos and videos of Asian cosplayers. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:51:31.034Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 70321443240539136",
       "id": "70321443240539136",
       "image": null,
       "ownerUserId": null,

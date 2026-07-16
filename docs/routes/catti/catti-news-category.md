@@ -93,8 +93,8 @@
     },
     {
       "description": "CATTI 考试要闻动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:56:15.773Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "101928092390409216",
       "image": "https://www.catticenter.com/img/applogo.png",
       "ownerUserId": null,

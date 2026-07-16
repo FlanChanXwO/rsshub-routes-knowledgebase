@@ -95,8 +95,8 @@
     },
     {
       "description": "豪威集团 - 公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:03:22.599Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64923928046286863",
       "image": null,
       "ownerUserId": null,

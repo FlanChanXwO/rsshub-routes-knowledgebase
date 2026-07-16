@@ -89,8 +89,8 @@
     },
     {
       "description": "掘金 人工智能 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:20:12.911Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/juejin/category/ai\nFailed to fetch\n",
       "id": "42000866869432330",
       "image": null,
       "ownerUserId": null,

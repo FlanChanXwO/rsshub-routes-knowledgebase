@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Zed Industries - Blog - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:33:08.103Z",
+      "errorMessage": "[GET] \"https://zed.dev/blog/repl\": <no response> Number of requests reached it's maximum 4800\nFailed to fetch\n",
       "id": "148523846109257728",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 255,
+  "heat": 256,
   "location": "latest.ts",
   "maintainers": [
     "TonyRL"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "The latest headlines on China finance, companies, politics, international affairs and other China-related issues from around the world. Caixin Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:30:57.673Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41377645117857792",
       "id": "41377645117857792",
       "image": null,
       "ownerUserId": null,

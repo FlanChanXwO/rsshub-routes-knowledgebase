@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Product updates, insights, and research from Augment Code. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:59:14.094Z",
+      "errorMessage": "Empty RSSHub items from 222937053718256640\nFailed to fetch\n",
       "id": "162882772715036672",
       "image": "https://www.augmentcode.com/api/og?title=AI+Development+Blog",
       "ownerUserId": null,

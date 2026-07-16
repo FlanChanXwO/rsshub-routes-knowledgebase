@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣同城-热门活动-108288 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:19:02.839Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66737530237513737",
       "image": null,
       "ownerUserId": null,

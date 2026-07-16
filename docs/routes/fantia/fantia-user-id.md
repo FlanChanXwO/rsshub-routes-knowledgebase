@@ -83,7 +83,7 @@ _None_
     {
       "description": "Fantia - かほてぃあ (夏帆) - Powered by RSSHub",
       "errorAt": "2025-04-30T18:31:32.447Z",
-      "errorMessage": "[GET] \"https://fantia.jp/api/v1/fanclubs/496365\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41147805276726313",
       "image": null,
       "ownerUserId": null,

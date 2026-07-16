@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "Russian Politics & Diplomacy - TASS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:47:27.357Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64310795153576960",
       "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
       "ownerUserId": null,
@@ -91,8 +91,8 @@
     },
     {
       "description": "World - TASS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:56:20.029Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64311310991740928",
       "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
       "ownerUserId": null,

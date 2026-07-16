@@ -74,7 +74,7 @@ _None_
     {
       "description": "人才招聘-北京邮电大学 - Powered by RSSHub",
       "errorAt": "2025-06-17T10:30:31.122Z",
-      "errorMessage": "[GET] \"https://www.bupt.edu.cn/rczp.htm\": 412 Precondition Failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "66343158256695296",
       "image": null,
       "ownerUserId": null,

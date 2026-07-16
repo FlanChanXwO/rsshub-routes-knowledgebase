@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 淘股论坛 | 社区总版 | 精华加油 | 网友点赞 |\n| -------- | -------- | -------- | -------- |\n| bbs      | zongban  | jinghua  | dianzan  |",
   "example": "/taoguba",
-  "heat": 262,
+  "heat": 261,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -57,7 +57,7 @@ _None_
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
       "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2rhxFaz2Dci\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tojJoW1RAY\": 404 \n[GET] \"https://www.tgb.cn//a/2tk9AY0JNMT\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2rhxFaz2Dci\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn/zongban/\": <no response> Number of requests reached it's maximum 4800\n[GET] \"https://www.tgb.cn//a/2tqBKV63tn1\": 404 \n[GET] \"https://www.tgb.cn/zongban/\": 405 Not Allowed\nFailed to fetch\n",
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,

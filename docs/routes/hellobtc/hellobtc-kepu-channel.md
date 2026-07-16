@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "白话区块链 - 科普 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:42:03.611Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68130315498749952",
       "image": null,
       "ownerUserId": null,
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "白话区块链 - 科普 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:20:01.447Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "52357479509098526",
       "image": null,
       "ownerUserId": null,

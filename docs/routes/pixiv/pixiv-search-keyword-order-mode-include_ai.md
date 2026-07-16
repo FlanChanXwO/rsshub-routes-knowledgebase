@@ -117,8 +117,8 @@ _None_
   "topFeeds": [
     {
       "description": "Palworld 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:29:03.281Z",
+      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
       "id": "41147805276726320",
       "image": null,
       "ownerUserId": null,
@@ -129,8 +129,8 @@ _None_
     },
     {
       "description": "ELDENRING 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:33:20.093Z",
+      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
       "id": "41147805276726316",
       "image": null,
       "ownerUserId": null,

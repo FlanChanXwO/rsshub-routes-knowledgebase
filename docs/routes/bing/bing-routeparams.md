@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Bing每日壁纸 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:19:52.249Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "42501169300235264",
       "image": null,
       "ownerUserId": null,

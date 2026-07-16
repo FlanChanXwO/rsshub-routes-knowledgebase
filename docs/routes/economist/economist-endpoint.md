@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/middle-east-and-africa/2026/07/12/the-ebola-epidemic-is-getting-out-of-control\": 403 Forbidden\n[GET] \"https://www.economist.com/united-states/2026/07/12/lindsey-graham-represented-the-arc-of-his-party\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong\": <no response> Number of requests reached it's maximum 4800\nFailed to fetch\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/06/28/donald-trump-is-kicking-out-chinese-firms-but-keeping-their-tech\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/12/china-is-dealing-with-its-own-manosphere\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/06/a-rare-chinese-missile-test-unnerves-asian-neighbours\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.economist.com/china/2026/07/05/has-china-obtained-the-worlds-most-important-machine\": 403 Forbidden\nFailed to fetch\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

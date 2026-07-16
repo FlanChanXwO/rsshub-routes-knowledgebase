@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "研究生院-动态通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:39:16.873Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62660915118210048",
       "image": null,
       "ownerUserId": null,

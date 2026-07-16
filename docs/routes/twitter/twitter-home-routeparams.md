@@ -119,7 +119,7 @@ Currently supported authentication methods:
     {
       "description": "Twitter following timeline - Powered by RSSHub",
       "errorAt": "2026-03-26T13:21:38.201Z",
-      "errorMessage": "No valid Twitter token found\nTwitter API is not configured\n",
+      "errorMessage": "Failed to fetch\nTwitter API is not configured\n",
       "id": "59171583511089152",
       "image": null,
       "ownerUserId": null,

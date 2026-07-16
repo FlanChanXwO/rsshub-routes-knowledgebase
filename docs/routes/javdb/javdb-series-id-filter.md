@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "中出し 射精執行官 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:14:59.768Z",
+      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nAuthentication failed. Access denied.\n/javdb/series/3aZz\nFailed to fetch\nFailed to fetch\n",
       "id": "84865535466264576",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "絶対忠実秘書 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:14:59.413Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "85160035655452672",
       "image": null,
       "ownerUserId": null,

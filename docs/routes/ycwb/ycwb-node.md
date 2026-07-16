@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "羊城晚报金羊网 - 首页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:46:35.512Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 65552639683390464",
       "id": "65552639683390464",
       "image": null,
       "ownerUserId": null,

@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "LA UOSC-最新帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:53:15.098Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69988054872006656",
       "image": null,
       "ownerUserId": null,
@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "LA UOSC-最新帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:42:59.977Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "92079131400677376",
       "image": null,
       "ownerUserId": null,

@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "osu! Beatmap Pack - standard - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:43:13.242Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "83063680805214208",
       "image": null,
       "ownerUserId": null,

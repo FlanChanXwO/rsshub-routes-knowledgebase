@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "公告公示（预告公布） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:49:42.925Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "64568770572881945",
       "image": null,
       "ownerUserId": null,

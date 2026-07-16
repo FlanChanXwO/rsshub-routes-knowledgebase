@@ -140,8 +140,8 @@ _None_
   "topFeeds": [
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:55:54.472Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72596134870584320",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,
@@ -152,8 +152,8 @@ _None_
     },
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:50:56.625Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62849148807841792",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

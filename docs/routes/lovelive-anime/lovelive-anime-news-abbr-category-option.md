@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "lovelive official website news - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:04.564Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "63026938870732800",
       "image": null,
       "ownerUserId": null,

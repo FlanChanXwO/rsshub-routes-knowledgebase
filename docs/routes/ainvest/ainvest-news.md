@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1536,
+  "heat": 1537,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
       "errorAt": "2026-07-14T00:06:12.665Z",
-      "errorMessage": "[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \nUnexpected token '<', \"<OvseRespo\"... is not valid JSON\n[GET] \"https://news.ainvest.com/content-page/v1/page/ai-debt-hits-1-2-trillion-smart-capex-stress-test-2607\": 404 \n",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63585517712903168",
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

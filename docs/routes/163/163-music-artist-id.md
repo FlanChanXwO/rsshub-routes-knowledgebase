@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - 张震岳 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "103886421708829696",
-      "image": "https://p1.music.126.net/lZkH6tfmc9de2skBTfNNng==/109951170927210866.jpg",
+      "description": "网易云音乐歌手专辑 - Les Rallizes Denudes - Powered by RSSHub",
+      "errorAt": "2026-07-15T05:04:25.261Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "103886134004613120",
+      "image": "https://p1.music.126.net/mVQ3i2ch8U9OG6c-NbVZ8w==/109951169989353063.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=6453",
-      "title": "张震岳",
+      "siteUrl": "https://music.163.com/#/artist/album?id=95507",
+      "title": "Les Rallizes Denudes",
       "type": "feed",
-      "url": "rsshub://163/music/artist/6453"
+      "url": "rsshub://163/music/artist/95507"
     }
   ]
 }

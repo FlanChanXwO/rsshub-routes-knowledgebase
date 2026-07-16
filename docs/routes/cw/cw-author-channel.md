@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "《天下雜誌》是《經濟學人》獨家授權的合作媒體。歡迎搜尋Podcast《經濟學人＠天下》，獲得最新一期《經濟學人》獨家解讀。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:51:40.089Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69435755254558720",
       "image": "https://cdn-www.cw.com.tw/article/201909/article-5d75f21940867.jpg",
       "ownerUserId": null,

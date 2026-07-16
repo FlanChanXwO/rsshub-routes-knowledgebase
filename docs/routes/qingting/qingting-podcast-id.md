@@ -88,8 +88,8 @@
     },
     {
       "description": "这里有局座从未讲过的独家观点，热点问题深度剖析，抽丝剥茧解读国际风云大势。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:40:58.709Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "63145503255841792",
       "image": "http://pic.qtfm.cn/channel/2020/04/20/729ae2b14a19657d635b9306838b8aec.jpg!400",
       "ownerUserId": null,

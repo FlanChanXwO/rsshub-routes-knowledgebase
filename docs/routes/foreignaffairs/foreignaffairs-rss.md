@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "Foreign Affairs - RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:15:45.451Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "119928653973749760",
       "image": null,
       "ownerUserId": null,

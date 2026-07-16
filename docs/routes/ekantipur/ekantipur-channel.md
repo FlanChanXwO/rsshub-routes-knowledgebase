@@ -57,7 +57,7 @@ Channels:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 5,
   "location": "issue.ts",
   "maintainers": [
     "maniche04"

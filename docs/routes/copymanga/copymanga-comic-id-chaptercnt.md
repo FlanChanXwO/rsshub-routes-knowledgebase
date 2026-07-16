@@ -84,7 +84,7 @@ _None_
     {
       "description": "炎拳作者登陸周刊少年JUMP，震蕩世界的黑暗英雄物語。 被騙得負債累累、過著貧窮生活的少年電次， 與電鋸惡魔啵奇塔一起做惡魔獵人，勉強活了下來， 但是有一天卻被殘暴的惡魔盯上了……？！ - Powered by RSSHub",
       "errorAt": "2025-06-19T07:09:50.996Z",
-      "errorMessage": "[GET] \"https://www.mangacopy.com/api/v3/comic/dianjuren/group/default/chapters?limit=500&offset=0\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "71910097657797632",
       "image": null,
       "ownerUserId": null,

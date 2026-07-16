@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Changelog for Claude Code CLI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:18:58.566Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "259003498298762240",
       "image": null,
       "ownerUserId": null,

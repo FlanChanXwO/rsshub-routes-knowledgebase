@@ -89,8 +89,8 @@ _None_
   "topFeeds": [
     {
       "description": "Huggingface Community Articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:42:08.113Z",
+      "errorMessage": "Failed to fetch\n500 \n",
       "id": "144398027815873536",
       "image": null,
       "ownerUserId": null,
@@ -101,8 +101,8 @@ _None_
     },
     {
       "description": "Huggingface Community Articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:20:17.248Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "163588196308261888",
       "image": null,
       "ownerUserId": null,

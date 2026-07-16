@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "漫畫 - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:39:34.793Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72575658360313856",
       "image": null,
       "ownerUserId": null,

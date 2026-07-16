@@ -59,7 +59,7 @@ _None_
     {
       "description": ",4K世界 - Powered by RSSHub",
       "errorAt": "2025-08-29T19:35:36.310Z",
-      "errorMessage": "[GET] \"https://www.4ksj.com/4k-uhd-1.html\": <no response> fetch failed\n[GET] \"https://www.4ksj.com/4k-uhd-1.html\": <no response> fetch failed\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "61772657634165760",
       "image": "https://cloud.tencent.com.aliyun.dalvhe.com/template/nex_film_181120/neoconex/logo.png",
       "ownerUserId": null,

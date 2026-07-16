@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "ニュース | 櫻坂46公式サイト - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:39.325Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "114345339950180352",
       "image": null,
       "ownerUserId": null,

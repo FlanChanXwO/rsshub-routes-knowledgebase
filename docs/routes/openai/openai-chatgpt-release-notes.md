@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "ChatGPT Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:14:13.462Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "241365607440964608",
       "image": null,
       "ownerUserId": null,

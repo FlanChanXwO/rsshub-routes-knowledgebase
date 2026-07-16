@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2885,
+  "heat": 2889,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"
@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "科学网 - 精选博文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:34:20.848Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "66291831749510152",
       "image": null,
       "ownerUserId": null,

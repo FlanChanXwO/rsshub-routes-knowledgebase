@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "空气质量排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:40:04.109Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84881942044598272",
       "image": null,
       "ownerUserId": null,

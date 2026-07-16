@@ -258,8 +258,8 @@
   "topFeeds": [
     {
       "description": "国家市场监督管理总局缺陷产品管理中心,缺陷产品,缺陷产品管理中心,汽车产品召回,消费品召回,科学研究,安全教育,法律法规,缺陷信息报告,汽车三包信息,车企信息平台,车辆事故调查,车辆事故调查产品伤害监测 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:51:06.170Z",
+      "errorMessage": "503 Service Unavailable\nFailed to fetch\n",
       "id": "190987678071546880",
       "image": "https://www.samrdprc.org.cn/images/logo_DPRC.png",
       "ownerUserId": null,

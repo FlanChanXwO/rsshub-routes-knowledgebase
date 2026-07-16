@@ -78,14 +78,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "最新短剧 - moduzy.net - Powered by RSSHub",
+      "description": "最新动漫电影 - moduzy.net - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "142620753499722752",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://moduzy.net/",
-      "title": "最新短剧 - moduzy.net",
+      "title": "最新动漫电影 - moduzy.net",
       "type": "feed",
       "url": "rsshub://maccms/moduzy.net/6"
     },

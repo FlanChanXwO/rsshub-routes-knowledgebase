@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "哔哩哔哩更新情报 - 安卓版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:42:13.095Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "126248708971069440",
       "image": null,
       "ownerUserId": null,

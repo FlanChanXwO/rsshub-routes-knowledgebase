@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "中南大学学校信箱 - 校长信箱 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:43:42.318Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81350858120764416",
       "image": null,
       "ownerUserId": null,

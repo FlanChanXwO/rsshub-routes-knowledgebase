@@ -75,7 +75,7 @@ _None_
     {
       "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",
       "errorAt": "2026-05-22T17:41:26.911Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'screen_name')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "59965365270185984",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "陈达美股投资 的雪球收藏动态 - Powered by RSSHub",
       "errorAt": "2024-12-03T09:58:41.916Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'screen_name')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "86391133411299328",
       "image": null,
       "ownerUserId": null,

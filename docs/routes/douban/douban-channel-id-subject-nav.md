@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣美剧频道书影音下的电视剧推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:01:41.345Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76960076233678848",
       "image": null,
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "豆瓣历史频道书影音下的电影推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:14:18.420Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61440669496322048",
       "image": null,
       "ownerUserId": null,

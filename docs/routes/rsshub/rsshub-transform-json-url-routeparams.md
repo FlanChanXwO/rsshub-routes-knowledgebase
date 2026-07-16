@@ -103,6 +103,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",
+      "errorAt": "2026-01-20T01:18:15.664Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
+      "id": "185693700405294080",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://api.github.com/repos/chainreactors/malice-network/releases",
+      "title": "IOM releases",
+      "type": "feed",
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fmalice-network%2Freleases/title=IOM%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+    },
+    {
       "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
       "errorAt": "2026-01-20T09:51:56.791Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
@@ -113,18 +125,6 @@ _None_
       "title": "goexec releases",
       "type": "feed",
       "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
-    },
-    {
-      "description": "Proxy https://api.github.com/repos/ginuerzh/gost/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:36.929Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185687225196835840",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/ginuerzh/gost/releases",
-      "title": "Gost releases",
-      "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fginuerzh%2Fgost%2Freleases/title=Gost%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

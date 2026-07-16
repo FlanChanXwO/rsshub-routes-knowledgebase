@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Auction your items off in style! - Powered by RSSHub",
+      "description": "Create fancy looking text, item or block holograms with the new 1.19.4 text display entities - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583999678704640",
+      "id": "123850042948199424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/U3Q9GAst",
-      "title": "CrazyAuctions Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/5QNgOj66",
+      "title": "FancyHolograms Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/U3Q9GAst/versions"
+      "url": "rsshub://modrinth/project/5QNgOj66/versions"
     }
   ]
 }

@@ -81,7 +81,7 @@ _None_
     {
       "description": "西北师范大学教务处通知公告 - Powered by RSSHub",
       "errorAt": "2025-10-29T13:20:46.613Z",
-      "errorMessage": "[GET] \"https://jwc.nwnu.edu.cn/tzgg/list.htm\": 412 Precondition Failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "130747779142325248",
       "image": "https://www.nwnu.edu.cn/_upload/tpl/02/d9/729/template729/favicon.ico",
       "ownerUserId": null,

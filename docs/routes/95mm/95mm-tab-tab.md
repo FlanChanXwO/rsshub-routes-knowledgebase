@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 20,
   "location": "tab.ts",
   "maintainers": [
     "nczitzk"
@@ -79,7 +79,7 @@
     {
       "description": null,
       "errorAt": "2025-06-08T19:57:25.619Z",
-      "errorMessage": "[GET] \"https://www.95mm.vip/home-ajax/index.html?tabcid=热门&page=1\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "154611732399652869",
       "image": null,
       "ownerUserId": null,
@@ -91,7 +91,7 @@
     {
       "description": null,
       "errorAt": "2025-07-14T11:50:59.607Z",
-      "errorMessage": "[GET] \"https://www.95mm.vip/home-ajax/index.html?tabcid=最新&page=1\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "167549568401875968",
       "image": null,
       "ownerUserId": null,

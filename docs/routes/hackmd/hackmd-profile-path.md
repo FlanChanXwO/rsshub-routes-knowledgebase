@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "sysprog's profile on HackMD - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:33:32.793Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "120745707634072576",
       "image": null,
       "ownerUserId": null,

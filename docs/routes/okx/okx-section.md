@@ -129,8 +129,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:05.512Z",
+      "errorMessage": "Empty RSSHub items from 147936360793227264\nFailed to fetch\n",
       "id": "114341296718629888",
       "image": null,
       "ownerUserId": null,
@@ -141,8 +141,8 @@ _None_
     },
     {
       "description": "最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:09.871Z",
+      "errorMessage": "Empty RSSHub items from 147936360793227264\nFailed to fetch\n",
       "id": "113827262636876800",
       "image": null,
       "ownerUserId": null,

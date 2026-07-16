@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Gadget Flow - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:47:23.149Z",
+      "errorMessage": "502 \n",
       "id": "186353461477534720",
       "image": null,
       "ownerUserId": null,

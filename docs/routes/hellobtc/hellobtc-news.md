@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "白话区块链 - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:52.371Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "56160660953715712",
       "image": null,
       "ownerUserId": null,

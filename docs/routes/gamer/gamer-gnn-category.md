@@ -150,8 +150,8 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:30:35.627Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61373650705521664",
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,
@@ -162,8 +162,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T06:01:08.241Z",
+      "errorMessage": "200 ",
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

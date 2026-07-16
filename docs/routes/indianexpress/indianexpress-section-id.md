@@ -95,8 +95,8 @@ To subscribe to [Section](https://indianexpress.com/), where the source URL is `
     },
     {
       "description": "Trending News: Check all the latest trending news, latest viral videos, viral memes, world top trending news, Today's trending events, latest fashion trends only at indianexpress.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T06:02:49.217Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "237366416633358336",
       "image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
       "ownerUserId": null,

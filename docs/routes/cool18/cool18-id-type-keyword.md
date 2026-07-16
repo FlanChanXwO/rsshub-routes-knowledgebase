@@ -44,7 +44,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1169,
+  "heat": 1170,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "性趣贴图 cool18 酷18 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:19:50.190Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 154611732391264308",
       "id": "154611732391264308",
       "image": null,
       "ownerUserId": null,

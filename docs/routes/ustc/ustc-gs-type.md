@@ -91,8 +91,8 @@
     },
     {
       "description": "中国科学技术大学研究生院 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:53:34.775Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "52632635595061248",
       "image": null,
       "ownerUserId": null,

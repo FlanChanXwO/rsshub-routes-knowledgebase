@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 312,
+  "heat": 313,
   "location": "music/playlist.ts",
   "maintainers": [
     "DIYgod"

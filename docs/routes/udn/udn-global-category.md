@@ -92,8 +92,8 @@
     },
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:09:09.100Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "157947335946852352",
       "image": null,
       "ownerUserId": null,

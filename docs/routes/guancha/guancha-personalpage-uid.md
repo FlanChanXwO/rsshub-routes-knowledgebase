@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "持续低熵 的个人主页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:30:59.609Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62825086347448323",
       "image": null,
       "ownerUserId": null,
@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://guancha/personalpage/562778"
     },
     {
-      "description": "高志凯频道 的个人主页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "172226578810915840",
+      "description": "金灿荣教授 的个人主页 - Powered by RSSHub",
+      "errorAt": "2026-07-15T05:32:10.318Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "172228390272024576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=1362536",
-      "title": "高志凯频道-观察者-风闻社区",
+      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=210048",
+      "title": "金灿荣教授-观察者-风闻社区",
       "type": "feed",
-      "url": "rsshub://guancha/personalpage/1362536"
+      "url": "rsshub://guancha/personalpage/210048"
     }
   ]
 }

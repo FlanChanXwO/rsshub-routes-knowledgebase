@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "泛式 直播间开播状态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:58:22.223Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55242372435247104",
       "image": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg",
       "ownerUserId": null,
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "EdmundDZhang 直播间开播状态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:41:59.290Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55139597974077440",
       "image": "https://i1.hdslb.com/bfs/face/50900541a74f7875867c38a1e8e572b44b388060.jpg",
       "ownerUserId": null,

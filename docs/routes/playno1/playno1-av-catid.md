@@ -59,7 +59,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1689,
+  "heat": 1691,
   "location": "av.ts",
   "maintainers": [
     "TonyRL"
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "新聞-AVNo.1-PLAYNO.1玩樂達人 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:15:12.283Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55955399997421568",
       "id": "55955399997421568",
       "image": null,
       "ownerUserId": null,

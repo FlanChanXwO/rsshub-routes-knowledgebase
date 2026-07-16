@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "- 求是网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:56.240Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "80832914000440320",
       "image": null,
       "ownerUserId": null,
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://qstheory"
     },
     {
-      "description": "党建 - 求是网 - Powered by RSSHub",
+      "description": "- 求是网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83847865922732032",
+      "id": "81625152130833408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.qstheory.cn/cpc/index.htm",
-      "title": "党建 - 求是网",
+      "siteUrl": "http://www.qstheory.cn/v9zhuanqu/toutiao/index.htm",
+      "title": "- 求是网",
       "type": "feed",
-      "url": "rsshub://qstheory/cpc"
+      "url": "rsshub://qstheory/toutiao"
     }
   ]
 }

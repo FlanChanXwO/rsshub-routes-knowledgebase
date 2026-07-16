@@ -73,7 +73,7 @@ _None_
     {
       "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",
       "errorAt": "2026-01-18T23:04:09.995Z",
-      "errorMessage": "[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "71387723438538752",
       "image": null,
       "ownerUserId": null,

@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "高等教育司 - 司局通知 - 中华人民共和国教育部政府门户网站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:41:48.178Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "92474699286284288",
       "image": null,
       "ownerUserId": null,

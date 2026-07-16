@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Termux releases on F-Droid - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:21.217Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59812950247047168",
       "image": null,
       "ownerUserId": null,

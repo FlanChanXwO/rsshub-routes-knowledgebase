@@ -95,16 +95,16 @@
       "url": "rsshub://neu/yz/phd1"
     },
     {
-      "description": "硕士简章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "173456843055462400",
+      "description": "硕士公告 - Powered by RSSHub",
+      "errorAt": "2026-07-15T05:20:09.489Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "173458671008878592",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://yz.neu.edu.cn/",
-      "title": "硕士简章-东北大学研究生招生信息网",
+      "title": "硕士公告-东北大学研究生招生信息网",
       "type": "feed",
-      "url": "rsshub://neu/yz/master2"
+      "url": "rsshub://neu/yz/master1"
     }
   ],
   "url": "yz.neu.edu.cn"

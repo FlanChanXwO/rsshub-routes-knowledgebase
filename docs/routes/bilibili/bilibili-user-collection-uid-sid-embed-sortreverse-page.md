@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:35:26.047Z",
+      "errorMessage": "Failed to fetch\n500 \nFailed to fetch\n",
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",
       "ownerUserId": null,

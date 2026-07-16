@@ -172,7 +172,7 @@ _None_
     {
       "description": "0xf79f21c74a1E53c5eb148EB0C6E64196a30D439c activities - Powered by RSSHub",
       "errorAt": "2025-06-10T21:12:10.682Z",
-      "errorMessage": "Cannot find module '/app/node_modules/.pnpm/@rss3+api-core@0.0.25/node_modules/@rss3/api-core/dist/types/component-aliases' imported from /app/node_modules/.pnpm/@rss3+api-core@0.0.25/node_modules/@rss3/api-core/dist/index.js\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41948023876312064",
       "image": null,
       "ownerUserId": null,

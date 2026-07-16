@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "魔法禁书目录 - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:45.749Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "126699050007148544",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "败北女角太多了！ - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:41:36.217Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58014655249591296",
       "image": null,
       "ownerUserId": null,

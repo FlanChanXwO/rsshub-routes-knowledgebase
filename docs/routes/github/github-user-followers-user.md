@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "hejunyu1234's followers - Powered by RSSHub",
+      "description": "HenryQW's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69296819593832448",
+      "id": "81385238271710208",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/hejunyu1234",
-      "title": "hejunyu1234's followers",
+      "siteUrl": "https://github.com/HenryQW",
+      "title": "HenryQW's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/hejunyu1234"
+      "url": "rsshub://github/user/followers/HenryQW"
     }
   ]
 }

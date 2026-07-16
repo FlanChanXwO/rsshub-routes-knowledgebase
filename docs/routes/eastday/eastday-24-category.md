@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:33:25.205Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "59852419254124544",
       "image": null,
       "ownerUserId": null,
@@ -97,8 +97,8 @@
     },
     {
       "description": "24小时教育热闻 - 东方资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:30:59.850Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "177651896288583692",
       "image": null,
       "ownerUserId": null,

@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "函件类别：全部函件类别 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:50:04.372Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64306740998267904",
       "image": null,
       "ownerUserId": null,

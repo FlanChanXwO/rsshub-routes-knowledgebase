@@ -74,7 +74,7 @@ _None_
     {
       "description": "The latest news, events, analysis and opinion from The Australian Financial Review - Powered by RSSHub",
       "errorAt": "2024-12-02T20:32:17.473Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'assetsConnectionByCriteria')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "80616874570062848",
       "image": "https://www.afr.com/apple-touch-icon-1024x1024.png",
       "ownerUserId": null,

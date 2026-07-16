@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "SONE - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:06:48.683Z",
+      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n[GET] \"https://javdb.com/video_codes/SONE?f=download\": 403 Forbidden\n502 \nFailed to fetch\n",
       "id": "96109559941147648",
       "image": null,
       "ownerUserId": null,
@@ -102,8 +102,8 @@
     },
     {
       "description": "MIDV - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:06:48.670Z",
+      "errorMessage": "Failed to fetch\n502 \nFailed to fetch\n",
       "id": "96109559941147651",
       "image": null,
       "ownerUserId": null,

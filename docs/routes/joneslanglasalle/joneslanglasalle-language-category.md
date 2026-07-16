@@ -133,8 +133,8 @@ If you subscribe to [Trends & Insights (China)](https://www.joneslanglasalle.com
   "topFeeds": [
     {
       "description": "Insights - JLL China - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:52:10.920Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "86976172947621888",
       "image": "https://www.joneslanglasalle.com.cn/content/dam/jll-com/images/logos/jll-logo-positive.svg",
       "ownerUserId": null,

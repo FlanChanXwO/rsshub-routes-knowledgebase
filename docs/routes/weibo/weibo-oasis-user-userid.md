@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "设计师 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:37:59.267Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "217089827345700864",
       "image": null,
       "ownerUserId": null,

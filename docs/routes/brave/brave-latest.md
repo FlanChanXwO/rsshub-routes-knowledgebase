@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Brave Release Notes | Brave - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:14:33.976Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74302476579862528",
       "image": null,
       "ownerUserId": null,

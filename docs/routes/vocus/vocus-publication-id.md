@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "在我們的生活裡面，處處受到日本文化的影響。現在去日本旅遊的人眾多，也有許多漫畫及日劇受到大家的喜愛。 本專欄作者是日語老師，也是文化研究者。從輕鬆有趣的角度，解析日本文化及日語，並且教大家一些日語中的文化內涵。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:50:13.083Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69582989510702087",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "全世界都是向 Google 看，向臉書看，沒有人往矽谷的另一邊看。所以我要帶你看矽谷很少有人知道的另一面。矽谷不是你想的那樣。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:26:37.622Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "97674302849284096",
       "image": null,
       "ownerUserId": null,

@@ -74,7 +74,7 @@ _None_
     {
       "description": "轻小说 - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-09T11:01:31.698Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "99375532893443072",
       "image": null,
       "ownerUserId": null,

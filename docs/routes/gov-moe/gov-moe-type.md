@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "公告公示 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:34.063Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71386837481924626",
       "image": null,
       "ownerUserId": null,

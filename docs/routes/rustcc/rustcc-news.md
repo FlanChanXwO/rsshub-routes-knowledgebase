@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "获取Rust语言中文社区的新闻/聚合 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:34:41.973Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "54824936780101635",
       "image": null,
       "ownerUserId": null,

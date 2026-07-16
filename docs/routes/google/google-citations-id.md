@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "Google Scholar Citation Monitor: Li Fei-Fei; Profile: Professor of Computer Science, Stanford University; HomePage: http://vision.stanford.edu/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:17:46.021Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "62830172236416000",
       "image": null,
       "ownerUserId": null,

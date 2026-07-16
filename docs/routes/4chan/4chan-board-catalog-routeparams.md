@@ -86,8 +86,8 @@ Specify options (in the format of query string) in parameter `routeParams` to co
   "topFeeds": [
     {
       "description": "4chan's /hc/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:28.208Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "257165880547653632",
       "image": null,
       "ownerUserId": null,

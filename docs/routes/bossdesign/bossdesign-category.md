@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 142,
+  "heat": 141,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -70,7 +70,7 @@ _None_
     {
       "description": "Boss设计-收集国外设计素材网站的资源平台。专注于收集国外设计素材和国外设计网站，以及超实用的设计师神器，只为设计初学者和设计师提供海量的资源平台。.. - Powered by RSSHub",
       "errorAt": "2026-07-12T00:27:27.060Z",
-      "errorMessage": "[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "82629451109655552",
       "image": "https://www.bossdesign.cn/wp-content/themes/pinghsu/images/Bossdesign-ico.ico",
       "ownerUserId": null,
@@ -82,7 +82,7 @@ _None_
     {
       "description": "Boss设计-收集国外设计素材网站的资源平台。专注于收集国外设计素材和国外设计网站，以及超实用的设计师神器，只为设计初学者和设计师提供海量的资源平台。.. - Powered by RSSHub",
       "errorAt": "2026-07-12T06:12:19.399Z",
-      "errorMessage": "[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.bossdesign.cn/wp-json/wp/v2/categories\": <no response> Number of requests reached it's maximum 4800\nFailed to fetch\n",
       "id": "89541310338965504",
       "image": "https://www.bossdesign.cn/wp-content/themes/pinghsu/images/Bossdesign-ico.ico",
       "ownerUserId": null,

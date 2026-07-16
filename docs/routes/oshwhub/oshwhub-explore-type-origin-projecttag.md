@@ -1531,8 +1531,8 @@
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:55:50.161Z",
+      "errorMessage": "200 ",
       "id": "202562470263424000",
       "image": "/_next/static/media/logo.e924b854.png",
       "ownerUserId": null,
@@ -1543,8 +1543,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:00:27.334Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "215454511119244288",
       "image": "/_next/static/media/logo.e924b854.png",
       "ownerUserId": null,

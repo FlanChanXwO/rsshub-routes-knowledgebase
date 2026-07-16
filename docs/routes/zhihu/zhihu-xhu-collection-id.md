@@ -87,7 +87,7 @@ _None_
     {
       "description": "没有星座，没有催眠，没有这是什么心理，没有郁闷，没有发狂，只有一些冷冰冰的干货 - Powered by RSSHub",
       "errorAt": "2025-07-11T09:02:50.544Z",
-      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/appcloud/v1/device\": <no response> fetch failed\n[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
+      "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/appcloud/v1/device\": <no response> fetch failed\nFailed to fetch\n",
       "id": "75086959921015808",
       "image": null,
       "ownerUserId": null,

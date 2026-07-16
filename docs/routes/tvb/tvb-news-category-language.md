@@ -101,8 +101,8 @@
     },
     {
       "description": "TVB News - 要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:24:13.162Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68507536443122688",
       "image": null,
       "ownerUserId": null,

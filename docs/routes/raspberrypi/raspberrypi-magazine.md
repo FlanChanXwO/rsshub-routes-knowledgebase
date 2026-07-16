@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "The back issues of Raspberry Pi Official Magazine. Buy in print or download the digital version for free - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:56:57.599Z",
+      "errorMessage": "Empty RSSHub items from 147936360793227264\nFailed to fetch\n",
       "id": "128821228935856128",
       "image": "https://magazine.raspberrypi.com/storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTEzNTYsInB1ciI6ImJsb2JfaWQifX0=--45b2e7b9a42bca89535b753fc532847c273cf8e1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTIwMCw2MzBdfSwicHVyIjoidmFyaWF0aW9uIn19--17553e2d5dfe4ee39d1db518b51c7c99d0033c99/RPOM167-grey-flat%20copy.jpg",
       "ownerUserId": null,

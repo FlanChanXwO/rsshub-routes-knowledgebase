@@ -135,8 +135,8 @@ You have the option to utilize the main heading or use individual categories as 
     },
     {
       "description": "Code Articles on aListApart.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:30:39.853Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68624257371529216",
       "image": null,
       "ownerUserId": null,

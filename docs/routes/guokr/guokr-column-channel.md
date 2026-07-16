@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "果壳网 物种日历 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:19:47.632Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "42595855568252928",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "果壳网 吃货研究所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:40:02.470Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41843304175275008",
       "image": null,
       "ownerUserId": null,

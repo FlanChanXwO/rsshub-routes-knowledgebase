@@ -83,7 +83,7 @@
     {
       "description": null,
       "errorAt": "2025-06-03T00:36:33.091Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "152521497877571584",
       "image": null,
       "ownerUserId": null,

@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "新浪全部滚动新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:39:34.184Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "86770785762500608",
       "image": null,
       "ownerUserId": null,

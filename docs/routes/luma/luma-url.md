@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "LangChain Events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:33:11.831Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62716706890373120",
       "image": null,
       "ownerUserId": null,
@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
-      "errorAt": "2026-05-26T22:11:47.160Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265966867461735424",
+      "description": "MenteX - Powered by RSSHub",
+      "errorAt": "2026-07-15T05:32:13.951Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/sgbogota",
-      "title": "Bogota Events powered by Startup Grind",
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
       "type": "feed",
-      "url": "rsshub://luma/sgbogota"
+      "url": "rsshub://luma/mentex_ecosistema"
     }
   ],
   "url": "lu.ma"

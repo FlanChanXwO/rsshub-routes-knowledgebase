@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:38:50.962Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84842310298817536",
       "image": null,
       "ownerUserId": null,

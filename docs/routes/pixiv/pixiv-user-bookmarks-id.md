@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:01.850Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "57236269888968706",
       "image": null,
       "ownerUserId": null,

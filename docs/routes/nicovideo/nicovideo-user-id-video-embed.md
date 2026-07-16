@@ -41,7 +41,7 @@ _None_
     "multimedia"
   ],
   "example": "/nicovideo/user/16690815/video",
-  "heat": 46,
+  "heat": 47,
   "location": "video.ts",
   "maintainers": [
     "TonyRL"

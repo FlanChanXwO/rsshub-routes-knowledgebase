@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "nhentai - search - chinese - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:32:20.877Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "65322834478863360",
       "image": null,
       "ownerUserId": null,

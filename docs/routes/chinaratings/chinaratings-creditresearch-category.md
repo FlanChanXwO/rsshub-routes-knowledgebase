@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "行业评论-中债资信评估有限责任公司 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:12:58.106Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "99579340558865408",
       "image": "https://www.chinaratings.com.cn/news/1913.html",
       "ownerUserId": null,
@@ -92,8 +92,8 @@
     },
     {
       "description": "专题报告-中债资信评估有限责任公司 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:05:13.097Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "126552501015293952",
       "image": "https://www.chinaratings.com.cn/news/1913.html",
       "ownerUserId": null,

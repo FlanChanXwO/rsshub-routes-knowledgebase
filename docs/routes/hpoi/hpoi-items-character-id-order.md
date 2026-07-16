@@ -96,8 +96,8 @@ _None_
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 角色周边 1035374 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:13.664Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "59118527455044608",
       "image": null,
       "ownerUserId": null,
@@ -107,16 +107,16 @@ _None_
       "url": "rsshub://hpoi/items/character/1035374"
     },
     {
-      "description": "Hpoi 手办维基 - 角色周边 27361 - Powered by RSSHub",
+      "description": "Hpoi 手办维基 - 角色周边 4651 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "89230360191851520",
+      "id": "62525153362050048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.hpoi.net/hobby/all?order=add&r18=-1&charactar=27361",
-      "title": "Hpoi 手办维基 - 角色周边 27361",
+      "siteUrl": "https://www.hpoi.net/hobby/all?order=release&r18=-1&charactar=4651",
+      "title": "Hpoi 手办维基 - 角色周边 4651",
       "type": "feed",
-      "url": "rsshub://hpoi/items/character/27361"
+      "url": "rsshub://hpoi/items/character/4651/release"
     }
   ],
   "view": 2

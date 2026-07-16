@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "Apple - Apple 服务计划 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:17:14.001Z",
+      "errorMessage": "Authentication failed. Access denied.\n/apple/exchange_repair/zh-cn\nFailed to fetch\n",
       "id": "55178476300040232",
       "image": null,
       "ownerUserId": null,
@@ -91,8 +91,8 @@ _None_
     },
     {
       "description": "Apple - Apple Service Programs - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:01:38.914Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "63183844748751873",
       "image": null,
       "ownerUserId": null,

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT之家 - ai标签 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:31:12.241Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "127730216447523840",
       "image": null,
       "ownerUserId": null,

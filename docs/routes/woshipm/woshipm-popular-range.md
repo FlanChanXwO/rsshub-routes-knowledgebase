@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "热门文章 - 日榜 - 人人都是产品经理 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:19:00.071Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41843691623908352",
       "id": "41843691623908352",
       "image": null,
       "ownerUserId": null,

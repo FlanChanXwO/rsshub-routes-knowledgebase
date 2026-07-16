@@ -90,8 +90,8 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
     },
     {
       "description": "A Science.org blog called In the Pipeline - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T04:50:49.136Z",
+      "errorMessage": "Authentication failed. Access denied.\n/science/blogs/pipeline\nFailed to fetch\n",
       "id": "65419023785781248",
       "image": "https://www.science.org/apple-touch-icon.png",
       "ownerUserId": null,
