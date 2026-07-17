@@ -414,8 +414,8 @@ To subscribe to [Blog](https://www.deepl.com/en/blog), where the source URL is `
   "topFeeds": [
     {
       "description": "We'll keep you updated on the latest developments in AI, our product offerings, and how we enable seamless communication—wherever people do business. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:05:10.679Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "144581805865714692",
       "image": "https://www.deepl.com/img/favicon/automatic_social_share_deepl.png",
       "ownerUserId": null,

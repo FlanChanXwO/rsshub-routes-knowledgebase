@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "限免提醒: Squash — Web Image Compression for macOS - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:44:14.045Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61630586048599162",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "Price watcher: Procreate Dreams for iOS - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:52:41.557Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "120423661323680768",
       "image": null,
       "ownerUserId": null,

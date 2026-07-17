@@ -94,8 +94,8 @@
     },
     {
       "description": "Presidential Actions – The White House - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:31:01.326Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "121830281207047168",
       "image": null,
       "ownerUserId": null,

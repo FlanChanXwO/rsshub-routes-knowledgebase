@@ -49,14 +49,13 @@ _None_
   },
   "path": "/journal/:punumber/:earlyAccess?",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "IEEE Access - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T03:12:39.112Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://ieeexplore.ieee.org/rest/publication/home/metadata?pubid=6287639\": 502 Bad Gateway\nFailed to fetch\n",
       "id": "66654457230659584",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,
@@ -67,8 +66,8 @@ _None_
     },
     {
       "description": "IEEE Transactions on Geoscience and Remote Sensing - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:38:05.456Z",
-      "errorMessage": "[GET] \"https://ieeexplore.ieee.org/document/11570214/\": 420 \nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61591456839305216",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,

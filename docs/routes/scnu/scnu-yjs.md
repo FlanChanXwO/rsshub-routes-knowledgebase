@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "华南师范大学研究生院通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:31:05.780Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67750628998088709",
       "image": null,
       "ownerUserId": null,

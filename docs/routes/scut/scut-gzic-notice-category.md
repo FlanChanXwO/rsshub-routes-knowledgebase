@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "华南理工大学广州国际校区 - 海外学习 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:14:37.319Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72990803507206144",
       "image": null,
       "ownerUserId": null,
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "华南理工大学广州国际校区 - 事务通知 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:04:27.721Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72989533354679296",
       "image": null,
       "ownerUserId": null,

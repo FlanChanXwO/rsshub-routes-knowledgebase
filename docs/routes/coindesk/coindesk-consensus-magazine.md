@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "CoinDesk Consensus Magazine - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:34:47.854Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.coindesk.com/consensus-magazine\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41690378215457792",
       "image": null,
       "ownerUserId": null,

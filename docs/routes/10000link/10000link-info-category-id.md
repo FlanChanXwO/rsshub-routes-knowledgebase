@@ -154,18 +154,19 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:98:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
   },
   "topFeeds": [
     {
-      "description": "京东科技接入上海票交所供票平台！已实现首单落地 - Powered by RSSHub",
-      "errorAt": "2026-07-13T17:58:32.950Z",
-      "errorMessage": "Failed to fetch\n",
+      "description": "厦门供应链\"三剑客\"农业链对比：象屿、国贸、建发，谁在种粮，谁在卖粮，谁在做生态？ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 京东科技接入上海票交所供票平台！已实现首单落地",
+      "title": "10000万联网 - 厦门供应链\"三剑客\"农业链对比：象屿、国贸、建发，谁在种粮，谁在卖粮，谁在做生态？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

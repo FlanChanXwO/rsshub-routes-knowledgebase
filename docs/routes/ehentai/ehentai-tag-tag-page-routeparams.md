@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:20:01.943Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "120679993479343104",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:11:16.648Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76924878996884480",
       "image": null,
       "ownerUserId": null,

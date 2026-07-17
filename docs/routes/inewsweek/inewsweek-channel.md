@@ -93,8 +93,8 @@
     },
     {
       "description": "中国新闻周刊--国际 - Powered by RSSHub",
-      "errorAt": "2026-07-14T11:34:26.526Z",
-      "errorMessage": "[GET] \"http://news.inewsweek.cn/world\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66134229854672896",
       "image": null,
       "ownerUserId": null,

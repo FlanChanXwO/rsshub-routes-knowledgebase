@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "In-depth interviews, author essays, fascinating essays. Go deeper into the books you love. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:50:41.015Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139611488393335808",
       "image": null,
       "ownerUserId": null,

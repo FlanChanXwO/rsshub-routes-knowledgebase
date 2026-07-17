@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "学院新闻-西安电子科技大学计算机科学与技术学院 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:41:02.894Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "109117891452432384",
       "image": null,
       "ownerUserId": null,

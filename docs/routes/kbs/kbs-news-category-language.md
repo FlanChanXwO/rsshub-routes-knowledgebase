@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "全部 - KBS WORLD - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:31:02.584Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62963988811276288",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62963988811276288",
       "image": null,
       "ownerUserId": null,

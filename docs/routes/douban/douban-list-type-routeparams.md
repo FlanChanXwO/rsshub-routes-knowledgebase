@@ -88,7 +88,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1693,
+  "heat": 1692,
   "location": "other/list.ts",
   "maintainers": [
     "5upernova-heng",
@@ -109,8 +109,7 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at processImmediate (node:internal/timers:472:9)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -128,7 +127,7 @@
     {
       "description": "每周一更新；关注榜单，第一时间了解最新好书 - Powered by RSSHub",
       "errorAt": "2025-03-04T07:16:45.428Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\nFailed to fetch\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n",
       "id": "55621048231294976",
       "image": null,
       "ownerUserId": null,

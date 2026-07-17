@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 134,
+  "heat": 133,
   "location": "index.ts",
   "maintainers": [
     "Fatpandac"
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:45:47.940Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

@@ -64,7 +64,7 @@ _None_
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
       "errorAt": "2026-07-10T21:46:30.711Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.society.shu.edu.cn/CN/1004-8804/current.shtml\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.120.117.227:443, 2001:da8:8006:1:202:120:117:227:443, timeout: 10000ms))\n",
       "id": "149985207254076416",
       "image": null,
       "ownerUserId": null,

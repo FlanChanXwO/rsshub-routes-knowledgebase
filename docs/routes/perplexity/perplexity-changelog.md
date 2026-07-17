@@ -77,10 +77,10 @@ _None_
   "topFeeds": [
     {
       "description": "Stay up to date with what’s new in Perplexity. The changelog highlights the latest features, improvements, and experiments, so you can get the most out of Perplexity as it gets better every week. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:58.297Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "241365598746245120",
-      "image": "https://framerusercontent.com/assets/YD0FzGopY3nozAz8P9GIcUVdMk.png",
+      "image": "https://frontend-cdn.perplexity.ai/_agi_assets/marketing/hub/hub-og-image.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.perplexity.ai/changelog",
       "title": "Perplexity Changelog",

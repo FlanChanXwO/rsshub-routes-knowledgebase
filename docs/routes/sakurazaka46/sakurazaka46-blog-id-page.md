@@ -118,16 +118,16 @@ _None_
       "url": "rsshub://sakurazaka46/blog/69"
     },
     {
-      "description": "櫻坂46公式サイト - 勝又 春 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "82765728227921920",
+      "description": "櫻坂46公式サイト - 森田 ひかる - Powered by RSSHub",
+      "errorAt": "2026-07-15T04:46:40.411Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "114344382486767616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://sakurazaka46.com/s/s46/diary/blog/list?page=0",
-      "title": "櫻坂46公式サイト - 勝又 春",
+      "siteUrl": "https://sakurazaka46.com/s/s46/diary/blog/list?page=0&ct=50",
+      "title": "櫻坂46公式サイト - 森田 ひかる",
       "type": "feed",
-      "url": "rsshub://sakurazaka46/blog"
+      "url": "rsshub://sakurazaka46/blog/50"
     }
   ]
 }

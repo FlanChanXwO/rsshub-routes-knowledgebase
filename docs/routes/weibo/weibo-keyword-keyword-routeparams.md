@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:54:46.896Z",
-      "errorMessage": "Authentication failed. Access denied.\n/weibo/keyword/obsidian\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55288652424312832",
       "image": null,
       "ownerUserId": null,
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:18:18.194Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nAuthentication failed. Access denied.\n/weibo/keyword/RSSHub\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

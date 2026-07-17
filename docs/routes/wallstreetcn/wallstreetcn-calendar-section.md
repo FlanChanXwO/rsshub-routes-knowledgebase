@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 100,
+  "heat": 99,
   "location": "calendar.ts",
   "maintainers": [
     "TonyRL"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "财经日历 - 华尔街见闻 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:44:08.768Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80430906726720512",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

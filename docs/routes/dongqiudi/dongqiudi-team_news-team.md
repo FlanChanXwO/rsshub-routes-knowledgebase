@@ -38,7 +38,7 @@ _None_
     "sport"
   ],
   "example": "/dongqiudi/team_news/50001755",
-  "heat": 216,
+  "heat": 215,
   "location": "team-news.ts",
   "maintainers": [
     "HenryQW"

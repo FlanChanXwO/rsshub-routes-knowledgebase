@@ -89,8 +89,8 @@ For example, the category for <https://www.washingtonpost.com/national/investiga
     },
     {
       "description": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:58:53.872Z",
-      "errorMessage": "[GET] \"https://jsonapp1.washingtonpost.com/fusion_prod/v2/\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74046907703950336",
       "image": null,
       "ownerUserId": null,

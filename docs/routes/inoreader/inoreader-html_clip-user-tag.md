@@ -62,8 +62,8 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:42:23.515Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "120745013178740736",
       "image": null,
       "ownerUserId": null,

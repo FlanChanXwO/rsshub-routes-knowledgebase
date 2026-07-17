@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2565,
+  "heat": 2564,
   "location": "dailyphoto.tsx",
   "maintainers": [
     "LogicJake",

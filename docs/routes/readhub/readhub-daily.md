@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4781,
+  "heat": 4783,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek 准备最快今年申请 IPO 2. 消息称 DeepSeek 以 710 亿美元投前估值开启新一轮融资谈判 3. 2026 年菲尔兹奖提前泄露：北大校友王虹、邓煜或双双封神 4. 明年 iPhone 20 周年或革新外观：采用玻璃材质，屏下 FaceID 5. LV 起诉国家知识产权局，曾与茉莉奶白出现商标纠纷 6. 长鑫科技：发行价格为 8.66 元 / 股，7 月 16 日进行网上和网下申购 7. DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富 8. 乐事薯片中被曝出现蓝色异物 疑「质检样」混入袋中 9. 俞敏洪回应孙东旭与明明、天权合开公司：新东方除核心敏感岗位外无竞业协议 10. 北京副局长手搓防汛应用，腾讯回应愿意送 10 亿 token 11. 亿航智能回应裁员传闻：基于 AI 提效背景优化低绩效岗位，核心骨干团队保持稳定 12. 马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺将彻底删除 13. 推广视频含偷窥女性剧情，名创优品致歉 14. OpenAI 反击马斯克窃密官司：xAI 诉讼浪费公司资源，需承担百万法律费 15. 荣耀与阿里将宣布重磅合作，或涉及下一代终端操作系统 Agentic OS 落地 - Powered by RSSHub",
+      "description": "1. Apple 智能等 7 款手机端侧 AI 服务获备案 2. 阿里千问将作为 AI 能力集成至苹果智能 3. 百度为苹果智能提供 AI 搜索功能 4. 腾讯混元：上线一周，Hy3 总调用量增长超 68 倍 5. SpaceX 上市首月股价逼近发行价 抹去近 8500 亿美元市值 6. Stripe 和 Advent 提出以超过 530 亿美元的价格收购 PayPal 7. OpenAI 计划推出首款硬件产品家用智能音箱 8. 巴菲特证实：伯克希尔增持 Alphabet 股票由其本人拍板 9. 阿里发布实时语音交互对话模型 Qwen-Audio-3.0-Realtime 10. 腾讯校招实习生有机会享受正式员工薪资待遇 11. 安踏品牌 CEO 徐阳辞职 12. 效力魅族 20 年的 CMO 万志强宣布离职 13. Anthropic 宣布将免费向美国中小学教师提供 Claude 高级功能 14. OpenAI 发布 GPT-5.6 Sol 引发安全警告，新旗舰模型被曝自主删除用户数据库 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

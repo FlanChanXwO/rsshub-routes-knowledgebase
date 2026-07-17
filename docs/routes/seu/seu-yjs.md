@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "东南大学研究生公告 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:49:16.022Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153459055825771520",
       "image": null,
       "ownerUserId": null,

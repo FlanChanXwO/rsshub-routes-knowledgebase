@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "科学技术处-通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:00:48.160Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62660807098104832",
       "image": null,
       "ownerUserId": null,

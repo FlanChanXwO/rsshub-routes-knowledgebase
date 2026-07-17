@@ -130,27 +130,27 @@ _None_
   "topFeeds": [
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:02:41.890Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "192034315847622656",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "192033772591022080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/tzgg/gg.htm",
-      "title": "广外新传学院-公告",
+      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/tzgg/tz.htm",
+      "title": "广外新传学院-通知",
       "type": "feed",
-      "url": "rsshub://gdufs/xwxy/announcements"
+      "url": "rsshub://gdufs/xwxy/notices"
     },
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:12.623Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "192033567747366912",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "192034066149117952",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/xyxw.htm",
-      "title": "广外新传学院-学院新闻",
+      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/mtjj.htm",
+      "title": "广外新传学院-媒体聚焦",
       "type": "feed",
-      "url": "rsshub://gdufs/xwxy/news"
+      "url": "rsshub://gdufs/xwxy/media"
     }
   ],
   "url": "xwxy.gdufs.edu.cn"

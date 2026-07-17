@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "桃乃木香奈 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:46:25.683Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/javdb/actors/0dKX\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nFailed to fetch\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,

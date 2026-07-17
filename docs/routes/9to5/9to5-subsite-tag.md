@@ -43,8 +43,8 @@ _None_
   "topFeeds": [
     {
       "description": "Apple News & Mac Rumors Breaking All Day - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:49:20.560Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63183844748751872",
       "image": null,
       "ownerUserId": null,

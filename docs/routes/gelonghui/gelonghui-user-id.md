@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "财通证券首席策略分析师。北京大学硕士、新加坡国立大学硕士。连续多年获得新财富、水晶球、金麒麟最佳分析师等。代表性著作《投资核心资产》、《长牛：新时代股市运行逻辑》。 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:43:26.862Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60715939866854400",
       "image": "https://img4.gelonghui.com/head/c6613-e9e870eb-4856-4cfd-a21e-0a90eb6d0155.png",
       "ownerUserId": null,

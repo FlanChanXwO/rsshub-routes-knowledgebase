@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "abel533/Mapper’s stargazers - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:39.371Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63414516945456128",
       "image": null,
       "ownerUserId": null,

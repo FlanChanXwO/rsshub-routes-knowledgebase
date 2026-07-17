@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:40:00.013Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99092999437425664",
       "image": null,
       "ownerUserId": null,

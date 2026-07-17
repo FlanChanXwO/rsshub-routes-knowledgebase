@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 34,
+  "heat": 33,
   "location": "blog.ts",
   "maintainers": [
     "goestav"
@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "All the latest Tailwind CSS news, straight from the team. - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:51:04.300Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "147822761462156288",
       "image": null,
       "ownerUserId": null,

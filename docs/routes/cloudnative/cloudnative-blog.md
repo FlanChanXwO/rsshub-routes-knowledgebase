@@ -65,7 +65,7 @@ _None_
     {
       "description": "博客 | 云原生社区（中国） - Powered by RSSHub",
       "errorAt": "2025-02-02T03:40:43.950Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41774679266456586",
       "image": null,
       "ownerUserId": null,

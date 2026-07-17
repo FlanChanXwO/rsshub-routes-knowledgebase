@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": "2026-07-13T18:07:10.428Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41373653871256597",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +92,8 @@
     },
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:09:09.100Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "157947335946852352",
       "image": null,
       "ownerUserId": null,

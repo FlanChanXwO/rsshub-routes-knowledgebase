@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "Search: ギャップ - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:35:29.123Z",
-      "errorMessage": "[GET] \"https://chikubi.jp/wp-json/wp/v2/search?search=ギャップ\": 403 Forbidden\n",
+      "errorAt": "2026-07-15T06:56:08.532Z",
+      "errorMessage": "(intermediate value).data.map is not a function\n",
       "id": "67007423998717952",
       "image": null,
       "ownerUserId": null,

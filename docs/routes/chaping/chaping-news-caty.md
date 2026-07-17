@@ -77,7 +77,7 @@ _None_
     {
       "description": "差评资讯 - undefined - Powered by RSSHub",
       "errorAt": "2025-05-10T23:17:54.110Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://chaping.cn/api/official/information/news?page=1&limit=16&cate=\": 502 Bad Gateway\n",
       "id": "61432264574446592",
       "image": null,
       "ownerUserId": null,

@@ -186,8 +186,8 @@
   "topFeeds": [
     {
       "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:32:04.136Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "125749806716230656",
       "image": "https://fashionnetwork.cn/static/images/fashion-network-logo.webp",
       "ownerUserId": null,
@@ -198,8 +198,8 @@
     },
     {
       "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:57:58.566Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "125750058291721216",
       "image": "https://fashionnetwork.cn/static/images/fashion-network-logo.webp",
       "ownerUserId": null,

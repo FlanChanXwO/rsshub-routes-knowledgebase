@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "日本経済新聞の電子版。「テック」に関する最新のニュースをお届けします。 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:44:16.380Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "91684852842104832",
       "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
       "ownerUserId": null,

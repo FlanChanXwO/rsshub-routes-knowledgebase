@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 789,
+  "heat": 790,
   "location": "popular.ts",
   "maintainers": [
     "WenryXu"
@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "热门文章 - 日榜 - 人人都是产品经理 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:19:00.071Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41843691623908352",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41843691623908352",
       "image": null,
       "ownerUserId": null,

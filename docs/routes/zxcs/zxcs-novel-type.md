@@ -89,8 +89,8 @@
     },
     {
       "description": "知轩藏书 - 仙侠 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:40:58.922Z",
-      "errorMessage": "Authentication failed. Access denied.\n/zxcs/novel/xianxia\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "156621875112397824",
       "image": null,
       "ownerUserId": null,

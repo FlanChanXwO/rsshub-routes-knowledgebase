@@ -75,8 +75,8 @@ This route provides a flexible plan with full text content to subscribe specific
   "topFeeds": [
     {
       "description": "Nautilus | Arts - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:19:00.991Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84839684406711296",
       "image": null,
       "ownerUserId": null,
@@ -87,8 +87,8 @@ This route provides a flexible plan with full text content to subscribe specific
     },
     {
       "description": "Nautilus | Health - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:20:21.054Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85929973486211072",
       "image": null,
       "ownerUserId": null,

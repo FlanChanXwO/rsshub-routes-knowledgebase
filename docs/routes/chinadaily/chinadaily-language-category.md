@@ -291,8 +291,8 @@
     },
     {
       "description": "双语新闻 - 中国日报网英语点津-LanguageTips - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:42:09.726Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "156244732581244928",
       "image": null,
       "ownerUserId": null,

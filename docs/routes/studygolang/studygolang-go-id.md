@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 316,
+  "heat": 315,
   "location": "go.ts",
   "maintainers": [
     "nczitzk"
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:18.430Z",
-      "errorMessage": "Authentication failed. Access denied.\n/studygolang/go/daily\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54846819419389955",
       "image": null,
       "ownerUserId": null,

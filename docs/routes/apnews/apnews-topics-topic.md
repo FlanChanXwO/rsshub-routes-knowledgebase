@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 746,
+  "heat": 745,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",
@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:42:17.079Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41648644680942592",
       "image": null,
       "ownerUserId": null,

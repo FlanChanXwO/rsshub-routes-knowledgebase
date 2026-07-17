@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 76,
+  "heat": 75,
   "location": "realtime.ts",
   "maintainers": [
     "quiniapiezoelectricity"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:46:14.465Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

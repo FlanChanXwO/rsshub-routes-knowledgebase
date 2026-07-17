@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 127,
+  "heat": 247,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -79,6 +79,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "149468002441700352",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pornhub.com/video",
+      "title": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube",
+      "type": "feed",
+      "url": "rsshub://pornhub/category_url"
+    },
+    {
       "description": "Anal Creampie: Free Teen Creampies Videos | Pornhub - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,18 +101,6 @@ _None_
       "title": "Anal Creampie: Free Teen Creampies Videos | Pornhub",
       "type": "feed",
       "url": "rsshub://pornhub/category_url/video%3Fc%3D15%26o%3Dmv%26t%3Dw%26cc%3Djp"
-    },
-    {
-      "description": "Watch the Hottest Pornstars And Porn Movies | PornHub - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:31:00.563Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "73689953585256448",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/video?o=ht",
-      "title": "Watch the Hottest Pornstars And Porn Movies | PornHub",
-      "type": "feed",
-      "url": "rsshub://pornhub/category_url/video%3Fo%3Dht"
     }
   ]
 }

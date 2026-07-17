@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 64,
+  "heat": 63,
   "location": "ttjj/user.ts",
   "maintainers": [
     "zidekuls"
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "herorose 的动态 - Powered by RSSHub",
-      "errorAt": "2026-07-13T18:18:08.941Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73927094898480128",
       "image": null,
       "ownerUserId": null,

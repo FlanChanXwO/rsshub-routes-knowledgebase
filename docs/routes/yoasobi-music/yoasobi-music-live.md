@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "YOASOBI's Latest Live - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:32:25.015Z",
-      "errorMessage": "Authentication failed. Access denied.\n/yoasobi-music/live\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59198397654618112",
       "image": null,
       "ownerUserId": null,

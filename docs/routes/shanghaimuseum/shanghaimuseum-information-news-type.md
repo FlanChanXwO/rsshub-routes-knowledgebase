@@ -58,13 +58,14 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "上海博物馆 - 新闻与公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T05:37:44.349Z",
+      "errorMessage": "[POST] \"https://www.shanghaimuseum.net/mu/frontend/pg/infomation/search-info\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 101.227.180.64:443, 240e:96c:5100:a:65:e3b4:4000:0:443, timeout: 10000ms))\n",
       "id": "1153239806356881408",
       "image": null,
       "ownerUserId": null,

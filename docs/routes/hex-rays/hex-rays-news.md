@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Hex-Rays Blog - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:33:55.426Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68824134025845760",
       "image": "https://hex-rays.com/hubfs/Ico-logo.png",
       "ownerUserId": null,

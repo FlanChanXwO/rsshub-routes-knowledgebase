@@ -101,7 +101,7 @@ _None_
     {
       "description": "指南通告 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:28:28.610Z",
-      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab442/\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab442/\": 404 Not Found\n",
       "id": "63261228706922499",
       "image": null,
       "ownerUserId": null,

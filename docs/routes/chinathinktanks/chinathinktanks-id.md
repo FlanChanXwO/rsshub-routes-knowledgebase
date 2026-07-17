@@ -114,7 +114,7 @@ _None_
     {
       "description": "中国智库网 —— 智库要闻 - Powered by RSSHub",
       "errorAt": "2026-01-01T08:00:14.789Z",
-      "errorMessage": "[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": <no response> fetch failed\n[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": <no response> fetch failed (Connect Timeout Error (attempted address: www.chinathinktanks.org.cn:443, timeout: 10000ms))\n[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": <no response> fetch failed (Connect Timeout Error (attempted address: www.chinathinktanks.org.cn:443, timeout: 10000ms))\n",
       "id": "63858618178298974",
       "image": null,
       "ownerUserId": null,
@@ -126,7 +126,7 @@ _None_
     {
       "description": "中国智库网 —— 国外智库 - Powered by RSSHub",
       "errorAt": "2025-12-31T21:07:15.108Z",
-      "errorMessage": "[GET] \"https://www.chinathinktanks.org.cn/content/list?id=13&pt=1\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.chinathinktanks.org.cn/content/list?id=13&pt=1\": <no response> fetch failed (Connect Timeout Error (attempted address: www.chinathinktanks.org.cn:443, timeout: 10000ms))\n",
       "id": "75371518748737536",
       "image": null,
       "ownerUserId": null,

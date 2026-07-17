@@ -79,7 +79,7 @@
   "topFeeds": [
     {
       "description": "足球 - 直播吧 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:01:20.992Z",
+      "errorAt": "2026-07-16T05:27:08.508Z",
       "errorMessage": "Failed to fetch\n",
       "id": "61588318218478611",
       "image": null,
@@ -91,8 +91,8 @@
     },
     {
       "description": "NBA - 直播吧 - Powered by RSSHub",
-      "errorAt": "2026-07-13T19:13:34.901Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63118600077338626",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63118600077338626",
       "image": null,
       "ownerUserId": null,

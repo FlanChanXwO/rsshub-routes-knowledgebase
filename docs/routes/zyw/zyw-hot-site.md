@@ -73,7 +73,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-06-19T04:04:28.638Z",
-      "errorMessage": "[GET] \"https://hot.zyw.asia\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://hot.zyw.asia\": <no response> fetch failed (getaddrinfo ENOTFOUND hot.zyw.asia)\n",
       "id": "158366990849381377",
       "image": null,
       "ownerUserId": null,

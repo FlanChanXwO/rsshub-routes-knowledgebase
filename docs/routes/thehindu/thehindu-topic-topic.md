@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Right to Privacy News, Photos, Latest News Headlines about Right to Privacy-The Hindu - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:07:29.006Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "118671170053553152",
       "image": "https://www.thehindu.com/theme/images/th-online/OG-sections.png",
       "ownerUserId": null,

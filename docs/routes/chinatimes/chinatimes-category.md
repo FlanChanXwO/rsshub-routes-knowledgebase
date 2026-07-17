@@ -92,8 +92,8 @@
     },
     {
       "description": "《中時新聞網》 即時新聞最新列表 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:42:16.069Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "223581630864617472",
       "image": "https://www.chinatimes.com/images/2020/apple-touch-icon.png",
       "ownerUserId": null,

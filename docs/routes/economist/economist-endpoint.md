@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/07/14/what-investment-gurus-get-wrong\": <no response> Number of requests reached it's maximum 4800\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.economist.com/the-americas/2026/07/15/argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport\": 403 Forbidden\n[GET] \"https://www.economist.com/the-americas/2026/07/15/argentina-v-england-is-one-of-the-most-intense-rivalries-in-sport\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4829,
+  "heat": 4826,
   "location": "rank.ts",
   "maintainers": [
     "akynazh",
@@ -99,8 +99,8 @@ _None_
     },
     {
       "description": "司机社综合月排行榜 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:46:55.054Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/xsijishe/rank/monthly\n500 \n[GET] \"https://xsijishe.com/portal.php\": 403 Forbidden\n524 \n[GET] \"https://xsijishe.com/portal.php\": 403 Forbidden\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /home/sbx_user1051/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nFailed to fetch\nFailed to fetch\n500 \nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41511702474276884",
       "image": null,
       "ownerUserId": null,

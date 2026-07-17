@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:25.325Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66699654854455296",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:00:11.526Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1143779419517485056",
       "image": null,
       "ownerUserId": null,

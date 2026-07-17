@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T01:18:15.664Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185693700405294080",
+      "description": "Proxy https://api.github.com/repos/java-decompiler/jd-gui/releases - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "185694472030917632",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/chainreactors/malice-network/releases",
-      "title": "IOM releases",
+      "siteUrl": "https://api.github.com/repos/java-decompiler/jd-gui/releases",
+      "title": "jd-gui releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fmalice-network%2Freleases/title=IOM%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
-      "errorAt": "2026-01-20T09:51:56.791Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
-      "id": "185695342945072128",
+      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "185694635969967104",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
-      "title": "goexec releases",
+      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
+      "title": "dbeaver releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

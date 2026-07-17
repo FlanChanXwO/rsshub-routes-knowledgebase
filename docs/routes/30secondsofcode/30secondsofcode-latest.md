@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 93,
+  "heat": 92,
   "location": "new-and-popular.ts",
   "maintainers": [
     "Rjnishant530"
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Discover short code snippets for all your development needs. - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:41:11.071Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99015134311696384",
       "image": null,
       "ownerUserId": null,

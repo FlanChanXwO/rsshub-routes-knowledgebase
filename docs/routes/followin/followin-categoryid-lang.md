@@ -140,8 +140,8 @@ _None_
   "topFeeds": [
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:55:54.472Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72596134870584320",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

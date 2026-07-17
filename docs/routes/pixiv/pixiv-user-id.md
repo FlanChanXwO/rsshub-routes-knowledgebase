@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "藤ちょこ（藤原） 的 pixiv 最新动态 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:31:47.783Z",
-      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41679126529608704",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2022/02/03/15/54/20/22159592_fce9f5c7a908c9b601dc7e9da7a412a3_170.jpg",
       "ownerUserId": null,

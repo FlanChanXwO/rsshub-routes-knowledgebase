@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest Articles - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:29.337Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-07-15T15:05:58.589Z",
+      "errorMessage": "[GET] \"https://news.ainvest.com/content-page/v1/page/googl-calls-dominate-370-unpacking-bullish-sentiment-today-surge-2607\": 404 \n",
       "id": "165445337069434882",
       "image": null,
       "ownerUserId": null,

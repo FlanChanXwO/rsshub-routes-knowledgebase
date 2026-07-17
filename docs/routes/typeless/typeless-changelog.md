@@ -63,7 +63,7 @@ _None_
     {
       "description": "Typeless app release notes - Powered by RSSHub",
       "errorAt": "2026-07-08T07:21:33.539Z",
-      "errorMessage": "[GET] \"https://www.typeless.com/help/release-notes/macos\": <no response> fetch failed\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.typeless.com/help/release-notes/macos\": <no response> fetch failed\nCannot read properties of undefined (reading 'features')\n",
       "id": "240142130688096256",
       "image": "https://www.typeless.com/logo_500.png",
       "ownerUserId": null,

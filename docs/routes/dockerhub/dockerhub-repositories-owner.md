@@ -65,8 +65,8 @@ _None_
     },
     {
       "description": "List of repositories for diygod - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:49:01.302Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "83892100612352000",
       "image": null,
       "ownerUserId": null,

@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "Alpine Linux packages update - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:49:16.789Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70019545950188544",
       "image": null,
       "ownerUserId": null,

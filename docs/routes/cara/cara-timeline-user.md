@@ -78,7 +78,7 @@ _None_
     {
       "description": "Timeline - alayne - Powered by RSSHub",
       "errorAt": "2025-11-26T13:48:31.342Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
       "id": "127385598208675840",
       "image": "https://cdn.cara.app/production/profiles/21e1de53-84c1-4167-9328-cacacc0f4804/1C7C9B2C-1519-4E22-9381-559B422076F6.jpg",
       "ownerUserId": null,

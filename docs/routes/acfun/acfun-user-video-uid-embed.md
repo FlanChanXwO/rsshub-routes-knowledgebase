@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "每天最新的国内车祸实例，助你提高安全意识，生命冇take two，请小心演绎！欢迎投稿：UploadAccident@qq.com - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:19:01.526Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74054665945348096",
       "image": "https://imgs.aixifan.com/style/image/201907/zjC8tBrviYU9WXilU5iSWE21qpmXIk2l.jpg",
       "ownerUserId": null,

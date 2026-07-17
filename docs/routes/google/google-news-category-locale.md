@@ -69,7 +69,7 @@ _None_
     {
       "description": "Google News - Headlines - Powered by RSSHub",
       "errorAt": "2024-11-02T18:50:31.393Z",
-      "errorMessage": "200 OK",
+      "errorMessage": "200 ",
       "id": "66057583919692800",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-09-19T00:56:30.820Z",
-      "errorMessage": "200 OK",
+      "errorMessage": "200 ",
       "id": "191666157347082243",
       "image": null,
       "ownerUserId": null,

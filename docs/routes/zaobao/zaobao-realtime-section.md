@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 中国  | 新加坡    | 国际  | 财经     |\n| ----- | --------- | ----- | -------- |\n| china | singapore | world | zfinance |",
   "example": "/zaobao/realtime/china",
-  "heat": 8919,
+  "heat": 8920,
   "location": "realtime.ts",
   "maintainers": [
     "shunf4"
@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:09.077Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67490527781761028",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67490527781761028",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

@@ -69,21 +69,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "浙江大学控制学院通知 - 对外交流 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:50:08.866Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "194422763742295040",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.cse.zju.edu.cn//39353/list.htm",
-      "title": "浙江大学控制学院通知 - 对外交流",
-      "type": "feed",
-      "url": "rsshub://zju/cse/dwjl"
-    },
-    {
       "description": "浙江大学控制学院通知 - 简讯专栏 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:58:22.070Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "194422241770488832",
       "image": null,
       "ownerUserId": null,
@@ -91,6 +79,18 @@ _None_
       "title": "浙江大学控制学院通知 - 简讯专栏",
       "type": "feed",
       "url": "rsshub://zju/cse"
+    },
+    {
+      "description": "浙江大学控制学院通知 - 对外交流 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "194422763742295040",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cse.zju.edu.cn//39353/list.htm",
+      "title": "浙江大学控制学院通知 - 对外交流",
+      "type": "feed",
+      "url": "rsshub://zju/cse/dwjl"
     }
   ]
 }

@@ -122,8 +122,8 @@ _None_
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:18.342Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54390728350522368",
       "image": null,
       "ownerUserId": null,
@@ -134,8 +134,8 @@ _None_
     },
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:22:52.614Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56573138387473408",
       "image": null,
       "ownerUserId": null,

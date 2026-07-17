@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "The Cohere Blog - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:41:16.769Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66390723044495360",
       "image": null,
       "ownerUserId": null,

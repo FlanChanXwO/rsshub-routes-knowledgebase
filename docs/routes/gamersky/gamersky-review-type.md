@@ -91,8 +91,8 @@
     },
     {
       "description": "全部评测 - 游民星空评测 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:20:08.156Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73294792620601344",
       "image": null,
       "ownerUserId": null,

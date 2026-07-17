@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "LangChain Events - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:11.831Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62716706890373120",
       "image": null,
       "ownerUserId": null,
@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "MenteX - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:32:13.951Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "265966986896278528",
+      "description": "The AI Collective - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
       "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
+      "url": "rsshub://luma/genai-collective"
     }
   ],
   "url": "lu.ma"

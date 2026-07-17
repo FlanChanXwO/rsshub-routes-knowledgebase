@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "Internacional | Público - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:12:58.184Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129920522272080896",
       "image": null,
       "ownerUserId": null,

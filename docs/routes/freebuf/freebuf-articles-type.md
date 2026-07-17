@@ -93,7 +93,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
     {
       "description": "Freebuf system - Powered by RSSHub",
       "errorAt": "2026-07-13T21:58:13.068Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=system&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
       "id": "83007201386261504",
       "image": null,
       "ownerUserId": null,

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Featured Articles on Grist.org - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:00:49.046Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73315763380092928",
       "image": null,
       "ownerUserId": null,

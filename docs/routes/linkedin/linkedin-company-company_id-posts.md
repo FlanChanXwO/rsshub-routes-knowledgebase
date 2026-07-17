@@ -52,7 +52,7 @@ _None_
     "supportRadar": false,
     "supportScihub": false
   },
-  "heat": 35,
+  "heat": 36,
   "location": "posts.ts",
   "maintainers": [
     "saifazmi"

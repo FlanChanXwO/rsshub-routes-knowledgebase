@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "NL Times -- Top Stories - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T00:20:02.860Z",
+      "errorMessage": "[GET] \"https://www.nltimes.nl/top-stories\": 403 Forbidden\n",
       "id": "59769816692412416",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +92,8 @@
     },
     {
       "description": "NL Times -- Politics - Powered by RSSHub",
-      "errorAt": "2026-07-13T18:32:13.095Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "180670433614968832",
       "image": null,
       "ownerUserId": null,

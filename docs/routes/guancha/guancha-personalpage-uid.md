@@ -60,14 +60,13 @@ _None_
   },
   "path": "/personalpage/:uid",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "持续低熵 的个人主页 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:59.609Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62825086347448323",
       "image": null,
       "ownerUserId": null,
@@ -77,16 +76,16 @@ _None_
       "url": "rsshub://guancha/personalpage/562778"
     },
     {
-      "description": "金灿荣教授 的个人主页 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:32:10.318Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "172228390272024576",
+      "description": "高志凯频道 的个人主页 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "172226578810915840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=210048",
-      "title": "金灿荣教授-观察者-风闻社区",
+      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=1362536",
+      "title": "高志凯频道-观察者-风闻社区",
       "type": "feed",
-      "url": "rsshub://guancha/personalpage/210048"
+      "url": "rsshub://guancha/personalpage/1362536"
     }
   ]
 }

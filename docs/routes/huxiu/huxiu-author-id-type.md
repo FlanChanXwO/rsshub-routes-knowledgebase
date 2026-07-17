@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "野生社会观察员 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:56:48.448Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129188571039811584",
       "image": "https://img.huxiucdn.com/auth/data/avatar/001/51/52/29_1703563667.jpeg",
       "ownerUserId": null,

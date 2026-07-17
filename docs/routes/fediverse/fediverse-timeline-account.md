@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 60,
+  "heat": 59,
   "location": "timeline.ts",
   "maintainers": [
     "DIYgod",
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "Public posts from @Mastodon@mastodon.social - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:59:36.559Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56934811567432704",
       "image": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
       "ownerUserId": null,

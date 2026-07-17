@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙大就业服务平台 -- 新闻动态 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:31:05.740Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796582002",
       "image": null,
       "ownerUserId": null,

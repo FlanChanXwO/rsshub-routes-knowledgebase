@@ -1019,8 +1019,8 @@
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:07.611Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66638427379213312",
       "image": "https://mse.hust.edu.cn/js/logo.png",
       "ownerUserId": null,

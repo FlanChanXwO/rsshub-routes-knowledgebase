@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4607,
+  "heat": 4605,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "历史低价 - 什么值得买 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:56.723Z",
-      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nAuthentication failed. Access denied.\n/smzdm/keyword/%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BB%B7\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56173305095094272",
       "image": null,
       "ownerUserId": null,

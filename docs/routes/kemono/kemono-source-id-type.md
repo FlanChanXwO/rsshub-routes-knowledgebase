@@ -89,7 +89,7 @@ Support for announcements and fancards:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1404,
+  "heat": 1405,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk",
@@ -140,8 +140,8 @@ Support for announcements and fancards:
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:34:36.873Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59871541870611456",
       "image": "https://kemono.cr/favicon.ico",
       "ownerUserId": null,

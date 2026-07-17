@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "教务通知-教务部（招生办公室）网站 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:23.366Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "178069673433626624",
       "image": null,
       "ownerUserId": null,

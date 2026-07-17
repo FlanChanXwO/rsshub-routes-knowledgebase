@@ -78,7 +78,7 @@ _None_
     {
       "description": "academia.edu | Machine_Learning documents - Powered by RSSHub",
       "errorAt": "2025-05-28T17:36:24.584Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.academia.edu/Documents/in/Machine_Learning\": 403 Forbidden\n",
       "id": "69620407260983296",
       "image": null,
       "ownerUserId": null,

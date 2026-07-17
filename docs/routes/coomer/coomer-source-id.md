@@ -113,8 +113,8 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     },
     {
       "description": "Coomer Posts - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:28.781Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59850686115931136",
       "image": "https://coomer.st/favicon.ico",
       "ownerUserId": null,

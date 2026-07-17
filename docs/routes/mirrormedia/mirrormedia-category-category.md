@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "鏡週刊 Mirror Media - city-news - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:33:24.024Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "131968010464549888",
       "image": null,
       "ownerUserId": null,

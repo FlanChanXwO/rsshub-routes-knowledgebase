@@ -73,7 +73,7 @@ _None_
     {
       "description": "Live breaking news stories from across Australia & around the world. In-depth coverage from Australia's most trusted source. Includes business, sport, weather. - Powered by RSSHub",
       "errorAt": "2025-04-28T19:57:53.044Z",
-      "errorMessage": "502 \nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.abc.net.au/news/feed/news/justin/rss.xml\": <no response> fetch failed\n[GET] \"https://www.abc.net.au/news/feed/news/justin/rss.xml\": 404 Not Found\n",
       "id": "82619977766945792",
       "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec",
       "ownerUserId": null,

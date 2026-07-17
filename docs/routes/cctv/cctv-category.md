@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 837,
+  "heat": 838,
   "location": "category.ts",
   "maintainers": [
     "idealclover",
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "央视新闻 world - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:20:12.005Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/cctv/world\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796581988",
       "image": null,
       "ownerUserId": null,

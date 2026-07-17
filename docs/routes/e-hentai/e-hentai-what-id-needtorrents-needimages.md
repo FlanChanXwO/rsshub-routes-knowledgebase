@@ -46,8 +46,8 @@ _None_
   "topFeeds": [
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T03:29:33.425Z",
+      "errorMessage": "s.map is not a function\n",
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,

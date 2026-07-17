@@ -5768,6 +5768,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/ltaaa.md`
 
+## 自由時報
+- Namespace: `ltn`
+- Aliases: `ltn, ltn.com.tw, 自由時報`
+- Route Count: `1`
+- Index File: `index/ltn.md`
+
 ## LuMa
 - Namespace: `luma`
 - Aliases: `lu, lu.ma, luma`

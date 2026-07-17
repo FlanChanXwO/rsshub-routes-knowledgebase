@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "招聘 - 四川大学华西医院 - 四川大学华西医院 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:09:22.188Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62364939688475651",
       "image": null,
       "ownerUserId": null,

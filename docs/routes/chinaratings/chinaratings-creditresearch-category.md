@@ -92,8 +92,8 @@
     },
     {
       "description": "专题报告-中债资信评估有限责任公司 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:05:13.097Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126552501015293952",
       "image": "https://www.chinaratings.com.cn/news/1913.html",
       "ownerUserId": null,

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 876,
+  "heat": 875,
   "location": "popular.ts",
   "maintainers": [
     "ziminliu"
@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:04:13.043Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59083231910809602",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59083231910809602",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:32:13.268Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "169231605189909504",
       "image": null,
       "ownerUserId": null,

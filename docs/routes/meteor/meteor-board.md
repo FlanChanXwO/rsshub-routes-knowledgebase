@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "全部看板 | Meteor 學生社群 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:20:08.773Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "156722143970531328",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "全部看板 | Meteor 學生社群 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:58.346Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "81180270991733760",
       "image": null,
       "ownerUserId": null,

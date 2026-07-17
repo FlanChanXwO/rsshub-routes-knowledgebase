@@ -75,14 +75,13 @@ _None_
   },
   "path": "/:city?",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "嘉兴 19 楼 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:39:24.047Z",
-      "errorMessage": "Authentication failed. Access denied.\n/19lou/jiaxing\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59034349000577024",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +92,8 @@ _None_
     },
     {
       "description": "台州19楼 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:14:07.709Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71090917239899136",
       "image": null,
       "ownerUserId": null,

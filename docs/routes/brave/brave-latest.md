@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 14,
   "location": "latest.ts",
   "maintainers": [
     "nczitzk"
@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Brave Release Notes | Brave - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:14:33.976Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74302476579862528",
       "image": null,
       "ownerUserId": null,

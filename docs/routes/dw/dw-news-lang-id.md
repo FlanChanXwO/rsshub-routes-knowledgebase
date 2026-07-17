@@ -94,8 +94,8 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     },
     {
       "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:34:35.957Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80448685677001728",
       "image": null,
       "ownerUserId": null,

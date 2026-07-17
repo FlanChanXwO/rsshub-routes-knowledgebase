@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "幼嫩白涩 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:42.006Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129738038308376576",
       "image": null,
       "ownerUserId": null,

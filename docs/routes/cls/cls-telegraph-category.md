@@ -95,8 +95,8 @@
     },
     {
       "description": "财联社 - 电报 - 加红 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:15:16.411Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59187056197799936",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59187056197799936",
       "image": null,
       "ownerUserId": null,

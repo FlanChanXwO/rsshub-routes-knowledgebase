@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "北京科技大学研究生院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T06:41:50.578Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "75547009398577156",
       "image": null,
       "ownerUserId": null,

@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2419,
+  "heat": 2413,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -98,8 +98,8 @@
   "topFeeds": [
     {
       "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:34:31.988Z",
-      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nFailed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/rankings\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": <no response> fetch failed\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41696949079348224",
       "image": null,
       "ownerUserId": null,
@@ -110,8 +110,8 @@
     },
     {
       "description": "有碼排行 - 月排行 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:39:33.777Z",
-      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": 403 Forbidden\nFailed to fetch\nFailed to fetch\nFailed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57074574176806917",
       "image": null,
       "ownerUserId": null,
