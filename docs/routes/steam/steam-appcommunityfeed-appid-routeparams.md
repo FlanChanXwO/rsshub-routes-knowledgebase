@@ -97,6 +97,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "2358720 Steam Community Hub - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58956346985948160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://steamcommunity.com/app/2358720",
+      "title": "2358720 Steam Community Hub",
+      "type": "feed",
+      "url": "rsshub://steam/appcommunityfeed/2358720"
+    },
+    {
       "description": "730 Steam Community Hub - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -107,18 +119,6 @@ _None_
       "title": "730 Steam Community Hub",
       "type": "feed",
       "url": "rsshub://steam/appcommunityfeed/730"
-    },
-    {
-      "description": "2358720 Steam Community Hub - Powered by RSSHub",
-      "errorAt": "2026-07-13T17:37:13.490Z",
-      "errorMessage": "[GET] \"https://steamcommunity.com/library/appcommunityfeed/2358720\": 502 Bad Gateway\n",
-      "id": "58956346985948160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://steamcommunity.com/app/2358720",
-      "title": "2358720 Steam Community Hub",
-      "type": "feed",
-      "url": "rsshub://steam/appcommunityfeed/2358720"
     }
   ]
 }

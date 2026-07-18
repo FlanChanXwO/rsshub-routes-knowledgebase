@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 品玩大模型内刊 - Powered by RSSHub",
-      "errorAt": "2026-06-24T11:35:07.657Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "86386944820703232",
+      "description": "品玩 - ChinaJoy - Powered by RSSHub",
+      "errorAt": "2026-06-24T11:21:51.460Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=7604&type=0\": 405 Not Allowed\n",
+      "id": "69704836086005760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/gpt",
-      "title": "品玩 - 品玩大模型内刊",
+      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
+      "title": "品玩 - ChinaJoy",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/gpt/1"
+      "url": "rsshub://pingwest/tag/ChinaJoy/1"
     }
   ]
 }

@@ -126,26 +126,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- July 19, 2026 - Powered by RSSHub",
-      "errorAt": "2026-07-13T13:03:06.759Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\nAuthentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-nonfiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- July 26, 2026 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56271356825466880",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- July 19, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- July 26, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     },
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 19, 2026 - Powered by RSSHub",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 26, 2026 - Powered by RSSHub",
       "errorAt": "2026-07-13T05:50:37.777Z",
       "errorMessage": "Authentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-fiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 19, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- July 26, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-fiction"
     }

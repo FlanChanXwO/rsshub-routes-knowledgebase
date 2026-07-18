@@ -246,7 +246,7 @@
     {
       "description": "中国黄金协会 - Powered by RSSHub",
       "errorAt": "2026-01-20T06:51:52.014Z",
-      "errorMessage": "[GET] \"https://www.cngold.org.cn/news-325.html\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.cngold.org.cn/news-325.html\": <no response> fetch failed (Connect Timeout Error (attempted address: www.cngold.org.cn:443, timeout: 10000ms))\n",
       "id": "75398969878147072",
       "image": "https://www.cngold.org.cn/public/images/logo.png",
       "ownerUserId": null,

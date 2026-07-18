@@ -61,8 +61,7 @@ _None_
   },
   "path": "/digest/:tid",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 666995397256 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -80,7 +79,7 @@ _None_
     {
       "description": "Stage1 论坛 - 卓明谷 - Powered by RSSHub",
       "errorAt": "2025-03-25T11:54:12.181Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "57332597069544448",
       "image": null,
       "ownerUserId": null,

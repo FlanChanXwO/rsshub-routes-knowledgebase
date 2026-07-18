@@ -132,7 +132,8 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -148,16 +149,16 @@ _None_
       "url": "rsshub://github/feed/ardubev16/all"
     },
     {
-      "description": "GitHub events received by moeru-ai (filtered: release) - includes private events - Powered by RSSHub",
-      "errorAt": "2025-10-12T19:18:22.702Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "188306769764888576",
+      "description": "GitHub events received by vancaem (filtered: star) - includes private events - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198776976440163328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/moeru-ai",
-      "title": "moeru-ai's GitHub Private Feed - Events: release",
+      "siteUrl": "https://github.com/vancaem",
+      "title": "vancaem's GitHub Private Feed - Events: star",
       "type": "feed",
-      "url": "rsshub://github/feed/moeru-ai/release"
+      "url": "rsshub://github/feed/vancaem/star"
     }
   ],
   "view": 5

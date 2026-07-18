@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "第一财经VIP频道 - 第一财经杂志丨YiMagazine | 探索明亮的商业世界 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T04:32:43.998Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "107406669394481152",
       "image": null,
       "ownerUserId": null,
@@ -91,7 +91,7 @@ _None_
     {
       "description": "第一财经VIP频道 - 一元点金 | 即时热点 单篇精选 - Powered by RSSHub",
       "errorAt": "2026-01-06T15:11:39.949Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.yicai.com/vip/product/428\": 404 Not Found\n",
       "id": "62792430599606272",
       "image": null,
       "ownerUserId": null,

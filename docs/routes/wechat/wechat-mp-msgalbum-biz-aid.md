@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 851,
+  "heat": 852,
   "location": "msgalbum.ts",
   "maintainers": [
     "MisteryMonster"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "PaperAgent|LLM热点Paper - Powered by RSSHub",
       "errorAt": "2025-07-23T12:13:10.406Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HA04WGqjBnF0OKPUWPR84Yj2SnA1XqlzGNqw8R2E&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508870%26idx%3D1%26sn%3Dfa9f4a5f748c000eb413c7b6e7e94a07\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HBA4WGqjWas9DY5DMw_ew2AFgTib_FT5I_idk7hY&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508958%26idx%3D1%26sn%3Db8d28802d6ea5d2e3660f36f5e031480\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HBU4WGqjDjwV7m0tg-w5dJk8TYvZ57BRk88JIjz0&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508870%26idx%3D1%26sn%3Dfa9f4a5f748c000eb413c7b6e7e94a07\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGQWWWqjwktnnGi4b-JQZO0O0IVmrU_j2crKx2Pg&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509062%26idx%3D1%26sn%3Def4682f62072f946573fc9e04a1fe458\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGcWWWqj27RjIpirQCr0LLDbDWNUejpPoaXBVZPU&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247508913%26idx%3D2%26sn%3D1d2f7538fd6f9ce7ff54e297f48b4a9b\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HG4WWWqjgvOfLvYYEraLzPXKLSW6VHu19q8NF3Rn&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509062%26idx%3D1%26sn%3Def4682f62072f946573fc9e04a1fe458\n",
       "id": "55818057211386897",
       "image": null,
       "ownerUserId": null,

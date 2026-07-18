@@ -86,7 +86,7 @@
     {
       "description": null,
       "errorAt": "2025-08-11T10:10:17.803Z",
-      "errorMessage": "[GET] \"https://www.sobooks.net/books/tag/教育\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.sobooks.net/books/tag/教育\": <no response> fetch failed (self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
       "id": "177651896288583693",
       "image": null,
       "ownerUserId": null,

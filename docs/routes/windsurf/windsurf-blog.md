@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Read about the latest Devin announcements, product updates, and research from Cognition. - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:20:13.630Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "163514255527168000",
       "image": "https://devin.ai/assets/images/devin-og.png",
       "ownerUserId": null,

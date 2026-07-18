@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1121,
+  "heat": 1120,
   "location": "news.tsx",
   "maintainers": [
     "TonyRL",
@@ -166,8 +166,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T03:04:54.706Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/nhk/news\nFailed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,

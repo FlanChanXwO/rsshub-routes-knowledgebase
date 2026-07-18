@@ -87,7 +87,7 @@ _None_
     {
       "description": "陈达美股投资 的雪球收藏动态 - Powered by RSSHub",
       "errorAt": "2024-12-03T09:58:41.916Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'screen_name')\n",
       "id": "86391133411299328",
       "image": null,
       "ownerUserId": null,

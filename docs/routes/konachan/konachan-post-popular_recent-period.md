@@ -48,7 +48,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1184,
+  "heat": 1185,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",
@@ -107,7 +107,7 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - konachan.com - Powered by RSSHub",
-      "errorAt": "2026-07-16T03:04:14.652Z",
+      "errorAt": "2026-07-17T03:16:58.594Z",
       "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n404 Not Found\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \nAuthentication failed. Access denied.\n/konachan/post/popular_recent/1d\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n",
       "id": "62201931989535744",
       "image": null,

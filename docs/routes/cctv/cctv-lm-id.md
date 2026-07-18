@@ -63,7 +63,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 206,
+  "heat": 207,
   "location": "lm.ts",
   "maintainers": [
     "nczitzk"
@@ -93,7 +93,7 @@
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://tv.cctv.com/lm/xwzk/videoset",
-      "title": "新闻周刊视频_央视网(cctv.com)",
+      "title": "新闻周刊视频_央视网(cctv.com)504 Gateway Time-out",
       "type": "feed",
       "url": "rsshub://cctv/lm/xwzk"
     },

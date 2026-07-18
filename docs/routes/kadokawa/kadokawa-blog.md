@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "角編新聞台 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:19:02.287Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71823730235321344",
       "image": "https://img.shoplineapp.com/media/image_clips/655dc2a5145a54001432df3c/original.png?1700643493",
       "ownerUserId": null,

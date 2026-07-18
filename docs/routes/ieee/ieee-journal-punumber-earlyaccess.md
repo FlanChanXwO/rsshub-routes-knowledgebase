@@ -54,8 +54,8 @@ _None_
   "topFeeds": [
     {
       "description": "IEEE Access - Powered by RSSHub",
-      "errorAt": "2026-07-16T03:12:39.112Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://ieeexplore.ieee.org/rest/publication/home/metadata?pubid=6287639\": 502 Bad Gateway\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66654457230659584",
       "image": "https://ieeexplore.ieee.orgundefined",
       "ownerUserId": null,

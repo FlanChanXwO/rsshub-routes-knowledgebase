@@ -36,7 +36,7 @@ _None_
     "programming"
   ],
   "example": "/hellogithub/volume",
-  "heat": 824,
+  "heat": 822,
   "location": "volume.tsx",
   "maintainers": [
     "moke8",

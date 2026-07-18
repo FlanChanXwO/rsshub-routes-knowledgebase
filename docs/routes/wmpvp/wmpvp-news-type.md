@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "完美世界电竞 - DOTA2 资讯 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:30:57.990Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59123449172993025",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59123449172993025",
       "image": null,
       "ownerUserId": null,

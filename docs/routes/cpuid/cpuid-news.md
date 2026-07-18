@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "news.ts",
   "maintainers": [],
   "name": "News",
@@ -69,20 +69,7 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [
-    {
-      "description": "News | CPUID - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "197193831829736448",
-      "image": "https://www.cpuid.com/medias/images/apple-touch-icon-precomposed.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cpuid.com/news.html",
-      "title": "News | CPUID",
-      "type": "feed",
-      "url": "rsshub://cpuid/news"
-    }
-  ],
+  "topFeeds": [],
   "url": "cpuid.com/news.html"
 }
 ```

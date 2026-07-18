@@ -450,15 +450,15 @@
     },
     {
       "description": "华中科技大学研究生院 - Powered by RSSHub",
-      "errorAt": "2026-05-18T17:08:04.826Z",
-      "errorMessage": "[GET] \"https://gs.hust.edu.cn/gzzd/zhgl.htm\": <no response> fetch failed\n",
-      "id": "73885764596009984",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73885667613418496",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/gzzd/zhgl.htm",
+      "siteUrl": "https://gs.hust.edu.cn/yjsfwzq.htm",
       "title": "华中科技大学研究生院",
       "type": "feed",
-      "url": "rsshub://hust/gs/gzzd/zhgl"
+      "url": "rsshub://hust/gs/yjsfwzq"
     }
   ],
   "url": "gs.hust.edu.cn"

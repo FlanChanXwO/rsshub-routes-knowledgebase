@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "华南理工大学广州国际校区 - 海外学习 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:14:37.319Z",
+      "errorMessage": "500 \n",
       "id": "72990803507206144",
       "image": null,
       "ownerUserId": null,

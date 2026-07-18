@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 新闻发布 | 通知通告 | 委领导动态 | 司局动态 | 地方动态 |\n| -------- | -------- | ---------- | -------- | -------- |\n| xwfb     | tzgg     | wlddt      | sjdt     | dfdt     |",
   "example": "/gov/ndrc/xwdt",
-  "heat": 1306,
+  "heat": 1305,
   "location": "xwdt.ts",
   "maintainers": [
     "nczitzk"
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "新闻发布-国家发展和改革委员会 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:54:38.379Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76948303329996800",
       "image": null,
       "ownerUserId": null,

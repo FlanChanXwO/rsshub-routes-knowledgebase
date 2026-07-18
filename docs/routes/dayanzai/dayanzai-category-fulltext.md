@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 121,
+  "heat": 119,
   "location": "index.ts",
   "maintainers": [],
   "name": "分类",

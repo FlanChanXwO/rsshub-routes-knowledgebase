@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "赚钱！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T23:19:47.627Z",
+      "errorMessage": "[GET] \"https://www.douban.com/doulist/159237128\": 403 Forbidden\n",
       "id": "218332020877377536",
       "image": null,
       "ownerUserId": null,

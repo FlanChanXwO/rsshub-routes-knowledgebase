@@ -152,8 +152,8 @@ _None_
     },
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:50:56.625Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62849148807841792",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

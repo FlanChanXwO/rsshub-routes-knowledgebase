@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-13T18:07:10.428Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/index\": 403 Forbidden\n",
       "id": "41373653871256597",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +92,8 @@
     },
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T04:58:43.665Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/index\": 403 Forbidden\n",
       "id": "157947335946852352",
       "image": null,
       "ownerUserId": null,

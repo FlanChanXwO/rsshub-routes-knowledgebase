@@ -126,8 +126,8 @@ Game Jam
     },
     {
       "description": "itch一周游戏汇 | indienova 独立游戏 - Powered by RSSHub",
-      "errorAt": "2026-07-15T05:26:51.506Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77267282533962752",
       "image": null,
       "ownerUserId": null,

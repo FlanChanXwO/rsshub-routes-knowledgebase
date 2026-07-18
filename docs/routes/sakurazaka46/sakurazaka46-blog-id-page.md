@@ -107,8 +107,8 @@ _None_
   "topFeeds": [
     {
       "description": "櫻坂46公式サイト - 山下 瞳月 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:46:33.440Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "114342446364609536",
       "image": null,
       "ownerUserId": null,
@@ -119,8 +119,8 @@ _None_
     },
     {
       "description": "櫻坂46公式サイト - 森田 ひかる - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:46:40.411Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "114344382486767616",
       "image": null,
       "ownerUserId": null,

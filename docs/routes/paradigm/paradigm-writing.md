@@ -74,7 +74,7 @@ _None_
     {
       "description": "Paradigm - Writing - Powered by RSSHub",
       "errorAt": "2024-09-10T18:52:57.497Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Unexpected end of JSON input\n",
       "id": "41691330851083264",
       "image": null,
       "ownerUserId": null,

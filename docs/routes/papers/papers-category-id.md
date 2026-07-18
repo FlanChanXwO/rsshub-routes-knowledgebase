@@ -2313,7 +2313,7 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
     },
     {
       "description": "The list of papers for Robotics category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:47:29.734Z",
+      "errorAt": "2026-07-17T01:58:26.238Z",
       "errorMessage": "Failed to fetch\n",
       "id": "114300591154852864",
       "image": null,

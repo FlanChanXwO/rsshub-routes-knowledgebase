@@ -104,16 +104,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73745650488758272",
-      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
+      "description": "ASUS TUF Gaming A14 (2024) BIOS - Powered by RSSHub",
+      "errorAt": "2026-07-03T16:36:59.049Z",
+      "errorMessage": "Cannot read properties of null (reading 'Obj')\n",
+      "id": "190738676600295424",
+      "image": "https://dlcdnwebimgs.asus.com/gain/8ef79421-e9c6-4c8b-8529-0e0dc2a09952/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
-      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
+      "siteUrl": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-A14-2024/",
+      "title": "ASUS TUF Gaming A14 (2024) BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
+      "url": "rsshub://asus/bios/FA401WV"
     },
     {
       "description": "RT-BE88U BIOS - Powered by RSSHub",

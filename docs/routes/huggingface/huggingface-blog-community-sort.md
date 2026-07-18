@@ -102,7 +102,7 @@ _None_
     {
       "description": "Huggingface Community Articles - Powered by RSSHub",
       "errorAt": "2026-07-15T05:20:17.248Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 163588196308261888",
       "id": "163588196308261888",
       "image": null,
       "ownerUserId": null,

@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-14T00:07:13.270Z",
-      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a56f5c48e9f09082856b69b\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

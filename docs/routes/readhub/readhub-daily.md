@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4783,
+  "heat": 4786,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Apple 智能等 7 款手机端侧 AI 服务获备案 2. 阿里千问将作为 AI 能力集成至苹果智能 3. 百度为苹果智能提供 AI 搜索功能 4. 腾讯混元：上线一周，Hy3 总调用量增长超 68 倍 5. SpaceX 上市首月股价逼近发行价 抹去近 8500 亿美元市值 6. Stripe 和 Advent 提出以超过 530 亿美元的价格收购 PayPal 7. OpenAI 计划推出首款硬件产品家用智能音箱 8. 巴菲特证实：伯克希尔增持 Alphabet 股票由其本人拍板 9. 阿里发布实时语音交互对话模型 Qwen-Audio-3.0-Realtime 10. 腾讯校招实习生有机会享受正式员工薪资待遇 11. 安踏品牌 CEO 徐阳辞职 12. 效力魅族 20 年的 CMO 万志强宣布离职 13. Anthropic 宣布将免费向美国中小学教师提供 Claude 高级功能 14. OpenAI 发布 GPT-5.6 Sol 引发安全警告，新旗舰模型被曝自主删除用户数据库 - Powered by RSSHub",
+      "description": "1. 月之暗面发布全球最大规模的开源模型 Kimi K3 2. 开润股份披露 DeepSeek 最新估值，本轮融资后估值达 3510 亿元 3. DeepSeek 开始筹备上市，年度经常性收入达 4 亿至 5 亿美元 4. 邮件误发导致苹果与 OpenAI 谈判破裂，随后对簿公堂 5. SpaceX 破发 做空者浮盈近 40 亿美元 6. OpenAI 介绍内部漏洞检测模型 GPT-Red 7. 百度：寻求于港交所主板自愿转换为双重主要上市 8. 传 Anthropic 拟举行 IPO 投资者会议，估值升至 9650 亿美元 9. OpenAI 首款联名硬件：Codex Micro 键盘登场，灵活操控 AI 智能体 10. 传小红书商业化核心高管纳什离职 11. 前 OpenAI CTO 发布首款 AI 大模型 Inkling：架构借鉴 DeepSeek-V3，使用 Kimi K2.5 改进 12. Uber 接近收购德国外卖公司 Delivery Hero，对后者估值近 125 亿欧元 13. 多家 NFC 果汁生产车间被曝没有一颗水果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

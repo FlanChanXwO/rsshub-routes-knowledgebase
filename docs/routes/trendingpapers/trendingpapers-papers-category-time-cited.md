@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 126,
+  "heat": 127,
   "location": "papers.ts",
   "maintainers": [
     "CookiePieWw"
@@ -71,7 +71,7 @@ _None_
     {
       "description": "Trending Papers on arXiv.org | All categories | Since beginning | Cited and uncited papers | - Powered by RSSHub",
       "errorAt": "2025-07-03T16:12:00.755Z",
-      "errorMessage": "[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=Since beginning&cc=Cited and uncited papers&c=All categories\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=Since beginning&cc=Cited and uncited papers&c=All categories\": <no response> fetch failed (Connect Timeout Error (attempted address: trendingpapers.com:443, timeout: 10000ms))\n",
       "id": "54930355946094592",
       "image": null,
       "ownerUserId": null,

@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage. - Powered by RSSHub",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "85974796356276224",
-      "image": "https://image.tmdb.org/t/p/original/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+      "id": "82918240259880960",
+      "image": "https://image.tmdb.org/t/p/original/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/243875/seasons",
-      "title": "Georgie & Mandy's First Marriage - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/94997/seasons",
+      "title": "House of the Dragon - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/243875/seasons"
+      "url": "rsshub://themoviedb/tv/94997-house-of-the-dragon/seasons"
     }
   ],
   "view": 5

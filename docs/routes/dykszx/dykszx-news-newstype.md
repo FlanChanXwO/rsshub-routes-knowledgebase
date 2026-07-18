@@ -75,13 +75,13 @@
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at processTimers (node:internal/timers:538:9)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
       "errorAt": "2025-10-09T02:43:18.643Z",
-      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
       "id": "61102289930311680",
       "image": null,
       "ownerUserId": null,
@@ -91,16 +91,16 @@
       "url": "rsshub://dykszx/news"
     },
     {
-      "description": "德阳人事考试网 考试新闻发布 (事业单位考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T01:40:03.306Z",
+      "description": "德阳人事考试网 考试新闻发布 (其他考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T01:22:44.835Z",
       "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
-      "id": "161654788508368896",
+      "id": "161655081002352640",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(事业单位考试)",
+      "title": "考试新闻发布(其他考试)",
       "type": "feed",
-      "url": "rsshub://dykszx/news/sydw"
+      "url": "rsshub://dykszx/news/other"
     }
   ],
   "url": "www.dykszx.com"

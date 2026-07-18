@@ -144,13 +144,14 @@ _None_
   },
   "path": "/gnn/:category?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T22:58:03.481Z",
+      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n",
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,
@@ -161,8 +162,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-16T20:49:48.594Z",
+      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 \n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n",
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

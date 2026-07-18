@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "udn.com 提供即時新聞以及豐富的政治、社會、地方、兩岸、國際、財經、數位、運動、NBA、娛樂、生活、健康、旅遊新聞，以最即時、多元的內容，滿足行動世代的需求 - Powered by RSSHub",
-      "errorAt": "2026-07-16T04:28:01.873Z",
-      "errorMessage": "[GET] \"https://udn.com/news/breaknews\": 403 Forbidden\nCannot read properties of undefined (reading 'includes')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67002999442518016",
       "image": null,
       "ownerUserId": null,

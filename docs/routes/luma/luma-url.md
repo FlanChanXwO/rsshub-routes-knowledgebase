@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "265935647087177728",
+      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
+      "errorAt": "2026-05-26T22:11:47.160Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "265966867461735424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
+      "siteUrl": "https://lu.ma/sgbogota",
+      "title": "Bogota Events powered by Startup Grind",
       "type": "feed",
-      "url": "rsshub://luma/genai-collective"
+      "url": "rsshub://luma/sgbogota"
     }
   ],
   "url": "lu.ma"

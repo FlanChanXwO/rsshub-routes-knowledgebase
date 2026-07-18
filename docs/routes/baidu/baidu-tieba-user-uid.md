@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "K盘音 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-16T04:13:10.675Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
-      "id": "197372964709496832",
+      "description": "垃圾一件而已 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-06-11T18:52:12.513Z",
+      "errorMessage": "Authentication failed. Access denied.\n/baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9\nFailed to fetch\n",
+      "id": "86267569293295616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
-      "title": "K盘音 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
+      "title": "垃圾一件而已 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/TheKickInside"
+      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
     }
   ]
 }

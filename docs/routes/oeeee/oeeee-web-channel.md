@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "南方都市报奥一网 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:56:49.070Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "150755089712076802",
       "image": null,
       "ownerUserId": null,

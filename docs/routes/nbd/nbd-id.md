@@ -81,7 +81,7 @@
     {
       "description": "undefined - Powered by RSSHub",
       "errorAt": "2024-11-12T16:29:48.931Z",
-      "errorMessage": "503 \nFailed to fetch\n",
+      "errorMessage": "503 \n503 \n",
       "id": "69296270546855936",
       "image": null,
       "ownerUserId": null,
