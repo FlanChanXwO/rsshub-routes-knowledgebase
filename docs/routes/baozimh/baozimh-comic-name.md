@@ -69,7 +69,8 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:98:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
   },
   "topFeeds": [
     {
@@ -86,8 +87,8 @@ _None_
     },
     {
       "description": "《航海王》又名《海賊王》、《ONE PIECE》、《海盜路飛》，原名《ワンピース》。是日本漫畫家尾田榮一郎作畫的少年漫畫作品。擁有財富、名聲、權力，這世界上的一切的男人 “海賊王”哥爾•D•羅傑，在被行刑受死之前說了一句話，讓全世界的人都涌向了大海。“想要我的寶藏嗎？如果想要的話，那就到海上去找吧，我全部都放在那裡。”，世界開始迎接“大海賊時代”的來臨。時值“大海賊時代”，爲了尋找傳說中海賊王羅傑所留下的大秘寶“ONE PIECE”，無數海賊揚起旗幟，互相爭鬥。一個叫路飛的少年爲了與因救他而斷臂的香克斯的約定而出海，在旅途中不斷尋找志同道合的夥伴，開始了以成爲海賊王爲目標的偉大冒險旅程。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T19:59:42.331Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "65719229974521856",
       "image": null,
       "ownerUserId": null,

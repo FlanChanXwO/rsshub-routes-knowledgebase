@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/caixin/weekly",
-  "heat": 1179,
+  "heat": 1180,
   "location": "weekly.ts",
   "maintainers": [
     "TonyRL"

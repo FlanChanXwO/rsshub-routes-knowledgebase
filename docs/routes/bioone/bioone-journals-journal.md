@@ -79,7 +79,7 @@ _None_
     {
       "description": "VOL. 45 · NO. 1 | April 2026 - Powered by RSSHub",
       "errorAt": "2026-06-11T16:28:06.225Z",
-      "errorMessage": "[GET] \"https://bioone.org/journals/journal-of-shellfish-research/volume-45/issue-1/035.045.0118/Online-Pet-Trade-of-Invasive-Crayfish-in-T%c3%bcrk%c4%b1ye-with-first/10.2983/035.045.0118.full\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "72828126275162112",
       "image": null,
       "ownerUserId": null,

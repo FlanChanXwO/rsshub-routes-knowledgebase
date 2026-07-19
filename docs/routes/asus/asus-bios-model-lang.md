@@ -104,6 +104,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73745650488758272",
+      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
+      "ownerUserId": null,
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
+      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
+      "type": "feed",
+      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
+    },
+    {
       "description": "ASUS TUF Gaming A14 (2024) BIOS - Powered by RSSHub",
       "errorAt": "2026-07-03T16:36:59.049Z",
       "errorMessage": "Cannot read properties of null (reading 'Obj')\n",
@@ -114,18 +126,6 @@ _None_
       "title": "ASUS TUF Gaming A14 (2024) BIOS",
       "type": "feed",
       "url": "rsshub://asus/bios/FA401WV"
-    },
-    {
-      "description": "RT-BE88U BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126962011544488963",
-      "image": "https://dlcdnwebimgs.asus.com/gain/e1b78b1a-0011-4ec7-bd84-bcbaa489ecbf/w185",
-      "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-BE88U/",
-      "title": "RT-BE88U BIOS",
-      "type": "feed",
-      "url": "rsshub://asus/bios/rt-be88u"
     }
   ],
   "url": "www.asus.com"

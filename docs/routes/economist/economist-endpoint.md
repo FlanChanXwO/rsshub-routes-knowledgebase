@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/16/what-faces-reveal-about-humanity\": 403 Forbidden\n[GET] \"https://www.economist.com/leaders/2026/07/15/how-to-make-ai-safe-and-free-of-america-and-china\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/17/the-degradation-of-the-department-of-justice\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/07/17/the-climate-issue-newsletter-the-dangers-of-global-dimming\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/12/china-is-dealing-with-its-own-manosphere\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/01/china-hushes-up-a-plane-crash-in-the-heart-of-its-capital\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

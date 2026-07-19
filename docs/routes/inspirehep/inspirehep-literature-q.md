@@ -63,25 +63,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796039",
+      "id": "69965125338796049",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20G.Compere.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20G.T.Horowitz.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20G.Compere.1"
+      "url": "rsshub://inspirehep/literature/a%20G.T.Horowitz.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796033",
+      "id": "69965125338796038",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=%22covariant%20phase%20space%22%20or%20%22solution%20phase%20space%22",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20V.E.Hubeny.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/%22covariant%20phase%20space%22%20or%20%22solution%20phase%20space%22"
+      "url": "rsshub://inspirehep/literature/a%20V.E.Hubeny.1"
     }
   ]
 }

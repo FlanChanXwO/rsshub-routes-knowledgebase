@@ -78,7 +78,7 @@ _None_
     {
       "description": "ImageMagick - ChangeLog - Powered by RSSHub",
       "errorAt": "2026-07-08T01:20:29.008Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://raw.githubusercontent.com/ImageMagick/Website/main/ChangeLog.md\": 404 Not Found\n",
       "id": "74365916922083328",
       "image": null,
       "ownerUserId": null,

@@ -38,7 +38,7 @@ _None_
   "categories": [
     "game"
   ],
-  "heat": 6,
+  "heat": 7,
   "location": "eshop-jp.ts",
   "maintainers": [],
   "name": "Unknown",

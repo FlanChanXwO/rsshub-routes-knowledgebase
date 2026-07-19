@@ -36,6 +36,10 @@ _None_
 - `source`:
   - `comic-walker.com/detail/:id`
 - `target`: `/manga/:id`
+### Rule 2
+- `source`:
+  - `comic-walker.com/detail/:id/episodes/:episodeId`
+- `target`: `/manga/:id`
 
 ## Raw JSON
 ```json
@@ -66,6 +70,12 @@ _None_
     {
       "source": [
         "comic-walker.com/detail/:id"
+      ],
+      "target": "/manga/:id"
+    },
+    {
+      "source": [
+        "comic-walker.com/detail/:id/episodes/:episodeId"
       ],
       "target": "/manga/:id"
     }

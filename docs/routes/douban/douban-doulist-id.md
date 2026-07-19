@@ -68,7 +68,7 @@ _None_
     {
       "description": "赚钱！ - Powered by RSSHub",
       "errorAt": "2026-07-16T23:19:47.627Z",
-      "errorMessage": "[GET] \"https://www.douban.com/doulist/159237128\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "218332020877377536",
       "image": null,
       "ownerUserId": null,

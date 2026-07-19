@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/podwise/explore",
-  "heat": 233,
+  "heat": 232,
   "location": "collections.ts",
   "maintainers": [
     "lyling"

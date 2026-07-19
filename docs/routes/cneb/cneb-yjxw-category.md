@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "国家应急广播 - 新闻 - Powered by RSSHub",
-      "errorAt": "2026-06-28T22:09:09.387Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57295548899554304",
       "image": null,
       "ownerUserId": null,

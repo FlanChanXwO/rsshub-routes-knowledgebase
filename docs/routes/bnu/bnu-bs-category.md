@@ -75,20 +75,20 @@
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at listOnTimeout (node:internal/timers:567:9)\n    at processTimers (node:internal/timers:541:7)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "学术成果 - 北京师范大学经济与工商管理学院 - Powered by RSSHub",
+      "description": "学院新闻 - 北京师范大学经济与工商管理学院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1166229989536694272",
+      "id": "1121871309890781184",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://bs.bnu.edu.cn/xzcg/index.html",
-      "title": "学术成果 - 北京师范大学经济与工商管理学院",
+      "siteUrl": "http://bs.bnu.edu.cn/xw/index.html",
+      "title": "学院新闻 - 北京师范大学经济与工商管理学院",
       "type": "feed",
-      "url": "rsshub://bnu/bs/xzcg"
+      "url": "rsshub://bnu/bs/xw"
     },
     {
       "description": "学术讲座 - 北京师范大学经济与工商管理学院 - Powered by RSSHub",

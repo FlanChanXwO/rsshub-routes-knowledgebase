@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新-新浪科技科学探索 - Powered by RSSHub",
-      "errorAt": "2026-07-10T17:23:30.574Z",
-      "errorMessage": "[GET] \"https://finance.sina.com.cn/tech/discovery/2026-07-10/doc-inihhzsf5197360.shtml\": 404 Not Found\n[GET] \"https://finance.sina.com.cn/tech/discovery/2026-07-10/doc-inihhzsf5197360.shtml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64850724380424192",
       "image": null,
       "ownerUserId": null,

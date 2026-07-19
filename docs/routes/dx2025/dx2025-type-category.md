@@ -72,7 +72,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1068,
+  "heat": 1067,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -103,7 +103,7 @@ _None_
     {
       "description": "产业政策 – 东西智库 - Powered by RSSHub",
       "errorAt": "2025-07-03T14:50:41.118Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.dx2025.com/archives/category/政策/policy\": <no response> fetch failed (certificate has expired)\n",
       "id": "89544052487792640",
       "image": null,
       "ownerUserId": null,

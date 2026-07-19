@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1270,
+  "heat": 1271,
   "location": "video-all.ts",
   "maintainers": [],
   "name": "用户所有视频",
@@ -65,7 +65,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-07-08T13:33:11.591Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot read properties of undefined (reading 'vlist')\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://api.bilibili.com/x/space/wbi/arc/search?mid=520819684&ps=30&tid=0&pn=1&keyword=&order=pubdate&platform=web&web_location=1550101&order_avoided=true&dm_img_list=[{\\\"x\\\":6269,\\\"y\\\":-1424,\\\"z\\\":0,\\\"timestamp\\\":25,\\\"type\\\":0}]&dm_img_str=bm8gd2ViZ2&dm_cover_img_str=bm8gd2ViZ2&w_rid=b08c82556ba040f883d6c4dab620dd70&wts=1784279168\": 412 Precondition Failed\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 14,
   "location": "system-update.ts",
   "maintainers": [
     "hoilc"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nintendo Switch 本体更新情報 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T01:09:05.645Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60263446472040455",
       "image": null,
       "ownerUserId": null,

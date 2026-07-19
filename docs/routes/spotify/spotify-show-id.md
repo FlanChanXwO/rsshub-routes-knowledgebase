@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2112,
+  "heat": 2110,
   "location": "show.ts",
   "maintainers": [
     "caiohsramos",

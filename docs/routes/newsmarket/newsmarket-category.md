@@ -84,8 +84,8 @@
   "topFeeds": [
     {
       "description": "上下游新聞 | 專注於台灣農業、食物、環境等公共議題的獨立媒體 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T05:21:29.096Z",
+      "errorMessage": "[GET] \"https://www.newsmarket.com.tw\": 403 Forbidden\n",
       "id": "69287393138986001",
       "image": null,
       "ownerUserId": null,
@@ -96,8 +96,8 @@
     },
     {
       "description": "新知 | 上下游新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-15T05:33:33.643Z",
+      "errorMessage": "[GET] \"https://www.newsmarket.com.tw/blog/category/:knowledge\": 403 Forbidden\n",
       "id": "111389962417871873",
       "image": null,
       "ownerUserId": null,

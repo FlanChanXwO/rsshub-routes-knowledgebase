@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "总有些惊奇的际遇，比方说当我遇见你。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T05:44:37.518Z",
+      "errorMessage": "[GET] \"https://api.lang.live/langweb/v1/room/liveinfo?room_id=1352360\": 403 Forbidden\n",
       "id": "154544860488526848",
       "image": null,
       "ownerUserId": null,

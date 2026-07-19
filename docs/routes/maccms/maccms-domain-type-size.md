@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 217,
+  "heat": 216,
   "location": "index.tsx",
   "maintainers": [
     "hualiong"
@@ -90,14 +90,14 @@ _None_
       "url": "rsshub://maccms/moduzy.net/6"
     },
     {
-      "description": "最新日韩动漫 - moduzy.net - Powered by RSSHub",
+      "description": "最新短剧 - moduzy.net - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "63376654120875008",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://moduzy.net/",
-      "title": "最新日韩动漫 - moduzy.net",
+      "title": "最新短剧 - moduzy.net",
       "type": "feed",
       "url": "rsshub://maccms/moduzy.net/2"
     }

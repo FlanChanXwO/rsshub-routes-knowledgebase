@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/esquirehk/tag/Fashion",
-  "heat": 5,
+  "heat": 6,
   "location": "tag.tsx",
   "maintainers": [
     "nczitzk"

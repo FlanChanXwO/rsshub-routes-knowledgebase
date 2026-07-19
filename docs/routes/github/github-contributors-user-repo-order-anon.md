@@ -79,22 +79,9 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
-    {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "145641760615368704",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
-    },
     {
       "description": "New contributors for cgw88/cgw321.com - Powered by RSSHub",
       "errorAt": null,
@@ -106,6 +93,18 @@ _None_
       "title": "cgw88/cgw321.com Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/cgw88/cgw321.com"
+    },
+    {
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84958270281030656",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

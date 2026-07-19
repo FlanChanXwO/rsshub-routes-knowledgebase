@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "An all-in-one solution that works - Powered by RSSHub",
+      "description": "Base plugin for every Aurora project. Provides common utilities and functions. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852430344537088",
+      "id": "114582395964709888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
-      "title": "TAB Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/EzEMkR1u",
+      "title": "AuroraLib Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
+      "url": "rsshub://modrinth/project/EzEMkR1u/versions"
     }
   ]
 }

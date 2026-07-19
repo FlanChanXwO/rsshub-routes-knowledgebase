@@ -67,7 +67,7 @@ _None_
     {
       "description": "榜单只是一种维度，愿你找到喜欢的节目 - Powered by RSSHub",
       "errorAt": "2026-01-25T09:47:40.828Z",
-      "errorMessage": "[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js\n",
+      "errorMessage": "[GET] \"/assets/index.4dc1f443.js\": <no response> Failed to parse URL from /assets/index.4dc1f443.js (Invalid URL)\n",
       "id": "68855551484634217",
       "image": null,
       "ownerUserId": null,

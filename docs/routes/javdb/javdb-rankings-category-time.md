@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2416,
+  "heat": 2419,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"

@@ -81,10 +81,10 @@ _None_
   "topFeeds": [
     {
       "description": "Cognition builds autonomous software engineering agents - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T22:07:01.429Z",
+      "errorMessage": "[GET] \"https://cognition.ai/blog/1\": <no response> fetch failed (Connect Timeout Error (attempted address: cognition.ai:443, timeout: 10000ms))\n",
       "id": "207531896770078720",
-      "image": "https://cognition.com/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_7nxFR3z5KUwktH6ehSxwU98aSruR",
+      "image": "https://cognition.com/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_833wX4rWP25oeEJ3tmNK4oZaoBKB",
       "ownerUserId": null,
       "siteUrl": "https://cognition.ai/blog/1",
       "title": "Blog | Cognition",

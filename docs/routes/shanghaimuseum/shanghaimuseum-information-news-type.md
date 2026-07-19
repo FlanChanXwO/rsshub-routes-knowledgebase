@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海博物馆 - 新闻与公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T18:52:14.041Z",
+      "errorMessage": "Command timed out",
       "id": "1153239806356881408",
       "image": null,
       "ownerUserId": null,

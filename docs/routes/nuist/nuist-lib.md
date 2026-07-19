@@ -38,7 +38,7 @@ _None_
   "categories": [
     "university"
   ],
-  "heat": 2,
+  "heat": 1,
   "location": "library/lib.ts",
   "maintainers": [
     "gylidian"

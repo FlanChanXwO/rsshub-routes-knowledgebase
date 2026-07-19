@@ -74,7 +74,8 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -94,7 +95,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "126552501015293952",
-      "image": "https://www.chinaratings.com.cn/news/1913.html",
+      "image": "https://www.chinaratings.com.cn/",
       "ownerUserId": null,
       "siteUrl": "https://www.chinaratings.com.cn/CreditResearch/Industry/TopicReport/",
       "title": "专题报告-中债资信评估有限责任公司",

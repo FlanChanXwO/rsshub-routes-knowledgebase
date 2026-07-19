@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "EVERIA.CLUB - Search: 柒柒 - Powered by RSSHub",
-      "errorAt": "2026-07-17T06:29:06.838Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "169809520237002752",
       "image": null,
       "ownerUserId": null,

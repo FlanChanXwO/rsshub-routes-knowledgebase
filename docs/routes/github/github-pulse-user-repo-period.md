@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://github/pulse/tencent-ailab/cosyvoice/weekly"
     },
     {
-      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
+      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "137417584044606464",
+      "id": "215344700650354688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
-      "title": "datawhalechina/llm-universe weekly Pulse",
+      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
+      "title": "wood3n/biu weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
+      "url": "rsshub://github/pulse/wood3n/biu"
     }
   ]
 }

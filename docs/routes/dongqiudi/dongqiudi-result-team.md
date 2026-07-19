@@ -38,7 +38,7 @@ _None_
     "sport"
   ],
   "example": "/dongqiudi/result/50001755",
-  "heat": 55,
+  "heat": 54,
   "location": "result.ts",
   "maintainers": [
     "HenryQW"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "曼联 比赛结果 - Powered by RSSHub",
       "errorAt": "2026-04-30T12:27:17.430Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'filter')\n",
       "id": "86597494578069504",
       "image": null,
       "ownerUserId": null,
