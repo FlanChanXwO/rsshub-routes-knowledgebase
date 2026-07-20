@@ -99,7 +99,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 74,
+  "heat": 76,
   "location": "home-latest.ts",
   "maintainers": [
     "DIYgod",
@@ -119,7 +119,7 @@ Currently supported authentication methods:
     {
       "description": "Twitter following timeline - Powered by RSSHub",
       "errorAt": "2026-03-26T13:17:05.834Z",
-      "errorMessage": "Failed to fetch\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
+      "errorMessage": "No valid Twitter token found\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\nTwitter API is not configured\n",
       "id": "54122557371827200",
       "image": null,
       "ownerUserId": null,

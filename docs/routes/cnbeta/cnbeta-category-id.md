@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 影视  | 音乐  | 游戏 | 动漫  | 趣闻  | 科学    | 软件 |\n| ----- | ----- | ---- | ----- | ----- | ------- | ---- |\n| movie | music | game | comic | funny | science | soft |",
   "example": "/cnbeta/category/movie",
-  "heat": 67,
+  "heat": 66,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"

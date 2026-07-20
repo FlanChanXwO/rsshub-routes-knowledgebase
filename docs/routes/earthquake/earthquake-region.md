@@ -92,8 +92,8 @@
     },
     {
       "description": "中国地震局震情速递 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T17:51:48.236Z",
+      "errorMessage": "502 \n[POST] \"https://www.cea.gov.cn/eportal/ui?struts.portlet.mode=view&struts.portlet.action=/portlet/expressEarthquake!queryExpressEarthquakeList.action&pageId=363409&moduleId=a852ba487b534470a84a30f00e7d6670\": 403 Forbidden\n",
       "id": "60836830967846986",
       "image": null,
       "ownerUserId": null,

@@ -4216,7 +4216,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 广西民族大学
 - Namespace: `gxmzu`
-- Aliases: `ai, ai.gxmzu.edu.cn, gxmzu, 广西民族大学`
+- Aliases: `gxmzu, gxmzu.edu.cn, www, www.gxmzu.edu.cn, 广西民族大学`
 - Route Count: `3`
 - Index File: `index/gxmzu.md`
 
@@ -6628,7 +6628,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 南京晓庄学院
 - Namespace: `njxzc`
-- Aliases: `lib, lib.njxzc.edu.cn, njxzc, 南京晓庄学院`
+- Aliases: `njxzc, njxzc.edu.cn, www, www.njxzc.edu.cn, 南京晓庄学院`
 - Route Count: `2`
 - Index File: `index/njxzc.md`
 

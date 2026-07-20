@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 187,
+  "heat": 188,
   "location": "book/rank.ts",
   "maintainers": [
     "xyqfer",

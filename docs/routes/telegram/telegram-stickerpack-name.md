@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "哥哥奖励自己一下 @DoO_o - Telegram Sticker Pack - Powered by RSSHub",
-      "errorAt": "2026-07-18T03:05:37.967Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62283323384780800",
+      "errorAt": "2026-07-19T04:49:22.598Z",
+      "errorMessage": "Telegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nTelegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
       "id": "62283323384780800",
       "image": null,
       "ownerUserId": null,

@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "HenryQW's followers - Powered by RSSHub",
+      "description": "yihangtao's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "81385238271710208",
+      "id": "162676813047378944",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/HenryQW",
-      "title": "HenryQW's followers",
+      "siteUrl": "https://github.com/yihangtao",
+      "title": "yihangtao's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/HenryQW"
+      "url": "rsshub://github/user/followers/yihangtao"
     }
   ]
 }

@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fnodauf%2FGoMapEnum%2Freleases/title=GoMapEnum%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/Macmod/godap/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/ginuerzh/gost/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185695094733155328",
+      "id": "185687225196835840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/Macmod/godap/releases",
-      "title": "godap releases",
+      "siteUrl": "https://api.github.com/repos/ginuerzh/gost/releases",
+      "title": "Gost releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fgodap%2Freleases/title=godap%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fginuerzh%2Fgost%2Freleases/title=Gost%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

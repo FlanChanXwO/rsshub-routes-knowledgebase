@@ -58,8 +58,8 @@ _None_
     },
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": "2026-07-17T16:15:54.415Z",
-      "errorMessage": "s.map is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,

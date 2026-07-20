@@ -122,7 +122,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20260717/s00001/1784304979738/%e7%be%8e%e5%9c%8b%e7%a2%ba%e8%aa%8d%e3%80%8c%e8%a1%8c%e6%94%bf%e5%91%bd%e4%bb%a4%e3%80%8d%e7%b5%82%e6%ad%a2-%e6%9e%97%e5%ae%9a%e5%9c%8b%e7%ad%899%e4%ba%ba%e7%8d%b2%e6%92%a4%e5%88%b6%e8%a3%81-39%e4%b8%ad%e6%b8%af%e5%ae%98%e5%93%a1%e7%ba%8c%e8%a2%ab%e5%88%b6%e8%a3%81\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e7%86%b1%e9%bb%9e/article/20260719/s00024/1784419342536/%e5%a4%a9%e6%b0%a3-%e5%a4%a9%e6%96%87%e5%8f%b0-%e4%bb%8a%e6%97%a5%e7%9f%ad%e6%9a%ab%e6%99%82%e9%96%93%e6%9c%89%e9%99%bd%e5%85%89-%e9%83%a8%e5%88%86%e5%9c%b0%e5%8d%80%e9%a9%9f%e9%9b%a8%e8%bc%83%e5%a4%9a%e6%9c%89%e9%9b%b7%e6%9a%b4\": 403 Forbidden\nStatus code 403\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,
@@ -134,7 +134,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260717/s00001/1784223565844/%e6%94%bf%e5%ba%9c%e8%aa%8d%e7%9b%a3%e7%ae%a1%e5%bc%b1%e9%bb%9e-%e7%a8%b1%e4%b8%8d%e5%90%8c%e7%9b%b4%e6%8e%a5%e8%b2%ac%e4%bb%bb-%e9%99%b3%e8%be%ad%e7%b8%bd%e7%b5%90%e5%a4%a7%e7%81%ab6%e6%88%90%e5%9b%a0-%e6%b6%89%e4%ba%8b%e6%89%bf%e8%be%a6%e5%95%86%e5%b0%88%e6%a5%ad%e4%ba%ba%e5%a3%ab%e3%80%8c%e8%ad%89%e6%93%9a%e7%a2%ba%e7%ab%8b%e3%80%8d\": 403 Forbidden\n",
+      "errorMessage": "Status code 403\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

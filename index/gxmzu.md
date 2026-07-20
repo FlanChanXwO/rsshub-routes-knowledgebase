@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `gxmzu`
 - Display Name: `广西民族大学`
-- URL: `ai.gxmzu.edu.cn`
+- URL: `www.gxmzu.edu.cn`
 - Language: `_None_`
-- Aliases: `ai, ai.gxmzu.edu.cn, gxmzu, 广西民族大学`
+- Aliases: `gxmzu, gxmzu.edu.cn, www, www.gxmzu.edu.cn, 广西民族大学`
 - Route Count: `3`
 
 ## Routes

@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 192,
+  "heat": 193,
   "location": "nipple-video-maker.ts",
   "maintainers": [
     "SnowAgar25"
@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "AVメーカー: ナチュラルハイ - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-19T04:49:25.669Z",
+      "errorMessage": "Status code 522\nStatus code 522\nStatus code 522\nStatus code 522\n",
       "id": "61913238847144960",
       "image": null,
       "ownerUserId": null,

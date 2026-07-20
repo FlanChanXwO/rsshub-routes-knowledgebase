@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+部分消息发布于微信公众号等站外页面，此类消息仅输出标题与原文链接。
 
 ## Parameters
 _None_
@@ -26,7 +26,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: true
+- `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -43,9 +43,10 @@ _None_
   "categories": [
     "university"
   ],
+  "description": "部分消息发布于微信公众号等站外页面，此类消息仅输出标题与原文链接。",
   "example": "/gxmzu/libzxxx",
   "features": {
-    "antiCrawler": true,
+    "antiCrawler": false,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,

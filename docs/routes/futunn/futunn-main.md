@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "富途牛牛 - 要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T23:54:21.811Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61252688943239169",
       "id": "61252688943239169",
       "image": null,
       "ownerUserId": null,

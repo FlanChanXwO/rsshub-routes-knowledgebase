@@ -26,7 +26,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: true
+- `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -45,7 +45,7 @@ _None_
   ],
   "example": "/njxzc/libtzgg",
   "features": {
-    "antiCrawler": true,
+    "antiCrawler": false,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,

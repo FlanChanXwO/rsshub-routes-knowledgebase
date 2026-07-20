@@ -75,19 +75,19 @@ _None_
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=6yx7mwqg&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
+      "siteUrl": "https://www.u3c3.com/?search2=xhiegfvn&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
       "title": "search 新片速递 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"
     },
     {
       "description": "search U3C3 - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T16:39:51.141Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 131696291531404288",
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=r8ok8nae&search=U3C3",
+      "siteUrl": "https://www.u3c3.com/?search2=fzvpieo0&search=U3C3",
       "title": "search U3C3 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/U3C3"

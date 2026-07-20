@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/anthropic/research",
-  "heat": 2506,
+  "heat": 2523,
   "location": "research.ts",
   "maintainers": [
     "ttttmr"

@@ -85,7 +85,7 @@ _None_
       "image": "https://img.huxiucdn.com/img/brief/202305/04/162933149599.jpeg",
       "ownerUserId": null,
       "siteUrl": "https://www.huxiu.com/club/1002.html",
-      "title": "那個NG-虎嗅网",
+      "title": "虎嗅源流-那個NG",
       "type": "feed",
       "url": "rsshub://huxiu/club/1002"
     }

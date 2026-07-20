@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "MenteX - Powered by RSSHub",
+      "description": "Reading Rhythms Global - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966986896278528",
+      "id": "265967037132484608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
+      "siteUrl": "https://lu.ma/readingrhythms-global",
+      "title": "Reading Rhythms Global",
       "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
+      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "lu.ma"

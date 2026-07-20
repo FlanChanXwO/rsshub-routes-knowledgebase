@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 259,
+  "heat": 258,
   "location": "research.ts",
   "maintainers": [
     "Fatpandac"
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "国家金融与发展实验室 - 研究评价 - Powered by RSSHub",
-      "errorAt": "2026-07-17T14:16:54.940Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59463782891658240",
       "image": null,
       "ownerUserId": null,

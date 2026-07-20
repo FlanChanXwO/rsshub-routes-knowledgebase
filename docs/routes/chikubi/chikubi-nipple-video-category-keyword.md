@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "動画カテゴリー: 神エロ乳首系のAV - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-19T04:28:20.155Z",
+      "errorMessage": "Authentication failed. Access denied.\n/chikubi/nipple-video-category/cat-nipple-video-god\nStatus code 522\nStatus code 522\nStatus code 522\n",
       "id": "63391413407305728",
       "image": null,
       "ownerUserId": null,

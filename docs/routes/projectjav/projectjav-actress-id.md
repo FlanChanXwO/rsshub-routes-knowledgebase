@@ -55,7 +55,7 @@ Fetches the latest movies from a specific actress page on ProjectJAV.
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "actress.ts",
   "maintainers": [
     "Exat1979"

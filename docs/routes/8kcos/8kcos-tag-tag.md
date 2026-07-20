@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25,
+  "heat": 27,
   "location": "tag.ts",
   "maintainers": [
     "KotoriK"

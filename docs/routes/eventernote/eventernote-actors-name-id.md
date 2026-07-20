@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 47,
   "location": "actors.ts",
   "maintainers": [
     "KTachibanaM"

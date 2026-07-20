@@ -63,7 +63,7 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
     "supportRadar": true,
     "supportScihub": true
   },
-  "heat": 21,
+  "heat": 22,
   "location": "query.ts",
   "maintainers": [
     "Muyun99"

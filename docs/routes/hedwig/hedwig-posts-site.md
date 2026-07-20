@@ -39,7 +39,7 @@ _None_
   "features": {
     "supportRadar": false
   },
-  "heat": 17,
+  "heat": 18,
   "location": "posts.ts",
   "maintainers": [
     "zwithz",

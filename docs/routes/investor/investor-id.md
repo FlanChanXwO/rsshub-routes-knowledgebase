@@ -570,8 +570,8 @@
     },
     {
       "description": "最新动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T20:45:49.129Z",
+      "errorMessage": "Command timed out",
       "id": "155491728122759168",
       "image": "https://www.investor.org.cn/images/header_logo.png",
       "ownerUserId": null,

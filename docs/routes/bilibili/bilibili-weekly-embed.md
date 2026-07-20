@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3686,
+  "heat": 3687,
   "location": "weekly-recommend.ts",
   "maintainers": [
     "ttttmr"
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "B站每周必看 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T22:41:28.733Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59798160460396544",
       "id": "59798160460396544",
       "image": null,
       "ownerUserId": null,

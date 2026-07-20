@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `njxzc`
 - Display Name: `南京晓庄学院`
-- URL: `lib.njxzc.edu.cn`
+- URL: `www.njxzc.edu.cn`
 - Language: `_None_`
-- Aliases: `lib, lib.njxzc.edu.cn, njxzc, 南京晓庄学院`
+- Aliases: `njxzc, njxzc.edu.cn, www, www.njxzc.edu.cn, 南京晓庄学院`
 - Route Count: `2`
 
 ## Routes

@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "NGA 牛找到了 在 - 上班很无聊，弄个实盘聊聊天 - 中的回复 178 - Powered by RSSHub",
-      "errorAt": "2026-07-16T20:41:12.389Z",
-      "errorMessage": "[GET] \"https://nga.178.com/read.php?tid=41073656&page=1&authorid=66025368&rand=352.1898729646863#\": 403 Forbidden\n[GET] \"https://nga.178.com/read.php?tid=41073656&page=1&authorid=66025368&rand=520.9879055041744#\": 403 Forbidden\n",
+      "errorAt": "2026-07-16T06:37:21.067Z",
+      "errorMessage": "Cannot read properties of null (reading 'match')\nCannot read properties of null (reading 'match')\n",
       "id": "154777115123643392",
       "image": null,
       "ownerUserId": null,

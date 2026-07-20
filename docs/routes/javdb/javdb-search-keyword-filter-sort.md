@@ -111,8 +111,8 @@
     },
     {
       "description": "關鍵字 巨乳 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-18T20:55:24.999Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62403400668747776",
       "image": null,
       "ownerUserId": null,

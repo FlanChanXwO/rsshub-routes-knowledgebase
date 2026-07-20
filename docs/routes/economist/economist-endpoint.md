@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/17/the-degradation-of-the-department-of-justice\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/07/17/the-climate-issue-newsletter-the-dangers-of-global-dimming\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/international/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-this-week/2026/07/17/cover-story-newsletter-its-too-darn-hot\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
