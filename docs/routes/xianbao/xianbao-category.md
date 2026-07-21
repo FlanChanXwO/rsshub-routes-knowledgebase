@@ -122,8 +122,8 @@
     },
     {
       "description": "线板酷-赚客吧 - Powered by RSSHub",
-      "errorAt": "2026-07-18T19:17:51.780Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67550789955228672",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67550789955228672",
       "image": null,
       "ownerUserId": null,

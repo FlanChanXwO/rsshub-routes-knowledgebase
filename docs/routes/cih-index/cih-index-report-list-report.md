@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 94,
+  "heat": 96,
   "location": "report.ts",
   "maintainers": [
     "TonyRL"
@@ -80,7 +80,7 @@ _None_
       "image": "https://www.cih-index.com/favicon.ico",
       "ownerUserId": null,
       "siteUrl": "https://www.cih-index.com/report/list/f2022041315362473358-p1-oaddtime-ddesc",
-      "title": "undefined - 中指报告",
+      "title": "政策解读 - 中指报告",
       "type": "feed",
       "url": "rsshub://cih-index/report/list/f2022041315362473358-p1-oaddtime-ddesc"
     },

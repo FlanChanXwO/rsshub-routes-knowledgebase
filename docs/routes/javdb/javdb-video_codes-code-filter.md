@@ -102,8 +102,8 @@
     },
     {
       "description": "MIDV - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-20T02:43:09.923Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/video_codes/MIDV?f=download\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "96109559941147651",
       "image": null,
       "ownerUserId": null,

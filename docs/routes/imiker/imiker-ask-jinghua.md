@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 37,
+  "heat": 36,
   "location": "jinghua.ts",
   "maintainers": [
     "nczitzk"

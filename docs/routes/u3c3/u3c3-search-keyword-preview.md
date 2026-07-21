@@ -75,19 +75,19 @@ _None_
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=xhiegfvn&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
+      "siteUrl": "https://www.u3c3.com/?search2=tlrys1a4&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
       "title": "search 新片速递 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"
     },
     {
       "description": "search U3C3 - u3c3 - Powered by RSSHub",
-      "errorAt": "2026-07-18T16:39:51.141Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 131696291531404288",
+      "errorAt": "2026-07-20T03:48:12.015Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=fzvpieo0&search=U3C3",
+      "siteUrl": "https://www.u3c3.com/?search2=9h4uujx7&search=U3C3",
       "title": "search U3C3 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/U3C3"

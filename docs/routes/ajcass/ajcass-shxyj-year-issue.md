@@ -80,7 +80,7 @@ _None_
     },
     {
       "description": "社会学研究 2024年第1期 - Powered by RSSHub",
-      "errorAt": "2026-07-18T15:52:54.593Z",
+      "errorAt": "2026-07-19T22:35:38.449Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "82998945824254976",
       "image": null,

@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 405,
+  "heat": 406,
   "location": "index.ts",
   "maintainers": [
     "changren-wcr"

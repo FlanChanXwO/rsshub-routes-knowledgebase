@@ -122,8 +122,8 @@ _None_
   "topFeeds": [
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": "2026-07-18T19:48:15.285Z",
-      "errorMessage": "Command timed out",
+      "errorAt": "2026-07-20T00:45:45.607Z",
+      "errorMessage": "m.map is not a function\n",
       "id": "1142847584033701888",
       "image": null,
       "ownerUserId": null,

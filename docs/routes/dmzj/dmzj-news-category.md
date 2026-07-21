@@ -81,7 +81,7 @@
     {
       "description": "动画情报-动漫之家新闻站 - Powered by RSSHub",
       "errorAt": "2025-06-07T18:19:07.444Z",
-      "errorMessage": "[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed\n[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed (getaddrinfo ENOTFOUND news.dmzj.com)\n",
+      "errorMessage": "[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed (getaddrinfo ENOTFOUND news.dmzj.com)\n[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed (getaddrinfo ENOTFOUND news.dmzj.com)\n",
       "id": "61406402714086400",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@
     {
       "description": "动漫之家新闻站首页 - Powered by RSSHub",
       "errorAt": "2025-06-07T19:44:41.308Z",
-      "errorMessage": "[GET] \"https://news.dmzj.com/\": <no response> fetch failed (getaddrinfo ENOTFOUND news.dmzj.com)\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41467081623553024",
       "image": null,
       "ownerUserId": null,

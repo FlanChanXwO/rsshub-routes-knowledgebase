@@ -39,7 +39,7 @@ _None_
     "finance"
   ],
   "example": "/finology/most-viewed",
-  "heat": 3,
+  "heat": 4,
   "location": "most-viewed.ts",
   "maintainers": [
     "Rjnishant530"

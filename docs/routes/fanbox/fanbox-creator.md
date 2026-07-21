@@ -25,6 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: [{"description": "Required for private posts. Can be found in browser DevTools -> Application -> Cookies -> https://www.fanbox.cc -> FANBOXSESSID", "name": "FANBOX_SESSION_ID", "optional": true}]
+- `requirePuppeteer`: true
 - `nsfw`: true
 
 ## Radar
@@ -45,7 +46,8 @@ _None_
         "name": "FANBOX_SESSION_ID",
         "optional": true
       }
-    ]
+    ],
+    "requirePuppeteer": true
   },
   "heat": 38,
   "location": "index.ts",

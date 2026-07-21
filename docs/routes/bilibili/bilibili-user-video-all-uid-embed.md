@@ -52,8 +52,8 @@ _None_
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
-      "errorAt": "2026-07-19T06:34:04.194Z",
-      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82801159002601472",
       "image": null,
       "ownerUserId": null,

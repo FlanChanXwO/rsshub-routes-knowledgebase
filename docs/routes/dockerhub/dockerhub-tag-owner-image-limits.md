@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "emby自供版 交流群：433493451 703381164 - Powered by RSSHub",
-      "errorAt": "2026-07-18T21:14:41.930Z",
-      "errorMessage": "Command timed out",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67082647330225152",
       "image": null,
       "ownerUserId": null,

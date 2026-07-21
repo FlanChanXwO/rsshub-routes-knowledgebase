@@ -76,8 +76,8 @@ _None_
     },
     {
       "description": "香港经济学家，新制度经济学代表人物之一，毕业于美国加利福尼亚大学洛杉矶分校经济学系。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-20T06:54:26.742Z",
+      "errorMessage": "[GET] \"https://zhangwuchang.blog.caixin.com\": <no response> fetch failed (Connect Timeout Error (attempted address: zhangwuchang.blog.caixin.com:443, timeout: 10000ms))\n[GET] \"https://zhangwuchang.blog.caixin.com\": <no response> fetch failed (Connect Timeout Error (attempted address: zhangwuchang.blog.caixin.com:443, timeout: 10000ms))\n[GET] \"https://zhangwuchang.blog.caixin.com\": <no response> fetch failed (Connect Timeout Error (attempted address: zhangwuchang.blog.caixin.com:443, timeout: 10000ms))\n",
       "id": "57047965780416535",
       "image": "https://getavatar.caixin.com/000/00/25/44_real_avatar_middle.jpg",
       "ownerUserId": null,

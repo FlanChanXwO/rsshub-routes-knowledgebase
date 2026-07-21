@@ -77,7 +77,7 @@ _None_
     },
     {
       "description": "科普号@听风的蚕讲科普 关注不迷路🤙🏻 - Powered by RSSHub",
-      "errorAt": "2026-07-19T04:36:06.471Z",
+      "errorAt": "2026-07-19T11:07:01.893Z",
       "errorMessage": "无法获取用户信息\n",
       "id": "84412058211393536",
       "image": "https://p11-sign.toutiaoimg.com/user-avatar/574d56bc5fcc3e3dd56bf1d0989e7c2e~300x300.image?_iz=112761&from=tt_user.profile_all_shortvideo&lk3s=06827d14&x-expires=1785024000&x-signature=xCp7Lzi61eHhFv7FU6dSWQbGxq0%3D",

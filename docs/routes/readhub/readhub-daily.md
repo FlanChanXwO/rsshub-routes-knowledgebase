@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4791,
+  "heat": 4793,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Kimi 有望最快 6 个月内港股上市 2. 任泽平会员群投资者称亏损超 1000 万，其团队解散会员群 3. 凯文・凯利：如果未来 Token 成本至关重要 中国开源模型就非常有优势 4. 腾讯 WorkBuddy App 正式发布：鸿蒙、iOS、安卓三端同步上线 5. 苹果 iPhone 在日本全系涨价：最高涨幅 11.3% 6. SpaceX 股价持续下挫 市值从峰值蒸发 1 万亿美元 7. Meta 洽谈向 Anthropic 出租算力，交易规模至高达 100 亿美元 8. C919 将首次执飞国际商业航线 9. 比亚迪巴西工厂迎来第 10 万辆新能源汽车下线 10. 我国日均 Token 调用量增长超千倍 - Powered by RSSHub",
+      "description": "1. 月之暗面 Kimi：因算力紧缺，暂停 C 端新用户订阅 2. 阿里 Token Plan 个人版发布，Qwen3.8-Max 预览版同步上线 3. 长鑫科技中签号出炉：共约 770.22 万个 4. SK 崔泰源：明年半导体需求至少增五成 5. 阿里云百炼正式上线 HappyOyster 1.0 6. 量子科技公司两仪万象完成 A+ 轮融资 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
-      "errorAt": "2025-05-15T10:10:26.628Z",
-      "errorMessage": "Authentication failed. Access denied.\n/cw/master/9\nroute.continue: route.continue: route.continue: route.abort: route.abort: route.abort: route.abort: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.abort: route.abort: route.abort: route.abort: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.abort: route.abort: route.abort: route.abort: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: Target page, context or browser has been closed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

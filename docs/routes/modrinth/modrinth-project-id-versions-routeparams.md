@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Show your HuskHomes homes and warps in an easy-to-use GUI menu. Updated to support Folia and latest versions. - Powered by RSSHub",
+      "description": "Pre-generates chunks, quickly and efficiently - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851432297317376",
+      "id": "114583879834365952",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/fkUN2Wmv",
-      "title": "Updated-HuskHomesGUI Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/fALzjamp",
+      "title": "Chunky Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/fkUN2Wmv/versions"
+      "url": "rsshub://modrinth/project/fALzjamp/versions"
     }
   ]
 }

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1325,
+  "heat": 1324,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",
@@ -150,7 +150,7 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": "2026-07-16T22:58:03.481Z",
+      "errorAt": "2026-07-17T20:51:26.225Z",
       "errorMessage": "[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n",
       "id": "61373650705521664",
       "image": null,
@@ -162,8 +162,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": "2026-07-17T17:54:23.029Z",
-      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 \n502 \n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n",
+      "errorAt": "2026-07-20T03:10:20.039Z",
+      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n502 \n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n",
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

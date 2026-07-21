@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/nodauf/GoMapEnum/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185695848672577536",
+      "id": "185694935800580096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/nodauf/GoMapEnum/releases",
-      "title": "GoMapEnum releases",
+      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
+      "title": "ldapx releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fnodauf%2FGoMapEnum%2Freleases/title=GoMapEnum%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/ginuerzh/gost/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185687225196835840",
+      "id": "185695342945072128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/ginuerzh/gost/releases",
-      "title": "Gost releases",
+      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
+      "title": "goexec releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fginuerzh%2Fgost%2Freleases/title=Gost%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

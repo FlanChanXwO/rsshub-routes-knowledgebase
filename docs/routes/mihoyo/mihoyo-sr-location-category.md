@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 42,
+  "heat": 41,
   "location": "sr/news.ts",
   "maintainers": [
     "shinanory"
