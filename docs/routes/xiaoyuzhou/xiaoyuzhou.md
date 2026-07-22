@@ -1,4 +1,4 @@
-# 小宇宙 - Unknown
+# 小宇宙 - 发现
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `xiaoyuzhou`
 - Namespace Name: `小宇宙`
 - Route Path: `/xiaoyuzhou/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `发现`
+- Example: `/xiaoyuzhou`
 - URL: `xiaoyuzhoufm.com/`
 - Language: `_None_`
 - Categories: `multimedia`
@@ -17,7 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+::: warning
+小宇宙的 api 需要验证 `x-jike-device-id`、`x-jike-access-token` 和 `x-jike-refresh-token` 。必要时需要自行配置，具体见部署文档。
+:::
 
 ## Parameters
 _None_
@@ -38,13 +40,15 @@ _None_
   "categories": [
     "multimedia"
   ],
+  "description": "::: warning\n小宇宙的 api 需要验证 `x-jike-device-id`、`x-jike-access-token` 和 `x-jike-refresh-token` 。必要时需要自行配置，具体见部署文档。\n:::",
+  "example": "/xiaoyuzhou",
   "heat": 0,
   "location": "pickup.ts",
   "maintainers": [
     "prnake",
     "Maecenas"
   ],
-  "name": "Unknown",
+  "name": "发现",
   "path": "/",
   "radar": [
     {

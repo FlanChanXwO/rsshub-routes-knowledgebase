@@ -137,7 +137,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 74,
   "location": "chinese.tsx",
   "maintainers": [
     "nczitzk"

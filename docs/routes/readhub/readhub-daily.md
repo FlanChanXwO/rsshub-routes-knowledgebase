@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 月之暗面 Kimi：因算力紧缺，暂停 C 端新用户订阅 2. 阿里 Token Plan 个人版发布，Qwen3.8-Max 预览版同步上线 3. 长鑫科技中签号出炉：共约 770.22 万个 4. SK 崔泰源：明年半导体需求至少增五成 5. 阿里云百炼正式上线 HappyOyster 1.0 6. 量子科技公司两仪万象完成 A+ 轮融资 - Powered by RSSHub",
+      "description": "1. DeepSeek V4「满血版」最快明天发布 2. 腾讯正就收购 SuperPlay 进行洽谈 对后者估值最高 15 亿美元 3. 腾讯 WorkBuddy 6 月访问量超 2000 万，领跑 AI 办公智能体市场 4. SpaceX 将「星舰」第 13 次试飞推迟至 7 月 23 日 5. 宇树发布 UnifoLM-OminiA-0.3 模型，支持全模态交互理解 6. AI 大模型公司零一万物计划 2027 年在香港上市 7. 字节跳动发布 Seed Audio 1.0：音频生成从「会说」迈向「会创作」 8. 谷歌计划打造新款芯片，大幅提升 AI 模型运行效率 9. 2026 美加墨世界杯将为国际足联带来超过 90 亿美元收入 10. 会员自曝亏损超一千万引争议，任泽平再回应：其加入时间只有一两周 没荐过股 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

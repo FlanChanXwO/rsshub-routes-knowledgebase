@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "CATTI 考试通知和公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-21T06:33:28.538Z",
+      "errorMessage": "[GET] \"https://www.catticenter.com/ggl\": 502 Bad Gateway\n",
       "id": "101927725498470400",
       "image": "https://www.catticenter.com/img/applogo.png",
       "ownerUserId": null,

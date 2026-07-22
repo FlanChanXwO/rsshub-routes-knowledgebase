@@ -63,25 +63,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796036",
+      "id": "69965125338796041",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20H.Casini.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20L.Susskind.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20H.Casini.1"
+      "url": "rsshub://inspirehep/literature/a%20L.Susskind.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69965125338796042",
+      "errorAt": "2025-03-05T15:13:11.683Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "69965125338796055",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20D.Grumiller.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20E.Witten.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20D.Grumiller.1"
+      "url": "rsshub://inspirehep/literature/a%20E.Witten.1"
     }
   ]
 }

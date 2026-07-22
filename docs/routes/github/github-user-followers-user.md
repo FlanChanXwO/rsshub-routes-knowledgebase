@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "fanweibin2018's followers - Powered by RSSHub",
-      "errorAt": "2025-11-14T00:49:53.990Z",
-      "errorMessage": "GitHub follower RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
-      "id": "194963482001905664",
+      "description": "yusixian's followers - Powered by RSSHub",
+      "errorAt": "2026-07-20T22:49:22.284Z",
+      "errorMessage": "Command timed out",
+      "id": "66420738803299328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/fanweibin2018",
-      "title": "fanweibin2018's followers",
+      "siteUrl": "https://github.com/yusixian",
+      "title": "yusixian's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/fanweibin2018"
+      "url": "rsshub://github/user/followers/yusixian"
     }
   ]
 }

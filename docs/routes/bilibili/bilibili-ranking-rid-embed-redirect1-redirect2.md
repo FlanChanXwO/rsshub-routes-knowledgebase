@@ -42,7 +42,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 1274,
+  "heat": 1275,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",

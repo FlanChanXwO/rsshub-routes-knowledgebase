@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 145,
+  "heat": 146,
   "location": "news/index.ts",
   "maintainers": [
     "EsuRt",

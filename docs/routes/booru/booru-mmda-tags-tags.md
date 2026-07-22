@@ -85,8 +85,8 @@ For example:
   "topFeeds": [
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-07-20T03:58:00.927Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63500086553914368",
       "image": null,
       "ownerUserId": null,
@@ -97,8 +97,8 @@ For example:
     },
     {
       "description": "blue_archive - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-21T05:06:47.676Z",
+      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list&tags=blue_archive\": 403 Forbidden\n",
       "id": "84529539746481152",
       "image": null,
       "ownerUserId": null,

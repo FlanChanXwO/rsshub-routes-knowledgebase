@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "Redirecting... - Powered by RSSHub",
-      "errorAt": "2026-07-19T09:47:59.197Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "133788689281561656",
       "image": null,
       "ownerUserId": null,

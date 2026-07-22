@@ -199,16 +199,16 @@ _None_
       "url": "rsshub://carousell/sg/RAM"
     },
     {
-      "description": "Carousell SG Search - GPU - Powered by RSSHub",
-      "errorAt": "2026-07-20T03:45:06.650Z",
-      "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
-      "id": "1158145898106978304",
+      "description": "Carousell SG Search - NAS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1182663070510350336",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - GPU",
+      "title": "Carousell SG Search - NAS",
       "type": "feed",
-      "url": "rsshub://carousell/sg/GPU"
+      "url": "rsshub://carousell/sg/NAS"
     }
   ]
 }

@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7547,
+  "heat": 7546,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -106,7 +106,7 @@ _None_
   "topFeeds": [
     {
       "description": "Proxy https://imnks.com/ - Powered by RSSHub",
-      "errorAt": "2026-01-20T08:57:15.116Z",
+      "errorAt": "2026-07-21T05:48:46.954Z",
       "errorMessage": "502 \nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fimnks.com%2F/item=article&itemTitle=span%5Bclass=entry-title%5D&itemLink=span%5Bclass=entry-title%5D+a&itemDesc=div%5Bclass*=entry-summary%5D&itemPubDate=div%5Bclass=entry-meta%5D+time&itemPubDateAttr=datetime\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n[GET] \"https://imnks.com/\": <no response> fetch failed (Hostname/IP does not match certificate's altnames: Host: imnks.com. is not in the cert's altnames: DNS:*.imnks.com)\n",
       "id": "68731140035191863",
       "image": null,
@@ -118,8 +118,8 @@ _None_
     },
     {
       "description": "Proxy https://javdb.com/uncensored - Powered by RSSHub",
-      "errorAt": "2026-07-20T03:10:45.053Z",
-      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fjavdb.com%2Funcensored/title%3DjavDB%E6%97%A0%E7%A0%81\n[GET] \"https://javdb.com/uncensored\": 522 <none>\n",
+      "errorAt": "2026-07-20T22:31:44.062Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fjavdb.com%2Funcensored/title%3DjavDB%E6%97%A0%E7%A0%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "70337524894135296",
       "image": null,
       "ownerUserId": null,

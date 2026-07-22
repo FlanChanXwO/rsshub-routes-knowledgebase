@@ -65,7 +65,7 @@ _None_
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
       "errorAt": "2026-07-20T05:23:52.608Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
       "id": "60670746377865216",
       "image": null,
       "ownerUserId": null,

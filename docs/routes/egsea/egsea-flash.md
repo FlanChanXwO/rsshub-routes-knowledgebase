@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯 - e 公司 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-21T05:28:57.864Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71834563973302272",
       "image": null,
       "ownerUserId": null,

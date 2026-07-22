@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `pawchive`
 - Display Name: `Pawchive`
-- URL: `pawchive.st`
+- URL: `pawchive.pw`
 - Language: `_None_`
-- Aliases: `pawchive, pawchive.st`
+- Aliases: `pawchive, pawchive.pw`
 - Route Count: `1`
 
 ## Routes

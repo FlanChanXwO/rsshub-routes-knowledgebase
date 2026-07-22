@@ -43,7 +43,7 @@ _None_
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 102,
+  "heat": 100,
   "location": "casts.ts",
   "maintainers": [
     "TonyRL"

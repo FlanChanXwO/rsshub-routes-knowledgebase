@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 127,
+  "heat": 128,
   "location": "tag.ts",
   "maintainers": [
     "yindaheng98",
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-07-20T01:17:37.506Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/tag/language:chinese?next=0\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76924878996884480",
       "image": null,
       "ownerUserId": null,

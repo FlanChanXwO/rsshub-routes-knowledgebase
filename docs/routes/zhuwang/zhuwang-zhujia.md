@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "全国今日生猪价格 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-21T06:19:43.665Z",
+      "errorMessage": "502 \n[GET] \"https://zhujia.zhuwang.com.cn//api/chartData?areaId=-1\": <no response> fetch failed (Connect Timeout Error (attempted address: zhujia.zhuwang.com.cn:443, timeout: 10000ms))\n",
       "id": "58310184334730242",
       "image": null,
       "ownerUserId": null,

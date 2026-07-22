@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 30,
   "location": "search.ts",
   "maintainers": [
     "SnowAgar25"
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "Search: ギャップ - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-17T04:59:48.784Z",
+      "errorMessage": "(intermediate value).data.map is not a function\n",
       "id": "67007423998717952",
       "image": null,
       "ownerUserId": null,

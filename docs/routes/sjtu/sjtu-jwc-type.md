@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 19,
+  "heat": 18,
   "location": "jwc.ts",
   "maintainers": [
     "SeanChao"

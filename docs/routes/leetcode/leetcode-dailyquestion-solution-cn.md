@@ -52,12 +52,12 @@ _None_
   "topFeeds": [
     {
       "description": "LeetCode 每日一题题解 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-21T02:52:59.066Z",
+      "errorMessage": "502 \nAuthentication failed. Access denied.\n/leetcode/dailyquestion/solution/cn\n[POST] \"https://leetcode.cn/graphql/\": 403 Forbidden\nFailed to fetch\n[POST] \"https://leetcode.cn/graphql/\": 403 Forbidden\n",
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/shift-2d-grid/",
+      "siteUrl": "https://leetcode.cn/problems/maximize-active-section-with-trade-i/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 228,
+  "heat": 227,
   "location": "search.ts",
   "maintainers": [
     "nczitzk"
@@ -99,8 +99,8 @@
   "topFeeds": [
     {
       "description": "關鍵字 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-07-20T01:58:12.068Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67212739482473472",
       "image": null,
       "ownerUserId": null,

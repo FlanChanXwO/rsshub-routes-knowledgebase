@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 923,
+  "heat": 922,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/international/2026/07/18/can-spains-teamwork-overcome-lionel-messis-genius\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-this-week/2026/07/17/cover-story-newsletter-its-too-darn-hot\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/business/2026/07/19/chinas-mysterious-new-billionaires-are-conquering-the-world\": 403 Forbidden\n[GET] \"https://www.economist.com/the-americas/2026/07/19/brazils-beloved-payments-system-has-drawn-donald-trumps-ire\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/20/why-criticism-of-the-qing-dynasty-scares-the-communist-party\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/20/why-criticism-of-the-qing-dynasty-scares-the-communist-party\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/06/a-rare-chinese-missile-test-unnerves-asian-neighbours\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

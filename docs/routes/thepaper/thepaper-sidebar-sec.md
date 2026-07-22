@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/thepaper/sidebar",
-  "heat": 115,
+  "heat": 114,
   "location": "sidebar.ts",
   "maintainers": [
     "bigfei"

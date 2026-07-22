@@ -84,8 +84,8 @@
   "topFeeds": [
     {
       "description": "最新动作 - Quicker - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-20T23:01:20.930Z",
+      "errorMessage": "[GET] \"https://getquicker.netundefined\": <no response> fetch failed (getaddrinfo ENOTFOUND getquicker.netundefined)\n",
       "id": "77063565001164800",
       "image": null,
       "ownerUserId": null,

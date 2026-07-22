@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `daily`
 - Namespace Name: `Daily.dev`
-- Route Path: `/daily/discussed/:period?/:innerSharedContent?/:dateSort?`
+- Route Path: `/daily/discussed/:period?/:dateSort?`
 - Route Name: `Most Discussed`
 - Example: `/daily/discussed/30`
 - URL: `app.daily.dev/discussed`
@@ -20,7 +20,6 @@
 _None_
 
 ## Parameters
-- `innerSharedContent`: {"default": "false", "description": "Where to Fetch inner Shared Posts instead of original", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
 - `dateSort`: {"default": "true", "description": "Sort posts by publication date instead of popularity", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
 - `period`: {"default": "7", "description": "Period of Lookup", "options": [{"label": "Last Week", "value": "7"}, {"label": "Last Month", "value": "30"}, {"label": "Last Year", "value": "365"}]}
 
@@ -40,7 +39,7 @@ _None_
     "social-media"
   ],
   "example": "/daily/discussed/30",
-  "heat": 11,
+  "heat": 0,
   "location": "discussed.ts",
   "maintainers": [
     "Rjnishant530"
@@ -50,20 +49,6 @@ _None_
     "dateSort": {
       "default": "true",
       "description": "Sort posts by publication date instead of popularity",
-      "options": [
-        {
-          "label": "False",
-          "value": "false"
-        },
-        {
-          "label": "True",
-          "value": "true"
-        }
-      ]
-    },
-    "innerSharedContent": {
-      "default": "false",
-      "description": "Where to Fetch inner Shared Posts instead of original",
       "options": [
         {
           "label": "False",
@@ -94,7 +79,7 @@ _None_
       ]
     }
   },
-  "path": "/discussed/:period?/:innerSharedContent?/:dateSort?",
+  "path": "/discussed/:period?/:dateSort?",
   "radar": [
     {
       "source": [
@@ -102,35 +87,7 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
-  "topFeeds": [
-    {
-      "description": "Stay on top of real-time developer discussions on daily.dev. Join conversations happening now and engage with the most active community members. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "119070318001807360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://app.daily.dev/posts/discussed",
-      "title": "Real-time discussions in the developer community | daily.dev",
-      "type": "feed",
-      "url": "rsshub://daily/discussed/30"
-    },
-    {
-      "description": "Stay on top of real-time developer discussions on daily.dev. Join conversations happening now and engage with the most active community members. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "83025199966683136",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://app.daily.dev/posts/discussed",
-      "title": "Real-time discussions in the developer community | daily.dev",
-      "type": "feed",
-      "url": "rsshub://daily/discussed"
-    }
-  ],
+  "topFeeds": [],
   "url": "app.daily.dev/discussed",
   "view": 0
 }

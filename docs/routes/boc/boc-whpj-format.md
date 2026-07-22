@@ -94,8 +94,8 @@
     },
     {
       "description": "中国银行外汇牌价 - Powered by RSSHub",
-      "errorAt": "2026-07-15T04:38:43.985Z",
-      "errorMessage": "[GET] \"https://www.boc.cn/sourcedb/whpj/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 116.136.32.177:443, 2409:8731:21f:30:11e::11e:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75015471600032768",
       "image": null,
       "ownerUserId": null,

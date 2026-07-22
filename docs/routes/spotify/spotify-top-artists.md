@@ -83,7 +83,7 @@ _None_
     {
       "description": "Spotify: My Top Artists - Powered by RSSHub",
       "errorAt": "2026-03-12T05:56:28.822Z",
-      "errorMessage": "[GET] \"https://api.spotify.com/v1/me/top/artists\": 403 Forbidden\n",
+      "errorMessage": "[POST] \"https://accounts.spotify.com/api/token\": 400 Bad Request\n",
       "id": "60272158594622464",
       "image": null,
       "ownerUserId": null,

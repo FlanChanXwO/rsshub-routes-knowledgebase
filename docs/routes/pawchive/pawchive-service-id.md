@@ -9,7 +9,7 @@
 - Route Path: `/pawchive/:service/:id`
 - Route Name: `Posts`
 - Example: `/pawchive/fanbox/22445`
-- URL: `pawchive.st`
+- URL: `pawchive.pw`
 - Language: `_None_`
 - Categories: `anime`
 - Maintainers: `TonyRL`
@@ -36,11 +36,11 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `pawchive.st/`
+  - `pawchive.pw/`
 - `target`: ``
 ### Rule 2
 - `source`:
-  - `pawchive.st/:service/user/:id`
+  - `pawchive.pw/:service/user/:id`
 - `target`: `/:service/:id`
 
 ## Raw JSON
@@ -73,13 +73,13 @@ _None_
   "radar": [
     {
       "source": [
-        "pawchive.st/"
+        "pawchive.pw/"
       ],
       "target": ""
     },
     {
       "source": [
-        "pawchive.st/:service/user/:id"
+        "pawchive.pw/:service/user/:id"
       ],
       "target": "/:service/:id"
     }

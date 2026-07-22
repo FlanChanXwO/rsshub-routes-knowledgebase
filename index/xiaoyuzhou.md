@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 发现
 - Route ID: `xiaoyuzhou:/xiaoyuzhou/`
 - Route Path: `/xiaoyuzhou/`
 - File: `docs/routes/xiaoyuzhou/xiaoyuzhou.md`

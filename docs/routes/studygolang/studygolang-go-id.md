@@ -76,7 +76,7 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": "2026-07-20T05:39:41.936Z",
+      "errorAt": "2026-07-21T05:48:35.276Z",
       "errorMessage": "Authentication failed. Access denied.\n/studygolang/go\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
       "id": "56597687648785408",
       "image": null,

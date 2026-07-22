@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 31,
   "location": "cn/new.ts",
   "maintainers": [
     "jzhangdev"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "当季新品推荐 - Powered by RSSHub",
       "errorAt": "2025-09-15T03:51:42.607Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorMessage": "502 \nFailed to fetch\n",
       "id": "66834743977124868",
       "image": null,
       "ownerUserId": null,

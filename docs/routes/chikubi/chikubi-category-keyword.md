@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 45,
+  "heat": 44,
   "location": "category.ts",
   "maintainers": [
     "SnowAgar25"

@@ -3506,6 +3506,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `11`
 - Index File: `index/gcores.md`
 
+## Guangdong Museum
+- Namespace: `gdmuseum`
+- Aliases: `gdmuseum, gdmuseum.org.cn, guangdong museum`
+- Route Count: `2`
+- Index File: `index/gdmuseum.md`
+
 ## 广东省食品药品审评认证技术协会
 - Namespace: `gdsrx`
 - Aliases: `gdsrx, gdsrx.org.cn, 广东省食品药品审评认证技术协会`
@@ -7036,7 +7042,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Pawchive
 - Namespace: `pawchive`
-- Aliases: `pawchive, pawchive.st`
+- Aliases: `pawchive, pawchive.pw`
 - Route Count: `1`
 - Index File: `index/pawchive.md`
 

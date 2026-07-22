@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `daily`
 - Namespace Name: `Daily.dev`
-- Route Path: `/daily/popular/:innerSharedContent?/:dateSort?`
+- Route Path: `/daily/popular/:dateSort?`
 - Route Name: `Popular`
 - Example: `/daily/popular`
 - URL: `app.daily.dev/popular`
@@ -20,7 +20,6 @@
 _None_
 
 ## Parameters
-- `innerSharedContent`: {"default": "false", "description": "Where to Fetch inner Shared Posts instead of original", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
 - `dateSort`: {"default": "true", "description": "Sort posts by publication date instead of popularity", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
 
 
@@ -39,7 +38,7 @@ _None_
     "social-media"
   ],
   "example": "/daily/popular",
-  "heat": 10,
+  "heat": 0,
   "location": "popular.ts",
   "maintainers": [
     "Rjnishant530"
@@ -59,23 +58,9 @@ _None_
           "value": "true"
         }
       ]
-    },
-    "innerSharedContent": {
-      "default": "false",
-      "description": "Where to Fetch inner Shared Posts instead of original",
-      "options": [
-        {
-          "label": "False",
-          "value": "false"
-        },
-        {
-          "label": "True",
-          "value": "true"
-        }
-      ]
     }
   },
-  "path": "/popular/:innerSharedContent?/:dateSort?",
+  "path": "/popular/:dateSort?",
   "radar": [
     {
       "source": [
@@ -83,23 +68,7 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
-  "topFeeds": [
-    {
-      "description": "daily.dev is the easiest way to stay updated on the latest programming news. Get the best content from the top tech publications on any topic you want. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "98839639566962688",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://app.daily.dev/posts",
-      "title": "Popular posts on daily.dev",
-      "type": "feed",
-      "url": "rsshub://daily/popular"
-    }
-  ],
+  "topFeeds": [],
   "url": "app.daily.dev/popular",
   "view": 0
 }

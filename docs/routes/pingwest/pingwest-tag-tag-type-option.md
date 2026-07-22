@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 豆包 - Powered by RSSHub",
-      "errorAt": "2026-05-25T12:07:01.198Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22158&type=0\": 405 Not Allowed\n",
-      "id": "128313509223043072",
+      "description": "品玩 - ChinaJoy - Powered by RSSHub",
+      "errorAt": "2026-06-24T11:21:51.460Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=7604&type=0\": 405 Not Allowed\n",
+      "id": "69704836086005760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/22158",
-      "title": "品玩 - 豆包",
+      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
+      "title": "品玩 - ChinaJoy",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/22158/1"
+      "url": "rsshub://pingwest/tag/ChinaJoy/1"
     }
   ]
 }

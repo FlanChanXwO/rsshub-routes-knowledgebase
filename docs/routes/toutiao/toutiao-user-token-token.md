@@ -77,10 +77,10 @@ _None_
     },
     {
       "description": "科普号@听风的蚕讲科普 关注不迷路🤙🏻 - Powered by RSSHub",
-      "errorAt": "2026-07-19T11:07:01.893Z",
-      "errorMessage": "无法获取用户信息\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84412058211393536",
-      "image": "https://p11-sign.toutiaoimg.com/user-avatar/574d56bc5fcc3e3dd56bf1d0989e7c2e~300x300.image?_iz=112761&from=tt_user.profile_all_shortvideo&lk3s=06827d14&x-expires=1785024000&x-signature=xCp7Lzi61eHhFv7FU6dSWQbGxq0%3D",
+      "image": "https://p11-sign.toutiaoimg.com/user-avatar/574d56bc5fcc3e3dd56bf1d0989e7c2e~300x300.image?_iz=112761&from=tt_user.profile_all_shortvideo&lk3s=06827d14&x-expires=1785196800&x-signature=pkjVwtsSVBo3RweAdBuOCh4dEHk%3D",
       "ownerUserId": null,
       "siteUrl": "https://www.toutiao.com/c/user/token/MS4wLjABAAAA1q3h6c_FuudwZwYJBcGMC4LjJwrnBkzE6tkRu2pVPOg/",
       "title": "听风的蚕的头条主页 - 今日头条(www.toutiao.com)",

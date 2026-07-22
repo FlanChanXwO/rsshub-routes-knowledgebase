@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 72,
+  "heat": 73,
   "location": "gss.ts",
   "maintainers": [
     "la3rence"

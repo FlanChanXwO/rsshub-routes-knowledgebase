@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `daily`
 - Namespace Name: `Daily.dev`
-- Route Path: `/daily/squads/:squads/:innerSharedContent?`
+- Route Path: `/daily/squads/:squads`
 - Route Name: `Squads`
 - Example: `/daily/squads/watercooler`
 - URL: `app.daily.dev/squads/discover`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `innerSharedContent`: {"default": "false", "description": "Where to Fetch inner Shared Posts instead of original", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
+_None_
 
 
 ## Features
@@ -44,23 +44,7 @@ _None_
     "Rjnishant530"
   ],
   "name": "Squads",
-  "parameters": {
-    "innerSharedContent": {
-      "default": "false",
-      "description": "Where to Fetch inner Shared Posts instead of original",
-      "options": [
-        {
-          "label": "False",
-          "value": "false"
-        },
-        {
-          "label": "True",
-          "value": "true"
-        }
-      ]
-    }
-  },
-  "path": "/squads/:squads/:innerSharedContent?",
+  "path": "/squads/:squads",
   "radar": [
     {
       "source": [
@@ -68,9 +52,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
   "topFeeds": [],
   "url": "app.daily.dev/squads/discover",
   "view": 0

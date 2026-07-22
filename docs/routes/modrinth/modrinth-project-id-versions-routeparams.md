@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Pre-generates chunks, quickly and efficiently - Powered by RSSHub",
+      "description": "Track, compete, and get rewarded for your item collections with seamless plugin integrations and per-collection leaderboards! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583879834365952",
+      "id": "114582489961986048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/fALzjamp",
-      "title": "Chunky Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/PjHvoAob",
+      "title": "AuroraCollections Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/fALzjamp/versions"
+      "url": "rsshub://modrinth/project/PjHvoAob/versions"
     }
   ]
 }

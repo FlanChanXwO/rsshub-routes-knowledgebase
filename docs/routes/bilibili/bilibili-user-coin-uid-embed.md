@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": null,
-      "errorAt": "2025-08-01T02:09:52.147Z",
-      "errorMessage": "用户隐私设置未公开\n",
-      "id": "173927273945055233",
+      "description": "哈喽的B站频道 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62853430730507264",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://space.bilibili.com/383447486",
+      "title": "哈喽的B站频道 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/90361813"
+      "url": "rsshub://bilibili/user/coin/383447486"
     }
   ]
 }

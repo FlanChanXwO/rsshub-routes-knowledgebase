@@ -72,7 +72,7 @@ Type 栏目（对应 Ghost 标签）：
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 131,
+  "heat": 130,
   "location": "channel.ts",
   "maintainers": [
     "prnake",

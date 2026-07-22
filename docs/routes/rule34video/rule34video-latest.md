@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 2,
   "location": "latest.ts",
   "maintainers": [
     "ashi-koki"

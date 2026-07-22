@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `daily`
 - Namespace Name: `Daily.dev`
-- Route Path: `/daily/upvoted/:period?/:innerSharedContent?/:dateSort?`
+- Route Path: `/daily/upvoted/:period?/:dateSort?`
 - Route Name: `Most upvoted`
 - Example: `/daily/upvoted/7`
 - URL: `app.daily.dev/upvoted`
@@ -20,7 +20,6 @@
 _None_
 
 ## Parameters
-- `innerSharedContent`: {"default": "false", "description": "Where to Fetch inner Shared Posts instead of original", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
 - `dateSort`: {"default": "true", "description": "Sort posts by publication date instead of popularity", "options": [{"label": "False", "value": "false"}, {"label": "True", "value": "true"}]}
 - `period`: {"default": "7", "description": "Period of Lookup", "options": [{"label": "Last Week", "value": "7"}, {"label": "Last Month", "value": "30"}, {"label": "Last Year", "value": "365"}]}
 
@@ -40,7 +39,7 @@ _None_
     "social-media"
   ],
   "example": "/daily/upvoted/7",
-  "heat": 21,
+  "heat": 0,
   "location": "upvoted.ts",
   "maintainers": [
     "Rjnishant530"
@@ -50,20 +49,6 @@ _None_
     "dateSort": {
       "default": "true",
       "description": "Sort posts by publication date instead of popularity",
-      "options": [
-        {
-          "label": "False",
-          "value": "false"
-        },
-        {
-          "label": "True",
-          "value": "true"
-        }
-      ]
-    },
-    "innerSharedContent": {
-      "default": "false",
-      "description": "Where to Fetch inner Shared Posts instead of original",
       "options": [
         {
           "label": "False",
@@ -94,7 +79,7 @@ _None_
       ]
     }
   },
-  "path": "/upvoted/:period?/:innerSharedContent?/:dateSort?",
+  "path": "/upvoted/:period?/:dateSort?",
   "radar": [
     {
       "source": [
@@ -102,35 +87,7 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 0
-  },
-  "topFeeds": [
-    {
-      "description": "Find the most upvoted developer posts on daily.dev. Explore top-rated content in coding, tutorials, and tech news from the largest developer network in the world. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "81424438471419904",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://app.daily.dev/posts/upvoted",
-      "title": "Most upvoted posts for developers | daily.dev",
-      "type": "feed",
-      "url": "rsshub://daily/upvoted"
-    },
-    {
-      "description": "Find the most upvoted developer posts on daily.dev. Explore top-rated content in coding, tutorials, and tech news from the largest developer network in the world. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "129176238537455616",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://app.daily.dev/posts/upvoted",
-      "title": "Most upvoted posts for developers | daily.dev",
-      "type": "feed",
-      "url": "rsshub://daily/upvoted/7"
-    }
-  ],
+  "topFeeds": [],
   "url": "app.daily.dev/upvoted",
   "view": 0
 }
