@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3567,
+  "heat": 3566,
   "location": "news.tsx",
   "maintainers": [
     "quiniapiezoelectricity"

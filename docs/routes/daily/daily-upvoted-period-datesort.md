@@ -39,7 +39,7 @@ _None_
     "social-media"
   ],
   "example": "/daily/upvoted/7",
-  "heat": 0,
+  "heat": 1,
   "location": "upvoted.ts",
   "maintainers": [
     "Rjnishant530"
@@ -87,7 +87,23 @@ _None_
       ]
     }
   ],
-  "topFeeds": [],
+  "test": {
+    "code": 0
+  },
+  "topFeeds": [
+    {
+      "description": "Find the most upvoted developer posts on daily.dev. Explore top-rated content in coding, tutorials, and tech news from the largest developer network in the world. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "112689652596865024",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://app.daily.dev/posts/upvoted",
+      "title": "Most upvoted posts for developers | daily.dev",
+      "type": "feed",
+      "url": "rsshub://daily/upvoted/:period"
+    }
+  ],
   "url": "app.daily.dev/upvoted",
   "view": 0
 }

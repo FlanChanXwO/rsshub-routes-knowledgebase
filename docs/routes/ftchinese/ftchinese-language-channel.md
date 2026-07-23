@@ -81,7 +81,7 @@ _None_
     {
       "description": "FTChinese RSS - All Feed - Powered by RSSHub",
       "errorAt": "2026-07-09T06:29:25.553Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001110381?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110374?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110382?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110382?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110375?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110382?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001110390?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110390?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110383?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110390?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110375?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110383?full=y&archive\": 429 Too Many Requests\n",
       "id": "61693185811247104",
       "image": null,
       "ownerUserId": null,

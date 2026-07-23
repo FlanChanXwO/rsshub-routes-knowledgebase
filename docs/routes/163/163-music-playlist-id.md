@@ -27,12 +27,16 @@ _None_
 - `requireConfig`: [{"description": "网易云音乐登陆后的 cookie 值，可在浏览器控制台通过`document.cookie`获取。", "name": "NCM_COOKIES", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: true
+- `supportRadar`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `music.163.com/playlist`
+- `target`: `/music/playlist/:id`
 
 ## Raw JSON
 ```json
@@ -53,6 +57,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
+    "supportRadar": true,
     "supportScihub": false
   },
   "heat": 313,
@@ -65,6 +70,14 @@ _None_
     "id": "歌单 id, 可在歌单页 URL 中找到"
   },
   "path": "/music/playlist/:id",
+  "radar": [
+    {
+      "source": [
+        "music.163.com/playlist"
+      ],
+      "target": "/music/playlist/:id"
+    }
+  ],
   "test": {
     "code": 0
   },

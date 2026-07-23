@@ -75,7 +75,7 @@ _None_
     {
       "description": "ACG Vinyl - 黑胶 - 黑胶新闻 - Powered by RSSHub",
       "errorAt": "2026-06-15T16:08:13.332Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\n",
+      "errorMessage": "502 \nUnexpected end of JSON input\n",
       "id": "190228194247987200",
       "image": null,
       "ownerUserId": null,

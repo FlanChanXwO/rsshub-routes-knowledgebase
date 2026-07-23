@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 380,
+  "heat": 379,
   "location": "popular.ts",
   "maintainers": [
     "AiraNadih"
@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "CosplayTele - Top views in 30 days - Powered by RSSHub",
-      "errorAt": "2026-07-21T03:30:28.831Z",
-      "errorMessage": "[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n502 \n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "107079632432448512",
       "image": null,
       "ownerUserId": null,

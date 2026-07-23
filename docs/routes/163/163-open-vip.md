@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "网易公开课 - 精品课程 - Powered by RSSHub",
-      "errorAt": "2026-07-19T23:32:59.444Z",
-      "errorMessage": "502 \nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56449674745420800",
       "image": null,
       "ownerUserId": null,

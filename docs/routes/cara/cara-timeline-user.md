@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - alayne - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:48:31.342Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127385598208675840",
-      "image": "https://cdn.cara.app/production/profiles/21e1de53-84c1-4167-9328-cacacc0f4804/1C7C9B2C-1519-4E22-9381-559B422076F6.jpg",
+      "description": "Timeline - Nathan Fowkes - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131922100224243712",
+      "image": "https://cdn.cara.app/production/profiles/e3934f00-3471-41dc-9700-11b58cfd4044/facebook-profile2.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/alayne/all",
-      "title": "Timeline - alayne",
+      "siteUrl": "https://cara.app/nathanfowkesart/all",
+      "title": "Timeline - Nathan Fowkes",
       "type": "feed",
-      "url": "rsshub://cara/timeline/alayne"
+      "url": "rsshub://cara/timeline/nathanfowkesart"
     }
   ]
 }

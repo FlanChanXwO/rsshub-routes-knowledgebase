@@ -28,12 +28,16 @@ _None_
 - `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: false
+- `supportRadar`: true
 - `supportBT`: false
 - `supportPodcast`: true
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `music.163.com/djradio`
+- `target`: `/music/djradio/:id`
 
 ## Raw JSON
 ```json
@@ -49,9 +53,10 @@ _None_
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": true,
+    "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2475,
+  "heat": 2476,
   "location": "music/djradio.tsx",
   "maintainers": [
     "magic-akari"
@@ -62,6 +67,14 @@ _None_
     "info": "默认在正文尾部显示节目相关信息，任意值为不显示"
   },
   "path": "/music/djradio/:id/:info?",
+  "radar": [
+    {
+      "source": [
+        "music.163.com/djradio"
+      ],
+      "target": "/music/djradio/:id"
+    }
+  ],
   "test": {
     "code": 0
   },

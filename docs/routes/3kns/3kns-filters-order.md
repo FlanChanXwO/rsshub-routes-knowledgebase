@@ -108,8 +108,8 @@ _None_
     },
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",
-      "errorAt": "2026-07-19T16:08:11.635Z",
-      "errorMessage": "[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (Connect Timeout Error (attempted address: www.3kns.com:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86932236568616960",
       "image": null,
       "ownerUserId": null,

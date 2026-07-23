@@ -27,7 +27,10 @@ _None_
 _None_
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `music.163.com/user/event`
+- `target`: `/music/user/events/:id`
 
 ## Raw JSON
 ```json
@@ -42,6 +45,14 @@ _None_
   ],
   "name": "用户动态",
   "path": "/music/user/events/:id",
+  "radar": [
+    {
+      "source": [
+        "music.163.com/user/event"
+      ],
+      "target": "/music/user/events/:id"
+    }
+  ],
   "topFeeds": [
     {
       "description": "网易云音乐用户动态 - 남우현 정대현 INFINITE B.A.P MONSTA X - Powered by RSSHub",

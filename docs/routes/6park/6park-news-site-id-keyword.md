@@ -45,7 +45,7 @@ _None_
     "other"
   ],
   "description": "::: tip 提示\n若订阅 [时政](https://www.6parknews.com/newspark/index.php?type=1)，其网址为 <https://www.6parknews.com/newspark/index.php?type=1>，其中 `newspark` 为分站，`1` 为栏目 id。\n若订阅 [美国](https://local.6parknews.com/index.php?type_id=1)，其网址为 <https://local.6parknews.com/index.php?type_id=1>，其中 `local` 为分站，`1` 为栏目 id。\n:::",
-  "heat": 7,
+  "heat": 5,
   "location": "news.ts",
   "maintainers": [
     "nczitzk",

@@ -6,7 +6,7 @@
 - URL: `physics.zju.edu.cn`
 - Language: `_None_`
 - Aliases: `physics, physics.zju.edu.cn, zju, 浙江大学`
-- Route Count: `8`
+- Route Count: `9`
 
 ## Routes
 
@@ -57,6 +57,14 @@
 - File Name: `zju-list-type.md`
 - Categories: `university`
 - Maintainers: `Jeason0228`
+
+### 数学科学学院
+- Route ID: `zju:/zju/math/:type`
+- Route Path: `/zju/math/:type`
+- File: `docs/routes/zju/zju-math-type.md`
+- File Name: `zju-math-type.md`
+- Categories: `university`
+- Maintainers: `Alex222222222222`
 
 ### 物理学院
 - Route ID: `zju:/zju/physics/:type`

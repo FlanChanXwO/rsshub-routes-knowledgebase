@@ -64,7 +64,7 @@ _None_
     {
       "description": "Github Notifications - Powered by RSSHub",
       "errorAt": "2024-11-14T01:50:35.024Z",
-      "errorMessage": "GitHub notification RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.github.com/notifications\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://api.github.com/notifications\": 403 Forbidden\n",
       "id": "79179425236069376",
       "image": null,
       "ownerUserId": null,

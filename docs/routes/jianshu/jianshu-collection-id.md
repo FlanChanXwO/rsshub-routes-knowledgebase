@@ -71,8 +71,7 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -89,8 +88,8 @@ _None_
     },
     {
       "description": "微服务和SOA相关的理论知识和技术知识，spring cloud，spring boot，dubbo，rpc，thrift，protobuf，gRPC，分布式事务，DDD,k8s,kuberne... - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-21T09:45:45.348Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "69647312270682129",
       "image": null,
       "ownerUserId": null,

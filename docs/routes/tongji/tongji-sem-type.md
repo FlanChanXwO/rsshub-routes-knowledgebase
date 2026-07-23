@@ -80,7 +80,7 @@ _None_
     },
     {
       "description": "活动 - Powered by RSSHub",
-      "errorAt": "2026-07-20T19:38:28.911Z",
+      "errorAt": "2026-07-22T03:51:06.059Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79122838265601024",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",

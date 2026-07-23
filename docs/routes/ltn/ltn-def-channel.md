@@ -43,7 +43,7 @@ _None_
     "traditional-media"
   ],
   "example": "/ltn/def/breakingnewslist",
-  "heat": 0,
+  "heat": 2,
   "location": "def.ts",
   "maintainers": [
     "TonyRL"

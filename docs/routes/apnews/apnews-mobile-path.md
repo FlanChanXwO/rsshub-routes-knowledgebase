@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "mobile-api.ts",
   "maintainers": [
     "dzx-dzx"

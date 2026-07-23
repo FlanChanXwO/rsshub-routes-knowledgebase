@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2084,
+  "heat": 2088,
   "location": "znews.ts",
   "maintainers": [
     "shunf4"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": "2026-07-21T00:10:27.351Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41511702474276898",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41511702474276898",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

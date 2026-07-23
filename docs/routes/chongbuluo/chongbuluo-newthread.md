@@ -66,13 +66,14 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "虫部落最新发表的帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-22T05:16:52.737Z",
+      "errorMessage": "[GET] \"https://www.chongbuluo.com/forum.php?mod=guide&view=newthread\": 530 <none>\n502 \n[GET] \"https://www.chongbuluo.com/forum.php?mod=guide&view=newthread\": 530 <none>\n",
       "id": "144338273329964032",
       "image": null,
       "ownerUserId": null,

@@ -27,12 +27,16 @@ _None_
 - `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: false
+- `supportRadar`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `music.163.com/artist/album`
+- `target`: `/music/artist/:id`
 
 ## Raw JSON
 ```json
@@ -47,6 +51,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
+    "supportRadar": true,
     "supportScihub": false
   },
   "heat": 91,
@@ -59,6 +64,14 @@ _None_
     "id": "歌手 id, 可在歌手详情页 URL 中找到"
   },
   "path": "/music/artist/:id",
+  "radar": [
+    {
+      "source": [
+        "music.163.com/artist/album"
+      ],
+      "target": "/music/artist/:id"
+    }
+  ],
   "test": {
     "code": 0
   },
@@ -76,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - The 1999 - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - Les Rallizes Denudes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "65815290747943936",
-      "image": "https://p2.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
+      "id": "103886134004613120",
+      "image": "https://p2.music.126.net/mVQ3i2ch8U9OG6c-NbVZ8w==/109951169989353063.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=59573590",
-      "title": "The 1999",
+      "siteUrl": "https://music.163.com/#/artist/album?id=95507",
+      "title": "Les Rallizes Denudes",
       "type": "feed",
-      "url": "rsshub://163/music/artist/59573590"
+      "url": "rsshub://163/music/artist/95507"
     }
   ]
 }

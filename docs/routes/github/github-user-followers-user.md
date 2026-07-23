@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "yusixian's followers - Powered by RSSHub",
-      "errorAt": "2026-07-20T22:49:22.284Z",
-      "errorMessage": "Command timed out",
-      "id": "66420738803299328",
+      "description": "hasansezertasan's followers - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "195340244768948224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yusixian",
-      "title": "yusixian's followers",
+      "siteUrl": "https://github.com/hasansezertasan",
+      "title": "hasansezertasan's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/yusixian"
+      "url": "rsshub://github/user/followers/hasansezertasan"
     }
   ]
 }

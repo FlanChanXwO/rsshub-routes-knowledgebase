@@ -27,12 +27,16 @@ _None_
 - `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: false
+- `supportRadar`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `music.163.com/artist`
+- `target`: `/music/artist/songs/:id`
 
 ## Raw JSON
 ```json
@@ -47,6 +51,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
+    "supportRadar": true,
     "supportScihub": false
   },
   "heat": 57,
@@ -59,6 +64,14 @@ _None_
     "id": "歌手 id, 可在歌手详情页 URL 中找到"
   },
   "path": "/music/artist/songs/:id",
+  "radar": [
+    {
+      "source": [
+        "music.163.com/artist"
+      ],
+      "target": "/music/artist/songs/:id"
+    }
+  ],
   "test": {
     "code": 0
   },

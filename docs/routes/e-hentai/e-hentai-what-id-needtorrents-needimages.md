@@ -46,8 +46,8 @@ _None_
   "topFeeds": [
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": "2026-07-16T03:29:33.425Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/manga\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,

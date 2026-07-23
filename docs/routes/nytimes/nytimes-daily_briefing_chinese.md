@@ -78,7 +78,7 @@ _None_
     {
       "description": "Daily Briefing - The New York Times - Powered by RSSHub",
       "errorAt": "2026-07-13T17:02:23.567Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n",
       "id": "148631391178206293",
       "image": null,
       "ownerUserId": null,

@@ -36,7 +36,7 @@ _None_
     "game"
   ],
   "example": "/xiaoheihe/add2cart/epic",
-  "heat": 437,
+  "heat": 440,
   "location": "add2cart.ts",
   "maintainers": [
     "ladeng07"

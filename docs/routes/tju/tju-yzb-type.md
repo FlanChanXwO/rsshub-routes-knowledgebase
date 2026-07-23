@@ -63,7 +63,7 @@ _None_
   },
   "path": "/yzb/:type?",
   "test": {
-    "code": 1
+    "code": 0
   },
   "topFeeds": [
     {

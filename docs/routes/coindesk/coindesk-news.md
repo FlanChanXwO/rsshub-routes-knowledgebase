@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 88,
+  "heat": 90,
   "location": "news.ts",
   "maintainers": [
     "pseudoyu"

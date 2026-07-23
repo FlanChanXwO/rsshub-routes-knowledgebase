@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Deep Tech Week - Powered by RSSHub",
+      "description": "Platzi - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966907590378496",
+      "id": "265967006213506048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/deep-tech-week",
-      "title": "Deep Tech Week",
+      "siteUrl": "https://lu.ma/platzi",
+      "title": "Platzi",
       "type": "feed",
-      "url": "rsshub://luma/deep-tech-week"
+      "url": "rsshub://luma/platzi"
     }
   ],
   "url": "lu.ma"

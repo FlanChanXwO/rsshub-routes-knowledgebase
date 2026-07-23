@@ -152,6 +152,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/3dmgame.md`
 
+## Chongqing China Three Gorges Museum
+- Namespace: `3gmuseum`
+- Aliases: `3gmuseum, 3gmuseum.cn, chongqing china three gorges museum, www, www.3gmuseum.cn`
+- Route Count: `1`
+- Index File: `index/3gmuseum.md`
+
 ## 3k-Switch游戏库
 - Namespace: `3kns`
 - Aliases: `3k-switch游戏库, 3kns, 3kns.com, www, www.3kns.com`
@@ -8744,6 +8750,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/tisi.md`
 
+## Tianjin Museum
+- Namespace: `tjbwg`
+- Aliases: `tianjin museum, tjbwg, tjbwg.cn, www, www.tjbwg.cn`
+- Route Count: `2`
+- Index File: `index/tjbwg.md`
+
 ## Tianjin University 天津大学
 - Namespace: `tju`
 - Aliases: `cic, cic.tju.edu.cn, tianjin university 天津大学, tju`
@@ -10001,7 +10013,7 @@ Use this file to select the target namespace before opening route documents.
 ## 浙江大学
 - Namespace: `zju`
 - Aliases: `physics, physics.zju.edu.cn, zju, 浙江大学`
-- Route Count: `8`
+- Route Count: `9`
 - Index File: `index/zju.md`
 
 ## 浙江工业大学

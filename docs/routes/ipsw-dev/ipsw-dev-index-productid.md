@@ -65,8 +65,8 @@ _None_
     },
     {
       "description": "Released - Powered by RSSHub",
-      "errorAt": "2026-07-21T04:13:41.002Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": "2026-07-21T23:43:13.733Z",
+      "errorMessage": "[GET] \"https://ipsw.dev/product/version/iPhone17,1\": 520 <none>\n",
       "id": "168663519061177344",
       "image": null,
       "ownerUserId": null,
