@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "NL Times -- Top Stories - Powered by RSSHub",
-      "errorAt": "2026-07-21T05:47:47.690Z",
-      "errorMessage": "[GET] \"https://www.nltimes.nl/top-stories\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59769816692412416",
       "image": null,
       "ownerUserId": null,
@@ -91,16 +91,16 @@
       "url": "rsshub://nltimes/news/top-stories"
     },
     {
-      "description": "NL Times -- Politics - Powered by RSSHub",
+      "description": "NL Times -- Top Stories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "180670433614968832",
+      "id": "187417269928465408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.nltimes.nl/categories/politics",
-      "title": "NL Times -- Politics",
+      "siteUrl": "https://www.nltimes.nl/top-stories",
+      "title": "NL Times -- Top Stories",
       "type": "feed",
-      "url": "rsshub://nltimes/news/politics"
+      "url": "rsshub://nltimes/news"
     }
   ]
 }

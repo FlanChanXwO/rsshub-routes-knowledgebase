@@ -71,7 +71,7 @@ _None_
     {
       "description": "6park.com - Powered by RSSHub",
       "errorAt": "2025-11-04T02:18:39.177Z",
-      "errorMessage": "[GET] \"https://www.6parknews.com/newspark/index.php?act=newssearch&app=news&keywords=搜索&submit=查询\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.6parknews.com/newspark/index.php?act=newssearch&app=news&keywords=搜索&submit=查询\": 410 Gone\n",
       "id": "82298733055304704",
       "image": null,
       "ownerUserId": null,
@@ -83,7 +83,7 @@ _None_
     {
       "description": "6park.com - Powered by RSSHub",
       "errorAt": "2024-11-27T02:54:40.175Z",
-      "errorMessage": "[GET] \"https://www.6parknews.com/newspark/index.php?act=newssearch&app=news&keywords=新闻速递&submit=查询\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.6parknews.com/newspark/index.php?act=newssearch&app=news&keywords=新闻速递&submit=查询\": 410 Gone\n",
       "id": "82300149476718592",
       "image": null,
       "ownerUserId": null,

@@ -1430,6 +1430,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/capitalmind.md`
 
+## Capital Museum
+- Namespace: `capitalmuseum`
+- Aliases: `capital museum, capitalmuseum, capitalmuseum.org.cn/, www, www.capitalmuseum.org.cn/`
+- Route Count: `2`
+- Index File: `index/capitalmuseum.md`
+
 ## Cara
 - Namespace: `cara`
 - Aliases: `cara, cara.app`
@@ -7784,6 +7790,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/scmp.md`
 
+## Sichuan Museum
+- Namespace: `scmuseum`
+- Aliases: `scmuseum, scmuseum.cn, sichuan museum, www, www.scmuseum.cn`
+- Route Count: `1`
+- Index File: `index/scmuseum.md`
+
 ## 华南师范大学
 - Namespace: `scnu`
 - Aliases: `cs, cs.scnu.edu.cn, scnu, 华南师范大学`
@@ -8431,6 +8443,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `szftedu, ylxx, ylxx.szftedu.cn, 园岭小学`
 - Route Count: `2`
 - Index File: `index/szftedu.md`
+
+## Suzhou Museum
+- Namespace: `szmuseum`
+- Aliases: `suzhou museum, szmuseum, szmuseum.com, www, www.szmuseum.com`
+- Route Count: `1`
+- Index File: `index/szmuseum.md`
 
 ## 深圳证券交易所
 - Namespace: `szse`

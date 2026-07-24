@@ -91,16 +91,16 @@
       "url": "rsshub://dykszx/news"
     },
     {
-      "description": "德阳人事考试网 考试新闻发布 (执（职）业资格、职称考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T02:19:22.169Z",
+      "description": "德阳人事考试网 考试新闻发布 (公务员考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T00:25:38.064Z",
       "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
-      "id": "161654936649409536",
+      "id": "161654225832322048",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(执（职）业资格、职称考试)",
+      "title": "考试新闻发布(公务员考试)",
       "type": "feed",
-      "url": "rsshub://dykszx/news/zyzc"
+      "url": "rsshub://dykszx/news/gwy"
     }
   ],
   "url": "www.dykszx.com"

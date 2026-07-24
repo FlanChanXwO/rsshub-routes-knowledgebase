@@ -52,12 +52,12 @@ _None_
   "topFeeds": [
     {
       "description": "LeetCode 每日一题题解 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T00:18:56.316Z",
+      "errorMessage": "502 \nAuthentication failed. Access denied.\n/leetcode/dailyquestion/solution/cn\n[POST] \"https://leetcode.cn/graphql/\": 403 Forbidden\n502 \n[POST] \"https://leetcode.cn/graphql/\": 403 Forbidden\n",
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/maximize-active-section-with-trade-ii/",
+      "siteUrl": "https://leetcode.cn/problems/number-of-unique-xor-triplets-i/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

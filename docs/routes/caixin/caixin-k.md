@@ -49,7 +49,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 51,
   "location": "k.ts",
   "maintainers": [
     "boypt"

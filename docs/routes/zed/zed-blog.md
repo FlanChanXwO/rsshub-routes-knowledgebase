@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 51,
   "location": "blog.ts",
   "maintainers": [
     "cscnk52"
@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Zed Industries - Blog - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T01:57:38.664Z",
+      "errorMessage": "[GET] \"https://zed.dev/blog/parallel-agents\": 404 Not Found\nFailed to fetch\n",
       "id": "148523846109257728",
       "image": null,
       "ownerUserId": null,

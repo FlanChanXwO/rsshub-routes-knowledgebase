@@ -97,7 +97,7 @@
     {
       "description": "新知 | 上下游新聞 - Powered by RSSHub",
       "errorAt": "2026-07-19T11:12:09.134Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.newsmarket.com.tw/blog/category/:knowledge\": 403 Forbidden\n",
       "id": "111389962417871873",
       "image": null,
       "ownerUserId": null,

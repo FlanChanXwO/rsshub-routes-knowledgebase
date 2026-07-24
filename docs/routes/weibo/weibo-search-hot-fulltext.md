@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6832,
+  "heat": 6831,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Never wonder what to read next! Check out these lists to find your next favorite book. - Powered by RSSHub",
-      "errorAt": "2026-07-22T05:27:11.043Z",
-      "errorMessage": "[GET] \"https://www.penguinrandomhouse.com/the-read-down/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 13.224.245.119:443, 13.224.245.26:443, 13.224.245.113:443, 13.224.245.61:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70364924065118208",
       "image": null,
       "ownerUserId": null,

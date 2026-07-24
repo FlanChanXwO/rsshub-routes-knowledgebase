@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/business/2026/07/19/chinas-mysterious-new-billionaires-are-conquering-the-world\": 403 Forbidden\n[GET] \"https://www.economist.com/the-americas/2026/07/19/brazils-beloved-payments-system-has-drawn-donald-trumps-ire\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/07/22/ukraines-new-military-commander-aims-to-fight-a-more-modern-war\": 403 Forbidden\n[GET] \"https://www.economist.com/europe/2026/07/22/ukraines-new-military-commander-aims-to-fight-a-more-modern-war\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active\": 403 Forbidden\n[GET] \"https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active\": 403 Forbidden\n[GET] \"https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/05/has-china-obtained-the-worlds-most-important-machine\": 403 Forbidden\n[GET] \"https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

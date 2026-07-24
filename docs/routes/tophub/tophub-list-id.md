@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 334,
+  "heat": 333,
   "location": "list.tsx",
   "maintainers": [
     "akynazh"

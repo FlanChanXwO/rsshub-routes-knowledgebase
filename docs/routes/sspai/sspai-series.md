@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 51,
+  "heat": 52,
   "location": "series.ts",
   "maintainers": [
     "HenryQW"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "少数派 -- 最新上架付费专栏 - Powered by RSSHub",
-      "errorAt": "2026-07-22T05:19:52.179Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55218960049839106",
       "image": null,
       "ownerUserId": null,

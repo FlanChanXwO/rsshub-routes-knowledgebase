@@ -94,7 +94,8 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -111,8 +112,8 @@
     },
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T00:58:12.178Z",
+      "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n",
       "id": "102293253660793856",
       "image": null,
       "ownerUserId": null,

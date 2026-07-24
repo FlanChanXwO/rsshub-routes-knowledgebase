@@ -24,12 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
+- `supportRadar`: true
 
 ## Radar
 ### Rule 1
@@ -45,12 +40,7 @@ _None_
   ],
   "example": "/csust/tggs",
   "features": {
-    "antiCrawler": false,
-    "requireConfig": false,
-    "requirePuppeteer": false,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
+    "supportRadar": true
   },
   "heat": 0,
   "location": "tggs.ts",
@@ -58,7 +48,6 @@ _None_
     "powerfullz"
   ],
   "name": "通告公示",
-  "parameters": {},
   "path": "/tggs",
   "radar": [
     {
@@ -69,7 +58,7 @@ _None_
     }
   ],
   "test": {
-    "code": 1
+    "code": 0
   },
   "topFeeds": [],
   "url": "www.csust.edu.cn/tggs.htm"

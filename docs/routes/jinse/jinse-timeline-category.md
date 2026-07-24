@@ -132,8 +132,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 头条 - Powered by RSSHub",
-      "errorAt": "2026-06-04T09:52:10.844Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'jump_url')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72573294615394304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

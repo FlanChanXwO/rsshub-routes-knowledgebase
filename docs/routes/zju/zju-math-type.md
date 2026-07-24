@@ -62,6 +62,9 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/math/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.math.zju.edu.cn"
 }

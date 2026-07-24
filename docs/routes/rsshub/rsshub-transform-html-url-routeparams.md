@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7546,
+  "heat": 7555,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -106,7 +106,7 @@ _None_
   "topFeeds": [
     {
       "description": "Proxy https://imnks.com/ - Powered by RSSHub",
-      "errorAt": "2026-07-21T05:48:46.954Z",
+      "errorAt": "2026-07-21T08:50:59.730Z",
       "errorMessage": "502 \nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fimnks.com%2F/item=article&itemTitle=span%5Bclass=entry-title%5D&itemLink=span%5Bclass=entry-title%5D+a&itemDesc=div%5Bclass*=entry-summary%5D&itemPubDate=div%5Bclass=entry-meta%5D+time&itemPubDateAttr=datetime\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n[GET] \"https://imnks.com/\": <no response> fetch failed (Hostname/IP does not match certificate's altnames: Host: imnks.com. is not in the cert's altnames: DNS:*.imnks.com)\n",
       "id": "68731140035191863",
       "image": null,

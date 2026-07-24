@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "欢迎来到实力至上主义的教室 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-22T16:37:18.580Z",
+      "errorMessage": "[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 Forbidden\n[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 Forbidden\n",
       "id": "171191130615603200",
       "image": null,
       "ownerUserId": null,

@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 602,
+  "heat": 601,
   "location": "category.ts",
   "maintainers": [
     "Gandum2077"

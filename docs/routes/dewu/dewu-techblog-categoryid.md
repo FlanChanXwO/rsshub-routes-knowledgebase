@@ -100,8 +100,8 @@
     },
     {
       "description": "得物技术博客 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-22T17:09:02.230Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "1170561477157715968",
       "image": null,
       "ownerUserId": null,
